@@ -1,0 +1,17 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/logo.png
+
+links:
+  - title: Why Smart Nation
+    collection: why-smart-nation
+  - title: What Is Smart Nation
+    collection: what-is-smart-nation
+  - title: How To Be Involved
+    collection: how-to-be-involved
+  - title: What's New
+    resource_room: true
