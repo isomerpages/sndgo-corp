@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Smart Nation Singapore
+description: Homepage of Singapore's Smart Nation Initaitive
 permalink: /
 notification: 
 sections:
