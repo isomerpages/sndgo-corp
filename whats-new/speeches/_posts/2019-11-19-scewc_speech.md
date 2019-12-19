@@ -1,15 +1,14 @@
+---
 layout: post
-title:  Smart City Expo World Congress 2019
+title: Smart City Expo World Congress 2019
 permalink: /whats-new/speeches/scewc19-speech
 ---
 SPEECH BY DR VIVIAN BALAKRISHNAN, MINISTER-IN-CHARGE OF THE SMART NATION INITIATIVE, REPUBLIC OF SINGAPORE, AT THE SMART CITY EXPO WORLD CONGRESS, BARCELONA, 19 NOVEMBER 2019
- 
- 
+
 1. Good Morning, I come from Singapore, a tiny island city-state. I am very glad to be back here in Barcelona. I congratulate Barcelona for the ninth edition of the Smart City Expo World Congress. Singapore has participated actively, we have taken ideas from here and implemented it back home, and it has made a profound difference.
- 
- 
+
 NATIONAL AI STRATEGY
- 
+
 2. Today, I want to share with you our approach to Artificial Intelligence (AI), and in particular, the strategy for a small city-state.
  
  
