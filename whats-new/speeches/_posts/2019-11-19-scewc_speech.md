@@ -11,9 +11,7 @@ NATIONAL AI STRATEGY
 
 2. Today, I want to share with you our approach to Artificial Intelligence (AI), and in particular, the strategy for a small city-state.
  
- 
 3. We believe that AI is a transformative technology. The fact that computers and systems can now see, hear, understand, and speak, is transformational. It will transform our economy and societies, and disrupt our politics. It will alter the nature of jobs, and the skills our people will need.
- 
  
 4. Consequently, we have decided that AI will define the next phase of our Smart Nation journey.
  
