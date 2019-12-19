@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Smart Nation and Digital Government Office
 locations:
   - title: Main Office
     address:
