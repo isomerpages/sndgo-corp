@@ -11,8 +11,8 @@ Got a question or need more help on reporting a government data incident? Check 
 - [I need help with reporting a government data incident.](#q4-how-do-i-report-a-government-data-incident)
 - [I have reported a government data incident. What should I do next?](#q9-what-should-i-do-after-reporting-a-government-data-incident)
 - [What is the difference between this government data incident reporting platform and the reporting platform by the Personal Data Protection Commission (PDPC)?](#q13-what-is-the-difference-between-this-government-data-reporting-platform-and-the-reporting-platform-by-the-personal-data-protection-commission-pdpc)
-- [Can I report an incident that involves other types of data?](#-q14.)
-- [Where can I report a cybersecurity incident?](#-q15.)
+- [Can I report an incident that involves other types of data?](#q14-can-i-report-an-incident-that-involves-other-types-of-data-eg-classified-data-or-business-related-data)
+- [Where can I report a cybersecurity incident?](#q15-where-can-i-report-a-cybersecurity-incident)
 
 #### **Q1. What is government data?**
 
