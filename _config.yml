@@ -9,9 +9,9 @@ collections:
     output: true
   our-smart-nation:
     output: true
-resources_name: media-hub
   report-data-incident:
     output: true
+resources_name: media-hub
 #  why-smart-nation:
 #    output: true
 #  what-is-smart-nation:
