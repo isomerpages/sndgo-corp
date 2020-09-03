@@ -3,7 +3,7 @@ title: Report Data Incident
 permalink: /report-data-incident/report-data-incident/
 ---
 
-## **\*NEW\* Government Data Incident Reporting Platform**
+### **\*NEW\* Government Data Incident Reporting Platform**
 
 Everyone in the community can play their part in strengthening and safeguarding government ICT (information and communications technology) systems, digital services, and data. Members of the public can now **report incidents involving any unauthorised disclosure or compromise of government data** on our government data incident reporting platform.
 
