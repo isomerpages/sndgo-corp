@@ -6,7 +6,7 @@ permalink: /faq/
 ### **Frequently Asked Questions**
 
 Got a question or need more help on reporting a government data incident? Check out our FAQs below.
-- [What is government data?](#-q1.) [What is a government data incident?](#-q2.)
+- [What is government data?](#q1.-what-is-government-data) [What is a government data incident?](#-q2.)
 - [I think I have detected a government data incident. What should I do?](#-q3.)
 - [I need help with reporting a government data incident.](#-q4.)
 - [I have reported a government data incident. What should I do next?](#-q9.)
