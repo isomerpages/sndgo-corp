@@ -11,6 +11,8 @@ collections:
     output: true
   report-data-incident:
     output: true
+  faq:
+    output: true
 resources_name: media-hub
 #  why-smart-nation:
 #    output: true
