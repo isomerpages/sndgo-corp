@@ -7,11 +7,22 @@
 logo: /images/logo.png
 
 links:
-  - title: Why Smart Nation
-    collection: why-smart-nation
-  - title: What Is Smart Nation
-    collection: what-is-smart-nation
-  - title: How To Be Involved
-    collection: how-to-be-involved
-  - title: What's New
+  - title: Building A Community
+    collection: building-a-community
+  - title: Future of Business
+    collection: future-of-business
+  - title: Our Smart Nation
+    collection: our-smart-nation
+  - title: Media Hub
     resource_room: true
+  - title: Report Data Incident
+    collection: report-data-incident
+    
+#  - title: Why Smart Nation
+#    collection: why-smart-nation
+#  - title: What Is Smart Nation
+#    collection: what-is-smart-nation
+#  - title: How To Be Involved
+#    collection: how-to-be-involved
+#  - title: What's New
+#    resource_room: true
