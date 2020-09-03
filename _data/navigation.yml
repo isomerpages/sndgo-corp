@@ -16,7 +16,12 @@ links:
   - title: Media Hub
     resource_room: true
   - title: Report Data Incident
-    collection: report-data-incident
+        url: //
+    sublinks:
+      - title: Report-
+        url: /media/
+      - title: FAQs
+        url: /faqs/
     
 #  - title: Why Smart Nation
 #    collection: why-smart-nation
