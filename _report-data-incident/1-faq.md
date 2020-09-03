@@ -6,7 +6,7 @@ permalink: /faq/
 ### **Frequently Asked Questions**
 
 Got a question or need more help on reporting a government data incident? Check out our FAQs below.
-- [What is government data?](#q1.-what-is-government-data) [What is a government data incident?](#-q2.)
+- [What is government data?](#q1-what-is-government-data) [What is a government data incident?](#-q2.)
 - [I think I have detected a government data incident. What should I do?](#-q3.)
 - [I need help with reporting a government data incident.](#-q4.)
 - [I have reported a government data incident. What should I do next?](#-q9.)
@@ -30,7 +30,7 @@ Some examples of a government data incident are:
 - The unintentional disclosure of data on a website due to a system error, and
 - The unauthorised movement (including copying, transfer and retrieval) of data by a hacker.
 
-[Return to TOP](###-frequently)
+[Return to TOP](#frequently-asked-questions)
 
 #### **Q3. What should I do when I have detected a government data incident?**
 
@@ -38,7 +38,7 @@ You should act responsibly and promptly report any suspected data incidents to s
 
 When making a report, please provide as many details as possible. For example, when and where the incident occurred; how you detected the incident; the steps you took after you detected the incident. These details would help us in our investigation, and allow us to swiftly respond to the data incident and take the necessary remedial steps.
 
-[Return to TOP](###-frequently)
+[Return to TOP](#frequently-asked-questions)
 
 #### **Q4. How do I report a government data incident?**
 
@@ -73,7 +73,7 @@ If your supporting document is in hardcopy, you may take a photo of it and attac
 
 You should still report the incident, and SNDGG will carry out the investigations to identify the affected agency. To help us identify the affected agency, please provide as many details as possible on the data incident.
 
-[Return to TOP](###-frequently)
+[Return to TOP](#frequently-asked-questions)
 
 #### **Q9. What should I do after reporting a government data incident?**
 
@@ -96,13 +96,13 @@ No, you will not be required to provide a police statement after reporting a gov
 
 Yes, you should receive an acknowledgement email within 1 working day of reporting a government data incident using the online form or via email. We will conduct our investigation and provide you with a status update within 15 working days of the receipt of your report.
 
-[Return to TOP](###-frequently)
+[Return to TOP](#frequently-asked-questions)
 
 #### **Q13. What is the difference between this government data reporting platform and the reporting platform by the Personal Data Protection Commission (PDPC)?**
 
 This government data incident reporting platform is meant for the reporting of data incidents which involve government data or Government agencies. PDPC’s reporting platform is meant for the reporting of data incidents which involve non-government entities.
 
-[Return to TOP](###-frequently)
+[Return to TOP](#frequently-asked-questions)
 
 #### **Q14. Can I report an incident that involves other types of data (e.g. classified data or business-related data)?**
 
@@ -113,7 +113,7 @@ Yes, please report any incident that involves any type of data that is in the po
 
 Please refer to Q1 above for the detailed definition of “government data”.
 
-[Return to TOP](###-frequently)
+[Return to TOP](#frequently-asked-questions)
 
 #### **Q15. Where can I report a cybersecurity incident?**
 
@@ -121,6 +121,6 @@ A cybersecurity incident is different from a data security incident. Cybersecuri
 
 You may report a cybersecurity incident under the Government Technology Agency’s Vulnerability Disclosure Programme (VDP). VDP encourages responsible reporting of suspected vulnerabilities or weaknesses in IT services, systems, resources and/or processes that may affect Government internet-accessible applications. Please click on this link to find out more about the VDP and report suspected vulnerabilities.
 
-[Return to TOP](###-frequently)
+[Return to TOP](#frequently-asked-questions)
 
 See more at: https://www.smartnation.gov.sg/report-data-incident/faq#govdata2
