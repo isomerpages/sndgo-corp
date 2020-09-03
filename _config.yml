@@ -3,13 +3,22 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 collections:
-  why-smart-nation:
+  building-a-community:
     output: true
-  what-is-smart-nation:
+  future-of-business:
     output: true
-  how-to-be-involved:
+  our-smart-nation:
     output: true
-resources_name: whats-new
+resources_name: media-hub
+  report-data-incident:
+    output: true
+#  why-smart-nation:
+#    output: true
+#  what-is-smart-nation:
+#    output: true
+#  how-to-be-involved:
+#    output: true
+#resources_name: whats-new
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
