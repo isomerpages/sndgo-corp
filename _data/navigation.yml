@@ -16,10 +16,10 @@ links:
   - title: Media Hub
     resource_room: true
   - title: Report Data Incident
-        url: //
+        url: /report-data-incident/report-data-incident/
     sublinks:
-      - title: Report-
-        url: /media/
+      - title: Report Data Incident
+        url: /report-data-incident/report-data-incident/
       - title: FAQs
         url: /faqs/
     
