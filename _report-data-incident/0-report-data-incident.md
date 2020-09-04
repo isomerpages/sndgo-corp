@@ -12,4 +12,7 @@ We look forward to working with you to strengthen the overall public sector data
 
 <a href="https://www.smartnation.gov.sg/report-data-incident/report-data-incident#GoToReportDataIncident" target="_blank"><img src="/images/reportdataincident-img-01.png"></a><br>
 
+&#10004
+
+
 - See more at: https://www.smartnation.gov.sg/report-data-incident/report-data-incident#GoToReportDataIncident
