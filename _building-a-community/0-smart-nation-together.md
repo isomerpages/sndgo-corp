@@ -5,7 +5,7 @@ permalink: /smart-nation-together/
 
 #### **\#SmartNationTogether**
 
-<banner here>
+"banner here"
 
 Welcome to the #SmartNationTogether online channel! Whether you are interested in learning the basics of coding, video conferencing, or simply want to hear about the latest technological trends from subject experts, we have something for you! Check out our programme schedules below:
 
@@ -13,7 +13,7 @@ Welcome to the #SmartNationTogether online channel! Whether you are interested i
  
 Children can sign up for 'TECH@PLAY' and 'FUN WITH TECH' series to participate in interactive hands-on workshops to learn different tech concepts such as coding, 3D printing and artificial intelligence. Interested to contribute your ideas and deep dive into the latest tech matters? Be sure not to miss our 'TECH UPSIZED' series, curated for youths.
 
-<View Programmes Button here>
+"View Programmes Button here"
 
 #### **For working adults**
 
@@ -21,7 +21,7 @@ Keep up with what’s new in digital government services and digital workplace t
 
 Co-create digital government services with us through focus group discussions on SCOPE 'LIVE'.
 
-<View Programmes Button here>
+"View Programmes Button here"
   
 #### **For seniors**
  
@@ -29,4 +29,4 @@ Learn how digital government services can help you in your daily lives with the 
 
 Want some one-to-one advice on how to use your smart phone effectively? Join the 'Digital Clinics' and 'Silver Infocomm Junction' lessons!
 
-<View Programmes Button here>
+"View Programmes Button here"
