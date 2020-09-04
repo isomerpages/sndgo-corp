@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  Sample post
-permalink: /media-hub/accolades-&-awards/test1
+permalink: /media-hub/accolades-&-awards/accolades-&-awards1
 ---
 Lorem ipsum sit amet
