@@ -20,16 +20,22 @@ permalink: /faq-new/
 						</div>				
 						<div class="tab">
 							<a name="bodytoning101"></a>  
-							<input type="checkbox" id="chck2020_2" />
-							<label class="tab-label" for="chck2020_2">Will there be any live audience for NDP?</label>
-							<div class="tab-content"><p>In view of the current COVID-19 pandemic and with the health and safety of Singaporeans in mind, we will not be holding ticketed shows this year. Instead, many NDP elements will be brought into the heartlands and close to homes. Singaporeans can also watch the parade and show live on TV and internet platforms.</p>
+							<input type="checkbox" id="chck_Q2" />
+							<label class="tab-label" for="chck_Q2">Q2. What is a government data incident?</label>
+							<div class="tab-content"><p>A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data. 
+
+Some examples of a government data incident are:</p><ul>
+<li>The sending of data via email to unintended recipients</li>
+<li>The unintentional disclosure of data on a website due to a system error, and</li>
+<li>The unauthorised movement (including copying, transfer and retrieval) of data by a hacker.</li></ul>
 							</div>
 						</div>
 						<div class="tab">
 							<a name="cardiopilatesworkout"></a>  
-							<input type="checkbox" id="chck2020_3" />
-							<label class="tab-label" for="chck2020_3">Will we be having a new NDP song this year?</label>
-							<div class="tab-content"><p>Yes, the theme song for NDP2020 is titled "Everything I Am" sung by Nathan Hartono.</p>
+							<input type="checkbox" id="chck_Q3" />
+							<label class="tab-label" for="chck_Q3">Q3. What should I do when I have detected a government data incident?</label>
+							<div class="tab-content"><p>You should act responsibly and promptly report any suspected data incidents to safeguard data from unauthorised use or loss. Please be mindful to conduct yourself in accordance with applicable laws and regulations, and do not make a false report.</p>
+<p>When making a report, please provide as many details as possible. For example, when and where the incident occurred; how you detected the incident; the steps you took after you detected the incident. These details would help us in our investigation, and allow us to swiftly respond to the data incident and take the necessary remedial steps.</p>
 							</div>					
 						</div>
 						<div class="tab">
@@ -68,23 +74,7 @@ Happy National Day!</p>
 		</div>
 	</div>
 
-#### **Q1. What is government data?**
 
-“Government data” refers to data that is in the possession or custody of the Government. Such data is important for the Government to discharge its functions, and could be collected and used by public agencies, or collected and used by their contracted third-party vendors. It includes:
-- Personal data (e.g. income data for the purposes of calculating income tax)
-- Business data (e.g. financial statements), and
-- Classified data (e.g. policy documents).
-
-#### **Q2. What is a government data incident?**
-
-A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data. 
-
-Some examples of a government data incident are:
-- The sending of data via email to unintended recipients
-- The unintentional disclosure of data on a website due to a system error, and
-- The unauthorised movement (including copying, transfer and retrieval) of data by a hacker.
-
-[Return to TOP](#frequently-asked-questions)
 
 #### **Q3. What should I do when I have detected a government data incident?**
 
