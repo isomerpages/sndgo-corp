@@ -42,10 +42,10 @@ permalink: /faq-new/
 <li>Complete the 'Government Data Incident Reporting Form' located on the Smart Nation website</li>
 <li>Email Report_Data_Incident@tech.gov.sg with details of the suspected data incident</li>
 <li>Call the Government Data Security Contact Centre hotline at +65 63830117.</li></ul>
-Operation Hours for Hotline:<ul>
-<li>8.30am – 6.00pm SGT (Mondays to Thursdays)</li>
-<li>8.30am – 5.30pm SGT (Fridays)</li>
-<li>Closed on Weekends and Public Holidays.</li></ul><p>
+Operation Hours for Hotline:<br><br>
+8.30am – 6.00pm SGT (Mondays to Thursdays)
+8.30am – 5.30pm SGT (Fridays)
+Closed on Weekends and Public Holidays.</p>
 							</div>					
 						</div>
 						<div class="tab">
@@ -67,31 +67,34 @@ Operation Hours for Hotline:<ul>
 </p><p>If your supporting document is in hardcopy, you may take a photo of it and attach it when submitting the incident reporting form.</p>
 							</div>					
 						</div>
+				  		<div class="tab">
+							<input type="checkbox" id="chck_Q8" />
+							<label class="tab-label" for="chck_Q8">Q8. What should I do if I am unsure of which agency is affected by the incident?</label>
+							<div class="tab-content"><p>You should still report the incident, and SNDGG will carry out the investigations to identify the affected agency. To help us identify the affected agency, please provide as many details as possible on the data incident.</p>
+							</div>					
+						</div>
+						<div class="tab">
+							<input type="checkbox" id="chck_Q9" />
+							<label class="tab-label" for="chck_Q9">Q9. What should I do after reporting a government data incident?</label>
+							<div class="tab-content"><p>You should immediately dispose of all evidence and data appropriately after submitting them to SNDGG. Thereafter, SNDGG will carry out an investigation and no further action is required on your part.</p>
+							</div>					
+						</div>
+						<div class="tab">
+							<input type="checkbox" id="chck_Q10" />
+							<label class="tab-label" for="chck_Q10">Q10. What should I do with the evidence after submitting it with the report?</label>
+							<div class="tab-content"><p>Upon submitting the evidence to SNDGG, please immediately dispose of all evidence in an appropriate manner. These are some common disposal methods:<ul>
+<li>For digital data that you have received unintentionally via email, please delete all copies of the email and any attachment that came with the email</li>
+<li>For any screenshot of system error, please delete them after submission</li>
+<li>For hardcopy data that you received unintentionally via mail, SNDGG will advise you on the appropriate way of disposal</li></ul>
+If you are unsure about how to dispose the evidence, please call us at +65 63830117.</p>
+							</div>					
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 
-
-#### **Q8. What should I do if I am unsure of which agency is affected by the incident?**
-
-You should still report the incident, and SNDGG will carry out the investigations to identify the affected agency. To help us identify the affected agency, please provide as many details as possible on the data incident.
-
-[Return to TOP](#frequently-asked-questions)
-
-#### **Q9. What should I do after reporting a government data incident?**
-
-You should immediately dispose of all evidence and data appropriately after submitting them to SNDGG. Thereafter, SNDGG will carry out an investigation and no further action is required on your part.  
-
-#### **Q10. What should I do with the evidence after submitting it with the report?**
-
-Upon submitting the evidence to SNDGG, please immediately dispose of all evidence in an appropriate manner. These are some common disposal methods:
-- For digital data that you have received unintentionally via email, please delete all copies of the email and any attachment that came with the email
-- For any screenshot of system error, please delete them after submission
-- For hardcopy data that you received unintentionally via mail, SNDGG will advise you on the appropriate way of disposal
-
-If you are unsure about how to dispose the evidence, please call us at +65 63830117.
 
 #### **Q11. Will I need to provide a police statement after reporting a government data incident?**
 
