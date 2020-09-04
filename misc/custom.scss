@@ -550,3 +550,166 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
   }
+  .tabs.financialLiteracy {
+    .tab-label {
+      background:$secondary;
+      &:hover {
+        background: $secondary;
+      }    
+    }
+    .tab-close {
+      background:$secondary;
+      &:hover {
+        background: $secondary;
+      }
+    }
+    input:checked {
+      + .tab-label {
+        background: $secondary;
+        color: #000000;
+      }
+    }
+  }
+  .tabs.lifelongLearning {
+    .tab-label {
+      background: $secondary;
+      &:hover {
+        background: $secondary;
+      }    
+    }
+    .tab-close {
+      background: $secondary;
+      &:hover {
+        background: $secondary;
+      }
+    }
+    input:checked {
+      + .tab-label {
+        background: $secondary;
+        color: #000000;
+      }
+    }
+  }
+  .tbl {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0px auto;
+    td {
+      padding: 10px 5px;
+      border-style: solid;
+      border-width: 0px;
+      overflow: hidden;
+      word-break: normal;
+    }
+    th {
+      font-weight: normal;
+      padding: 10px 5px;
+      border-style: solid;
+      border-width: 0px;
+      overflow: hidden;
+      word-break: normal;
+    }
+    .tbl-shortdesc {
+      border-color: inherit;
+      text-align: center;
+      vertical-align: middle;
+    }
+    .tbl-subhdr {
+      font-weight: bold;
+      border-color: inherit;
+      text-align: left;
+      vertical-align: middle;
+    }
+    .tbl-conval {
+      text-align: left;
+      vertical-align: top;
+    }
+  }
+  table.tblsimpresp { 
+    border-collapse: collapse; 
+    margin: 0; 
+    padding: 0; 
+    width: 100%; 
+    table-layout: fixed; 
+  }
+  .img-desc-container{
+    display: flex; 
+    flex-wrap: nowrap;
+    margin-top: 5px;
+    flex-direction: row;
+    .img-container-left{
+      width: 40%;
+      margin: 0 10px 0 0;
+    }
+    .desc-container-right{
+      width: 60%; 
+      margin: 0 0 0 10px;
+    }
+    img{
+      width: 100%;
+    }
+  }
+}
+
+/* Accordion styles */
+
+@media screen and (max-width: 767px) {
+  .courseAccordion {
+    .tbl {
+      width: 100% !important;
+      col {
+        width: auto !important;
+      }
+    }
+    .tbl-wrap {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin: auto 0px;
+    }
+    .tblsimpresp { 
+      border: 0; 
+      thead { 
+        border: none; 
+        clip: rect(0 0 0 0); 
+        height: 1px; 
+        margin: -1px; 
+        overflow: hidden; 
+        padding: 0; 
+        position: absolute; 
+        width: 1px; 
+      }
+      tr { 
+        display: block; 
+        margin-bottom: .625em; 
+        border-bottom: 1px solid #dbdbdb;
+        &:last-child { border-bottom: 0; }
+      }  
+      td { 
+        display: block; 
+        font-size: 1em; 
+        text-align: left; 
+        &::before {
+          content: attr(data-label); 
+          display: inline-block; 
+          font-weight: bold;
+          min-width: 5em;
+        } 
+      }    
+    }
+    .img-desc-container{
+      flex-direction: column;
+      .img-container-left{
+        width: 100%;
+        margin: 0 10px 0 0;
+      }
+      .desc-container-right{
+        width: 100%; 
+        margin: 0 0 0 10px;
+      }      
+      img{
+        width: 60%;
+      }
+    }
+  }
+}
+
