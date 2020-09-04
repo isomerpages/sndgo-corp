@@ -28,4 +28,15 @@ We look forward to working with you to strengthen the overall public sector data
  
 Have a question or need more help? Refer to our [frequently asked questions (FAQs)](https://www.smartnation.gov.sg/report-data-incident/faq).
 
+### **Note:**
+**The Smart Nation & Digital Government Group (SNDGG) will:**
+- Act as coordinator between you and the relevant public sector agency or agencies (“Stakeholders”) involved in the suspected data incident.
+- Acknowledge receipt of your suspected data incident report and notify the Stakeholders of the suspected data incident, generally within 1 working day from our receipt of your report.
+- Work with you and the Stakeholders to resolve any confirmed data incidents.
+
+**Please note that SNDGG will not in any way:**
+- Accept or assume any responsibility for the contents of any suspected data incident report submitted by you, not shall our acknowledgement or processing of such report constitute any kind of acceptance or endorsement of the contents therein.
+- Be obliged to consult you on any action taken by SNDGG and/or any Stakeholders in relation to the suspected or confirmed data incident, including the publication of any media or public statement that we and/or any Stakeholders may decide to publish or release in relation to the suspected or confirmed data incident.
+- Provide you with any cash reward or financial incentive of any kind for the detection of confirmed incidents involving government data.
+
 
