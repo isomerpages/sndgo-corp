@@ -4,9 +4,9 @@ permalink: /our-smart-nation/how/initiatives/
 breadcrumb: Initiatives
 third_nav_title: "How"
 ---
-<h1><b>Strategic National Projects</b></h1><br>
+### **Strategic National Projects**
 To drive pervasive adoption of digital and smart technologies throughout Singapore, we have identified key Strategic National Projects, which are key enablers in our Smart Nation drive.
-
+<br>
 <div class="row">  
   <div class="column-c" > 
     <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/codex" target="_blank"><img src="/images/codex2.jpg"></a><br>
