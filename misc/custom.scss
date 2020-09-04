@@ -383,12 +383,12 @@ $desktop: 960px + (2 * $gap) !default;
 	padding-top: 5px;
 	margin-bottom: 8px;
 }
-/*height: 6.5rem;*/
-.image {height: 100%;
+
+.image {height: 6.5rem;
 	margin-top: 5px;
 	margin-bottom: 5px;
-	img { width: auto;
-	height: 100%;
+	img { width: 100%;
+	height: auto;
 	}
 }
 
