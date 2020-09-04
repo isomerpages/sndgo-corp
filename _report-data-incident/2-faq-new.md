@@ -21,9 +21,9 @@ permalink: /faq-new/
 						<div class="tab">
 							<input type="checkbox" id="chck_Q2" />
 							<label class="tab-label" for="chck_Q2">Q2. What is a government data incident?</label>
-							<div class="tab-content"><p>A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data. 
+							<div class="tab-content">A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data. 
 
-Some examples of a government data incident are:</p><ul>
+Some examples of a government data incident are:<br><ul>
 <li>The sending of data via email to unintended recipients</li>
 <li>The unintentional disclosure of data on a website due to a system error, and</li>
 <li>The unauthorised movement (including copying, transfer and retrieval) of data by a hacker.</li></ul>
