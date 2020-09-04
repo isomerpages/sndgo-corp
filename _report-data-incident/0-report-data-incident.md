@@ -2,6 +2,7 @@
 title: Report Data Incident
 permalink: /report-data-incident/report-data-incident/
 ---
+![1](/images/report-data-incident.jpg)
 
 ### **\*NEW\* Government Data Incident Reporting Platform**
 
