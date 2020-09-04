@@ -10,4 +10,6 @@ Everyone in the community can play their part in strengthening and safeguarding 
 
 We look forward to working with you to strengthen the overall public sector data security regime. 
 
+<a href="https://www.smartnation.gov.sg/report-data-incident/report-data-incident#GoToReportDataIncident" target="_blank"><img src="/images/reportdataincident-img-01.png"></a><br>
+
 - See more at: https://www.smartnation.gov.sg/report-data-incident/report-data-incident#GoToReportDataIncident
