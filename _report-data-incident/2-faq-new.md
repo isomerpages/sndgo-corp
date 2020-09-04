@@ -47,10 +47,9 @@ Some examples of a government data incident are:<br><ul>
 							</div>					
 						</div>
 						<div class="tab">
-							<input type="checkbox" id="chck2020_5" />
-							<label class="tab-label" for="chck2020_5">Should the COVID-19 situation improve, will the NDP EXCO consider holding ticketed rehearsal shows (e.g. NE Shows, Previews)?</label>
-							<div class="tab-content"><p>The NDP EXCO is working towards one show on 9 August. The preceding parades and shows will be internal rehearsals and will not have any spectators. 
-</p>
+							<input type="checkbox" id="chck_Q5" />
+							<label class="tab-label" for="chck_Q5">Q5. How soon should I report a government data incident after I have detected it?</label>
+							<div class="tab-content">You should report any detected incident as soon as practically possible. This would allow us to promptly take action to prevent any further compromise to the data.
 							</div>					
 						</div>
 						<div class="tab">
@@ -72,9 +71,6 @@ Happy National Day!</p>
 		</div>
 	</div>
 
-#### **Q5. How soon should I report a government data incident after I have detected it?**
-
-You should report any detected incident as soon as practically possible. This would allow us to promptly take action to prevent any further compromise to the data.
 
 #### **Q6. What should I do if I am unsure if an incident constitutes as a government data incident?**
 
