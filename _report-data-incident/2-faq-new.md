@@ -4,7 +4,7 @@ permalink: /faq-new/
 ---
 
 <div class="row">
-		<div class="col is-8 is-offset-2 print-content"><h3 id="frequently-asked-questions"><strong>Frequently Asked Questions</strong></h3>
+	<div class="col is-8 is-offset-2 print-content"><h3 id="frequently-asked-questions"><strong>Frequently Asked Questions</strong></h3>
 		<div class="courseAccordion">
 			<div class="row">
 	  			<div class="col">
@@ -42,10 +42,10 @@ permalink: /faq-new/
 <li>Complete the 'Government Data Incident Reporting Form' located on the Smart Nation website</li>
 <li>Email Report_Data_Incident@tech.gov.sg with details of the suspected data incident</li>
 <li>Call the Government Data Security Contact Centre hotline at +65 63830117.</li></ul>
-Operation Hours for Hotline:<br><br>
-8.30am – 6.00pm SGT (Mondays to Thursdays)
-8.30am – 5.30pm SGT (Fridays)
-Closed on Weekends and Public Holidays.</p>
+</p><p>Operation Hours for Hotline:
+<br><br>8.30am – 6.00pm SGT (Mondays to Thursdays)
+<br>8.30am – 5.30pm SGT (Fridays)
+<br>Closed on Weekends and Public Holidays.</p>
 							</div>					
 						</div>
 						<div class="tab">
@@ -85,8 +85,43 @@ Closed on Weekends and Public Holidays.</p>
 							<div class="tab-content"><p>Upon submitting the evidence to SNDGG, please immediately dispose of all evidence in an appropriate manner. These are some common disposal methods:<ul>
 <li>For digital data that you have received unintentionally via email, please delete all copies of the email and any attachment that came with the email</li>
 <li>For any screenshot of system error, please delete them after submission</li>
-<li>For hardcopy data that you received unintentionally via mail, SNDGG will advise you on the appropriate way of disposal</li></ul>
+<li>For hardcopy data that you received unintentionally via mail, SNDGG will advise you on the appropriate way of disposal</li></ul></p><p>
 If you are unsure about how to dispose the evidence, please call us at +65 63830117.</p>
+							</div>					
+						</div>
+						<div class="tab">
+							<input type="checkbox" id="chck_Q11" />
+							<label class="tab-label" for="chck_Q11">Q11. Will I need to provide a police statement after reporting a government data incident?</label>
+							<div class="tab-content"><p>No, you will not be required to provide a police statement after reporting a government data incident. However, SNDGG may contact you via email or phone if we require any clarifications on the information you provided.</p>
+							</div>					
+						</div>
+						<div class="tab">
+							<input type="checkbox" id="chck_Q12" />
+							<label class="tab-label" for="chck_Q12">Q12. Will I receive any follow up reply after reporting a government data incident?</label>
+							<div class="tab-content"><p>Yes, you should receive an acknowledgement email within 1 working day of reporting a government data incident using the online form or via email. We will conduct our investigation and provide you with a status update within 15 working days of the receipt of your report.</p>
+							</div>					
+						</div>
+						<div class="tab">
+							<input type="checkbox" id="chck_Q13" />
+							<label class="tab-label" for="chck_Q13">Q13. What is the difference between this government data reporting platform and the reporting platform by the Personal Data Protection Commission (PDPC)?</label>
+							<div class="tab-content"><p>This government data incident reporting platform is meant for the reporting of data incidents which involve government data or Government agencies. PDPC’s reporting platform is meant for the reporting of data incidents which involve non-government entities.</p>
+							</div>					
+						</div>
+						<div class="tab">
+							<input type="checkbox" id="chck_Q14" />
+							<label class="tab-label" for="chck_Q14">Q14. Can I report an incident that involves other types of data (e.g. classified data or business-related data)?</label>
+							<div class="tab-content"><p>Yes, please report any incident that involves any type of data that is in the possession or control of the Government. Such data include:<ul>
+<li>Personal data (e.g. income data for the purposes of calculating income tax)</li>
+<li>Business data (e.g. financial statements), and</li> 
+<li>Classified data (e.g. policy documents).</li></ul></p><p>
+Please refer to Q1 above for the detailed definition of “government data”.</p>
+							</div>					
+						</div>
+						<div class="tab">
+							<input type="checkbox" id="chck_Q15" />
+							<label class="tab-label" for="chck_Q15">Q15. Where can I report a cybersecurity incident?</label>
+							<div class="tab-content"><p>A cybersecurity incident is different from a data security incident. Cybersecurity incidents refer to attacks on IT systems or websites that affect the confidentiality, integrity and availability of systems or websites. Data security incidents, or government data incidents, refer to the unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, government data.
+<br><br>You may report a cybersecurity incident under the Government Technology Agency’s Vulnerability Disclosure Programme (VDP). VDP encourages responsible reporting of suspected vulnerabilities or weaknesses in IT services, systems, resources and/or processes that may affect Government internet-accessible applications. Please click on this link to find out more about the VDP and report suspected vulnerabilities.</p>
 							</div>					
 						</div>
 					</div>
@@ -94,37 +129,4 @@ If you are unsure about how to dispose the evidence, please call us at +65 63830
 			</div>
 		</div>
 	</div>
-
-
-#### **Q11. Will I need to provide a police statement after reporting a government data incident?**
-
-No, you will not be required to provide a police statement after reporting a government data incident. However, SNDGG may contact you via email or phone if we require any clarifications on the information you provided.
-
-#### **Q12. Will I receive any follow up reply after reporting a government data incident?**
-
-Yes, you should receive an acknowledgement email within 1 working day of reporting a government data incident using the online form or via email. We will conduct our investigation and provide you with a status update within 15 working days of the receipt of your report.
-
-[Return to TOP](#frequently-asked-questions)
-
-#### **Q13. What is the difference between this government data reporting platform and the reporting platform by the Personal Data Protection Commission (PDPC)?**
-
-This government data incident reporting platform is meant for the reporting of data incidents which involve government data or Government agencies. PDPC’s reporting platform is meant for the reporting of data incidents which involve non-government entities.
-
-[Return to TOP](#frequently-asked-questions)
-
-#### **Q14. Can I report an incident that involves other types of data (e.g. classified data or business-related data)?**
-
-Yes, please report any incident that involves any type of data that is in the possession or control of the Government. Such data include:
-- Personal data (e.g. income data for the purposes of calculating income tax)
-- Business data (e.g. financial statements), and 
-- Classified data (e.g. policy documents).
-
-Please refer to Q1 above for the detailed definition of “government data”.
-
-[Return to TOP](#frequently-asked-questions)
-
-#### **Q15. Where can I report a cybersecurity incident?**
-
-A cybersecurity incident is different from a data security incident. Cybersecurity incidents refer to attacks on IT systems or websites that affect the confidentiality, integrity and availability of systems or websites. Data security incidents, or government data incidents, refer to the unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, government data.
-
-You may report a cybersecurity incident under the Government Technology Agency’s Vulnerability Disclosure Programme (VDP). VDP encourages responsible reporting of suspected vulnerabilities or weaknesses in IT services, systems, resources and/or processes that may affect Government internet-accessible applications. Please click on this link to find out more about the VDP and report suspected vulnerabilities.
+</div>
