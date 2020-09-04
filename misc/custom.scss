@@ -384,11 +384,11 @@ $desktop: 960px + (2 * $gap) !default;
 	margin-bottom: 8px;
 }
 
-.image { height: 6.5rem;
-	margin-top: 5px;
+/*height: 6.5rem;*/
+.image {margin-top: 5px;
 	margin-bottom: 5px;
 	img { max-width: 100%;
-	height: 100%;
+	height: auto;
 	}
 }
 
