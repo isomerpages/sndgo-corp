@@ -54,7 +54,9 @@ If the form below is not loaded, you can also fill it in at [https://go.gov.sg/D
 <u>Operation Hours for Hotline:</u>
 
 8.30am – 6.00pm SGT (Mondays to Thursdays)
+
 8.30am – 5.30pm SGT (Fridays)
+
 Closed on Weekends and Public Holidays
 
 
