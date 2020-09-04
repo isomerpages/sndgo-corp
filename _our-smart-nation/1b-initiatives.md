@@ -45,7 +45,7 @@ To drive pervasive adoption of digital and smart technologies throughout Singapo
   </div>
   
   <div class="column-c">  
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/smart-urban-mobility" target="_blank"><img src="/images/smart-urban-mobility"></a><br>
+    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/smart-urban-mobility" target="_blank"><img src="/images/smart-urban-mobility.jpg"></a><br>
     <div class="header"><b>Smart Urban Mobility</b></div><br>
     <div class="para">Leveraging data and digital technologies, including Artificial Intelligence and autonomous vehicles, to enhance public transport.</div>         
   </div>
