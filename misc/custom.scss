@@ -383,9 +383,9 @@ $desktop: 960px + (2 * $gap) !default;
 	padding-top: 5px;
 	margin-bottom: 8px;
 }
-
 /*height: 6.5rem;*/
-.image {margin-top: 5px;
+.image {height: auto;
+	margin-top: 5px;
 	margin-bottom: 5px;
 	img { max-width: 100%;
 	height: auto;
