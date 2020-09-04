@@ -19,7 +19,6 @@ permalink: /faq-new/
 							</div>										
 						</div>				
 						<div class="tab">
-							<a name="bodytoning101"></a>  
 							<input type="checkbox" id="chck_Q2" />
 							<label class="tab-label" for="chck_Q2">Q2. What is a government data incident?</label>
 							<div class="tab-content"><p>A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data. 
@@ -31,7 +30,6 @@ Some examples of a government data incident are:</p><ul>
 							</div>
 						</div>
 						<div class="tab">
-							<a name="cardiopilatesworkout"></a>  
 							<input type="checkbox" id="chck_Q3" />
 							<label class="tab-label" for="chck_Q3">Q3. What should I do when I have detected a government data incident?</label>
 							<div class="tab-content"><p>You should act responsibly and promptly report any suspected data incidents to safeguard data from unauthorised use or loss. Please be mindful to conduct yourself in accordance with applicable laws and regulations, and do not make a false report.</p>
@@ -39,14 +37,12 @@ Some examples of a government data incident are:</p><ul>
 							</div>					
 						</div>
 						<div class="tab">
-							<a name="cardiopilatesworkout"></a>  
 							<input type="checkbox" id="chck2020_4" />
 							<label class="tab-label" for="chck2020_4">Why was The Star Theatre chosen as the Show venue?</label>
 							<div class="tab-content"><p>We decided to move away from the Float as the revised NDP2020 show concept did not require mass performances in a large outdoor location. The NDP EXCO studied various options to assess their suitability to hold a Show that could fit the scale and concept that we wanted. The Star Theatre was chosen amongst other studio options as it was assessed to have the most suitable stage, technical equipment and supporting facilities. </p>
 							</div>					
 						</div>
 						<div class="tab">
-							<a name="cardiopilatesworkout"></a>  
 							<input type="checkbox" id="chck2020_5" />
 							<label class="tab-label" for="chck2020_5">Should the COVID-19 situation improve, will the NDP EXCO consider holding ticketed rehearsal shows (e.g. NE Shows, Previews)?</label>
 							<div class="tab-content"><p>The NDP EXCO is working towards one show on 9 August. The preceding parades and shows will be internal rehearsals and will not have any spectators. 
@@ -54,14 +50,12 @@ Some examples of a government data incident are:</p><ul>
 							</div>					
 						</div>
 						<div class="tab">
-							<a name="cardiopilatesworkout"></a>  
 							<input type="checkbox" id="chck2020_6" />
 							<label class="tab-label" for="chck2020_6">How will you prevent public congregation at the various locations (e.g. Padang, The Star PAC, along the Mobile Column routes, firework sites)?</label>
 							<div class="tab-content"><p>Safety is our priority and we will work with various stakeholders such as the Town Councils to disseminate advisories ahead of National Day, to remind Singaporeans not to congregate in a large group. We will also have ambassadors on the ground to remind Singaporeans. Personnel from the SAF and Home Team will also be deployed on the ground for crowd control. </p>
 							</div>					
 						</div>
 				  		<div class="tab">
-							<a name="cardiopilatesworkout"></a>  
 							<input type="checkbox" id="chck2020_7" />
 							<label class="tab-label" for="chck2020_7">How do I collect my Singapore Together Pack? </label>
 							<div class="tab-content"><p>The NDP2020 Executive Committee would like to thank Singapore residents for their strong support shown for the NDP2020 Singapore Together Packs. Please note that collection of the Singapore Together Pack has concluded. <br /> <br />
