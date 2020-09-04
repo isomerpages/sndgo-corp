@@ -1,6 +1,6 @@
 ---
 title: Business Benefits
-permalink: /building-a-community/business-benefits/
+permalink: /future-of-business/business-benefits/
 ---
 
 #### **\#Business Benefits**
