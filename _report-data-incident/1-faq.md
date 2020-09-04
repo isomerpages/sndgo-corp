@@ -122,5 +122,3 @@ A cybersecurity incident is different from a data security incident. Cybersecuri
 You may report a cybersecurity incident under the Government Technology Agency’s Vulnerability Disclosure Programme (VDP). VDP encourages responsible reporting of suspected vulnerabilities or weaknesses in IT services, systems, resources and/or processes that may affect Government internet-accessible applications. Please click on this link to find out more about the VDP and report suspected vulnerabilities.
 
 [Return to TOP](#frequently-asked-questions)
-
-See more at: https://www.smartnation.gov.sg/report-data-incident/faq#govdata2
