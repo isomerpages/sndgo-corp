@@ -1,6 +1,6 @@
 ---
 title: Smart Nation Together
-permalink: /smart-nation-together/
+permalink: /building-a-community/smart-nation-together/
 ---
 
 #### **\#SmartNationTogether**
