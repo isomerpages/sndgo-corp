@@ -37,9 +37,13 @@ Some examples of a government data incident are:</p><ul>
 							</div>					
 						</div>
 						<div class="tab">
-							<input type="checkbox" id="chck2020_4" />
-							<label class="tab-label" for="chck2020_4">Why was The Star Theatre chosen as the Show venue?</label>
-							<div class="tab-content"><p>We decided to move away from the Float as the revised NDP2020 show concept did not require mass performances in a large outdoor location. The NDP EXCO studied various options to assess their suitability to hold a Show that could fit the scale and concept that we wanted. The Star Theatre was chosen amongst other studio options as it was assessed to have the most suitable stage, technical equipment and supporting facilities. </p>
+							<input type="checkbox" id="chck_Q4" />
+							<label class="tab-label" for="chck_Q4">Q4. How do I report a government data incident?</label>
+							<div class="tab-content"><p>There are three ways in which you can report a government data incident:</p><ul>
+<li>Complete the 'Government Data Incident Reporting Form' located on the Smart Nation website</li>
+<li>Email Report_Data_Incident@tech.gov.sg with details of the suspected data incident</li>
+<li>Call the Government Data Security Contact Centre hotline at +65 63830117.</li></ul>
+<br><u>Operation Hours for Hotline:</u><br>8.30am – 6.00pm SGT (Mondays to Thursdays)<br>8.30am – 5.30pm SGT (Fridays)<br>Closed on Weekends and Public Holidays.
 							</div>					
 						</div>
 						<div class="tab">
@@ -67,31 +71,6 @@ Happy National Day!</p>
 			</div>
 		</div>
 	</div>
-
-
-
-#### **Q3. What should I do when I have detected a government data incident?**
-
-You should act responsibly and promptly report any suspected data incidents to safeguard data from unauthorised use or loss. Please be mindful to conduct yourself in accordance with applicable laws and regulations, and do not make a false report.
-
-When making a report, please provide as many details as possible. For example, when and where the incident occurred; how you detected the incident; the steps you took after you detected the incident. These details would help us in our investigation, and allow us to swiftly respond to the data incident and take the necessary remedial steps.
-
-[Return to TOP](#frequently-asked-questions)
-
-#### **Q4. How do I report a government data incident?**
-
-There are three ways in which you can report a government data incident:
-- Complete the 'Government Data Incident Reporting Form' located on the Smart Nation website
-- Email Report_Data_Incident@tech.gov.sg with details of the suspected data incident
-- Call the Government Data Security Contact Centre hotline at +65 63830117.
-
-Operation Hours for Hotline:
-
-8.30am – 6.00pm SGT (Mondays to Thursdays)
-
-8.30am – 5.30pm SGT (Fridays)
-
-Closed on Weekends and Public Holidays
 
 #### **Q5. How soon should I report a government data incident after I have detected it?**
 
