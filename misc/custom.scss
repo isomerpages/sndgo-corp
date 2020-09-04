@@ -652,8 +652,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 /* Accordion styles */
-
-@media screen and (max-width: 767px) {
+//767px
+@media screen and (max-width: 100%) {
   .courseAccordion {
     .tbl {
       width: 100% !important;
