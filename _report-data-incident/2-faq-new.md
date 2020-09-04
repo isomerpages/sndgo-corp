@@ -21,8 +21,7 @@ permalink: /faq-new/
 						<div class="tab">
 							<input type="checkbox" id="chck_Q2" />
 							<label class="tab-label" for="chck_Q2">Q2. What is a government data incident?</label>
-							<div class="tab-content"><p>A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data.</p>
-<p>
+							<div class="tab-content"><p>A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data.<br>
 Some examples of a government data incident are:<ul>
 <li>The sending of data via email to unintended recipients</li>
 <li>The unintentional disclosure of data on a website due to a system error, and</li>
@@ -32,8 +31,8 @@ Some examples of a government data incident are:<ul>
 						<div class="tab">
 							<input type="checkbox" id="chck_Q3" />
 							<label class="tab-label" for="chck_Q3">Q3. What should I do when I have detected a government data incident?</label>
-							<div class="tab-content"><p>You should act responsibly and promptly report any suspected data incidents to safeguard data from unauthorised use or loss. Please be mindful to conduct yourself in accordance with applicable laws and regulations, and do not make a false report.</p>
-<p>When making a report, please provide as many details as possible. For example, when and where the incident occurred; how you detected the incident; the steps you took after you detected the incident. These details would help us in our investigation, and allow us to swiftly respond to the data incident and take the necessary remedial steps.</p>
+							<div class="tab-content"><p>You should act responsibly and promptly report any suspected data incidents to safeguard data from unauthorised use or loss. Please be mindful to conduct yourself in accordance with applicable laws and regulations, and do not make a false report.
+<br>When making a report, please provide as many details as possible. For example, when and where the incident occurred; how you detected the incident; the steps you took after you detected the incident. These details would help us in our investigation, and allow us to swiftly respond to the data incident and take the necessary remedial steps.</p>
 							</div>					
 						</div>
 						<div class="tab">
@@ -42,8 +41,8 @@ Some examples of a government data incident are:<ul>
 							<div class="tab-content"><p>There are three ways in which you can report a government data incident:<ul>
 <li>Complete the 'Government Data Incident Reporting Form' located on the Smart Nation website</li>
 <li>Email Report_Data_Incident@tech.gov.sg with details of the suspected data incident</li>
-<li>Call the Government Data Security Contact Centre hotline at +65 63830117.</li></ul></p>
-<p>Operation Hours for Hotline:<ul>
+<li>Call the Government Data Security Contact Centre hotline at +65 63830117.</li></ul>
+<br>Operation Hours for Hotline:<ul>
 <li>8.30am – 6.00pm SGT (Mondays to Thursdays)</li>
 <li>8.30am – 5.30pm SGT (Fridays)</li>
 <li>Closed on Weekends and Public Holidays.</li></ul><p>
@@ -56,16 +55,16 @@ Some examples of a government data incident are:<ul>
 							</div>					
 						</div>
 						<div class="tab">
-							<input type="checkbox" id="chck2020_6" />
-							<label class="tab-label" for="chck2020_6">How will you prevent public congregation at the various locations (e.g. Padang, The Star PAC, along the Mobile Column routes, firework sites)?</label>
-							<div class="tab-content"><p>Safety is our priority and we will work with various stakeholders such as the Town Councils to disseminate advisories ahead of National Day, to remind Singaporeans not to congregate in a large group. We will also have ambassadors on the ground to remind Singaporeans. Personnel from the SAF and Home Team will also be deployed on the ground for crowd control. </p>
+							<input type="checkbox" id="chck_Q6" />
+							<label class="tab-label" for="chck_Q6">Q6. What should I do if I am unsure if an incident constitutes as a government data incident?</label>
+							<div class="tab-content"><p>As long as you suspect there is a government data incident, you should call the Government Data Security Contact Centre hotline for advice and clarifications.</p>
 							</div>					
 						</div>
 				  		<div class="tab">
-							<input type="checkbox" id="chck2020_7" />
-							<label class="tab-label" for="chck2020_7">How do I collect my Singapore Together Pack? </label>
-							<div class="tab-content"><p>The NDP2020 Executive Committee would like to thank Singapore residents for their strong support shown for the NDP2020 Singapore Together Packs. Please note that collection of the Singapore Together Pack has concluded. <br /> <br />
-Happy National Day!</p>
+							<input type="checkbox" id="chck_Q7" />
+							<label class="tab-label" for="chck_Q7">Q7. Do I need to submit evidence when reporting a government data incident?</label>
+							<div class="tab-content"><p>The submission of evidence will be useful for the Smart Nation and Digital Government Group (SNDGG) to investigate the data incident. For example, details of the affected system, and screenshots of the system error will allow us to quickly identify the affected agency, and pinpoint the error that requires fixing to prevent any further compromise to the data.
+<br>If your supporting document is in hardcopy, you may take a photo of it and attach it when submitting the incident reporting form.</p>
 							</div>					
 						</div>
 					</div>
@@ -74,16 +73,6 @@ Happy National Day!</p>
 		</div>
 	</div>
 
-
-#### **Q6. What should I do if I am unsure if an incident constitutes as a government data incident?**
-
-As long as you suspect there is a government data incident, you should call the Government Data Security Contact Centre hotline for advice and clarifications.
-
-#### **Q7. Do I need to submit evidence when reporting a government data incident?**
-
-The submission of evidence will be useful for the Smart Nation and Digital Government Group (SNDGG) to investigate the data incident. For example, details of the affected system, and screenshots of the system error will allow us to quickly identify the affected agency, and pinpoint the error that requires fixing to prevent any further compromise to the data.
-
-If your supporting document is in hardcopy, you may take a photo of it and attach it when submitting the incident reporting form.
 
 #### **Q8. What should I do if I am unsure of which agency is affected by the incident?**
 
