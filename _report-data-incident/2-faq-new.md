@@ -10,7 +10,6 @@ permalink: /faq-new/
 	  			<div class="col">
 					<div class="tabs healthWellness">
 						<div class="tab">
-							<a name="bbarrelessdancepilates"></a>  
 							<input type="checkbox" id="chck_Q1" />
 							<label class="tab-label" for="chck_Q1">Q1. What is government data?</label>
 							<div class="tab-content"><p>“Government data” refers to data that is in the possession or custody of the Government. Such data is important for the Government to discharge its functions, and could be collected and used by public agencies, or collected and used by their contracted third-party vendors. It includes:</p><ul>
