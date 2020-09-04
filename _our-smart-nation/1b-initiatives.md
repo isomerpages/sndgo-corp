@@ -29,3 +29,25 @@ To drive pervasive adoption of digital and smart technologies throughout Singapo
   </div>
      
 </div>
+
+<div class="row">
+  
+  <div class="column-c" > 
+    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/national-digital-identity-ndi" target="_blank"><img src="/images/national-digital-identity.png"></a><br>
+    <div class="header"><b>National Digital Identity (NDI)</b></div><br>
+    <div class="para">For citizens and businesses to transact conveniently and securely online.</div>         
+  </div>
+  
+  <div class="column-c"> 
+    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/smart-nation-sensor-platform" target="_blank"><img src="/images/smart-nation-sensor-platform.jpg"></a><br>       
+    <div class="header"><b>Smart Nation Sensor Platform</b></div><br>
+    <div class="para">Use of sensors and data to run a smart, green and liveable city.</div>         
+  </div>
+  
+  <div class="column-c">  
+    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/smart-urban-mobility" target="_blank"><img src="/images/smart-urban-mobility"></a><br>
+    <div class="header"><b>Smart Urban Mobility</b></div><br>
+    <div class="para">Leveraging data and digital technologies, including Artificial Intelligence and autonomous vehicles, to enhance public transport.</div>         
+  </div>
+     
+</div>
