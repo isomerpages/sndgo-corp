@@ -12,21 +12,21 @@ permalink: /faq-new/
 						<div class="tab">
 							<input type="checkbox" id="chck_Q1" />
 							<label class="tab-label" for="chck_Q1">Q1. What is government data?</label>
-							<div class="tab-content"><p>“Government data” refers to data that is in the possession or custody of the Government. Such data is important for the Government to discharge its functions, and could be collected and used by public agencies, or collected and used by their contracted third-party vendors. It includes:</p><ul>
+							<div class="tab-content"><p>“Government data” refers to data that is in the possession or custody of the Government. Such data is important for the Government to discharge its functions, and could be collected and used by public agencies, or collected and used by their contracted third-party vendors. It includes:<ul>
 <li>Personal data (e.g. income data for the purposes of calculating income tax)</li>
 <li>Business data (e.g. financial statements), and</li>
-<li>Classified data (e.g. policy documents).</li></ul>
+<li>Classified data (e.g. policy documents).</li></ul></p>
 							</div>										
 						</div>				
 						<div class="tab">
 							<input type="checkbox" id="chck_Q2" />
 							<label class="tab-label" for="chck_Q2">Q2. What is a government data incident?</label>
-							<div class="tab-content">A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data. 
-
-Some examples of a government data incident are:<br><ul>
+							<div class="tab-content"><p>A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data.</p>
+<p>
+Some examples of a government data incident are:<ul>
 <li>The sending of data via email to unintended recipients</li>
 <li>The unintentional disclosure of data on a website due to a system error, and</li>
-<li>The unauthorised movement (including copying, transfer and retrieval) of data by a hacker.</li></ul>
+<li>The unauthorised movement (including copying, transfer and retrieval) of data by a hacker.</li></ul></p>
 							</div>
 						</div>
 						<div class="tab">
@@ -39,17 +39,20 @@ Some examples of a government data incident are:<br><ul>
 						<div class="tab">
 							<input type="checkbox" id="chck_Q4" />
 							<label class="tab-label" for="chck_Q4">Q4. How do I report a government data incident?</label>
-							<div class="tab-content"><p>There are three ways in which you can report a government data incident:</p><ul>
+							<div class="tab-content"><p>There are three ways in which you can report a government data incident:<ul>
 <li>Complete the 'Government Data Incident Reporting Form' located on the Smart Nation website</li>
 <li>Email Report_Data_Incident@tech.gov.sg with details of the suspected data incident</li>
-<li>Call the Government Data Security Contact Centre hotline at +65 63830117.</li></ul>
-<br><u>Operation Hours for Hotline:</u><br>8.30am – 6.00pm SGT (Mondays to Thursdays)<br>8.30am – 5.30pm SGT (Fridays)<br>Closed on Weekends and Public Holidays.
+<li>Call the Government Data Security Contact Centre hotline at +65 63830117.</li></ul></p>
+<p>Operation Hours for Hotline:<ul>
+<li>8.30am – 6.00pm SGT (Mondays to Thursdays)</li>
+<li>8.30am – 5.30pm SGT (Fridays)</li>
+<li>Closed on Weekends and Public Holidays.</li></ul><p>
 							</div>					
 						</div>
 						<div class="tab">
 							<input type="checkbox" id="chck_Q5" />
 							<label class="tab-label" for="chck_Q5">Q5. How soon should I report a government data incident after I have detected it?</label>
-							<div class="tab-content">You should report any detected incident as soon as practically possible. This would allow us to promptly take action to prevent any further compromise to the data.
+							<div class="tab-content"><p>You should report any detected incident as soon as practically possible. This would allow us to promptly take action to prevent any further compromise to the data.</p>
 							</div>					
 						</div>
 						<div class="tab">
