@@ -26,11 +26,6 @@ We look forward to working with you to strengthen the overall public sector data
 ✔️ Upon submitting records of evidence to SNDGG, please dispose of all evidence immediately in an appropriate manner.
 
  
-Have a question or need more help? Refer to our frequently asked questions (FAQs).
-
-- See more at: https://www.smartnation.gov.sg/report-data-incident/report-data-incident#sthash.p4Oi5ARZ.dpuf
-<span>&#10004;</span>
-            
+Have a question or need more help? Refer to our [frequently asked questions (FAQs)](https://www.smartnation.gov.sg/report-data-incident/faq).
 
 
-- See more at: https://www.smartnation.gov.sg/report-data-incident/report-data-incident#GoToReportDataIncident
