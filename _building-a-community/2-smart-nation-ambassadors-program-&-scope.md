@@ -1,5 +1,5 @@
 ---
-title: Programs & Apps
+title: Smart Nation Ambassadors Program & Scope
 permalink: /building-a-community/smart-nation-ambassadors-program-&-scope/
 ---
 
