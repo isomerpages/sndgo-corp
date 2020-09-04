@@ -9,6 +9,7 @@ third_nav_title: "How"
 
 To drive pervasive adoption of digital and smart technologies throughout Singapore, we have identified key Strategic National Projects, which are key enablers in our Smart Nation drive.
 
+<br>
 <div class="row">
   
   <div class="column-c" > 
