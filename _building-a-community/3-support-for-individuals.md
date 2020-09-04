@@ -1,5 +1,5 @@
 ---
-title: Programs & Apps
+title: Support For Individuals
 permalink: /building-a-community/support-for-individuals/
 ---
 
