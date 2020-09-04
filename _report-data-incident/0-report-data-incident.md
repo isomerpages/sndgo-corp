@@ -42,7 +42,19 @@ Have a question or need more help? Refer to our [frequently asked questions (FAQ
 ### **Report a government data incident here:**
 If the form below is not loaded, you can also fill it in at https://go.gov.sg/DataIncidentForm.
 
+<!-- Change the width and height values to suit you best -->
+<iframe id="iframe" src="https://go.gov.sg/DataIncidentForm" style="width:100%;height:2000px"></iframe>
 
+<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
+**If you are unable to access the Incident Reporting Form, you may download the Incident Reporting Form and email the completed form to Report_Data_Incident@tech.gov.sg.**
+
+**If you face any difficulties in completing the Incident Reporting Form or have any enquiries, you may call us at +65 63830117.**
+
+<u>Operation Hours for Hotline:</u>
+
+8.30am – 6.00pm SGT (Mondays to Thursdays)
+8.30am – 5.30pm SGT (Fridays)
+Closed on Weekends and Public Holidays
 
 
