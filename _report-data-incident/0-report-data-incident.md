@@ -40,7 +40,7 @@ Have a question or need more help? Refer to our [frequently asked questions (FAQ
 - Provide you with any cash reward or financial incentive of any kind for the detection of confirmed incidents involving government data.
 
 ### **Report a government data incident here:**
-If the form below is not loaded, you can also fill it in at https://go.gov.sg/DataIncidentForm.
+If the form below is not loaded, you can also fill it in at [https://go.gov.sg/DataIncidentForm](https://go.gov.sg/DataIncidentForm).
 
 <!-- Change the width and height values to suit you best -->
 <iframe id="iframe" src="https://go.gov.sg/DataIncidentForm" style="width:100%;height:2000px"></iframe>
