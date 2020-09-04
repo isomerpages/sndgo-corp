@@ -33,9 +33,9 @@ To drive pervasive adoption of digital and smart technologies throughout Singapo
 <div class="row">
   
   <div class="column-c" > 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/national-digital-identity-ndi" target="_blank"><img src="/images/national-digital-identity.png"></a><br>
+    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/national-digital-identity-ndi" target="_blank"><img src="/images/national-digital-identity.png"><br>
     <div class="header"><b>National Digital Identity (NDI)</b></div><br>
-    <div class="para">For citizens and businesses to transact conveniently and securely online.</div>         
+    <div class="para">For citizens and businesses to transact conveniently and securely online.</div></a>    
   </div>
   
   <div class="column-c"> 
