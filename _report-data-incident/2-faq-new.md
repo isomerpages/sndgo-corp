@@ -21,8 +21,8 @@ permalink: /faq-new/
 						<div class="tab">
 							<input type="checkbox" id="chck_Q2" />
 							<label class="tab-label" for="chck_Q2">Q2. What is a government data incident?</label>
-							<div class="tab-content"><p>A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data.<br>
-Some examples of a government data incident are:<ul>
+							<div class="tab-content"><p>A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data.
+<br />Some examples of a government data incident are:<ul>
 <li>The sending of data via email to unintended recipients</li>
 <li>The unintentional disclosure of data on a website due to a system error, and</li>
 <li>The unauthorised movement (including copying, transfer and retrieval) of data by a hacker.</li></ul></p>
@@ -32,7 +32,7 @@ Some examples of a government data incident are:<ul>
 							<input type="checkbox" id="chck_Q3" />
 							<label class="tab-label" for="chck_Q3">Q3. What should I do when I have detected a government data incident?</label>
 							<div class="tab-content"><p>You should act responsibly and promptly report any suspected data incidents to safeguard data from unauthorised use or loss. Please be mindful to conduct yourself in accordance with applicable laws and regulations, and do not make a false report.
-<br>When making a report, please provide as many details as possible. For example, when and where the incident occurred; how you detected the incident; the steps you took after you detected the incident. These details would help us in our investigation, and allow us to swiftly respond to the data incident and take the necessary remedial steps.</p>
+<br />When making a report, please provide as many details as possible. For example, when and where the incident occurred; how you detected the incident; the steps you took after you detected the incident. These details would help us in our investigation, and allow us to swiftly respond to the data incident and take the necessary remedial steps.</p>
 							</div>					
 						</div>
 						<div class="tab">
@@ -42,7 +42,7 @@ Some examples of a government data incident are:<ul>
 <li>Complete the 'Government Data Incident Reporting Form' located on the Smart Nation website</li>
 <li>Email Report_Data_Incident@tech.gov.sg with details of the suspected data incident</li>
 <li>Call the Government Data Security Contact Centre hotline at +65 63830117.</li></ul>
-<br>Operation Hours for Hotline:<ul>
+<br />Operation Hours for Hotline:<ul>
 <li>8.30am – 6.00pm SGT (Mondays to Thursdays)</li>
 <li>8.30am – 5.30pm SGT (Fridays)</li>
 <li>Closed on Weekends and Public Holidays.</li></ul><p>
@@ -64,7 +64,7 @@ Some examples of a government data incident are:<ul>
 							<input type="checkbox" id="chck_Q7" />
 							<label class="tab-label" for="chck_Q7">Q7. Do I need to submit evidence when reporting a government data incident?</label>
 							<div class="tab-content"><p>The submission of evidence will be useful for the Smart Nation and Digital Government Group (SNDGG) to investigate the data incident. For example, details of the affected system, and screenshots of the system error will allow us to quickly identify the affected agency, and pinpoint the error that requires fixing to prevent any further compromise to the data.
-<br>If your supporting document is in hardcopy, you may take a photo of it and attach it when submitting the incident reporting form.</p>
+<br />If your supporting document is in hardcopy, you may take a photo of it and attach it when submitting the incident reporting form.</p>
 							</div>					
 						</div>
 					</div>
