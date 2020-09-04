@@ -47,6 +47,7 @@ If the form below is not loaded, you can also fill it in at [https://go.gov.sg/D
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
+
 **If you are unable to access the Incident Reporting Form, you may download the Incident Reporting Form and email the completed form to Report_Data_Incident@tech.gov.sg.**
 
 **If you face any difficulties in completing the Incident Reporting Form or have any enquiries, you may call us at +65 63830117.**
