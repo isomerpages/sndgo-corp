@@ -8,19 +8,19 @@ sections:
     - hero:
         title: #SmartNationTogether
         subtitle: Welcome to the #SmartNationTogether online channel! 
-        background: /images/SNT-Header.jpg
+        background: /images/hero-banner.png
         button: Join Us! 
         url: https://www.smartnation.gov.sg/whats-new/smart-nation-together
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: Smart Nation Ambassadors
+              description: Find out how to support citizen engagement efforts
+              url: https://www.smartnation.gov.sg/resources/scope
+            - title: Business Resources 
+              description: Discover initiatives for your business 
+              url: https://www.smartnation.gov.sg/resources/resources-for-businesses
+            - title: Our Smart Nation Journey
+              description: The milestones since 2014
+              url: /our-smart-nation/milestones/
     - infopic:
         title: Speech by Minister Vivian Balakrishnan at SCEWC 2019
         subtitle: 
