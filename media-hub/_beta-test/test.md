@@ -1,5 +1,5 @@
 
 ---
 layout: resources-alt
-title: Beta Test
+title: Beta-Test
 ---
