@@ -1,5 +1,5 @@
 ---
-title: My First Page
+title: Ernest's Page
 permalink: /ernest/my-first-page
 ---
 # 1
