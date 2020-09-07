@@ -15,10 +15,9 @@ permalink: /our-smart-nation/milestones/
 <ol>
   <li>November 2014: <a href="https://www.smartnation.gov.sg/images/default-source/default-album/snpinfographic2020_28022020-185e372ddd90f40d5a2cc62a662b33370.png?sfvrsn=88c46022_0" target="_blank">Launch of Smart Nation</a></li>
   <li>December 2014: Lorem ipsum dolor sit amet</li>
-</ol>
-</p>
+</ol></p>
 </div>										
-
+</div>
 <div class="tab">
 <input type="checkbox" id="chck_Q2" />
 <label class="tab-label" for="chck_Q2">January - March 2015</label>
@@ -26,10 +25,9 @@ permalink: /our-smart-nation/milestones/
   <li>January 2015: Lorem ipsum dolor sit amet</li>
   <li>February 2015: Lorem ipsum dolor sit amet</li>
   <li>March 2015: Lorem ipsum dolor sit amet</li>
-</ol>
-</p>
+</ol></p>
 </div>	
-					
+</div>				
 <div class="tab">
 <input type="checkbox" id="chck_Q3" />
 <label class="tab-label" for="chck_Q3">April - June 2015</label>
@@ -37,10 +35,9 @@ permalink: /our-smart-nation/milestones/
   <li>Lorem ipsum dolor sit amet</li>
   <li>Lorem ipsum dolor sit amet</li>
   <li>Lorem ipsum dolor sit amet</li>
-</ol>
-</p>
+</ol></p>
 </div>
-
+</div>
 <div class="tab">
 <input type="checkbox" id="chck_Q4" />
 <label class="tab-label" for="chck_Q4">July - September 2015</label>
@@ -48,10 +45,9 @@ permalink: /our-smart-nation/milestones/
   <li>Lorem ipsum dolor sit amet</li>
   <li>Lorem ipsum dolor sit amet</li>
   <li>Lorem ipsum dolor sit amet</li>
-</ol>
-</p>
+</ol></p>
 </div>	
-
+</div>
 <div class="tab">
 <input type="checkbox" id="chck_Q5" />
 <label class="tab-label" for="chck_Q5">October - December 2015</label>
@@ -59,6 +55,5 @@ permalink: /our-smart-nation/milestones/
   <li>Lorem ipsum dolor sit amet</li>
   <li>Lorem ipsum dolor sit amet</li>
   <li>Lorem ipsum dolor sit amet</li>
-</ol>
-</p>
+</ol></p>
 </div>	
