@@ -34,8 +34,7 @@ permalink: /our-smart-nation/milestones/
 <li>Lorem ipsum dolor sit amet</li>
 <li>TLorem ipsum dolor sit amet</li></ul></p>
 							</div>					
-						
-							</div>					
+								
 						</div>
 					</div>
 				</div>
