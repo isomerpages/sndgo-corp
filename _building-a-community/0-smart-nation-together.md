@@ -5,7 +5,7 @@ permalink: /building-a-community/smart-nation-together/
 
 #### **\#SmartNationTogether**
 
-"banner here"
+![#SmartNationTogether - the online channel for all our tech related talks](/images/SNT-Header.jpg "SmartNationTogether Header")
 
 Welcome to the #SmartNationTogether online channel! Whether you are interested in learning the basics of coding, video conferencing, or simply want to hear about the latest technological trends from subject experts, we have something for you! Check out our programme schedules below:
 
