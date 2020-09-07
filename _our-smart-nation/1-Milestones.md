@@ -19,7 +19,6 @@ permalink: /our-smart-nation/milestones/
 </p>
 </div>										
 
-</div>				
 <div class="tab">
 <input type="checkbox" id="chck_Q2" />
 <label class="tab-label" for="chck_Q2">January - March 2015</label>
@@ -30,6 +29,36 @@ permalink: /our-smart-nation/milestones/
 </ol>
 </p>
 </div>	
+					
+<div class="tab">
+<input type="checkbox" id="chck_Q3" />
+<label class="tab-label" for="chck_Q3">April - June 2015</label>
+<ol>
+  <li>Lorem ipsum dolor sit amet</li>
+  <li>Lorem ipsum dolor sit amet</li>
+  <li>Lorem ipsum dolor sit amet</li>
+</ol>
 </p>
 </div>
-						
+
+<div class="tab">
+<input type="checkbox" id="chck_Q4" />
+<label class="tab-label" for="chck_Q4">July - September 2015</label>
+<ol>
+  <li>Lorem ipsum dolor sit amet</li>
+  <li>Lorem ipsum dolor sit amet</li>
+  <li>Lorem ipsum dolor sit amet</li>
+</ol>
+</p>
+</div>	
+
+<div class="tab">
+<input type="checkbox" id="chck_Q5" />
+<label class="tab-label" for="chck_Q5">October - December 2015</label>
+<ol>
+  <li>Lorem ipsum dolor sit amet</li>
+  <li>Lorem ipsum dolor sit amet</li>
+  <li>Lorem ipsum dolor sit amet</li>
+</ol>
+</p>
+</div>	
