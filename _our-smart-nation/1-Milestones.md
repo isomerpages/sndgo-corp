@@ -1,6 +1,6 @@
 ---
-title: FAQ New
-permalink: /faq-new/
+title: Our Smart Nation Milestones 
+permalink: /our-smart-nation/milestones/
 ---
 
 <div class="row">
