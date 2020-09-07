@@ -6,11 +6,11 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: 
-        subtitle: 
-        background: /images/hero4.png
+        title: #SmartNationTogether
+        subtitle: Welcome to the #SmartNationTogether online channel! 
+        background: /images/SNT-Header.jpg
         button: 
-        url: 
+        url: https://www.smartnation.gov.sg/whats-new/smart-nation-together
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
