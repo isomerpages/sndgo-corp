@@ -10,7 +10,7 @@ sections:
         subtitle: Welcome to the SmartNationTogether online channel! 
         background: /images/hero-banner.png
         button: Join Us! 
-        url: https://www.smartnation.gov.sg/whats-new/smart-nation-together
+        url: /building-a-community/smart-nation-together/
         key_highlights:
             - title: Smart Nation Ambassadors
               description: Find out how to support citizen engagement efforts
