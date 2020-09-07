@@ -1,4 +1,4 @@
 ---
 title: Johnson Test
-permalink: /johnson_test/
+permalink: /test-training/johnson-test/
 ---
