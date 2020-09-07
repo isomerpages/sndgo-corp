@@ -1,2 +1,4 @@
-title: Azhar
-permalink: /test-training/azhar/
+----
+title: Azhar Test
+permalink: test-training/azhar
+----
