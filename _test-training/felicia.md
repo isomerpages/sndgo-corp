@@ -1,5 +1,5 @@
 ---
-title: Test page for traning - Felicia
-permalink: /test/felicia
+title: Test page for training - Felicia
+permalink: /test-training/felicia
 ---
 
