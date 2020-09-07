@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Smart Nation Singapore
-description: Homepage of Singapore's Smart Nation Initaitive
+description: Homepage of Singapore's Smart Nation Initiative
 permalink: /
 notification: 
 sections:
