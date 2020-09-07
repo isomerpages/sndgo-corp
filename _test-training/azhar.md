@@ -1,9 +1,9 @@
 ---
-title: Test page for training - Azhar
+title: Azhar Test Page
 permalink: /test-training/azhar
 ---
 
-# Azhar Test Page
+## Azhar Test Page
 
 Hi! I'm trying to use **Isomer**!
 
