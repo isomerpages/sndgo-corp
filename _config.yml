@@ -3,7 +3,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 collections:
-  testing-training:
+  test-training:
     output: true
   building-a-community:
     output: true
