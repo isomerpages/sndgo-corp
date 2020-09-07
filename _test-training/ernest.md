@@ -7,4 +7,4 @@ permalink: /ernest/my-first-page
 ### 3
 #### 4
 
-![SNT logo](/images/snt.jpb "SNT Logo")
+![SNT logo](/images/snt.jpg "SNT Logo")
