@@ -7,7 +7,7 @@ notification:
 sections:
     - hero:
         title: #SmartNationTogether
-        subtitle: Welcome to the #SmartNationTogether online channel! 
+        subtitle: Welcome to the SmartNationTogether online channel! 
         background: /images/hero-banner.png
         button: Join Us! 
         url: https://www.smartnation.gov.sg/whats-new/smart-nation-together
