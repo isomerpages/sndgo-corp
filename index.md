@@ -6,8 +6,8 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: #SmartNationTogether
-        subtitle: Welcome to the SmartNationTogether online channel! 
+        title: Smart Nation Together
+        subtitle: Welcome to the #SmartNationTogether online channel! 
         background: /images/hero-banner.png
         button: Join Us! 
         url: /building-a-community/smart-nation-together/
