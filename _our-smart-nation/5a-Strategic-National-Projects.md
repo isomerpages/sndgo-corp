@@ -1,7 +1,7 @@
 ---
 title: Strategic National Projects
 permalink: /our-smart-nation/initiatives/Strategic-National-Projects
-fifth_nav_title: "Initiatives"
+third_nav_title: "Initiatives"
 ---
 
 ### **Strategic National Projects**
