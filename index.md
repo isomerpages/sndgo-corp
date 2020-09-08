@@ -17,7 +17,7 @@ sections:
               url: https://www.smartnation.gov.sg/resources/scope
             - title: Business Resources 
               description: Discover initiatives for your business 
-              url: https://www.smartnation.gov.sg/resources/resources-for-businesses
+              url: /future-of-business/business-resources/
             - title: Our Smart Nation Journey
               description: The milestones since 2014
               url: /our-smart-nation/milestones/
