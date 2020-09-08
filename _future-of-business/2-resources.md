@@ -3,7 +3,7 @@ title: Business Resources
 permalink: /future-of-business/business-resources/
 ---
 
-#**Digital Business Resources**
+#Digital Business Resources
 
 It is not easy starting a new business. We know that and we want to help you grow your businesss in this competitive digital period. Below is a snapshot of some business resources you can consider to get you started on your journey. If you want to tap on any of them, head over to the individual sites for more details. 
   
