@@ -3,13 +3,13 @@ title: Business Resources
 permalink: /future-of-business/business-resources/
 ---
 
-#Digital Business Resources
+# Digital Business Resources
 
 It is not easy starting a new business. We know that and we want to help you grow your businesss in this competitive digital period. Below is a snapshot of some business resources you can consider to get you started on your journey. If you want to tap on any of them, head over to the individual sites for more details. 
   
 If you are not sure what is best suited for your business, head over to the e-Adviser for Government Assistance. Once you answer their guiding questions and fill in your details, there will be a list of suitable resources to get you started. 
 ![Click below to find out which resources are applicable to your business](/images/biz-help.png "Business Resources")
-<a href="https://gaeadviser.gobusiness.gov.sg" target="_blank">Head to e-Adviser for Government Assistance to find out which resources are suitable for your business.</a>g
+<a href="https://gaeadviser.gobusiness.gov.sg" target="_blank">e-Adviser</a>
 
 ## **[Accreditation@SGD](https://www.imda.gov.sg/programme-listing/accreditation-at-sgd)**
 
