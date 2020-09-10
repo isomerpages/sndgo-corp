@@ -1,8 +1,8 @@
 ---
 title: Smart Nation Stories 
-permalink: /media-hub/blog/
-breadcrumb: blog
-third_nav_title: "blog"
+permalink: /media-hub/blog-test/
+breadcrumb: blog-test
+third_nav_title: "test"
 ---
 
 <div class="row">  
