@@ -3,6 +3,15 @@ title: Smart Nation Together
 permalink: /building-a-community/smart-nation-together/
 ---
 
+```mermaid
+graph LR
+A[Square Rect] -- hello --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
+
 #### **\#SmartNationTogether**
 
 ![#SmartNationTogether - the online channel for all our tech related talks](/images/SNT-Header.jpg "SmartNationTogether Header")
