@@ -18,3 +18,10 @@ third_nav_title: "test"
     <div class="header"><b>Transforming SG</b></div><br>
     <div class="para">As a nation we will move forward together</div>
   </div>
+  </br>
+  <div class="row">  
+  <div class="column-c" > 
+    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/codex" target="_blank"><img src="/images/e-payments2.jpg"></a><br>
+    <div class="header"><b>Passion to contribute to Singapore’s</b></div><br>
+    <div class="para">PAASSION TO CONTRIBUTE TO SINGAPORE'S DIGITAL FUTURE DRIVES GROWTH IN SMART NATION SCHOLARSHIP</div>
+  </div>
