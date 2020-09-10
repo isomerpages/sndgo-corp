@@ -12,7 +12,7 @@ C --> D
 ```
 
 
-#### **\#SmartNationTogether**
+#### **\#SmartNationTogether - hello**
 
 ![#SmartNationTogether - the online channel for all our tech related talks](/images/SNT-Header.jpg "SmartNationTogether Header")
 
