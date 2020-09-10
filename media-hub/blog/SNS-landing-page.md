@@ -4,6 +4,25 @@ permalink: /future-of-business/blog-test/
 breadcrumb: blog-test
 third_nav_title: "test"
 ---
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+
+.container {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .overlay {
   position: absolute; 
   bottom: 0; 
@@ -18,6 +37,13 @@ third_nav_title: "test"
   padding: 20px;
   text-align: center;
 }
+
+.container:hover .overlay {
+  opacity: 1;
+}
+</style>
+</head>
+<body>
 
 <div class="row">  
   <div class="column-c" > 
