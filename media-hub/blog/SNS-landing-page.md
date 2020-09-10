@@ -1,6 +1,6 @@
 ---
 title: Smart Nation Stories 
-permalink: /media-hub/blog-test/
+permalink: /future-of-business/blog-test/
 breadcrumb: blog-test
 third_nav_title: "test"
 ---
