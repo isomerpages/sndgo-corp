@@ -9,6 +9,7 @@ third_nav_title: "test"
   <div class="column-c" > 
     <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/codex" target="_blank"><img src="/images/codex2.jpg"></a><br>
     <div class="header"><b>CODEX</b></div><br>
+    <div class="overlay">Codex overlay</div>
     <div class="para">Enabling a lean, agile and future-ready Government.</div>
   </div>
    <div class="column-c"> 
