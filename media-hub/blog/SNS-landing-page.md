@@ -33,11 +33,11 @@ third_nav_title: "test"
   box-sizing: border-box;
 }
 
-/* Create two unequal columns that floats next to each other */
+
 .column {
   float: left;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: 300px; 
 }
 
 .left {
@@ -48,7 +48,7 @@ third_nav_title: "test"
   width: 75%;
 }
 
-/* Clear floats after the columns */
+
 .row:after {
   content: "";
   display: table;
@@ -57,8 +57,6 @@ third_nav_title: "test"
 </style>
 </head>
 <body>
-
-<h2>Two Unequal Columns</h2>
 
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
