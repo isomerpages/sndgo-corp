@@ -11,7 +11,7 @@ third_nav_title: "test"
 <style>
 * {box-sizing: border-box;}
 
-.container {
+.column-c {
   position: relative;
   width: 50%;
   max-width: 300px;
@@ -38,7 +38,7 @@ third_nav_title: "test"
   text-align: center;
 }
 
-.container:hover .overlay {
+.column-c:hover .overlay {
   opacity: 1;
 }
 </style>
