@@ -26,9 +26,7 @@ third_nav_title: "test"
     <div class="para">PAASSION TO CONTRIBUTE TO SINGAPORE'S DIGITAL FUTURE DRIVES GROWTH IN SMART NATION SCHOLARSHIP</div>
   </div>
 
-<!DOCTYPE html>
-<html>
-<head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -74,4 +72,3 @@ third_nav_title: "test"
 </div>
 
 </body>
-</html>
