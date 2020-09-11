@@ -716,6 +716,8 @@ $desktop: 960px + (2 * $gap) !default;
 /* For sample 1 in text-on message. Container holding the image and the text */
 .container {
   position: relative;
+  text-align: center;
+  color: white;
 }
 
 /* Bottom right text */
@@ -727,4 +729,19 @@ $desktop: 960px + (2 * $gap) !default;
   color: white;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
