@@ -50,7 +50,4 @@ sections:
         subtitle: Learn more
         button: View More
 
-#Testing
-careers-subtitle: Our Zero Waste Heroes
-careers-description: Be inspired by these eco-champions. No action is too small to make a difference!
 ---
