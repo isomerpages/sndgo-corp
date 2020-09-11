@@ -732,6 +732,20 @@ $desktop: 960px + (2 * $gap) !default;
   opacity: 0.6;
 }
 
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
 /* Bottom left text */
 .bottom-left {
   position: absolute;
