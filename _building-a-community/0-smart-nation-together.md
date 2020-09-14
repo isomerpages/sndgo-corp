@@ -2,27 +2,17 @@
 title: Smart Nation Together
 permalink: /building-a-community/smart-nation-together/
 ---
-
-```mermaid
-graph LR
-A[Square Rect] -- hello --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
-
-
-#### **\#SmartNationTogether - hello**
+#### **\#SmartNationTogether**
 
 ![#SmartNationTogether - the online channel for all our tech related talks](/images/SNT-Header.jpg "SmartNationTogether Header")
 
-Welcome to the #SmartNationTogether online channel! Whether you are interested in learning the basics of coding, video conferencing, or simply want to hear about the latest technological trends from subject experts, we have something for you! Check out our programme schedules below:
+Welcome to the **\#SmartNationTogether** online channel! Whether you are interested in learning the basics of coding, video conferencing, or simply want to hear about the latest technological trends from subject experts, we have something for you! Check out our programme schedules below:
 
 #### **For children, youths and young parents**
  
-Children can sign up for 'TECH@PLAY' and 'FUN WITH TECH' series to participate in interactive hands-on workshops to learn different tech concepts such as coding, 3D printing and artificial intelligence. Interested to contribute your ideas and deep dive into the latest tech matters? Be sure not to miss our 'TECH UPSIZED' series, curated for youths.
+Children can sign up for **'TECH@PLAY'** and **'FUN WITH TECH'** series to participate in interactive hands-on workshops to learn different tech concepts such as coding, 3D printing and artificial intelligence. Interested to contribute your ideas and deep dive into the latest tech matters? Be sure not to miss our **'TECH UPSIZED'** series, curated for youths. 
 
-"View Programmes Button here"
+![Click here to view programmes](/images/VIew Program button.png "View Programmes")
 
 #### **For working adults**
 
