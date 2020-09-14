@@ -760,3 +760,9 @@ $desktop: 960px + (2 * $gap) !default;
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+/* Centered image */
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
