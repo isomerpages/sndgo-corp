@@ -1,6 +1,6 @@
 ---
-title: Smart Nation Together
-permalink: /building-a-community/smart-nation-together/
+title: Webinars For All
+permalink: /building-a-community/webinars-for-all/
 ---
 #### **\#SmartNationTogether**
 
