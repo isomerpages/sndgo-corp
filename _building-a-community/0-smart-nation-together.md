@@ -13,7 +13,6 @@ Welcome to the **\#SmartNationTogether** online channel! Whether you are interes
 Children can sign up for **'TECH@PLAY'** and **'FUN WITH TECH'** series to participate in interactive hands-on workshops to learn different tech concepts such as coding, 3D printing and artificial intelligence. Interested to contribute your ideas and deep dive into the latest tech matters? Be sure not to miss our **'TECH UPSIZED'** series, curated for youths. 
 
 ![Click here to view programmes](/images/View-Program.png "View Programmes")
-<img src="/images/View-Program.png" width="240">
 
 #### **For working adults**
 
