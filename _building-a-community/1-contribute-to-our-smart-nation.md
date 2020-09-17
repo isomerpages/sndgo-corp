@@ -25,7 +25,7 @@ These are the key initiatives currently under SCOPE are:
 
 **Check back regularly for new initiatives as they are launched!**
 
-## Be a Smart Nation Ambassador
+## **Be a Smart Nation Ambassador**
 
 <img src="/images/SNA-team.png" class="center"><br>
 
