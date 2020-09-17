@@ -1,6 +1,6 @@
 ---
 title: Contribute to our Smart Nation
-permalink: /building-a-community/contribute-to-our-smart-nation.md
+permalink: /building-a-community/contribute-to-our-smart-nation/
 ---
 
 # Becoming Smart Nation Citizens!
