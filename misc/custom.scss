@@ -766,3 +766,12 @@ img[src*='#center'] {
     display: block;
     margin: auto;
 }
+
+.image-button{
+  height: 2rem;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  img { width: 30%;
+	height: auto;
+	}
+}
