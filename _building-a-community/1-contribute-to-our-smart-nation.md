@@ -13,7 +13,9 @@ While the government rolls out engagement platforms ==link== and assistance sche
 
 In building our future, it is a collaborative effort, and we should do it as a community. With the community in mind, we created SCOPE (Smart Nation Co-creating with Our People Everywhere. It is a co-creation platform spearheaded by the Smart Nation and Digital Government Group that facilitates testing of digital government initiatives in development and feedback gathering from citizens. These insights will help us to enhance our digital government services to be more accessible and convenient for all.
 
-![SCOPE(/images/scope-logo.png)
+![SCOPE](/images/scope-logo.png)
+
+![SCOPE]<img src="/images/scope-logo.png" class="center">
 
 There will be many opportunities along the way for the community to get involved and contribute via SCOPE. From giving feedback in prototypes as they are being developed, surveys to understand Public needs, and our Smart Nation Ambassadors programme where you can volunteer your time to help other people adopt digital services!
 
