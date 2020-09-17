@@ -15,7 +15,7 @@ In building our future, it is a collaborative effort, and we should do it as a c
 
 ![SCOPE](/images/scope-logo.png)
 
-![SCOPE]<img src="/images/scope-logo.png" class="center">
+<img src="/images/scope-logo.png" class="center">
 
 There will be many opportunities along the way for the community to get involved and contribute via SCOPE. From giving feedback in prototypes as they are being developed, surveys to understand Public needs, and our Smart Nation Ambassadors programme where you can volunteer your time to help other people adopt digital services!
 
