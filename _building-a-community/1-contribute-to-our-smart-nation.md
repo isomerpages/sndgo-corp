@@ -19,10 +19,9 @@ There will be many opportunities along the way for the community to get involved
 
 These are the key initiatives currently under SCOPE are:
 
-- Be a Smart Nation Ambassadors **anchor link**
-- Provide feedback on digital government services **anchor link**
-- Pledge to learn, grow and explore new possibilities **anchor link**
-- Share a life hack using technology **anchor link**
+- [Be a Smart Nation Ambassador](Be-a-Smart-Nation-Ambassador)
+- [Provide feedback on digital government services](Provide-feedback-on-digital-government-services)
+- [Share a life hack using technology](Share-a life-hack-using-technology)
 
 **Check back regularly for new initiatives as they are launched!**
 
