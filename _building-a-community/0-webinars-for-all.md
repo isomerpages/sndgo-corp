@@ -14,7 +14,7 @@ Children can sign up for **'TECH@PLAY'** and **'FUN WITH TECH'** series to parti
 
 ![Click here to view programmes](/images/View-Program.png)
 
-<img src="/images/View-Program.png" width="200" />
+<img src="/images/View-Program.png" width="240" height="62">
 
 #### **For working adults**
 
