@@ -14,6 +14,8 @@ Children can sign up for **'TECH@PLAY'** and **'FUN WITH TECH'** series to parti
 
 ![Click here to view programmes](/images/View-Program.png)
 
+<img src="/images/View-Program.png" width="200" />
+
 #### **For working adults**
 
 Keep up with what’s new in digital government services and digital workplace tools, and learn how the tech industry is helping to fight COVID-19. Come sign up for talks on the latest tech trends, and hear our subject experts discuss the latest tech policies in the Tech Fellows and 'Smart Nation: In Conversation' series.
