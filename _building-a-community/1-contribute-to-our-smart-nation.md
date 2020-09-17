@@ -25,7 +25,7 @@ These are the key initiatives currently under SCOPE are:
 - Pledge to learn, grow and explore new possibilities **anchor link**
 - Share a life hack using technology **anchor link**
 
-### Check back regularly for new initiatives as they are launched!
+**Check back regularly for new initiatives as they are launched!**
 
 ## Be a Smart Nation Ambassador
 
