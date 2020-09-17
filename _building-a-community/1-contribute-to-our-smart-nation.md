@@ -52,7 +52,7 @@ We want to find out how Government websites and digital services can be improved
 **2. Machine-translated Government websites**
 Translating websites into Malay, Chinese and Tamil can be time-consuming and intensive. Let us know with us how effective you think machine-translated content is for end-users by via this [survey form](https://www.research.net/r/MultilanguageGovt) **disclaimer**
 
-## Share a life hack using technology
+## **Share a life hack using technology**
 
 Create a short clip (less than one minute) to introduce any digital government service (for example, LifeSG **Link** or SingPass Mobile **Link**) by showing key features, and ways for people to download and navigate. Hashtag your video clip with #smartnation and #pledgeyourselves **can we use other hashtags** and ensure that your post is made public so that we can find your entry!
 
