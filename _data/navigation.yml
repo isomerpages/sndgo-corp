@@ -7,12 +7,12 @@
 logo: /images/logo.png
 
 links:
-  - title: Building A Community
-    collection: building-a-community
-  - title: Future of Business
-    collection: future-of-business
   - title: Our Smart Nation
     collection: our-smart-nation
+  - title: A Smart Community
+    collection: community
+  - title: Smart Businesses
+    collection: Businesses
   - title: Media Hub
     resource_room: true
   - title: Report Data Incident
