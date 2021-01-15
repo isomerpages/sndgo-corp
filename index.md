@@ -46,7 +46,7 @@ sections:
         image: /images/my-smart-ahma.png
         alt: Members of the Ministry of ABC in suits
     - resources:
-        title: Media
+        title: Media Hub
         subtitle: Learn more
         button: View More
 
