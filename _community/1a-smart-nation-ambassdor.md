@@ -1,10 +1,8 @@
 ---
 title: Be A Smart Nation Ambassador
 permalink: /community/smart-nation-ambassdor
-third_nav_title: "Be A Smart Nation Ambassador"
+third_nav_title: "Smart Nation Ambassadors"
 ---
-# Be A Smart Nation Ambassador
-
 ![Smart Nation Ambassdors at an event](/images/_community/SNA-smart-Nation-U.jpg)
 
 The Smart Nation Ambassadors program was launched in January 2019. We now have over 1,600 volunteers who have stepped up and brought the Smart Nation message to fellow Singaporeans through roadshows, engagement activities and digital clinics.
