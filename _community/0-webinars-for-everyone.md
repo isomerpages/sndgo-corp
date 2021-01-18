@@ -34,4 +34,4 @@ Learn how digital government services can help you in your daily lives with your
 
 Need some one-to-one advice on how to use your smart phone effectively? Join the '**Digital Clinics' and 'Silver Infocomm Junction' lessons** to take that next step to being digitally connected!
 
-<a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/XXXX" target="_blank"><img src="/images/View-Program.png" class="center"></a>
+<a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/seniors" target="_blank"><img src="/images/View-Program.png" class="center"></a>
