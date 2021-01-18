@@ -4,7 +4,7 @@ permalink: /community/webinars-for-everyone/
 third_nav_title: "Webinars For Everyone"
 ---
 
-![#SmartNationTogether - the online channel for all our tech related talks](/images/_community/snt-page-header.jpg "SmartNationTogether")
+![#SmartNationTogether - the online channel for all our tech related talks](/images/community/snt-page-header.jpg "SmartNationTogether")
 
 Welcome to the **#SmartNationTogether** online channel! 
 
