@@ -17,7 +17,7 @@ Parents can sign their children up for the **TECH@PLAY** or **FUN WITH TECH** in
 
 Curated specially for youths, we have **TECH UPSIZED.** The workshops take a deep dive into the latest tech matters and share your ideas with other tech-enthusiast youth!
 
-[insert view programmes image]
+![Vew programmes](images/View-Program.png)
  
 ## **Working Adults**
 
@@ -27,11 +27,11 @@ Join us for talks on the latest tech trends, and hear our subject experts discus
 
 Co-create digital government services with us through focus group discussions on  **SCOPE 'LIVE'**.
 
-[insert view programmes image]
+![Vew programmes](images/View-Program.png)
 
 ## **Seniors**
 Learn how digital government services can help you in your daily lives with your peeps in our '**My Smart Ahma Top Picks' and 'Live Smart' series**.
 
 Need some one-to-one advice on how to use your smart phone effectively? Join the '**Digital Clinics' and 'Silver Infocomm Junction' lessons** to take that next step to being digitally connected!
 
-[insert view programmes image]
+![Vew programmes](images/View-Program.png)
