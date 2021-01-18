@@ -15,7 +15,7 @@ Hear from our Smart Nation Ambassadors - Alice, Jamberi, Pearlie and Saiful, on 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sY__ajCgMnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</div>
+</div><p>
 
 Are you a passionate individual who would like to come onboard our Smart Nation journey? Join us as Smart Nation Ambassador today!
 
@@ -38,5 +38,5 @@ Have a question or need more help? Refer to our list of PENDING FAQs](xxxxxx) or
 
 Check out our schedule of upcoming events that you can volunteer for here](https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation)
 
-For more updates on Smart Nation events, follow us on Telegram:
+For more updates on Smart Nation events, follow us on Telegram:<p>
 <a href="https://t.me/SmartNationAmbassadors"><img src="/images/sna-tg.png"></a>
