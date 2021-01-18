@@ -6,8 +6,9 @@ third_nav_title: "Smart Nation Ambassadors"
 
 ### **Frequently Asked Questions**
 
-Got a question or need more help on reporting a government data incident? Check out our FAQs below.
-- [What is government data?](#q1-what-is-government-data) 
+Have a question on the Smart Nation Ambassdor (SNA) Programme? Check out our FAQs. 
+
+- [Who are Smart Nation Ambassadors?](#q1-Who-are-Smart-Nation-Ambassadors?) 
 - [What is a government data incident?](#q2-what-is-a-government-data-incident)
 - [I think I have detected a government data incident. What should I do?](#q3-what-should-i-do-when-i-have-detected-a-government-data-incident)
 - [I need help with reporting a government data incident.](#q4-how-do-i-report-a-government-data-incident)
