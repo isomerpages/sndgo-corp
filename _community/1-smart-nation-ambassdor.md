@@ -5,7 +5,7 @@ third_nav_title: "Be A Smart Nation Ambassador"
 ---
 # Be A Smart Nation Ambassador
 
-![Smart Nation Ambassdors at an event](/images/SNA-Grp.jpg)
+![Smart Nation Ambassdors at an event](/images/_community/SNA Smart Nation & U.jpg)
 
 The Smart Nation Ambassadors program was launched in January 2019. We now have over 1,600 volunteers who have stepped up and brought the Smart Nation message to fellow Singaporeans through roadshows, engagement activities and digital clinics.
 
@@ -25,7 +25,7 @@ If you have any exciting ideas on how we can help each other in our digital jour
 
 We are looking for individuals interested in helping others live digitally-enabled lives, and preferably digitally/mobile-savvy. If you are not digital savvy yet, fret not! If you are keen to learn and contribute, we are here to support you!
 
-![Smart Nation Ambassdors at an Smart Nation & U event](/images/SNA Smart Nation & U.jpg)
+![Smart Nation Ambassdors at an Smart Nation & U event](/images/_community/SNA-Grp.jpg)
 
 ##Take the #SmartNation pledge today to:
 
@@ -39,4 +39,4 @@ Have a question or need more help? Refer to our list of PENDING FAQs](xxxxxx) or
 Check out our schedule of upcoming events that you can volunteer for here](https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation)
 
 For more updates on Smart Nation events, follow us on Telegram:<p>
-<a href="https://t.me/SmartNationAmbassadors"><img src="/images/sna-tg.png"></a>
+<a href="https://t.me/SmartNationAmbassadors"><img src="/images/_community/sna-tg.png"></a>
