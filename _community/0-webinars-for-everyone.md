@@ -17,7 +17,6 @@ Parents can sign their children up for the **TECH@PLAY** or **FUN WITH TECH** in
 
 Curated specially for youths, we have **TECH UPSIZED.** The workshops take a deep dive into the latest tech matters and share your ideas with other tech-enthusiast youth!
 
-![View programmes](/images/View-Program.png)
 <a href="https://www.smartnation.gov.sg/whats-new/events" target="_blank"><img src="/images/View-Program.png"></a>
  
 ## **Working Adults**
