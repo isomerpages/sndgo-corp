@@ -8,6 +8,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 240px;
 }
 </style>
 
