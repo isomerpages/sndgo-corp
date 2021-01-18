@@ -13,9 +13,9 @@ We have a wide array of workshops available for you to learn more. Whether you a
 Check out our programme schedules below!
 
 ## **For Children, Youths & Young Parents**
-Parents can sign their children up for the **TECH@PLAY** or **FUN WITH TECH** interactive hands-on workshop series. Children will have the opportunity to learn skills such as coding, 3D printing and artificial intelligence. 
+Parents can sign their children up for the TECH@PLAY or FUN WITH TECH interactive, hands-on workshop series. Children will have the opportunity to learn skills such as coding, 3D printing and artificial intelligence.
 
-Curated specially for youths, we have **TECH UPSIZED.** The workshops take a deep dive into the latest tech matters and share your ideas with other tech-enthusiast youth!
+Curated specially for youths, we have TECH UPSIZED. These workshops provide participants with an opportunity to take a dive into the latest tech matters. They can also share their ideas with other tech-enthusiast youths!
 
 <a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/young-parents-children" target="_blank"><img src="/images/_community/View-Program-button.png" class="center"></a>
  
@@ -23,15 +23,15 @@ Curated specially for youths, we have **TECH UPSIZED.** The workshops take a dee
 
 Keep abreast with what's new in digital government services and digital workplace tools. From learning how the tech industry helps fight COVID-19 to thought leaders sharing on how tech is disrupting work as we know it - there is a trove of knowledge being shared.
 
-Join us for talks on the latest tech trends, and hear our subject experts discuss the latest tech policies in the  **Tech Fellows and 'Smart Nation: In Conversation' series**.
+Join us for talks on the latest tech trends, and hear our subject experts discuss the latest tech policies in the Tech Fellows and 'Smart Nation: In Conversation' series.
 
-Co-create digital government services with us through focus group discussions on  **SCOPE 'LIVE'**.
+Co-create digital government services with us through focus group discussions on SCOPE 'LIVE'.
 
 <a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/working-adults" target="_blank"><img src="/images/_community/View-Program-button.png" class="center"></a>
 
 ## **Seniors**
-Learn how digital government services can help you in your daily lives with your peeps in our '**My Smart Ahma Top Picks' and 'Live Smart' series**.
+Learn how digital government services can help you in your daily lives with your peeps in our 'My Smart Ahma Top Picks' and 'Live Smart' series.
 
-Need some one-to-one advice on how to use your smart phone effectively? Join the '**Digital Clinics' and 'Silver Infocomm Junction' lessons** to take that next step to being digitally connected!
+Need some one-to-one advice on how to use your smartphone effectively? Join the 'Digital Clinics' and 'Silver Infocomm Junction' lessons to take that next step to be digitally connected!
 
 <a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/seniors" target="_blank"><img src="/images/_community/View-Program-button.png" class="center"></a>
