@@ -1,7 +1,9 @@
 ---
-title: Webinars For Everyone
+title: #SmartNationTogether Overview
 permalink: /community/webinars-for-everyone/
+third_nav_title: "Webinars For Everyone"
 ---
+
 #### **\#SmartNationTogether**
 
 ![#SmartNationTogether - the online channel for all our tech related talks](/images/_community/snt-page-header.jpg "SmartNationTogether")
