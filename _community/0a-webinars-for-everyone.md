@@ -1,5 +1,5 @@
 ---
-title: SmartNationTogether Overview
+title: "#SmartNationTogether Overview"
 permalink: /community/webinars-for-everyone/
 third_nav_title: "Webinars For Everyone"
 ---
