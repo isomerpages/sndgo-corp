@@ -5,7 +5,7 @@ third_nav_title: "Be A Smart Nation Ambassador"
 ---
 # Be A Smart Nation Ambassador
 
-![Smart Nation Ambassdors at an event](/images/_community/SNA Smart Nation & U.jpg)
+![Smart Nation Ambassdors at an event](/images/_community/SNA-smart-Nation-U.jpg)
 
 The Smart Nation Ambassadors program was launched in January 2019. We now have over 1,600 volunteers who have stepped up and brought the Smart Nation message to fellow Singaporeans through roadshows, engagement activities and digital clinics.
 
@@ -32,11 +32,11 @@ We are looking for individuals interested in helping others live digitally-enabl
 - [Become a Smart Nation Ambassador](mailto:ambassadors@smartnation.gov.sg)  
 - PENDING Take part in a Smart Nation Survey](XXXX)  
 - Share a life hack using technology!
-  *Create a short clip (less than one minute) to introduce any digital government service (for example,  [LifeSG](https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/lifesg-initiative) or  [SingPass Mobile](https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/national-digital-identity-ndi)).  You could showcase the features or ways for people to download and navigate. Hashtag your video clip with #SmartNation and  #pledgeyourselves and ensure that your post is public so that we can find your entry!
+   - Create a short clip (less than one minute) to introduce any digital government service (for example,  [LifeSG](https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/lifesg-initiative) or  [SingPass Mobile](https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/national-digital-identity-ndi)).  You could showcase the features or ways for people to download and navigate. Hashtag your video clip with #SmartNation and  #pledgeyourselves and ensure that your post is public so that we can find your entry!
 
 Have a question or need more help? Refer to our list of PENDING FAQs](xxxxxx) or email us at [Ambassadors@smartnation.gov.sg](mailto:Ambassadors@smartnation.gov.sg).
 
-Check out our schedule of upcoming events that you can volunteer for here](https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation)
+Check out our schedule of upcoming events that you can [volunteer for here](https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation)
 
 For more updates on Smart Nation events, follow us on Telegram:<p>
 <a href="https://t.me/SmartNationAmbassadors"><img src="/images/_community/sna-tg.png"></a>
