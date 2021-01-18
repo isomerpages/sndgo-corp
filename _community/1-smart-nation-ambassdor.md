@@ -27,7 +27,7 @@ We are looking for individuals interested in helping others live digitally-enabl
 
 ![Smart Nation Ambassdors at an Smart Nation & U event](/images/_community/SNA-Grp.jpg)
 
-##Take the #SmartNation pledge today to:
+## Take the #SmartNation pledge today to:
 
 - [Become a Smart Nation Ambassador](mailto:ambassadors@smartnation.gov.sg)  
 - PENDING Take part in a Smart Nation Survey](XXXX)  
