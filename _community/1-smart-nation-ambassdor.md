@@ -11,11 +11,9 @@ The Smart Nation Ambassadors program was launched in January 2019. We now have o
 
 Hear from our Smart Nation Ambassadors - Alice, Jamberi, Pearlie and Saiful, on why they have chosen to serve the community on our Nation’s transformative journey.
 
-<div class="bp-youtube">
-
+<p><div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sY__ajCgMnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div><p>
+</div></p>
 
 Are you a passionate individual who would like to come onboard our Smart Nation journey? Join us as Smart Nation Ambassador today!
 
