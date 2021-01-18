@@ -3,9 +3,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 collections:
-  building-a-community:
+  community:
     output: true
-  future-of-business:
+  business:
     output: true
   our-smart-nation:
     output: true
