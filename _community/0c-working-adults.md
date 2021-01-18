@@ -1,5 +1,5 @@
 ---
-title: Webinars for Working Adults
+title: Working Adults
 permalink: /community/webinars-for-everyone/working-adults
 third_nav_title: "Webinars For Everyone"
 ---
