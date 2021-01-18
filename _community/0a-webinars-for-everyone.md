@@ -3,6 +3,13 @@ title: SmartNationTogether Overview
 permalink: /community/webinars-for-everyone/
 third_nav_title: "Webinars For Everyone"
 ---
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
 ![#SmartNationTogether - the online channel for all our tech related talks](/images/community/snt-page-header.jpg "SmartNationTogether")
 
@@ -17,7 +24,7 @@ Parents can sign their children up for the TECH@PLAY or FUN WITH TECH interactiv
 
 Curated specially for youths, we have TECH UPSIZED. These workshops provide participants with an opportunity to take a dive into the latest tech matters. They can also share their ideas with other tech-enthusiast youths!
 
-<a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/young-parents-children" target="_blank"><img src="/images/community/View-Program-button.png" class="center"></a>
+<a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/young-parents-children" target="_blank"><img src="/images/community/View-Program-button.png" style="width:240px;height:62px"></a>
  
 ## **Working Adults**
 
@@ -27,11 +34,11 @@ Join us for talks on the latest tech trends, and hear our subject experts discus
 
 Co-create digital government services with us through focus group discussions on SCOPE 'LIVE'.
 
-<a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/working-adults" target="_blank"><img src="/images/community/View-Program-button.png" class="center"></a>
+<a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/working-adults" target="_blank"><img src="/images/community/View-Program-button.png" style="width:240px;height:62px"></a>
 
 ## **Seniors**
 Learn how digital government services can help you in your daily lives with your peeps in our 'My Smart Ahma Top Picks' and 'Live Smart' series.
 
 Need some one-to-one advice on how to use your smartphone effectively? Join the 'Digital Clinics' and 'Silver Infocomm Junction' lessons to take that next step to be digitally connected!
 
-<a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/seniors" target="_blank"><img src="/images/community/View-Program-button.png" class="center"></a>
+<a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/seniors" target="_blank"><img src="/images/community/View-Program-button.png" style="width:240px;height:62px"></a>
