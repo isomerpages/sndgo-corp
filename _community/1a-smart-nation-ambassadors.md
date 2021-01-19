@@ -1,6 +1,6 @@
 ---
 title: Be A Smart Nation Ambassador
-permalink: /community/smart-nation-ambassdors
+permalink: /community/smart-nation-ambassadors
 third_nav_title: "Smart Nation Ambassadors"
 ---
 ![Smart Nation Ambassdors at an event](/images/community/SNA-smart-Nation-U.jpg)
