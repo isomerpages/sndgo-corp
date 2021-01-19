@@ -4,124 +4,56 @@ permalink: /community/sna-faq
 third_nav_title: "Smart Nation Ambassadors"
 ---
 
-### **Frequently Asked Questions**
+## **Frequently Asked Questions**
 
-Have a question on the Smart Nation Ambassdor (SNA) Programme? Check out our FAQs. 
+Have a question on the Smart Nation Ambassador Programme? Check out our FAQs.
 
-- [Who are Smart Nation Ambassadors?](#q1-Who-are-Smart-Nation-Ambassadors?) 
-- [What is a government data incident?](#q2-what-is-a-government-data-incident)
-- [I think I have detected a government data incident. What should I do?](#q3-what-should-i-do-when-i-have-detected-a-government-data-incident)
-- [I need help with reporting a government data incident.](#q4-how-do-i-report-a-government-data-incident)
-- [I have reported a government data incident. What should I do next?](#q9-what-should-i-do-after-reporting-a-government-data-incident)
-- [What is the difference between this government data incident reporting platform and the reporting platform by the Personal Data Protection Commission (PDPC)?](#q13-what-is-the-difference-between-this-government-data-reporting-platform-and-the-reporting-platform-by-the-personal-data-protection-commission-pdpc)
-- [Can I report an incident that involves other types of data?](#q14-can-i-report-an-incident-that-involves-other-types-of-data-eg-classified-data-or-business-related-data)
-- [Where can I report a cybersecurity incident?](#q15-where-can-i-report-a-cybersecurity-incident)
+- [Who are Smart Nation Ambassadors?](#q1-Who-are-Smart-Nation-Ambassadors) 
+- [What skills/experience do I need to become a Smart Nation Ambassador?](#q2-what-skills-experience-do-i-need-to-become-a-smart-nation-ambassador)
+- [What opportunities are open to me as a Smart Nation Ambassador?](#q3-what-opportunities-are-open-to-me-as-a-smart-nation-ambassador)
+- [How much time do I need to commit as a Smart Nation Ambassador? How long is each event?](#q4-how-much-time-do-i-need-to-commit-as-a-smart-nation-ambassador)
+- [How do I sign up to be a Smart Nation Ambassador and start volunteering?](#q5-how-do-i-sign-up-to-be-a-smart-nation-ambassador-and-start-volunteering)
+- [Who can I contact for further information on Smart Nation Ambassadors?](#q6-who-can-i-contact-for-further-information-on-smart-nation-ambassadors)
 
-#### **Q1. What is government data?**
+### **Who are Smart Nation Ambassadors?**
 
-“Government data” refers to data that is in the possession or custody of the Government. Such data is important for the Government to discharge its functions, and could be collected and used by public agencies, or collected and used by their contracted third-party vendors. It includes:
-- Personal data (e.g. income data for the purposes of calculating income tax)
-- Business data (e.g. financial statements), and
-- Classified data (e.g. policy documents).
+Smart Nation Ambassadors are volunteers who support the Smart Nation and Digital Government Group’s co-creation efforts, by engaging citizens on Smart Nation and digital government initiatives. This could involve teaching someone how to use digital tools, or getting valuable feedback on digital government initiatives. As a Smart Nation Ambassador, your contribution will help to build a Smart Nation where people live meaningful and fulfilled lives, enabled seamlessly by technology, with exciting opportunities for all.
 
-#### **Q2. What is a government data incident?**
+### **Q2. What skills/experience do I need to become a Smart Nation Ambassador?**
 
-A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data. 
-
-Some examples of a government data incident are:
-- The sending of data via email to unintended recipients
-- The unintentional disclosure of data on a website due to a system error, and
-- The unauthorised movement (including copying, transfer and retrieval) of data by a hacker.
+We are looking for individuals with an interest in helping others live digitally enabled lives, and who are preferably digital and mobile savvy. Briefings and training will be provided, depending on the type of opportunities you sign up for.
 
 [Return to TOP](#frequently-asked-questions)
 
-#### **Q3. What should I do when I have detected a government data incident?**
+### **Q3. What opportunities are open to me as a Smart Nation Ambassador?**
 
-You should act responsibly and promptly report any suspected data incidents to safeguard data from unauthorised use or loss. Please be mindful to conduct yourself in accordance with applicable laws and regulations, and do not make a false report.
+- SCOPE (Smart Nation Co-creating with Our People Everywhere) is a co-creation platform spearheaded by the Smart Nation and Digital Government Group that facilitates testing of digital government initiatives in development and feedback gathering from citizens. These insights help us to enhance our digital government services to be more accessible and convenient for all. Smart Nation Ambassadors will join us in engaging citizens during such events.
 
-When making a report, please provide as many details as possible. For example, when and where the incident occurred; how you detected the incident; the steps you took after you detected the incident. These details would help us in our investigation, and allow us to swiftly respond to the data incident and take the necessary remedial steps.
+- Provide one-on-one assistance at Digital Clinics run by the Infocomm Media Development Authority (IMDA), and help participants, especially seniors, become more proficient with their mobile devices., This includes teaching them how to connect to Wi-Fi hotspots, personalise accessibility tools on their devices, and adjust phone settings and functions (e.g. text size, magnifier function, voice-to-text function, using cloud settings) to best suit their needs.
 
-[Return to TOP](#frequently-asked-questions)
-
-#### **Q4. How do I report a government data incident?**
-
-There are three ways in which you can report a government data incident:
-- Complete the 'Government Data Incident Reporting Form' located on the Smart Nation website
-- Email Report_Data_Incident@tech.gov.sg with details of the suspected data incident
-- Call the Government Data Security Contact Centre hotline at +65 63830117.
-
-Operation Hours for Hotline:
-
-8.30am – 6.00pm SGT (Mondays to Thursdays)
-
-8.30am – 5.30pm SGT (Fridays)
-
-Closed on Weekends and Public Holidays
-
-#### **Q5. How soon should I report a government data incident after I have detected it?**
-
-You should report any detected incident as soon as practically possible. This would allow us to promptly take action to prevent any further compromise to the data.
-
-#### **Q6. What should I do if I am unsure if an incident constitutes as a government data incident?**
-
-As long as you suspect there is a government data incident, you should call the Government Data Security Contact Centre hotline for advice and clarifications.
-
-#### **Q7. Do I need to submit evidence when reporting a government data incident?**
-
-The submission of evidence will be useful for the Smart Nation and Digital Government Group (SNDGG) to investigate the data incident. For example, details of the affected system, and screenshots of the system error will allow us to quickly identify the affected agency, and pinpoint the error that requires fixing to prevent any further compromise to the data.
-
-If your supporting document is in hardcopy, you may take a photo of it and attach it when submitting the incident reporting form.
-
-#### **Q8. What should I do if I am unsure of which agency is affected by the incident?**
-
-You should still report the incident, and SNDGG will carry out the investigations to identify the affected agency. To help us identify the affected agency, please provide as many details as possible on the data incident.
+These are just some of the opportunities that you will be able to participate in. If you have ideas on how you can help others to live, work and play in a Smart Nation, drop us an [email](mailto:ambassadors@smartnation.gov.sg) and let us know!
 
 [Return to TOP](#frequently-asked-questions)
 
-#### **Q9. What should I do after reporting a government data incident?**
+### **Q4. How much time do I need to commit as a Smart Nation Ambassador? How long is each event?**
 
-You should immediately dispose of all evidence and data appropriately after submitting them to SNDGG. Thereafter, SNDGG will carry out an investigation and no further action is required on your part.  
+There is no minimum number of events to volunteer for! We hope that you will find it exciting, fulfilling and meaningful to participate in at least two (or more) of our events.
 
-#### **Q10. What should I do with the evidence after submitting it with the report?**
+The estimated duration of each event is:
 
-Upon submitting the evidence to SNDGG, please immediately dispose of all evidence in an appropriate manner. These are some common disposal methods:
-- For digital data that you have received unintentionally via email, please delete all copies of the email and any attachment that came with the email
-- For any screenshot of system error, please delete them after submission
-- For hardcopy data that you received unintentionally via mail, SNDGG will advise you on the appropriate way of disposal
-
-If you are unsure about how to dispose the evidence, please call us at +65 63830117.
-
-#### **Q11. Will I need to provide a police statement after reporting a government data incident?**
-
-No, you will not be required to provide a police statement after reporting a government data incident. However, SNDGG may contact you via email or phone if we require any clarifications on the information you provided.
-
-#### **Q12. Will I receive any follow up reply after reporting a government data incident?**
-
-Yes, you should receive an acknowledgement email within 1 working day of reporting a government data incident using the online form or via email. We will conduct our investigation and provide you with a status update within 15 working days of the receipt of your report.
+- SCOPE: ~1-3 hours, during working hours or weekends, subject to your preference and availability.
+- Digital Clinics: ~3 hours, during working hours, on weekdays.
 
 [Return to TOP](#frequently-asked-questions)
 
-#### **Q13. What is the difference between this government data reporting platform and the reporting platform by the Personal Data Protection Commission (PDPC)?**
+### **Q5. How do I sign up to be a Smart Nation Ambassador and start volunteering?**
 
-This government data incident reporting platform is meant for the reporting of data incidents which involve government data or Government agencies. PDPC’s reporting platform is meant for the reporting of data incidents which involve non-government entities.
-
-[Return to TOP](#frequently-asked-questions)
-
-#### **Q14. Can I report an incident that involves other types of data (e.g. classified data or business-related data)?**
-
-Yes, please report any incident that involves any type of data that is in the possession or control of the Government. Such data include:
-- Personal data (e.g. income data for the purposes of calculating income tax)
-- Business data (e.g. financial statements), and 
-- Classified data (e.g. policy documents).
-
-Please refer to Q1 above for the detailed definition of “government data”.
+To sign up to be a Smart Nation Ambassador and register for upcoming events, click [here](https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation).
 
 [Return to TOP](#frequently-asked-questions)
 
-#### **Q15. Where can I report a cybersecurity incident?**
+### **Q6. Who can I contact for further information on Smart Nation Ambassadors?**
 
-A cybersecurity incident is different from a data security incident. Cybersecurity incidents refer to attacks on IT systems or websites that affect the confidentiality, integrity and availability of systems or websites. Data security incidents, or government data incidents, refer to the unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, government data.
-
-You may report a cybersecurity incident under the Government Technology Agency’s Vulnerability Disclosure Programme (VDP). VDP encourages responsible reporting of suspected vulnerabilities or weaknesses in IT services, systems, resources and/or processes that may affect Government internet-accessible applications. Please click on this link to find out more about the VDP and report suspected vulnerabilities.
+Email us at [Ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg) for more information.
 
 [Return to TOP](#frequently-asked-questions)
