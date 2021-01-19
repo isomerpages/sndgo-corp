@@ -22,7 +22,7 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ''
-      - email: careers@abc.gov.sg
+      - email: ambassadors@smartnation.gov.sg
       - other: ''
-    title: Careers
+    title: Smart Nation Ambassdors 
 ---
