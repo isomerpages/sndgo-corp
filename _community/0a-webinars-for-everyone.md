@@ -5,7 +5,8 @@ third_nav_title: "Webinars For Everyone"
 ---
 <style>
   .img-container {
-  text-align: center
+    text-align: center;
+    display: block;
 }
 </style>
 
