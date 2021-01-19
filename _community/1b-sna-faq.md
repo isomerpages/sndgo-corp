@@ -23,7 +23,7 @@ Smart Nation Ambassadors are volunteers who support the Smart Nation and Digital
 
 We are looking for individuals with an interest in helping others live digitally enabled lives, and who are preferably digital and mobile savvy. Briefings and training will be provided, depending on the type of opportunities you sign up for.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 ### **Q3. What opportunities are open to me as a Smart Nation Ambassador?**
 
@@ -33,7 +33,7 @@ We are looking for individuals with an interest in helping others live digitally
 
 These are just some of the opportunities that you will be able to participate in. If you have ideas on how you can help others to live, work and play in a Smart Nation, drop us an [email](mailto:ambassadors@smartnation.gov.sg) and let us know!
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 ### **Q4. How much time do I need to commit as a Smart Nation Ambassador? How long is each event?**
 
@@ -44,16 +44,16 @@ The estimated duration of each event is:
 - SCOPE: ~1-3 hours, during working hours or weekends, subject to your preference and availability.
 - Digital Clinics: ~3 hours, during working hours, on weekdays.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 ### **Q5. How do I sign up to be a Smart Nation Ambassador and start volunteering?**
 
 To sign up to be a Smart Nation Ambassador and register for upcoming events, click [here](https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation).
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 ### **Q6. Who can I contact for further information on Smart Nation Ambassadors?**
 
 Email us at [Ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg) for more information.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
