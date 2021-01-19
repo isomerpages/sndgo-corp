@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /faq/
+permalink: /report-data-incident/faq/
 ---
 
 ### **Frequently Asked Questions**
@@ -49,8 +49,11 @@ There are three ways in which you can report a government data incident:
 - Call the Government Data Security Contact Centre hotline at +65 63830117.
 
 **Operation Hours for Hotline:**
+
 8.30am – 6.00pm SGT (Mondays to Thursdays)
+
 8.30am – 5.30pm SGT (Fridays)
+
 Closed on Weekends and Public Holidays
 
 [Return to TOP](#frequently-asked-questions)
