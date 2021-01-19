@@ -7,6 +7,14 @@ third_nav_title: "Webinars For Everyone"
   .img-container {
     text-align: center;
     display: block;
+  
+  a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:50%;
+    width: 250px; height: 72px;
+  }
 }
 </style>
 
