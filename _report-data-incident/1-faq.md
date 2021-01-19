@@ -48,27 +48,32 @@ There are three ways in which you can report a government data incident:
 - Email Report_Data_Incident@tech.gov.sg with details of the suspected data incident
 - Call the Government Data Security Contact Centre hotline at +65 63830117.
 
-Operation Hours for Hotline:
-
+**Operation Hours for Hotline:**
 8.30am – 6.00pm SGT (Mondays to Thursdays)
-
 8.30am – 5.30pm SGT (Fridays)
-
 Closed on Weekends and Public Holidays
+
+[Return to TOP](#frequently-asked-questions)
 
 #### **Q5. How soon should I report a government data incident after I have detected it?**
 
 You should report any detected incident as soon as practically possible. This would allow us to promptly take action to prevent any further compromise to the data.
 
+[Return to TOP](#frequently-asked-questions)
+
 #### **Q6. What should I do if I am unsure if an incident constitutes as a government data incident?**
 
 As long as you suspect there is a government data incident, you should call the Government Data Security Contact Centre hotline for advice and clarifications.
+
+[Return to TOP](#frequently-asked-questions)
 
 #### **Q7. Do I need to submit evidence when reporting a government data incident?**
 
 The submission of evidence will be useful for the Smart Nation and Digital Government Group (SNDGG) to investigate the data incident. For example, details of the affected system, and screenshots of the system error will allow us to quickly identify the affected agency, and pinpoint the error that requires fixing to prevent any further compromise to the data.
 
 If your supporting document is in hardcopy, you may take a photo of it and attach it when submitting the incident reporting form.
+
+[Return to TOP](#frequently-asked-questions)
 
 #### **Q8. What should I do if I am unsure of which agency is affected by the incident?**
 
@@ -80,6 +85,8 @@ You should still report the incident, and SNDGG will carry out the investigation
 
 You should immediately dispose of all evidence and data appropriately after submitting them to SNDGG. Thereafter, SNDGG will carry out an investigation and no further action is required on your part.  
 
+[Return to TOP](#frequently-asked-questions)
+
 #### **Q10. What should I do with the evidence after submitting it with the report?**
 
 Upon submitting the evidence to SNDGG, please immediately dispose of all evidence in an appropriate manner. These are some common disposal methods:
@@ -89,9 +96,13 @@ Upon submitting the evidence to SNDGG, please immediately dispose of all evidenc
 
 If you are unsure about how to dispose the evidence, please call us at +65 63830117.
 
+[Return to TOP](#frequently-asked-questions)
+
 #### **Q11. Will I need to provide a police statement after reporting a government data incident?**
 
 No, you will not be required to provide a police statement after reporting a government data incident. However, SNDGG may contact you via email or phone if we require any clarifications on the information you provided.
+
+[Return to TOP](#frequently-asked-questions)
 
 #### **Q12. Will I receive any follow up reply after reporting a government data incident?**
 
