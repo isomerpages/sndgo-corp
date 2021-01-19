@@ -2,12 +2,51 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+Thank you for visiting the Smart Nation website (“Website”). By accessing and using this Website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
 
-#### **General Legal Information**
+# General
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+1. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+# Proprietary Rights
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+1. This Website is maintained by the Smart Nation and Digital Government Office (SNDGO).
+2. The materials located on this Website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by SNDGO.
+
+# Privacy Policy
+
+1. Click [here](/privacy/) to review this Website Privacy Policy Statement.
+
+# Restrictions on use of Materials
+
+1. Except as otherwise provided, the Contents of this Website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of SNDGO.
+2. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of SNDGO's copyright and other intellectual property rights. Graphics and images on this Website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of SNDGO.
+
+# Disclaimer of Warranties and Liability
+
+1. The Contents of this Website are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, SNDGO does not warrant and hereby disclaims any warranty:
+  a. as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Website;
+  b. that the Contents available through this Website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website and the server is and will be free of all viruses and/or other harmful elements.
+2. The shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Website.
+
+# Right of Access
+
+1. SNDGO reserves all rights to deny or restrict access to this Website to any particular person, or to block access from a particular Internet address to this Website, at any time, without ascribing any reasons whatsoever.
+
+# Links from this Website to other websites
+
+1. This Website contains hyperlinks to websites which are not maintained by SNDGO. SNDGO is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
+2. Hyperlinks to other websites are provided as a convenience. In no circumstances shall SNDGO be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Website is linked.
+
+# Links to this Website from other websites
+
+1. Except as set forth below, caching and links to, and the framing of this Website or any of the Contents are prohibited.
+2. You must secure permission from SNDGO prior to hyperlinking to, or framing, this Website or any of the Contents, or engaging in similar activities. SNDGO reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Website or any of the Contents.
+3. Your linking to, or framing any part of this Website or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Website or any of the Contents.
+4. In no circumstances shall SNDGO be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites that link to this Website or any of the Contents.
+5. SNDGO reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+6. SNDGO reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Website or any of the Contents.
+
+# Governing Law
+
+1. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore. Any claim relating to use of The Website shall be heard by Singapore Courts.
