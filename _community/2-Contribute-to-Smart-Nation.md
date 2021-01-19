@@ -28,4 +28,4 @@ You can share your feedback with us on the following initiatives via the links b
     
 2.  We want everyone to be on board the Smart Nation journey. To do that well, providing digital government services in the various languages is essential. However, setting up websites in Malay, Chinese and Tamil can be intensive and resource-heavy. Let us know how useful machine-translated content is for you via this [survey form](https://www.research.net/r/MultilanguageGovt)
 
-If you would like to contribute further and love to engage fellow Singaporeans, join our growing Smart Nation Ambassador family! Find out more about the [program here.](https://www.smartnation.gov.sg/whats-new/be-a-smart-nation-ambassador)
+If you would like to contribute further and love to engage fellow Singaporeans, join our growing Smart Nation Ambassador family! Find out more about the [program here.](/community/smart-nation-ambassadors)
