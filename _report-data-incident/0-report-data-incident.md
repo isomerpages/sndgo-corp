@@ -4,15 +4,15 @@ permalink: /report-data-incident/report-data-incident/
 ---
 ![1](/images/report-data-incident.jpg)
 
-### **\*NEW\* Government Data Incident Reporting Platform**
+### **Government Data Incident Reporting Platform**
 
-Everyone in the community can play their part in strengthening and safeguarding government ICT (information and communications technology) systems, digital services, and data. Members of the public can now **report incidents involving any unauthorised disclosure or compromise of government data** on our government data incident reporting platform.
+Everyone in the community can play their part in strengthening and safeguarding government Information and Communications Technology (ICT) systems, digital services, and data. Members of the public can now **report incidents involving any unauthorised disclosure or compromise of government data** on our government data incident reporting platform.
 
 We look forward to working with you to strengthen the overall public sector data security regime. 
 
 <a href="https://www.smartnation.gov.sg/report-data-incident/report-data-incident#GoToReportDataIncident" target="_blank"><img src="/images/reportdataincident-img-01.png"></a><br>
 
-### **What you can do to help:**
+### What you can do to help:
 ✔️ Before making a report, do keep in mind that you should act responsibly when reporting a suspected data incident and safeguarding data from unauthorised use or loss.
 
 ✔️ Do conduct yourself in accordance with applicable laws and regulations at all times. Note: Under no circumstances should you attempt to make a false report, publish details of any suspected data incidents involving government data or recklessly or intentionally use government data for wrongful gain.
@@ -29,9 +29,9 @@ We look forward to working with you to strengthen the overall public sector data
 Have a question or need more help? Refer to our [frequently asked questions (FAQs)](https://www.smartnation.gov.sg/report-data-incident/faq).
 
 ### **Note:**
-**The Smart Nation & Digital Government Group (SNDGG) will:**
+**SNDGG will:**
 - Act as coordinator between you and the relevant public sector agency or agencies (“Stakeholders”) involved in the suspected data incident.
-- Acknowledge receipt of your suspected data incident report and notify the Stakeholders of the suspected data incident, generally within 1 working day from our receipt of your report.
+- Acknowledge receipt of your suspected data incident report and notify the Stakeholders of the suspected data incident; generally within 1 working day from our receipt of your report.
 - Work with you and the Stakeholders to resolve any confirmed data incidents.
 
 **Please note that SNDGG will not in any way:**
