@@ -17,7 +17,7 @@ Parents can sign their children up for the TECH@PLAY or FUN WITH TECH interactiv
 
 Curated specially for youths, we have TECH UPSIZED. These workshops provide participants with an opportunity to take a dive into the latest tech matters. They can also share their ideas with other tech-enthusiast youths!
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:240px;height:62px;"><a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/young-parents-children"><img alt="View Programmes" src="/images/community/View-Program-button.png"></a></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:240px;height:62px;"><a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/young-parents-children" target="_blank"><img alt="View Programmes" src="/images/community/View-Program-button.png"></a></div></div>
  
 ## **Working Adults**
 
@@ -27,11 +27,11 @@ Join us for talks on the latest tech trends, and hear our subject experts discus
 
 Co-create digital government services with us through focus group discussions on SCOPE 'LIVE'.
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:240px;height:62px;"><a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/working-adults"><img alt="View Programmes" src="/images/community/View-Program-button.png""></a></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:240px;height:62px;"><a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/working-adults"><img alt="View Programmes" src="/images/community/View-Program-button.png" target="_blank"></a></div></div>
 
 ## **Seniors**
 Learn how digital government services can help you in your daily lives with your peeps in our 'My Smart Ahma Top Picks' and 'Live Smart' series.
 
 Need some one-to-one advice on how to use your smartphone effectively? Join the 'Digital Clinics' and 'Silver Infocomm Junction' lessons to take that next step to be digitally connected!
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:240px;height:62px;"><a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/seniors"><img alt="View Programmes" src="/images/community/View-Program-button.png"></a></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:240px;height:62px;"><a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/seniors"><img alt="View Programmes" src="/images/community/View-Program-button.png" target="_blank"></a></div></div>
