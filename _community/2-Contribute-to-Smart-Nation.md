@@ -1,12 +1,14 @@
 ---
-title: Co-Create With Us In Our Smart Nation Journey
-permalink: /community/Co-Create-with-us
-third_nav_title: "Co-Create With Us"
+title: Contribute to Smart Nation
+permalink: /community/SCOPE
+third_nav_title: "Contribute to Smart Nation"
 ---
 
-# Co-Create With Us In Our Smart Nation Journey
+# Contribute to the Smart Nation Initative
 
-![Member of public doing SCOPE with a Smart Nation Ambassador](/images/_community/scope-sn-ambassdor.jpg)
+Come, participate and co-create with us on our Smart Nation journey!
+
+![Member of public doing SCOPE with a Smart Nation Ambassador](/images/community/scope-sn-ambassdor.jpg)
 
 All of us play a crucial role in the Smart Nation journey as Singapore transforms herself to be a digitally forward nation. This is a collaborative effort; and we as a community must come together to share our ideas and thoughts so that we can grow and develop as a Smart Nation.
 
@@ -14,11 +16,11 @@ SCOPE - Smart Nation Co-creating with Our People Everywhere - is a co-creation p
 
 You can contribute through SCOPE by providing feedback on prototypes as they are developed or taking part in surveys.
 
-![SCOPE Logo](/images/_community/scope-logo.png)
+![SCOPE Logo](/images/community/scope-logo.png)
 
 ## Provide your valuable feedback on digital government services
 
-![SCOPE Screenshot](/images/_community/scope-outreach-screenshot.png)
+![SCOPE Screenshot](/images/community/scope-outreach-screenshot.png)
 
 You can share your feedback with us on the following initiatives via the links below:
 
