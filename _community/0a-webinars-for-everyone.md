@@ -4,11 +4,6 @@ permalink: /community/webinars-for-everyone/
 third_nav_title: "Webinars For Everyone"
 ---
 <style>
-  .img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 240px;
   .img-container {
   text-align: center
 }
