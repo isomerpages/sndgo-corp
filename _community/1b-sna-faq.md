@@ -1,6 +1,6 @@
 ---
 title: Smart Nation Ambassador FAQs
-permalink: /community/sna-faq
+permalink: /community/smart-nation-ambassadors/faq
 third_nav_title: "Smart Nation Ambassadors"
 ---
 
