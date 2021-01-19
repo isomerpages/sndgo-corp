@@ -4,11 +4,13 @@ permalink: /community/webinars-for-everyone/
 third_nav_title: "Webinars For Everyone"
 ---
 <style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 240px;
+  .img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 240px;
+  .img-container {
+  text-align: center
 }
 </style>
 
@@ -25,7 +27,7 @@ Parents can sign their children up for the TECH@PLAY or FUN WITH TECH interactiv
 
 Curated specially for youths, we have TECH UPSIZED. These workshops provide participants with an opportunity to take a dive into the latest tech matters. They can also share their ideas with other tech-enthusiast youths!
 
-<a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/young-parents-children" target="_blank"><img src="/images/community/View-Program-button.png" style="width:240px;height:62px"></a>
+<div class="img-container"><a href="https://www.smartnation.gov.sg/community/webinars-for-everyone/young-parents-children" target="_blank"><img src="/images/community/View-Program-button.png" style="width:240px;height:62px"></a></div>
  
 ## **Working Adults**
 
