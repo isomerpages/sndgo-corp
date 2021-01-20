@@ -21,7 +21,7 @@ We look forward to working with you to strengthen the overall public sector data
 
 ✔️ Please provide your **contact details** in the Incident Reporting Form so that you may be reached for clarifications, and for us to provide you with a status update following our investigation.
 
-✔️ Please provide adequate information in the Incident Reporting Form so that we can investigate the suspected data incident thoroughly. It would take **approximately 10 minutes**to complete the form.
+✔️ Please provide adequate information in the Incident Reporting Form so that we can investigate the suspected data incident thoroughly. It would take **approximately 10 minutes** to complete the form.
 
 ✔️ Upon submitting records of evidence to SNDGG, please **dispose of all evidence** immediately in an appropriate manner.
 
