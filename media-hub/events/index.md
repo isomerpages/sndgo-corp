@@ -1,4 +1,4 @@
 ---
 layout: resources-alt
-title: Blog
+title: Events
 ---
