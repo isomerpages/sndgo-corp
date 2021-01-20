@@ -26,7 +26,7 @@ We look forward to working with you to strengthen the overall public sector data
 ✔️ Upon submitting records of evidence to SNDGG, please dispose of all evidence immediately in an appropriate manner.
 
  
-Have a question or need more help? Refer to our [frequently asked questions (FAQs)](https://www.smartnation.gov.sg/report-data-incident/faq).
+Have a question or need more help? Refer to our [frequently asked questions (FAQs)](/report-data-incident/faq/).
 
 ### **Note:**
 **SNDGG will:**
@@ -48,7 +48,7 @@ If the form below is not loaded, you can also fill it in at [https://go.gov.sg/D
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
 
-**If you are unable to access the Incident Reporting Form, you may download the Incident Reporting Form and email the completed form to Report_Data_Incident@tech.gov.sg.**
+**If you are unable to access the Incident Reporting Form, you may download the Incident Reporting FormXXX-PENDING LINK TO WOR DDOC-XXX and email the completed form to [Report_Data_Incident@tech.gov.sg](mailto:Report_Data_Incident@tech.gov.sg).**
 
 **If you face any difficulties in completing the Incident Reporting Form or have any enquiries, you may call us at +65 63830117.**
 
