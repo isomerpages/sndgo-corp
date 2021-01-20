@@ -31,7 +31,7 @@ Some examples of a government data incident are:
 - The unintentional disclosure of data on a website due to a system error, and
 - The unauthorised movement (including copying, transfer and retrieval) of data by a hacker.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q3. What should I do when I have detected a government data incident?**
 
@@ -39,13 +39,13 @@ You should act responsibly and promptly report any suspected data incidents to s
 
 When making a report, please provide as many details as possible. For example, when and where the incident occurred; how you detected the incident; the steps you took after you detected the incident. These details would help us in our investigation, and allow us to swiftly respond to the data incident and take the necessary remedial steps.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q4. How do I report a government data incident?**
 
 There are three ways in which you can report a government data incident:
-- Complete the 'Government Data Incident Reporting Form' located on the Smart Nation website
-- Email Report_Data_Incident@tech.gov.sg with details of the suspected data incident
+- Complete the 'Government Data Incident Reporting Form' located on the [Smart Nation website](/report-data-incident/report-data-incident/) 
+- Email [Report_Data_Incident@tech.gov.sg](mailto:Report_Data_Incident@tech.gov.sg) with details of the suspected data incident
 - Call the Government Data Security Contact Centre hotline at +65 63830117.
 
 **Operation Hours for Hotline:**
@@ -56,19 +56,19 @@ There are three ways in which you can report a government data incident:
 
 Closed on Weekends and Public Holidays
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q5. How soon should I report a government data incident after I have detected it?**
 
 You should report any detected incident as soon as practically possible. This would allow us to promptly take action to prevent any further compromise to the data.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q6. What should I do if I am unsure if an incident constitutes as a government data incident?**
 
 As long as you suspect there is a government data incident, you should call the Government Data Security Contact Centre hotline for advice and clarifications.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q7. Do I need to submit evidence when reporting a government data incident?**
 
@@ -76,19 +76,19 @@ The submission of evidence will be useful for the Smart Nation and Digital Gover
 
 If your supporting document is in hardcopy, you may take a photo of it and attach it when submitting the incident reporting form.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q8. What should I do if I am unsure of which agency is affected by the incident?**
 
 You should still report the incident, and SNDGG will carry out the investigations to identify the affected agency. To help us identify the affected agency, please provide as many details as possible on the data incident.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q9. What should I do after reporting a government data incident?**
 
 You should immediately dispose of all evidence and data appropriately after submitting them to SNDGG. Thereafter, SNDGG will carry out an investigation and no further action is required on your part.  
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q10. What should I do with the evidence after submitting it with the report?**
 
@@ -99,25 +99,25 @@ Upon submitting the evidence to SNDGG, please immediately dispose of all evidenc
 
 If you are unsure about how to dispose the evidence, please call us at +65 63830117.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q11. Will I need to provide a police statement after reporting a government data incident?**
 
 No, you will not be required to provide a police statement after reporting a government data incident. However, SNDGG may contact you via email or phone if we require any clarifications on the information you provided.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q12. Will I receive any follow up reply after reporting a government data incident?**
 
 Yes, you should receive an acknowledgement email within 1 working day of reporting a government data incident using the online form or via email. We will conduct our investigation and provide you with a status update within 15 working days of the receipt of your report.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q13. What is the difference between this government data reporting platform and the reporting platform by the Personal Data Protection Commission (PDPC)?**
 
-This government data incident reporting platform is meant for the reporting of data incidents which involve government data or Government agencies. PDPC’s reporting platform is meant for the reporting of data incidents which involve non-government entities.
+This government data incident reporting platform is meant for the reporting of data incidents which involve government data or Government agencies. [PDPC’s reporting platform](https://eservice.pdpc.gov.sg/case/db) is meant for the reporting of data incidents which involve non-government entities.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q14. Can I report an incident that involves other types of data (e.g. classified data or business-related data)?**
 
@@ -128,12 +128,12 @@ Yes, please report any incident that involves any type of data that is in the po
 
 Please refer to Q1 above for the detailed definition of “government data”.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
 
 #### **Q15. Where can I report a cybersecurity incident?**
 
 A cybersecurity incident is different from a data security incident. Cybersecurity incidents refer to attacks on IT systems or websites that affect the confidentiality, integrity and availability of systems or websites. Data security incidents, or government data incidents, refer to the unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, government data.
 
-You may report a cybersecurity incident under the Government Technology Agency’s Vulnerability Disclosure Programme (VDP). VDP encourages responsible reporting of suspected vulnerabilities or weaknesses in IT services, systems, resources and/or processes that may affect Government internet-accessible applications. Please click on this link to find out more about the VDP and report suspected vulnerabilities.
+You may report a cybersecurity incident under the Government Technology Agency’s Vulnerability Disclosure Programme (VDP). VDP encourages responsible reporting of suspected vulnerabilities or weaknesses in IT services, systems, resources and/or processes that may affect Government internet-accessible applications. Please [click on this link](https://www.tech.gov.sg/report_vulnerability) to find out more about the VDP and report suspected vulnerabilities.
 
-[Return to TOP](#frequently-asked-questions)
+[Return to top](#frequently-asked-questions)
