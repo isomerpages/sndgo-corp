@@ -6,11 +6,6 @@ permalink: /report-data-incident/report-data-incident/
 
 ### **Government Data Incident Reporting Platform**
 
-To delete after this test. 
-Download:  
-[PDF Sample](/files/report-data-incident/paynow-pressrelease.pdf)
-[Word Doc Sample](/files/report-data-incident/government-data-incident-reporting-form.docx)
-
 Everyone in the community can play their part in strengthening and safeguarding government Information and Communications Technology systems, digital services, and data. Members of the public can now **report incidents involving any unauthorised disclosure or compromise of government data** on our government data incident reporting platform.
 
 We look forward to working with you to strengthen the overall public sector data security regime. 
@@ -20,18 +15,18 @@ We look forward to working with you to strengthen the overall public sector data
 ### What you can do to help:
 ✔️ Before making a report, do keep in mind that you should act responsibly when reporting a suspected data incident and safeguarding data from unauthorised use or loss.
 
-✔️ Do conduct yourself in accordance with applicable laws and regulations at all times. Note: Under no circumstances should you attempt to make a false report, publish details of any suspected data incidents involving government data or recklessly or intentionally use government data for wrongful gain.
+✔️ Do conduct yourself in accordance with applicable laws and regulations at all times. **Note:** Under no circumstances should you attempt to make a false report, publish details of any suspected data incidents involving government data or recklessly or intentionally use government data for wrongful gain.
 
 ✔️ Upon detection of a suspected government data incident, notify us as soon as possible by submitting a report to us by filling in the Incident Reporting Form. This will enable the Smart Nation & Digital Government Group (SNDGG) to conduct an investigation promptly.
 
-✔️ Please provide your contact details in the Incident Reporting Form so that you may be reached for clarifications, and for us to provide you with a status update following our investigation.
+✔️ Please provide your **contact details** in the Incident Reporting Form so that you may be reached for clarifications, and for us to provide you with a status update following our investigation.
 
-✔️ Please provide adequate information in the Incident Reporting Form so that we can investigate the suspected data incident thoroughly. It would take approximately 10 minutes to complete the form.
+✔️ Please provide adequate information in the Incident Reporting Form so that we can investigate the suspected data incident thoroughly. It would take **approximately 10 minutes**to complete the form.
 
-✔️ Upon submitting records of evidence to SNDGG, please dispose of all evidence immediately in an appropriate manner.
+✔️ Upon submitting records of evidence to SNDGG, please **dispose of all evidence** immediately in an appropriate manner.
 
  
-Have a question or need more help? Refer to our [frequently asked questions (FAQs)](/report-data-incident/faq/).
+**Have a question or need more help? Refer to our [frequently asked questions (FAQs)](/report-data-incident/faq/).**
 
 ### **Note:**
 **SNDGG will:**
@@ -53,7 +48,7 @@ If the form below is not loaded, you can also fill it in at [https://go.gov.sg/D
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
 
-**If you are unable to access the Incident Reporting Form, you may download the Incident Reporting FormXXX-PENDING LINK TO WOR DDOC-XXX and email the completed form to [Report_Data_Incident@tech.gov.sg](mailto:Report_Data_Incident@tech.gov.sg).**
+**If you are unable to access the Incident Reporting Form, you may download the [Incident Reporting Word Document](/files/report-data-incident/government-data-incident-reporting-form.docx) and email the completed form to [Report_Data_Incident@tech.gov.sg](mailto:Report_Data_Incident@tech.gov.sg).**
 
 **If you face any difficulties in completing the Incident Reporting Form or have any enquiries, you may call us at +65 63830117.**
 
