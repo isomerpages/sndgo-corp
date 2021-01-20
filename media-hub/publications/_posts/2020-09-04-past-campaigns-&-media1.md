@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  Sample post
-permalink: /media-hub/speeches/past-campaigns-&-media1
+permalink: /media-hub/publications
 ---
 Lorem ipsum sit amet
