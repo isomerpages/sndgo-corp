@@ -9,11 +9,14 @@ $primary: #ed1a3b;
 $secondary: #ed1a3b;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #ed1a3b;
-$media-color-two: #ed1a3b;
-$media-color-three: #ed1a3b;
-$media-color-four: #ed1a3b;
-$media-color-five: #ed1a3b;
+$media-color-one: #0180a0;
+$media-color-two: #678a00;
+$media-color-three: #f2f2f3;
+$media-color-four: #808080;
+$media-color-five: #ff6633;
+$media-color-six: #cc3366;
+$media-color-seven: #ed1a3b;
+$media-color-eight: #678a00;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -69,6 +72,24 @@ $desktop: 960px + (2 * $gap) !default;
   		background-color: $media-color-five;
   		&:hover {
   			background-color: darken($media-color-five, 10%);
+		}
+  	}
+  	&-6 {
+  		background-color: $media-color-six;
+  		&:hover {
+  			background-color: darken($media-color-six, 10%);
+		}
+  	}
+  	&-7 {
+  		background-color: $media-color-seven;
+  		&:hover {
+  			background-color: darken($media-color-seven, 10%);
+		}
+  	}
+  	&-8 {
+  		background-color: $media-color-eight;
+  		&:hover {
+  			background-color: darken($media-color-eight, 10%);
 		}
   	}
   }
