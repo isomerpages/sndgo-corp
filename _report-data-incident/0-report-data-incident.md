@@ -6,6 +6,11 @@ permalink: /report-data-incident/report-data-incident/
 
 ### **Government Data Incident Reporting Platform**
 
+To delete after this test. 
+Download:  
+[PDF Sample](/files/report-data-incident/paynow-pressrelease.pdf)
+[Word Doc Sample](/files/report-data-incident/government-data-incident-reporting-form.docx)
+
 Everyone in the community can play their part in strengthening and safeguarding government Information and Communications Technology systems, digital services, and data. Members of the public can now **report incidents involving any unauthorised disclosure or compromise of government data** on our government data incident reporting platform.
 
 We look forward to working with you to strengthen the overall public sector data security regime. 
