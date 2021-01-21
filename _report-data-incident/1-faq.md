@@ -11,7 +11,7 @@ Got a question or need more help on reporting a government data incident? Check 
 - [I think I have detected a government data incident. What should I do?](#q3-what-should-i-do-when-i-have-detected-a-government-data-incident)
 - [I need help with reporting a government data incident.](#q4-how-do-i-report-a-government-data-incident)
 - [How soon should I report a government data incident after I have detected it?](#q5-how-soon-should-i-report-a-government-data-incident-after-i-have-detected-it)
-- [What should I do if I am unsure if an incident constitutes as a government data incident?](#q6-What-should-I-do0-if-I-am-unsure-if-an-incident-constitutes-as-a-government-data-incident)
+- [What should I do if I am unsure if an incident constitutes as a government data incident?](#q6-What-should-I-do-if-I-am-unsure-if-an-incident-constitutes-as-a-government-data-incident)
 - [Do I need to submit evidence when reporting a government data incident](#q7-Do-I-need-to-submit-evidence-when-reporting-a-government-data-incident)
 - [What should I do if I am unsure of which agency is affected by the incident](#q8-What-should-I-do-if-I-am-unsure-of-which-agency-is-affected-by-the-incident)
 - [I have reported a government data incident. What should I do next?](#q9-what-should-i-do-after-reporting-a-government-data-incident)
