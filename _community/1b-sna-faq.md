@@ -9,17 +9,17 @@ third_nav_title: "Smart Nation Ambassadors"
 Have a question on the Smart Nation Ambassador Programme? Check out our FAQs.
 
 - [Who are Smart Nation Ambassadors?](#q1-Who-are-Smart-Nation-Ambassadors) 
-- [What skills/experience do I need to become a Smart Nation Ambassador?](#q2-what-skills-experience-do-i-need-to-become-a-smart-nation-ambassador)
+- [What skills/experience do I need to become a Smart Nation Ambassador?](#q2-what-skills-do-i-need-to-become-a-smart-nation-ambassador)
 - [What opportunities are open to me as a Smart Nation Ambassador?](#q3-what-opportunities-are-open-to-me-as-a-smart-nation-ambassador)
-- [How much time do I need to commit as a Smart Nation Ambassador? How long is each event?](#q4-how-much-time-do-i-need-to-commit-as-a-smart-nation-ambassador)
+- [How much time do I need to commit as a Smart Nation Ambassador?](#q4-how-much-time-do-i-need-to-commit-as-a-smart-nation-ambassador)
 - [How do I sign up to be a Smart Nation Ambassador and start volunteering?](#q5-how-do-i-sign-up-to-be-a-smart-nation-ambassador-and-start-volunteering)
 - [Who can I contact for further information on Smart Nation Ambassadors?](#q6-who-can-i-contact-for-further-information-on-smart-nation-ambassadors)
 
-### **Who are Smart Nation Ambassadors?**
+### **Q1. Who are Smart Nation Ambassadors?**
 
 Smart Nation Ambassadors are volunteers who support the Smart Nation and Digital Government Group’s co-creation efforts, by engaging citizens on Smart Nation and digital government initiatives. This could involve teaching someone how to use digital tools, or getting valuable feedback on digital government initiatives. As a Smart Nation Ambassador, your contribution will help to build a Smart Nation where people live meaningful and fulfilled lives, enabled seamlessly by technology, with exciting opportunities for all.
 
-### **Q2. What skills/experience do I need to become a Smart Nation Ambassador?**
+### **Q2. What skills do I need to become a Smart Nation Ambassador?**
 
 We are looking for individuals with an interest in helping others live digitally enabled lives, and who are preferably digital and mobile savvy. Briefings and training will be provided, depending on the type of opportunities you sign up for.
 
@@ -35,7 +35,7 @@ These are just some of the opportunities that you will be able to participate in
 
 [Return to top](#frequently-asked-questions)
 
-### **Q4. How much time do I need to commit as a Smart Nation Ambassador? How long is each event?**
+### **Q4. How much time do I need to commit as a Smart Nation Ambassador?**
 
 There is no minimum number of events to volunteer for! We hope that you will find it exciting, fulfilling and meaningful to participate in at least two (or more) of our events.
 
