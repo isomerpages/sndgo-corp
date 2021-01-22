@@ -1,5 +1,5 @@
 ---
-title: Smart Nation Ambassador FAQs
+title: Smart Nation Ambassadors FAQs
 permalink: /community/smart-nation-ambassadors/faq
 third_nav_title: "Smart Nation Ambassadors"
 ---
