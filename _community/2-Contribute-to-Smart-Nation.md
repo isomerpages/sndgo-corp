@@ -1,7 +1,6 @@
 ---
 title: Contribute to Smart Nation
 permalink: /community/SCOPE
-third_nav_title: "Contribute to Smart Nation"
 ---
 
 # Contribute to the Smart Nation Initative
