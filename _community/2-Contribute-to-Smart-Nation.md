@@ -15,7 +15,7 @@ SCOPE - Smart Nation Co-creating with Our People Everywhere - is a co-creation p
 
 You can contribute through SCOPE by providing feedback on prototypes as they are developed or taking part in surveys.
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:300px;"><img src="/images/community/scope-logo.png"></a></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:300px;"><img src="/images/community/scope-logo.png"></div></div>
 
 ## Provide your valuable feedback on digital government services
 
