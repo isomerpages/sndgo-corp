@@ -14,9 +14,9 @@ $media-color-two: #0066ff;
 $media-color-three: #999966;
 $media-color-four: #222222;
 $media-color-five: #ff6600;
-$media-color-six: #ff33cc;
-$media-color-seven: #ed1a3b;
-$media-color-eight: #33cc33;
+//$media-color-six: #ff33cc;
+//$media-color-seven: #ed1a3b;
+//$media-color-eight: #33cc33;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -74,24 +74,24 @@ $desktop: 960px + (2 * $gap) !default;
   			background-color: darken($media-color-five, 10%);
 		}
   	}
-  	&-6 {
-  		background-color: $media-color-six;
-  		&:hover {
-  			background-color: darken($media-color-six, 10%);
-		}
-  	}
-  	&-7 {
-  		background-color: $media-color-seven;
-  		&:hover {
-  			background-color: darken($media-color-seven, 10%);
-		}
-  	}
-  	&-8 {
-  		background-color: $media-color-eight;
-  		&:hover {
-  			background-color: darken($media-color-eight, 10%);
-		}
-  	}
+//  	&-6 {
+//  		background-color: $media-color-six;
+//  		&:hover {
+//  			background-color: darken($media-color-six, 10%);
+//		}
+//  	}
+//  	&-7 {
+// 		background-color: $media-color-seven;
+//  		&:hover {
+//  			background-color: darken($media-color-seven, 10%);
+//		}
+//  	}
+//  	&-8 {
+//  		background-color: $media-color-eight;
+//  		&:hover {
+//  			background-color: darken($media-color-eight, 10%);
+//		}
+//  	}
   }
   &-1{
     //background-color: $primary;
