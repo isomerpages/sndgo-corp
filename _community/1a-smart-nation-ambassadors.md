@@ -34,9 +34,6 @@ Have a question or need more help? Refer to our list of [FAQs](/community/smart-
 
 Check out our schedule of upcoming events that you can [volunteer for here](https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation)
 
-For more updates on Smart Nation events, follow us on Telegram:<p>
-<a href="https://t.me/SmartNationAmbassadors"><img src="/images/community/sna-tg.png"></a>
-   
-   
-<div style="width:240px;height:62px;"><a href="https://t.me/SmartNationAmbassadors" target="_blank"><img src="/images/community/sna-tg.png"></a></div>
+For more updates on Smart Nation events, follow us on Telegram:  
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:240px;height:62px;"><a href="https://t.me/SmartNationAmbassadors" target="_blank"><img src="/images/community/sna-tg.png"></a></div></div>
  
