@@ -11,12 +11,12 @@ As Singapore transforms into a Smart Nation, we want to also ensure that all seg
 ## Home Access 
 Infocomm Media Development Authority (IMDA)'s [Home Access programme](https://www.imda.gov.sg/programme-listing/home-access) provides eligible households with 2 years of subsidised fibre broadband connectivity from as low as $6 per month, with an option to bundle it with a tablet or smartphone. 
 
-[Click here for the full details and to apply for the programme](https://eservice.imda.gov.sg/das/homepage)
+[Click here for the full details and to apply for the programme.](https://eservice.imda.gov.sg/das/homepage)
 
 ## NEU PC Plus 
 This programme is designed to make digitalisation more accessible to low-income households with student or person with disabilities. Under this scheme, eligible families will have the opportunity to own a brand-new computer at an affordable price, bundled with a free broadband subscription. 
 
-The details for application and the various criteria can be found on the [programme's website](https://www.imda.gov.sg/neupc)  
+The details for application and the various criteria can be found on the [programme's website.](https://www.imda.gov.sg/neupc)  
 
 ## People’s Association (PA) Seniors for Smart Nation
 PA Senior Academy's (SA) key mission is to encourage seniors aged 50 years and above, to pursue lifelong learning aspirations and lead an active lifestyle, by providing accessible and affordable senior-friendly courses. 
@@ -35,7 +35,7 @@ Are you a Senior or know of someone who wants to pick up a new digital skill? Ch
 
 There are also weekly online interactive classes where Seniors can learn alongside their peers. Alternatively, they can learn at their own pace with the Self-Learning Tools to get a basic understanding of the digital world. 
 
-[Sign up for learning sessions or explore the Self-Learning section here](https://www.imda.gov.sg/en/seniorsgodigital/learn)
+[Sign up for learning sessions or explore the Self-Learning section here.](https://www.imda.gov.sg/en/seniorsgodigital/learn)
 
 ## SkillsFuture
 SkillsFuture is a national movement to enable all Singaporeans to develop to their fullest potential throughout life. SkillsFuture enables citizens to take advantage of a wide range of learning opportunities; whichever stage of life you are currently in.
@@ -62,6 +62,3 @@ Head over to PA's website for the list of CCs that are [part of this initiative.
 ICT professionals can join TTAB, which caters to this group of professional. TTAB provides a platform for lifelong employability, learning and sharing. TTAB's affiliation with NTUC allows ICT professionals access to more resources and social benefits. 
 
 Develop skills and build up an Infocomm-related portfolio with [TTAB now.](https://www.ttab.org.sg/Pages/index.aspx)  
-
- 
-
