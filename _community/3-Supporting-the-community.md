@@ -3,7 +3,7 @@ title: Supporting the Community
 permalink: /community/Supporting-the-community
 ---
 
-![Smart Nation & U event](img.jpg)(images/community/IMG_0214.JPG)
+![Smart Nation & U event](/images/community/IMG_0214.JPG)
 Image pending approval for use
 
 As Singapore transforms into a Smart Nation, we want to also ensure that all segments of our society can be a part of this journey. Below are various Government initiatives created to assist different groups of people. 
