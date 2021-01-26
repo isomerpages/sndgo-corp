@@ -55,7 +55,7 @@ We will share the details for each event (duration, date, time) for you to see i
 
 To sign up to be a Smart Nation Ambassador, email us at [Ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg). 
 
-The schedule of upcoming events that you can volunteer for can be found on [volunteer.sg](https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation).
+The schedule of upcoming events that you can volunteer for can be found on <a href="https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation" target="_blank">volunteer.sg!</a>.
 
 [Return to top](#frequently-asked-questions)
 
