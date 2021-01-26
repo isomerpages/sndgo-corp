@@ -124,7 +124,7 @@ Yes, you should receive an acknowledgement email within 1 working day of reporti
 
 #### **Q13. What is the difference between this government data reporting platform and the reporting platform by the Personal Data Protection Commission (PDPC)?**
 
-This government data incident reporting platform is meant for the reporting of data incidents which involve government data or Government agencies. [PDPC’s reporting platform](https://eservice.pdpc.gov.sg/case/db) is meant for the reporting of data incidents which involve non-government entities.
+This government data incident reporting platform is meant for the reporting of data incidents which involve government data or Government agencies. <a href="https://eservice.pdpc.gov.sg/case/db" target="_blank">PDPC’s reporting platform</a> is meant for the reporting of data incidents which involve non-government entities.
 
 [Return to top](#frequently-asked-questions)
 
@@ -135,7 +135,7 @@ Yes, please report any incident that involves any type of data that is in the po
 - Business data (e.g. financial statements), and 
 - Classified data (e.g. policy documents).
 
-Please refer to Q1 above for the detailed definition of “government data”.
+Please refer to [Q1](#q1-what-is-government-data) above for the detailed definition of “government data”.
 
 [Return to top](#frequently-asked-questions)
 
@@ -143,6 +143,6 @@ Please refer to Q1 above for the detailed definition of “government data”.
 
 A cybersecurity incident is different from a data security incident. Cybersecurity incidents refer to attacks on IT systems or websites that affect the confidentiality, integrity and availability of systems or websites. Data security incidents, or government data incidents, refer to the unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, government data.
 
-You may report a cybersecurity incident under the Government Technology Agency’s Vulnerability Disclosure Programme (VDP). VDP encourages responsible reporting of suspected vulnerabilities or weaknesses in IT services, systems, resources and/or processes that may affect Government internet-accessible applications. Please [click on this link](https://www.tech.gov.sg/report_vulnerability) to find out more about the VDP and report suspected vulnerabilities.
+You may report a cybersecurity incident under the Government Technology Agency’s Vulnerability Disclosure Programme (VDP). VDP encourages responsible reporting of suspected vulnerabilities or weaknesses in IT services, systems, resources and/or processes that may affect Government internet-accessible applications. Please <a href="https://www.tech.gov.sg/report_vulnerability" target="_blank">click on this link</a> to find out more about the VDP and report suspected vulnerabilities.
 
 [Return to top](#frequently-asked-questions)
