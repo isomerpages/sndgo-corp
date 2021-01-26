@@ -6,7 +6,7 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: '#SmartNationTogether'
+        title: SmartNationTogether
          subtitle: Tons of different webinars for everyone! Check out the schedule now.
         background: /images/hero-banner.png
         button: Sign Up Now! 
