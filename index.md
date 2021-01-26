@@ -6,8 +6,8 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: SmartNationTogether
-         subtitle: Tons of different webinars for everyone! Check out the schedule now.
+        title: Webinars for Everyone
+         subtitle: Join '#SmartNationTogether' webinars which covers a wide range of topics! 
         background: /images/hero-banner.png
         button: Sign Up Now! 
         url: /community/webinars-for-everyone/
