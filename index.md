@@ -6,15 +6,15 @@ permalink: /
 notification: 
 sections:
     - hero:
-        title: Smart Nation Together
-        subtitle: Welcome to the "#SmartNationTogether" online channel! 
+        title: '#SmartNationTogether'
+         subtitle: Tons of different webinars for everyone! Check out the schedule now.
         background: /images/hero-banner.png
-        button: Join Us! 
-        url: /building-a-community/smart-nation-together/
+        button: Sign Up Now! 
+        url: /community/webinars-for-everyone/
         key_highlights:
             - title: Smart Nation Ambassadors
-              description: Find out how to support citizen engagement efforts
-              url: https://www.smartnation.gov.sg/resources/scope
+              description: Discover how to join the programme!
+              url: /community/smart-nation-ambassadors
             - title: Business Resources 
               description: Discover initiatives for your business 
               url: /future-of-business/business-resources/
