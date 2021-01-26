@@ -23,8 +23,8 @@ You can contribute through SCOPE by providing feedback on prototypes as they are
 
 You can share your feedback with us on the following initiatives via the links below:
 
-1.  We want to find out how Government websites and digital services can be enhanced and developed to be more user-friendly for seniors. If you are 50 years old and above, or you are assisting a loved one aged 50 years old and above with mobile apps and online transactions, we would love to hear from you. Please share with us your feedback via this [form](https://www.research.net/r/Digital4seniors).
+1.  We want to find out how Government websites and digital services can be enhanced and developed to be more user-friendly for seniors. If you are 50 years old and above, or you are assisting a loved one aged 50 years old and above with mobile apps and online transactions, we would love to hear from you. Please share with us your feedback via this <a href="https://www.research.net/r/Digital4seniors" target="_blank">form</a>.
     
-2.  We want everyone to be on board the Smart Nation journey. To do that well, providing digital government services in the various languages is essential. However, setting up websites in Malay, Chinese and Tamil can be intensive and resource-heavy. Let us know how useful machine-translated content is for you via this [survey form](https://www.research.net/r/MultilanguageGovt)
+2.  We want everyone to be on board the Smart Nation journey. To do that well, providing digital government services in the various languages is essential. However, setting up websites in Malay, Chinese and Tamil can be intensive and resource-heavy. Let us know how useful machine-translated content is for you via this <a href="https://www.research.net/r/MultilanguageGovt" target="_blank">survey form</a>.
 
 If you would like to contribute further and love to engage fellow Singaporeans, join our growing Smart Nation Ambassador family! Find out more about the [program here.](/community/smart-nation-ambassadors)
