@@ -6,8 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
     - hero:
-        title: <font size=8>Webinars for Everyone</font>
-        subtitle: <font size=8>Join</font>
+        title: Webinars for Everyone
+        subtitle: Join Smart Nation
         background: /images/hero-banner.png
         button: Sign Up Now! 
         url: /community/webinars-for-everyone/
