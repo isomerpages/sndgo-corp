@@ -8,10 +8,10 @@ third_nav_title: "Smart Nation Ambassadors"
 
 Have a question on our Smart Nation Ambassador Programme? Check out our FAQs.
 
-- [Who are Smart Nation Ambassadors?](#q1-Who-are-Smart-Nation-Ambassadors) 
+- [Who are Smart Nation Ambassadors?](#q1-who-are-smart-nation-ambassadors) 
 - [What skills/experience do I need to become a Smart Nation Ambassador?](#q2-what-skills-do-i-need-to-become-a-smart-nation-ambassador)
 - [What opportunities are open to me as a Smart Nation Ambassador?](#q3-what-opportunities-are-open-to-me-as-a-smart-nation-ambassador)
-- [How much time do I need to commit as a Smart Nation Ambassador?](#q4-how-much-time-do-i-need-to-commit-as-a-smart-nation-ambassador)
+- [How much time do I need to commit as a Smart Nation Ambassador?](#q4-how-much-time-do-i-need-to-commit-to-as-a-smart-nation-ambassador)
 - [How do I sign up to be a Smart Nation Ambassador and start volunteering?](#q5-how-do-i-sign-up-to-be-a-smart-nation-ambassador-and-start-volunteering)
 - [Who can I contact for further information on Smart Nation Ambassadors?](#q6-who-can-i-contact-for-further-information-on-smart-nation-ambassadors)
 
