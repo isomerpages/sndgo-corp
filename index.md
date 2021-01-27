@@ -2,8 +2,8 @@
 layout: homepage
 title: Smart Nation Singapore
 description: Homepage of Singapore's Smart Nation Initiative
+image: /images/isomer-logo.svg
 permalink: /
-notification: 
 sections:
     - hero:
         title: Webinars for Everyone
