@@ -73,7 +73,7 @@ You should report any detected incident as soon as practically possible. This wo
 
 [Return to top](#frequently-asked-questions)
 
-#### **Q6. ** **What should I do if I am unsure if an incident constitutes as a government data incident?**
+#### **Q6. What should I do if I am unsure if an incident constitutes as a government data incident?**
 
 As long as you suspect there is a government data incident, you should call the Government Data Security Contact Centre hotline for advice and clarifications.
 
