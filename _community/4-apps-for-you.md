@@ -41,7 +41,7 @@ Check out the available apps below.
           <br>
           And for parents – manage the entire family members' account from your App! From checking due dates to managing everyone's reservations and more.<br>
           <br>
-          <a href="https://mobileapp.nlb.gov.sg/" target="_blank">Head over to the mobile app site to learn about all the features.</a>
+          <a href="https://mobileapp.nlb.gov.sg/" target="_blank">Head over to the mobile app site to learn about all the features.</a><br>
           <br>  
           <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="hhttps://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a></div></div><br>
           <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://apps.apple.com/sg/app/nlb-mobile/id1147053983" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a></div></div>
