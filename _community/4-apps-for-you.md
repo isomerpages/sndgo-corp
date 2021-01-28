@@ -19,7 +19,7 @@ Security
 <table width="300px">
 <tbody>
       <td width="100px">
-          <div style="width:100px;"><img src="/images/community/35b36035-9ced-4960-bedc-8469f370a745_v5.png" alt="Life SG"></div>
+          <img src="/images/community/35b36035-9ced-4960-bedc-8469f370a745_v5.png" alt="Life SG">
           <h3>LifeSG</h3> 
           LifeSG is your one-stop personalised access to government services and information. The App connects services to multiple websites into one App – saving             you time and effort. When you set up your profile with MyInfo, you can personalise the App to show you what it interesting and important to you. 
           <br>
