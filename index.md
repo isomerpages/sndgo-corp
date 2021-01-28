@@ -7,7 +7,7 @@ permalink: /
 sections:
     - hero:
         title: Webinars for Everyone
-        subtitle: Join Smart Nation
+        subtitle: We have a wide range of online workshops - to cater for all ages and interests! 
         background: /images/hero-banner.png
         button: Sign Up Now! 
         url: /community/webinars-for-everyone/
