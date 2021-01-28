@@ -21,14 +21,15 @@ Check out the available apps below.
       <td width="100px">
           <img src="/images/community/35b36035-9ced-4960-bedc-8469f370a745_v5.png" alt="Life SG">
           <h3>LifeSG</h3> 
-          LifeSG is your one-stop personalised access to government services and information. The App connects services to multiple websites into one App – saving             you time and effort. When you set up your profile with MyInfo, you can personalise the App to show you what it interesting and important to you. 
-          <br>
+          LifeSG is your one-stop personalised access to government services and information.<br>
+          The App connects services to multiple websites into one App – saving you time and effort. When you set up your profile with MyInfo, you can personalise the App to show you what it interesting and important to you.  <br>
           LifeSG connects you to the right services and information. It is the easiest way to keep up with your government to-do list: schemes, benefits,                     applications, events and more.
           <br>
           <a href="https://www.life.gov.sg/" target="_blank">Find more information on the LifeSG website</a>
             
           <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://play.google.com/store/apps/details?                           id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/google-play-badge.png"></a></div></div>
           <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://apps.apple.com/sg/app/moments-of-                             life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/App_store.svg"></a></div></div>
+          <br>  
          
           
           <a href="ms-nur-khaiyisha-bte-abd-kadir"><img src="/images/stories/mainpage/ms-nur-khaiyisha-bte-abd-kadir.jpg" alt="Ms Nur Khaiyisha Bte Abd Kadir" title="View Story" /></a><br /><strong>Ms Nur Khaiyisha Bte Abd Kadir, Special Needs Teacher, APSN</strong><br /><em>“Go for it if you have that voice or feeling in your heart. Start from that small fire…”</em> 
