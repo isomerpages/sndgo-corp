@@ -22,8 +22,10 @@ Check out the available apps below.
           <img src="/images/community/35b36035-9ced-4960-bedc-8469f370a745_v5.png" alt="Life SG">
           <h3>LifeSG</h3> 
           LifeSG is your one-stop personalised access to government services and information.<br>
-          The App connects services to multiple websites into one App – saving you time and effort. When you set up your profile with MyInfo, you can personalise the App to show you what it interesting and important to you.  <br>
-          LifeSG connects you to the right services and information. It is the easiest way to keep up with your government to-do list: schemes, benefits,                     applications, events and more.
+          <br>
+          The App connects services to multiple websites into one App – saving you time and effort. When you set up your profile with MyInfo, you can personalise the App to show you what it interesting and important to you.<br>
+          <br>
+          LifeSG connects you to the right services and information. It is the easiest way to keep up with your government to-do list: schemes, benefits,                     applications, events and more.<br>
           <br>
           <a href="https://www.life.gov.sg/" target="_blank">Find more information on the LifeSG website</a>
             
