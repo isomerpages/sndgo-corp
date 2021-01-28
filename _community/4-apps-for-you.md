@@ -78,8 +78,8 @@ Check out the available apps below.
         <br>    
         In fire instances, volunteers are encouraged to send photos to SCDF for scene assessment, to enable them to have as much information as possible, before arriving on the scene. For smaller fires, they could even help put it out if there were suitable means (e.g. extinguishers, buckets of water, etc.) around – as long as it is safe for them to do so.<br>
         <br>
-        <a href="https://www.scdf.gov.sg/home/community-volunteers/mobile-applications" target="_blank">Read all about the App here.</a>
-        <br>
+        <a href="https://www.scdf.gov.sg/home/community-volunteers/mobile-applications" target="_blank">Read all about the App here.</a><br>
+	<br>
         <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a></div></div><br>
         <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a></div></div>
           <br>
