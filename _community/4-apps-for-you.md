@@ -2,11 +2,35 @@
 title: Apps For You
 permalink: /community/apps-for-you
 ---
+
+As we continue digitising Government services, some of them have evolved into a mobile app to be more efficient and beneficial. Below is the list of mobile apps that various agencies have developed to help us make life smarter. 
+
+Check out the available apps below.
+
+Community and Lifestyle
+Family
+Health and Wellness 
+Identity and Travel
+Transportation 
+Security 
+
+## Community and Lifestyle
+
 <table width="300px">
 <tbody>
       <td width="100px">
-          <a href="ms-peng-haiying"><img src="/images/stories/mainpage/ms-peng-haiying.jpg" alt="Ms Peng Haiying" title="View Story" /></a><br /><strong>Ms Peng Haiying, Executive Director, SUN-DAC</strong><br /><em>“If you can’t heal lives, you can heal hearts.”</em>
-          <br /><br />
+          ![Life SG](/images/community/35b36035-9ced-4960-bedc-8469f370a745_v5.png) 
+          ### LifeSG 
+          LifeSG is your one-stop personalised access to government services and information. The App connects services to multiple websites into one App – saving             you time and effort. When you set up your profile with MyInfo, you can personalise the App to show you what it interesting and important to you. 
+
+          LifeSG connects you to the right services and information. It is the easiest way to keep up with your government to-do list: schemes, benefits,                     applications, events and more.
+            
+          <a href="https://www.life.gov.sg/" target="_blank">Find more information on the LifeSG website</a>
+            
+          <div style="width:100%;display:flex;justify-content:center;"><div style="width:75px;"><a href="https://play.google.com/store/apps/details?                           id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/google-play-badge.png"></a></div></div>
+          <div style="width:100%;display:flex;justify-content:center;"><div style="width:75px;"><a href="https://apps.apple.com/sg/app/moments-of-                             life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/App_store.svg"></a></div></div>
+          <br />
+          
           <a href="ms-nur-khaiyisha-bte-abd-kadir"><img src="/images/stories/mainpage/ms-nur-khaiyisha-bte-abd-kadir.jpg" alt="Ms Nur Khaiyisha Bte Abd Kadir" title="View Story" /></a><br /><strong>Ms Nur Khaiyisha Bte Abd Kadir, Special Needs Teacher, APSN</strong><br /><em>“Go for it if you have that voice or feeling in your heart. Start from that small fire…”</em> 
           <br /><br />
           <a href="mr-michael-kee-and-ms-irene-neo"><img src="/images/stories/mainpage/mr-michael-kee-and-ms-irene-neo.jpg" alt="Mr Michael Kee And Ms Irene Neo" title="View Story" /></a><br /><strong>Mr Michael Kee and Ms Irene Neo, Foster Parents</strong><br /><em>"I was tutoring underprivileged children every Saturday for about two hours, but it seemed inadequate. I wanted to do more. I was contemplating what else to do, to have to create a bigger impact on society…”</em>
