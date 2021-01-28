@@ -33,7 +33,7 @@ Check out the available apps below.
           <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a></div></div>
           <br>
           <br>
-          img src="/images/community/NLB-Mobile.jpg" alt="National Library Board Mobile App">
+          <img src="/images/community/NLB-Mobile.jpg" alt="National Library Board Mobile App">
           <h3>NLB Mobile</h3> 
           Read on the move with seamless access to NLB content and services.<br> 
           <br>  
@@ -57,6 +57,17 @@ Check out the available apps below.
           <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nea" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a></div></div><br>
           <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://apps.apple.com/sg/app/myenv/id444435182" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a></div></div>
           <br>
+          <br>
+          <img src="/images/community/OneMap.jpg" alt="OneMap app">
+          <h3>OneMap</h3> 
+          See the evolution of our city's landscape!<br>
+          <br>
+	    An open geo-historical map platform that crowdsources photographs of Singapore to help trace the evolution of the city's landscape. Users can contribute to Singapore's geographical history by geo-tagging and sharing personal past and present photographs of Singapore and add to the showcase of modern Singapore streetscapes and those of yesteryears.<br>
+          <br>
+          <a href="https://www.onemap.sg/home/" target="_blank">Check out their web version or download the App from the respective App Stores below</a> 
+          <br>  
+          <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://play.google.com/store/apps/details?id=sg.onemap.android.onemap2" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a></div></div><br>
+          <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://apps.apple.com/us/app/onemap-sg/id1244720012?ls=1" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a></div></div>
       </td>
       <td width="100px">
       <img src="/images/community/myresponder.jpg" alt="my responder app">
