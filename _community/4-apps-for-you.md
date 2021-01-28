@@ -47,7 +47,6 @@ Check out the available apps below.
           <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://apps.apple.com/sg/app/nlb-mobile/id1147053983" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a></div></div>
           <br>  
       </td>
-      
       <td width="100px">
       <img src="/images/community/myenv.png" alt="myENV app">
           <h3>myENV</h3> 
@@ -59,8 +58,6 @@ Check out the available apps below.
           <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://apps.apple.com/sg/app/myenv/id444435182" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a></div></div>
           <br>
       </td>
-      
-      
       <td width="100px">
       <img src="/images/community/myresponder.jpg" alt="my responder app">
           <h3>MyResponder</h3> 
