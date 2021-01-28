@@ -19,7 +19,7 @@ Check out the available apps below.
 <table width="300px">
 <tbody>
       <td width="100px">
-          <img src="/images/community/35b36035-9ced-4960-bedc-8469f370a745_v5.png" alt="Life SG">
+          <img src="/images/community/Life SG Banner.png" alt="Life SG">
           <h3>LifeSG</h3> 
           LifeSG is your one-stop personalised access to government services and information.<br>
           <br>
@@ -29,8 +29,8 @@ Check out the available apps below.
           <br>
           <a href="https://www.life.gov.sg/" target="_blank">Find more information on the LifeSG website</a>
             
-          <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/google-play-badge.png"></a></div></div><br>
-          <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/App_store.svg"></a></div></div>
+          <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google Play.png"></a></div></div><br>
+          <div style="width:100%;display:flex;justify-content:center;"><div style="width:100px;"><a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple Store.png"></a></div></div>
           <br>  
          
           
