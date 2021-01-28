@@ -1,6 +1,6 @@
 ---
-title: Supporting the Community
-permalink: /community/Supporting-the-community
+title: Supporting The Community
+permalink: /community/supporting-the-community
 ---
 
 ![Smart Nation & U event](/images/community/IMG_0214.JPG)
