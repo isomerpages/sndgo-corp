@@ -1,5 +1,5 @@
 ---
-title: Contribute to Smart Nation
+title: Contribute To Smart Nation
 permalink: /community/SCOPE
 ---
 
