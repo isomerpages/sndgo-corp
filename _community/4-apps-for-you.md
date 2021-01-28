@@ -35,7 +35,7 @@ Check out the available apps below.
       </td>
       
       <td width="100px">
-      <img src="/image/community/myenv.png" alt="myENV app">
+      <img src="/images/community/myenv.png" alt="myENV app">
           <h3>myENV</h3> 
          Receive real-time information on PSI, dengue hotspots and the weather via this App! Hungry and looking for the closest hawker centre? myENV can show you the nearest food haven, or you can search by the hawker centre's name to eat your favourite chicken rice.<br>
           <br>
