@@ -1,6 +1,6 @@
 ---
-title: Apps For You
-permalink: /community/apps-for-you
+title: Apps For You Opt 2
+permalink: /community/apps-for-you-opt2
 ---
 
 As we continue digitising Government services, some of them have evolved into a mobile app to be more efficient and beneficial. Below is the list of mobile apps that various agencies have developed to help us make life smarter. 
