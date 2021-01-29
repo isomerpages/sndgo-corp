@@ -19,7 +19,7 @@ Check out the available apps below.
 <table style="width:100%">
   <tr>
   <td style="width:30%">
-  <img src="/images/community/LifeSG-Banner.png" alt="Life SG app" align="right">
+  <img src="/images/community/LifeSG-Banner.png" alt="Life SG app" align="middle">
   </td>	
   <td style="width:70%"><h3>LifeSG</h3><br>
   LifeSG is your one-stop personalised access to government services and information.<br>
