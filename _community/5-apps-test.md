@@ -30,10 +30,10 @@ Check out the available apps below.
       <br><br>
       <a href="https://www.life.gov.sg/" target="_blank">Find more information on the LifeSG website</a>
       <br>
-      <div style="width:100%;display:flex">
-         <div style="width:50%;flex:1"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+      <div style="display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
-          <div style="width:50%;flex:1"><a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
       </div>
     </td>
