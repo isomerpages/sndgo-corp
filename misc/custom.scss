@@ -9,14 +9,11 @@ $primary: #ed1a3b;
 $secondary: #ed1a3b;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #ed1a3b;
-$media-color-two: #678a00;
-$media-color-three: #ff6633;
-$media-color-four: #0099ff;
-$media-color-five: #333333;
-//$media-color-six: #ff33cc;
-//$media-color-seven: #ed1a3b;
-//$media-color-eight: #33cc33;
+$media-color-one: #678a00;
+$media-color-two: #6FF6633;
+$media-color-three: #678a00;
+$media-color-four: #CC3366;
+$media-color-five: #0180a0;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
