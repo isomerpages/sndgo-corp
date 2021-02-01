@@ -7,7 +7,7 @@ third_nav_title: "Initiatives"
 
 <style>
 /*--------------------------------------------------------------
-DAVID: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
+CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 
 /* refrain from using pure img selector as it changes the MSE logo size */
@@ -94,7 +94,7 @@ DAVID: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 }
 
 /*--------------------------------------------------------------
-DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
+CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 </style>
 
@@ -104,7 +104,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <section class="cards">
     <div class="card">
         <a href="/policies/climate-change">
-                <img src="/images/climate-change.svg">
+                <img src="/images/snp.png">
             <div class="card-content">
                 <h6>Strategic National Projects</h6>
             </div><!-- .card-content -->
@@ -112,7 +112,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
         <div class="card">
         <a href="/policies/energy">
-                <img src="/images/energy.svg">
+                <img src="/images/urbanliving.png">
             <div class="card-content">
                 <h6>Urban Living</h6>
             </div><!-- .card-content -->
@@ -120,7 +120,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/water">
-                <img src="/images/water-tap-v4.svg">
+                <img src="/images/transport.png">
             <div class="card-content">
                 <h6>Transport</h6>
             </div><!-- .card-content -->
@@ -128,7 +128,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/clean-air">
-                <img src="/images/clean-air.svg">
+                <img src="/images/health.png">
             <div class="card-content">
                 <h6>Health</h6>
             </div><!-- .card-content -->
@@ -136,15 +136,15 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/clean-land">
-                <img src="/images/clean-land.svg">
+                <img src="/images/digitalgovt.png">
             <div class="card-content">
-                <h6>Digital Governmetn Services</h6>
+                <h6>Digital Government Services</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/public-health">
-                <img src="/images/public-health.svg">
+                <img src="/images/startup.png">
             <div class="card-content">
                 <h6>Startups and Businesses</h6>
             </div><!-- .card-content -->
