@@ -104,7 +104,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/policies/climate-change">
                 <img src="/images/climate-change.svg">
             <div class="card-content">
-                <h6>Climate Change</h6>
+                <h6>Strategic National Projects</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -112,7 +112,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/policies/energy">
                 <img src="/images/energy.svg">
             <div class="card-content">
-                <h6>Energy</h6>
+                <h6>Urban Living</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -120,7 +120,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/policies/water">
                 <img src="/images/water-tap-v4.svg">
             <div class="card-content">
-                <h6>Water</h6>
+                <h6>Transport</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -128,7 +128,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/policies/clean-air">
                 <img src="/images/clean-air.svg">
             <div class="card-content">
-                <h6>Clean Air</h6>
+                <h6>Health</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -136,7 +136,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/policies/clean-land">
                 <img src="/images/clean-land.svg">
             <div class="card-content">
-                <h6>Clean Land</h6>
+                <h6>Digital Governmetn Services</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -144,35 +144,10 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/policies/public-health">
                 <img src="/images/public-health.svg">
             <div class="card-content">
-                <h6>Public Health</h6>
+                <h6>Startups and Businesses</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
-    <div class="card">
-        <a href="/policies/food/">
-                <img src="/images/food-security.svg">
-            <div class="card-content">
-                <h6>Food Security</h6>
-            </div><!-- .card-content -->
-        </a>
-    </div><!-- .card -->
-    <!--
-<div class="card">
-        <a href="/research-and-innovation/">
-                <img src="/images/research-innovation.svg">
-            <div class="card-content">
-                <h6>Research & Innovation</h6>
-            </div><!-- .card-content -->
-       <!-- .card -->
-    <div class="card">
-    <a href="/policies/safe-distancing">
-            <img src="/images/safe-distancing.svg">
-        <div class="card-content">
-            <h6>Safe Distancing</h6>
-        </div><!-- .card-content -->
-    </a>
-</div><!-- .card -->
-
 </section><!-- .cards -->
 
 
