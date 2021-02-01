@@ -1,6 +1,8 @@
 ---
-title: Overview of Policies
-permalink: /policies/overview/
+title: Initiatives 
+permalink: /our-smart-nation/initiatives/
+breadcrumb: Initiatives
+third_nav_title: "Initiatives"
 ---
 
 <style>
