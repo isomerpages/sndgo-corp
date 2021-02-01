@@ -21,7 +21,7 @@ Check out the available apps below.
     <td style="width:30%">
       <img src="/images/community/LifeSG-Banner.png" alt="Life SG app" align="middle">
     </td>	
-    <td style="width:70%"><h3>LifeSG - image alignment</h3><br>
+    <td style="width:70%">
       LifeSG is your one-stop personalised access to government services and information.
       <br><br>
       The App connects services to multiple websites into one App – saving you time and effort. When you set up your profile with MyInfo, you can personalise the App to show you what it interesting and important to you.<br>
