@@ -20,6 +20,8 @@ Check out the available apps below.
   <tr>
     <td style="width:30%">
       <img src="/images/community/LifeSG-Banner.png" alt="Life SG app" align="middle">
+      <br>
+      <h3>LifeSG</h3>
     </td>	
     <td style="width:70%">
       LifeSG is your one-stop personalised access to government services and information.
