@@ -103,7 +103,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="policies-container">
 <section class="cards">
     <div class="card">
-        <a href="/policies/climate-change">
+        <a href="/our-smart-nation/initiatives/strategic-national-projects">
                 <img src="/images/snp.png">
             <div class="card-content">
                 <h6>Strategic National Projects</h6>
@@ -111,7 +111,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
         <div class="card">
-        <a href="/policies/energy">
+        <a href="/our-smart-nation/initiatives/urban-living">
                 <img src="/images/urbanliving.png">
             <div class="card-content">
                 <h6>Urban Living</h6>
@@ -119,7 +119,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/water">
+        <a href="/our-smart-nation/initiatives/transport">
                 <img src="/images/transport.png">
             <div class="card-content">
                 <h6>Transport</h6>
@@ -127,7 +127,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/clean-air">
+        <a href="/our-smart-nation/initiatives/health">
                 <img src="/images/health.png">
             <div class="card-content">
                 <h6>Health</h6>
@@ -135,7 +135,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/clean-land">
+        <a href="/our-smart-nation/initiatives/digital-government-services">
                 <img src="/images/digitalgovt.png">
             <div class="card-content">
                 <h6>Digital Government Services</h6>
@@ -143,7 +143,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/public-health">
+        <a href="/our-smart-nation/initiatives/startups-and-businesses">
                 <img src="/images/startup.png">
             <div class="card-content">
                 <h6>Startups and Businesses</h6>
