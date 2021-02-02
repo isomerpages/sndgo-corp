@@ -4,39 +4,35 @@ permalink: /our-smart-nation/securing-our-nation
 breadcrumb: Securing Our Nation
 third_nav_title: "Securing Our Nation"
 ---
-### **Strategic National Projects**
-To drive pervasive adoption of digital and smart technologies throughout Singapore, we have identified key Strategic National Projects, which are key enablers in our Smart Nation drive.
+**“Data is the lifeblood of a digital economy and a digital government. As the custodian of a vast amount of data, the Government takes its responsibility of securing the data and preserving individuals’ privacy very seriously.”**<br>
+*- Prime Minister Lee Hsien Loong, Nov 2019*
+
+
+Cybersecurity and data security are key enablers of a Smart Nation. The Government is committed to ensuring the security of our systems, and the data entrusted to us by the public. Secure design principles are adopted to safeguard Government systems against cybersecurity threats. We will also ensure that citizens’ data is handled with care and protect the data following the high standards imposed on the public sector and third-party vendors.
+
+Learn more about how the Government protects your data and safeguards its systems: 
+
 <br>
 <div class="row">  
   <div class="column-c" > 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/codex" target="_blank"><img src="/images/codex2.jpg"></a><br>
-    <div class="header"><b>CODEX</b></div><br>
-    <div class="para">Enabling a lean, agile and future-ready Government.</div>
+    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/codex" target="_blank"><img src="/images/our-smart-nation/Govt-initatives.jpg"></a><br>
+    <div class="header"><b>Government’s Personal Data Protection Initiatives</b></div><br>
+    <div class="para">Recommendations and initiatives to strengthen the Government’s data security regime.</div>
   </div>
    <div class="column-c"> 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/e-payments-1" target="_blank"><img src="/images/e-payments2.jpg"></a><br>       <div class="header"><b>E-Payments</b></div><br>
-    <div class="para">Simple, swift, seamless, and safe payments for everyone.</div>
+    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/e-payments-1" target="_blank"><img src="//images/our-smart-nation/Govt-laws-policies.jpg"></a><br>       <div class="header"><b>Government’s Personal Data Protection Laws and Policies</b></div><br>
+    <div class="para">Data management by public sector agencies and third parties of public agencies.</div>
   </div>
   <div class="column-c">  
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/lifesg-initiative" target="_blank"><img src="/images/lifesg-initiative2.jpg"></a><br>
-    <div class="header"><b>LifeSG Initiative</b></div><br>
-    <div class="para">Personalising government services and information across different government agencies for citizens.</div>
+    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/lifesg-initiative" target="_blank"><img src="/images/our-smart-nation/cybersecurity-public.jpg"></a><br>
+    <div class="header"><b>Cybersecurity in the Public Sector</b></div><br>
+    <div class="para">Our three-pronged approach to secure the systems to ensure no disruption to citizens services.</div>
   </div>     
 </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/national-digital-identity-ndi" target="_blank"><img src="/images/national-digital-identity2.jpg"></a><br>
-    <div class="header"><b>National Digital Identity (NDI)</b></div><br>
-    <div class="para">For citizens and businesses to transact conveniently and securely online.</div>
+    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/national-digital-identity-ndi" target="_blank"><img src="/images/our-smart-nation/report-data-incident.jpg"></a><br>
+    <div class="header"><b>Report a Government Data Incident</b></div><br>
+    <div class="para">The government data incident reporting platform to report a suspected incident.</div>
   </div>
-  <div class="column-c"> 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/smart-nation-sensor-platform" target="_blank"><img src="/images/smart-nation-sensor-platform2.jpg"></a><br>       
-    <div class="header"><b>Smart Nation Sensor Platform</b></div><br>
-    <div class="para">Use of sensors and data to run a smart, green and liveable city.</div> 
-  </div>  
-  <div class="column-c">  
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/smart-urban-mobility" target="_blank"><img src="/images/smart-urban-mobility2.jpg"></a><br>
-    <div class="header"><b>Smart Urban Mobility</b></div><br>
-    <div class="para">Leveraging data and digital technologies, including Artificial Intelligence and autonomous vehicles, to enhance public transport.</div>    
-  </div>     
 </div>
