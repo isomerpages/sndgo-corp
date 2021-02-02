@@ -180,7 +180,7 @@ Everyday living made smarter as we go about our daily lives with the apps listed
 
 ## Family
 
-There is nothing more important than family, and every moment with them is precious. One of the aims of apps is to simplify your life and get things done faster or on the go – especially for parents. The two apps are focused on two different generations – the children or elderly parents to assist in various ways to help the family units.
+There is nothing more important than family, and every moment with them is precious. One of the aims of apps is to simplify your life and get things done faster or on the go – especially for parents whose time is limited. The two apps are focused on two different generations – the children or elderly parents to assist in various ways to help the family units.
 
 <table style="width:100%">
   <tr>
