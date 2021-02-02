@@ -34,7 +34,7 @@ Learn more about how the Government protects your data and safeguards its system
 </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/national-digital-identity-ndi" target="_blank"><img src="/images/our-smart-nation/report-data-incident.jpg"></a><br>
+    <a href="https://www.smartnation.gov.sg/report-data-incident/report-data-incident" target="_blank"><img src="/images/our-smart-nation/report-data-incident.jpg"></a><br>
     <div class="header"><b>Report a Government Data Incident</b></div><br>
     <div class="para">The government data incident reporting platform to report a suspected incident.</div>
   </div>
