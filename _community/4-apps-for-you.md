@@ -31,7 +31,7 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       <br>
       LifeSG connects you to the right services and information. It is the easiest way to keep up with your government to-do list: schemes, benefits, applications, events and more.
       <br><br>
-      <a href="https://www.life.gov.sg/" target="_blank">Find more information on the LifeSG website!</a>
+      <a href="https://www.life.gov.sg/" target="_blank">Find more information on the LifeSG website!</a><br>
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
@@ -118,7 +118,6 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       <br>
       The App provides a channel to report municipal issues across MSO's partner agencies on one common platform. You would not need to find out who you need to call! By submitting a photo and geo-tagging where the location is, facilitates complete and precise reporting of municipal issues.<br>
       <br>
-       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
@@ -134,7 +133,8 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       <br>
       Crowdsourced sightings are plotted on the NParks BIOME online database to map flora and fauna distribution throughout Singapore. These are essential records of new and rediscovered species all across the island. This information would help monitor our biodiversity and lead to more effective planning for habitat enhancement and restoration.<br>
       <br>
-      <a href="https://www.nparks.gov.sg/news/2015/4/nparks-biodiversity-databases" target="_blank">More details can be found on the NParks' website.</a>
+      <a href="https://www.nparks.gov.sg/news/2015/4/nparks-biodiversity-databases" target="_blank">More details can be found on the NParks' website.</a><br>
+      <br>    
       <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.nparks.BiodiversityApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
@@ -150,7 +150,8 @@ Everyday living made smarter as we go about our daily lives with the apps listed
 	<br>
 	Beyond government services, SPM can let you log in to selected private sectors services – like NTUC Income, AIA, Manulife, Prudential, to name a few.<br> 
 	<br> 
-	<a href="https://app.singpass.gov.sg/" target="_blank">To check out all the features of SPM, head over to the website now!</a>
+	<a href="https://app.singpass.gov.sg/" target="_blank">To check out all the features of SPM, head over to the website now!</a><br>
+	<br>    
 <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
@@ -165,6 +166,7 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       Official statistics on the Singapore population and economy are now more readily accessible while on-the-go to satisfy all curiosities! The SingStat Mobile App contains commonly accessed data in some 200 charts spanning across 27 data categories – from Singapore and key ASEAN statistics - allowing users to visualise data easily on their mobile devices.<br>
       <br>
       <a href="https://www.singstat.gov.sg/our-services-and-tools/singstat-mobile-app" target="_blank">Click here for more details on the SingStat Mobile App.</a><br>
+      <br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.singstat" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
@@ -191,7 +193,7 @@ There is nothing more important than family, and every moment with them is preci
 	<br>
 	This App also allows you to post cases of missing loved ones. Immediately reaching out to the community to help keep a lookout for your loved one as well!<br>
 	<br>
-	<a href="https://dementiafriendly.sg/" target="_blank">Find out more about the App.</a> 
+	<a href="https://dementiafriendly.sg/" target="_blank">Find out more about the App.</a><br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=aic.dfriends" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
@@ -208,7 +210,7 @@ There is nothing more important than family, and every moment with them is preci
 	<br>
 	The parents can perform administrative functions such as providing consent for their children to participate in school activities – doing away with all those physical consent forms. Parents can also keep track of all their children's upcoming activities through this App.<br>
 	<br>
-	<a href="https://pg.moe.edu.sg/faq" target="_blank">Have more questions? Head over here.</a>
+	<a href="https://pg.moe.edu.sg/faq" target="_blank">Have more questions? Head over here.</a><br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=com.moe.pgp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
