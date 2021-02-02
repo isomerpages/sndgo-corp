@@ -10,7 +10,7 @@ Check out the available apps below.
 - [Community and Lifestyle](#community-and-lifestyle)
 - [Family](#family)
 - [Health and Wellness](#health-and-wellness)
-- [Identity and Travel](#identity-and-travel)
+- [Travel](#travel)
 - [Transportation](#transportation)
 - [Security](#security)
 
@@ -144,6 +144,22 @@ Everyday living made smarter as we go about our daily lives with the apps listed
     </td>
   </tr>
   <tr>
+    <td><img src="/images/national-digital-identity2.jpg" alt="SingPass Mobile"></td>
+    <td><h3>SingPass Mobile</h3>
+	SingPass Mobile (SPM) provides a secure and convenient method for users to log into government digital services with their fingerprint, facial recognition or a 6-digit passcode. The App also can show you various information from the MyInfo Profile – such as your digital identity card, driving licence and many more.<br> 
+	<br>
+	Beyond government services, SPM can let you log in to selected private sectors services – like NTUC Income, AIA, Manulife, Prudential, to name a few.<br> 
+	<br> 
+	<a href="https://app.singpass.gov.sg/" target="_blank">To check out all the features of SPM, head over to the website now!</a>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://apps.apple.com/us/app/singpass-mobile/id1340660807" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+      </div>  
+    </td>
+  </tr>
+  <tr>
     <td><img src="/images/community/SingStat.jpg" alt="SingStat mobile app"></td>
     <td><h3>SingStat Mobile App</h3>
       Official statistics on the Singapore population and economy are now more readily accessible while on-the-go to satisfy all curiosities! The SingStat Mobile App contains commonly accessed data in some 200 charts spanning across 27 data categories – from Singapore and key ASEAN statistics - allowing users to visualise data easily on their mobile devices.<br>
@@ -157,6 +173,49 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       </div>  
     </td>
   </tr>
-    
-    
+</table>
+
+
+## Family
+
+There is nothing more important than family, and every moment with them is precious. One of the aims of apps is to simplify your life and get things done faster or on the go – especially for parents. The two apps are focused on two different generations – the children or elderly parents to assist in various ways to help the family units.
+
+<table style="width:100%">
+  <tr>
+    <td style="width:30%">
+      <img src="/images/community/dementia-friends.jpg" alt="Dementia Friends">
+    </td>	
+    <td style="width:70%">
+      <h3>Dementia Friends</h3>
+	To build a dementia-friendly Singapore, this App provides information and resources for supporting persons with dementia and caregivers of those with dementia. Creating this Community to support the caregivers and people with dementia, allows people to reach out more conveniently for help and know that they are not alone.<br>
+	<br>
+	This App also allows you to post cases of missing loved ones. Immediately reaching out to the community to help keep a lookout for your loved one as well!<br>
+	<br>
+	<a href="https://dementiafriendly.sg/" target="_blank">Find out more about the App.</a> 
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=aic.dfriends" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/dementia-friends/id1398198593" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+      </div>  
+    </td>
+  </tr>
+  <tr>
+    <td><img src="/images/community/Parents-Gateway.jpg" alt="Parents Gateway"></td>
+    <td><h3>Parents Gateway</h3>
+	A one-stop mobile app for parents and schools to better support their children's educational journey through improved communications. The App allows schools to send updates on programmes and activities.<br>
+	<br>
+	The parents can perform administrative functions such as providing consent for their children to participate in school activities – doing away with all those physical consent forms. Parents can also keep track of all their children's upcoming activities through this App.<br>
+	<br>
+	<a href="https://pg.moe.edu.sg/faq" target="_blank">Have more questions? Head over here.</a>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=com.moe.pgp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708 " target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+      </div>  
+    </td>
+  </tr>    
 </table>
