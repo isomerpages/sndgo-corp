@@ -2,6 +2,19 @@ title: Government of Singapore
 url: "https://www.smartnation.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
+colors:
+    primary-color: '#ed1a3b'
+    secondary-color: '#ed1a3b'
+    media-colors: 
+        - title: media-color-one 
+          color: '#678a00' 
+        - title: media-color-two 
+          color: '#FF6633' 
+        - title: media-color-three 
+          color: '#CC3366'
+        - title: media-color-three 
+          color: '#0180a0'
+
 collections:
   community:
     output: true
