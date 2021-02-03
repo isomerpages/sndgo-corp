@@ -80,15 +80,15 @@ Get your Start Digital Pack today!
 
 Startups with proprietary technology solutions or are seeking support for Proof-of-Concept (POC) and Proof-of-Value (POV), can approach Startup SG Tech to seek early stage funding for commercialisation of tech ideas!
 
-### **[Automation Support Package (ASP)](https://spring.enterprisesg.gov.sg/Growing-Business/Grant/development-areas/Pages/enhancing-business-processes-for-productivity.aspx)**
+<a href="https://spring.enterprisesg.gov.sg/Growing-Business/Grant/development-areas/Pages/enhancing-business-processes-for-productivity.aspx" target="_blank"><h2>Automation Support Package (ASP)</h2></a>
 
 If you are a company looking to deploy automation solutions to increase operational productivity, consider applying for ASP to tap on tax and loan incentives to defray the cost of large-scale deployment of automation solutions across existing operations.
 
-### **[Technology Adoption Programme (TAP)](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-partners/technology-adoption-programme)**
+<a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-partners/technology-adoption-programme" target="_blank"><h2>Technology Adoption Programme (TAP)</h2></a>
 
 SMES ready to leverage technology to improve productivity can tap on TAP! The programme supports collaboration amongst public sector research institutes, private sector technology providers, Institutes of Higher Learning, Trade Associations and Chambers (TACs) and private sector system integrators, to identify and translate new technologies into Ready-to-Go (RTG) solutions.
 
-### **[The Financial Sector Technology and Innovation Scheme](http://www.mas.gov.sg/Singapore-Financial-Centre/Smart-Financial-Centre/Setting-up-your-Business.aspx)**
+<a href="http://www.mas.gov.sg/Singapore-Financial-Centre/Smart-Financial-Centre/Setting-up-your-Business.aspx" target="_blank"><h2>The Financial Sector Technology and Innovation Scheme</h2></a>
 
 To support the creation of a vibrant ecosystem for innovation in FinTech, the Financial Sector Technology and Innovation scheme was launched under the Financial Sector Development Fund to support:
 
