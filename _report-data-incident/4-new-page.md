@@ -1,6 +1,5 @@
 
 ---
-layout: new-page
 title: New Page
 permalink: /report-data-incident/new-page/
 breadcrumb: New Page
