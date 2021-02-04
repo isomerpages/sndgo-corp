@@ -17,14 +17,14 @@ Learn more about how the Government protects your data and safeguards its system
 
 <br>
 
-<div class="row" style="width:100%">  
-  <div class="column-c" style="width:50%"> 
+<div style="width:100%;display:flex;flex-wrap:wrap;">  
+  <div style="flex:50%"> 
     <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/codex" target="_blank"><img src="/images/our-smart-nation/Govt-initatives.jpg"></a><br>
     <div class="header"><b>Government’s Personal Data Protection Initiatives</b></div>
     <br>
     <div class="para">Recommendations and initiatives to strengthen the Government’s data security regime.</div>
   </div>
-  <div class="column-c" style="width:50%"> 
+  <div style="flex:50%"> 
     <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/e-payments-1" target="_blank"><img src="/images/our-smart-nation/Govt-laws-policies.jpg"></a><br>       
     <div class="header"><b>Government’s Personal Data Protection Laws and Policies</b></div>
     <br>
