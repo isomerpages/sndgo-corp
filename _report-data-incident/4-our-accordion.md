@@ -1,5 +1,4 @@
 ---
-layout: our-accordion
 title: Our Accordion
 permalink: /report-data-incident/our-accordion/
 breadcrumb: Our Accordion
