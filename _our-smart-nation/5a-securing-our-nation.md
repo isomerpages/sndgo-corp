@@ -16,26 +16,33 @@ Cybersecurity and data security are key enablers of a Smart Nation. The Governme
 Learn more about how the Government protects your data and safeguards its systems: 
 
 <br>
-<div class="row">  
-  <div class="column-c" > 
+
+<div class="row" style="width:100%">  
+  <div class="column-c" style="width:50%"> 
     <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/codex" target="_blank"><img src="/images/our-smart-nation/Govt-initatives.jpg"></a><br>
-    <div class="header"><b>Government’s Personal Data Protection Initiatives</b></div><br>
+    <div class="header"><b>Government’s Personal Data Protection Initiatives</b></div>
+    <br>
     <div class="para">Recommendations and initiatives to strengthen the Government’s data security regime.</div>
   </div>
-   <div class="column-c"> 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/e-payments-1" target="_blank"><img src="/images/our-smart-nation/Govt-laws-policies.jpg"></a><br>       <div class="header"><b>Government’s Personal Data Protection Laws and Policies</b></div><br>
+  <div class="column-c" style="width:50%"> 
+    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/e-payments-1" target="_blank"><img src="/images/our-smart-nation/Govt-laws-policies.jpg"></a><br>       
+    <div class="header"><b>Government’s Personal Data Protection Laws and Policies</b></div>
+    <br>
     <div class="para">Data management by public sector agencies and third parties of public agencies.</div>
   </div>
 </div> 
-<div class="row">
-  <div class="column-c">  
+
+<div class="row" style="width:100%">
+  <div class="column-c" style="width:50%">  
     <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/lifesg-initiative" target="_blank"><img src="/images/our-smart-nation/cybersecurity-public.jpg"></a><br>
-    <div class="header"><b>Cybersecurity in the Public Sector</b></div><br>
+    <div class="header"><b>Cybersecurity in the Public Sector</b></div>
+    <br>
     <div class="para">Our three-pronged approach to secure the systems to ensure no disruption to citizens services.</div>
   </div>     
-  <div class="column-c" > 
+  <div class="column-c" style="width:50%"> 
     <a href="https://www.smartnation.gov.sg/report-data-incident/report-data-incident" target="_blank"><img src="/images/our-smart-nation/report-data-incident.jpg"></a><br>
-    <div class="header"><b>Report a Government Data Incident</b></div><br>
+    <div class="header"><b>Report a Government Data Incident</b></div>
+    <br>
     <div class="para">The government data incident reporting platform to report a suspected incident.</div>
   </div>
 </div>
