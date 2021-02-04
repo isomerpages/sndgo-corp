@@ -1,10 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Health & Wellness
-permalink: /course-directory/health-and-wellness/
-breadcrumb: Health & Wellness
-collection_name: course-directory
+layout: our-accordion
+title: Our Accordion
+permalink: /report-data-incident/our-accordion/
+breadcrumb: Our Accordion
+collection_name: report-data-incident
 ---
+
 
 <div class="courseAccordion">
 	<div class="cdDesc">
