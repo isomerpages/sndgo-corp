@@ -1,4 +1,4 @@
 ---
-title: FAQ
-permalink: /report-data-incident/faq/
+title: New Page
+permalink: /report-data-incident/new-page/
 ---
