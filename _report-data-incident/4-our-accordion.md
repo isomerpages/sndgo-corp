@@ -2,9 +2,6 @@
 title: Our Accordion
 permalink: /report-data-incident/our-accordion/
 ---
-
-
-
 <div class="courseAccordion">
 	<div class="cdDesc">
 		<p><img src="/images/course-directory/cd-banner-healthwellness.png" alt="Merdeka Generation programmes to Health & Wellness"></p>
@@ -1108,4 +1105,3 @@ permalink: /report-data-incident/our-accordion/
 		</div>
 	</div>
 </div>
-
