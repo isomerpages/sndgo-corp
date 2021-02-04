@@ -1,6 +1,6 @@
 ---
 title: Business Resources 
-permalink: /business/business-resources/
+permalink: /business/resources/
 ---
 
 # Business Resources
