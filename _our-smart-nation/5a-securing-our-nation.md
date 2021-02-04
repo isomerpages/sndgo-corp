@@ -32,14 +32,14 @@ Learn more about how the Government protects your data and safeguards its system
   </div>
 </div> 
 
-<div class="row" style="width:100%">
-  <div class="column-c" style="width:50%">  
+<div style="width:100%;display:flex;flex-wrap:wrap;">  
+  <div style="flex:50%"> 
     <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/lifesg-initiative" target="_blank"><img src="/images/our-smart-nation/cybersecurity-public.jpg"></a><br>
     <div class="header"><b>Cybersecurity in the Public Sector</b></div>
     <br>
     <div class="para">Our three-pronged approach to secure the systems to ensure no disruption to citizens services.</div>
   </div>     
-  <div class="column-c" style="width:50%"> 
+  <div style="flex:50%">
     <a href="https://www.smartnation.gov.sg/report-data-incident/report-data-incident" target="_blank"><img src="/images/our-smart-nation/report-data-incident.jpg"></a><br>
     <div class="header"><b>Report a Government Data Incident</b></div>
     <br>
