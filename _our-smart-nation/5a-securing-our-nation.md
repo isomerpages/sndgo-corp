@@ -26,13 +26,13 @@ Learn more about how the Government protects your data and safeguards its system
     <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/e-payments-1" target="_blank"><img src="/images/our-smart-nation/Govt-laws-policies.jpg"></a><br>       <div class="header"><b>Government’s Personal Data Protection Laws and Policies</b></div><br>
     <div class="para">Data management by public sector agencies and third parties of public agencies.</div>
   </div>
+</div> 
+<div class="row">
   <div class="column-c">  
     <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/lifesg-initiative" target="_blank"><img src="/images/our-smart-nation/cybersecurity-public.jpg"></a><br>
     <div class="header"><b>Cybersecurity in the Public Sector</b></div><br>
     <div class="para">Our three-pronged approach to secure the systems to ensure no disruption to citizens services.</div>
   </div>     
-</div>
-<div class="row">  
   <div class="column-c" > 
     <a href="https://www.smartnation.gov.sg/report-data-incident/report-data-incident" target="_blank"><img src="/images/our-smart-nation/report-data-incident.jpg"></a><br>
     <div class="header"><b>Report a Government Data Incident</b></div><br>
