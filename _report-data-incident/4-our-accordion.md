@@ -550,11 +550,11 @@ collection_name: report-data-incident
 				<div class="tab">
 					<a name="hathayogaonlinecourses"></a>
 					<input type="checkbox" id="chck2020onlinecourses_2">
-					<label class="tab-label" for="chck2020onlinecourses_2">Hatha Yoga (Online)</label>
+					<label class="tab-label" for="chck2020onlinecourses_2">Digital Government</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-hatha-yoga-online-courses.jpg" alt="Hatha Yoga (Online)"></p>
+								<p><img src="/images/digitalgovt.png" alt="Digital Government"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Learn Hatha Yoga in the comfort of your home. Keep calm, and heal your body by learning various common yoga postures, such as seated, standing, balancing, core strengthening, hamstring lengthening, forward and back bending. Suitable for all ages, the class is a perfect way to get in tune with your mind and body. Join the class today!</p>
@@ -828,11 +828,11 @@ collection_name: report-data-incident
 				<div class="tab">
 					<a name="yogatherapyforshoulderneckandbackonlinecourses"></a>
 					<input type="checkbox" id="chck2020onlinecourses_7">
-					<label class="tab-label" for="chck2020onlinecourses_7">Yoga Therapy for Shoulder, Neck and Back (Online)</label>
+					<label class="tab-label" for="chck2020onlinecourses_7">National Digital Identity</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-yoga-therapy-for-shoulder-neck-and-back-online-courses.jpg" alt="Yoga Therapy for Shoulder, Neck and Back (Online)"></p>
+								<p><img src="/images/national-digital-identity2.jpg" alt="National Digital Identity"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Suffering from neck, shoulder, and back strain caused by long hours of sitting and repetitive electronic device usage? Pick up Yoga therapy, which is guided and customised to release tension in the neck, shoulder, and back.</p>
