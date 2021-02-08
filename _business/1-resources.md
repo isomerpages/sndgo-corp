@@ -16,7 +16,7 @@ Head over to the individual sites for more details or if you want to tap on thes
 Suppose you are not sure what is best suited for your business, head over to the e-Adviser for Government Assistance. Once you answer their guiding questions and fill in your details, there will be a list of relevant resources to get you started
 
 
-<a href="https://www.imda.gov.sg/programme-listing/accreditation-at-sgd" target="_blank"><h2>Accreditation@SGD</h2></a>
+<a href="https://www.imda.gov.sg/programme-listing/accreditation-at-sgd" target="_blank"> ## Accreditation@SGD</a>
 
 Are you a Singapore-based high-growth ICM product company or start-up with a promising and innovative solution? If so, this is for you. Accreditation@SGD seeks to help open up more opportunities for your products and solutions to be showcased and open new market opportunities. 
 
