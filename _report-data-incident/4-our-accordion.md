@@ -8,7 +8,7 @@ collection_name: report-data-incident
 
 <div class="courseAccordion">
 	<div class="cdDesc">
-		<p><img src="/images/course-directory/cd-banner-healthwellness.png" alt="Merdeka Generation programmes to Health & Wellness"></p>
+		<p><img src="/images/our-smart-nation/cybersecurity-public.jpg" alt="CyberSecurity for Public"></p>
 		<p>Our minds and bodies need our tender, loving care so that we can live life to the fullest. With great health, we maintain the freedom to fulfil our dreams.</p>
 		<p>Zumba, Yoga or Health Qigong to there's no need to pick just one! With our variety of Health & Wellness courses, you'll be able to find something to fit your interests.</p>
 		<p>Class schedule may be subjected to changes. Contact CC for updates.</p>
@@ -24,7 +24,7 @@ collection_name: report-data-incident
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-chair-yoga-blended-courses.jpg" alt="Chair Yoga (Blended)"></p>
+								<p><img src="/images/health.png" alt="Health"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Want to try Yoga? Start with the Chair Yoga, a relaxing stress reliever suitable for all ages. A well rounded chair yoga session that starts with breathing, warm ups, sun salutions on the chair and ends with cooling down through pranayama and deep relaxation. The class focuses on various common yoga poses, such as triangle (Trikonasana), eagle (Garudasana), and spinal twist (Vakrasana).</p>
