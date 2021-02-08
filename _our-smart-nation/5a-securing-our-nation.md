@@ -7,6 +7,8 @@ third_nav_title: "Securing Our Nation"
 
 # Securing Our Nation
 
+ ![Alt](/images/hero-banner.png)
+
 **“Data is the lifeblood of a digital economy and a digital government. As the custodian of a vast amount of data, the Government takes its responsibility of securing the data and preserving individuals’ privacy very seriously.”**<br>
 *- Prime Minister Lee Hsien Loong, Nov 2019*
 
