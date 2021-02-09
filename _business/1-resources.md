@@ -68,7 +68,7 @@ The programme offers a series of platforms which serve as a catalyst for transfo
 Looking Glass aims to serve as a platform for the FinTech community to collaborate, providing a venue for networking activities. 
 
 
-<h2><a href="https://business.myinfo.gov.sg/" target="_blank">MyInfo Business</h2></a></h2>
+<h2><a href="https://business.myinfo.gov.sg/" target="_blank">MyInfo Business</a></h2>
 
 MyInfo Business will save business owners time and effort when submitting government-verified entity data, such as corporate profile, financial performance and ownership information. 
 
