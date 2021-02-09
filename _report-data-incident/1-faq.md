@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Report Data Incident - FAQs
 permalink: /report-data-incident/faq/
 ---
 
@@ -25,6 +25,7 @@ Got a question or need more help on reporting a government data incident? Check 
 #### **Q1. What is government data?**
 
 “Government data” refers to data that is in the possession or custody of the Government. Such data is important for the Government to discharge its functions, and could be collected and used by public agencies, or collected and used by their contracted third-party vendors. It includes:
+
 - Personal data (e.g. income data for the purposes of calculating income tax)
 - Business data (e.g. financial statements), and
 - Classified data (e.g. policy documents).
@@ -33,9 +34,10 @@ Got a question or need more help on reporting a government data incident? Check 
 
 #### **Q2. What is a government data incident?**
 
-A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data. 
+A “government data incident” happens when there is a compromise of government data. This includes unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, the government data.
 
 Some examples of a government data incident are:
+
 - The sending of data via email to unintended recipients
 - The unintentional disclosure of data on a website due to a system error, and
 - The unauthorised movement (including copying, transfer and retrieval) of data by a hacker.
@@ -53,6 +55,7 @@ When making a report, please provide as many details as possible. For example, w
 #### **Q4. How do I report a government data incident?**
 
 There are three ways in which you can report a government data incident:
+
 - Complete the 'Government Data Incident Reporting Form' located on the [Smart Nation website](/report-data-incident/report-data-incident/) 
 - Email [Report_Data_Incident@tech.gov.sg](mailto:Report_Data_Incident@tech.gov.sg) with details of the suspected data incident
 - Call the Government Data Security Contact Centre hotline at +65 63830117.
@@ -102,6 +105,7 @@ You should immediately dispose of all evidence and data appropriately after subm
 #### **Q10. What should I do with the evidence after submitting it with the report?**
 
 Upon submitting the evidence to SNDGG, please immediately dispose of all evidence in an appropriate manner. These are some common disposal methods:
+
 - For digital data that you have received unintentionally via email, please delete all copies of the email and any attachment that came with the email
 - For any screenshot of system error, please delete them after submission
 - For hardcopy data that you received unintentionally via mail, SNDGG will advise you on the appropriate way of disposal
