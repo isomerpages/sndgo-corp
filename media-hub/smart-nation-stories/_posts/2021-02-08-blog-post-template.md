@@ -8,7 +8,7 @@ description: One liner subtitle to provide quick jist of the story
 # Blog Post Header
 
 ![alt](/images/hero.jpg)
-<figcaption>Main image caption </figcaption>
+<figcaption>Main image caption </figcaption><br><br>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut justo iaculis, ultrices libero a, efficitur eros. Nunc congue porta mi vel molestie. Nulla convallis tempor magna nec tempor. Donec auctor, magna eget euismod lacinia, est purus placerat diam, sed ornare augue velit ut eros. Nam euismod sollicitudin fermentum. Vivamus vitae purus ex. Pellentesque orci ligula, blandit a pellentesque id, rutrum vel nisi. Phasellus vitae aliquet ante, in varius ex. Mauris euismod, velit fringilla elementum sodales, ligula tortor dignissim elit, et ultricies orci dolor a nunc. Pellentesque sed quam pulvinar felis sodales hendrerit. Sed accumsan neque in nisl placerat ullamcorper.
 
@@ -19,7 +19,7 @@ Integer a diam sit amet libero tempor vulputate nec sit amet sem. Proin tincidun
 
 
 ![alt](/images/hero.jpg)
-<figcaption>Break up with images where possible - caption</figcaption>
+<figcaption>Break up with images where possible - caption</figcaption><br><br>
 
 Vivamus blandit, nisi sit amet malesuada euismod, justo libero ultricies magna, eget sollicitudin tellus mi a lorem. Ut et laoreet lectus. Nulla sit amet egestas enim, sit amet ultrices diam. Mauris a lobortis leo, sed hendrerit augue. Mauris a viverra odio. Pellentesque aliquet sem ut sapien interdum dignissim. Nunc luctus mi urna.
 
