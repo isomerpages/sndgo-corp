@@ -2,6 +2,7 @@
 layout: post
 title:  Blog Post Template 
 permalink: /media-hub/smart-nation-stories/blog-post-template
+image: /images/title-image.jpg
 description: One liner subtitle to provide quick jist of the story 
 ---
 
