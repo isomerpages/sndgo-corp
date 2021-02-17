@@ -57,7 +57,7 @@ There is no minimum number of events to volunteer for. We hope that you will fin
 
 To sign up to be a Smart Nation Ambassador, email us at [Ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg). 
 
-The schedule of upcoming volunteer events can be <a href="https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation" target="_blank">found here.</a>.
+The schedule of upcoming volunteer events can be <a href="https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation" target="_blank">found here.</a>
 
 [Return to top](#frequently-asked-questions)
 
