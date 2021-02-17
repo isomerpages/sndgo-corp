@@ -14,7 +14,8 @@ To drive pervasive adoption of digital and smart technologies throughout Singapo
     <div class="para">Enabling a lean, agile and future-ready Government.</div>
   </div>
    <div class="column-c"> 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/e-payments-1" target="_blank"><img src="/images/e-payments2.jpg"></a><br>       <div class="header"><b>E-Payments</b></div><br>
+    <a href="/our-smart-nation/initiatives/strategic-national-projects/e-payments" target="_blank"><img src="/images/e-payments2.jpg"></a><br>
+     <div class="header"><b>E-Payments</b></div><br>
     <div class="para">Simple, swift, seamless, and safe payments for everyone.</div>
   </div>
   <div class="column-c">  
