@@ -1,7 +1,7 @@
 ---
-title: Initiatives 
-permalink: /our-smart-nation/initiatives/initiatives-landing
-breadcrumb: Initiatives Landing
+title: Overview
+permalink: /our-smart-nation/initiatives/overview
+breadcrumb: Initiatives
 third_nav_title: "Initiatives"
 ---
 
