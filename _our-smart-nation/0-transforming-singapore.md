@@ -31,7 +31,7 @@ There are key enablers to transform an entire nation, which will help everyone o
 
 ![Strategic National Projects](/images/our-smart-nation/strategic-national-projects-infographic-2020.png)
 
-Find out more about our Strategic National Projects here. **(link to landing page pending)** 
+Find out more about our [Strategic National Projects here.](our-smart-nation/initiatives/strategic-national-projects) 
 
 ## Enabling A Culture Of Innovation & Experimentation
 
