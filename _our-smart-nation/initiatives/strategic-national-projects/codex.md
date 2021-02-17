@@ -1,6 +1,6 @@
 ---
 title: Strategic National Projects - CODEX
-permalink: /our-smart-nation/initiatives/strategic-national-projects/codec
+permalink: /our-smart-nation/initiatives/strategic-national-projects/codex
 breadcrumb: Strategic National Projects
 ---
 
