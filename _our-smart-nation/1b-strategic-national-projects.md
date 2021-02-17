@@ -9,7 +9,7 @@ To drive pervasive adoption of digital and smart technologies throughout Singapo
 <br>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/_our-smart-nation/codex.md" target="_blank"><img src="/images/codex2.jpg"></a><br>
+    <a href="/our-smart-nation/codex.md" target="_blank"><img src="/images/codex2.jpg"></a><br>
     <div class="header"><b>CODEX</b></div><br>
     <div class="para">Enabling a lean, agile and future-ready Government.</div>
   </div>
