@@ -73,7 +73,7 @@ Check out the resources available for [individuals](/community/supporting-the-co
   
 ### Cross-border Collaboration
 
-![ASEAN Smart Cities Network](/our-smart-nation/ASEAN-Smart-Cities-Network.jpg)
+![ASEAN Smart Cities Network](/images/our-smart-nation/ASEAN-Smart-Cities-Network.jpg)
 
 Cities need to come together to share good ideas and best practices, explore collaborations, and test-bed people-centric smart solutions. Singapore remains open to sharing new ideas and learning from others. This will allow us to adopt ideas and best practices that can benefit Singapore and the region.
 In 2018, the ASEAN Smart Cities Network (ASCN) was established as part of Singapore's ASEAN chairmanship. It is a collaborative platform where member cities exchange best practice and urban solutions and catalyse bankable smart city projects. The ASCN seeks to harness the opportunities presented by rapid urbanisation, while building resilience against its increasingly complex strategic challenges, like cyber-threats and trade friction. The goal is to improve the lives of people in this region, using technology as an enabler.
