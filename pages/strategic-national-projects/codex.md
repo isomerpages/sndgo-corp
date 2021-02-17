@@ -1,7 +1,6 @@
 ---
 title: Strategic National Projects - CODEX
 permalink: /our-smart-nation/initiatives/strategic-national-projects/codex
-breadcrumb: CODEX
 ---
 
 <div style="width:100%;display:flex;justify-content:center;"><img alt="CODEX infograhic" src="/images/our-smart-nation/CODEX.jpeg"></div>
