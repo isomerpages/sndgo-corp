@@ -31,7 +31,7 @@ To drive pervasive adoption of digital and smart technologies throughout Singapo
     <div class="para">For citizens and businesses to transact conveniently and securely online.</div>
   </div>
   <div class="column-c"> 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/smart-nation-sensor-platform" target="_blank"><img src="/images/smart-nation-sensor-platform2.jpg"></a><br>       
+    <a href="/our-smart-nation/initiatives/strategic-national-projects/smart-nation-sensor-platform" target="_blank"><img src="/images/smart-nation-sensor-platform2.jpg"></a><br>       
     <div class="header"><b>Smart Nation Sensor Platform</b></div><br>
     <div class="para">Use of sensors and data to run a smart, green and liveable city.</div> 
   </div>  
