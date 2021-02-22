@@ -38,3 +38,5 @@ The aim is to create a holistic view of how we live, work, and play to understan
 - Lamppost-as-a-Platform (Laap) trial commenced in 2019 to host sensors on lamp posts
 - The trial aims to collect data on air quality, rainfall, and footfall. 
 - The sensors' data will be used for effective urban planning for amenities such as safer footpaths and roads for pedestrians and even monitoring our environment as global warming looms worldwide.  
+
+![Smart Lamp Posts](/images/our-smart-nation/smart-lamp-post-govtech.png)
