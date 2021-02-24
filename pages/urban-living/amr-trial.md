@@ -1,5 +1,5 @@
 ---
-title: Urban Living – Automated Meter Reading (AMR) Trial
+title: Automated Meter Reading (AMR) Trial
 permalink: /our-smart-nation/initiatives/urban-living/amr-trial
 ---
 
@@ -12,7 +12,7 @@ PUB uses technology to help build and improve capabilities and operations across
 ## What is the Automated Meter Reading (AMR) Trial?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jfy-T0uggCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 -  PUB is working towards using Smart Water Meters, progressively across the island, to make daily water usage data accessible for consumers from tap to app.
 - Smart Water Meters are designed to monitor and collect water consumption data. 
   - This will allow PUB to provide consumers with value-added services through a mobile app - such as understanding their water usage and alerting households of suspected water leaks.
@@ -25,5 +25,5 @@ PUB, Singapore's National Water Agency, is rolling out the Smart Water Meter Pro
 
 The first phase will have 300,000 smart water meters installed in new and existing residential, commercial and industrial premises by 2023. With this, customers can look forward to tracking their water use daily, be empowered to be more water-efficient, detect leaks early to reduce water loss and save money! 
 
-Useful links
+### Useful links
 <a href="https://www.pub.gov.sg/news/pressreleases/PUBTakesFirstStepsTowardsInstallingSmartWaterMeters" target="blank">PUB Takes First Steps Towards Installing Smart Water Meters</a>
