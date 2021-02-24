@@ -9,9 +9,9 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
 <br>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/strategic-national-projects/codex" target="_blank"><img src="/images/codex2.jpg"></a><br>
-    <div class="header"><b>CODEX</b></div><br>
-    <div class="para">Enabling a lean, agile and future-ready Government to build all our digital products and services.</div>
+    <a href="/our-smart-nation/initiatives/urban-living/amr-trial" target="_blank"><img src="/images/our-smart-nation/amr-trial.jpg"></a><br>
+    <div class="header"><b>Automated Meter Reading Trial</b></div><br>
+    <div class="para">Making water usage data readily accessible for consumers from tap to app – saving money and the environment!</div>
   </div>
    <div class="column-c"> 
     <a href="/our-smart-nation/initiatives/strategic-national-projects/e-payments" target="_blank"><img src="/images/e-payments2.jpg"></a><br>
