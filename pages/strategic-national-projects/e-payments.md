@@ -1,5 +1,5 @@
 ---
-title: Strategic National Projects - E-Payments
+title: E-Payments
 permalink: /our-smart-nation/initiatives/strategic-national-projects/e-payments
 ---
 
