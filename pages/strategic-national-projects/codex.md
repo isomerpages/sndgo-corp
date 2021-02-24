@@ -1,5 +1,5 @@
 ---
-title: Strategic National Projects - CODEX
+title: CODEX
 permalink: /our-smart-nation/initiatives/strategic-national-projects/codex
 ---
 
