@@ -1,5 +1,5 @@
 ---
-title: Strategic National Projects – National Digital Identity 
+title: National Digital Identity 
 permalink: /our-smart-nation/initiatives/strategic-national-projects/national-digital-identity
 ---
 
