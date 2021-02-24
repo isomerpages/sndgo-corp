@@ -1,5 +1,5 @@
 ---
-title: Strategic National Projects – LifeSG Initiative 
+title: LifeSG Initiative 
 permalink: /our-smart-nation/initiatives/strategic-national-projects/lifesg-initiative
 ---
 
