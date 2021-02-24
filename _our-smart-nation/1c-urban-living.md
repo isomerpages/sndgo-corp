@@ -15,7 +15,7 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
   </div>
    <div class="column-c"> 
     <a href="	
-/our-smart-nation/initiatives/urban-living/dengue-hotspots-survey-drones" target="_blank"><img src="/images/our-smart-nation/dengue-hotspots-drones.jpeg"></a><br>
+/our-smart-nation/initiatives/urban-living/dengue-hotspots-survey-drones" target="_blank"><img src="/images/our-smart-nation/dengue-hotspots-drones-overview.png"></a><br>
      <div class="header"><b>Dengue Hotspots Survey Drones</b></div><br>
     <div class="para">Taking to the skies for dengue control</div>
   </div>
