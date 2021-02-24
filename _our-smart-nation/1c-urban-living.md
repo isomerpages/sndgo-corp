@@ -14,9 +14,10 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
     <div class="para">Making water usage data readily accessible for consumers from tap to app – saving money and the environment!</div>
   </div>
    <div class="column-c"> 
-    <a href="/our-smart-nation/initiatives/strategic-national-projects/e-payments" target="_blank"><img src="/images/e-payments2.jpg"></a><br>
-     <div class="header"><b>E-Payments</b></div><br>
-    <div class="para">Simple, swift, seamless, and secure payments for citizens and businesses!</div>
+    <a href="	
+/our-smart-nation/initiatives/urban-living/dengue-hotspots-survey-drones" target="_blank"><img src="/images/our-smart-nation/dengue-hotspots-drones.jpeg"></a><br>
+     <div class="header"><b>Dengue Hotspots Survey Drones</b></div><br>
+    <div class="para">Taking to the skies for dengue control</div>
   </div>
   <div class="column-c">  
     <a href="/our-smart-nation/initiatives/strategic-national-projects/lifesg-initiative" target="_blank"><img src="/images/lifesg-initiative2.jpg"></a><br>
