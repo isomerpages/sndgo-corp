@@ -1,5 +1,5 @@
 ---
-title: Strategic National Projects – Smart Urban Mobility
+title: Smart Urban Mobility
 permalink: /our-smart-nation/initiatives/strategic-national-projects/smart-urban-mobility
 ---
 
