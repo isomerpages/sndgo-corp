@@ -27,18 +27,9 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
 </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/strategic-national-projects/national-digital-identity" target="_blank"><img src="/images/national-digital-identity2.jpg"></a><br>
-    <div class="header"><b>National Digital Identity (NDI)</b></div><br>
-    <div class="para">Creating a secure and convenient infrastructure for both public and private sectors to tap on for online transactions.</div>
+    <a href="/our-smart-nation/initiatives/urban-living/oneservice-app" target="_blank"><img src="/images/our-smart-nation/Initiatives/oneservice-overview.png"></a><br>
+    <div class="header"><b>OneService App</b></div><br>
+    <div class="para">Providing a common platform for users to report issues around their neighbourhood, hassle free!</div>
   </div>
-  <div class="column-c"> 
-    <a href="/our-smart-nation/initiatives/strategic-national-projects/smart-nation-sensor-platform" target="_blank"><img src="/images/smart-nation-sensor-platform2.jpg"></a><br>       
-    <div class="header"><b>Smart Nation Sensor Platform</b></div><br>
-    <div class="para">Using sensors and data to build and run a smart, green and liveable city.</div> 
-  </div>  
-  <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/strategic-national-projects/smart-urban-mobility" target="_blank"><img src="/images/smart-urban-mobility2.jpg"></a><br>
-    <div class="header"><b>Smart Urban Mobility</b></div><br>
-    <div class="para">Leveraging data and digital technologies to enhance public transport for our growing population.</div>    
-  </div>     
+      
 </div>
