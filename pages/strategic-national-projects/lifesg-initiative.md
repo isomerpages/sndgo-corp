@@ -3,15 +3,15 @@ title: LifeSG Initiative
 permalink: /our-smart-nation/initiatives/strategic-national-projects/lifesg-initiative
 ---
 
-![LifeSG banner](/images/our-smart-nation/Initiatives/lifesg-kv.jpg)
+# Personalising Experiences With Government Services 
 
-## What is LifeSG?
+![LifeSG banner](/images/our-smart-nation/Initiatives/lifesg-kv.jpg)
 
 In line with offering citizens a more seamless and convenient experience when transacting with Government digital services, we are re-organising ourselves to provide personalised, customised services at a citizen-centric level.
 
 The LifeSG app is a Smart Nation initiative that helps citizens access Government services and information conveniently on a single platform. LifeSG makes Government services easy-to-use by personalising experiences, anticipating citizens’ needs and providing meaningful solutions. With a simplified experience, citizens can save time and focus on the things that matter. This app is developed by the Government Technology Agency.
  
-## Is LifeSG new?
+## What is LifeSG?
  
 Formerly known as Moments of Life, it was launched in June 2018 to support families with young children and seniors. Since then, the app has progressively added new features to serve citizens in other aspects of their life journey. Currently, 7 in 10[^1] Singaporean births have been registered with the app. Other features include an Active Ageing module for seniors aged 60 and above (rolled out in September 2019) and more recently, an Employment Support Guide for job-seekers (rolled out in June 2020). 
  
