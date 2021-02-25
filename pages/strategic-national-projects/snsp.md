@@ -3,6 +3,8 @@ title: Smart Nation Sensor Platform
 permalink: /our-smart-nation/initiatives/strategic-national-projects/smart-nation-sensor-platform
 ---
 
+![Smart nation sensor platform](/images/our-smart-nation/Initiatives/smart-nation-sensor-platform.jpg)
+
 In this digital age, we always hear about how there are large amounts of data out there for businesses to process before using it to grow their businesses. 
 
 The Smart Nation Sensor Platform  (SNSP) has been created to collect essential data to plan and develop solutions to make Singapore an even better place to live. 
