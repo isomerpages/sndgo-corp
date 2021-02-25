@@ -14,9 +14,10 @@ permalink: /our-smart-nation/initiatives/strategic-national-projects/e-payments
 ## Our e-Payments Milestones
 
 -	**2014:** Singapore’s banking industry launched FAST (Fast and Secure Transfers), a payment system that enables direct real-time transfers between consumers and businesses across different banks. 
-	
-![PayNow logo](/images/our-smart-nation/Initiatives/PayNow.png)
+
+<div style="flex:50%"><img alt="PayNow" src="/images/our-smart-nation/Initiatives/PayNow.png"></div>
 <br>
+	
 - **2017:** PayNow was launched. The platform enables instant peer-to-peer transfers between customers of participating banks, simply by entering a mobile or personal identification number. A number of Government agencies have begun to use PayNow:
   - CPF and MOE started to pilot the use of PayNow in March 2018 to disburse CPF lump sum and Edusave award monies respectively.
   - SportSG started to disburse the Singapore National Games Awards to prize winners via PayNow.
