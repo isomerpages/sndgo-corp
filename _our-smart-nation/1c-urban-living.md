@@ -9,13 +9,13 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
 <br>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/urban-living/amr-trial" target="_blank"><img src="/images/our-smart-nation/amr-trial.png"></a><br>
+    <a href="/our-smart-nation/initiatives/urban-living/amr-trial" target="_blank"><img src="/images/our-smart-nation/Initiatives/amr-trial.png"></a><br>
     <div class="header"><b>Automated Meter Reading Trial</b></div><br>
     <div class="para">Making water usage data readily accessible for consumers from tap to app – saving money and the environment!</div>
   </div>
    <div class="column-c"> 
     <a href="	
-/our-smart-nation/initiatives/urban-living/dengue-hotspots-survey-drones" target="_blank"><img src="/images/our-smart-nation/dengue-hotspots-drones-overview.png"></a><br>
+/our-smart-nation/initiatives/urban-living/dengue-hotspots-survey-drones" target="_blank"><img src="/images/our-smart-nation/Initiatives/dengue-hotspots-drones-overview.png"></a><br>
      <div class="header"><b>Dengue Hotspots Survey Drones</b></div><br>
     <div class="para">Taking to the skies for dengue control</div>
   </div>
