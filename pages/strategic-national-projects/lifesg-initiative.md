@@ -3,7 +3,7 @@ title: LifeSG Initiative
 permalink: /our-smart-nation/initiatives/strategic-national-projects/lifesg-initiative
 ---
 
-![LifeSG key visual](/images/our-smart-nation/lifesg-kv.jpg)
+![LifeSG banner](/images/our-smart-nation/Initiatives/lifesg-kv.jpg)
 
 ## What is LifeSG?
 
