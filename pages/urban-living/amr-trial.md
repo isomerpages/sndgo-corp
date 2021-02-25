@@ -3,7 +3,7 @@ title: Automated Meter Reading (AMR) Trial
 permalink: /our-smart-nation/initiatives/urban-living/amr-trial
 ---
 
-![Smart Water Meters infographics](/images/our-smart-nation/smart-water-meters.jpeg)
+![Smart Water Meters infographics](/images/our-smart-nation/Initiatives/smart-water-meters.jpeg)
 
 PUB uses technology to help build and improve capabilities and operations across all sectors allowing them to plan and ensure that Singapore will always have access to clean water.
 
