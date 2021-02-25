@@ -2,7 +2,7 @@
 title: Smart Urban Mobility
 permalink: /our-smart-nation/initiatives/strategic-national-projects/smart-urban-mobility
 ---
-<div style="width:50%;display:flex;flex-wrap:wrap;"><img src="/images/our-smart-nation/Initiatives/smart-urban-mobility.jpeg"></a></div>
+<div style="width:50%;display:flex;flex-wrap:wrap;"><img src="/images/our-smart-nation/Initiatives/smart-urban-mobility.jpeg"></div>
  
 Our transportation infrastructure is essential to our daily lives. 
 
