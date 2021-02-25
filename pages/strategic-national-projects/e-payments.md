@@ -18,9 +18,7 @@ permalink: /our-smart-nation/initiatives/strategic-national-projects/e-payments
 <div style="flex:50%"><img alt="PayNow" src="/images/our-smart-nation/Initiatives/PayNow.png"></div>
 <br>
 
-<div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><img alt="PayNow" src="/images/our-smart-nation/Initiatives/PayNow.png"></a>
-          </div>
+<div style="width:50%;display:flex;flex-wrap:wrap;"><img alt="PayNow" src="/images/our-smart-nation/Initiatives/PayNow.png"></div>
 	
 - **2017:** PayNow was launched. The platform enables instant peer-to-peer transfers between customers of participating banks, simply by entering a mobile or personal identification number. A number of Government agencies have begun to use PayNow:
   - CPF and MOE started to pilot the use of PayNow in March 2018 to disburse CPF lump sum and Edusave award monies respectively.
