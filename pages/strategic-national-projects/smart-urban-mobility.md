@@ -2,10 +2,9 @@
 title: Smart Urban Mobility
 permalink: /our-smart-nation/initiatives/strategic-national-projects/smart-urban-mobility
 ---
-
+<div style="width:50%;display:flex;flex-wrap:wrap;"><img src="/images/our-smart-nation/Initiatives/smart-urban-mobility.jpeg"></a></div>
+ 
 Our transportation infrastructure is essential to our daily lives. 
-
-![Smart Urban Mobility infographics](/images/our-smart-nation/Initiatives/smart-urban-mobility.jpeg)
 
 With our land scarcity, we are always working towards making our transportation system more efficient to ensure that our public transport system can handle our growing population. 
 
