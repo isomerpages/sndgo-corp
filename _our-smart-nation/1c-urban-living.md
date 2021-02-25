@@ -20,7 +20,7 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
     <div class="para">Taking to the skies for dengue control</div>
   </div>
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/urban-living/myenv-app" target="_blank"><img src="/images/our-smart-nation/Initiatives/myenv-overview.jpg"></a><br>
+    <a href="/our-smart-nation/initiatives/urban-living/myenv-app" target="_blank"><img src="/images/our-smart-nation/Initiatives/myenv-overview.png"></a><br>
     <div class="header"><b>myENV App</b></div><br>
     <div class="para">Receive environmental news updates in the palm of your hand</div>
   </div>     
