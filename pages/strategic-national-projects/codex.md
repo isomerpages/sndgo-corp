@@ -3,7 +3,7 @@ title: CODEX
 permalink: /our-smart-nation/initiatives/strategic-national-projects/codex
 ---
 
-<div style="width:100%;display:flex;justify-content:center;"><img alt="CODEX infograhic" src="/images/our-smart-nation/CODEX.jpeg"></div>
+![CODEX infograhic](/images/our-smart-nation/Initiatives/CODEX.jpeg)
 
 ## What is CODEX?
 
