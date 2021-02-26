@@ -3,7 +3,7 @@ title: Smart Nation Sensor Platform
 permalink: /our-smart-nation/initiatives/strategic-national-projects/smart-nation-sensor-platform
 ---
 
-# Working Towards A Better Future
+# Planning For A Better Future
 
 ![Smart nation sensor platform](/images/our-smart-nation/Initiatives/smart-nation-sensor-platform.jpg)
 
