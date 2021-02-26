@@ -1,9 +1,13 @@
 ---
-title: Automated Meter Reading (AMR) Trial
+title: Automated Meter Reading Trial
 permalink: /our-smart-nation/initiatives/urban-living/amr-trial
 ---
 
+# Water Information At Our Fingertips 
+
 ![Smart Water Meters infographics](/images/our-smart-nation/Initiatives/smart-water-meters.jpeg)
+
+The Automated Meter Reading (AMR) trial is part of the SMART PUB roadmap to digitalise Singapore's entire water system. With limited water resources, PUB is always on the lookout to improve operations and better understand our future water needs. PUB was able to gamify water saving tips and tricks with this trial. The homeowners had access to their water usage to take the necessary steps to reduce their water consumption, wherever possible, and alerting them to suspected water leaks – helping them to save money! 
 
 PUB uses technology to help build and improve capabilities and operations across all sectors allowing them to plan and ensure that Singapore will always have access to clean water.
 
