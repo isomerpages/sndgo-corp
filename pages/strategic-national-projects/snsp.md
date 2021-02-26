@@ -3,6 +3,8 @@ title: Smart Nation Sensor Platform
 permalink: /our-smart-nation/initiatives/strategic-national-projects/smart-nation-sensor-platform
 ---
 
+# Working Towards A Better Future
+
 ![Smart nation sensor platform](/images/our-smart-nation/Initiatives/smart-nation-sensor-platform.jpg)
 
 In this digital age, we always hear about how there are large amounts of data out there for businesses to process before using it to grow their businesses. 
