@@ -9,9 +9,9 @@ permalink: /our-smart-nation/initiatives/urban-living/oneservice-app
 
 We all play a part to keep our estate a pleasant place to live in. 
 
-The OneService App provides a fuss-free and straightforward platform to report any situations around the estate – regardless of which agency will be responsible for rectifying the issue. This saves you the hassle of finding out who you need to call to inform them of the situation. There is even a case map – so you can check if someone else has already reported the same situation. 
+The OneService App provides a fuss-free and straightforward platform to report any situations around the estate. This saves you the hassle of finding out who you need to call to inform them of the situation. In addition, there is even a case map to check if someone else has already reported the same situation. 
 
-Once the issue has been reported via the App, it will alert the correct agency to address the issue at hand quickly. The relevant agency will update the status of the cases reported on the App as they are working on it and when it has solved. 
+Once the issue has been reported via the App, it will alert the respective agency to address the issue at hand quickly. The agency will update the status of the cases reported on the App as they are working on it and when it has solved. 
 
 ## Why download OneService? 
 - It is a convenient way for members of the public to give their feedback on municipal issues without finding out which agency is responsible for the issue!
