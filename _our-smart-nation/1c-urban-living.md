@@ -37,6 +37,11 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
     <div class="header"><b>Urban Planning</b></div><br>
     <div class="para">Harnessing digital technologies to help us plan where we live, work and play better for the future</div>
   </div>  
-  
+<div class="row">  
+  <div class="column-c" > 
+    <a href="/our-smart-nation/initiatives/smart-elderly-alert-system" target="_blank"><img src="/images/our-smart-nation/Initiatives/smart-elderly-alert-system-overview.png"></a><br>
+    <div class="header"><b>Smart Elderly Alert System</b></div><br>
+    <div class="para">Balancing independence and peace of mind to caregivers of elderly loved ones.</div>
+  </div>    
       
 </div>
