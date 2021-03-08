@@ -4,7 +4,8 @@ permalink: /our-smart-nation/initiatives/urban-living
 breadcrumb: Urban Living
 third_nav_title: "Initiatives"
 ---
-As we move towards our Smart Nation goal, some fundamental drivers have been chosen to be the building blocks in our transformation. These projects will allow us to grow and develop efficiently throughout Singapore. 
+
+With our limited land space, we need to continuously find innovative solutions to improve our urban environment, estates and homes for our residents, to make them safer, more sustainable and liveable.![image](https://user-images.githubusercontent.com/70688276/110281133-14699900-8017-11eb-9de3-77bd5d4dbbb0.png)
 
 <br>
 <div class="row">  
