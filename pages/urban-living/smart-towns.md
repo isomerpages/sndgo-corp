@@ -82,4 +82,4 @@ The benefits of this system include:
   o	iNz Residence, another EC in Choa Chu Kang
 
 ## Related  links:
-<a href="https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page" target'_blank">Smart HDB Town</a>
+<a href="https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page" target="_blank">Smart HDB Town</a>
