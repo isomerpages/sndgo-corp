@@ -18,9 +18,6 @@ Driverless vehicles can be deployed for the disabled or elderly to afford them m
 
 In the commercial section, the same technology also holds great potential for the freight transportation and utility services sectors to address staffing challenges and ease traffic congestion during peak hours by deploying autonomous systems at night.
 
-![Autonomous Vehicles techonology](images/our-smart-nation/Initiatives/AV-tech.jpg)
-*Image: Ministry of Transport*
-
 ## Autonomous Vehicles (AV) Trials in Singapore
 
 Several AV trials are running concurrently to expedite the development and testing of AV vehicles.  
