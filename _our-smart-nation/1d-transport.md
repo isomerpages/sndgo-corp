@@ -18,9 +18,9 @@ third_nav_title: "Initiatives"
   </div>
    <div class="column-c"> 
     <a href="	
-/our-smart-nation/initiatives/urban-living/dengue-hotspots-survey-drones" target="_blank"><img src="/images/our-smart-nation/Initiatives/dengue-hotspots-drones-overview.png"></a><br>
-     <div class="header"><b>Dengue Hotspots Survey Drones</b></div><br>
-    <div class="para">Taking to the skies for dengue control</div>
+/our-smart-nation/initiatives/transport/contactless-fare-payment" target="_blank"><img src="/images/our-smart-nation/Initiatives/contactless-payment-transport.jpg"></a><br>
+     <div class="header"><b>Contactless fare payment for public transport</b></div><br>
+    <div class="para">Towards commuter-centric e-payments for public transport fare payment</div>
   </div>
   <div class="column-c">  
     <a href="/our-smart-nation/initiatives/urban-living/myenv-app" target="_blank"><img src="/images/our-smart-nation/Initiatives/myenv-overview.png"></a><br>
