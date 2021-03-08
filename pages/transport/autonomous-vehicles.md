@@ -6,7 +6,7 @@ permalink: /our-smart-nation/initiatives/transport/autonomous-vehicles
 # Take A Drive Into the Future 
 
 ![Self driving illustration](/images/our-smart-nation/Initiatives/self-driving-vehicle-lta.jpg)
-*Image: LTA*
+*Image: Land Transport Authority*
 
 Can you imagine a day when the family car takes your children to school, then returns to the car park just as you are leaving for work? You hop in and drive yourself to your office, where you park the car in your office building. At 10 am, your elderly parents call you and ask if they can borrow the car to go and have lunch to catch up with their friends. All you need to do is to send the car home, so they can be driven to their lunch appointment and home – while you are at the office. 
 
@@ -22,7 +22,7 @@ In the commercial section, the same technology also holds great potential for th
 
 Several AV trials are running concurrently to expedite the development and testing of AV vehicles.  
 
-LTA is also working with companies to develop autonomous truck platooning solutions to transport containers from one port terminal to another. They are exploring options for self-driving utility vehicles for waste collection and road sweeping to address the manpower issues we continuously face.
+Land Transport Authority (LTA) is also working with companies to develop autonomous truck platooning solutions to transport containers from one port terminal to another. They are exploring options for self-driving utility vehicles for waste collection and road sweeping to address the manpower issues we continuously face.
 
 You can check out some public trials to experience what it might be like in the near future. 
  
