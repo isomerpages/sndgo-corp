@@ -5,7 +5,7 @@ breadcrumb: Urban Living
 third_nav_title: "Initiatives"
 ---
 
-With our limited land space, we need to continuously find innovative solutions to improve our urban environment, estates and homes for our residents, to make them safer, more sustainable and liveable.![image](https://user-images.githubusercontent.com/70688276/110281133-14699900-8017-11eb-9de3-77bd5d4dbbb0.png)
+With our limited land space, we need to continuously find innovative solutions to improve our urban environment, estates and homes for our residents, to make them safer, more sustainable and liveable.
 
 <br>
 <div class="row">  
@@ -30,7 +30,7 @@ With our limited land space, we need to continuously find innovative solutions t
   <div class="column-c" > 
     <a href="/our-smart-nation/initiatives/urban-living/oneservice-app" target="_blank"><img src="/images/our-smart-nation/Initiatives/oneservice-overview.png"></a><br>
     <div class="header"><b>OneService App</b></div><br>
-    <div class="para">Providing a common platform for users to report issues around their neighbourhood, hassle free!</div>
+    <div class="para">Providing a single platform for users to report any issues around their neighbourhood, hassle free!</div>
   </div>
    <div class="column-c"> 
     <a href="	/our-smart-nation/initiatives/urban-living/urban-planning" target="_blank"><img src="/images/our-smart-nation/Initiatives/urban-planning.png"></a><br>
