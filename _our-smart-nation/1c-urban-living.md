@@ -54,7 +54,5 @@ With our limited land space, we need to continuously find innovative solutions t
 /our-smart-nation/initiatives/urban-living/dengue-hotspots-survey-drones" target="_blank"><img src="/images/our-smart-nation/Initiatives/dengue-hotspots-drones-overview.png"></a><br>
      <div class="header"><b>Dengue Hotspots Survey Drones</b></div><br>
     <div class="para">Taking to the skies for dengue control</div>
-  </div>
-  </div>     
-</div>        
+  </div>      
 </div>
