@@ -38,6 +38,5 @@ third_nav_title: "Initiatives"
     <a href="  /our-smart-nation/initiatives/transport/open-data-analytics" target="_blank"><img src="/images/our-smart-nation/Initiatives/SG-Traffic-watch.jpeg"></a><br>
     <div class="header"><b>Open Data & Analytics for Urban Transportation</b></div><br>
     <div class="para">The data provides the insights for both the Government and private companies to address transport challenges, making our existing land transport system more efficient.</div>
-  </div>
-   
+  </div>  
 </div>
