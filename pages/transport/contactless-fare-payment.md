@@ -15,7 +15,13 @@ Land Transport Authority (LTA) is leveraging these technologies to focus on comm
 
 ![SimplyGo logo](/images/our-smart-nation/Initiatives/SimplyGo-Logo.png)
 
-With SimplyGo, fare payments even more convenient for commuters now. Commuters can quickly clear the fare gates by scanning their mobile devices or smartwatches that have been linked to their mobile wallets or your contactless bank card to pay for the fare. You would no longer have to go to the general ticketing machines if your EZ-link card has a low value – saving you time and hassle!
+In March 2017, LTA and MasterCard launched a pilot programme for commuters to pay for their public transport fares with their contactless credit or debit cards, bypassing the need for an additional EZ-link card in our wallets.  Over 100,000 commuters signed up for the pilot, and there was an average of 60,000 transactions DAILY! 
+
+By 2018, Visa, NETS and mobile payments modes came on board the programme offering even more options for the commuters. Following the successful pilot of the ABT system, SimplyGo was launched on 4 April 2019! 
+
+With SimplyGo, fare payments more convenient for commuters. Commuters can quickly clear the fare gates by scanning their mobile devices or smartwatches that have been linked to their mobile wallets or your contactless bank card to pay for the fare. 
+
+Commuters would no longer have to go to the general ticketing machines if your EZ-link card has a low value – saving us time and hassle!
 
 Commuters can also easily view their travel expenditure and history by registering for an account on the TransitLink SimplyGo Portal, available online and via the TL SimplyGo mobile app.
 
