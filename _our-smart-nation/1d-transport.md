@@ -16,6 +16,11 @@ third_nav_title: "Initiatives"
     <div class="header"><b>Autonomous Vehicles</b></div><br>
     <div class="para">The future of Singapore’s transport system, bringing greater mobility for everyone!</div>
   </div>
+  <div class="column-c"> 
+    <a href="/our-smart-nation/initiatives/transport/cetran-test-circuit" target="_blank"><img src="/images/our-smart-nation/Initiatives/CETRAN-test-circuit-perspective.jpg"></a><br>
+     <div class="header"><b>CETRAN Test Circuit</b></div><br>
+    <div class="para">Singapore is spearheading research in standards for self-driving vehicles (SDVs) and providing an environment to test them before introducing to public roads.</div>
+  </div>      
    <div class="column-c"> 
     <a href="	
 /our-smart-nation/initiatives/transport/contactless-fare-payment" target="_blank"><img src="/images/our-smart-nation/Initiatives/contactless-payment-transport.jpg"></a><br>
@@ -34,9 +39,5 @@ third_nav_title: "Initiatives"
     <div class="header"><b>Open Data & Analytics for Urban Transportation</b></div><br>
     <div class="para">The data provides the insights for both the Government and private companies to address transport challenges, making our existing land transport system more efficient.</div>
   </div>
-   <div class="column-c"> 
-    <a href="/our-smart-nation/initiatives/transport/cetran-test-circuit" target="_blank"><img src="/images/our-smart-nation/Initiatives/CETRAN-test-circuit-perspective.jpg"></a><br>
-     <div class="header"><b>CETRAN Test Circuit</b></div><br>
-    <div class="para">Singapore is spearheading research in standards for self-driving vehicles (SDVs) and providing an environment to test them before introducing to public roads.</div>
-  </div>      
+   
 </div>
