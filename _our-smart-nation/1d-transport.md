@@ -30,9 +30,9 @@ third_nav_title: "Initiatives"
 </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/urban-living/oneservice-app" target="_blank"><img src="/images/our-smart-nation/Initiatives/oneservice-overview.png"></a><br>
-    <div class="header"><b>OneService App</b></div><br>
-    <div class="para">Providing a single platform for users to report any issues around their neighbourhood, hassle free!</div>
+    <a href="  /our-smart-nation/initiatives/transport/open-data-analytics" target="_blank"><img src="/images/our-smart-nation/Initiatives/SG-Traffic-watch.jpeg"></a><br>
+    <div class="header"><b>Open Data & Analytics for Urban Transportation</b></div><br>
+    <div class="para">The data provides the insights for both the Government and private companies to address transport challenges, making our existing land transport system more efficient.</div>
   </div>
    <div class="column-c"> 
     <a href="	/our-smart-nation/initiatives/urban-living/urban-planning" target="_blank"><img src="/images/our-smart-nation/Initiatives/urban-planning.png"></a><br>
