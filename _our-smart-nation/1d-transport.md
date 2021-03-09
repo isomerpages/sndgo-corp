@@ -19,13 +19,13 @@ third_nav_title: "Initiatives"
    <div class="column-c"> 
     <a href="	
 /our-smart-nation/initiatives/transport/contactless-fare-payment" target="_blank"><img src="/images/our-smart-nation/Initiatives/contactless-payment-transport.jpg"></a><br>
-     <div class="header"><b>Contactless fare payment for public transport</b></div><br>
-    <div class="para">Towards commuter-centric e-payments for public transport fare payment</div>
+     <div class="header"><b>Contactless Fare Payment For Public Transport</b></div><br>
+    <div class="para">Towards commuter-centric e-payments for public transport fare payment.</div>
   </div>
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/urban-living/myenv-app" target="_blank"><img src="/images/our-smart-nation/Initiatives/myenv-overview.png"></a><br>
-    <div class="header"><b>myENV App</b></div><br>
-    <div class="para">Receive environmental news updates in the palm of your hand</div>
+    <a href="/our-smart-nation/initiatives/transport/on-demand-shuttle" target="_blank"><img src="/images/our-smart-nation/Initiatives/on-demand-shuttle-overview.jpg"></a><br>
+    <div class="header"><b>On-Demand Shuttle</b></div><br>
+    <div class="para">Where autonomous technology and public transport data support mobility on-demand.</div>
   </div>     
 </div>
 <div class="row">  
