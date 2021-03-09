@@ -35,26 +35,11 @@ third_nav_title: "Initiatives"
     <div class="para">The data provides the insights for both the Government and private companies to address transport challenges, making our existing land transport system more efficient.</div>
   </div>
    <div class="column-c"> 
-    <a href="	/our-smart-nation/initiatives/urban-living/urban-planning" target="_blank"><img src="/images/our-smart-nation/Initiatives/urban-planning.png"></a><br>
-     <div class="header"><b>Urban Planning</b></div><br>
-    <div class="para">Harnessing digital technologies to help us plan where we live, work and play better for the future</div>
+    <a href="/our-smart-nation/initiatives/transport/cetran-test-circuit" target="_blank"><img src="/images/our-smart-nation/Initiatives/CETRAN-test-circuit-perspective.jpg"></a><br>
+     <div class="header"><b>CETRAN Test Circuit</b></div><br>
+    <div class="para">Singapore is spearheading research in standards for self-driving vehicles (SDVs) and providing an environment to test them before introducing to public roads.</div>
   </div>
   <div class="column-c">  
     <a href="/our-smart-nation/initiatives/smart-elderly-alert-system" target="_blank"><img src="/images/our-smart-nation/Initiatives/smart-elderly-alert-system-overview.png"></a><br>
-    <div class="header"><b>Smart Elderly Alert System</b></div><br>
-    <div class="para">Balancing independence and peace of mind to caregivers of elderly loved ones.</div>
-  </div>     
-</div>
-<div class="row">  
-  <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/urban-living/smart-towns" target="_blank"><img src="/images/our-smart-nation/Initiatives/Smart-towns-overview.jpg"></a><br>
-    <div class="header"><b>Smart Towns</b></div><br>
-    <div class="para">Using technology in the planning, development and management of HDB towns to create more liveable, efficient, sustainable, and safe living environments for residents.</div>
-  </div>
-   <div class="column-c"> 
-    <a href="	
-/our-smart-nation/initiatives/urban-living/dengue-hotspots-survey-drones" target="_blank"><img src="/images/our-smart-nation/Initiatives/dengue-hotspots-drones-overview.png"></a><br>
-     <div class="header"><b>Dengue Hotspots Survey Drones</b></div><br>
-    <div class="para">Taking to the skies for dengue control</div>
   </div>      
 </div>
