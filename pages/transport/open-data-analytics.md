@@ -41,6 +41,6 @@ With their real-time map of Singapore's roads, you can explore how the different
   - Help authorities and public transport operators visualise commuting patterns to improve transport planning
   - Triggering early alerts of crowd surges for operations to be prepared accordingly
   - Predict the impact of incidents – such as the extent of delay, the number of commuters affected – and to recommend measures, such as the injection of additional trains and buses to respond to the incident quickly 
--A next-generation Electronic Road Pricing System is in the works to help develop a more accurate picture of the real-time traffic situation. The system will collect comprehensive, real-time, aggregated traffic data. The system will enable LTA to intervene where necessary, such as adjusting traffic light timings and providing traffic light priority for buses.
+- A next-generation Electronic Road Pricing System is in the works to help develop a more accurate picture of the real-time traffic situation. The system will collect comprehensive, real-time, aggregated traffic data. The system will enable LTA to intervene where necessary, such as adjusting traffic light timings and providing traffic light priority for buses.
 
 As technology changes and improves, LTA will continually explore more ways to leverage data analytics to improve public land transport services quality.
