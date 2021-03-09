@@ -38,8 +38,5 @@ third_nav_title: "Initiatives"
     <a href="/our-smart-nation/initiatives/transport/cetran-test-circuit" target="_blank"><img src="/images/our-smart-nation/Initiatives/CETRAN-test-circuit-perspective.jpg"></a><br>
      <div class="header"><b>CETRAN Test Circuit</b></div><br>
     <div class="para">Singapore is spearheading research in standards for self-driving vehicles (SDVs) and providing an environment to test them before introducing to public roads.</div>
-  </div>
-  <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/smart-elderly-alert-system" target="_blank"><img src="/images/our-smart-nation/Initiatives/smart-elderly-alert-system-overview.png"></a><br>
   </div>      
 </div>
