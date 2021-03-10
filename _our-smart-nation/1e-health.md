@@ -6,7 +6,7 @@ third_nav_title: "Initiatives"
 ---
 # Health
 
-By 2030, the number of elderly citizens is expected to reach 900,000. With a fast aging population and declining old-age support ratio due to our low birth rates, it is extremely important that healthcare is made more proactive. From guiding citizens to take pre-emptive steps to keep themselves healthy to providing them assistance to better manage their well-being.
+By 2030, the number of elderly citizens is expected to reach 900,000. With an ageing population and declining old-age support ratio due to our low birth rates, healthcare must be made more proactive. Our health initiatives are focused on guiding citizens to take pre-emptive steps to keep themselves healthy and provide them with assistance to manage their well-being better.
 
 <br>
 <div class="row">  
