@@ -6,7 +6,7 @@ third_nav_title: "Initiatives"
 ---
 # Health
 
-12% of Singapore’s land area is set aside for roads and transport infrastructure. With a growing population and more than one million vehicles on the road, the challenge lies in optimising the use of our limited space for more efficient, safe, reliable, and enhanced transportation.
+By 2030, the number of elderly citizens is expected to reach 900,000. With a fast aging population and declining old-age support ratio due to our low birth rates, it is extremely important that healthcare is made more proactive. From guiding citizens to take pre-emptive steps to keep themselves healthy to providing them assistance to better manage their well-being.
 
 <br>
 <div class="row">  
