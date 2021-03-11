@@ -28,13 +28,9 @@ By 2030, the number of elderly citizens is expected to reach 900,000. With an ag
 </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="  /our-smart-nation/initiatives/transport/open-data-analytics" target="_blank"><img src="/images/our-smart-nation/Initiatives/SG-Traffic-watch.jpeg"></a><br>
-    <div class="header"><b>Open Data & Analytics for Urban Transportation</b></div><br>
-    <div class="para">The data provides the insights for both the Government and private companies to address transport challenges, making our existing land transport system more efficient.</div>
+    <a href="/our-smart-nation/initiatives/health/telehealth" target="_blank"><img src="/images/our-smart-nation/Initiatives/telehealth-overview.jpg"></a><br>
+    <div class="header"><b>TeleHealth</b></div><br>
+    <div class="para">Bringing care into the home to enhance patient access to healthcare, and improve productivity in our healthcare system.</div>
   </div>
-   <div class="column-c"> 
-    <a href="/our-smart-nation/initiatives/transport/cetran-test-circuit" target="_blank"><img src="/images/our-smart-nation/Initiatives/CETRAN-test-circuit-perspective.jpg"></a><br>
-     <div class="header"><b>CETRAN Test Circuit</b></div><br>
-    <div class="para">Singapore is spearheading research in standards for self-driving vehicles (SDVs) and providing an environment to test them before introducing to public roads.</div>
   </div>      
 </div>
