@@ -21,9 +21,9 @@ By 2030, the number of elderly citizens is expected to reach 900,000. With an ag
     <div class="para">A one-stop digital healthcare portal for Singaporeans to access medical records and useful health information.</div>
   </div>
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/transport/on-demand-shuttle" target="_blank"><img src="/images/our-smart-nation/Initiatives/on-demand-shuttle-overview.jpg"></a><br>
-    <div class="header"><b>On-Demand Shuttle</b></div><br>
-    <div class="para">Where autonomous technology and public transport data support mobility on-demand.</div>
+    <a href="/our-smart-nation/initiatives/health/national-steps-challenge" target="_blank"><img src="/images/our-smart-nation/Initiatives/national-steps-challenge.png"></a><br>
+    <div class="header"><b>National Steps Challenge & Healthy 365 App</b></div><br>
+    <div class="para">Living a healthier lifestyle by walking more daily using wearable tech with steps tracker app.</div>
   </div>     
 </div>
 <div class="row">  
