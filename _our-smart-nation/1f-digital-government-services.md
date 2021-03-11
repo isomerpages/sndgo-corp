@@ -16,9 +16,9 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
     <div class="para">A more efficient way for businesses to find and apply for government grants and comply with licensing and regulatory requirements.</div>
   </div>
    <div class="column-c"> 
-    <a href="/our-smart-nation/initiatives/health/healthhub" target="_blank"><img src="/images/our-smart-nation/Initiatives/health-hub-overview.jpg"></a><br>
-     <div class="header"><b>HealthHub</b></div><br>
-    <div class="para">A one-stop digital healthcare portal for Singaporeans to access medical records and useful health information.</div>
+    <a href="/our-smart-nation/initiatives/digital-government-services/Centex" target="_blank"><img src="/images/our-smart-nation/Initiatives/centex.jpg"></a><br>
+     <div class="header"><b>CentEx</b></div><br>
+    <div class="para">Raising our digital capabilities within the Government to pursue innovation more efficiently.</div>
   </div>
   <div class="column-c">  
     <a href="/our-smart-nation/initiatives/health/national-steps-challenge" target="_blank"><img src="/images/our-smart-nation/Initiatives/national-steps-challenge.png"></a><br>
