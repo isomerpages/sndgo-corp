@@ -1,6 +1,6 @@
 ---
 title: Assistive Technology and Robotics in Healthcare
-permalink: /our-smart-nation/initiatives/transport/assistive-techonology-robotics
+permalink: /our-smart-nation/initiatives/health/assistive-techonology-robotics
 ---
 # Improving Healthcare With Technology
 
