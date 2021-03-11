@@ -26,14 +26,14 @@ With their real-time map of Singapore's roads, you can explore how the different
 
 ## Why is Open Data Important?
 
-*	With open transport data, the public and third-party developers can tap on these data sources to create people-centric transport solutions
-*	The current transport data sets that have been made publicly accessible via LTA's Land Transport DataMall include:
+-	With open transport data, the public and third-party developers can tap on these data sources to create people-centric transport solutions
+-	The current transport data sets that have been made publicly accessible via LTA's Land Transport DataMall include:
   *	Real-time data on bus arrival timings
   *	Taxi availability
   *	Traffic conditions
   *	Carpark availability 
-*	Downloads of transport data from the Land Transport DataMall have increased from an average of 4 million to 600 million per month since April 2015. Several third party transport apps have been developed tapping on this source of data, such as the <a href="https://www.busuncle.sg/" target="_blank">Bus Uncle chatbot</a>, which is grumpy yet friendly and helpful. The kicker? He speaks Singlish fluently! 
-*	Check out more Apps that leverage on the <a href="https://datamall.lta.gov.sg/content/datamall/en/app-zone.html" target="_blank">Land Transport DataMall open data here</a>
+-	Downloads of transport data from the Land Transport DataMall have increased from an average of 4 million to 600 million per month since April 2015. Several third party transport apps have been developed tapping on this source of data, such as the <a href="https://www.busuncle.sg/" target="_blank">Bus Uncle chatbot</a>, which is grumpy yet friendly and helpful. The kicker? He speaks Singlish fluently! 
+-	Check out more Apps that leverage on the <a href="https://datamall.lta.gov.sg/content/datamall/en/app-zone.html" target="_blank">Land Transport DataMall open data here</a>
  
 ## More than just Collecting data 
 
