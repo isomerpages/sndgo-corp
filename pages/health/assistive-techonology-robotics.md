@@ -40,3 +40,6 @@ There are three areas of focus:
 - Uses motion-sensing technology to ensure the elderly do their exercise routines correctly
 - It provides physical and cognitive therapy to seniors who have suffered strokes or have disorders such as Alzheimer's or Parkinson's
 - Research and development into creating a screen reader could also enhance the learning and communication experiences of the visually impaired
+
+## Related Links:
+<a href="https://www.cgh.com.sg/chart" target="_blank">Centre for Healthcare Assistive and Robotics Technology (CHART)</a>
