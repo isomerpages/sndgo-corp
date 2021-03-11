@@ -6,9 +6,12 @@ permalink: /our-smart-nation/initiatives/transport/assistive-techonology-robotic
 
 ![robotics in healthcare](/images/our-smart-nation/Initiatives/health-robotics-overview.jpg)
   
-As our population ages, we are working towards ensuring that we are ready to serve the ageing population's needs. 
+The elderly and the people with disabilities – need healthcare as one of their core requirements due to their individual needs. Therefore, our healthcare system is continually looking into new ways to meet these two groups' needs to ensure that they are getting the best care possible. 
+
+Especially with our ageing population, we are also working towards ensuring that we are ready to serve our ageing population's changing needs. 
 
 There are three areas of focus: 
+
 ## 1) Enhance Overall Well-being
 
 - To enable independent living for our growing ageing population
@@ -24,7 +27,7 @@ There are three areas of focus:
 
 - Working with delivery drones for dispatching medicines and equipment 
 - An industrial robotic arm is able to pick and pack a range of objects, including fragile items, to assist with tasks 
-- Automated guided vehicles transports food, linen or documents, or move heavy items such as beds
+- Automated guided vehicles transport food, linen or documents, or move heavy items such as beds
 - Data analytics to improve daily operations and reducing waiting times
 - Augmented reality for doctors 
  
