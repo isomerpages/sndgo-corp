@@ -1,6 +1,6 @@
 ---
-title: National Steps Challenge & Health 365 App
-permalink: /our-smart-nation/initiatives/health/national-steps-challenge
+title: TeleHealth
+permalink: /our-smart-nation/initiatives/health/telehealth
 ---
 
 #  Medical Consultations From The Comfort Of Your Home
