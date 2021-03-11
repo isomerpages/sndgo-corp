@@ -16,10 +16,9 @@ By 2030, the number of elderly citizens is expected to reach 900,000. With an ag
     <div class="para">We are leveraging technology to revolutionise healthcare in Singapore, and to help seniors and those with disabilities.</div>
   </div>
    <div class="column-c"> 
-    <a href="	
-/our-smart-nation/initiatives/transport/contactless-fare-payment" target="_blank"><img src="/images/our-smart-nation/Initiatives/contactless-payment-transport.jpg"></a><br>
-     <div class="header"><b>Contactless Fare Payment For Public Transport</b></div><br>
-    <div class="para">Towards commuter-centric e-payments for public transport fare payment.</div>
+    <a href="/our-smart-nation/initiatives/health/healthhub" target="_blank"><img src="/images/our-smart-nation/Initiatives/health-hub-overview.jpg"></a><br>
+     <div class="header"><b>HealthHub</b></div><br>
+    <div class="para">A one-stop digital healthcare portal for Singaporeans to access medical records and useful health information.</div>
   </div>
   <div class="column-c">  
     <a href="/our-smart-nation/initiatives/transport/on-demand-shuttle" target="_blank"><img src="/images/our-smart-nation/Initiatives/on-demand-shuttle-overview.jpg"></a><br>
