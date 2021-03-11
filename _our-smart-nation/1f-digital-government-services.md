@@ -6,7 +6,7 @@ third_nav_title: "Initiatives"
 ---
 # Digital Government Services
 
-As we seek to leverage technology to serve citizens' needs better, we aim to strengthen and empower communities to look out for and help one another. We are continually looking for new tech-enabled solutions to enhance the way we live, work, play, interact, and even transact with one another!![image](https://user-images.githubusercontent.com/70688276/110758986-15edc800-8288-11eb-8211-2482a7d8c3fe.png)
+As we seek to leverage technology to serve citizens' needs better, we aim to strengthen and empower communities to look out for and help one another. We are continually looking for new tech-enabled solutions to enhance the way we live, work, play, interact, and even transact with one another!
 
 <br>
 <div class="row">  
