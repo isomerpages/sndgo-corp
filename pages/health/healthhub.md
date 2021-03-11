@@ -1,6 +1,6 @@
 ---
 title: HealthHub
-permalink: /our-smart-nation/initiatives/transport/healthhub
+permalink: /our-smart-nation/initiatives/health/healthhub
 ---
 
 # Your Health; All In The Palm Of Your Hand
