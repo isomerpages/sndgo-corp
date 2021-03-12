@@ -1,5 +1,5 @@
 ---
-title: Business Grants Portal & GoBusiness Licensing 
+title: CentEx
 permalink: /our-smart-nation/initiatives/digital-government-services/centex
 ---
 
