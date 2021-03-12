@@ -41,5 +41,11 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
     <a href="/our-smart-nation/initiatives/digital-government-services/opencerts" target="_blank"><img src="/images/our-smart-nation/Initiatives/OpenCerts.png"></a><br>
     <div class="header"><b>OpenCerts</b></div><br>
     <div class="para">With this blockchain-based platform, you may no longer need physical certificates!</div>
-  </div>    
+  </div>
+  <div class="row">  
+  <div class="column-c" > 
+    <a href="/our-smart-nation/initiatives/digital-government-services/parents-gateway" target="_blank"><img src="/images/our-smart-nation/Initiatives/Parents-gateway-overview.jpg"></a><br>
+    <div class="header"><b>Parents Gateway</b></div><br>
+    <div class="para">A one-stop platform for schools to connect with parents on key administrative matters.</div>
+  </div>
 </div>
