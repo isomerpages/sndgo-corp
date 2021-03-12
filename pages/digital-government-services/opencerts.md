@@ -1,6 +1,6 @@
 ---
 title: OpenCerts
-permalink: /our-smart-nation/initiatives/digital-government-services/multilingual-digital-services
+permalink: /our-smart-nation/initiatives/digital-government-services/opencerts
 ---
 
 # Secured, Verified And Tamper-Resistant Credentials 
