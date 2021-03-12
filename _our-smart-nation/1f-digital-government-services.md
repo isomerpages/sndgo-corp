@@ -36,5 +36,10 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
     <a href="/our-smart-nation/initiatives/digital-government-services/multilingual-digital-services" target="_blank"><img src="/images/our-smart-nation/Initiatives/multilingual-digital-services.jpeg"></a><br>
     <div class="header"><b>Multilingual Digital Services</b></div><br>
     <div class="para">Making digital government services more inclusive and accessible for everyone.</div>
+  </div>
+  <div class="column-c" > 
+    <a href="/our-smart-nation/initiatives/digital-government-services/opencerts" target="_blank"><img src="/images/our-smart-nation/Initiatives/OpenCerts.png"></a><br>
+    <div class="header"><b>OpenCerts</b></div><br>
+    <div class="para">With this blockchain-based platform, you may no longer need physical certificates!</div>
   </div>    
 </div>
