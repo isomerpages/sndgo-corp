@@ -30,8 +30,7 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
   <div class="column-c" > 
     <a href="/our-smart-nation/initiatives/digital-government-services/lifesg" target="_blank"><img src="/images/our-smart-nation/Initiatives/DGS-LifeSg-overview.jpg"></a><br>
     <div class="header"><b>LifeSG</b></div><br>
-    <div class="para">Supporting citizens with easy-to-use, personalised experience to navigate digital government services![image](https://user-images.githubusercontent.com/70688276/110883180-08831d00-831e-11eb-9afe-8186041fcb14.png)
-</div>
+    <div class="para">Supporting citizens with easy-to-use, personalised experience to navigate digital government services</div>
   </div>
   </div>      
 </div>
