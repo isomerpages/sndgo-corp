@@ -21,9 +21,9 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
     <div class="para">Raising our digital capabilities within the Government to pursue innovation more efficiently.</div>
   </div>
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/health/national-steps-challenge" target="_blank"><img src="/images/our-smart-nation/Initiatives/national-steps-challenge.png"></a><br>
-    <div class="header"><b>National Steps Challenge & Healthy 365 App</b></div><br>
-    <div class="para">Living a healthier lifestyle by walking more daily using wearable tech with steps tracker app.</div>
+    <a href="/our-smart-nation/initiatives/digital-government-services/hdb-resale-portal" target="_blank"><img src="/images/our-smart-nation/Initiatives/HDB-resale-portal.jpg"></a><br>
+    <div class="header"><b>HDB Resale Portal</b></div><br>
+    <div class="para">The online portal that makes buying and selling of resale flats easier and faster.</div>
   </div>     
 </div>
 <div class="row">  
