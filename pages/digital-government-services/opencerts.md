@@ -7,11 +7,11 @@ permalink: /our-smart-nation/initiatives/digital-government-services/opencerts
 
 ![Open Certs](/images/our-smart-nation/Initiatives/OpenCerts.png)
 
-OpenCerts is a blockchain-based^[1]^ platform developed by the Government Technology Agency, Ministry of Education, Ngee Ann Polytechnic and SkillsFuture Singapore. The platform offers an easy and reliable way to issue and validate academic certificates that are tamper-resistant.
+OpenCerts is a blockchain-based[1] platform developed by the Government Technology Agency, Ministry of Education, Ngee Ann Polytechnic and SkillsFuture Singapore. The platform offers an easy and reliable way to issue and validate academic certificates that are tamper-resistant.
 
 ## How Does OpenCerts Work?
 
-When an OpenCerts certificate is issued, a unique code is published onto the blockchain. A cryptographic proof^[2]^ is appended onto the certificate data and sent to the individual recipient. During verification, the certificate data is checked against its proof for signs of tampering and against the code on the blockchain for validity.
+When an OpenCerts certificate is issued, a unique code is published onto the blockchain. A cryptographic proof[2] is appended onto the certificate data and sent to the individual recipient. During verification, the certificate data is checked against its proof for signs of tampering and against the code on the blockchain for validity.
 
 Built on OpenAttestation standards, educational institutions can easily create digital versions of every academic certificate that has been or will be issued, and publish them on a public ledger.
 
