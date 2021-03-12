@@ -3,7 +3,7 @@ title: Parents Gateway
 permalink: /our-smart-nation/initiatives/digital-government-services/parents-gateway
 ---
 
-# Always Have Your Child's School Activities On Hand
+# Always Be In The Know
   
 ![Parents Gateway app screen shots](/images/our-smart-nation/Initiatives/Parent-gateway-screenshots.jpeg)
 
