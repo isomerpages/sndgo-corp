@@ -6,8 +6,7 @@ third_nav_title: "Initiatives"
 ---
 # Startups And Businesses
 
-Talent and businesses are critical in a digital economy that will continue to keep Singapore vibrant and competitive on the world stage. Singapore's pro-business environment, excellent infrastructure and connectivity to major Asian economies are extremely attractive to many businesses. We need to keep our edge to ensure that will keep attracting talents and investments in our Citystate to help our Nation grow. ![image](https://user-images.githubusercontent.com/70688276/110919142-e35ed080-8356-11eb-9c50-4ae9a2f0978a.png)
-
+Talent and businesses are critical in a digital economy that will continue to keep Singapore vibrant and competitive on the world stage. Singapore's pro-business environment, excellent infrastructure and connectivity to major Asian economies are extremely attractive to many businesses. We need to keep our edge to ensure that will keep attracting talents and investments in our Citystate to help our Nation grow.
 
 <br>
 <div class="row">  
