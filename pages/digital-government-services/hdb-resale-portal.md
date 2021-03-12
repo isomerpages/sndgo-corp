@@ -7,11 +7,11 @@ permalink: /our-smart-nation/initiatives/digital-government-services/hdb-resale-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qcx9p8DS4PI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Buying or selling a resale flat previously required both parties to complete a series of paperwork and administrative matters; that to some, seemed never ending. And you would need to two different appointments with HDB, the first to submit and verify all your documents and second is the resale completion appointment.
+Buying or selling a resale flat previously required both parties to complete a series of paperwork and administrative matters; that to some, seemed never ending. And you would need to two different appointments with HDB, the first to submit and verify all your documents and second is the resale completion appointment. To streamline the purchase and selling process, HDB has developed the **HDB Resale Portal!** 
 
-## To streamline the purchase and selling process, HDB has developed the HDB Resale Portal!
-•	With this portal, flat buyers and sellers need to attend only one appointment with HDB currently. 
-•	As all forms and checks are completed via the online portal, flat buyers and sellers only need to attend a resale completion appointment, either at HDB Hub or at their solicitor’s office, to sign the necessary documents.
-•	With this portal, the entire transaction can be shortened by up to 8 weeks, when currently it could take about 16 weeks.
+## Time Saved with the Portal
+
+- As all forms and checks are completed via the online portal, flat buyers and sellers only need to attend one resale completion appointment, either at HDB Hub or at their solicitor’s office, to sign the necessary documents.
+- With this portal, the entire transaction can be shortened by up to 8 weeks, when currently it could take about 16 weeks.
 
 ### Check out the <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">HDB Resale Portal now!</a>
