@@ -1,5 +1,5 @@
 ---
-title: Harnassing Artificial Intelligence
+title: Harnessing Artificial Intelligence
 permalink: /our-smart-nation/artificial-intelligence
 ---
 
