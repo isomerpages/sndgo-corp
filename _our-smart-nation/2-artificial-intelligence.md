@@ -3,7 +3,9 @@ title: Harnessing Artificial Intelligence
 permalink: /our-smart-nation/artificial-intelligence
 ---
 
-# National Artificial Intelligence Strategy - The Next Key Frontier Of Singapore's Smart Nation Journey
+# National Artificial Intelligence Strategy 
+
+## The Next Key Frontier Of Singapore's Smart Nation Journey
 
 The National Artificial Intelligence (AI) Strategy is a key step in our Smart Nation journey. It spells out our plans to deepen our use of AI technologies to transform our economy. We want to go beyond just adopting technology.  The aim is to fundamentally rethink business models and make changes to reap productivity gains and create new growth areas.
 
