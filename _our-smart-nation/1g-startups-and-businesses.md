@@ -33,13 +33,8 @@ Talent and businesses are critical in a digital economy that will continue to ke
     <div class="para">A national trade information management platform that provides the foundation for Singapore to be the world’s leading trade, supply chain and trade financing hub.</div>
   </div>
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/digital-government-services/multilingual-digital-services" target="_blank"><img src="/images/our-smart-nation/Initiatives/multilingual-digital-services.jpeg"></a><br>
-    <div class="header"><b>Multilingual Digital Services</b></div><br>
-    <div class="para">Making digital government services more inclusive and accessible for everyone.</div>
-  </div>
-  <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/digital-government-services/opencerts" target="_blank"><img src="/images/our-smart-nation/Initiatives/OpenCerts.png"></a><br>
-    <div class="header"><b>OpenCerts</b></div><br>
-    <div class="para">With this blockchain-based platform, you may no longer need physical certificates!</div>
+    <a href="/our-smart-nation/initiatives/startups-and-businesses/punggol-digital-district" target="_blank"><img src="/images/our-smart-nation/Initiatives/punggol-digital-district.jpg"></a><br>
+    <div class="header"><b>Punggol Digital District</b></div><br>
+    <div class="para">Creating synergies, and enabling close integration between industry and academia, as well as foster vibrant and strong communities.</div>
   </div>
 </div>
