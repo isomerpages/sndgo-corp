@@ -1,6 +1,6 @@
 ---
-title: Using Artificial Intelligence
-permalink: /our-smart-nation/artificial-intelligence.md
+title: Harnassing Artificial Intelligence
+permalink: /our-smart-nation/artificial-intelligence
 ---
 
 # National Artificial Intelligence Strategy - The Next Key Frontier Of Singapore's Smart Nation Journey
