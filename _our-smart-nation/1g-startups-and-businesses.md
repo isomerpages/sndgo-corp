@@ -21,9 +21,9 @@ Talent and businesses are critical in a digital economy that will continue to ke
     <div class="para">Providing the ecosystem with more flexibility to work with and share data.</div>
   </div>
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/digital-government-services/hdb-resale-portal" target="_blank"><img src="/images/our-smart-nation/Initiatives/HDB-resale-portal.jpg"></a><br>
-    <div class="header"><b>HDB Resale Portal</b></div><br>
-    <div class="para">The online portal that makes buying and selling of resale flats easier and faster.</div>
+    <a href="/our-smart-nation/initiatives/startups-and-businesses/fintech-initiatives" target="_blank"><img src="/images/our-smart-nation/Initiatives/Fintech-sandbox.jpg"></a><br>
+    <div class="header"><b>FinTech Initiatives</b></div><br>
+    <div class="para">Staying ahead of the curve with a regulatory sandbox that supports FinTech innovations experiments!</div>
   </div>     
 </div>
 <div class="row">  
