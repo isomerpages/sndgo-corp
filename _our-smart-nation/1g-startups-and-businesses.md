@@ -28,9 +28,9 @@ Talent and businesses are critical in a digital economy that will continue to ke
 </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/digital-government-services/lifesg" target="_blank"><img src="/images/our-smart-nation/Initiatives/DGS-LifeSg-overview.jpg"></a><br>
-    <div class="header"><b>LifeSG</b></div><br>
-    <div class="para">Supporting citizens with easy-to-use, personalised experience to navigate digital government services.</div>
+    <a href="/our-smart-nation/initiatives/startups-and-businesses/network-trade-platform" target="_blank"><img src="/images/our-smart-nation/Initiatives/network-trade-platform.jpg"></a><br>
+    <div class="header"><b>Networked Trade Platform</b></div><br>
+    <div class="para">A national trade information management platform that provides the foundation for Singapore to be the world’s leading trade, supply chain and trade financing hub.</div>
   </div>
   <div class="column-c" > 
     <a href="/our-smart-nation/initiatives/digital-government-services/multilingual-digital-services" target="_blank"><img src="/images/our-smart-nation/Initiatives/multilingual-digital-services.jpeg"></a><br>
