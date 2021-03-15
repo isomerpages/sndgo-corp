@@ -16,9 +16,9 @@ Talent and businesses are critical in a digital economy that will continue to ke
     <div class="para">Transacting with government services securely and conveniently.</div>
   </div>
    <div class="column-c"> 
-    <a href="/our-smart-nation/initiatives/digital-government-services/Centex" target="_blank"><img src="/images/our-smart-nation/Initiatives/centex.jpg"></a><br>
-     <div class="header"><b>CentEx</b></div><br>
-    <div class="para">Raising our digital capabilities within the Government to pursue innovation more efficiently.</div>
+    <a href="/our-smart-nation/initiatives/startups-and-businesses/data-innovation-programme-office" target="_blank"><img src="/images/our-smart-nation/Initiatives/DIPO.jpg"></a><br>
+     <div class="header"><b>Data Innovation Programme Office</b></div><br>
+    <div class="para">Providing the ecosystem with more flexibility to work with and share data.</div>
   </div>
   <div class="column-c">  
     <a href="/our-smart-nation/initiatives/digital-government-services/hdb-resale-portal" target="_blank"><img src="/images/our-smart-nation/Initiatives/HDB-resale-portal.jpg"></a><br>
