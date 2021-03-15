@@ -11,7 +11,9 @@ permalink: /media-hub/publications
   <div style="width:50%;">
     National AI Strategy (Summary)<br>(pdf - 2.6mb)
   </div>  
-  <hr>
+</div>
+<hr>
+<div style="width:100%;"> 
   <div style="width:50%;">
     <a href="/files/publications/national-ai-strategy.pdf"><img src="/images/our-smart-nation/national-AI-strat-cover.png"></a>
   </div>  
