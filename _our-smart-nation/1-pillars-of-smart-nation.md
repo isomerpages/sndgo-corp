@@ -21,10 +21,6 @@ Our vision is to build a vibrant economy that remains attractive to foreign inve
 
 The <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action" target="_blank">Digital Economy Framework for Action</a> sets out a guide to help our businesses and workforce prepare for and embrace the possibilities in a digital economy.
 
-| Digital Economy Framework for Action <br>(pdf - 4.31mb) |
-|:--------:| 
-| <a href="/files/our-smart-nation/SGD Framework For Action.pdf" target="_blank"><img src="/images/our-smart-nation/digital-economy-framework.jpg" width="30%"></a>|
-
 <div style="width:100%;display:flex;flex-wrap:wrap;"> 
   <div style="flex:30%;padding:1%;">
     Digital Economy Framework for Action <br>(pdf - 4.31mb)
@@ -37,7 +33,6 @@ The <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-
   </div>
 </div>
 
-  
 ## Digital Government
 
 The Digital Government Blueprint (DGB) was launched on 5 Jun 2018, stating the vision and strategies for achieving a Digital Government. 14 Key Performance Indicators (KPIs) were set to measure the progress of our digitalisation.
@@ -72,10 +67,6 @@ The blueprint signifies the commitment of the Singapore Government and our partn
 
 <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Read the Digital Readiness Blueprint here.</a>
                                                                                                            
-|Digital Readiness Blueprint|
-|:--------:| 
-| <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/our-smart-nation/digital-readiness-blueprint.jpg" width="30%"></a>|
-
 <div style="width:100%;display:flex;flex-wrap:wrap;"> 
   <div style="flex:30%;padding:1%;">
     Digital Readiness Blueprint
@@ -87,6 +78,3 @@ The blueprint signifies the commitment of the Singapore Government and our partn
      <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/our-smart-nation/digital-readiness-blueprint.jpg">
   </div>
 </div>
-
-                                                                                                           
-                                                                                                           
