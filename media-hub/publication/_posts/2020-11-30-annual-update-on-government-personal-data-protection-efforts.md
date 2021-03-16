@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Annual Update On Government’s Personal Data Protection Efforts - November 2020
-permalink: /media-hub/publications
+permalink: /media-hub/publication
 ---
  
 <div style="width:100%;display:flex;flex-wrap:wrap;"> 
