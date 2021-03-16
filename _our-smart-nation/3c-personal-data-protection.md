@@ -35,7 +35,7 @@ Find out more about the Government’s key personal data protection policies in 
 Find out more about the Government’s key data security policies in the document below:
 
 <div style="width:30%"> 
- Government’s Key Data Security Policies (pdf - 5606kb)
+ Government’s Key Data Security Policies (pdf - 606kb)
 </div>
 <div style="width:30%"> 
  <a href="/files/publications/government-data-security-policies.pdf" target="_blank"><img src="/images/our-smart-nation/government-data-security-policies.jpeg"></a>
@@ -51,18 +51,20 @@ With this in mind, the Government has introduced policies to guide Agencies in e
 
 ![Third party management framework](/images/our-smart-nation/pdp-third-party-framework.png)
 
-A **Third Party** is defined as a party (other than a data subject^a^ or an Agency^b^) which
+<hr>
+A **Third Party** is defined as a party (other than a data subject or an Agency) which
 1. delivers, develops, implements, operates, provides or otherwise supplies ICT systems or services to an Agency, or
 2. collects, stores or otherwise processes data for an Agency.
 
-^a^ Data subject refers to the individual or entity to which the data relates.
-^b^ Agency refers to Organs of State, Ministries, Departments and Statutory Boards
- 
+- Data subject refers to the individual or entity to which the data relates.
+- Agency refers to Organs of State, Ministries, Departments and Statutory Boards
+<hr>
+
 Find out more about the key policies that govern how agencies work with its third parties to safeguard data in the document below:
 
 <div style="width:30%"> 
- Government’s Key Data Security Policies (pdf - 5606kb)
+ Key Policies of the Government's Third-Party Management Framework (pdf - 1.2mb)
 </div>
 <div style="width:30%"> 
- <a href="/files/publications/government-data-security-policies.pdf" target="_blank"><img src="/images/our-smart-nation/government-data-security-policies.jpeg"></a>
+ <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"><img src="/images/our-smart-nation/key-policies-third-party-framework.jpeg"></a>
 </div>
