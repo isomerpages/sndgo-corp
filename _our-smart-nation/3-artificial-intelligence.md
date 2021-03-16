@@ -24,9 +24,23 @@ The National AI strategy also outlines five key enablers to anchor a vibrant and
 5)	International Collaboration 
   
 Find out more in the National AI Strategy document.
-| National AI Strategy<br>(pdf - 9.2mb) | National AI Strategy (Summary)<br>(pdf - 2.6mb) |
-|:--------:|:--------:|
-| <a href="/files/publications/national-ai-strategy.pdf"><img src="/images/our-smart-nation/national-AI-strat-cover.png" width="50%"> | <a href="/files/publications/national-ai-strategy-summary.pdf"><img src="/images/our-smart-nation/national-ai-strat-summary-cover.png" width=”50%”></a>|
+
+<div style="width:100%;display:flex;flex-wrap:wrap;"> 
+  <div style="flex:50%;padding:1%;">
+    National AI Strategy<br>(pdf - 9.2mb)
+  </div>  
+  <div style="flex:50%;padding:1%;">
+    National AI Strategy (Summary)<br>(pdf - 2.6mb)
+  </div>  
+</div>
+<div style="width:100%;display:flex;flex-wrap:wrap;"> 
+  <div style="flex:50%;padding:1%;">
+    <a href="/files/publications/national-ai-strategy.pdf"><img src="/images/our-smart-nation/national-AI-strat-cover.png"></a>
+  </div>  
+  <div style="flex:50%;padding:1%;">
+    <a href="/files/publications/national-ai-strategy-summary.pdf"><img src="/images/our-smart-nation/national-ai-strat-summary-cover.png"></a>
+  </div>  
+</div>
 
 ## Working Together
 
