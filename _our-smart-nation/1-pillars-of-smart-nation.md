@@ -45,7 +45,7 @@ The key changes made to the DGB include:
   - *Update existing KPI:* Time required to fuse and share core data for cross-agency projects to be no more than 7 working days
 4.	**The future direction for Digital Government, as at 2020 and in light of COVID-19.** A new section has been added to signal the future direction and the steps that agencies need to undertake to progress towards being digital organisations, which requires deeper changes in organisational policy, structure, and culture.
 
-### <a href="/files/our-smart-nation/dgb-public-document_30dec20.pdf" target="_blank">Read the full DGB 2020 Document here (pdf - 272kb)</a>
+### <a href="/files/publications/dgb-public-document_30dec20.pdf" target="_blank">Read the full DGB 2020 Document here (pdf - 272kb)</a>
   
 **Key Highlights of the Progress of DGB KPIs as of end-2019**
 1.	86% of citizens and 77% of businesses reported that they are “very” or “extremely” satisfied (at least 5 on a 6-point scale) with Government digital services, against the DGB target of 75-80%. These are the best results since the survey started in 2012. Both results also improved significantly, by 8%, compared to 2018.
