@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  National AI Strategy - November 2019
-permalink: /media-hub/publications
+permalink: /media-hub/publications/national-ai-strategy-2019
 ---
 
 National AI Strategy<br>(pdf - 9.2mb)
