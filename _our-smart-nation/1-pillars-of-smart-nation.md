@@ -25,7 +25,6 @@ The <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-
  Digital Economy Framework for Action
  (pdf - 4.31mb)
 </div>
-<hr>
 <div style="width:30%"> 
  <a href="/files/our-smart-nation/SGD Framework For Action.pdf" target="_blank"><img src="/images/our-smart-nation/digital-economy-framework.jpg"></a>
 </div>
@@ -63,23 +62,10 @@ To empower Singaporeans to maximise the opportunities of a digital society, impr
 The blueprint signifies the commitment of the Singapore Government and our partners in the private and people sectors to ensure that people are at the centre of Singapore’s Smart Nation efforts and that everyone can experience the benefits of technology.
 
 <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Read the Digital Readiness Blueprint here.</a>
-                                                                                                           
-<div style="width:100%;display:flex;flex-wrap:wrap;"> 
-  <div style="flex:30%;padding:1%;">
-    Digital Readiness Blueprint
-  </div>  
-</div>
-<hr>
-<div style="width:100%;display:flex;flex-wrap:wrap;"> 
-  <div style="flex:30%;padding:1%;">
-     <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/our-smart-nation/digital-readiness-blueprint.jpg">
-  </div>
-</div>
- 
+
  <div style="width:30%"> 
   Digital Readiness Blueprint
  </div>
-<hr>
 <div style="width:30%"> 
  <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/our-smart-nation/digital-readiness-blueprint.jpg">
 </div>
