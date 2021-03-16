@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Government Personal Data Protection Policies - April 2020
-permalink: /media-hub/publications/government-personal-data-protection-policies-apr20.md
+permalink: /media-hub/publications/government-personal-data-protection-policies-apr20
 ---
 
 <div style="width:30%"> 
