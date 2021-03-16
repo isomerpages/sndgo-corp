@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  National AI Strategy - November 2019
-permalink: /media-hub/announcements
+permalink: /media-hub/publications/national-ai-strategy-2019
 ---
 
 <div style="width:100%;display:flex;flex-wrap:wrap;"> 
