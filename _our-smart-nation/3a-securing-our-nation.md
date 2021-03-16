@@ -25,7 +25,7 @@ Learn more about how the Government protects your data and safeguards its system
     <div class="para">Recommendations and initiatives to strengthen the Government’s data security regime.</div>
   </div>
   <div style="flex:50%;padding:1%;"> 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/e-payments-1" target="_blank"><img src="/images/our-smart-nation/Govt-laws-policies.jpg"></a><br>       
+    <a href="our-smart-nation/securing-our-nation/pdp-initiatives" target="_blank"><img src="/images/our-smart-nation/Govt-laws-policies.jpg"></a><br>       
     <div class="header"><b>Government’s Personal Data Protection Laws and Policies</b></div>
     <br>
     <div class="para">Data management by public sector agencies and third parties of public agencies.</div>
