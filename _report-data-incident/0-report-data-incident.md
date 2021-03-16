@@ -2,7 +2,6 @@
 title: Report Data Incident
 permalink: /report-data-incident/report-data-incident/
 ---
-![Sample GIF](/images/testing.gif)
 
 ![1](/images/report-data-incident.jpg)
 
