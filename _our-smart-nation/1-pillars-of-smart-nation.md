@@ -67,5 +67,5 @@ The blueprint signifies the commitment of the Singapore Government and our partn
   Digital Readiness Blueprint
  </div>
 <div style="width:30%"> 
- <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/our-smart-nation/digital-readiness-blueprint.jpg">
+ <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/our-smart-nation/digital-readiness-blueprint.jpg"></a>
 </div>
