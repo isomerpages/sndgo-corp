@@ -13,7 +13,7 @@ At the broadest level, the economy is the most significant domain driving Singap
 
 >We envision a future Singapore that is a leading economy powered by digital innovation, and a world-class city with a Government that gives our citizens the best home possible and responds to their different and changing needs. 
 
-Find out more about the framework that guides the Smart Nation Initiative: ["Smart Nation: The Way Forward" here (pdf - 1.4mb)](/files/our-smart-nation/smart-nation-strategy-nov2018.pdf)
+Find out more about the framework that guides the Smart Nation Initiative: ["Smart Nation: The Way Forward" here (pdf - 1.4mb)](/files/publications/smart-nation-strategy-nov2018.pdf)
 
 ![Smart Nation Benefits 2020 Infographic](/images/our-smart-nation/benefits-infographic-2020.png)
 
