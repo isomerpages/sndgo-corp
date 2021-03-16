@@ -19,14 +19,14 @@ Learn more about how the Government protects your data and safeguards its system
 <br>
 <div style="width:100%;display:flex;flex-wrap:wrap;">  
   <div style="flex:50%;padding:1%;"> 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/codex" target="_blank"><img src="/images/our-smart-nation/Govt-initatives.jpg"></a><br>
+    <a href="/our-smart-nation/securing-our-nation/pdp-initiatives" target="_blank"><img src="/images/our-smart-nation/Govt-initatives.jpg"></a><br>
     <div class="header"><b>Government’s Personal Data Protection Initiatives</b></div>
     <br>
     <div class="para">Recommendations and initiatives to strengthen the Government’s data security regime.</div>
   </div>
   <div style="flex:50%;padding:1%;"> 
-    <a href="our-smart-nation/securing-our-nation/pdp-initiatives" target="_blank"><img src="/images/our-smart-nation/Govt-laws-policies.jpg"></a><br>       
-    <div class="header"><b>Government’s Personal Data Protection Laws and Policies</b></div>
+    <a href="/our-smart-nation/securing-our-nation/personal-data-protection" target="_blank"><img src="/images/our-smart-nation/Govt-laws-policies.jpg"></a><br>   
+    <div class="header"><b>Government's Personal Data Protection Laws and Policies</b></div>
     <br>
     <div class="para">Data management by public sector agencies and third parties of public agencies.</div>
   </div>
@@ -39,7 +39,7 @@ Learn more about how the Government protects your data and safeguards its system
     <div class="para">Our three-pronged approach to secure the systems to ensure no disruption to citizens services.</div>
   </div>     
   <div style="flex:50%;padding:1%;">
-    <a href="https://www.smartnation.gov.sg/report-data-incident/report-data-incident" target="_blank"><img src="/images/our-smart-nation/report-data-incident.jpg"></a><br>
+    <a href="/report-data-incident/report-data-incident/" target="_blank"><img src="/images/our-smart-nation/report-data-incident.jpg"></a><br>
     <div class="header"><b>Report a Government Data Incident</b></div>
     <br>
     <div class="para">The government data incident reporting platform to report a suspected incident.</div>
