@@ -5,8 +5,7 @@ permalink: /media-hub/publications/government-personal-data-protection-policies-
 ---
 
 <div style="width:30%"> 
- Government’s Key Personal Data Protection Policies
- (pdf - 5.8mb)
+ Government’s Key Personal Data Protection Policies (pdf - 5.8mb)
 </div>
 <div style="width:30%"> 
  <a href="/files/publications/government-personal-data-protection-policies-Apr2020.pdf" target="_blank"><img src="/images/our-smart-nation/government-personal-data-protection-policies-apr2020.jpeg"></a>
