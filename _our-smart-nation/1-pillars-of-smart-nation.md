@@ -24,6 +24,19 @@ The <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-
 | Digital Economy Framework for Action <br>(pdf - 4.31mb) |
 |:--------:| 
 | <a href="/files/our-smart-nation/SGD Framework For Action.pdf" target="_blank"><img src="/images/our-smart-nation/digital-economy-framework.jpg" width="30%"></a>|
+
+<div style="width:100%;display:flex;flex-wrap:wrap;"> 
+  <div style="flex:30%;padding:1%;">
+    Digital Economy Framework for Action <br>(pdf - 4.31mb)
+  </div>  
+</div>
+<hr>
+<div style="width:100%;display:flex;flex-wrap:wrap;"> 
+  <div style="flex:30%;padding:1%;">
+     <a href="/files/our-smart-nation/SGD Framework For Action.pdf" target="_blank"><img src="/images/our-smart-nation/digital-economy-framework.jpg"></a>
+  </div>
+</div>
+
   
 ## Digital Government
 
@@ -62,5 +75,18 @@ The blueprint signifies the commitment of the Singapore Government and our partn
 |Digital Readiness Blueprint|
 |:--------:| 
 | <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/our-smart-nation/digital-readiness-blueprint.jpg" width="30%"></a>|
+
+<div style="width:100%;display:flex;flex-wrap:wrap;"> 
+  <div style="flex:30%;padding:1%;">
+    Digital Readiness Blueprint
+  </div>  
+</div>
+<hr>
+<div style="width:100%;display:flex;flex-wrap:wrap;"> 
+  <div style="flex:30%;padding:1%;">
+     <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/our-smart-nation/digital-readiness-blueprint.jpg">
+  </div>
+</div>
+
                                                                                                            
                                                                                                            
