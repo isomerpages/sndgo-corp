@@ -22,7 +22,8 @@ Our vision is to build a vibrant economy that remains attractive to foreign inve
 The <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action" target="_blank">Digital Economy Framework for Action</a> sets out a guide to help our businesses and workforce prepare for and embrace the possibilities in a digital economy.
 
 <div style="width:30%"> 
- Digital Economy Framework for Action <br>(pdf - 4.31mb)
+ Digital Economy Framework for Action
+ (pdf - 4.31mb)
 </div>
 <hr>
 <div style="width:30%"> 
@@ -73,4 +74,12 @@ The blueprint signifies the commitment of the Singapore Government and our partn
   <div style="flex:30%;padding:1%;">
      <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/our-smart-nation/digital-readiness-blueprint.jpg">
   </div>
+</div>
+ 
+ <div style="width:30%"> 
+  Digital Readiness Blueprint
+ </div>
+<hr>
+<div style="width:30%"> 
+ <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/our-smart-nation/digital-readiness-blueprint.jpg">
 </div>
