@@ -21,16 +21,12 @@ Our vision is to build a vibrant economy that remains attractive to foreign inve
 
 The <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action" target="_blank">Digital Economy Framework for Action</a> sets out a guide to help our businesses and workforce prepare for and embrace the possibilities in a digital economy.
 
-<div style="width:100%;display:flex;flex-wrap:wrap;"> 
-  <div style="flex:30%;padding:1%;">
-    Digital Economy Framework for Action <br>(pdf - 4.31mb)
-  </div>  
+<div style="width:30%"> 
+ Digital Economy Framework for Action <br>(pdf - 4.31mb)
 </div>
 <hr>
-<div style="width:100%;display:flex;flex-wrap:wrap;"> 
-  <div style="flex:30%;padding:1%;">
-     <a href="/files/our-smart-nation/SGD Framework For Action.pdf" target="_blank"><img src="/images/our-smart-nation/digital-economy-framework.jpg"></a>
-  </div>
+<div style="width:30%"> 
+ <a href="/files/our-smart-nation/SGD Framework For Action.pdf" target="_blank"><img src="/images/our-smart-nation/digital-economy-framework.jpg"></a>
 </div>
 
 ## Digital Government
