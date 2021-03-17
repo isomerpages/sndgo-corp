@@ -1,7 +1,7 @@
 ---
 title: Government's Personal Data Protection Initiatives
 permalink: /our-smart-nation/securing-our-nation/pdp-initiatives
-breadcrumb: Securing Our Nation
+breadcrumb: Personal Data Protection Initiatives
 third_nav_title: "Securing Our Nation"
 ---
 
