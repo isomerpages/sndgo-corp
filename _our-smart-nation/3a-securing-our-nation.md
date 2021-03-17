@@ -33,8 +33,8 @@ Learn more about how the Government protects your data and safeguards its system
 </div> 
 <div style="width:100%;display:flex;flex-wrap:wrap;">  
   <div style="flex:50%;padding:1%;"> 
-    <a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Strategic-National-Projects/lifesg-initiative" target="_blank"><img src="/images/our-smart-nation/cybersecurity-public.jpg"></a><br>
-    <div class="header"><b>Cybersecurity in the Public Sector</b></div>
+    <a href="/our-smart-nation/securing-our-nation/cybersecurity" target="_blank"><img src="/images/our-smart-nation/cybersecurity-public.jpg"></a><br>
+    <div class="header"><b>Cybersecurity In The Public Sector</b></div>
     <br>
     <div class="para">Our three-pronged approach to secure the systems to ensure no disruption to citizens services.</div>
   </div>     
