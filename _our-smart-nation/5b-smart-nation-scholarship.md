@@ -32,4 +32,4 @@ We seek outstanding and dynamic individuals who are passionate about using techn
 
 [^3]: Mid-term scholarship applicants must have at least one semester of university results at the point of application and have not embarked on their final year of study.
 
-## The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="Go.gov.sg/smartnationscholarship" target="_blank">Go.gov.sg/smartnationscholarship</a> for the full details or email [scholarship@smartnation.gov.sg](mailto:scholarship@smartnation.gov.sg). 
+**The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="Go.gov.sg/smartnationscholarship" target="_blank">Go.gov.sg/smartnationscholarship</a> for the full details or email [scholarship@smartnation.gov.sg](mailto:scholarship@smartnation.gov.sg).**
