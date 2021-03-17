@@ -1,5 +1,5 @@
 ---
-title: Join Smart Nation and Digital Government Office! 
+title: Join Smart Nation and Digital Government Office 
 permalink: /our-smart-nation/careers/join-sndgo
 breadcrumb: Join Us
 third_nav_title: "Careers"
