@@ -19,4 +19,4 @@ Part-time consultancy can be arranged if you are unable to commit to three to si
 
 Read about the experiences of our Smart Nation Fellows on <a href="https://www.tech.gov.sg/careers/smart-nation-fellowship-programme/#paul-piong" target="_blank">GovTech’s website.</a>
 
-If any of these resonates with you, we’d love to hear from you. Apply Now via <a href="https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Mapletree-Business-City-Block-10-Level-10/Smart-Nation-Fellowship-Programme_JR-10000000710" target="_blank">Careers@Gov</a> or email us at [AreYouIT@tech.gov.sg](mailto:AreYouIT@tech.gov.sg)
+If these resonate with you, we’d love to hear from you. Apply Now via <a href="https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Mapletree-Business-City-Block-10-Level-10/Smart-Nation-Fellowship-Programme_JR-10000000710" target="_blank">Careers@Gov</a> or email us at [AreYouIT@tech.gov.sg](mailto:AreYouIT@tech.gov.sg)
