@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity In The Public Sector
 permalink: /our-smart-nation/securing-our-nation/cybersecurity
-breadcrumb: Securing Our Nation
+breadcrumb: Cybersecurity
 third_nav_title: "Securing Our Nation"
 ---
 
