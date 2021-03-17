@@ -52,12 +52,12 @@ With this in mind, the Government has introduced policies to guide Agencies in e
 ![Third party management framework](/images/our-smart-nation/pdp-third-party-framework.png)
 
 <hr>
-A **Third Party** is defined as a party (other than a data subject or an Agency) which
+A **Third Party** is defined as a party (other than a data subject[^1] or an Agency[^2]) which
 1. delivers, develops, implements, operates, provides or otherwise supplies ICT systems or services to an Agency, or
 2. collects, stores or otherwise processes data for an Agency.
 
-- Data subject refers to the individual or entity to which the data relates.
-- Agency refers to Organs of State, Ministries, Departments and Statutory Boards
+[^1] Data subject refers to the individual or entity to which the data relates.
+[^2]Agency refers to Organs of State, Ministries, Departments and Statutory Boards
 <hr>
 
 Find out more about the key policies that govern how agencies work with its third parties to safeguard data in the document below:
