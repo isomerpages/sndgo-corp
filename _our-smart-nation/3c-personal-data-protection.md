@@ -1,7 +1,7 @@
 ---
 title: Government's Personal Data Protection Laws And Policies
 permalink: /our-smart-nation/securing-our-nation/personal-data-protection
-breadcrumb: Securing Our Nation
+breadcrumb: Personal Data Protection Laws And Policies
 third_nav_title: "Securing Our Nation"
 ---
 
