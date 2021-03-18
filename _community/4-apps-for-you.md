@@ -3,7 +3,7 @@ title: Apps For You
 permalink: /community/apps-for-you
 ---
 
- ![Alt](/images/hero-banner.png)
+![Alt](/images/hero-banner.png)
 
 As we continue digitising Government services, some of them have evolved into a mobile app to be more efficient and beneficial. Below is the list of mobile apps that various government agencies have created to help us make life smarter. 
 
@@ -41,6 +41,7 @@ Everyday living made smarter as we go about our daily lives with the apps listed
           </div>
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
+	</div>      
     </td>
   </tr>
   <tr>
@@ -55,6 +56,7 @@ Everyday living made smarter as we go about our daily lives with the apps listed
           </div>
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nea" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
+      </div>      
     </td>
   </tr>
   <tr>
@@ -303,7 +305,7 @@ Ministry of Home Affairs’ officers work tirelessly to ensure that we can feel 
 	You can submit various information about criminal activities to the Police via "I-Witness". The information may be used to aid ongoing investigations or uncover unreported crimes.<br> 
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"<a href="https://apps.apple.com/sg/app/police-sg/id472603758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/police-sg/id472603758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.spf.policesg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
@@ -349,7 +351,7 @@ Getting around Singapore is pretty much a breeze with the help of the Apps below
 		All to make your journeys around Singapore more enjoyable!<br> 
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"<a href="https://apps.apple.com/sg/app/mytransport-singapore/id1306661188" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/mytransport-singapore/id1306661188" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
@@ -393,7 +395,7 @@ Many of us love to travel and explore new cultures, cuisines and squeeze in some
 	Find out more about the <a href="https://www.customs.gov.sg/eservices/customs-sg-mobile-and-web-application/" target="_blank">App here.</a> 
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"<a href="https://apps.apple.com/sg/app/customs-sg/id1062502468" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/customs-sg/id1062502468" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=org.customs.gov.sg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
