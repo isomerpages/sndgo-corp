@@ -42,6 +42,7 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
     <div class="header"><b>OpenCerts</b></div><br>
     <div class="para">With this blockchain-based platform, you may no longer need physical certificates!</div>
   </div>
+</div>  
 <div class="row">  
   <div class="column-c" > 
     <a href="/our-smart-nation/initiatives/digital-government-services/parents-gateway" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/parents-gateway.png"></a><br>
