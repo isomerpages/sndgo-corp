@@ -12,9 +12,10 @@ Check out the available apps below.
 - [Community and Lifestyle](#community-and-lifestyle)
 - [Family](#family)
 - [Health and Wellness](#health-and-wellness)
-- [Travel](#travel)
-- [Transportation](#transportation)
 - [Security](#security)
+- [Transportation](#transportation)
+- [Travel](#travel)
+
 
 ## Community and Lifestyle
 
@@ -289,52 +290,6 @@ While we are all busy with our daily lives, we sometimes tend to put our health 
   </tr>
 </table>
 
-## Travel
-
-Many of us love to travel and explore new cultures, cuisines and squeeze in some shopping like any true blue Singaporean. There are some travel-related processes that can be tiresome. The Apps below make those travel-related processes seamless and fast. 
-
-<table style="width:100%">
-  <tr>
-    <td style="width:30%">
-      <img src="/images/community/Customs-SG.jpg" alt="Customs SG">
-    </td>	
-    <td style="width:70%">
-      <h3>Customs@SG</h3>
-      A convenient way to declare and pay taxes on your overseas purchases!<br> 
-      <br>		
-	Exceeded your duty-free concession or Goods & Services Tax (GST) relief? Use this App to declare and pay the duty or GST anytime anywhere before you arrive in Singapore to speed up your clearance at the airport; allowing you to reach home faster!<br>  
-	<br>
-	You can also provide Customs with timely tip-offs on customs offences, feedback, or send in any Customs-related enquiries via the App!<br>
-	<br>
-	Find out more about the <a href="https://www.customs.gov.sg/eservices/customs-sg-mobile-and-web-application/" target="_blank">App here.</a> 
-      <br>
-      <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"<a href="https://apps.apple.com/sg/app/customs-sg/id1062502468" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
-          </div>
-          <div style="flex:50%;">><a href="https://play.google.com/store/apps/details?id=org.customs.gov.sg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
-          </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="/images/community/eAppt-ICA.jpg" alt="eAppt ICA"></td>
-	<td><h3>eAppt@ICA</h3>
-	Enjoy convenience when transacting with ICA while on the move! In addition to the e-Appointment service on the ICA website, you can now make, change or cancel appointments directly with the App.<br>
-	<br>
-	Your appointment booking details and acknowledgement page can be found under the 'My Appointment' function for subsequent viewing. You can set reminder alerts with the calendar function!<br>
-	<br>	
-	Access the <a href="https://eservices.ica.gov.sg/ibook/index.do" target="_blank">eAppointment web version here.</a><br>
-	<br>
-<div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/eappt-ica/id1071195475" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
-          </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.ica.eappt" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
-          </div>
-      </div>  
-    </td>
-  </tr>
-</table>
-
 ## Security
 
 Ministry of Home Affairs’ officers work tirelessly to ensure that we can feel safe to walk the streets at night. We can all contribute to keeping our Community safe - be it reporting crimes that you have witnesses or a suspicious situation, all from your phone!
@@ -353,7 +308,7 @@ Ministry of Home Affairs’ officers work tirelessly to ensure that we can feel 
       <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"<a href="https://apps.apple.com/sg/app/police-sg/id472603758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;">><a href="https://play.google.com/store/apps/details?id=com.spf.policesg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.spf.policesg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>
     </td>
@@ -378,3 +333,51 @@ Ministry of Home Affairs’ officers work tirelessly to ensure that we can feel 
     </td>
   </tr>
 </table>
+
+## Travel
+
+Many of us love to travel and explore new cultures, cuisines and squeeze in some shopping like any true blue Singaporean. There are some travel-related processes that can be tiresome. The Apps below make those travel-related processes seamless and fast. 
+
+<table style="width:100%">
+  <tr>
+    <td style="width:30%">
+      <img src="/images/community/Customs-SG.jpg" alt="Customs SG">
+    </td>	
+    <td style="width:70%">
+      <h3>Customs@SG</h3>
+      A convenient way to declare and pay taxes on your overseas purchases!<br> 
+      <br>		
+	Exceeded your duty-free concession or Goods & Services Tax (GST) relief? Use this App to declare and pay the duty or GST anytime anywhere before you arrive in Singapore to speed up your clearance at the airport; allowing you to reach home faster!<br>  
+	<br>
+	You can also provide Customs with timely tip-offs on customs offences, feedback, or send in any Customs-related enquiries via the App!<br>
+	<br>
+	Find out more about the <a href="https://www.customs.gov.sg/eservices/customs-sg-mobile-and-web-application/" target="_blank">App here.</a> 
+      <br>
+      <div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"<a href="https://apps.apple.com/sg/app/customs-sg/id1062502468" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=org.customs.gov.sg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="/images/community/eAppt-ICA.jpg" alt="eAppt ICA"></td>
+	<td><h3>eAppt@ICA</h3>
+	Enjoy convenience when transacting with ICA while on the move! In addition to the e-Appointment service on the ICA website, you can now make, change or cancel appointments directly with the App.<br>
+	<br>
+	Your appointment booking details and acknowledgement page can be found under the 'My Appointment' function for subsequent viewing. You can set reminder alerts with the calendar function!<br>
+	<br>	
+	Access the <a href="https://eservices.ica.gov.sg/ibook/index.do" target="_blank">eAppointment web version here.</a><br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/eappt-ica/id1071195475" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.ica.eappt" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+  </tr>
+</table>
+
+
