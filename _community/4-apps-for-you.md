@@ -224,7 +224,7 @@ There is nothing more important than family, and every moment with them is preci
   </tr>    
 </table>
 
-## Health & Wellness 
+## Health and Wellness 
 
 While we are all busy with our daily lives, we sometimes tend to put our health in the backseat. The adage that *Health is Wealth* is an important one. Do check out the apps below to help you in your quest to healthy living!
 
