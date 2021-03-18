@@ -36,9 +36,9 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       <a href="https://www.life.gov.sg/" target="_blank">Find more information on the LifeSG website!</a><br>
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+         <div style="flex:50%"<a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;">><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>
     </td>
@@ -51,9 +51,9 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       Contribute your feedback on issues such as litter or construction noise to help improve and sustain a clean and green environment in Singapore!<br>
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.nea" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+         <div style="flex:50%"></a><a href="https://apps.apple.com/sg/app/myenv/id444435182" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png">
           </div>
-          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/myenv/id444435182" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nea" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>  
     </td>
@@ -70,9 +70,9 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       <a href="https://www.scdf.gov.sg/home/community-volunteers/mobile-applications" target="_blank">Read up all about the App here.</a><br>
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>  
     </td>
@@ -89,9 +89,9 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       <a href="https://mobileapp.nlb.gov.sg/" target="_blank">Head over to the mobile app site to learn about all the features.</a><br>
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/nlb-mobile/id1147053983" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/nlb-mobile/id1147053983" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>  
     </td>
@@ -106,9 +106,9 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       Check out their <a href="https://www.onemap.sg/home/" target="_blank">web version</a> or download the App from the respective App Stores.<br>
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.onemap.android.onemap2" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/us/app/onemap-sg/id1244720012?ls=1" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://apps.apple.com/us/app/onemap-sg/id1244720012?ls=1" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.onemap.android.onemap2" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>  
     </td>
@@ -121,9 +121,9 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       The App provides a channel to report municipal issues across MSO's partner agencies on one common platform. You would not need to find out who you need to call! By submitting a photo and geo-tagging where the location is, facilitates complete and precise reporting of municipal issues.<br>
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/oneservice/id947274394" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/oneservice/id947274394" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>  
     </td>
@@ -138,26 +138,26 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       <a href="https://www.nparks.gov.sg/news/2015/4/nparks-biodiversity-databases" target="_blank">More details can be found on the NParks' website.</a><br>
       <br>    
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.nparks.BiodiversityApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/sgbioatlas/id975080923" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/sgbioatlas/id975080923" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nparks.BiodiversityApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>  
     </td>
   </tr>
   <tr>
-    <td><img src="/images/national-digital-identity2.jpg" alt="SingPass Mobile"></td>
-    <td><h3>SingPass Mobile</h3>
-	SingPass Mobile (SPM) provides a secure and convenient method for users to log into government digital services with their fingerprint, facial recognition or a 6-digit passcode. The App also can show you various information from the MyInfo Profile – such as your digital identity card, driving licence and many more.<br> 
+    <td><img src="/images/national-digital-identity2.jpg" alt="Singpass Mobile"></td>
+    <td><h3>Singpass Mobile</h3>
+	Singpass Mobile (SPM) provides a secure and convenient method for users to log into government digital services with their fingerprint, facial recognition or a 6-digit passcode. The App also can show you various information from the MyInfo Profile – such as your digital identity card, driving licence and many more.<br> 
 	<br>
 	Beyond government services, SPM can let you log in to selected private sectors services – like NTUC Income, AIA, Manulife, Prudential, to name a few.<br> 
 	<br> 
 	<a href="https://app.singpass.gov.sg/" target="_blank">To check out all the features of SPM, head over to the website now!</a><br>
 	<br>    
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/us/app/singpass-mobile/id1340660807" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://apps.apple.com/us/app/singpass-mobile/id1340660807" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>  
     </td>
@@ -170,9 +170,9 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       <a href="https://www.singstat.gov.sg/our-services-and-tools/singstat-mobile-app" target="_blank">Click here for more details on the SingStat Mobile App.</a><br>
       <br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=sg.gov.singstat" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/singstat/id935197005" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/singstat/id935197005" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.singstat" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>  
     </td>
@@ -198,9 +198,9 @@ There is nothing more important than family, and every moment with them is preci
 	<a href="https://dementiafriendly.sg/" target="_blank">Find out more about the App.</a><br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=aic.dfriends" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/dementia-friends/id1398198593" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/dementia-friends/id1398198593" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=aic.dfriends" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>  
     </td>
@@ -215,11 +215,76 @@ There is nothing more important than family, and every moment with them is preci
 	<a href="https://pg.moe.edu.sg/faq" target="_blank">Have more questions? Head over here.</a><br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://play.google.com/store/apps/details?id=com.moe.pgp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;"><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708 " target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.moe.pgp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>  
     </td>
   </tr>    
+</table>
+
+## Health & Wellness 
+
+While we are all busy with our daily lives, we sometimes tend to put our health in the backseat. The adage that *Health is Wealth* is an important one. Do check out the apps below to help you in your quest to healthy living!
+
+<table style="width:100%">
+  <tr>
+    <td style="width:30%">
+      <img src="/images/community/ActiveWallet.jpg" alt="Active Wallet">
+    </td>	
+    <td style="width:70%">
+      <h3>ActiveWallet</h3>
+	Keep active and fit with ActiveSG! With the App, you book programmes and sporting facilities island-wide to receive incentives through exciting fitness challenges and campaigns! Also, use the App to pay at participating F&B and retail merchants and earn ActiveSG dollars.<br>
+	<br>
+	<a href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App" target="_blank">Find out more about the App here.</a><br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/activesg/id827595244" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.iapps.ssc" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+  </tr>
+  <tr>
+    <td><img src="/images/community/HealthHub.jpg" alt="HealthHub"></td>
+    <td><h3>HealthHub</h3>
+	Have your personalised health records at your fingertips!<br>
+	<br>    
+	Have access to yours's and your children's health records through this one-stop portal, in the palm of your hand. You can even link your parents' records and details to keep track of their doctors' appointments and medication! The entire family's health status – all at your fingertips!<br>
+	<br>    
+	The App also offers a range of health & wellness related content, deals, rewards and e-services.<br>
+	<br>    
+	Check out the <a href="https://www.healthhub.sg/" target="_blank">HealthHub website for full details!</a>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthhub-sg/id1034200875" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthhub" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+  </tr>
+  <tr>
+    <td><img src="/images/community/Healthy-365.jpg" alt="Healthy 365"></td>
+    <td><h3>Healthy 365</h3>
+	The ubiquitous App for the National Steps Challenge! This health and diet tracking app also aim to help Singaporeans live a healthier lifestyle!  Keep track of your daily steps, count and calculate the corresponding calories burned as you go about your day via the App. Track your daily food & drinks intake to see the full picture of the number of calories consumed vs calories burned via your step count.<br> 
+	<br>
+	The National Steps Challenge's goal is to keep us moving to keep us active and fit, and our diet plays a large part in living a healthy lifestyle! Eat, Drink, Shop Healthy Challenge aims to educate and remind us to make good food choices to help in our bid for healthier living. When you buy healthier choice options, you can get rewarded via the App as well!<br> 
+	<br>
+	There are also free fitness classes you can book to kickstart your healthy living lifestyle. There is a wide range of courses – from HIIT to Zumba, and even KpopX Fitness – definitely something for everyone.<br>
+	<br>
+	Take charge of your health today!<br>
+	<br>
+	See the full details on the <a href="https://www.healthhub.sg/rewards" target="_blank">rewards programme for Healthy 365.</a>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthy-365/id104020215" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+  </tr>
 </table>
