@@ -37,11 +37,10 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       <a href="https://www.life.gov.sg/" target="_blank">Find more information on the LifeSG website!</a><br>
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"<a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
-          <div style="flex:50%;">><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
-      </div>
     </td>
   </tr>
   <tr>
@@ -52,11 +51,10 @@ Everyday living made smarter as we go about our daily lives with the apps listed
       Contribute your feedback on issues such as litter or construction noise to help improve and sustain a clean and green environment in Singapore!<br>
       <br>
       <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"></a><a href="https://apps.apple.com/sg/app/myenv/id444435182" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/myenv/id444435182" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nea" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
-      </div>  
     </td>
   </tr>
   <tr>
@@ -179,7 +177,6 @@ Everyday living made smarter as we go about our daily lives with the apps listed
     </td>
   </tr>
 </table>
-
 
 ## Family
 
