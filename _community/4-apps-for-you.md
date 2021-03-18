@@ -280,7 +280,7 @@ While we are all busy with our daily lives, we sometimes tend to put our health 
 	See the full details on the <a href="https://www.healthhub.sg/rewards" target="_blank">rewards programme for Healthy 365.</a>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthy-365/id104020215" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
