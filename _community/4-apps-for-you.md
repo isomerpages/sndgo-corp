@@ -334,6 +334,48 @@ Ministry of Home Affairs’ officers work tirelessly to ensure that we can feel 
   </tr>
 </table>
 
+## Transportation
+
+Getting around Singapore is pretty much a breeze with the help of the Apps below. From helping you plan your route or paying for parking – we got you covered.
+
+<table style="width:100%">
+  <tr>
+    <td style="width:30%">
+      <img src="/images/community/Mytransport.jpg" alt="MyTransport.SG">
+    </td>	
+    <td style="width:70%">
+	    <h3>MyTransport.SG</h3>
+	    Go places with the new myTransport SG app!<br> 
+		<br>	
+		Access the multi-modal journey planner to plan your journey. If you are driving, you can check out real-time traffic information, or locate ERP gantries and traffic cameras. The interactive map allows you to quickly find any bus-stop or MRT station to plan your journey.<br>
+		<br>
+		All to make your journeys around Singapore more enjoyable!<br> 
+      <br>
+      <div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"<a href="https://apps.apple.com/sg/app/mytransport-singapore/id1306661188" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="/images/community/ParkingSG.jpg" alt="Parking.sg"></td>
+	<td><h3>Parking.sg</h3>
+	Gone are the days when one has to look for a store to buy parking coupons! We can now pay for parking conveniently using our mobile devices.<br>  
+	<br>
+	The App also calculates parking charges automatically - down to the minute. If you leave earlier, the balance will be refunded; no wasted minutes (or cash). The App will prompt when the parking session is about to expire so you can extend the session remotely. No more summons if you forget to add more parking coupons!<br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/vn/app/parking-sg/id1286602494" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+  </tr>
+</table>
+
 ## Travel
 
 Many of us love to travel and explore new cultures, cuisines and squeeze in some shopping like any true blue Singaporean. There are some travel-related processes that can be tiresome. The Apps below make those travel-related processes seamless and fast. 
