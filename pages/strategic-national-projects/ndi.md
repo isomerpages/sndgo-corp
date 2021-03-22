@@ -17,24 +17,24 @@ It is a digital identity system for Singapore residents and businesses to conven
 
 NDI is made out of the following key sections:  
 
-### SingPass (Singapore Personal Access)
+### Singpass (Singapore Personal Access)
 
 - An authentication system launched in 2003 for citizens to access hundreds of digital Government services.
 - 2-step Verification (2FA) for digital transactions involving sensitive information, such as filing taxes and viewing CPF statements.
 
 ![SingPass mobile app setup](/images/our-smart-nation/Initiatives/SingPass-mobile-setup.png)
 
-### SingPass Mobile
+### Singpass Mobile
 
-- The mobile application that allows users to log in to SingPass with their fingerprint, facial recognition or a 6-digit passcode.
+- The mobile application that allows users to log in to Singpass with their fingerprint, facial recognition or a 6-digit passcode.
 - Alternative 2-step Verification (2FA) mode for a more convenient and secure log in to Government digital services.
 - Users no longer need to enter their passwords.
-- Singaporeans who are overseas will not have to use a physical token or wait to receive a text message before they can log in to SingPass, making it more convenient and efficient to transact from wherever they are. 
-- Download the <a href="https://app.singpass.gov.sg/" target="_blank">SingPass Mobile app here.</a> 
+- Singaporeans who are overseas will not have to use a physical token or wait to receive a text message before they can log in to Singpass, making it more convenient and efficient to transact from wherever they are. 
+- Download the <a href="https://app.singpass.gov.sg/" target="_blank">Singpass Mobile app here.</a> 
 
 ### MyInfo
 
-- A "Tell Us Once" service that allows SingPass users to auto-fill selected personal details for online forms.
+- A "Tell Us Once" service that allows Singpass users to auto-fill selected personal details for online forms.
 - Reduces repetitive form-filling and the need for users to provide verifying documents.
 - Enhances accuracy and speeds up processes in both the Government and private sector.
 - Over 110 government services and 90 private sector services currently use MyInfo. Some examples from the private sector include:
