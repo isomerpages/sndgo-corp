@@ -5,7 +5,7 @@ permalink: /media-hub/open-data-resources/land-transport-datamall
 ---
 
 <div style="width:20%;display:flex;flex-wrap:wrap;">
-  <div style="flex:20%"><img alt="Land Transport DataMall" src="/images/media-hub/open-data-resources/land-transport-datamall.jpeg"></a>
+  <div style="flex:20%"><a href="https://datamall.lta.gov.sg/" target="_blank"><img alt="Land Transport DataMall" src="/images/media-hub/open-data-resources/land-transport-datamall.jpeg"></a>
   </div>
 </div>
 
