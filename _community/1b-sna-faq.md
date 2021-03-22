@@ -4,7 +4,7 @@ permalink: /community/smart-nation-ambassadors/faq
 third_nav_title: "Smart Nation Ambassadors"
 ---
 
-## **Frequently Asked Questions**
+# Frequently Asked Questions
 
 Have a question on our Smart Nation Ambassador Programme? Check out our FAQs.
 
@@ -15,7 +15,7 @@ Have a question on our Smart Nation Ambassador Programme? Check out our FAQs.
 - [How do I sign up to be a Smart Nation Ambassador and start volunteering?](#q5-how-do-i-sign-up-to-be-a-smart-nation-ambassador-and-start-volunteering)
 - [Who can I contact for further information on Smart Nation Ambassadors?](#q6-who-can-i-contact-for-further-information-on-smart-nation-ambassadors)
 
-### **Q1. Who are Smart Nation Ambassadors?**
+## **Q1. Who are Smart Nation Ambassadors?**
 
 Smart Nation Ambassadors (SNAs) are volunteers who support the Smart Nation and Digital Government Group’s co-creation efforts. They support us by engaging citizens on Smart Nation and digital government initiatives. 
 
@@ -23,7 +23,7 @@ SNAs can get involved in a variety of activities - from teaching someone how to 
 
 [Return to top](#frequently-asked-questions)
 
-### **Q2. What skills do I need to become a Smart Nation Ambassador?**
+## **Q2. What skills do I need to become a Smart Nation Ambassador?**
 
 We are looking for individuals with an interest in helping others live digitally-enabled lives. If you are digitally-savvy,  that would be be a plus. But it is not essential. We will organise briefings and training, depending on the type of volunteer programmes you sign up for. 
 
@@ -39,7 +39,7 @@ We will ensure you are equipped and trained to enable you to be a Smart Nation a
 
 - SNAs lead and guide groups at events. At larger events such as Digital Inclusion Festival and Smart Nation & U, they act as event guides. They bring the interested public around on tours to event highlights and help guide the public through the various showcases on display.
 
-- SNAs can teach others about technology. With [#Smart NationTogether](/community/webinars-for-everyone/), SNAs have curated an extensive list of live online programmes such as hands-on workshops to learn data analytics tools, lessons on using Zoom and SingPass Mobile, and even coding workshops and STEM classes for families with young children.
+- SNAs can teach others about technology. With [#Smart NationTogether](/community/webinars-for-everyone/), SNAs have curated an extensive list of live online programmes such as hands-on workshops to learn data analytics tools, lessons on using Zoom and Singpass Mobile, and even coding workshops and STEM classes for families with young children.
 
 - SNAs can set up booths at Smart Nation events to provide hands-on experiences to the public. If you are a tech company or entrepreneur with an interesting solution, or have an idea to showcase, we welcome you to do so at our events! 
  
