@@ -17,11 +17,11 @@ We have currently identified five National AI Projects in these key areas:
 In these projects, AI technologies will address challenges and deliver a strong social and economic impact for Singapore and Singaporeans. 
 
 The National AI strategy also outlines five key enablers to anchor a vibrant and sustainable AI ecosystem to drive AI innovation and adoption across the economy. They are:
-1)	Triple Helix Partnership: Research Community + Industry + Government
-2)	AI Talent and Education
-3)	Data Architecture 
-4)	Progressive and Trusted Environment
-5)	International Collaboration 
+1. Triple Helix Partnership: Research Community + Industry + Government
+2. AI Talent and Education
+3. Data Architecture 
+4. Progressive and Trusted Environment
+5. International Collaboration 
   
 Find out more in the National AI Strategy document.
 
