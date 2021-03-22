@@ -5,7 +5,7 @@ permalink: /media-hub/open-data-resources/land-transport-datamall
 ---
 
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-  <div style="flex:20%"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+  <div style="flex:20%"><img alt="Land Transport DataMall" src="/images/media-hub/open-data-resources/land-transport-datamall.jpeg"></a>
   </div>
 </div>
 
