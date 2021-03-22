@@ -6,6 +6,7 @@ permalink: /media-hub/open-data-resources/data-gov-sg
 
 <div style="width:20%;display:flex;flex-wrap:wrap;">
   <div style="flex:20%"><a href="https://data.gov.sg/" target="_blank"><img alt="Data.gov.sg" src="/images/media-hub/open-data-resources/data-gov.jpeg"></a>
+  </div>
 </div>
 
 
