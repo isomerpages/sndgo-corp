@@ -13,10 +13,9 @@ The LifeSG app is a Smart Nation initiative that helps citizens access Governmen
  
 ## What is LifeSG?
  
-Formerly known as Moments of Life, it was launched in June 2018 to support families with young children and seniors. Since then, the app has progressively added new features to serve citizens in other aspects of their life journey. Currently, 7 in 10([^1]) Singaporean births have been registered with the app. Other features include an Active Ageing module for seniors aged 60 and above (rolled out in September 2019) and more recently, an Employment Support Guide for job-seekers (rolled out in June 2020). 
+Formerly known as Moments of Life, it was launched in June 2018 to support families with young children and seniors. Since then, the app has progressively added new features to serve citizens in other aspects of their life journey. Currently, 7 in 10[^1] Singaporean births have been registered with the app. Other features include an Active Ageing module for seniors aged 60 and above (rolled out in September 2019) and more recently, an Employment Support Guide for job-seekers (rolled out in June 2020). 
 
-([^1]: Figure refers to newborns who meet the eligibility criteria for birth registration in the app.)
-
+[^1]: Figure refers to newborns who meet the eligibility criteria for birth registration in the app.
  
 On 19 August 2020, Minister-in-Charge of the Smart Nation Initiative, Dr Vivian Balakrishnan, announced the rebranding of Moments of Life to LifeSG. The rebranding reflects the Government's future plans to expand and serve citizens beyond key moments in their lives. At the moment, the app has been enhanced to provide users with access to more than 40 services from various Government agencies. Over time, we hope to include more features and relevant digital services for citizens.
 
