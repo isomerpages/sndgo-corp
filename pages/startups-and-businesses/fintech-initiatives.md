@@ -19,7 +19,7 @@ Efforts are being put in place to nurture a FinTech environment that supports in
 The MAS opened its <a href="https://www.mas.gov.sg/news/media-releases/2016/mas-establishes-fintech-innovation-lab" target="_blank">FinTech Innovation Lab</a> as the platform for the FinTech community to connect, collaborate, and co-create with one another. 
 
 ### One-stop virtual entity for FinTech matters
-To promote Singapore as a FinTech hub, the FinTech Office was established with members of the office coming from MAS, Economic Development Board of Singapore, Infocomm Investments Pte Ltd, Info-communications Media Development Authority, National Research Foundation, and SPRING Singapore.  Click here to find out more on the <a href="https://www.mas.gov.sg/development/fintech" target="_blank>FinTech Office.</a> 
+To promote Singapore as a FinTech hub, the FinTech Office was established with members of the office coming from MAS, Economic Development Board of Singapore, Infocomm Investments Pte Ltd, Info-communications Media Development Authority, National Research Foundation, and SPRING Singapore.  Click here to find out more on the <a href="https://www.mas.gov.sg/development/fintech" target="_blank">FinTech Office.</a> 
  
 ### Open data
 To encourage and facilitate development of innovative solutions, MAS has published data sets from the MAS' Monthly Statistical Bulletin and other financial statistics as <a href="https://secure.mas.gov.sg/api/Search.aspx" target="_blank">Application Programming Interfaces (APIs) here.</a> 
