@@ -4,6 +4,9 @@ permalink: /our-smart-nation/initiatives/strategic-national-projects
 breadcrumb: Strategic National Projects
 third_nav_title: "Initiatives"
 ---
+
+# Strategic National Projects
+
 As we move towards our Smart Nation goal, some fundamental drivers have been chosen to be the building blocks in our transformation. These projects will allow us to grow and develop efficiently throughout Singapore. 
 
 <br>
