@@ -4,7 +4,9 @@ title:  IRAS API Marketplace
 permalink: /media-hub/open-data-resources/iras-api-marketplace
 ---
 
-![IRAS API Marketplace](/images/media-hub/open-data-resources/iras-api.jpeg) 
+<div style="width:20%;display:flex;flex-wrap:wrap;">
+  <div style="flex:20%"><img alt="IRAS API Marketplace" src="/images/media-hub/open-data-resources/iras-api.jpeg"></a>
+</div>
 
 A marketplace that offers APIs which enables applications to embed or optimise tax management capabilities across a range of tax transactions. E.g. tax filing, account services, tax rate enquiries, calculators and e-stamping services.
 
