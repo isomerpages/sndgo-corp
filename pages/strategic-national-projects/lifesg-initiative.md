@@ -17,7 +17,7 @@ Formerly known as Moments of Life, it was launched in June 2018 to support famil
  
 On 19 August 2020, Minister-in-Charge of the Smart Nation Initiative, Dr Vivian Balakrishnan, announced the rebranding of Moments of Life to LifeSG. The rebranding reflects the Government's future plans to expand and serve citizens beyond key moments in their lives. At the moment, the app has been enhanced to provide users with access to more than 40 services from various Government agencies. Over time, we hope to include more features and relevant digital services for citizens.
  
-[^1]Figure refers to newborns who meet the eligibility criteria for birth registration in the app.
+[^1]: Figure refers to newborns who meet the eligibility criteria for birth registration in the app.
 
 ## Features available in LifeSG
  
