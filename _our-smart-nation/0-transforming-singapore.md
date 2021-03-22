@@ -56,7 +56,7 @@ Start-up accelerators such as <a href="https://www.jtc.gov.sg/industrial-land-an
 
 Connecting technopreneurs with industry mentors, and being the bridge between innovation and enterprise gives Singapore the edge to encourage people to reach for the sky and dream up new ideas. This also gives the entrepreneurs a much-needed boost to get them started on their journey as well.
 
-The Punggol Digital District **(pending link to PDD page on SNW)** is a prime example of an environment that we are developing to attract the best tech companies and talents, and foster their growth. Through clustering of the growth sector, we aim to bring together high-value digital services in PDD and create an ecosystem with conducive test-bed environments that enable our businesses and the community to thrive in a digital economy.
+The <a href="our-smart-nation/initiatives/startups-and-businesses/punggol-digital-district" target="_blank">Punggol Digital District</a> is a prime example of an environment that we are developing to attract the best tech companies and talents, and foster their growth. Through clustering of the growth sector, we aim to bring together high-value digital services in PDD and create an ecosystem with conducive test-bed environments that enable our businesses and the community to thrive in a digital economy.
  
 ### Cybersecurity and Data Privacy
 
