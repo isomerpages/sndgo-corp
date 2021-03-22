@@ -25,4 +25,9 @@ Also, we have technical safeguards, which include:
 
 Learn more about <a href="https://www.life.gov.sg/" target="_blank">LifeSG here</a>  or have a question?  Refer to our list of <a href="https://www.life.gov.sg/help-support/about-lifesg" target="_blank">frequently asked questions.</a>  
 
-<a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png" width="20%"></a><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png" width="20%"></a>
+ <div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+	</div>      
