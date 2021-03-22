@@ -13,38 +13,30 @@ sections:
         url: /community/webinars-for-everyone/
         key_highlights:
             - title: Smart Nation Ambassadors
-              description: Discover how to join the programme!
+              description: Join us on our transformative Journey! 
               url: /community/smart-nation-ambassadors
             - title: Business Resources 
-              description: Discover initiatives for your business 
-              url: /future-of-business/business-resources/
-            - title: Our Smart Nation Journey
-              description: The milestones since 2014
-              url: /our-smart-nation/milestones/
+              description: Find initiatives for your business.
+              url: /business/resources/
+            - title: Pillars Of Smart Nation
+              description: Find out more about the three key pillars.
+              url: /our-smart-nation/pillars-of-smart-nation
     - infopic:
-        title: Speech by Minister Vivian Balakrishnan at SCEWC 2019
+        title: Smart Nation Scholarship - Apply Now
         subtitle: 
-        description: 
-        button: Read more
-        url: /scewc19-speech/
-        image: /images/scewc19.jpeg
-        alt: Minister Vivian Balakrishnan at SCEWC 2019 
+        description: The application period closes April 2021! 
+        button: Learn more
+        url: /our-smart-nation/careers/smart-nation-scholarship
+        image: /images/snscholarship.jpeg
+        alt: Smart Nation Scholarship
     - infopic:
         title: National Artificial Intelligence Strategy Unveiled
         subtitle: 
         description: 
         button: Learn More
-        url: /national-artifical-intelligence-strategy/
+        url: /our-smart-nation/artificial-intelligence
         image: /images/ai-strategy.jpg
         alt: AI Strategy
-    - infopic:
-        title: My Smart Ahma Top Picks
-        subtitle: 
-        description:
-        button: Learn More
-        url: /whats-new/my-smart-ahma/
-        image: /images/my-smart-ahma.png
-        alt: Members of the Ministry of ABC in suits
     - resources:
         title: Media Hub
         subtitle: Learn more
