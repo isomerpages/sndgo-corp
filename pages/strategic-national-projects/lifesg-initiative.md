@@ -13,11 +13,12 @@ The LifeSG app is a Smart Nation initiative that helps citizens access Governmen
  
 ## What is LifeSG?
  
-Formerly known as Moments of Life, it was launched in June 2018 to support families with young children and seniors. Since then, the app has progressively added new features to serve citizens in other aspects of their life journey. Currently, 7 in 10[^1] Singaporean births have been registered with the app. Other features include an Active Ageing module for seniors aged 60 and above (rolled out in September 2019) and more recently, an Employment Support Guide for job-seekers (rolled out in June 2020). 
+Formerly known as Moments of Life, it was launched in June 2018 to support families with young children and seniors. Since then, the app has progressively added new features to serve citizens in other aspects of their life journey. Currently, 7 in 10([^1]) Singaporean births have been registered with the app. Other features include an Active Ageing module for seniors aged 60 and above (rolled out in September 2019) and more recently, an Employment Support Guide for job-seekers (rolled out in June 2020). 
+
+([^1]: Figure refers to newborns who meet the eligibility criteria for birth registration in the app.)
+
  
 On 19 August 2020, Minister-in-Charge of the Smart Nation Initiative, Dr Vivian Balakrishnan, announced the rebranding of Moments of Life to LifeSG. The rebranding reflects the Government's future plans to expand and serve citizens beyond key moments in their lives. At the moment, the app has been enhanced to provide users with access to more than 40 services from various Government agencies. Over time, we hope to include more features and relevant digital services for citizens.
- 
-[^1]: Figure refers to newborns who meet the eligibility criteria for birth registration in the app.
 
 ## Features available in LifeSG
  
@@ -27,7 +28,6 @@ LifeSG will offer users more ready access to digital government services through
  
 **b. Personal Dashboard:** Citizens can use the dashboard to discover recommended content, access guides that simplify processes such as job & preschool searches and discover government benefits through features such as the Family Support Calculator. 
 
-
 ## Co-creating with Citizens
  
 LifeSG is developed based on insights gathered through citizen engagement sessions over a six-month period to identify and better understand users' challenges and needs. The Government has also tapped on the ongoing [Smart Nation Co-creating with our People Everywhere (SCOPE)](/community/scope) sessions since Oct 2018, to consult citizens and better understand how the LifeSG initiative could better meet their needs.
@@ -36,5 +36,5 @@ LifeSG is not just a step for the Government to connect the dots. It also repres
  
 Find out more about <a href="https://www.life.gov.sg/" target="_blank">LifeSG here</a>. Have a question or need more help? Refer to our <a href="https://www.life.gov.sg/help-support/about-lifesg" target="_blank">frequently asked questions (FAQs).</a>
  
- 
 Couldn't find what you're looking for or need more assistance? Email the LifeSG team at [helpdesk@life.gov.sg](mailto:helpdesk@life.gov.sg). 
+
