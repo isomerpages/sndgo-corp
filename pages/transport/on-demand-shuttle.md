@@ -20,8 +20,6 @@ A real-time demand-driven intelligent transport system that optimises land use a
 
 ### On-demand public bus trial
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FWeKeepYourWorldMoving%2Fvideos%2F1954464038189646%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
 -	A 6-month on-demand public bus service (ODPB) operational trial commenced on 17 Dec 2018. The trial explores the utilisation of dynamic routing and matching algorithms to optimise limited resources.
 -	The trial offered more seamless and convenient bus journeys for commuters during timings with low or unpredictable ridership.
 -	Commuters could request pick-ups and drop-offs at any bus stop within the defined geo-fence area through a mobile app. 
