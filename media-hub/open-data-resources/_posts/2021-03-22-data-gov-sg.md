@@ -4,7 +4,12 @@ title:  Data.Gov.SG
 permalink: /media-hub/open-data-resources/data-gov-sg
 ---
 
-![Data.gov.sg](/images/media-hub/open-data-resources/data-gov.jpeg)
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+  <div style="flex:20%"><img alt="Data.gov.sg" src="/images/media-hub/open-data-resources/data-gov.jpeg"></a>
+  </div>
+</div>
+
+Image change 
 
 This is Singapore government's one-stop portal to publicly-available datasets from 70 public agencies. 
 
