@@ -28,7 +28,7 @@ We are looking for individuals interested in helping others live digitally-enabl
 - [Become a Smart Nation Ambassador](mailto:ambassadors@smartnation.gov.sg)  
 - [Take part in a Smart Nation Survey](/community/SCOPE)  
 - Share a life hack using technology!
-   - Create a short clip (less than one minute) to introduce any digital government service (for example,  XXXX LifeSG XXXX) or  XXXX SingPass Mobile XXXXX).  You could showcase the features or ways for people to download and navigate. Hashtag your video clip with #SmartNation and #pledgeyourselves and ensure that your post is public so that we can find your entry!
+   - Create a short clip (less than one minute) to introduce any digital government service (for example, <a href="/our-smart-nation/initiatives/digital-government-services/lifesg" target="_blank">LifeSG</a>) or  <a href="/our-smart-nation/initiatives/strategic-national-projects/national-digital-identity" target="_blank">Singpass</a>).  You could showcase the features or ways for people to download and navigate. Hashtag your video clip with #SmartNation and #pledgeyourselves and ensure that your post is public so that we can find your entry!
 
 Have a question or need more help? Refer to our list of [FAQs](/community/smart-nation-ambassadors/faq) or email us at [Ambassadors@smartnation.gov.sg](mailto:Ambassadors@smartnation.gov.sg).
 
