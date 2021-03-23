@@ -4,14 +4,14 @@ favicon: /images/favicon-isomer.ico
 
 colors:
     primary-color: '#ed1a3b'
-    secondary-color: '#ed1a3b'
+    secondary-color: '#0180a0'
     media-colors: 
         - title: media-color-one 
           color: '#678a00' 
         - title: media-color-two 
           color: '#FF6633' 
         - title: media-color-three 
-          color: '#678a00'
+          color: '#00B5E2'
         - title: media-color-four 
           color: '#CC3366'
         - title: media-color-five 
