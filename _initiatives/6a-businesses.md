@@ -1,10 +1,10 @@
 ---
-title: Startups And Businesses
-permalink: /our-smart-nation/initiatives/startups-and-businesses
-breadcrumb: Startups And Businesses
+title: Businesses
+permalink: /initiatives/businesses
+breadcrumb: Businesses
 third_nav_title: "Initiatives"
 ---
-# Startups And Businesses
+# Businesses
 
 Talent and businesses are critical in a digital economy that will continue to keep Singapore vibrant and competitive on the world stage. Singapore's pro-business environment, excellent infrastructure and connectivity to major Asian economies are extremely attractive to many businesses. We need to keep our edge to ensure that will keep attracting talents and investments in our Citystate to help our Nation grow.
 
