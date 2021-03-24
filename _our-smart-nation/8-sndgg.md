@@ -1,5 +1,5 @@
 ---
-title: Our Team
+title: About Us
 permalink: /our-smart-nation/sndgg/
 ---
 
