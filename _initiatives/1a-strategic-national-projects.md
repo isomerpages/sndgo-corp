@@ -1,6 +1,6 @@
 ---
 title: Strategic National Projects
-permalink: /our-smart-nation/initiatives/strategic-national-projects
+permalink: /initiatives/strategic-national-projects
 breadcrumb: Strategic National Projects
 third_nav_title: "Initiatives"
 ---
