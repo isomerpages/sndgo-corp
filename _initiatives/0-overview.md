@@ -1,8 +1,7 @@
 ---
-title: Overview
+title: Initiatives Overview
 permalink: /initiatives/overview
 breadcrumb: Initiatives
-third_nav_title: "Initiatives"
 ---
 
 <style>
