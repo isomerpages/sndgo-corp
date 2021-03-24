@@ -1,12 +1,12 @@
 ---
-title: "#SmartNationTogether Overview"
-permalink: /community/webinars-for-everyone/
-third_nav_title: "Webinars For Everyone"
+title: "#SmartNationTogether"
+permalink: /community/smart-nation-together
+third_nav_title: "#SmartNationTogether"
 ---
 
-![#SmartNationTogether - the online channel for all our tech related talks](/images/community/snt-page-header.jpg "SmartNationTogether")
+# Welcome to the **#SmartNationTogether** online channel! 
 
-Welcome to the **#SmartNationTogether** online channel! 
+![#SmartNationTogether - the online channel for all our tech related talks](/images/community/snt-page-header.jpg "SmartNationTogether")
 
 We have a wide array of workshops available for you to learn more. Whether you are interested in learning the basics of coding or simply want to hear about the latest technological trends from subject experts, there will always be something for everyone! 
 
