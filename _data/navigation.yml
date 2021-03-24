@@ -7,16 +7,16 @@
 logo: /images/logo.png
 
 links:
-  - title: Our Smart Nation
-    collection: our-smart-nation
+  - title: About Smart Nation
+    collection: abt-smart-nation
+  - title: Initiatives
+    collection: initiatives
   - title: A Smart Community
     collection: community
-  - title: Smart Businesses
-    collection: business
   - title: Media Hub
     resource_room: true
-  - title: Report Data Incident
-    collection: report-data-incident
+  - title: Careers
+    collection: careers
       
 #  - title: Why Smart Nation
 #    collection: why-smart-nation
@@ -26,3 +26,7 @@ links:
 #    collection: how-to-be-involved
 #  - title: What's New
 #    resource_room: true
+#  - title: Smart Businesses
+#    collection: business
+#  - title: Report Data Incident
+#    collection: report-data-incident
