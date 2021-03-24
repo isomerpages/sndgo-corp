@@ -3,7 +3,7 @@ title: Contribute To Smart Nation
 permalink: /community/SCOPE
 ---
 
-# Contribute to the Smart Nation Initative
+# Contribute to the Smart Nation Initiative 
 
 Come, participate and co-create with us on our Smart Nation journey!
 
