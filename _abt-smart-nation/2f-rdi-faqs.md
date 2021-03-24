@@ -1,9 +1,11 @@
 ---
 title: Report Data Incident - FAQs
-permalink: /report-data-incident/faq/
+permalink: /abt-smart-nation/secure-smart-nation/rdi-faqs/
+breadcrumb: A Secure Smart Nation
+third_nav_title: "A Secure Smart Nation"
 ---
 
-### **Frequently Asked Questions**
+# Frequently Asked Questions
 
 Got a question or need more help on reporting a government data incident? Check out our FAQs below.
 - [What is government data?](#q1-what-is-government-data) 
