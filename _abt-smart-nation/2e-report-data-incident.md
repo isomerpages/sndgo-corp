@@ -1,7 +1,7 @@
 ---
 title: Report Data Incident
 permalink: /abt-smart-nation/secure-smart-nation/report-data-incident/
-breadcrumb: A Secure Smart Nation
+breadcrumb: Report Data Incident
 third_nav_title: "A Secure Smart Nation"
 ---
 
