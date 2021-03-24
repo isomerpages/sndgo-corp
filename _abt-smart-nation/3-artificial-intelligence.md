@@ -1,6 +1,6 @@
 ---
 title: Harnessing Artificial Intelligence
-permalink: /our-smart-nation/artificial-intelligence
+permalink: /abt-smart-nation/artificial-intelligence
 ---
 
 # The Next Key Frontier Of Singapore's Smart Nation Journey
