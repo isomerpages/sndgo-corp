@@ -1,6 +1,8 @@
 ---
 title: Report Data Incident
-permalink: /report-data-incident/report-data-incident/
+permalink: /abt-smart-nation/secure-smart-nation/report-data-incident/
+breadcrumb: A Secure Smart Nation
+third_nav_title: "A Secure Smart Nation"
 ---
 
 ![1](/images/report-data-incident.jpg)
