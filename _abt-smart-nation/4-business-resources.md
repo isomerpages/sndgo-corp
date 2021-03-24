@@ -5,6 +5,8 @@ permalink: /about-smart-nation/business-resources
 
 # Business Resources
 
+![alt](/images/hero-banner.png)
+
 Starting a new business or running one is a daunting task – especially in the midst of this global digital transformation that the world is going through. 
 
 We want to help you grow your business in this competitive landscape. Below are some of the programmes and business resources you can consider to kick start your digital journey. 
