@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /our-smart-nation/initiatives/overview
+permalink: /initiatives/overview
 breadcrumb: Initiatives
 third_nav_title: "Initiatives"
 ---
