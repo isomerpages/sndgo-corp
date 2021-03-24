@@ -1,6 +1,6 @@
 ---
 title: Pillars Of Smart Nation
-permalink: /our-smart-nation/pillars-of-smart-nation
+permalink: /abt-smart-nation/pillars-of-smart-nation
 ---
 
 # The Foundations Of Our Journey
