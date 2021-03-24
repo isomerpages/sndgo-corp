@@ -1,7 +1,10 @@
 ---
 title: CODEX
-permalink: /our-smart-nation/initiatives/strategic-national-projects/codex
+permalink: /initiatives/strategic-national-projects/codex
+breadcrumb: Strategic National Projects
+third_nav_title: "Strategic National Projects"
 ---
+
 
 ![CODEX infograhic](/images/our-smart-nation/Initiatives/CODEX.jpeg)
 
