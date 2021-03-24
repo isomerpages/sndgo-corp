@@ -1,8 +1,8 @@
 ---
 title: Government's Personal Data Protection Laws And Policies
-permalink: /our-smart-nation/securing-our-nation/personal-data-protection
+permalink: /abt-smart-nation/secure-smart-nation/personal-data-protection
 breadcrumb: Personal Data Protection Laws And Policies
-third_nav_title: "Securing Our Nation"
+third_nav_title: "Secure Smart Nation"
 ---
 
 # Setting Out Guidelines And Rules For Everyone
