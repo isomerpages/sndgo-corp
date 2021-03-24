@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /our-smart-nation/sndgg/
+permalink: /abt-smart-nation/sndgg/
 ---
 
 # About Smart Nation and Digital Government Group
