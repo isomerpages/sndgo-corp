@@ -1,6 +1,6 @@
 ---
 title: Business Resources 
-permalink: /business/resources/
+permalink: /about-smart-nation/business-resources
 ---
 
 # Business Resources
