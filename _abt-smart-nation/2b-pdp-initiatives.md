@@ -1,8 +1,8 @@
 ---
 title: Government's Personal Data Protection Initiatives
-permalink: /our-smart-nation/securing-our-nation/pdp-initiatives
+permalink: /abt-smart-nation/secure-smart-nation/pdp-initiatives
 breadcrumb: Personal Data Protection Initiatives
-third_nav_title: "Securing Our Nation"
+third_nav_title: "Secure Smart Nation"
 ---
 
 # Ensuring Data Security And Public’s Trust 
