@@ -1,8 +1,8 @@
 ---
 title: Cybersecurity In The Public Sector
-permalink: /our-smart-nation/securing-our-nation/cybersecurity
+permalink: /abt-smart-nation/secure-smart-nation/cybersecurity
 breadcrumb: Cybersecurity
-third_nav_title: "Securing Our Nation"
+third_nav_title: "Secure Smart Nation"
 ---
 
 # Protecting Our Digital Landscape
