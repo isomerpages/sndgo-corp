@@ -1,8 +1,10 @@
 ---
 title: Supporting The Community
-permalink: /community/supporting-the-community
+permalink: /community/community-support
 ---
 
+# Ensuring Everyone Has A Chance
+ 
 ![Smart Nation & U event](/images/community/IMG_0214.JPG)
 
 As Singapore transforms into a Smart Nation, we want to also ensure that all segments of our society can be a part of this journey. Below are various Government initiatives created to assist different groups of people. 
