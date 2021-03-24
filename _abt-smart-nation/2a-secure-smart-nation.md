@@ -1,11 +1,11 @@
 ---
-title: Overview
-permalink: /our-smart-nation/securing-our-nation
-breadcrumb: Securing Our Nation
-third_nav_title: "Securing Our Nation"
+title: A Secure Smart Nation Overview
+permalink: /abt-smart-nation/secure-smart-nation
+breadcrumb: A Secure Smart Nation
+third_nav_title: "A Secure Smart Nation"
 ---
 
-# Securing Our Nation
+# A Secure Smart Nation
 
  ![Alt](/images/hero-banner.png)
 
