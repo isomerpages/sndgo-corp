@@ -1,8 +1,7 @@
 ---
 title: Join Us
-permalink: /our-smart-nation/careers/join-sndgo
+permalink: /careers/join-sndgo
 breadcrumb: Join Us
-third_nav_title: "Careers"
 ---
 
 # Join us at the Smart Nation and Digital Government Office
