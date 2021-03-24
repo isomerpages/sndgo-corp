@@ -20,11 +20,11 @@ colors:
 collections:
   community:
     output: true
-  business:
+  initiatives:
     output: true
-  our-smart-nation:
+  abt-smart-nation:
     output: true
-  report-data-incident:
+  careers:
     output: true
 resources_name: media-hub
 #  why-smart-nation:
@@ -34,6 +34,10 @@ resources_name: media-hub
 #  how-to-be-involved:
 #    output: true
 #resources_name: whats-new
+#  business:
+#    output: true
+#  report-data-incident:
+#    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
