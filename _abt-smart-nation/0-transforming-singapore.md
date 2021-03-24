@@ -1,6 +1,6 @@
 ---
 title: Transforming Singapore Through Technology
-permalink: /our-smart-nation/transforming-singapore
+permalink: /abt-smart-nation/transforming-singapore
 ---
 
 # A Digital First Singapore
