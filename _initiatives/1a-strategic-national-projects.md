@@ -2,7 +2,6 @@
 title: Strategic National Projects
 permalink: /initiatives/strategic-national-projects
 breadcrumb: Strategic National Projects
-third_nav_title: "Initiatives"
 ---
 
 # Strategic National Projects
