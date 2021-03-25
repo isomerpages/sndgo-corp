@@ -1,4 +1,4 @@
 ---
 layout: resources-alt
-title: Past Initiatives
+title: Past Campaigns
 ---
