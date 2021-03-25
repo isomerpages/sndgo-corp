@@ -1,7 +1,7 @@
 ---
 title: CODEX
 permalink: /initiatives/strategic-national-projects/codex
-breadcrumb: Strategic National Projects
+breadcrumb: CODEX
 third_nav_title: "Strategic National Projects"
 ---
 
