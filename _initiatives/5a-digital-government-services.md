@@ -2,7 +2,7 @@
 title: Digital Government Services
 permalink: /initiatives/digital-government-services
 breadcrumb: Digital Government Services
-third_nav_title: "Initiatives"
+third_nav_title: "Digital Government Services"
 ---
 # Digital Government Services
 
