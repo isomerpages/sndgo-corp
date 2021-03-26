@@ -9,8 +9,6 @@ sections:
         title: Webinars for Everyone
         subtitle: We have a wide range of online workshops - to cater for all ages and interests! 
         background: /images/hero-banner.png
-        button: Sign Up Now! 
-        url: /community/webinars-for-everyone/
         key_highlights:
             - title: Smart Nation Ambassadors
               description: Join us on our transformative Journey! 
