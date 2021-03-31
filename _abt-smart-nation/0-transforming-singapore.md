@@ -11,11 +11,11 @@ As a globally connected nation, we need to ensure that Singapore can compete at 
 
 At the broadest level, the economy is the most significant domain driving Singapore's growth and competitiveness. It is supported by the Government, leading the charge forward to catalyse change and innovation across all fields, including the public sector. These efforts are underpinned by measures to ensure that all segments of society can harness digital technologies and benefit from them. The enhancements in digital technologies are transforming the way we live, work and play.
 
->We envision a future Singapore that is a leading economy powered by digital innovation, and a world-class city with a Government that gives our citizens the best home possible and responds to their different and changing needs. 
+We envision a future Singapore that is a leading economy powered by digital innovation, and a world-class city with a Government that gives our citizens the best home possible and responds to their different and changing needs. 
 
 Find out more about the framework that guides the Smart Nation Initiative: ["Smart Nation: The Way Forward" here (pdf - 1.4mb)](/files/publications/smart-nation-strategy-nov2018.pdf)
 
-![Smart Nation Benefits 2020 Infographic](/images/our-smart-nation/benefits-infographic-2020.png)
+![Smart Nation Benefits 2020 Infographic](/images/abt-smart-nation/benefits-infographic-2020.png)
 
 ## Our Strategic National Projects
 
@@ -29,9 +29,7 @@ There are key enablers to transform an entire nation, which will help everyone o
 -	Smart Nation Sensor Platform
 -	Smart Urban Mobility
 
-![Strategic National Projects](/images/our-smart-nation/strategic-national-projects-infographic-2020.png)
-
-Find out more about our [Strategic National Projects here.](our-smart-nation/initiatives/strategic-national-projects) 
+Find out more about our [Strategic National Projects here.](/initiatives/strategic-national-projects) 
 
 ## Enabling A Culture Of Innovation & Experimentation
 
@@ -56,24 +54,24 @@ Start-up accelerators such as <a href="https://www.jtc.gov.sg/industrial-land-an
 
 Connecting technopreneurs with industry mentors, and being the bridge between innovation and enterprise gives Singapore the edge to encourage people to reach for the sky and dream up new ideas. This also gives the entrepreneurs a much-needed boost to get them started on their journey as well.
 
-The <a href="our-smart-nation/initiatives/startups-and-businesses/punggol-digital-district" target="_blank">Punggol Digital District</a> is a prime example of an environment that we are developing to attract the best tech companies and talents, and foster their growth. Through clustering of the growth sector, we aim to bring together high-value digital services in PDD and create an ecosystem with conducive test-bed environments that enable our businesses and the community to thrive in a digital economy.
+The XXXXPunggol Digital DistrictXXXX is a prime example of an environment that we are developing to attract the best tech companies and talents, and foster their growth. Through clustering of the growth sector, we aim to bring together high-value digital services in PDD and create an ecosystem with conducive test-bed environments that enable our businesses and the community to thrive in a digital economy.
  
 ### Cybersecurity and Data Privacy
 
 Cybersecurity is another key enabler of our Smart Nation. We recognise the possible risks and prioritise data privacy and safeguarding of critical systems and networks, even as we make them smart.
 
 We have a robust system to continually monitor and address security concerns through our Personal Data Protection Laws and cybersecurity strategies.
-Head over to our [Secure Nation section to find out more](/our-smart-nation/securing-our-nation) 
+Head over to our [Secure Nation section to find out more](/abt-smart-nation/secure-smart-nation) 
  
 ### Computational Capabilities and Digital Inclusion
 
 Our Smart Nation efforts are underscored by re-skilling and promoting coding and computational thinking skills, ensuring that all segments of the population benefit, regardless of age or digital literacy. Resources are also in place to assist companies and SMEs seeking new opportunities in the digital economy.
 
-Check out the resources available for [individuals](/community/supporting-the-community) and [start-ups and businesses.](/business/resources/) 
+Check out the resources available for [individuals](/community/community-support) and [businesses.](/about-smart-nation/business-resources) 
   
 ### Cross-border Collaboration
 
-![ASEAN Smart Cities Network](/images/our-smart-nation/ASEAN-Smart-Cities-Network.jpg)
+![ASEAN Smart Cities Network](/images/abt-smart-nation/ASEAN-Smart-Cities-Network.jpg)
 
 Cities need to come together to share good ideas and best practices, explore collaborations, and test-bed people-centric smart solutions. Singapore remains open to sharing new ideas and learning from others. This will allow us to adopt ideas and best practices that can benefit Singapore and the region.
 
