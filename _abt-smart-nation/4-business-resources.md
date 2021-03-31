@@ -13,7 +13,7 @@ We want to help you grow your business in this competitive landscape. Below are 
 
 Head over to the individual sites for more details or if you want to tap on these schemes. 
 
-<div style="width:100%;display:flex;justify-content:center;"><a href="https://gaeadviser.gobusiness.gov.sg" target="_blank"><img alt="e-adviser banner" src="/images/business/e-adviser-banner.png"></a></div>
+<div style="width:100%;display:flex;justify-content:center;"><a href="https://gaeadviser.gobusiness.gov.sg" target="_blank"><img alt="e-adviser banner" src="/images/abt-smart-nation/biz-help.png"></a></div>
 
 Suppose you are not sure what is best suited for your business, head over to the e-Adviser for Government Assistance. Once you answer their guiding questions and fill in your details, there will be a list of relevant resources to get you started
 
