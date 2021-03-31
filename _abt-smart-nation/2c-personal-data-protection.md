@@ -29,7 +29,7 @@ Find out more about the Government’s key personal data protection policies in 
  Government’s Key Personal Data Protection Policies (pdf - 5.8mb)
 </div>
 <div style="width:30%"> 
- <a href="/files/publications/government-personal-data-protection-policies-Apr2020.pdf" target="_blank"><img src="/images/our-smart-nation/government-personal-data-protection-policies-apr2020.jpeg"></a>
+ <a href="/files/publications/government-personal-data-protection-policies-Apr2020.pdf" target="_blank"><img src="/images/abt-smart-nation/government-personal-data-protection-policies-apr2020.jpeg"></a>
 </div>
 
 Find out more about the Government’s key data security policies in the document below:
@@ -38,7 +38,7 @@ Find out more about the Government’s key data security policies in the documen
  Government’s Key Data Security Policies (pdf - 606kb)
 </div>
 <div style="width:30%"> 
- <a href="/files/publications/government-data-security-policies.pdf" target="_blank"><img src="/images/our-smart-nation/government-data-security-policies.jpeg"></a>
+ <a href="/files/publications/government-data-security-policies.pdf" target="_blank"><img src="/images/abt-smart-nation/government-data-security-policies.jpeg"></a>
 </div>
 
 Find out more about the data-related provisions in Sections 6 to 8 of the <a href="https://sso.agc.gov.sg/Act/PSGA2018" target="_blank">PSGA via this link.</a>
@@ -49,7 +49,7 @@ The Government recognises that Agencies work extensively with Third Parties to d
 
 With this in mind, the Government has introduced policies to guide Agencies in ensuring that Third Parties adequately safeguard data. These policies are organised based on the lifecycle of the relationship between the Agency and the Third Party, namely: Evaluation and Selection, Contracting and On-boarding, Service Management and Transition Out (as shown in Diagram below). When working with Third Parties, Agencies will define the data security requirements that each Third Party has to comply with based on the Government’s data security policies.
 
-![Third party management framework](/images/our-smart-nation/pdp-third-party-framework.png)
+![Third party management framework](/images/abt-smart-nation/pdp-third-party-framework.png)
 
 <hr>
 A **Third Party** is defined as a party (other than a data subject[^1] or an Agency[^2]) which
@@ -66,5 +66,5 @@ Find out more about the key policies that govern how agencies work with its thir
  Key Policies of the Government's Third-Party Management Framework (pdf - 1.2mb)
 </div>
 <div style="width:30%"> 
- <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"><img src="/images/our-smart-nation/key-policies-third-party-framework.jpeg"></a>
+ <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"><img src="/images/abt-smart-nation/key-policies-third-party-framework.jpeg"></a>
 </div>
