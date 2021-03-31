@@ -5,15 +5,13 @@ breadcrumb: Report Data Incident
 third_nav_title: "A Secure Smart Nation"
 ---
 
-![1](/images/report-data-incident.jpg)
+![1](/images/abt-smart-nation/report-data-incident.jpg)
 
 ### **Government Data Incident Reporting Platform**
 
 Everyone in the community can play their part in strengthening and safeguarding government Information and Communications Technology systems, digital services, and data. Members of the public can now **report incidents involving any unauthorised disclosure or compromise of government data** on our government data incident reporting platform.
 
 We look forward to working with you to strengthen the overall public sector data security regime. 
-
-<a href="https://www.smartnation.gov.sg/report-data-incident/report-data-incident#GoToReportDataIncident" target="_blank"><img src="/images/reportdataincident-img-01.png"></a><br>
 
 ### What you can do to help:
 ✔️ Before making a report, do keep in mind that you should act responsibly when reporting a suspected data incident and safeguarding data from unauthorised use or loss.
