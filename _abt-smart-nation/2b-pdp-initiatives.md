@@ -13,7 +13,7 @@ Data security is a critical safeguard towards building a Smart Nation. Secure an
 
 The Public Sector Data Security Review Committee (" the Committee") was convened in March 2019 to conduct a comprehensive review of data security policies and practices across the public sector. The Committee completed its work in November 2019 and made **five key recommendations to strengthen the Government's data security regime.**
 
-![PSDSRC key recommendations](/images/our-smart-nation/psdsrc-key-recommendation.png)
+![PSDSRC key recommendations](/images/abt-smart-nation/psdsrc-key-recommendation.png)
 
 The Government has accepted the Committee's recommendations and will take the necessary steps to implement them in phases. In Budget 2020, the Government announced that it would invest $1 billion over three years to enhance cybersecurity and data security in the public sector.
  
@@ -22,19 +22,19 @@ The Government has accepted the Committee's recommendations and will take the ne
 **Infographic on Recommendations (pdf - 0.5mb):**
 
 <div style="width:30%"> 
- <a href="/files/our-smart-nation/psdsrc-infographic.pdf" target="_blank"><img src="/images/our-smart-nation/psdsrc-infographic.jpeg"></a>
+ <a href="/files/our-smart-nation/psdsrc-infographic.pdf" target="_blank"><img src="/images/abt-smart-nation/psdsrc-infographic.jpeg"></a>
 </div>
 
 **Public Sector Data Security Review Committee Report (pdf - 2.3mb):**
 
 <div style="width:30%"> 
- <a href="/files/publications/psdsrc-main-report-Nov2019.pdf" target="_blank"><img src="/images/our-smart-nation/psdsrc-main-report-nov2019.jpeg"></a>
+ <a href="/files/publications/psdsrc-main-report-Nov2019.pdf" target="_blank"><img src="/images/abt-smart-nation/psdsrc-main-report-nov2019.jpeg"></a>
 </div>
 
 **Annexes to the Public Sector Data Security Review Committee Report (pdf - 1.4mb):**
 
 <div style="width:30%"> 
- <a href="/files/publications/annexes-to-the-psdsrc-final-report.pdf" target="_blank"><img src="/images/our-smart-nation/annexes-to-the-psdsrc-final-report.jpeg"></a>
+ <a href="/files/publications/annexes-to-the-psdsrc-final-report.pdf" target="_blank"><img src="/images/abt-smart-nation/annexes-to-the-psdsrc-final-report.jpeg"></a>
 </div>
  
 ## Annual Updates on Government’s Personal Data Protection Initiatives
@@ -48,10 +48,10 @@ Find a copy of the annual update for the year 2020 below.
 **Annual Update on the Government's Personal Data Protection Efforts 2020 - Summary (205KB)**
 
 <div style="width:30%"> 
- <a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary.pdf" target="_blank"><img src="/images/our-smart-nation/psdsrc-annual-update-2020-summary.jpeg"></a>
+ <a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary.pdf" target="_blank"><img src="/images/abt-smart-nation/psdsrc-annual-update-2020-summary.jpeg"></a>
 </div>
 
 **Annual Update on the Government's Personal Data Protection Efforts 2020 (2.2MB)**
 <div style="width:30%"> 
- <a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-2020.pdf" target="_blank"><img src="/images/our-smart-nation/psdsrc-annual-update-2020_report.jpeg"></a>
+ <a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-2020.pdf" target="_blank"><img src="/images/abt-smart-nation/psdsrc-annual-update-2020_report.jpeg"></a>
 </div>
