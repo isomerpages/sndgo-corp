@@ -35,10 +35,10 @@ Find out more in the National AI Strategy document.
 </div>
 <div style="width:100%;display:flex;flex-wrap:wrap;"> 
   <div style="flex:50%;padding:1%;">
-    <a href="/files/publications/national-ai-strategy.pdf"><img src="/images/our-smart-nation/national-AI-strat-cover.png"></a>
+    <a href="/files/publications/national-ai-strategy.pdf"><img src="/images/abt-smart-nation/national-AI-strat-cover.png"></a>
   </div>  
   <div style="flex:50%;padding:1%;">
-    <a href="/files/publications/national-ai-strategy-summary.pdf"><img src="/images/our-smart-nation/national-ai-strat-summary-cover.png"></a>
+    <a href="/files/publications/national-ai-strategy-summary.pdf"><img src="/images/abt-smart-nation/national-ai-strat-summary-cover.png"></a>
   </div>  
 </div>
 
