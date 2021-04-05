@@ -21,7 +21,7 @@ Since 2001, our Government’s data security policies have been set out in the I
 
 In 2018, the PSGA was enacted to further strengthen public sector data governance. The PSGA imposes criminal penalties on public officers who recklessly or intentionally disclose data without authorisation, misuse data for a gain or re-identify anonymised data.
 
-In 2019, the <a href="/our-smart-nation/securing-our-nation/pdp-initiatives" target="_blank">Public Sector Data Security Review Committee</a> recommended additional technical and process measures to protect data and prevent data compromise. The recommended measures have since been incorporated into the IM on IT Management and sets out how data security is managed by agencies. The data security policies prescribe data security requirements, including technical and process controls, to safeguard data against security threats.
+In 2019, the <a href="/abt-smart-nation/secure-smart-nation/pdp-initiatives" target="_blank">Public Sector Data Security Review Committee</a> recommended additional technical and process measures to protect data and prevent data compromise. The recommended measures have since been incorporated into the IM on IT Management and sets out how data security is managed by agencies. The data security policies prescribe data security requirements, including technical and process controls, to safeguard data against security threats.
  
 Find out more about the Government’s key personal data protection policies in the document below:
 
