@@ -22,6 +22,7 @@ Find out more about the framework that guides the Smart Nation Initiative: ["Sma
 There are key enablers to transform an entire nation, which will help everyone onboard onto the digital platforms. The Government has identified some Strategic National Projects to support Singapore and the citizens to transform the way we live.
 
 **The key projects are:**
+**Pending links**
 -	CODEX
 -	E-Payments
 -	LifeSG Initiative 
@@ -61,13 +62,13 @@ The XXXXPunggol Digital DistrictXXXX is a prime example of an environment that w
 Cybersecurity is another key enabler of our Smart Nation. We recognise the possible risks and prioritise data privacy and safeguarding of critical systems and networks, even as we make them smart.
 
 We have a robust system to continually monitor and address security concerns through our Personal Data Protection Laws and cybersecurity strategies.
-Head over to our [Secure Nation section to find out more](/abt-smart-nation/secure-smart-nation) 
+Head over to our [Secure Smart Nation section to find out more](/abt-smart-nation/secure-smart-nation) 
  
 ### Computational Capabilities and Digital Inclusion
 
 Our Smart Nation efforts are underscored by re-skilling and promoting coding and computational thinking skills, ensuring that all segments of the population benefit, regardless of age or digital literacy. Resources are also in place to assist companies and SMEs seeking new opportunities in the digital economy.
 
-Check out the resources available for [individuals](/community/community-support) and [businesses.](/about-smart-nation/business-resources) 
+Check out the resources available for [individuals](/community/supporting-the-community) and [businesses.](/about-smart-nation/business-resources) 
   
 ### Cross-border Collaboration
 
