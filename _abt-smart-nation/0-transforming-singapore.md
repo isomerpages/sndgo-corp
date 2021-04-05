@@ -15,7 +15,7 @@ We envision a future Singapore that is a leading economy powered by digital inno
 
 Find out more about the framework that guides the Smart Nation Initiative: ["Smart Nation: The Way Forward" here (pdf - 1.4mb)](/files/publications/smart-nation-strategy-nov2018.pdf)
 
-![Smart Nation Benefits 2020 Infographic](/images/abt-smart-nation/benefits-infographic-2020.png)
+![Smart Nation Benefits 2021 Infographic](/images/abt-smart-nation/transforming-sg-through-tech-2021.jpeg)
 
 ## Our Strategic National Projects
 
