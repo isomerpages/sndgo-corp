@@ -102,48 +102,48 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="policies-container">
 <section class="cards">
     <div class="card">
-        <a href="/our-smart-nation/initiatives/strategic-national-projects">
-                <img src="/images/snp.png">
+        <a href="/initiatives/strategic-national-projects">
+                <img src="/images/initiatives/snp.png">
             <div class="card-content">
                 <h6>Strategic National Projects</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
         <div class="card">
-        <a href="/our-smart-nation/initiatives/urban-living">
-                <img src="/images/urbanliving.png">
+        <a href="/initiatives/urban-living">
+                <img src="/images/initiatives/urbanliving.png">
             <div class="card-content">
                 <h6>Urban Living</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/our-smart-nation/initiatives/transport">
-                <img src="/images/transport.png">
+        <a href="/initiatives/transport">
+                <img src="/images/initiatives/transport.png">
             <div class="card-content">
                 <h6>Transport</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/our-smart-nation/initiatives/health">
-                <img src="/images/health.png">
+        <a href="/initiatives/health">
+                <img src="/images/initiatives/health.png">
             <div class="card-content">
                 <h6>Health</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/our-smart-nation/initiatives/digital-government-services">
-                <img src="/images/digitalgovt.png">
+        <a href="/initiatives/digital-government-services">
+                <img src="/images/initiatives/digitalgovt.png">
             <div class="card-content">
                 <h6>Digital Government Services</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/our-smart-nation/initiatives/startups-and-businesses">
-                <img src="/images/startup.png">
+        <a href="/initiatives/businesses">
+                <img src="/images/initiatives/businesses.png">
             <div class="card-content">
                 <h6>Startups and Businesses</h6>
             </div><!-- .card-content -->
