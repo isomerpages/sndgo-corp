@@ -1,6 +1,6 @@
 ---
 title: Supporting The Community
-permalink: /community/community-support
+permalink: /community/supporting-the-community
 ---
 
 # Ensuring Everyone Has A Chance
