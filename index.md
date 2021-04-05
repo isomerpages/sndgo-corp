@@ -21,6 +21,9 @@ sections:
             - title: Pillars Of Smart Nation
               description: Find out more about the three key pillars.
               url: /our-smart-nation/pillars-of-smart-nation
+            - title: A Secure Smart Nation
+              description: Reporting a Government Data Incident 
+              url: /abt-smart-nation/secure-smart-nation/report-data-incident/
     - infopic:
         title: Smart Nation Scholarship - Apply Now
         subtitle: 
