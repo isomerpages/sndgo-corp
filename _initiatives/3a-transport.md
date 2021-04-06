@@ -20,7 +20,7 @@ third_nav_title: "Transport"
     <div class="para">Singapore is spearheading research in standards for self-driving vehicles (SDVs) and providing an environment to test them before introducing to public roads.</div>
   </div>      
    <div class="column-c"> 
-    <a href="/our-smart-nation/initiatives/transport/contactless-fare-payment" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/contactless-fare-payments.png"></a><br>
+    <a href="/initiatives/transport/contactless-fare-payment" target="_blank"><img src="/images/initiatives/overview-pages/contactless-fare-payments.png"></a><br>
      <div class="header"><b>Contactless Fare Payment For Public Transport</b></div><br>
     <div class="para">Towards commuter-centric e-payments for public transport fare payment.</div>
   </div>
