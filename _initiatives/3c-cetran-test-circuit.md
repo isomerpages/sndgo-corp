@@ -1,11 +1,12 @@
 ---
 title: CETRAN Test Circuit 
 permalink: /our-smart-nation/initiatives/transport/cetran-test-circuit
+third_nav_title: "Transport"
 ---
 
 # Spearheading Research For Self-Driving Vehicles
 
-![CETRAN Test Circuit](/images/our-smart-nation/Initiatives/CETRAN-test-circuit.jpg)
+![CETRAN Test Circuit](/images/initiatives/CETRAN-test-circuit.jpg)
 
 The Land Transport Authority (LTA) and JTC, in partnership with the Nanyang Technological University (NTU), launched The Centre of Excellence for Testing & Research of AVs – NTU (CETRAN), and the Test Circuit, at CleanTech Park on 1 August 2016.
 
