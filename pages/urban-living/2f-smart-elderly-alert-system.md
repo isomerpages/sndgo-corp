@@ -1,11 +1,12 @@
 ---
 title: Smart Elderly Alert System
-permalink: /our-smart-nation/initiatives/smart-elderly-alert-system
+permalink: /initiatives/smart-elderly-alert-system
+third_nav_title: "Urban Living"
 ---
 
 # Improving The Lives Of Our Silver Generation
 
-![Smart elderly alert system](/images/our-smart-nation/Initiatives/smart-elderly-alert-system.jpg)
+![Smart elderly alert system](/images/initiatives/smart-elderly-alert-system.jpg)
 
 We all know that Singapore has an ageing population. We need to start planning now to ensure that our infrastructure will support our residents in their golden years. 
 
