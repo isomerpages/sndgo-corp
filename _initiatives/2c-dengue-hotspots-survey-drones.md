@@ -1,6 +1,7 @@
 ---
 title: Dengue Hotspots Survey Drones
-permalink: /our-smart-nation/initiatives/urban-living/dengue-hotspots-survey-drones
+permalink: /initiatives/urban-living/dengue-hotspots-survey-drones
+third_nav_title: "Urban Living"
 ---
 
 # Taking The High Road With Dengue
