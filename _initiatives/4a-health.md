@@ -16,7 +16,7 @@ By 2030, the number of elderly citizens is expected to reach 900,000. With an ag
     <div class="para">We are leveraging technology to revolutionise healthcare in Singapore, and to help seniors and those with disabilities.</div>
   </div>
    <div class="column-c"> 
-    <a href="/our-smart-nation/initiatives/health/healthhub" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/healthhub.png"></a><br>
+    <a href="/initiatives/health/healthhub" target="_blank"><img src="/images/initiatives/overview-pages/healthhub.png"></a><br>
      <div class="header"><b>HealthHub</b></div><br>
     <div class="para">A one-stop digital healthcare portal for Singaporeans to access medical records and useful health information.</div>
   </div>
