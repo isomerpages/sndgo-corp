@@ -1,6 +1,7 @@
 ---
 title: TeleHealth
-permalink: /our-smart-nation/initiatives/health/telehealth
+permalink: /initiatives/health/telehealth
+third_nav_title: "Health"
 ---
 
 #  Medical Consultations From The Comfort Of Your Home
