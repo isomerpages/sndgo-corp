@@ -32,16 +32,17 @@ With our limited land space, we need to continuously find innovative solutions t
     <div class="header"><b>OneService App</b></div><br>
     <div class="para">Providing a single platform for users to report any issues around their neighbourhood, hassle free!</div>
   </div>
+  <div class="column-c">  
+    <a href="/initiatives/urban-living/smart-elderly-alert-system" target="_blank"><img src="/images/initiatives/overview-pages/smart-elderly-alert-system.png"></a><br>
+    <div class="header"><b>Smart Elderly Alert System</b></div><br>
+    <div class="para">Balancing independence and peace of mind to caregivers of elderly loved ones.</div>
+  </div>     
    <div class="column-c"> 
     <a href="	/our-smart-nation/initiatives/urban-living/urban-planning" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/planning-people-businesses.png"></a><br>
      <div class="header"><b>Urban Planning</b></div><br>
     <div class="para">Harnessing digital technologies to help us plan where we live, work and play better for the future.</div>
   </div>
-  <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/smart-elderly-alert-system" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/smart-elderly-alert-system.png"></a><br>
-    <div class="header"><b>Smart Elderly Alert System</b></div><br>
-    <div class="para">Balancing independence and peace of mind to caregivers of elderly loved ones.</div>
-  </div>     
+  
 </div>
 <div class="row">  
   <div class="column-c" > 
