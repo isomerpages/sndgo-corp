@@ -1,7 +1,7 @@
 ---
 title: Strategic National Projects
 permalink: /initiatives/strategic-national-projects
-third_nav_title: "Strategic National Projects"
+third_nav_title: "Strategic National Projects Overview"
 ---
 
 # Strategic National Projects
@@ -11,7 +11,7 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
 <br>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/strategic-national-projects/codex" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/codex.png"></a><br>
+    <a href="/initiatives/strategic-national-projects/codex" target="_blank"><img src="/images/initiatives/overview-pages/codex.png"></a><br>
     <div class="header"><b>CODEX</b></div><br>
     <div class="para">Enabling a lean, agile and future-ready Government to build all our digital products and services.</div>
   </div>
