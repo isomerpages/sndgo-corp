@@ -10,7 +10,7 @@ third_nav_title: "Transport"
 <br>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/transport/autonomous-vehicles" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/autonomous-vehicles.png"></a><br>
+    <a href="/initiatives/transport/autonomous-vehicles" target="_blank"><img src="/images/initiatives/overview-pages/autonomous-vehicles.png"></a><br>
     <div class="header"><b>Autonomous Vehicles</b></div><br>
     <div class="para">The future of Singapore’s transport system, bringing greater mobility for everyone!</div>
   </div>
