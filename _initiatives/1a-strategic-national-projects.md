@@ -1,5 +1,5 @@
 ---
-title: Strategic National Projects
+title: Strategic National Projects Overview
 permalink: /initiatives/strategic-national-projects
 third_nav_title: "Strategic National Projects"
 ---
