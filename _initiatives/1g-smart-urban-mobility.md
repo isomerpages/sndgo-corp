@@ -1,11 +1,12 @@
 ---
 title: Smart Urban Mobility
-permalink: /our-smart-nation/initiatives/strategic-national-projects/smart-urban-mobility
+permalink: /initiatives/strategic-national-projects/smart-urban-mobility
+third_nav_title: "Strategic National Projects"
 ---
 
 # Moving Around Singapore Seamlessly 
 
-<div style="width:50%;display:flex;flex-wrap:wrap;"><img src="/images/our-smart-nation/Initiatives/smart-urban-mobility.jpeg" alt="smart urban mobility infographics" class="center"></div>
+<div style="width:50%;display:flex;flex-wrap:wrap;"><img src="/images/initiatives/smart-urban-mobility.jpeg" alt="smart urban mobility infographics" class="center"></div>
  
 Our transportation infrastructure is essential to our daily lives. 
 
@@ -34,4 +35,4 @@ Several trials are ongoing to gain insights on how technology can be deployed to
 
 The trials are also to assess the feasibility of autonomous vehicles and how they will help with the long-term issue of workforce challenges – from peak hours or late night services.
 
-Find out more about the Smart Nation initiatives on [transport here](/our-smart-nation/initiatives/transport).
+Find out more about the Smart Nation initiatives on [transport here](/initiatives/transport).
