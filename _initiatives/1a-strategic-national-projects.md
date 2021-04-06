@@ -33,7 +33,7 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
     <div class="para">Creating a secure and convenient infrastructure for both public and private sectors to tap on for online transactions.</div>
   </div>
   <div class="column-c"> 
-    <a href="/our-smart-nation/initiatives/strategic-national-projects/smart-nation-sensor-platform" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/smart-nation-sensor-platform.png"></a><br>       
+    <a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform" target="_blank"><img src="/images/initiatives/overview-pages/smart-nation-sensor-platform.png"></a><br>       
     <div class="header"><b>Smart Nation Sensor Platform</b></div><br>
     <div class="para">Using sensors and data to build and run a smart, green and liveable city.</div> 
   </div>  
