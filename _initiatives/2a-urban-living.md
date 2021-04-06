@@ -11,7 +11,7 @@ With our limited land space, we need to continuously find innovative solutions t
 <br>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/urban-living/amr-trial" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/amr-trial.png"></a><br>
+    <a href="/initiatives/urban-living/amr-trial" target="_blank"><img src="/images/initiatives/overview-pages/amr-trial.png"></a><br>
     <div class="header"><b>Automated Meter Reading Trial</b></div><br>
     <div class="para">Making water usage data readily accessible for consumers from tap to app – saving money and the environment!</div>
   </div>
