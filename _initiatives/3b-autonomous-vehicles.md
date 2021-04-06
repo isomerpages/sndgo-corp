@@ -1,11 +1,12 @@
 ---
 title: Autonomous Vehicles
-permalink: /our-smart-nation/initiatives/transport/autonomous-vehicles
+permalink: /initiatives/transport/autonomous-vehicles
+third_nav_title: "Transport"
 ---
 
 # Take A Drive Into the Future 
 
-![Self driving illustration](/images/our-smart-nation/Initiatives/self-driving-vehicle-lta.jpg)
+![Self driving illustration](/images/initiatives/self-driving-vehicle-lta.jpg)
 *Image: Land Transport Authority*
 
 Can you imagine a day when the family car takes your children to school, then returns to the car park just as you are leaving for work? You hop in and drive yourself to your office, where you park the car in your office building. At 10 am, your elderly parents call you and ask if they can borrow the car to go and have lunch to catch up with their friends. All you need to do is to send the car home, so they can be driven to their lunch appointment and home – while you are at the office. 
@@ -28,7 +29,7 @@ You can check out some public trials to experience what it might be like in the 
  
 ### A* STAR’s Institute for Infocomm Research (I2R)
 
-![Prime Minister Lee Hsien Loong in a self driving vehicle](/images/our-smart-nation/Initiatives/smart-nation-pm-sdv.jpg)
+![Prime Minister Lee Hsien Loong in a self driving vehicle](/images/initiatives/smart-nation-pm-sdv.jpg)
 *Image: A STAR*
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cUDgTRxP4ks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,7 +39,7 @@ You can check out some public trials to experience what it might be like in the 
 
 ### National University of Singapore (NUS) and the Singapore-MIT Alliance for Research and Technology (SMART)
 
-![SMART electric passenger car](/images/our-smart-nation/Initiatives/SMART-SDV-r.jpg)
+![SMART electric passenger car](/images/initiatives/SMART-SDV-r.jpg)
 *Image: SMART*
 
 -	Their working research prototypes have been demonstrated around the NUS campus. Rides are requested via a smartphone by selecting desired pick-up and drop-off locations.
@@ -47,7 +48,7 @@ You can check out some public trials to experience what it might be like in the 
 
 ### nuTonomy, an MIT / SMART spin-off
 
-![nuTonomy's self driving car](/images/our-smart-nation/Initiatives/nuTonomy.jpg)
+![nuTonomy's self driving car](/images/initiatives/nuTonomy.jpg)
 *Image: nuTonomy*
 
 - nuTonomy's focus is on launching a commercial autonomous mobility-on-demand service in Singapore, and their software has been tested in the US, Singapore, and Europe.
@@ -55,7 +56,7 @@ You can check out some public trials to experience what it might be like in the 
 
 ### Gardens by the Bay, in collaboration with ST Engineering
 
-![Gardens by the bay self driving vehicle](/images/our-smart-nation/Initiatives/sdv-garden-by-the-bay.jpg)
+![Gardens by the bay self driving vehicle](/images/initiatives/sdv-garden-by-the-bay.jpg)
 *Image: Gardens by the Bay*
 
 - Auto Rider is the first fully-operational SDV in Asia, aimed at enhancing connectivity within the Gardens and providing visitors with an alternative, revolutionary mode of getting around.
@@ -63,7 +64,7 @@ You can check out some public trials to experience what it might be like in the 
 
 ### Nanyang Technological University (NTU)
 
-![NTU shuttle bus](/images/our-smart-nation/Initiatives/ntu-shuttle-bus.jpeg)
+![NTU shuttle bus](/images/initiatives/ntu-shuttle-bus.jpeg)
 *Image: LTA & NTU*
 
 - The driverless shuttle bus travels a 500m route connecting student halls with the main academic areas, ferrying up to 300 passengers a day.
@@ -82,9 +83,8 @@ You can check out some public trials to experience what it might be like in the 
  
 ### Katoen Natie and VDL
 
-![Driverless truck](/images/our-smart-nation/Initiatives/driverless-truck-r.jpg)
+![Driverless truck](/images/initiatives/driverless-truck-r.jpg)
 *Image: Katoen Natie*
-
 
 -	Driverless trucks have gone on trial on Jurong Island since September 2017.
 - The trucks will be retrofitted with autonomous systems which will communicate with transponders installed in the road. 
