@@ -1,7 +1,6 @@
 ---
-title: Digital Government Services
+title: Digital Government Services Overview
 permalink: /initiatives/digital-government-services
-breadcrumb: Digital Government Services
 third_nav_title: "Digital Government Services"
 ---
 # Digital Government Services
