@@ -1,5 +1,5 @@
 ---
-title: Urban Living
+title: Urban Living Overview
 permalink: /initiatives/urban-living
 third_nav_title: "Urban Living"
 ---
