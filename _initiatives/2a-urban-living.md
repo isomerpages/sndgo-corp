@@ -21,7 +21,7 @@ With our limited land space, we need to continuously find innovative solutions t
     <div class="para">Taking to the skies for dengue control.</div>
   </div>
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/urban-living/myenv-app" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/myenv-app.png"></a><br>
+    <a href="/initiatives/urban-living/myenv-app" target="_blank"><img src="/images/initiatives/overview-pages/myenv-app.png"></a><br>
     <div class="header"><b>myENV App</b></div><br>
     <div class="para">Receive environmental news updates in the palm of your hand.</div>
   </div>     
