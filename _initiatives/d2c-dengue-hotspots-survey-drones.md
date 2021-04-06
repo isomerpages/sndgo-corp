@@ -5,7 +5,7 @@ permalink: /our-smart-nation/initiatives/urban-living/dengue-hotspots-survey-dro
 
 # Taking The High Road With Dengue
 
-![using a drone to check rooftops](/images/our-smart-nation/Initiatives/dengue-hotspots-drones.jpeg)
+![using a drone to check rooftops](/images/initiatives/dengue-hotspots-drones-overview.png)
 
 Our climate – warm and humid – supports the breeding of the Aedes mosquito, and we battle with dengue constantly to keep our families and community safe from the virus. NEA puts out regular updates on where the clusters are to posters and banners to remind people to check and remove any possible breeding sites.
 
