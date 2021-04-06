@@ -1,6 +1,6 @@
 ---
 title: CETRAN Test Circuit 
-permalink: /our-smart-nation/initiatives/transport/cetran-test-circuit
+permalink: /initiatives/transport/cetran-test-circuit
 third_nav_title: "Transport"
 ---
 
