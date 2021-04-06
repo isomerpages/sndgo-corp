@@ -38,7 +38,7 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
     <div class="para">Using sensors and data to build and run a smart, green and liveable city.</div> 
   </div>  
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/strategic-national-projects/smart-urban-mobility" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/smart-urban-mobility.png"></a><br>
+    <a href="/initiatives/strategic-national-projects/smart-urban-mobility" target="_blank"><img src="/images/initiatives/overview-pages/smart-urban-mobility.png"></a><br>
     <div class="header"><b>Smart Urban Mobility</b></div><br>
     <div class="para">Leveraging data and digital technologies to enhance public transport for our growing population.</div>    
   </div>     
