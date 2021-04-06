@@ -145,7 +145,7 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/initiatives/businesses">
                 <img src="/images/initiatives/businesses.png">
             <div class="card-content">
-                <h6>Startups and Businesses</h6>
+                <h6>Businesses</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
