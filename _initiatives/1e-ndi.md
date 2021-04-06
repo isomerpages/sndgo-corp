@@ -1,7 +1,7 @@
 ---
 title: National Digital Identity 
 permalink: /initiatives/strategic-national-projects/national-digital-identity
-third_nav_title: "Strategic National Project"
+third_nav_title: "Strategic National Projects"
 ---
 
 # Creating Our (National) Online Persona! 
