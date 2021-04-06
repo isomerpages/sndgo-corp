@@ -1,10 +1,11 @@
 ---
-title: Assistive Technology and Robotics in Healthcare
+title: Assistive Technology and Robotics In Healthcare
 permalink: /our-smart-nation/initiatives/health/assistive-techonology-robotics
+third_nav_title: "Health"
 ---
 # Improving Healthcare With Technology
 
-![robotics in healthcare](/images/our-smart-nation/Initiatives/health-robotics-overview.jpg)
+![robotics in healthcare](/images/initiatives/health-robotics.jpg)
   
 The elderly and the people with disabilities – need healthcare as one of their core requirements due to their individual needs. Therefore, our healthcare system is continually looking into new ways to meet these two groups' needs to ensure that they are getting the best care possible. 
 
@@ -33,7 +34,7 @@ There are three areas of focus:
  
 ## An Example of Assistive Robotics - RoboCoach Xian 
 
-![robocoach xian](/images/our-smart-nation/Initiatives/smart-nation-robocoach.jpg)
+![robocoach xian](/images/initiatives/smart-nation-robocoach.jpg)
 
 - A robot trainer that imitates human movements and teaches exercise routines to senior citizens individually or in groups
 - Enhanced with sensors, it offers personalised, gentle exercise routines to help senior citizens - and younger people as well - to stay active
