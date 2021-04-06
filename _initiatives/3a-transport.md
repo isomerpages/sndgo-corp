@@ -32,7 +32,7 @@ third_nav_title: "Transport"
     <div class="para">Where autonomous technology and public transport data support mobility on-demand.</div>
   </div>     
   <div class="column-c" > 
-    <a href="  /our-smart-nation/initiatives/transport/open-data-analytics" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/urban-transportation-data.png"></a><br>
+    <a href="/initiatives/transport/open-data-analytics" target="_blank"><img src="/images/initiatives/overview-pages/urban-transportation-data.png"></a><br>
     <div class="header"><b>Open Data & Analytics for Urban Transportation</b></div><br>
     <div class="para">The data provides the insights for both the Government and private companies to address transport challenges, making our existing land transport system more efficient.</div>
   </div>
