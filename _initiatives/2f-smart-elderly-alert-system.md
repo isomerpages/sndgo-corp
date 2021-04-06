@@ -1,6 +1,6 @@
 ---
 title: Smart Elderly Alert System
-permalink: /initiatives/smart-elderly-alert-system
+permalink: /initiatives/urban-living/smart-elderly-alert-system
 third_nav_title: "Urban Living"
 ---
 
