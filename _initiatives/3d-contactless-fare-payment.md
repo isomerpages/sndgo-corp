@@ -1,11 +1,12 @@
 ---
 title: Contactless fare payment for public transport
 permalink: /our-smart-nation/initiatives/transport/contactless-fare-payment
+third_nav_title: "Transport"
 ---
 
 # Breezing Through Public Transport 
 
-![contactless payments on public transport](/images/our-smart-nation/Initiatives/contactless-payment-transport.jpg)
+![contactless payments on public transport](/images/initiatives/contactless-payment-transport.jpg)
 
 With technology such as NFC becoming a big part of our daily lives, more Singaporeans rely on our mobile devices, gadgets and credit/debit cards for our daily transactions. 
 
@@ -13,7 +14,7 @@ Land Transport Authority (LTA) is leveraging these technologies to focus on comm
 
 ## SimplyGo - Account-Based Ticketing (ABT) System
 
-![SimplyGo logo](/images/our-smart-nation/Initiatives/SimplyGo-Logo.png)
+![SimplyGo logo](/images/initiatives/SimplyGo-Logo.png)
 
 In March 2017, LTA and MasterCard launched a pilot programme for commuters to pay for their public transport fares with their contactless credit or debit cards, bypassing the need for an additional EZ-link card in our wallets.  Over 100,000 commuters signed up for the pilot, and there was an average of 60,000 transactions DAILY! 
 
@@ -29,7 +30,7 @@ For more information on SimplyGo, please head over to <a href="https://simplygo.
 
 ## Hands-free ticketing technology trials
 
-![hands free ticketing trial](/images/our-smart-nation/Initiatives/Smrt-hands-free-trial.jpeg)
+![hands free ticketing trial](/images/initiatives/Smrt-hands-free-trial.jpeg)
 
 LTA, SMRT and ST Engineering are running a trial at Redhill, Tiong Bahru, Kembangan and Bedok MRT stations to provide a more inclusive public transport system.
 
