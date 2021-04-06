@@ -45,7 +45,7 @@ With our limited land space, we need to continuously find innovative solutions t
 </div>
 <div class="row">  
   <div class="column-c"> 
-    <a href="	/our-smart-nation/initiatives/urban-living/urban-planning" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/planning-people-businesses.png"></a><br>
+    <a href="	/initiatives/urban-living/urban-planning" target="_blank"><img src="/images/initiatives/overview-pages/planning-people-businesses.png"></a><br>
      <div class="header"><b>Urban Planning</b></div><br>
     <div class="para">Harnessing digital technologies to help us plan where we live, work and play better for the future.</div>
   </div>
