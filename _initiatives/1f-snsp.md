@@ -1,7 +1,7 @@
 ---
 title: Smart Nation Sensor Platform  
 permalink: /initiatives/strategic-national-projects/smart-nation-sensor-platform
-third_nav_title: "Strategic National Project"
+third_nav_title: "Strategic National Projects"
 ---
 
 # Planning For A Better Future
