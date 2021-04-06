@@ -1,14 +1,12 @@
 ---
 title: CODEX
 permalink: /initiatives/strategic-national-projects/codex
-breadcrumb: CODEX
 third_nav_title: "Strategic National Projects"
 ---
 
+# What is CODEX?
 
-![CODEX infograhic](/images/our-smart-nation/Initiatives/CODEX.jpeg)
-
-## What is CODEX?
+![CODEX infograhic](/images/initiatives/CODEX.jpeg)
 
 Core Operations Development Environment and eXchange (CODEX) is the digital platform that enables the Government to deliver better digital services to citizens faster and more cost efficiently.
 
