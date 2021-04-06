@@ -1,11 +1,12 @@
 ---
 title: National Steps Challenge & Health 365 App
-permalink: /our-smart-nation/initiatives/health/national-steps-challenge
+permalink: /initiatives/health/national-steps-challenge
+third_nav_title: "Health"
 ---
 
 # A Nation That Works Out Together
 
-![National Steps challenge key visual](/images/our-smart-nation/Initiatives/national-steps-challenge.png)
+![National Steps challenge key visual](/images/initiatives/national-steps-challenge.png)
 
 As part of the efforts to encourage more Singaporeans to lead active lifestyles, the Health Promotion Board (HPB) started a nation-wide physical activity programme, called the “National Steps Challenge™”, in 2015 to introduce a fun way to encourage Singaporeans to sit less and move more!
 
