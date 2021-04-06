@@ -1,11 +1,12 @@
 ---
 title: Open Data & Analytics For Urban Transportation
-permalink: /our-smart-nation/initiatives/transport/open-data-analytics
+permalink: /initiatives/transport/open-data-analytics
+third_nav_title: "Transport"
 ---
 
 # Enhancing Public Transport Through Data 
 
-![SG Traffic Watch screenshot](/images/our-smart-nation/Initiatives/SG-Traffic-watch.jpeg) 
+![SG Traffic Watch screenshot](/images/initiatives/SG-Traffic-watch.jpeg) 
 
 Land Transport Authority (LTA) has been gathering data from the sensors installed on buses and anonymised data obtained from commuters' fare cards to help make our public transport system more efficient and convenient for everyone. 
 
@@ -33,7 +34,8 @@ With their real-time map of Singapore's roads, you can explore how the different
     -	Traffic conditions
     -	Carpark availability 
 -	Downloads of transport data from the Land Transport DataMall have increased from an average of 4 million to 600 million per month since April 2015. Several third party transport apps have been developed tapping on this source of data, such as the <a href="https://www.busuncle.sg/" target="_blank">Bus Uncle chatbot</a>, which is grumpy yet friendly and helpful. The kicker? He speaks Singlish fluently! 
--	Check out more Apps that leverage on the <a href="https://datamall.lta.gov.sg/content/datamall/en/app-zone.html" target="_blank">Land Transport DataMall open data here</a>
+
+Check out more Apps that leverage on the <a href="https://datamall.lta.gov.sg/content/datamall/en/app-zone.html" target="_blank">Land Transport DataMall open data here</a>
  
 ## More than just Collecting data 
 
