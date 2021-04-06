@@ -1,6 +1,7 @@
 ---
-title: Smart Town
-permalink: /our-smart-nation/initiatives/urban-living/smart-towns
+title: Smart Towns
+permalink: /initiatives/urban-living/smart-towns
+third_nav_title: "Urban Living"
 ---
 
 # Transforming Our Estates
@@ -41,7 +42,7 @@ To engage the community, one must first understand patterns and preferences. Arm
 
 The brains behind the Smart HDB Town Framework is the HDB Smart Hub. As the 'brains' of the estate operations – the HDB Smart Hub collects and integrates the data from various sources. This data repository helps power the framework – from providing insights for town planning and building design to assisting the town councils to improve their estate management.
  
-![Peek into the estate operations](/images/our-smart-nation/Initiatives/estate-operations.jpeg)
+![Peek into the estate operations](/images/initiatives/estate-operations.jpeg)
 *Image: Business Times, "The Brain Behind Estate Operations", 09 Nov 2018.*
 
 ## Using Tech to Drive Sustainability Efforts
@@ -72,7 +73,7 @@ The benefits of this system include:
 ## Where are these Smart Towns located?
 - HDB's Northshore Residences I & II is the first development to house the first HDB flats equipped with the infrastructure needed to support Smart home solutions. 
  
-![Punggol Northshore seafront living](/images/our-smart-nation/Initiatives/smart-nation-punggol-northshore.jpg)
+![Punggol Northshore seafront living](/images/initiatives/smart-nation-punggol-northshore.jpg)
 *Image: Punggol Northshore Seafront Living. Perspective courtesy of HDB*
 
 -	The Punggol town's planners, architects and engineers using smart planning tools and data analytics to analyse the wind flow, solar irradiance (amount of sunlight in a given area) and shaded areas within a town. The information and data will help determine how best to design the new flats to provide maximum thermal comfort and a more conducive living environment for residents.
