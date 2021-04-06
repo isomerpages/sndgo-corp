@@ -1,11 +1,12 @@
 ---
 title: LifeSG Initiative 
-permalink: /our-smart-nation/initiatives/strategic-national-projects/lifesg-initiative
+permalink: /initiatives/strategic-national-projects/lifesg-initiative
+third_nav_title: "Strategic National Projects"
 ---
 
 # Personalising Experiences With Government Services 
 
-![LifeSG banner](/images/our-smart-nation/Initiatives/lifesg-kv.jpg)
+![LifeSG banner](/images/initiatives/lifesg-kv.jpg)
 
 In line with offering citizens a more seamless and convenient experience when transacting with Government digital services, we are re-organising ourselves to provide personalised, customised services at a citizen-centric level.
 
