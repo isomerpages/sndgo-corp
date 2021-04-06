@@ -1,6 +1,7 @@
 ---
 title: National Digital Identity 
-permalink: /our-smart-nation/initiatives/strategic-national-projects/national-digital-identity
+permalink: /initiatives/strategic-national-projects/national-digital-identity
+third_nav_title: "Strategic National Project"
 ---
 
 # Creating Our (National) Online Persona! 
@@ -22,7 +23,7 @@ NDI is made out of the following key sections:
 - An authentication system launched in 2003 for citizens to access hundreds of digital Government services.
 - 2-step Verification (2FA) for digital transactions involving sensitive information, such as filing taxes and viewing CPF statements.
 
-![SingPass mobile app setup](/images/our-smart-nation/Initiatives/SingPass-mobile-setup.png)
+![SingPass mobile app setup](/images/initiatives/SingPass-mobile-setup.png)
 
 ### Singpass Mobile
 
