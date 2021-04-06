@@ -16,7 +16,7 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
     <div class="para">Enabling a lean, agile and future-ready Government to build all our digital products and services.</div>
   </div>
    <div class="column-c"> 
-    <a href="/our-smart-nation/initiatives/strategic-national-projects/e-payments" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/e-payments.png"></a><br>
+    <a href="/initiatives/strategic-national-projects/e-payments" target="_blank"><img src="/images/initiatives/overview-pages/e-payments.png"></a><br>
      <div class="header"><b>E-Payments</b></div><br>
     <div class="para">Simple, swift, seamless, and secure payments for citizens and businesses!</div>
   </div>
