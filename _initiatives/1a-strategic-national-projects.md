@@ -1,7 +1,7 @@
 ---
 title: Strategic National Projects
 permalink: /initiatives/strategic-national-projects
-third_nav_title: "Strategic National Projects Overview"
+third_nav_title: "Strategic National Projects"
 ---
 
 # Strategic National Projects
