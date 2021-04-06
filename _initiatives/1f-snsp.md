@@ -1,11 +1,12 @@
 ---
 title: Smart Nation Sensor Platform  
-permalink: /our-smart-nation/initiatives/strategic-national-projects/smart-nation-sensor-platform
+permalink: /initiatives/strategic-national-projects/smart-nation-sensor-platform
+third_nav_title: "Strategic National Project"
 ---
 
 # Planning For A Better Future
 
-![Smart nation sensor platform](/images/our-smart-nation/Initiatives/smart-nation-sensor-platform.jpg)
+![Smart nation sensor platform](/images/initiatives/smart-nation-sensor-platform.jpg)
 
 In this digital age, we always hear about how there are large amounts of data out there for businesses to process before using it to grow their businesses. 
 
@@ -43,4 +44,4 @@ The aim is to create a holistic view of how we live, work, and play to understan
 - The trial aims to collect data on air quality, rainfall, and footfall. 
 - The sensors' data will be used for effective urban planning for amenities such as safer footpaths and roads for pedestrians and even monitoring our environment as global warming looms worldwide.  
 
-![Smart Lamp Posts](/images/our-smart-nation/Initiatives/smart-lamp-post-govtech.png)
+![Smart Lamp Posts](/images/initiatives/smart-lamp-post-govtech.png)
