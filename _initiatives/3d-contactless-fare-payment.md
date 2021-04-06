@@ -1,5 +1,5 @@
 ---
-title: Contactless fare payment for public transport
+title: Contactless Fare Payment For Public Transport
 permalink: /our-smart-nation/initiatives/transport/contactless-fare-payment
 third_nav_title: "Transport"
 ---
