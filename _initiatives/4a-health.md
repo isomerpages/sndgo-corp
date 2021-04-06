@@ -21,7 +21,7 @@ By 2030, the number of elderly citizens is expected to reach 900,000. With an ag
     <div class="para">A one-stop digital healthcare portal for Singaporeans to access medical records and useful health information.</div>
   </div>
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/health/national-steps-challenge" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/national-steps-challenge.png"></a><br>
+    <a href="/initiatives/health/national-steps-challenge" target="_blank"><img src="/images/initiatives/overview-pages/national-steps-challenge.png"></a><br>
     <div class="header"><b>National Steps Challenge & Healthy 365 App</b></div><br>
     <div class="para">Living a healthier lifestyle by walking more daily using wearable tech with steps tracker app.</div>
   </div>     
