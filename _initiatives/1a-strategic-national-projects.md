@@ -21,7 +21,7 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
     <div class="para">Simple, swift, seamless, and secure payments for citizens and businesses!</div>
   </div>
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/strategic-national-projects/lifesg-initiative" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/LifeSG-initiative.png"></a><br>
+    <a href="/initiatives/strategic-national-projects/lifesg-initiative" target="_blank"><img src="/images/initiatives/overview-pages/LifeSG-initiative.png"></a><br>
     <div class="header"><b>LifeSG Initiative</b></div><br>
     <div class="para">Personalising government services and information across different agencies to provide a more citizen-centric experience.</div>
   </div>     
