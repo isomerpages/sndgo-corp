@@ -27,7 +27,7 @@ third_nav_title: "Transport"
   </div>
 <div class="row">  
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/transport/on-demand-shuttle" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/on-demand-shuttle.png"></a><br>
+    <a href="/initiatives/transport/on-demand-shuttle" target="_blank"><img src="/images/initiatives/overview-pages/on-demand-shuttle.png"></a><br>
     <div class="header"><b>On-Demand Shuttle</b></div><br>
     <div class="para">Where autonomous technology and public transport data support mobility on-demand.</div>
   </div>     
