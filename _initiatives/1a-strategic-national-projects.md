@@ -28,7 +28,7 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
 </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/strategic-national-projects/national-digital-identity" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/national-digital-identity.png"></a><br>
+    <a href="/initiatives/strategic-national-projects/national-digital-identity" target="_blank"><img src="/images/initiatives/overview-pages/national-digital-identity.png"></a><br>
     <div class="header"><b>National Digital Identity (NDI)</b></div><br>
     <div class="para">Creating a secure and convenient infrastructure for both public and private sectors to tap on for online transactions.</div>
   </div>
