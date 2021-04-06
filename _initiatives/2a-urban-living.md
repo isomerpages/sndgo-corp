@@ -28,7 +28,7 @@ With our limited land space, we need to continuously find innovative solutions t
 </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/urban-living/oneservice-app" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/oneservice-app.png"></a><br>
+    <a href="/initiatives/urban-living/oneservice-app" target="_blank"><img src="/images/initiatives/overview-pages/oneservice-app.png"></a><br>
     <div class="header"><b>OneService App</b></div><br>
     <div class="para">Providing a single platform for users to report any issues around their neighbourhood, hassle free!</div>
   </div>
