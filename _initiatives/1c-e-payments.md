@@ -1,7 +1,9 @@
 ---
 title: E-Payments
-permalink: /our-smart-nation/initiatives/strategic-national-projects/e-payments
+permalink: /initiatives/strategic-national-projects/e-payments
+third_nav_title: "Strategic National Projects"
 ---
+
 # Simple, Swift, Seamless and Secure!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1VmJm9imBp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -18,7 +20,7 @@ Over the last few years, e-payments have become extremely common as the infrastr
 ## Our E-Payments Milestones
 - **2014:** Singapore’s banking industry launched FAST (Fast and Secure Transfers), a payment system that enables direct real-time transfers between consumers and businesses across different banks. 
  
-<div style="width:25%;display:flex;flex-wrap:wrap;"><img alt="PayNow" src="/images/our-smart-nation/Initiatives/PayNow.png"></div>
+<div style="width:25%;display:flex;flex-wrap:wrap;"><img alt="PayNow" src="/images/initiatives/PayNow.png"></div>
 
 - **2017:** PayNow was launched. The platform enables instant peer-to-peer transfers between customers of participating banks simply by entering a mobile or personal identification number.
 	- Several Government agencies have begun to use PayNow:
