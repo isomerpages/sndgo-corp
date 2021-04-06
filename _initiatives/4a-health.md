@@ -28,7 +28,7 @@ By 2030, the number of elderly citizens is expected to reach 900,000. With an ag
 </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/health/telehealth" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/telehealth.png"></a><br>
+    <a href="/initiatives/health/telehealth" target="_blank"><img src="/images/initiatives/overview-pages/telehealth.png"></a><br>
     <div class="header"><b>TeleHealth</b></div><br>
     <div class="para">Bringing care into the home to enhance patient access to healthcare, and improve productivity in our healthcare system.</div>
   </div>    
