@@ -1,7 +1,6 @@
 ---
 title: Urban Living
 permalink: /initiatives/urban-living
-breadcrumb: Urban Living
 third_nav_title: "Urban Living"
 ---
 
