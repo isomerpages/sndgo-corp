@@ -1,6 +1,7 @@
 ---
 title: HealthHub
-permalink: /our-smart-nation/initiatives/health/healthhub
+permalink: /initiatives/health/healthhub
+third_nav_title: "Health"
 ---
 
 # Your Health; All In The Palm Of Your Hand
