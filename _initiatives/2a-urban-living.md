@@ -16,8 +16,7 @@ With our limited land space, we need to continuously find innovative solutions t
     <div class="para">Making water usage data readily accessible for consumers from tap to app – saving money and the environment!</div>
   </div>
    <div class="column-c"> 
-    <a href="	
-/our-smart-nation/initiatives/urban-living/dengue-hotspots-survey-drones" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/dengue-survey-drones.png"></a><br>
+    <a href="/initiatives/urban-living/dengue-hotspots-survey-drones" target="_blank"><img src="/images/initiatives/overview-pages/dengue-survey-drones.png"></a><br>
      <div class="header"><b>Dengue Hotspots Survey Drones</b></div><br>
     <div class="para">Taking to the skies for dengue control.</div>
   </div>
