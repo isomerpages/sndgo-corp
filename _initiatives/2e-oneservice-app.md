@@ -1,6 +1,7 @@
 ---
 title: OneService App
-permalink: /our-smart-nation/initiatives/urban-living/oneservice-app
+permalink: /initiatives/urban-living/oneservice-app
+third_nav_title: "Urban Living"
 ---
 
 # Play A Part In Keeping Our Estate A Great Place To Live
