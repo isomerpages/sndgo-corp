@@ -1,11 +1,12 @@
 ---
 title: Business Grants Portal & GoBusiness Licensing 
-permalink: /our-smart-nation/initiatives/digital-government-services/business-grants-gobusiness-licensing
+permalink: /initiatives/digital-government-services/business-grants-gobusiness-licensing
+third_nav_title: "Digital Government Services"
 ---
 
 # Efficiency For Business Administration Tasks
 
-![business grants portal](/images/our-smart-nation/Initiatives/business-grants-gobusiness.png)
+![business grants portal](/images/initiatives/business-grants-gobusiness.png)
   
 Gone are the days when we have to fill up individual sets of forms for each licence that a running a business requires; especially for key information that is normally required for each licence or grant. 
 
