@@ -3,7 +3,7 @@ title: Supporting The Community
 permalink: /community/supporting-the-community
 ---
 
-# Ensuring Everyone Has A Chance
+# Ensuring Everyone Has The Opportunity
  
 ![Smart Nation & U event](/images/community/IMG_0214.JPG)
 
