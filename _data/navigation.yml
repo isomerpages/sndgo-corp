@@ -17,6 +17,9 @@ links:
     resource_room: true
   - title: Careers
     collection: careers
+    Sublinks:
+    - title: Careers in Gov ICT & SS
+      url: https://techcareers.smartnation.gov.sg/
       
 #  - title: Why Smart Nation
 #    collection: why-smart-nation
