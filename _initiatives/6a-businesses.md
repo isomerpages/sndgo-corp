@@ -27,12 +27,12 @@ Talent and businesses are critical in a digital economy that will continue to ke
 </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/startups-and-businesses/networked-trade-platform" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/networked-trade-platform.png"></a><br>
+    <a href="/initiatives/businesses/networked-trade-platform" target="_blank"><img src="/images/initiatives/overview-pages/networked-trade-platform.png"></a><br>
     <div class="header"><b>Networked Trade Platform</b></div><br>
     <div class="para">A national trade information management platform that provides the foundation for Singapore to be the world’s leading trade, supply chain and trade financing hub.</div>
   </div>
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/startups-and-businesses/punggol-digital-district" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/punggol-digital-district.png"></a><br>
+    <a href="/initiatives/businesses/punggol-digital-district" target="_blank"><img src="/images/initiatives/overview-pages/punggol-digital-district.png"></a><br>
     <div class="header"><b>Punggol Digital District</b></div><br>
     <div class="para">Creating synergies, and enabling close integration between industry and academia, as well as foster vibrant and strong communities.</div>
   </div>
