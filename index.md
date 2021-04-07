@@ -12,17 +12,17 @@ sections:
         url: /community/smart-nation-together
         button: Sign Up Now!
         key_highlights:
+            - title: Strategic National Projects 
+              description: The building blocks of our Smart Nation Initiative 
+              url: /initiatives/strategic-national-projects
             - title: Smart Nation Ambassadors
-              description: Join us on our transformative Journey! 
+              description: Join us on our transformative Journey 
               url: /community/smart-nation-ambassadors
-            - title: Business Resources 
-              description: Find initiatives for your business.
-              url: /business/resources/
             - title: Pillars Of Smart Nation
               description: Find out more about the three key pillars.
               url: /our-smart-nation/pillars-of-smart-nation
             - title: A Secure Smart Nation
-              description: Reporting a Government Data Incident 
+              description: Report a Government Data Incident 
               url: /abt-smart-nation/secure-smart-nation/report-data-incident/
     - infopic:
         title: Smart Nation Scholarship - Apply Now
