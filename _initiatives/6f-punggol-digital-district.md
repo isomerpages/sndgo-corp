@@ -1,6 +1,7 @@
 ---
 title: Punggol Digital District
-permalink: /our-smart-nation/initiatives/startups-and-businesses/punggol-digital-district
+permalink: /initiatives/businesses/punggol-digital-district
+third_nav_title: "Businesses"
 ---
 
 # Transforming The Way We Work, Learn And Play
