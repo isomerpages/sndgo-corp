@@ -1,6 +1,7 @@
 ---
 title: HDB Resale Portal
-permalink: /our-smart-nation/initiatives/digital-government-services/hdb-resale-portal
+permalink: /initiatives/digital-government-services/hdb-resale-portal
+third_nav_title: "Digital Government Services"
 ---
 
 # Halving The Timeline 
