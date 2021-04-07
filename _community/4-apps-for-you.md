@@ -7,7 +7,9 @@ permalink: /community/apps-for-you
 
 ![Alt](/images/hero-banner.png)
 
-As we continue digitising Government services, some of them have evolved into a mobile app to be more efficient and beneficial. Below is the list of mobile apps that various government agencies have created to help us make life smarter. 
+As we continue digitising Government services, some of them have evolved into mobile apps - making it more convenient.  
+
+Below is the list of mobile apps that various government agencies have created to help us make life smarter. 
 
 Check out the available apps below.
 
