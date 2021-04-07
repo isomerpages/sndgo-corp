@@ -32,7 +32,7 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
     <div class="para">Supporting citizens with easy-to-use, personalised experience to navigate digital government services.</div>
   </div>
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/digital-government-services/multilingual-digital-services" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/multilingual-digital-services.png"></a><br>
+    <a href="/initiatives/digital-government-services/multilingual-digital-services" target="_blank"><img src="/images/initiatives/overview-pages/multilingual-digital-services.png"></a><br>
     <div class="header"><b>Multilingual Digital Services</b></div><br>
     <div class="para">Making digital government services more inclusive and accessible for everyone.</div>
   </div>
