@@ -4,7 +4,7 @@ permalink: /community/smart-nation-together
 third_nav_title: "#SmartNationTogether"
 ---
 
-# Welcome to the **#SmartNationTogether** online channel! 
+# Welcome to our online channel! 
 
 ![#SmartNationTogether - the online channel for all our tech related talks](/images/community/snt-page-header.jpg "SmartNationTogether")
 
