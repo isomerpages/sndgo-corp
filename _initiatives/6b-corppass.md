@@ -1,6 +1,6 @@
 ---
 title: Corppass
-permalink: /initiatives/startups-and-businesses/corppass
+permalink: /initiatives/businesses/corppass
 third_nav_title: "Businesses"
 ---
 
