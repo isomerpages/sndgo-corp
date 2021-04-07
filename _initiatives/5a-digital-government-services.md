@@ -44,7 +44,7 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
 </div>  
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/digital-government-services/parents-gateway" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/parents-gateway.png"></a><br>
+    <a href="/initiatives/digital-government-services/parents-gateway" target="_blank"><img src="/images/initiatives/overview-pages/parents-gateway.png"></a><br>
     <div class="header"><b>Parents Gateway</b></div><br>
     <div class="para">A one-stop platform for schools to connect with parents on key administrative matters.</div>
   </div>
