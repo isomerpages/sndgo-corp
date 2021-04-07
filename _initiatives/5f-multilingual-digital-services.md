@@ -1,11 +1,12 @@
 ---
 title: Multilingual Digital Services 
-permalink: /our-smart-nation/initiatives/digital-government-services/multilingual-digital-services
+permalink: /initiatives/digital-government-services/multilingual-digital-services
+third_nav_title: "Digital Government Services"
 ---
 
 # To The Power Of Four
 
-![multilingual digital services](/images/our-smart-nation/Initiatives/multilingual-digital-services.jpeg)
+![multilingual digital services](/images/initiatives/multilingual-digital-services.jpeg)
 
 The Government is developing a multilingual digital services policy in line with efforts to promote inclusion and access to digital government services.
 
