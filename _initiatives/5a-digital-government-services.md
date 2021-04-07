@@ -15,12 +15,12 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
     <div class="para">A more efficient way for businesses to find and apply for government grants and comply with licensing and regulatory requirements.</div>
   </div>
    <div class="column-c"> 
-    <a href="/our-smart-nation/initiatives/digital-government-services/Centex" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/centex.png"></a><br>
+    <a href="/initiatives/digital-government-services/centex" target="_blank"><img src="/images/initiatives/overview-pages/centex.png"></a><br>
      <div class="header"><b>CentEx</b></div><br>
     <div class="para">Raising our digital capabilities within the Government to pursue innovation more efficiently.</div>
   </div>
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/digital-government-services/hdb-resale-portal" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/hdb-resale-portal.png"></a><br>
+    <a href="/initiatives/digital-government-services/hdb-resale-portal" target="_blank"><img src="/images/initiatives/overview-pages/hdb-resale-portal.png"></a><br>
     <div class="header"><b>HDB Resale Portal</b></div><br>
     <div class="para">The online portal that makes buying and selling of resale flats easier and faster.</div>
   </div>     
