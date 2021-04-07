@@ -1,11 +1,12 @@
 ---
 title: Data Innovation Programme Office
-permalink: /our-smart-nation/initiatives/startups-and-businesses/data-innovation-programme-office
+permalink: /initiatives/businesses/data-innovation-programme-office
+third_nav_title: "Businesses"
 ---
 
 # Providing The Data Support To Our Digital Economy  
 
-![Data innovation programme office](/images/our-smart-nation/Initiatives/DIPO.jpg)
+![Data innovation programme office](/images/initiatives/DIPO.jpg)
 
 IMDA, PricewaterhouseCoopers and a Singapore-based startup, DEX, entered into the first Data Collaborative Pilot in April 2018. The six-month pilot  programme had the aim to: 
 -	Build a decentralised platform that provides access to data in a regulated and audited fashion, with full awareness and consent of data owners;
