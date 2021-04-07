@@ -10,7 +10,7 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
 <br>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/digital-government-services/business-grants-gobusiness-licensing" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/business-grants.png"></a><br>
+    <a href="/initiatives/digital-government-services/business-grants-gobusiness-licensing" target="_blank"><img src="/images/initiatives/overview-pages/business-grants.png"></a><br>
     <div class="header"><b>Business Grants Portal & GoBusiness Licensing</b></div><br>
     <div class="para">A more efficient way for businesses to find and apply for government grants and comply with licensing and regulatory requirements.</div>
   </div>
