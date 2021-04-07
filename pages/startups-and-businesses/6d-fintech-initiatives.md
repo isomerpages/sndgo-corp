@@ -1,11 +1,12 @@
 ---
 title: FinTech Initiatives 
-permalink: /our-smart-nation/initiatives/startups-and-businesses/fintech-initiatives
+permalink: /initiatives/businesses/fintech-initiatives
+third_nav_title: "Businesses"
 ---
 
 # Creating A Innovative And Secure Sandbox 
 
-![Singapore's central business district](/images/our-smart-nation/Initiatives/Fintech-sandbox.jpg)
+![Singapore's central business district](/images/initiatives/Fintech-sandbox.jpg)
 
 With the upcoming four digital banks, the finance industry's buzz words seem to be all about FinTech. Advancements in financial technology, commonly known as "FinTech", are increasingly challenging how business is being done.
 
