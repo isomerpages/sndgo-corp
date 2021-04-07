@@ -1,11 +1,12 @@
 ---
 title: LifeSG
-permalink: /our-smart-nation/initiatives/digital-government-services/lifesg
+permalink: /initiatives/digital-government-services/lifesg
+third_nav_title: "Digital Government Services"
 ---
 
 # One-Stop Personalised Access To Government Services And Information
 
-![life SG banner](/images/our-smart-nation/Initiatives/lifesg-kv.jpg)
+![life SG banner](/images/initiatives/lifesg-kv.jpg)
  
 Formerly known as Moments of Life, it was rebranded to LifeSG in August 2020. The LifeSG mobile app gives citizens access to government services and information in one convenient platform. 
 
