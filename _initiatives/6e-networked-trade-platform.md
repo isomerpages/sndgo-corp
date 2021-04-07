@@ -1,6 +1,7 @@
 ---
 title: Networked Trade Platform 
-permalink: /our-smart-nation/initiatives/startups-and-businesses/networked-trade-platform
+permalink: /initiatives/businesses/networked-trade-platform
+third_nav_title: "Businesses"
 ---
 
 #  Digitising Our Key Economy Sector 
