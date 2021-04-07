@@ -1,6 +1,7 @@
 ---
 title: Corppass
-permalink: /our-smart-nation/initiatives/startups-and-businesses/corppass
+permalink: /initiatives/startups-and-businesses/corppass
+third_nav_title: "Businesses"
 ---
 
 # Convenience And Control For Your Business 
