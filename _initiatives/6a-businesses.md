@@ -1,7 +1,6 @@
 ---
-title: Businesses
+title: Businesses Overview
 permalink: /initiatives/businesses
-breadcrumb: Businesses
 third_nav_title: "Businesses"
 ---
 # Businesses
@@ -11,7 +10,7 @@ Talent and businesses are critical in a digital economy that will continue to ke
 <br>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/our-smart-nation/initiatives/startups-and-businesses/corppass" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/corppass.png"></a><br>
+    <a href="/initiatives/businesses/corppass" target="_blank"><img src="/images/initiatives/overview-pages/corppass.png"></a><br>
     <div class="header"><b>Corppass</b></div><br>
     <div class="para">Transacting with government services securely and conveniently.</div>
   </div>
