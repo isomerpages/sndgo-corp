@@ -1,7 +1,6 @@
 ---
 title: Smart Nation Scholarship
-permalink: /our-smart-nation/careers/smart-nation-scholarship
-breadcrumb: Smart Nation Scholarship
+permalink: /careers/smart-nation-scholarship
 third_nav_title: "Careers"
 ---
 
