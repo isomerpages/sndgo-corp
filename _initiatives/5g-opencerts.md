@@ -1,11 +1,12 @@
 ---
 title: OpenCerts
-permalink: /our-smart-nation/initiatives/digital-government-services/opencerts
+permalink: /initiatives/digital-government-services/opencerts
+third_nav_title: "Digital Government Services"
 ---
 
 # Secured, Verified And Tamper-Resistant Credentials 
 
-![Open Certs](/images/our-smart-nation/Initiatives/OpenCerts.png)
+![Open Certs](/images/initiatives/OpenCerts.png)
 
 OpenCerts is a blockchain-based[^1] platform developed by the Government Technology Agency, Ministry of Education, Ngee Ann Polytechnic and SkillsFuture Singapore. The platform offers an easy and reliable way to issue and validate academic certificates that are tamper-resistant.
 
