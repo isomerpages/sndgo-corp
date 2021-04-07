@@ -1,11 +1,12 @@
 ---
 title: Parents Gateway
-permalink: /our-smart-nation/initiatives/digital-government-services/parents-gateway
+permalink: /initiatives/digital-government-services/parents-gateway
+third_nav_title: "Digital Government Services"
 ---
 
 # Always Be In The Know
   
-![Parents Gateway app screen shots](/images/our-smart-nation/Initiatives/Parent-gateway-screenshots.jpeg)
+![Parents Gateway app screen shots](/images/initiatives/Parent-gateway-screenshots.jpeg)
 
 Parents tend to have challenges keeping up with their child's school schedule, and it gets even more complicated when the children go to different schools, with two different programs, consent forms and updates! 
 
