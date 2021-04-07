@@ -20,7 +20,7 @@ Talent and businesses are critical in a digital economy that will continue to ke
     <div class="para">Providing the ecosystem with more flexibility to work with and share data.</div>
   </div>
   <div class="column-c">  
-    <a href="/our-smart-nation/initiatives/startups-and-businesses/fintech-initiatives" target="_blank"><img src="/images/our-smart-nation/Initiatives/overview-page/fintech-sandbox.png"></a><br>
+    <a href="/initiatives/businesses/fintech-initiatives" target="_blank"><img src="/images/initiatives/overview-pages/fintech-sandbox.png"></a><br>
     <div class="header"><b>FinTech Initiatives</b></div><br>
     <div class="para">Staying ahead of the curve with a regulatory sandbox that supports FinTech innovations experiments!</div>
   </div>     
