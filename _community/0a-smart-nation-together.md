@@ -1,5 +1,5 @@
 ---
-title: "#SmartNationTogether"
+title: "#SmartNationTogether Overview"
 permalink: /community/smart-nation-together
 third_nav_title: "#SmartNationTogether"
 ---
