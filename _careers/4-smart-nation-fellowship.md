@@ -1,8 +1,6 @@
 ---
 title: Smart Nation Fellowship
-permalink: /our-smart-nation/careers/smart-nation-fellowship
-breadcrumb: Smart Nation Fellowship
-third_nav_title: "Careers"
+permalink: /careers/smart-nation-fellowship
 ---
 
 # Help Us Build Our Future Together 
@@ -11,7 +9,7 @@ third_nav_title: "Careers"
 
 As Singapore embarks on our journey to build a Smart Nation, we are always on the lookout for new ideas to improve the lives of Singaporeans.  If you are an established data scientist, engineer, software developer, technologist, designer or applied researcher, we need your expertise and experience to build our Smart Nation together!
 
-![smart nation fellowship infographics](/images/our-smart-nation/sn-fellowship.jpeg)
+![smart nation fellowship infographics](/images/careers/sn-fellowship.jpeg)
 
 Take three to six months to collaborate with us to co-create digital or engineering solutions that will make an impact on people’s lives. Work on projects that we have pre-identified, or propose new, innovative projects across tech domains from artificial intelligence, blockchain, cloud, data science, app development, cybersecurity to sensors & IoT.
 
