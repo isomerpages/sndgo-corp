@@ -40,14 +40,14 @@ Singapore residents will soon have another convenient way to perform SafeEntry (
 
 **For media enquiries, please contact:**
 
-**CHIA Suat Ning (Ms)**
-Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office
-Tel: 8182 8052
-Email:  [CHIA_Suat_Ning@pmo.gov.sg](mailto:CHIA_Suat_Ning@pmo.gov.sg)
+**CHIA Suat Ning (Ms)**<br>
+Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office<br>
+Tel: 8182 8052<br>
+Email:  [CHIA_Suat_Ning@pmo.gov.sg](mailto:CHIA_Suat_Ning@pmo.gov.sg)<br>
 
-**Amanda FOO (Ms)**
-Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office
-Tel: 9841 8628
-Email:  [Amanda_Foo@pmo.gov.sg](mailto:amanda_foo@pmo.gov.sg)
+**Amanda FOO (Ms)**<br>
+Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office<br>
+Tel: 9841 8628<br>
+Email:  [Amanda_Foo@pmo.gov.sg](mailto:amanda_foo@pmo.gov.sg)<br>
