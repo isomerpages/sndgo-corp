@@ -66,6 +66,7 @@ Manager
 Communications and Marketing Group, GovTech  
 Email: [TJAN_Hui_Min@tech.gov.sg](mailto:TJAN_Hui_Min@tech.gov.sg)
 
+---
 
 [^1]: You may be required to produce your physical NRIC/long-term pass card, if required by law (e.g. at polling stations for elections), or if the agency or business requires it for specific transactions.
 
