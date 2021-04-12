@@ -22,7 +22,7 @@ The Government has accepted the Committee's recommendations and will take the ne
 **Infographic on Recommendations (pdf - 0.5mb):**
 
 <div style="width:30%"> 
- <a href="/files/our-smart-nation/psdsrc-infographic.pdf" target="_blank"><img src="/images/abt-smart-nation/psdsrc-infographic.jpeg"></a>
+ <a href="/files/abt-smart-nation/psdsrc-infographic.pdf" target="_blank"><img src="/images/abt-smart-nation/psdsrc-infographic.jpeg"></a>
 </div>
 
 **Public Sector Data Security Review Committee Report (pdf - 2.3mb):**
