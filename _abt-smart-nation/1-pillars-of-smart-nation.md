@@ -26,7 +26,7 @@ The <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-
  (pdf - 4.31mb)
 </div>
 <div style="width:30%"> 
- <a href="/files/our-smart-nation/SGD Framework For Action.pdf" target="_blank"><img src="/images/abt-smart-nation/digital-economy-framework.jpg"></a>
+ <a href="/files/abt-smart-nation/SGD Framework For Action.pdf" target="_blank"><img src="/images/abt-smart-nation/digital-economy-framework.jpg"></a>
 </div>
 
 ## Digital Government
