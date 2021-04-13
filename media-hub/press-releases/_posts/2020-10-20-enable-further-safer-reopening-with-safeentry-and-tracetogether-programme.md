@@ -30,14 +30,14 @@ In order to resume larger-scale activities and further reopen our economy in a s
  
 **For media enquiries, please contact:**
 
-Chia Suat Ning (Ms)
-Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office
-Tel: 8182 8052
-Email: [chia_suat_ning@pmo.gov.sg](mailto:chia_suat_ning@pmo.gov.sg)
+Chia Suat Ning (Ms)<br>
+Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office<br>
+Tel: 8182 8052<br>
+Email: [chia_suat_ning@pmo.gov.sg](mailto:chia_suat_ning@pmo.gov.sg)<br>
 
-TAN Boon Leng (Mr)
-Senior Manager, Communications and Marketing Group
-Government Technology Agency
-Tel: 6211 0375
-Email: [TAN_Boon_Leng@tech.gov.sg](mailto:TAN_Boon_Leng@tech.gov.sg)
+TAN Boon Leng (Mr)<br>
+Senior Manager, Communications and Marketing Group<br>
+Government Technology Agency<br>
+Tel: 6211 0375<br>
+Email: [TAN_Boon_Leng@tech.gov.sg](mailto:TAN_Boon_Leng@tech.gov.sg)<br>
