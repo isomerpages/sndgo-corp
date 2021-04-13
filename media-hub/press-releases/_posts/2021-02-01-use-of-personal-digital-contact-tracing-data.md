@@ -36,19 +36,13 @@ On 1 February, the Government will move the COVID-19 (Temporary Measures) (Amend
 
 **Annex A - Categories of Serious Offences to be Covered**
 
-a.  Unlawful use or possession of corrosive and explosive substances, firearms or dangerous weapons.
-
-b.  An offence relating to the committing, aiding, conspiring, abetting or financing of acts of terrorism under the Terrorism (Suppression of Bombings) Act, Terrorism (Suppression of Financing) Act, and Terrorism (Suppression of Misuse of Radioactive Material) Act.
-
-c.  An offence relating to causing or concealment of death, or maliciously or wilfully causing grievous bodily harm (where the victim’s injury is of a life-threatening nature).
-
-d.  A drug offence that is punishable with death.
-
-e.  An offence relating to escape from custody where there is reasonable belief that the subject will cause imminent harm to others.
-
-f.  Kidnapping, abduction or hostage-taking.
-
-g.  Any form of serious sexual assault such as rape or sexual assault by penetration.
+1. Unlawful use or possession of corrosive and explosive substances, firearms or dangerous weapons.
+2. An offence relating to the committing, aiding, conspiring, abetting or financing of acts of terrorism under the Terrorism (Suppression of Bombings) Act, Terrorism (Suppression of Financing) Act, and Terrorism (Suppression of Misuse of Radioactive Material) Act.
+3. An offence relating to causing or concealment of death, or maliciously or wilfully causing grievous bodily harm (where the victim’s injury is of a life-threatening nature).
+4. A drug offence that is punishable with death.
+5. An offence relating to escape from custody where there is reasonable belief that the subject will cause imminent harm to others.
+6. Kidnapping, abduction or hostage-taking.
+7. Any form of serious sexual assault such as rape or sexual assault by penetration.
 
 ---
 [Factsheet on Digital Contact Tracing Tools (pdf - 100kb)](/files/press-releases/2021/factsheet-on-digital-contact-tracing-tools-1-feb.pdf)  
@@ -57,16 +51,16 @@ g.  Any form of serious sexual assault such as rape or sexual assault by penetra
 
 **For media enquiries, please contact:**
 
-**GOH Yu Chong (Mr)**
-Senior Manager, Public and International Communications
-Smart Nation and Digital Government Office, Prime Minister’s Office
-Tel: 9644 1674
-Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
+**GOH Yu Chong (Mr)**<br>
+Senior Manager, Public and International Communications<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office<br>
+Tel: 9644 1674<br>
+Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)<br>
 
-**CHIA Suat Ning (Ms)**
-Manager, Public and International Communications
-Smart Nation and Digital Government Office, Prime Minister’s Office
-Tel: 8182 8052
-Email: [chia_suat_ning@pmo.gov.sg](mailto:chia_suat_ning@pmo.gov.sg)
+**CHIA Suat Ning (Ms)**<br>
+Manager, Public and International Communications<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office<br>
+Tel: 8182 8052<br>
+Email: [chia_suat_ning@pmo.gov.sg](mailto:chia_suat_ning@pmo.gov.sg)<br>
 
 [^1]:  A Bill, if it is deemed to be urgent, may be put through all three readings in the same sitting. The Bill must be accompanied by a Certificate of Urgency signed by the President.
