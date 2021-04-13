@@ -26,7 +26,7 @@ The Monetary Authority of Singapore (MAS) and the Smart Nation and Digital Gover
 
 ---
 
-[^1]: The public agencies leading the initiative are MAS, SNDGG (comprising the Smart Nation Digital Government Office (SNDGO) and the Government Technology Agency (GovTech)), with the support of the Ministry of Manpower (MOM). The 7 participating banks are DBS Bank Ltd, Oversea-Chinese Banking Corporation Ltd, United Overseas Bank Ltd, Citibank Singapore Ltd, HSBC Bank (Singapore) Ltd, Maybank Singapore Ltd and Standard Chartered Bank Singapore Ltd. More information on the banks’ participation in this initiative can be found in the ABS press release here: https://abs.org.sg/SGFinDex
+[^1]: The public agencies leading the initiative are MAS, SNDGG (comprising the Smart Nation Digital Government Office (SNDGO) and the Government Technology Agency (GovTech), with the support of the Ministry of Manpower (MOM). The 7 participating banks are DBS Bank Ltd, Oversea-Chinese Banking Corporation Ltd, United Overseas Bank Ltd, Citibank Singapore Ltd, HSBC Bank (Singapore) Ltd, Maybank Singapore Ltd and Standard Chartered Bank Singapore Ltd. More information on the banks’ participation in this initiative can be found in the ABS press release here: https://abs.org.sg/SGFinDex
 
 [^2]: SGFinDex will take users through a two-step process: (a) Connecting banks to SGFinDex; and (b) Requesting data retrieval from these banks.
 
