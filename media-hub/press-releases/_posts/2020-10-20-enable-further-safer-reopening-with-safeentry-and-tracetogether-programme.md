@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Enable Further Safer Reopening With SafeEntry And TraceTogether Programme - TT-Only SE
-permalink: /media-hub/press-releases/enable-further-safer-reopening-with-safeentry-and-tracetogether-programme.md
+permalink: /media-hub/press-releases/enable-further-safer-reopening-with-safeentry-and-tracetogether-programme
 ---
 
 _20 October 2020_
