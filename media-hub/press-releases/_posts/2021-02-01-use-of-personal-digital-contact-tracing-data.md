@@ -51,13 +51,13 @@ On 1 February, the Government will move the COVID-19 (Temporary Measures) (Amend
 
 **For media enquiries, please contact:**
 
-**GOH Yu Chong (Mr)**<br>
+**Goh Yu Chong**<br>
 Senior Manager, Public and International Communications<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 9644 1674<br>
 Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)<br>
 
-**CHIA Suat Ning (Ms)**<br>
+**Chia Suat Ning**<br>
 Manager, Public and International Communications<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 8182 8052<br>
