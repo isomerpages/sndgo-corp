@@ -54,20 +54,20 @@ MyMoneySense is a financial planning digital service jointly developed by MOM an
 
 **For media queries, please contact:**
 
-**Bridgitte LEE**<br>
+**Bridgitte Lee**<br>
 Assistant Director (Communications)<br>
 Monetary Authority of Singapore<br>
 Tel: +65 6229 9262<br>
 Email: [bridgitte_lee@mas.gov.sg](mailto:bridgitte_lee@mas.gov.sg)<br>
 
-**Jacqueline ONG**<br>
+**Jacqueline Ong**<br>
 Deputy Director (Communications)<br>
 Monetary Authority of Singapore<br>
 Tel: +65 6229 9159<br>
 Email: [jacqueline_ong@mas.gov.sg](mailto:jacqueline_ong@mas.gov.sg)<br>
 
-**CHIA Suat Ning**<br>
-Manager, Public and International Communications<br>
+**Chia Suat Ning**<br>
+Manager, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 8182 8052<br>
 Email: [chia_suat_ning@pmo.gov.sg](mailto:chia_suat_ning@pmo.gov.sg)<br>
