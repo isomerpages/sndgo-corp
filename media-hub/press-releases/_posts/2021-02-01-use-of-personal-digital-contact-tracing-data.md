@@ -4,8 +4,6 @@ title: Amendments In Covid-19 (Temporary Measures) Act On The Use Of Personal Di
 permalink: /media-hub/press-releases/use-of-personal-digital-contact-tracing-data
 ---
 
-_Singapore, 1 February 2021_
-
 On 1 February, the Government will move the COVID-19 (Temporary Measures) (Amendment) Bill in Parliament under a Certificate of Urgency.[^1] These amendments will give legal force to the statement made in Parliament by Minister-in-Charge of the Smart Nation Initiative, Dr Vivian Balakrishnan, and Minister for Home Affairs and for Law, Mr K Shanmugam on 5 January, that the use of TraceTogether (TT) data in criminal investigations would be restricted to serious offences.
 
 ## Public Agencies’ Use of Personal Data collected by Digital Contact Tracing Tools
