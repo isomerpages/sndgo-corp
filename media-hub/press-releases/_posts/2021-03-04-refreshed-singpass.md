@@ -57,13 +57,13 @@ For more information, please visit [www.tech.gov.sg](http://www.tech.gov.sg/).
 **For media clarifications, please contact:**
 
 Serene Chan (Ms)<br>
-Assistant Manager<br>  
-Communications and Marketing Group, GovTech<br>  
+Assistant Manager 
+Communications and Marketing Group, GovTech
 Email: [Serene_CHAN@tech.gov.sg](mailto:Serene_CHAN@tech.gov.sg)<br>
 
 Tjan Hui Min (Ms)<br> 
 Manager<br>
-Communications and Marketing Group, GovTech<br>  
+Communications and Marketing Group, GovTech
 Email: [TJAN_Hui_Min@tech.gov.sg](mailto:TJAN_Hui_Min@tech.gov.sg)<br>
 
 ---
