@@ -4,8 +4,6 @@ title:  New Board Members Appointed To Government Technology Agency
 permalink: /media-hub/press-releases/new-board-members-appointed-to-government-technology-agency
 ---
 
-_29 September 2020_
-
 The Smart Nation and Digital Government Group (SNDGG) announced today changes to the Board of the Government Technology Agency (GovTech). These changes will come into, effect from 1 October 2020.
   
 2\. The board changes are as follows.
