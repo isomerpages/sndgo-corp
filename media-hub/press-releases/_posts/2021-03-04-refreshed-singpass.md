@@ -4,8 +4,6 @@ title:  Refreshed Singpass Reflects Improved Services And Drives Digital Innovat
 permalink: /media-hub/press-releases/refreshed-singpass-reflects-improved-services
 ---
 
-_Singapore,  4  March 2021_
-
 The Government Technology Agency (GovTech) today announced the refreshed Singpass brand identity, the first in 18 years, with a new logo that marks its evolution of becoming Singapore’s trusted national digital identity. Today, Singpass offers residents greater convenience and accessibility when transacting with the Government and private sector, both online and in person.
 
 2 In the last three years, more than 10 features have been added to Singpass. From the introduction of the Singpass app in October 2018 to new features such as Digital IC, [Face Verification](https://www.tech.gov.sg/media/media-releases/2020-12-16-singpass-2fa) and [digital signing](https://www.tech.gov.sg/media/media-releases/2020-11-04-sign-with-singpass), Singpass has been evolving and now powers more than 1,400 services offered by over 340 public and private sector organisations. Its user  base has also grown significantly. Of the 4 million residents on Singpass, more than 2.5 million users are on the Singpass app with over 90% of them using the app at least once a month. The Singpass app is also one of the most downloaded apps in Singapore in 2020 and has tripled its user base in the past year.
