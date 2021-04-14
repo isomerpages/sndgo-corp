@@ -3,8 +3,6 @@ layout: post
 title: TraceTogether Adoption Surpasses 70% CCs to Re-open For Token Collection Progressively
 permalink: /media-hub/press-releases/tracetogether-adoption-surpasses-70
 ---
-
-_Singapore, 23 December 2020_
  
 As at 21 December 2020, the percentage of Singapore residents participating in the TraceTogether (TT) Programme has surpassed the 70% mark, with more than 3.8 million people using the TT App or Token. More than 2.05 million unique users have downloaded and registered for the App, and more than 1.75 million Tokens have been collected to date. We are greatly encouraged by Singaporeans’ trust and participation in the national contact tracing efforts. The higher the adoption rate, the better we can facilitate effective contact tracing and the isolation of close contacts.
 
