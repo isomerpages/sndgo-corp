@@ -4,8 +4,6 @@ title:  SafeEntry Gateway For An Improved And Seamless Check-In Experience
 permalink: /media-hub/press-releases/safeentry-gateway-for-an-improved-and-seamless-check-in-experience
 ---
 
-_Singapore, 16 March 2021_
-
 Singapore residents will soon have another convenient way to perform SafeEntry (SE) check-in with their TraceTogether (TT) Token or App. The new SafeEntry Gateway (SEGW), developed by GovTech, enables contactless detection of both App and Token to facilitate seamless check-ins. It will also help to check that the TT Token battery has not run out.
 
 ## Additional SafeEntry check-in method with the SEGW
