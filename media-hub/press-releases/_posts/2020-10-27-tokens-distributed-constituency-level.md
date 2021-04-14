@@ -4,8 +4,6 @@ title:  TraceTogether Tokens To Be Distributed At The Constituency Level
 permalink: /media-hub/press-releases/tracetogether-tokens-to-be-distributed-at-the-constituency-level
 ---
 
-_27 October 2020_
-
 Starting 29 October, TraceTogether (TT) Tokens will be distributed at the constituency level to better match demand and to avoid long queues. New collection venues will be open one constituency at a time. Stock will be set aside for residents belonging to that constituency. Residents should only collect their Tokens from their designated collection venue, scheduled to start at specified dates. Residents in each constituency will be informed accordingly. 
 
 2.	We had previously announced that residents could collect Tokens at any collection venue. Following the announcement that either a TT App or TT Token will be needed to perform SafeEntry check-in (TT-only-SE) across a range of popular venues, demand has surged at existing collection points, leading to long queues at some Community Centres/Clubs (CC). 
