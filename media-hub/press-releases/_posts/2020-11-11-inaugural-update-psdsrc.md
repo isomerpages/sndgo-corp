@@ -4,8 +4,6 @@ title:  Inaugural Update On Government Personal Data Protection And Implementati
 permalink: /media-hub/press-releases/inaugural-update-psdsrc
 ---
 
-_11 November 2020_
-
 The Smart Nation and Digital Government Office (SNDGO) has published the inaugural annual update on the Government’s personal data protection efforts. The update contains the measures undertaken to date to strengthen the public sector data security regime to safeguard citizen data. The annual update will also serve to enhance transparency on how the Government uses and secures citizen data, which is among the key recommendations made by the Public Sector Data Security Review Committee (PSDSRC).
 
 2\.	In November 2019, the PSDSRC submitted its recommendations to improve the Government’s data security regime and enhance public confidence. The Government accepted the Committee’s recommendations in full and committed to implementing them in phases from 2020 to 2023. In April 2020, SNDGO provided an update on the first tranche of the implementation of the PSDSRC recommendations. The second tranche of implementation was completed in October 2020.
