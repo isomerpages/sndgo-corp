@@ -4,8 +4,6 @@ title: Upcoming Legislative Provisions For Usage Of Data From Digital Contact Tr
 permalink: /media-hub/press-releases/upcoming-legislative-provisions-for-usage-of-data-from-digital-contact-tracing-solutions
 ---
 
-_Singapore, 8 January 2021_
-
 We acknowledge our error in not stating that data from TraceTogether is not exempt from the Criminal Procedure Code.
 
 2.	In Parliament on 5 January, Minister-in-Charge of the Smart Nation Initiative, Dr Vivian Balakrishnan and Minister for Home Affairs and for Law, Mr K Shanmugam, assured the House and the public that the use of TraceTogether data in criminal investigations would be restricted to serious offences.
