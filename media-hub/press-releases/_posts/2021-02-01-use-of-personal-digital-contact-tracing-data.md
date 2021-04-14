@@ -51,16 +51,16 @@ On 1 February, the Government will move the COVID-19 (Temporary Measures) (Amend
 
 **For media enquiries, please contact:**
 
-**Goh Yu Chong**<br>
-Senior Manager, Public and International Communications<br>
-Smart Nation and Digital Government Office, Prime Minister’s Office<br>
-Tel: 9644 1674<br>
-Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)<br>
+Goh Yu Chong (Mr)
+Senior Manager, Public and International Communications
+Smart Nation and Digital Government Office, Prime Minister’s Office
+Tel: 9644 1674
+Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
 
-**Chia Suat Ning**<br>
-Manager, Public and International Communications<br>
-Smart Nation and Digital Government Office, Prime Minister’s Office<br>
-Tel: 8182 8052<br>
-Email: [chia_suat_ning@pmo.gov.sg](mailto:chia_suat_ning@pmo.gov.sg)<br>
+Chia Suat Ning (Ms)
+Manager, Public and International Communications
+Smart Nation and Digital Government Office, Prime Minister’s Office
+Tel: 8182 8052
+Email: [chia_suat_ning@pmo.gov.sg](mailto:chia_suat_ning@pmo.gov.sg)
 
 [^1]:  A Bill, if it is deemed to be urgent, may be put through all three readings in the same sitting. The Bill must be accompanied by a Certificate of Urgency signed by the President.
