@@ -1,4 +1,8 @@
-
+---
+layout: post
+title:  Factsheet - Launch Of TraceTogether Mobile Booths And Expansion Of TraceTogether Token Collection Points
+permalink: /media-hub/press-releases/factsheet-launch-of-tracetogether-mobile-booths
+---
 
 As Singapore looks to reopen its economy further by allowing more businesses and social activities to resume, the ability to do contact tracing quickly, and at scale, becomes more critical to reduce the risk of new transmission chains forming.
 
