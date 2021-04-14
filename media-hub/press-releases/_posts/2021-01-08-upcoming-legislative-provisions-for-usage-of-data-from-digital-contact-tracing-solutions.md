@@ -20,14 +20,14 @@ We acknowledge our error in not stating that data from TraceTogether is not exem
  
 **For media enquiries, please contact:**
 
-Goh Yu Chong (Mr)
-Senior Manager, Public and International Communications
-Smart Nation and Digital Government Office, Prime Minister’s Office
-Tel: 9644 1674
+Goh Yu Chong (Mr)<br>
+Senior Manager, Public and International Communications<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office<br>
+Tel: 9644 1674<br>
 Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
 
-Chia Suat Ning (Ms)
-Manager, Public and International Communications
-Smart Nation and Digital Government Office, Prime Minister’s Office
-Tel: 8182 8052
+Chia Suat Ning (Ms)<br>
+Manager, Public and International Communications<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office<br>
+Tel: 8182 8052<br>
 Email: [chia_suat_ning@pmo.gov.sg](mailto:chia_suat_ning@pmo.gov.sg)
