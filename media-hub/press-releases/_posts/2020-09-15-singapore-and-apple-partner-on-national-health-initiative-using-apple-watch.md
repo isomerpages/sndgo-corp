@@ -3,7 +3,6 @@ layout: post
 title:  Singapore And Apple Partner On National Health Initiative Using Apple Watch
 permalink: /media-hub/press-releases/singapore-and-apple-partner-on-national-health-initiative-using-apple-watch
 ---
-_15 September 2020_
 
 LumiHealth app encourages healthy lifestyle changes through technology
 
