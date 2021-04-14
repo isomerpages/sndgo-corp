@@ -27,13 +27,13 @@ Likewise, students do not need to have their Tokens when school reopens on 4 Jan
 
 **For media enquiries, please contact:**
 
-**GOH Yu Chong (Mr)  **
+**GOH Yu Chong (Mr)**<br>
 Senior Manager, Public and International Communications  
 Smart Nation and Digital Government Office, Prime Minister’s Office  
 Tel: 9644 1674  
 Email:  [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)  
 
-**CHIA Suat Ning (Ms)**
+**CHIA Suat Ning (Ms)**<br>
 Manager, Public and International Communications  
 Smart Nation and Digital Government Office, Prime Minister’s Office  
 Tel: 8182 8052  
