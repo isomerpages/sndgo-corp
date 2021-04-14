@@ -18,9 +18,9 @@ Starting 27 Oct, members of the public should collect the TraceTogether (TT) Tok
 
 **For media enquiries, please contact:**
 
-**Goh Yu Chong**<br>
-Senior Manager, Public and International Communications<br>
-Smart Nation and Digital Government Office, Prime Minister’s Office<br> 
-Tel: 9644 1674<br>
-Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)<br>
+**Goh Yu Chong (Mr)**
+Senior Manager, Public and International Communications  
+Smart Nation and Digital Government Office, Prime Minister’s Office  
+Tel: 9644 1674  
+Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
 
