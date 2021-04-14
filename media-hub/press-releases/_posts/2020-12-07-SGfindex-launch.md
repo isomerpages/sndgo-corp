@@ -4,8 +4,6 @@ title: Digital Infrastructure To Enable More Effective Financial Planning By Sin
 permalink: /media-hub/press-releases/digital-infrastructure-to-enable-more-effective-financial-planning-by-singaporeans
 ---
 
-_Singapore, 7 December 2020_
-
 The Monetary Authority of Singapore (MAS) and the Smart Nation and Digital Government Group (SNDGG) today launched the Singapore Financial Data Exchange (SGFinDex), which will enable Singaporeans to consolidate their financial information for more effective financial planning.
 
 2 SGFinDex is the world's first public digital infrastructure to use a national digital identity and centrally managed online consent system to enable individuals to access, through applications, their financial information held across different government agencies and financial institutions. Built on Singapore's National Digital Identity (SingPass), SGFinDex was developed by the public sector in collaboration with The Association of Banks in Singapore and seven participating banks.[^1]
