@@ -54,26 +54,26 @@ MyMoneySense is a financial planning digital service jointly developed by MOM an
 
 **For media queries, please contact:**
 
-**Bridgitte Lee**<br>
-Assistant Director (Communications)<br>
-Monetary Authority of Singapore<br>
-Tel: +65 6229 9262<br>
-Email: [bridgitte_lee@mas.gov.sg](mailto:bridgitte_lee@mas.gov.sg)<br>
+Bridgitte Lee  
+Assistant Director (Communications)  
+Monetary Authority of Singapore  
+Tel: +65 6229 9262  
+Email:  [bridgitte_lee@mas.gov.sg](mailto:bridgitte_lee@mas.gov.sg)
 
-**Jacqueline Ong**<br>
-Deputy Director (Communications)<br>
-Monetary Authority of Singapore<br>
-Tel: +65 6229 9159<br>
-Email: [jacqueline_ong@mas.gov.sg](mailto:jacqueline_ong@mas.gov.sg)<br>
-
-**Chia Suat Ning**<br>
-Manager, Adoption and Engagement Directorate<br>
-Smart Nation and Digital Government Office, Prime Minister’s Office<br>
-Tel: 8182 8052<br>
-Email: [chia_suat_ning@pmo.gov.sg](mailto:chia_suat_ning@pmo.gov.sg)<br>
-
-**ONG-ANG Ai Boon, Mrs**<br>
-Director<br>
-The Association of Banks in Singapore<br>
-Tel: +65 6224 4300<br>
-Email: [banks@abs.org.sg](mailto:banks@abs.org.sg)<br>
+Jacqueline Ong  
+Deputy Director (Communications)  
+Monetary Authority of Singapore  
+Tel: +65 6229 9159  
+Email:  [jacqueline_ong@mas.gov.sg](mailto:jacqueline_ong@mas.gov.sg)
+  
+Chia Suat Ning  
+Manager, Adoption and Engagement Directorate  
+Smart Nation and Digital Government Office, Prime Minister’s Office  
+Tel: +65 8182 8052  
+Email:  [chia_suat_ning@pmo.gov.sg](mailto:chia_suat_ning@pmo.gov.sg)
+  
+Ong-Ang Ai Boon, Mrs  
+Director  
+The Association of Banks in Singapore  
+Tel: +65 6224 4300  
+Email: [banks@abs.org.sg](mailto:banks@abs.org.sg)
