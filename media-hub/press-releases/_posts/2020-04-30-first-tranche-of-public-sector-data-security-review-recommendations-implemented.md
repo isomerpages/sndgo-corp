@@ -44,8 +44,8 @@ The first tranche of recommendations from the Public Sector Data Security Review
 
 **For media queries, please contact:**
 
-Goh Yu Chong
-Senior Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: +65 9644 1674
+Goh Yu Chong<br>
+Senior Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: +65 9644 1674<br>
 Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
