@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Forum Reply: No Two Standards For Data Protection Across Public And Private Sectors
+title:  Forum Reply - No Two Standards For Data Protection Across Public And Private Sectors
 permalink: /media-hub/press-releases/no-two-standards-for-data-protection-across-public-and-private-sectors
 ---
 
