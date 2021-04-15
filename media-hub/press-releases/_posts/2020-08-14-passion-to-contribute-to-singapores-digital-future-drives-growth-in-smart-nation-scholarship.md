@@ -40,21 +40,21 @@ The Infocomm Media Development Authority (IMDA) leads Singapore’s digital tran
 
 **For media clarification, please contact:**
 
-**CSA**</br>
-Emily  Teo  (Ms)  
+**CSA**
+Emily  Teo (Ms)  
 Communications & Engagement Office  
 Cyber Security Agency of Singapore  
 DID: (65) 6461 7786  
 Email: [emily_teo@csa.gov.sg](mailto:emily_teo@csa.gov.sg)
 
-**GovTech**</br>
+**GovTech**
 TAN Boon Leng (Mr)  
 Communications and Marketing Group  
 Government Technology Agency  
 Email: [tan_boon_leng@tech.gov.sg](mailto:tan_boon_leng@tech.gov.sg)
 
-**IMDA**</br>
-Ruo Yu  Liow  (Ms)  
+**IMDA**
+Ruo Yu Liow (Ms)  
 Communications and Marketing  
 Infocomm Media Development Authority  
 DID: (65) 6751 2828
