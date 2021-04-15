@@ -27,7 +27,7 @@ The Smart Nation and Digital Government Group (SNDGG) announced today changes to
   * Mr Kok Ping Soon, Chief Executive, GovTech  
   * Mr Lew Chuen Hong, Chief Executive, Infocomm and Media Development Agency  
   * Mr Matt Quinlan, Chairman and Co-Founder, Deep Labs Inc
-  * * Mr Muthukrishnan Ramaswami, Partner, PeePalTree Pte Ltd  
+  * Mr Muthukrishnan Ramaswami, Partner, PeePalTree Pte Ltd  
   * Mr Tan Peng Yam, Chief Executive, Defence Science and Technology Agency
 
   **Stepping down of Board Members**
