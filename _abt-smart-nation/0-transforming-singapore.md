@@ -23,12 +23,12 @@ There are key enablers to transform an entire nation, which will help everyone o
 
 **The key projects are:**
 **Pending links**
--	CODEX
--	E-Payments
--	LifeSG Initiative 
--	National Digital Identity
--	Smart Nation Sensor Platform
--	Smart Urban Mobility
+-	[CODEX](/initiatives/strategic-national-projects/codex)
+-	[E-Payments](/initiatives/strategic-national-projects/e-payments)
+-	[LifeSG Initiative](/initiatives/strategic-national-projects/lifesg-initiative)
+-	[National Digital Identity](/initiatives/strategic-national-projects/national-digital-identity)
+-	[Smart Nation Sensor Platform](/initiatives/strategic-national-projects/smart-nation-sensor-platform)
+-	[Smart Urban Mobility](/initiatives/strategic-national-projects/smart-urban-mobility)
 
 Find out more about our [Strategic National Projects here.](/initiatives/strategic-national-projects) 
 
@@ -55,7 +55,7 @@ Start-up accelerators such as <a href="https://www.jtc.gov.sg/industrial-land-an
 
 Connecting technopreneurs with industry mentors, and being the bridge between innovation and enterprise gives Singapore the edge to encourage people to reach for the sky and dream up new ideas. This also gives the entrepreneurs a much-needed boost to get them started on their journey as well.
 
-The XXXXPunggol Digital DistrictXXXX is a prime example of an environment that we are developing to attract the best tech companies and talents, and foster their growth. Through clustering of the growth sector, we aim to bring together high-value digital services in PDD and create an ecosystem with conducive test-bed environments that enable our businesses and the community to thrive in a digital economy.
+The [Punggol Digital District](/initiatives/businesses/punggol-digital-district) is a prime example of an environment that we are developing to attract the best tech companies and talents, and foster their growth. Through clustering of the growth sector, we aim to bring together high-value digital services in PDD and create an ecosystem with conducive test-bed environments that enable our businesses and the community to thrive in a digital economy.
  
 ### Cybersecurity and Data Privacy
 
