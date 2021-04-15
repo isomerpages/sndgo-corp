@@ -36,14 +36,14 @@ Minister-in-Charge of the Smart Nation Initiative Dr Vivian Balakrishnan launche
 
 **For media enquiries, please contact:**
 
-Michelle TAY (Ms)
-Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Tel: 9674 4879
+Michelle TAY (Ms)</br>
+Manager, Adoption and Engagement Directorate</br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore</br>
+Tel: 9674 4879</br>
 Email: [michelle_tay@pmo.gov.sg](mailto:michelle_tay@pmo.gov.sg)
 
-Alexa Lim (Ms)
-Manager, Communications and Marketing Group
-Government Technology Agency
-Tel: 8338 4373
+Alexa Lim (Ms)</br>
+Manager, Communications and Marketing Group</br>
+Government Technology Agency</br>
+Tel: 8338 4373</br>
 E-mail: [alexa_lim@tech.gov.sg](mailto:alexa_lim@tech.gov.sg)
