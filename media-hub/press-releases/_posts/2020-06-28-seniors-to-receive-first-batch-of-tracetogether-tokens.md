@@ -28,14 +28,14 @@ The first batch of TraceTogether Tokens will be distributed to the most vulnerab
 
 **For media enquiries, please contact:**
 
-Michelle TAY (Ms)
-Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Tel: 9674 4879
+Michelle TAY (Ms)<br>
+Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Tel: 9674 4879<br>
 Email:  [michelle_tay@pmo.gov.sg](mailto:michelle_tay@pmo.gov.sg)
 
-TAN Boon Leng (Mr)
-Senior Manager, Communications and Marketing Group
-Government Technology Agency
-Tel: 6211 0375
+TAN Boon Leng (Mr)<br>
+Senior Manager, Communications and Marketing Group<br>
+Government Technology Agency<br>
+Tel: 6211 0375<br>
 E-mail:  [TAN_Boon_Leng@tech.gov.sg](mailto:TAN_Boon_Leng@tech.gov.sg)
