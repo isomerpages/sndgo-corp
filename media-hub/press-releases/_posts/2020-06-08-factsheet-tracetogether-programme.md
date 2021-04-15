@@ -34,14 +34,14 @@ Effective contact tracing is critical as Singapore take steps to open up. A good
 
 **For media enquiries, please contact:**
 
-Goh Yu Chong
-Senior Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: 9644 1674
+Goh Yu Chong<br>
+Senior Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: 9644 1674<br>
 Email:  [Goh_Yu_Chong@pmo.gov.sg](mailto:Goh_Yu_Chong@pmo.gov.sg)
 
-Nasrath Hassan
-Deputy Director, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: 9001 0050
+Nasrath Hassan<br>
+Deputy Director, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: 9001 0050<br>
 Email: [Nasrath_Hassan@pmo.gov.sg](mailto:Nasrath_Hassan@pmo.gov.sg)
