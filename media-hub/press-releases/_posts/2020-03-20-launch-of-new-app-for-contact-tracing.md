@@ -43,13 +43,8 @@ To help support and supplement current contact tracing efforts, Government Techn
 
 **QR CODE TO DOWNLOAD:**
 
-<div style="flex:50%"><img alt="trace together qr code for app download" src="/files/press-releases/2020/QR-code-TT-20-mar-2020.jpeg"></a>
-
-
-
-<div style="width:100%;display:flex;justify-content:center;"><div style="flex:50%"><img alt="trace together qr code for app download" src="/files/press-releases/2020/QR-code-TT-20-mar-2020.jpeg"></a></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="flex:50%"><img alt="trace together qr code for app download" src="/files/press-releases/2020/QR-code-TT-20-mar-2020.jpeg"></div></div>
  
-
 **Resources:**
 
 [Step-by-step guide on using TraceTogether (pdf - 4.5mb)](/files/press-releases/2020/tracetogether-step-by-step-guide.pdf)
@@ -62,21 +57,21 @@ To help support and supplement current contact tracing efforts, Government Techn
 
 **For media enquiries, please contact:**
 
-Chia Suat Ning
-Manager, Public and International Communications
-Adoption & Engagement Directorate, Smart Nation and Digital Government Office
-Mobile: 8182 8052
+Chia Suat Ning<br>
+Manager, Public and International Communications<br>
+Adoption & Engagement Directorate, Smart Nation and Digital Government Office<br>
+Mobile: 8182 8052<br>
 Email:  [CHIA_Suat_Ning@pmo.gov.sg](mailto:CHIA_Suat_Ning@pmo.gov.sg)
 
-Mehul Shah
-Assistant Manager, Communications & Marketing Group
-Government Technology Agency
-Mobile: 9835 1434
+Mehul Shah<br>
+Assistant Manager, Communications & Marketing Group<br>
+Government Technology Agency<br>
+Mobile: 9835 1434<br>
 Email:  [Mehul_SHAH@tech.gov.sg](mailto:Mehul_SHAH@tech.gov.sg)
 
-Melissa Tan
-Manager
-Corporate Communications Division
-Ministry of Health
-Contact: 6325 8603 / 9797 5067
+Melissa Tan<br>
+Manager<br>
+Corporate Communications Division<br>
+Ministry of Health<br>
+Contact: 6325 8603 / 9797 5067<br>
 Email:  [Melissa_EX_TAN@moh.gov.sg](mailto:Melissa_EX_TAN@moh.gov.sg)
