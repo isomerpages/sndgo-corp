@@ -22,7 +22,7 @@ As part of the national drive towards greater energy efficiency for a more susta
 
 The Energy Market Authority is a statutory board under the Ministry of Trade and Industry. Our main goals are to ensure a reliable and secure energy supply, promote effective competition in the energy market and develop a dynamic energy sector in Singapore. Through our work, the EMA seeks to forge a progressive energy landscape for sustained growth.
 
-Website: [www.ema.gov.sg](https://www.ema.gov.sg/) | Follow us: Instagram: [@EMA_Singapore](https://www.instagram.com/EMA_Singapore/) | Facebook: [facebook.com/EnergyMarketAuthority](https://www.facebook.com/EnergyMarketAuthority) | Twitter: [@EMA_sg](https://twitter.com/EMA_sg)
+Website: [www.ema.gov.sg](https://www.ema.gov.sg/) | Instagram: [@EMA_Singapore](https://www.instagram.com/EMA_Singapore/) | Facebook: [facebook.com/EnergyMarketAuthority](https://www.facebook.com/EnergyMarketAuthority) | Twitter: [@EMA_sg](https://twitter.com/EMA_sg)
 
 **About Smart Nation and Digital Government Office**
 
@@ -46,26 +46,26 @@ For more information, please visit spgroup.com.sg or for follow us on Facebook a
 
 **For media enquiries, please contact:**
 
-Ms Juniper Foo
-Senior Manager, Corporate Communications
-Energy Market Authority
-Tel: 6376 7701
+Ms Juniper Foo</br>
+Senior Manager, Corporate Communications</br>
+Energy Market Authority</br>
+Tel: 6376 7701</br>
 Email: [juniper_foo@ema.gov.sg](mailto:juniper_foo@ema.gov.sg)
 
-Mr Goh Yu Chong
-Senior Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister's Office, Singapore
-Mobile: 9644 1674
+Mr Goh Yu Chong</br>
+Senior Manager, Adoption and Engagement Directorate</br>
+Smart Nation and Digital Government Office, Prime Minister's Office, Singapore</br>
+Mobile: 9644 1674</br>
 Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
 
-Mr Tan Boon Leng
-Senior Manager, Communications and Marketing Group
-Government Technology Agency
-Tel: 6211 0375
+Mr Tan Boon Leng</br>
+Senior Manager, Communications and Marketing Group</br>
+Government Technology Agency</br>
+Tel: 6211 0375</br>
 Email: [TAN_Boon_Leng@tech.gov.sg](mailto:TAN_Boon_Leng@tech.gov.sg)
 
-Mr Andrew Ang
-Deputy Director, Corporate Affairs
-SP Group
-Tel: 6916 8231
+Mr Andrew Ang</br>
+Deputy Director, Corporate Affairs</br>
+SP Group</br>
+Tel: 6916 8231</br>
 Email: [andrewang@spgroup.com.sg](mailto:andrewang@spgroup.com.sg)
