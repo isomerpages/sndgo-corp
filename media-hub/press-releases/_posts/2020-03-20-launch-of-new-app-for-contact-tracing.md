@@ -4,7 +4,7 @@ title: Launch Of New App For Contact Tracing
 permalink: /media-hub/press-releases/launch-of-new-app-for-contact-tracing
 ---
 
-_A community effort to help combat the spread of COVID-19_
+# A community effort to help combat the spread of COVID-19
 
 To help support and supplement current contact tracing efforts, Government Technology Agency (GovTech), in collaboration with the Ministry of Health (MOH), has developed a mobile app called TraceTogether. The app will be launched on 20 March.
 
