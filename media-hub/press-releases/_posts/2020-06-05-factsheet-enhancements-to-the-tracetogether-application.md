@@ -47,18 +47,18 @@ As Singapore eases its circuit breaker measures and allows the resumption of mor
 
 For more information, please visit [tracetogether.gov.sg](https://www.tracetogether.gov.sg/).
 
-#####
+---
 
 **For media enquiries, please contact:**
 
-Goh Yu Chong (Mr)
-Senior Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: 9644 1674
+Goh Yu Chong (Mr)<br>
+Senior Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: 9644 1674<br>
 Email: [Goh_Yu_Chong@pmo.gov.sg](mailto:Goh_Yu_Chong@pmo.gov.sg)
 
-TAN Boon Leng (Mr)
-Senior Manager, Communications and Marketing Group
-GovTech
-Tel: 6211 0375
+TAN Boon Leng (Mr)<br>
+Senior Manager, Communications and Marketing Group<br>
+GovTech<br>
+Tel: 6211 0375<br>
 E-mail:  [TAN_Boon_Leng@tech.gov.sg](mailto:TAN_Boon_Leng@tech.gov.sg)
