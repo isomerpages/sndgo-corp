@@ -29,11 +29,11 @@ As Singapore eases its circuit breaker measures and allows the resumption of mor
 
 10\. The app has also been translated into all four official languages to make it easier for non-English speakers to use. We will also be providing collaterals in multiple languages to help foreign workers who have to download the app as part of Safe Management Measures.
 
-## How is personal data used and safeguarded?**
+## How is personal data used and safeguarded?
 
 11\. The data collected through the TraceTogether app is encrypted and stored locally in the user’s phone for 25 days on a rolling basis. The data will only be transferred from the user’s phone to MOH and accessed by the authorities if the individual is confirmed to be infected with Covid-19, and only a small number of authorised personnel will have access to the data for contact tracing purposes. All public sector data protection rules will apply to the data held by MOH, including abiding by the recommendations of the Public Sector Data Security Review Committee. The data will be purged from MOH’s databases or retained in an anonymised form when it is no longer required for contact-tracing.
 
-## How to participate in TraceTogether**
+## How to participate in TraceTogether
 
 12\. The updated TraceTogether app is available for download from [Google Play](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en) for Android users, and from the [App Store](https://apps.apple.com/us/app/tracetogether/id1498276074) for iOS users.
 
@@ -43,7 +43,7 @@ As Singapore eases its circuit breaker measures and allows the resumption of mor
 
 **Re-onboarding for existing TraceTogether app users**
 
-14. Existing TraceTogether users will receive a notification to update the app if they have not done so, and to provide the additional registration information to continue using the app.
+14\. Existing TraceTogether users will receive a notification to update the app if they have not done so, and to provide the additional registration information to continue using the app.
 
 For more information, please visit [tracetogether.gov.sg](https://www.tracetogether.gov.sg/).
 
@@ -52,21 +52,13 @@ For more information, please visit [tracetogether.gov.sg](https://www.tracetoget
 **For media enquiries, please contact:**
 
 Goh Yu Chong (Mr)
-
 Senior Manager, Adoption and Engagement Directorate
-
 Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-
 Mobile: 9644 1674
-
 Email: [Goh_Yu_Chong@pmo.gov.sg](mailto:Goh_Yu_Chong@pmo.gov.sg)
 
 TAN Boon Leng (Mr)
-
 Senior Manager, Communications and Marketing Group
-
 GovTech
-
 Tel: 6211 0375
-
 E-mail:  [TAN_Boon_Leng@tech.gov.sg](mailto:TAN_Boon_Leng@tech.gov.sg)
