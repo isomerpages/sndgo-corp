@@ -87,14 +87,14 @@ permalink: /media-hub/press-releases/building-a-smart-nation-with-tangible-benef
 
 **For media enquiries, please contact:**
 
-Goh Yu Chong
-Senior Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: 9644 1674
+Goh Yu Chong<br>
+Senior Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: 9644 1674<br>
 Email:  [GOH_Yu_Chong@pmo.gov.sg](mailto:GOH_Yu_Chong@pmo.gov.sg)
 
-Nasrath Hassan
-Deputy Director, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: 9001 0050
+Nasrath Hassan<br>
+Deputy Director, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: 9001 0050<br>
 Email: [Nasrath_HASSAN@pmo.gov.sg](mailto:Nasrath_HASSAN@pmo.gov.sg)
