@@ -54,20 +54,20 @@ For more information, visit [**www.nparks.gov.sg**](http://www.nparks.gov.sg/) a
 
 **For media clarification, please contact:**
 
-TAN Boon Leng (Mr)
-Senior Manager, Communications and Marketing Group
-GovTech
-Tel: +65 6211 0375
-E-mail: TAN_Boon_Leng@tech.gov.sg(mailto:TAN_Boon_Leng@tech.gov.sg)
+TAN Boon Leng (Mr)<br>
+Senior Manager, Communications and Marketing Group<br>
+GovTech<br>
+Tel: +65 6211 0375<br>
+E-mail: [TAN_Boon_Leng@tech.gov.sg](mailto:TAN_Boon_Leng@tech.gov.sg)
 
-GOH Yu Chong (Mr)
-Senior Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: +65 9644 1674
-Email: goh_yu_chong@pmo.gov.sg(mailto:goh_yu_chong@pmo.gov.sg)
+GOH Yu Chong (Mr)<br>
+Senior Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: +65 9644 1674<br>
+Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
 
-Ry-Anne LIM (Ms)
-Manager, Communications and Community Engagement
-National Parks Board
-Mobile : +65 8218 0357
-Email : ry-anne_lim@nparks.gov.sg(mailto:ry-anne_lim@nparks.gov.sg)
+Ry-Anne LIM (Ms)<br>
+Manager, Communications and Community Engagement<br>
+National Parks Board<br>
+Mobile : +65 8218 0357<br>
+Email : [ry-anne_lim@nparks.gov.sg](mailto:ry-anne_lim@nparks.gov.sg)
