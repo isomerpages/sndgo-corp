@@ -16,9 +16,9 @@ Minister-in-Charge of the Smart Nation Initiative Dr Vivian Balakrishnan launche
 
 3\. LifeSG will  offer users more ready access to digital government services through the consolidation of personalised content. The app will include a new user interface with improved navigation, topical guides and the following features. Please refer to  Annex B for screenshots of the revamped app.
 
-  **a. Explore Services –**  Citizens can explore and easily access more than 40 Government services (up from 12 services previously featured on the app). Information displayed is grouped according to topics of interest, such as family and parenting, work and employment, healthcare, housing and property, and other frequently-used digital services. More services will be added progressively. The full list of services available on LifeSG can be found in  Annex C.
+   **a. Explore Services –**  Citizens can explore and easily access more than 40 Government services (up from 12 services previously featured on the app). Information displayed is grouped according to topics of interest, such as family and parenting, work and employment, healthcare, housing and property, and other frequently-used digital services. More services will be added progressively. The full list of services available on LifeSG can be found in  Annex C.
 
-  **b. Personalised Dashboard**  – Citizens can use the dashboard to discover recommended content, access guides that simplify processes such as job & preschool searches and discover government benefits through features such as the Family Support Calculator.
+   **b. Personalised Dashboard**  – Citizens can use the dashboard to discover recommended content, access guides that simplify processes such as job & preschool searches and discover government benefits through features such as the Family Support Calculator.
 
 4\. Upcoming plans will include an improved dashboard to provide citizens with an overview of key personal information such as their CPF, housing, and education details. The app will also include upcoming medical and school appointments, and reminders that prompt users to complete important applications such as birth registration, baby bonus and primary school registration.
 
@@ -36,14 +36,14 @@ Minister-in-Charge of the Smart Nation Initiative Dr Vivian Balakrishnan launche
 
 **For media enquiries, please contact:**
 
-Michelle TAY (Ms)
-Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Tel: 9674 4879
+Michelle TAY (Ms)<br>
+Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Tel: 9674 4879<br>
 Email: [michelle_tay@pmo.gov.sg](mailto:michelle_tay@pmo.gov.sg)
 
-Alexa Lim (Ms)
-Manager, Communications and Marketing Group
-Government Technology Agency
-Tel: 8338 4373
+Alexa Lim (Ms)<br>
+Manager, Communications and Marketing Group<br>
+Government Technology Agency<br>
+Tel: 8338 4373<br>
 E-mail: [alexa_lim@tech.gov.sg](mailto:alexa_lim@tech.gov.sg)
