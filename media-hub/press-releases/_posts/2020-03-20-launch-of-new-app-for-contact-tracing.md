@@ -43,7 +43,9 @@ To help support and supplement current contact tracing efforts, Government Techn
 
 **QR CODE TO DOWNLOAD:**
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="flex:50%"><img alt="trace together qr code for app download" src="/files/press-releases/2020/QR-code-TT-20-mar-2020.jpeg"></div></div>
+<div style="width:30%"> 
+<img src="/files/press-releases/2020/QR-code-TT-20-mar-2020.jpeg" alt="trace together qr code for app download" style="width:30%">
+</div>
  
 **Resources:**
 
@@ -51,7 +53,7 @@ To help support and supplement current contact tracing efforts, Government Techn
 
 [Media Factsheet (pdf - 470kb)](/files/press-releases/2020/sndgg-tracetogether-media-factsheet-20-mar-20.pdf)
 
-[TraceTogether Infographic](/files/press-releases/2020/tracetogether-infographic-20-mar-2020.jpeg)
+[TraceTogether Infographic (jpg - 7.6mb)](/files/press-releases/2020/tracetogether-infographic-20-mar-2020.jpeg)
 
 ---
 
