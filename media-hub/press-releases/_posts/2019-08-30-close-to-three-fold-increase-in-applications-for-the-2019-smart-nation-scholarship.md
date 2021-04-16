@@ -54,16 +54,16 @@ Tel: +65 6955 0275<br>
 Email:  [Julie_tai@csa.gov.sg](mailto:Julie_tai@csa.gov.sg)  
   
 
-_GovTech_
+_GovTech_<br>
 Nicolette OH (Ms)<br>
 Communications and Marketing Group<br>
 Government Technology Agency<br>
 Tel: +65 6211 1674<br>
 Email:  [Nicolette_Oh@tech.gov.sg](mailto:Nicolette_Oh@tech.gov.sg)
 
-_IMDA_
-Eu Wen NG (Mr)<br>  
-Communications and Marketing<br>  
-Infocomm Media Development Authority<br>  
-Tel: +65 67512819<br>  
+_IMDA_<br>
+Eu Wen NG (Mr)<br>
+Communications and Marketing<br>
+Infocomm Media Development Authority<br>
+Tel: +65 67512819<br>
 Email:  [Ng_Eu_Wen@imda.gov.sg](mailto:Ng_Eu_Wen@imda.gov.sg)
