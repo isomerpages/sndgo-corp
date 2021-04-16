@@ -42,9 +42,7 @@ The PDD exhibition will be opened to the public on the following dates. Admissio
 **Waterway Point**
 
 Village Square, Level 1, Waterway Point, 83 Punggol Central, Singapore 828761
-
 17 to 19 January 2020, 10 am – 9 pm daily
-
 For more information on PDD, please visit [estates.jtc.gov.sg/pdd](http://estates.jtc.gov.sg/pdd)
 
 ---
