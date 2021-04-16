@@ -36,14 +36,14 @@ Barcelona – Singapore outlined plans, today, to establish itself as a global h
 
 **For media enquiries, please contact:**
 
-Goh Yu Chong
-Senior Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: +65 9644 1674
+Goh Yu Chong<br>
+Senior Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: +65 9644 1674<br>
 Email: [GOH_Yu_Chong@pmo.gov.sg](mailto:GOH_Yu_Chong@pmo.gov.sg)
 
-Mr Terry Lim
-Assistant Director, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: +65 9744 2385
+Mr Terry Lim<br>
+Assistant Director, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: +65 9744 2385<br>
 Email:  [Terry_Lim@pmo.gov.sg](mailto:Terry_Lim@pmo.gov.sg)
