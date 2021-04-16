@@ -46,7 +46,7 @@ permalink: /media-hub/press-releases/completion-of-public-sector-data-security-r
 
 9\. Mr Ho Wah Lee, Former KPMG Partner, said, “Taking into account the evolving data security risks and the need to share data effectively and securely within the public sector, we have worked closely with the Government to identify areas that can be improved upon, and taken immediate steps to reduce data risks, protect the public’s data better and strengthen the data security regime. With the recommended enhancements to the audit frameworks, the Government should be able to prevent, detect and respond swiftly and effectively to data incidents.”
 
-**PUBLIC SECTOR DATA SECURITY REVIEW COMMITTEE**
+**PUBLIC SECTOR DATA SECURITY REVIEW COMMITTEE**<br>
 **27 NOVEMBER 2019**
 
 **Enclosed:**
@@ -61,16 +61,16 @@ d. **[PSDSRC Infographic (pdf - 500kb)](/files/abt-smart-nation/psdsrc-infograph
 
 **For media enquiries, please contact:**
 
-Ms Nasrath Hassan
-Senior Assistant Director, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: 9001 0050
+Ms Nasrath Hassan<br>
+Senior Assistant Director, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: 9001 0050<br>
 Email: [Nasrath_HASSAN@pmo.gov.sg](mailto:Nasrath_HASSAN@pmo.gov.sg)
 
-Mr Goh Yu Chong
-Senior Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: 9644 1674
+Mr Goh Yu Chong<br>
+Senior Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: 9644 1674<br>
 Email: [Goh_Yu_Chong@pmo.gov.sg](mailto:Goh_Yu_Chong@pmo.gov.sg)
 
 **About the Public Sector Data Security Review Committee**
