@@ -22,7 +22,7 @@ Data is the lifeblood of the digital economy and a digital government. Matters r
 
 More information on the [recommendations of the Public Sector Data Security Review Committee can be found here](/media-hub/press-releases/completion-of-public-sector-data-security-review-to-secure-and-protect-citizens-data)
 
-Quek Su Lynn
-Director, Government Data Office
-Smart Nation and Digital Government Office
+Quek Su Lynn<br>
+Director, Government Data Office<br>
+Smart Nation and Digital Government Office<br>
 Prime Minister’s Office
