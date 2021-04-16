@@ -30,19 +30,19 @@ permalink: /media-hub/press-releases/national-artificial-intelligence-strategy-u
 
 5\. The National AI strategy also outlines the development of five key enablers to anchor a vibrant and sustainable AI ecosystem, and drive AI innovation and adoption across the economy.
 
-  1. _Triple Helix Partnership between the Research Community, Industry and Government_<br>
+  a. _Triple Helix Partnership between the Research Community, Industry and Government_<br>
   Singapore will strengthen partnerships and the collective capabilities between the research community, industry, and Government to accelerate the deployment and commercialisation of AI solutions. This will build on existing AI R&D capabilities in our research landscape, and an existing S$500 million investment to further AI research, innovation and enterprise under the Research, Innovation and Enterprise 2020 Plan.
     
-  2. _AI Talent and Education_<br>
+  b. _AI Talent and Education_<br>
   We will prepare Singaporeans in the relevant multidisciplinary skills to take on high-quality AI jobs; and apply AI solutions to their respective domains. We will also plug into the global flow of ideas and talent to drive technological development.
     
-  3. _Data Architecture_<br>
+  c. _Data Architecture_<br>
   We will strengthen the collective ability of the public and private sector to manage and exchange data in a secure manner, so that AI algorithms may have good access to high quality datasets for training and testing.
     
-  4. _Progressive and Trusted Environment_<br>
+  d. _Progressive and Trusted Environment_<br>
   We will proactively address issues related to risk brought about by AI technologies, including through the Advisory Council on the Ethical Use of AI and Data and the Model AI Governance Framework. This builds on the trust that citizens and consumers have of the Government and the private sector to use AI in a responsible, secure manner for societal benefit.
     
-  5. _International Collaboration_<br>
+  e. _International Collaboration_<br>
   Singapore aims to learn from companies and jurisdictions across the world, on the effective deployment of AI. We aim to be an attractor of good ideas; and particularly for the National AI projects, to be a venue that can nimbly adapt, test and deploy such ideas as real-life solutions. We also aim to contribute as a thought leader in setting AI-related policies and standards, by working closely with key international organisations and standard-setting organisations.
 
 ## National AI Office
@@ -57,14 +57,14 @@ Factsheet: [Expert Views on National AI Strategy (pdf - 450kb)](/files/press-rel
 
 **For media enquiries please contact:**
 
-Goh Yu Chong
-Senior Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: 9644 1674
+Goh Yu Chong<br>
+Senior Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: 9644 1674<br>
 Email: [GOH_Yu_Chong@pmo.gov.sg](mailto:GOH_Yu_Chong@pmo.gov.sg)
 
-Nasrath Hassan
-Senior Assistant Director, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: 9001 0050
+Nasrath Hassan<br>
+Senior Assistant Director, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: 9001 0050<br>
 Email: [Nasrath_HASSAN@pmo.gov.sg](mailto:Nasrath_HASSAN@pmo.gov.sg)
