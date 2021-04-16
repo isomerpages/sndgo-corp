@@ -30,7 +30,7 @@ Barcelona – Singapore outlined plans, today, to establish itself as a global h
 
 9\.  Singapore has established a National AI Office to drive the national AI agenda and to catalyse efforts across research, industry and government stakeholders to work on identified areas of priorities.
 
-10\. For more information on Singapore’s [National AI Strategy, visit this page](/abt-smart-nation/artificial-intelligence)
+10\. For more information on Singapore’s [National AI Strategy, please visit this page](/abt-smart-nation/artificial-intelligence).
 
 ---
 
