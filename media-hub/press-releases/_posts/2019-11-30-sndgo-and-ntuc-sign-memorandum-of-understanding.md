@@ -38,14 +38,14 @@ Enclosed:
 
 **For media enquiries, please contact:**
 
-Goh Yu Chong
-Senior Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: 9644 1674
+Goh Yu Chong<br>
+Senior Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: 9644 1674<br>
 Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
 
-Vimala Krishnan
-Principal Consultant, Strategic Communications
-National Trades Union Congress
-Mobile: 9850 2786
+Vimala Krishnan<br>
+Principal Consultant, Strategic Communications<br>
+National Trades Union Congress<br>
+Mobile: 9850 2786<br>
 Email: [vimala_krishnan@ntuc.org.sg](mailto:vimala_krishnan@ntuc.org.sg)
