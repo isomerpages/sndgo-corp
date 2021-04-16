@@ -20,7 +20,7 @@ There is a different set of rules for data management for the public sector to e
 
 Data is the lifeblood of the digital economy and a digital government. Matters related to data management and data protection need to be clearly explained so that the public may better appreciate the issues.
 
-More information on the recommendations of the Public Sector Data Security Review Committee can be found here: XXXX (https://www.smartnation.gov.sg/whats-new/press-releases/completion-of-public-sector-data-security-review--to-secure-and-protect-citizens-data)XXXX
+More information on the [recommendations of the Public Sector Data Security Review Committee can be found here](/media-hub/press-releases/completion-of-public-sector-data-security-review-to-secure-and-protect-citizens-data)
 
 Quek Su Lynn
 Director, Government Data Office
