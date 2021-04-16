@@ -43,4 +43,4 @@ Melvin Tai<br>
 Assistant Director, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
 Mobile: 9789 1824<br>
-Email: Melvin_TAI@pmo.gov.sg(mailto:Melvin_TAI@pmo.gov.sg)
+Email: [Melvin_TAI@pmo.gov.sg](mailto:Melvin_TAI@pmo.gov.sg)
