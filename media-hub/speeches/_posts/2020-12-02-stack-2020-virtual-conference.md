@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  Opening Remarks for Stack 2020 Virtual Conference
-permalink: /media-hub/speeches/opening-remarks-for-stack-2020-virtual-conference
+title:  STACK 2020 Virtual Conference
+permalink: /media-hub/speeches/stack-2020-virtual-conference
 --- 
 
-# Guest-Of-Honour Dr Vivian Balakrishnan Minister For Foreign Affairs And Minister-in-Charge Of The Smart Nation Initiative
+# Opening Remarks Stack 2020 Virtual Conference By Guest-Of-Honour Dr Vivian Balakrishnan Minister For Foreign Affairs And Minister-in-Charge Of The Smart Nation Initiative
 
 1\. Good morning, good afternoon and good evening depending on where you are. I am delighted to join all of you for STACK 2020.  
   
 2\. The theme for this year’s conference is “Ready. Get STACK. Level Up.”. Simply put, it means get ready for the future, stacking up on our skills and to level up to the competition.  
   
-## Redefining the New Normal  
+## Redefining the New Normal
+
 3\. COVID-19 has certainly upended our lives and disrupted the global economy – over the past year certainly, and quite frankly, for some more time to come. We have had to quickly reduce physical contact. We have had to learn to work remotely and to collaborate in new ways. That is why Cheow Hoe and I are addressing you today from a green room. At a more fundamental level, COVID-19 may be the headline today but is not the primary driving force changing our world. In fact, it is a catalyst. It is an iconic inflection point for much deeper tectonic forces that are sweeping across our world.  
   
 4\. It is the digital revolution - the advent of pervasive computing, the Internet, broadband and mobile connectivity, cloud computing, big data, AI and robotics. The fact that today, we have got computers that are capable of vision, hearing and speaking, and of course social media that is disrupting globalization, industrialisation, society and politics everywhere - this is the big tsunami.  
