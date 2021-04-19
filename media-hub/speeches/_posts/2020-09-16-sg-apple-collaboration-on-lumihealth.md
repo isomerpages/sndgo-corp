@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  DPM Heng on the Announcement of the SG-Apple Collaboration on LumiHealth
-permalink: /media-hub/speeches/dpm-heng-on-the-announcement-of-the-sg-apple-collaboration-on-lumihealth
+title:  SG-Apple Collaboration on Lumi
+permalink: /media-hub/speeches/sg-apple-collaboration-on-lumihealth-2020
 --- 
+
+# DPM Heng on the Announcement of the SG-Apple Collaboration on Lumi
 
 Around the world, countries are grappling with COVID-19. Digital technology is playing a key role in safeguarding our people. The use of the TraceTogether app in Singapore to support contact tracing is one example.  
   
