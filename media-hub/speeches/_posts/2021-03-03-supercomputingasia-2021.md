@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  Opening Address by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative at SupercomputingAsia 2021
-permalink: /media-hub/speeches/opening-address-by-dr-vivian-balakrishnan-at-supercomputingasia-2021
+title:  SupercomputingAsia 2021
+permalink: /media-hub/speeches/supercomputingasia-2021
 --- 
+
+# Opening Address by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative at SupercomputingAsia 2021
 
 Chairman of the NSCC Steering Committee Mr. Peter Ho
 
