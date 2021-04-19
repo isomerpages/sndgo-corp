@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Opening Address by Deputy Prime Minister Heng Swee Keat for Smart Nation & U at Smart Nation Cityscape@URA Centre on 11 March 2021
-permalink: /media-hub/press-releases/opening-address-by-deputy-prime-minister-heng-swee-keat-for-smart-nation-and-u-2021
+permalink: /media-hub/speeches/opening-address-by-deputy-prime-minister-heng-swee-keat-for-smart-nation-and-u-2021
 ---
 
 Dr Vivian Balakrishnan, Minister-in-charge of the Smart Nation Initiative
