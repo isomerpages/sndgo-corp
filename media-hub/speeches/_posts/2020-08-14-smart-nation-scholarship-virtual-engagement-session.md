@@ -4,7 +4,7 @@ title: Smart Nation Scholarship Virtual Engagement Session 2020
 permalink: /media-hub/speeches/smart-nation-scholarship-virtual-engagement-session-2020
 ---
 
-# Congratulatory Speech By Guest-Of-Honour Dr Vivian Balakrishnan Minister-in-Charge Of The Smart Nation Initiative At The Smart Nation Scholarship Virtual Engagement Session![image](https://user-images.githubusercontent.com/70688276/115202091-9aa1f080-a128-11eb-88ab-3f9db02303c0.png)
+# Congratulatory Speech By Guest-Of-Honour Dr Vivian Balakrishnan Minister-in-Charge Of The Smart Nation Initiative At The Smart Nation Scholarship Virtual Engagement Session
 
 Permanent Secretaries (MCI and SNDG),
 
