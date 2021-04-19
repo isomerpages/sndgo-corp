@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security
-permalink: /media-hub/speeches/written-answer-by-mr-teo-chee-hean-senior-minister-26feb2021
+title:  Parliamentary Sitting On 26 February 2021
+permalink: /media-hub/speeches/parliamentary-sitting-26-feb-2021.md
 --- 
 
 # Fourteenth Parliament Of Singapore – First Session For The Sitting On 26 February 2021
