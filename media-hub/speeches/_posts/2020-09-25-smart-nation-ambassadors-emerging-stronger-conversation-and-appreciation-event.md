@@ -39,7 +39,11 @@ Welcome to our first Smart Nation Ambassadors Emerging Stronger Conversation and
   * Jamberi is a Mendaki Digital Guide who volunteers with six other organisations, including Smart Nation. This is on top of his work commitments and grandparenting duties. Even though he says he is not an expert about tech, he feels it is important to help others “go digital”. To do that, he took it upon himself to learn about the apps he was entrusted to teach. You would have seen him at most of our roadshows, and more recently at the Marsiling Wet market -- teaching apps, and helping others with the trial of the new SafeEntry technology.  
   * Mohd Saiful is a father of three young children and a former primary school ICT trainer. I met him at the Digital Inclusion Festival last year and he shared, in his own words, his conviction in making sure everyone, whether young or old, could learn digital skills so that they could benefit from technology. Saiful is a volunteer lead at many of our Smart Nation events. He has also participated in media interviews to inspire others to be part of our Smart Nation journey.  
   
-Please watch this [video](https://www.youtube.com/watch?v=sY__ajCgMnk&). It will give you a chance to get to know our Star Ambassadors better. I would like to credit the production of this clip to our SNAs at Singapore Polytechnic! Our SNAs are truly multi-talented and have brought a myriad of skills and talents to the Smart Nation effort.  
+Please watch this video. It will give you a chance to get to know our Star Ambassadors better. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sY__ajCgMnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I would like to credit the production of this clip to our SNAs at Singapore Polytechnic! Our SNAs are truly multi-talented and have brought a myriad of skills and talents to the Smart Nation effort.  
   
 ### Growing Smart Nation Ambassadors and Building new capabilities  
   
