@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  Opening Address By Dr Vivian Balakrishnan Minister-In-Charge Of The Smart Nation Initiative At Geo Connect Asia 2021
-permalink: /media-hub/speeches/opening-address-by-dr-vivian-balakrishnan-minister-in-charge-of-the-smart-nation-initiative-at-geo-connect-asia-2021
+title:  Geo Connect Asia 2021
+permalink: /media-hub/speeches/geo-connect-asia-2021
 ---
+
+# Opening Address By Dr Vivian Balakrishnan Minister-In-Charge Of The Smart Nation Initiative At Geo Connect Asia 2021
 
 ## Introduction
 
