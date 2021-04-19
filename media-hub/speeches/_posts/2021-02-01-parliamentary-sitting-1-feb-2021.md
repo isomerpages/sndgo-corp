@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security
-permalink: /media-hub/speeches/written-answer-by-mr-teo-chee-hean-senior-minister-1feb2021
+title:  Parliamentary Sitting On 1 February 2021
+permalink: /media-hub/speeches/parliamentary-sitting-1-feb-2021
 --- 
 
-## Fourteenth Parliament Of Singapore – First Session For The Sitting On 1 February 2021
+# Fourteenth Parliament Of Singapore – First Session For The Sitting On 1 February 2021
 
-*Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security*
+## Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security
 
 1.  SafeEntry is currently mandatory at venues that have high visitorship, or have high transmission risk. We intend to implement TraceTogether-only SafeEntry at these venues. This will require businesses to allow check-ins with either the TraceTogether app or token. Members of the Public can refer to the SafeEntry website for the categories of venues where SafeEntry is currently mandatory.
 
