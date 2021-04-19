@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Oral Reply by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs
-permalink: /media-hub/speeches/oral-reply-by-dr-vivian-balakrishnan--minister-in-charge-of-the-smart-nation-initiative-4Jan2021
+title:  Parliamentary Sitting On 4 January 2021
+permalink: /media-hub/speeches/parliamentary-sitting-4-jan-2021
 --- 
 
 # Fourteenth Parliament Of Singapore – First Session For The Sitting On 4 January 2021
 
-*Oral Reply by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs*
+## Oral Reply by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs
 
 We  are committed to building an inclusive Smart Nation, one where nobody is digitally excluded.
 
