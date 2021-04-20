@@ -1,0 +1,15 @@
+collections:
+  community:
+    output: true
+    order:
+      - smartnationtogether/.keep
+      - smartnationtogether/smartnationtogether-overview.md
+      - smartnationtogether/children-youths-and-young-parents.md
+      - smartnationtogether/working-adults.md
+      - smartnationtogether/seniors.md
+      - smart-nation-ambassadors/.keep
+      - smart-nation-ambassadors/smart-nation-ambassadors.md
+      - smart-nation-ambassadors/smart-nation-ambassadors-faqs.md
+      - contribute-to-smart-nation.md
+      - supporting-the-community.md
+      - apps-for-you.md
