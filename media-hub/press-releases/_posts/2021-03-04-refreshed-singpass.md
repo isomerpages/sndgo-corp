@@ -14,7 +14,7 @@ The Government Technology Agency (GovTech) today announced the refreshed Singpas
 
 **A new look for an improved Singpass**
 
-![Singpass-logo-2021](/images/media-hub/press-release/2021/Singpass-logo-2021.png)
+![Singpass-logo-2021](/images/media-hub/press-release/Singpass-logo-2021.png)
 
 4 The new Singpass logo features a logomark ‘i’ that represents both a human silhouette and keyhole, reflecting the Government’s twin focus to provide citizen-centric digital services while ensuring security and trust in our national digital identity platform. The logo retains Singpass’ iconic red and black colours with a modern typeface. It signifies the continuity of Singpass services to meet the needs of residents and businesses in an increasingly digitalised society. The new logo will be updated on the Singpass website and app from 7 March 2021. At the heart of this rebrand is to deliver “_an even better Singpass_” that offers new features and provides convenient access to a larger range of services.
 
