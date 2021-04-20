@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Government’s Key Data Security Policies - November 2020
+title:  "Government’s Key Data Security Policies - November 2020"
 permalink: /media-hub/publications/governments-key-data-security-policies-nov2020
 ---
 
