@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  PA And SNDGO Collaborate To Accelerate Citizens’ Appreciation And Understanding Of Smart Nation Policies And Development
+title:  "PA And SNDGO Collaborate To Accelerate Citizens’ Appreciation And Understanding Of Smart Nation Policies And Development"
 permalink: /media-hub/press-releases/pa-and-sndgo-collaborate-to-accelerate-citizens-appreciation
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Passion To Contribute To Singapore’s Digital Future Drives Growth In Smart Nation Scholarship
+title:  "Passion To Contribute To Singapore’s Digital Future Drives Growth In Smart Nation Scholarship"
 permalink: /media-hub/press-releases/passion-to-contribute-to-singapores-digital-future-drives-growth-in-smart-nation-scholarship
 ---
 
