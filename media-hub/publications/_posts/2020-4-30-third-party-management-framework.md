@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Government’s Third-Party Management Framework - 30 April 2020
+title:  "Government’s Third-Party Management Framework - 30 April 2020"
 permalink: /media-hub/publications/third-party-management-framework-apr2020
 ---
 
