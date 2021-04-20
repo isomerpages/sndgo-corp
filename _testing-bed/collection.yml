@@ -1,0 +1,11 @@
+collections:
+  testing-bed:
+    output: false
+    order:
+      - our-journey.md
+      - our-accordion.md
+      - our-smart-nation-milestones.md
+      - faq-new.md
+      - apps-for-you.md
+      - our-stories.md
+      - text-on-image-sample.md
