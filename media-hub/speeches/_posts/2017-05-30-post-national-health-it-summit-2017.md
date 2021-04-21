@@ -1,7 +1,7 @@
 ---
 title: National Health IT Summit 2017
 date: 2017-05-30
-permalink: /speeches/national-health-it-summit-2017
+permalink: /media-hub/speeches/national-health-it-summit-2017
 ---
 
 # Speech by Mr Gan Kim Yong, Minister for Health, at the National Health IT Summit 2017
