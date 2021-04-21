@@ -39,7 +39,7 @@ sections:
         features and a better user experience!
       button: Learn more
       url: /initiatives/strategic-national-projects/lifesg-initiative
-      image: /undefined
+      image: /images/initiatives/lifesg-kv.jpg
       alt: "LifeSG app "
   - resources:
       title: Media Hub
