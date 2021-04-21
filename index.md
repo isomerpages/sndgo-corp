@@ -32,6 +32,7 @@ sections:
       button: Find out more
       url: https://token.gowhere.gov.sg/
       alt: TraceTogether token
+      image: /images/TT-token.jpeg
   - infopic:
       title: LifeSG App
       description: LifeSG is the enhanced version of the Moments of Life App, with new
