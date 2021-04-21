@@ -10,8 +10,7 @@ permalink: /media-hub/speeches/iot-asia-conference-and-exhibition-2019
 
 2. Let me begin by surveying some broad trends, that will also set in context why we are here and why this is such an exciting area.
 
-**to check which is the correct image**
-![Pathway to progress](/images/media-hub/speeches/pathway-to-progress.jpeg)
+![Ongoing revoluntion: Pathway to progress](/images/media-hub/speeches/iot-asia-2019-minister-vivian-speech-slide-1.jpeg)
 
 3. The first trend is that Moore’s law has dramatically lowered the cost of computing. In fact, the cheapest smartphone today, which would be less than a $100, has hundreds of millions times more power than the mainframe computer that was used for the Apollo lunar missions. Just think about that. And it is a fraction of the cost, and the cost is coming down.
 
@@ -19,8 +18,7 @@ permalink: /media-hub/speeches/iot-asia-conference-and-exhibition-2019
 
 5. The third trend is Metcalfe’s Law, that the value of that network increases by the square of the number of nodes. Which basically means, the more connections, the more nodes we have on the network, the value of the network increases exponentially by the square of the number of nodes.
 
-**to check which is the correct image**
-![Pathway to progress](/images/media-hub/speeches/pathway-to-progress.jpeg)
+![Ongoing revoluntion: Pathway to progress](/images/media-hub/speeches/iot-asia-2019-minister-vivian-speech-slide-2.jpeg)
 
 6. The fourth trend, Varian’s law is that precious and paid digital services are being created by an infinite permutation of essentially free open source software components. And it is the way these permutations are worked out that generates competitive advantage and value for you.
 
@@ -40,8 +38,7 @@ permalink: /media-hub/speeches/iot-asia-conference-and-exhibition-2019
 
 14. Today, we are using IoT to build more intelligent data centres in Singapore. For people who don’t know, data centres is one of the big secret growth stories in Singapore. The point where we almost got to start worrying about, is the proportion of electricity that is being consumed in Singapore by data centres. The Infocomm Media Development Authority of Singapore (IMDA) is working with the National Supercomputing Centre of Singapore to optimise the data centre’s energy consumption through the use of IoT, Big Data, and Machine Learning. And we have developed intelligent sensing technology to monitor the health of the data centres, monitor its energy consumption, optimise its operations, and enhance its reliability. This again, is to enhance our value proposition to this growing field of data centres.
 
-**to check which is the correct image**
-![Pathway to progress](/images/media-hub/speeches/pathway-to-progress.jpeg)
+![Ongoing revoluntion: Pathway to progress](/images/media-hub/speeches/iot-asia-2019-minister-vivian-speech-slide-3.jpeg)
 
 15. Let me give you another example. Infineon technologies, a German semiconductor firm, is investing heavily to develop a ‘smart factory’ at its Singapore manufacturing plant. With this, previously error-prone manual tasks can be automated, and workers can be channelled to higher value-added activities. Infineon also plans to use automated decision-making for scheduling and dispatching, as well as automated guided vehicles to transport chips and materials more safely and efficiently. Their expectation is that this will enable them to increase output by up to four times.
 
@@ -57,8 +54,7 @@ permalink: /media-hub/speeches/iot-asia-conference-and-exhibition-2019
 
 21. Last year, I shared about smart lamp posts, another of our strategic national projects – the Smart Nation Sensor Platform, which aims to accelerate the development and deployment of sensors and other IoT devices in order to provide tech solutions that would address real-world problems. Let me give you some examples.
 
-**to check which is the correct image**
-![Pathway to progress](/images/media-hub/speeches/pathway-to-progress.jpeg)
+![Ongoing revoluntion: Pathway to progress](/images/media-hub/speeches/iot-asia-2019-minister-vivian-speech-slide-4.jpeg)
 
 22. We are implementing a drowning detection system across 28 of our public community swimming pools next year. Now, having a smart system recognise people is not going to replace a lifeguard, but it gives our lifeguards extra eyes and ears, and it gives potential victims a few extra precious seconds or minutes, which makes the difference between life or death.
 
@@ -78,8 +74,7 @@ permalink: /media-hub/speeches/iot-asia-conference-and-exhibition-2019
 
 30. Our Ministry of Manpower has issued a Workplace Safety and Health Technology Challenge for our public agencies and tech companies to co-create solutions that would enhance safety and healthcare for our workers. Today, two local companies are test-bedding a fatigue detection and management device for vehicle drivers. It uses sensors and image processing technology that can detect fatigue by tracking micro-movements of a driver’s head, eyes, eyelids, and facial expressions. Sometimes I think you need to do the same thing for speakers in Parliament, and publicly. Because speakers and drivers who manifest signs of fatigue need to be reminded, need to be gently prodded, need to maintain a level of alertness for the purposes of ensuring safety. This system has led to a 93% fewer fatigue episodes detected when compared to the baseline for drivers. This is something which eventually will have to be rolled out almost universally. The point here is that these collaborative platforms allow us to learn from each other, identify gaps, identify pain points and unnecessary hurdles, and to build new products with real value.
 
-**to check which is the correct image**
-![Pathway to progress](/images/media-hub/speeches/pathway-to-progress.jpeg)
+![Ongoing revoluntion: Pathway to progress](/images/media-hub/speeches/iot-asia-2019-minister-vivian-speech-slide-5.jpeg)
 
 31. But beyond the tech and business community, we must also engage citizens to create value. We are bringing out early prototypes of our solutions to citizens through co-creation platforms like SCOPE – which stands for Smart Nation Co-Creating with our People Everywhere. In Singapore, we love acronyms. For example, we tested the Personal Alert Button, which is basically an easily deployable elderly help button system that can replace the current pull cord system for our elderly who may have been immobilised by a fall at home and they need urgently to call for help. We have also brought some prototypes to SCOPE and encouraged users – many of them seniors - to test out these systems, because in the end you can come up with what you think is a great idea, but does it work in real life, and will a senior be comfortable using this, and will it actually make a difference.
 
