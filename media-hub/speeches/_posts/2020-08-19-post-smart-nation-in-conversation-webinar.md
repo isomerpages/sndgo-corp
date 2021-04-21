@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Smart Nation In Conversation Webinar
+title:  Smart Nation In Conversation Webinar - 19 August 2020
 permalink: /media-hub/speeches/smart-nation-in-conversation-webinar-19-aug-2020
 --- 
 
