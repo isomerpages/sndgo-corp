@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Smart Nation Ambassadors Emerging Stronger Conversation And Appreciation Event
-permalink: /media-hub/speeches/smart-nation-ambassadors-emerging-stronger-conversation-and-appreciation-event-on-25-september-2020
+title:  Smart Nation Ambassadors Emerging Stronger Conversation And Appreciation Event on 25 September 2020
+permalink: /media-hub/speeches/smart-nation-ambassadors-emerging-stronger-conversation-and-appreciation-event-2020
 --- 
 
 # Remarks by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative at Smart Nation Ambassadors Emerging Stronger Conversation and Appreciation Event
