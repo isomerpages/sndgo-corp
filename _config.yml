@@ -1,55 +1,49 @@
 title: Smart Nation Singapore
-url: "https://www.smartnation.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.smartnation.gov.sg/
 favicon: /images/favicon-isomer.ico
-
 colors:
-    primary-color: '#ed1a3b'
-    secondary-color: '#1a5ded'
-    media-colors: 
-        - title: media-color-one 
-          color: '#678a00' 
-        - title: media-color-two 
-          color: '#FF6633' 
-        - title: media-color-three 
-          color: '#00B5E2'
-        - title: media-color-four 
-          color: '#CC3366'
-        - title: media-color-five 
-          color: '#0180a0'
-
+  primary-color: "#ed1a3b"
+  secondary-color: "#1a5ded"
+  media-colors:
+    - title: media-color-one
+      color: "#678a00"
+    - title: media-color-two
+      color: "#FF6633"
+    - title: media-color-three
+      color: "#00B5E2"
+    - title: media-color-four
+      color: "#CC3366"
+    - title: media-color-five
+      color: "#0180a0"
 resources_name: media-hub
-#  why-smart-nation:
-#    output: true
-#  what-is-smart-nation:
-#    output: true
-#  how-to-be-involved:
-#    output: true
-#resources_name: whats-new
-#  business:
-#    output: true
-#  report-data-incident:
-#    output: true
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
-
 staging: https://smartnationsg-staging.netlify.app
 prod: https://smartnationsg-prod.netlify.app
 plugins:
@@ -58,3 +52,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+is_government: true
