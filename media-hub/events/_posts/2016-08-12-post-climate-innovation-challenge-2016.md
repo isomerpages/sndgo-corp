@@ -10,4 +10,4 @@ permalink: /media-hub/events/climate-innovation-2016
 | Location   |**JTC LaunchPad @ one-north**  | 
 
 *Description*
-"Part of the National Infocomm Competition (NIC), [i.code] 2016 is a platform for Secondary School students to develop mobile applications on smart devices. This year's theme, "I Code To Build" aligns with the Smart Nation vision - to harness technology towards improving the lives of citizens, creating more opportunities, and building stronger communities.
+Organised by the Building and Construction Authority, JTC Corporation and National Climate Change Secretariat, the 3-day hackathon focuses on developing innovative, cost-effective green solutions that safeguard our environment.
