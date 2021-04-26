@@ -7,13 +7,14 @@ permalink: /media-hub/events/tech-factor-challenge-2016
 
 <table style="width:100%">
   <tr>
-    <td style="width:30%">
+    <td style="width:20%">
      Event Date
     </td>	
-    <td style="width:70%">
-			<b>01 Sep 2016 - 28 Sep 2017</b>
-		</td>
-	</tr>
+    <td style="width:80%">
+     <b>1 Sep 2016 - 28 Sep 2017</b>
+     </td>	
+  </tr>
+</table>
 
 *Event Details*<br>
 ST Electronics' Tech Factor Challenge seeks to address today's challenges through a technology competition. Open to tertiary students and start-ups, participants can choose from 2 challenge categories, "mobility" and "Smart H2 (Home & Health)", to design and develop technologies to help our elders Age-in-Place. Registration and project proposal submission begins 1 Sep and ends on 10 Oct.
