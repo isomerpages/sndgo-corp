@@ -7,12 +7,8 @@ permalink: /media-hub/events/world-smart-city-forum-2016
 
 <table style="width:100%">
   <tr>
-    <td style="width:20%">
-     Event Date
-    </td>	
-    <td style="width:80%">
-     <b>13 Jul 2016</b>
-     </td>	
+    <td style="width:20%">Event Date</td>	
+    <td style="width:80%">13 Jul 2016</td>	
   </tr>
   <tr>
 	<td>Location</td>
