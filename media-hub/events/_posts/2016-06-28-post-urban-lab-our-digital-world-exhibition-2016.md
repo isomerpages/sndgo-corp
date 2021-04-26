@@ -7,12 +7,8 @@ permalink: /media-hub/events/urban-lab-2016
 
 <table style="width:100%">
   <tr>
-    <td style="width:20%">
-     Event Date
-    </td>	
-    <td style="width:80%">
-     <b>28 Jun - 17 Sep 2016</b>
-     </td>	
+    <td style="width:20%">Event Date</td>	
+    <td style="width:80%">28 Jun - 17 Sep 2016</td>	
   </tr>
   <tr>
 	<td>Location</td>
