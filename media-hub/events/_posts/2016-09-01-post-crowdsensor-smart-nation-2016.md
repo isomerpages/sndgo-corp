@@ -7,12 +7,8 @@ permalink: /media-hub/events/crowdsensor-smart-nation-2016
 
 <table style="width:100%">
   <tr>
-    <td style="width:20%">
-     Event Date
-    </td>	
-    <td style="width:80%">
-     <b>1 - 15 Sep 2016</b>
-     </td>	
+    <td style="width:20%">Event Date</td>	
+    <td style="width:80%">1 - 15 Sep 2016</td>	
   </tr>
 </table>
 
