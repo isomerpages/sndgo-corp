@@ -18,6 +18,7 @@ permalink: /media-hub/events/wsa-2016
 	<td>Location</td>
 	<td>Hotel Parkroyal on Beach Road</td>	
   </tr>
+</table>	
 
 *Event Details*<br>
 The WSA Congress Singapore 2016 recognises the part that digital innovation plays in creating sustainable social change and impact world-wide. The event focuses discussions on how social innovation and entrepreneurship can be encouraged and play a key role to have a sustainable impact on society.
