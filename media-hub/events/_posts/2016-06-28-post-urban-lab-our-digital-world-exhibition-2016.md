@@ -11,5 +11,5 @@ permalink: /media-hub/events/urban-lab-2016
 | -------- | -------- |
 | Location   |**URA Centre Atrium**  | 
 
-*Description*
+*Description*<br>
 The fourth edition of the Urban Lab exhibition series by the Urban Redevelopment Authority (URA), ‘Our Digital World’ exhibition explores how government, academia, industry and the public make use of data, innovative analytics and modelling technology to enhance planning processes to better meet people’s needs.
