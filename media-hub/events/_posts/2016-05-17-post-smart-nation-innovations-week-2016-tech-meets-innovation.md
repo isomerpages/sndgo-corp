@@ -7,12 +7,8 @@ permalink: /media-hub/events/sni-2016
 
 <table style="width:100%">
   <tr>
-    <td style="width:20%">
-     Event Date
-    </td>	
-    <td style="width:80%">
-     <b>17 - 21 May 2016</b>
-     </td>	
+    <td style="width:20%">Event Date</td>	
+    <td style="width:80%">17 - 21 May 2016</td>	
   </tr>
 </table>	
 
