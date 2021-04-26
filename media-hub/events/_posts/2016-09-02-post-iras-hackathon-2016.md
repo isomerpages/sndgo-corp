@@ -8,13 +8,14 @@ permalink: /media-hub/events/iras-hackathon-2016
 <table style="width:100%">
   <tr>
     <td style="width:20%">Event Date</td>	
-    <td style="width:80%”>2 Sep - 4 Sep 2016</td>	
+    <td style="width:80%">2 - 4 Sep 2016</td>	
   </tr>
   <tr>
 	<td>Location</td>
 	<td>VISA Auditorium, Singapore Post Centre</td>	
   </tr>
-</table>
+</table>		
+
 
 *Event Details*<br>
 Co-create new solutions with the community and other professional experts to deliver taxpayer-centred experiences for SMEs, the self-employed and individual taxpayers.
