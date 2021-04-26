@@ -7,12 +7,8 @@ permalink: /media-hub/events/hdb-cool-ideas-hack-2016
 
 <table style="width:100%">
   <tr>
-    <td style="width:20%">
-     Event Date
-    </td>	
-    <td style="width:80%">
-     <b>24 - 26 Jun 2016</b>
-     </td>	
+    <td style="width:20%">Event Date</td>	
+    <td style="width:80%">24 - 26 Jun 2016</td>	
   </tr>
   <tr>
 	<td>Location</td>
