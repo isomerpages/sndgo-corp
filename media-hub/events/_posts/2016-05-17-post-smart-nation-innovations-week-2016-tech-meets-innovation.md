@@ -3,10 +3,7 @@ title: Smart Nation Innovations Week 2016 - Tech Meets Innovation
 date: 2016-05-17
 permalink: /media-hub/events/sni-2016
 ---
-
-
-
-![Smart Nation Innovations Week 2016](/images/media-hub/events/smart-nation-innovations-2016.png)
+![Smart Nation Innovations Week 2016](/images/media-hub/events/till-2020/smart-nation-innovations-2016.png)
 
 
 Event Date: 17 - 21 May 2016
