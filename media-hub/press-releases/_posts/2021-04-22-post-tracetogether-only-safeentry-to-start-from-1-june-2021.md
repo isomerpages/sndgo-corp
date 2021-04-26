@@ -1,5 +1,5 @@
 ---
-title: TraceTogether-Only SafeEntry To Start From 1 June 2021
+title: TraceTogether-Only SafeEntry To Start From 1 June 2021; Only TraceTogether App Or Token Will Be Accepted For SafeEntry Check-In
 date: 2021-04-22
 permalink: /media-hub/press-releases/tos-to-start-1-june-2021
 ---
