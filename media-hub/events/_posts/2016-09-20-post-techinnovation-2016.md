@@ -18,4 +18,3 @@ permalink: /media-hub/events/techinnovation-2016
 
 *Event Details*		
 A technology-industry brokerage event organised by IPI Singapore, TECHINNOVATION brings together international and Singapore technology providers and seekers to explore technology and business collaboration opportunities through open innovation.
-
