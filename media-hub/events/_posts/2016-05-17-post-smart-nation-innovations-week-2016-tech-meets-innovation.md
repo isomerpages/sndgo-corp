@@ -5,8 +5,15 @@ permalink: /media-hub/events/sni-2016
 ---
 ![Smart Nation Innovations Week 2016](/images/media-hub/events/till-2020/smart-nation-innovations-2016.png)
 
-
-Event Date: **17 - 21 May 2016**
+<table style="width:100%">
+  <tr>
+    <td style="width:20%">
+     Event Date
+    </td>	
+    <td style="width:80%">
+     <b>17 - 21 May 2016</b>
+     </td>	
+  </tr>
 
 *Event Details*<br>
 The second edition of Smart Nation Innovations Week comprise four pillar events – InnovFest unBound, Forbes Under 30 Summit Asia, Tech Saturday, and Big Bang Data. The event brings together key players in the global and local tech ecosystems, including tech innovators, data developers, corporates and brands, start-ups, investors, researchers, government representatives as well as Asia’s top young innovators to exchange valuable insights and spark new collaborations.
