@@ -7,8 +7,8 @@ permalink: /media-hub/speeches/smart-nation-launch
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jGMbqpVRo9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Minister Yaacob Ibrahim, Minister for Communications and Information
-Minister Vivian Balakrishnan, Minister for Environment and Water Resources
+Minister Yaacob Ibrahim, Minister for Communications and Information<br>
+Minister Vivian Balakrishnan, Minister for Environment and Water Resources<br>
 Ms Yong Ying-I, Chairman of Infocomm Development Agency
 
 Ladies and Gentlemen
