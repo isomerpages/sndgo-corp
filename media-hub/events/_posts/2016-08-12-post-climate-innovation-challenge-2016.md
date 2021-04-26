@@ -18,6 +18,7 @@ permalink: /media-hub/events/climate-innovation-2016
 	<td>Location</td>
 	<td>JTC LaunchPad @ one-north</td>	
   </tr>
+</table>		
 
 *Event Details*<br>
 Organised by the Building and Construction Authority, JTC Corporation and National Climate Change Secretariat, the 3-day hackathon focuses on developing innovative, cost-effective green solutions that safeguard our environment.
