@@ -7,12 +7,8 @@ permalink: /media-hub/events/tech-factor-challenge-2016
 
 <table style="width:100%">
   <tr>
-    <td style="width:20%">
-     Event Date
-    </td>	
-    <td style="width:80%">
-     <b>1 Sep 2016 - 28 Sep 2017</b>
-     </td>	
+    <td style="width:20%">Event Date</td>	
+    <td style="width:80%">1 Sep 2016 - 28 Sep 2017</td>	
   </tr>
 </table>
 
