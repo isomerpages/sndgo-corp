@@ -13,4 +13,4 @@ permalink: /media-hub/events/smart-nd-2017
  </table>
 
 *Event Details*<br>	
-To mark Singapore’s 52nd birthday, put on your creative hat and design a unique cityscape for our Smart Nation website homepage! Submit your National Day themed designs by 7 July 2017, 1800hrs for a chance to win a prize and have your design grace our homepage! 
+To mark Singapore’s 52nd birthday, put on your creative hat and design a unique cityscape for our Smart Nation website homepage! Submit your National Day themed designs by 7 July 2017, 1800hrs for a chance to win a prize and have your design grace our homepage!
