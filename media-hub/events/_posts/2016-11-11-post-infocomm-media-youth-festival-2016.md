@@ -1,5 +1,6 @@
 ---
-title: "Infocomm Media Youth Festival 2016 "
+title: Infocomm Media Youth Festival 2016
 date: 2016-11-11
-permalink: /media-hub/events/im-youth-festival-2016
+permalink: /media-hub/events/icm-youth-festival-2016
 ---
+
