@@ -1,9 +1,8 @@
 ---
 title: Autonomous Vehicles
 permalink: /initiatives/transport/autonomous-vehicles
-third_nav_title: "Transport"
+third_nav_title: Transport
 ---
-
 # Take A Drive Into the Future 
 
 ![Self driving illustration](/images/initiatives/self-driving-vehicle-lta.jpg)
@@ -56,11 +55,11 @@ You can check out some public trials to experience what it might be like in the 
 
 ### Gardens by the Bay, in collaboration with ST Engineering
 
-![Gardens by the bay self driving vehicle](/images/initiatives/sdv-garden-by-the-bay.jpg)
+![Gardens by the bay self driving vehicle](/images/initiatives/gbtb-auto-rider-night.jpeg)
 *Image: Gardens by the Bay*
 
 - Auto Rider is the first fully-operational SDV in Asia, aimed at enhancing connectivity within the Gardens and providing visitors with an alternative, revolutionary mode of getting around.
-- Fully electric-powered and air-conditioned, each vehicle has a capacity of 10 people.
+- Fully electric-powered and air-conditioned, each vehicle has a capacity of 8 seated passengers.
 
 ### Nanyang Technological University (NTU)
 
