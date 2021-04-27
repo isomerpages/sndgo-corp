@@ -3,6 +3,7 @@ title: Innovation Labs World 2016
 date: 2016-09-27
 permalink: /media-hub/events/innovation-labs-world-2016
 ---
+
 ![Innovation Labs World 2016](/images/media-hub/events/till-2020/innovation-labs-world-2016.png)
 
 <table style="width:100%">
