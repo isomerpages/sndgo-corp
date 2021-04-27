@@ -1,8 +1,9 @@
 ---
-title: "Iras Hackathon 2016 (2 - 4 Sep 2016) "
+title: IRAS Hackathon 2016 2 4 Sep 2016
 date: 2016-09-02
 permalink: /media-hub/events/iras-hackathon-2016
 ---
+
 
 ![IRAS Hackathon 2016](/images/media-hub/events/till-2020/iras-hackathon-2016.jpeg) 
 
