@@ -3,7 +3,6 @@ title: Singapore Geospatial Challenge Business Analytics Mania 2016 (3 - 4 Sep 2
 date: 2016-09-03
 permalink: /media-hub/events/sg-geospatial-challenge-2016
 ---
-
 ![Singapore GeoSpatial Challenge Business Analytics Mania 2016](/images/media-hub/events/till-2020/SG-geospatial-challenge-2016.png) 
 
 <table style="width:100%">
@@ -17,5 +16,5 @@ permalink: /media-hub/events/sg-geospatial-challenge-2016
   </tr>
 </table>	
 
-*Event Details*
+*Event Details*<br>
 A nationwide competition which aims to generate awareness amongst pre-university students on the subject of geospatial analysis and its application to business scenarios.
