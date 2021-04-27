@@ -1,8 +1,9 @@
 ---
-title: "Put the Art in smART - Lunar New Year theme winning design! "
+title: Put The Art In Smart Lunar New Year Theme Winning Design
 date: 2016-12-20
 permalink: /media-hub/events/smart-lunar-new-year-2016
 ---
+
 ![Smart Lunar New Year Winning Design](/images/media-hub/events/till-2020/smart-lunar-new-year-2016.jpeg)
 
 table style="width:100%">
