@@ -14,3 +14,5 @@ permalink: /media-hub/events/fintech-festival-2016
 
 *Event Details*<br>		
 Organised by the Monetary Authority of Singapore (MAS), in partnership with The Association of Banks in Singapore, the week-long festival – the first of its kind in Asia – will bring together a series of distinct, back-to-back FinTech events. The festival will provide a platform for collaborations, connections and co-creation for the global FinTech ecosystem. The Singapore FinTech Festival will comprise of a Global FinTech Hackcelerator, the FinTech Awards, conferences, community and networking events.
+
+Get your tickets here: [www.fintechfestival.sg](https://www.fintechfestival.sg/) 
