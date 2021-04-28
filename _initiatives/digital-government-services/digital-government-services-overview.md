@@ -1,7 +1,7 @@
 ---
 title: Digital Government Services Overview
 permalink: /initiatives/digital-government-services
-third_nav_title: "Digital Government Services"
+third_nav_title: Digital Government Services
 ---
 # Digital Government Services
 
@@ -27,11 +27,6 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
 </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/initiatives/digital-government-services/lifesg" target="_blank"><img src="/images/initiatives/overview-pages/lifesg-dgs.png"></a><br>
-    <div class="header"><b>LifeSG</b></div><br>
-    <div class="para">Supporting citizens with easy-to-use, personalised experience to navigate digital government services.</div>
-  </div>
-  <div class="column-c" > 
     <a href="/initiatives/digital-government-services/multilingual-digital-services" target="_blank"><img src="/images/initiatives/overview-pages/multilingual-digital-services.png"></a><br>
     <div class="header"><b>Multilingual Digital Services</b></div><br>
     <div class="para">Making digital government services more inclusive and accessible for everyone.</div>
@@ -41,11 +36,10 @@ As we seek to leverage technology to serve citizens' needs better, we aim to str
     <div class="header"><b>OpenCerts</b></div><br>
     <div class="para">With this blockchain-based platform, you may no longer need physical certificates!</div>
   </div>
-</div>  
-<div class="row">  
-  <div class="column-c" > 
+	  <div class="column-c" > 
     <a href="/initiatives/digital-government-services/parents-gateway" target="_blank"><img src="/images/initiatives/overview-pages/parents-gateway.png"></a><br>
     <div class="header"><b>Parents Gateway</b></div><br>
     <div class="para">A one-stop platform for schools to connect with parents on key administrative matters.</div>
-  </div>
-</div>
+	</div>
+</div>  
+<div class="row">  
