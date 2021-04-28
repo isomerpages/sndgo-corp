@@ -1,8 +1,9 @@
 ---
-title: Codextremeapps Cxa Hackathon 14 15 Jul 2017
+title: "Code::XtremeApps:: (CXA) Hackathon (14 - 15 Jul 2017)"
 date: 2017-07-14
 permalink: /media-hub/events/cxa-2017
 ---
+
 ![Code xtreme apps Hackathon 2017](/images/media-hub/events/till-2020/cxa-2017.jpeg)
 
 <table style="width:100%">
