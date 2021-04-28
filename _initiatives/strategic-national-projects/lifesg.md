@@ -1,11 +1,11 @@
 ---
 title: LifeSG
 permalink: /initiatives/strategic-national-projects/lifesg
-third_nav_title: strategic-national-projects
+third_nav_title: Strategic National Projects
 ---
 
 
-# Personalising Experiences With Government Services 
+# One-Stop Personalised Access To Government Services And Information
 
 ![LifeSG banner](/images/initiatives/lifesg-kv.jpg)
 
