@@ -38,11 +38,12 @@ LifeSG is not just a step for the Government to connect the dots. It also repres
 ## Data protection and safeguards
 
 LifeSG recognises the importance of data protection. We are committed to safeguarding your personal data by complying with the Public Sector Governance Act (PSGA). The PSGA governs data-sharing and protection within the public sector. 
- Also, we have technical safeguards, which include: 
--	Encrypting all data transmissions; 
--	Mandating Singpass login as a requirement for access to services; 
--	Checking for unauthorised logins; and 
--	Running the platform through regular industry standard tests.
+
+Also, we have technical safeguards, which include: 
+* Encrypting all data transmissions; 
+* Mandating Singpass login as a requirement for access to services; 
+* Checking for unauthorised logins; and 
+* Running the platform through regular industry standard tests.
 
  
 Need more information on LifeSG, head over to their website at <a href="https://www.life.gov.sg/" target="_blank">www.life.gov.sg</a>. Have a question or need more help? Refer to our <a href="https://www.life.gov.sg/help-support/about-lifesg" target="_blank">frequently asked questions (FAQs).</a>
