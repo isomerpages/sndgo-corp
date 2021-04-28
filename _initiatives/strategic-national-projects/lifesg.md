@@ -3,8 +3,6 @@ title: Lifesg
 permalink: /initiatives/strategic-national-projects/lifesg
 third_nav_title: strategic-national-projects
 ---
-
-
 # Personalising Experiences With Government Services 
 
 ![LifeSG banner](/images/initiatives/lifesg-kv.jpg)
@@ -35,7 +33,16 @@ LifeSG is developed based on insights gathered through citizen engagement sessio
 
 LifeSG is not just a step for the Government to connect the dots. It also represents how active gathering of citizen feedback can help enhance service delivery and design of the app.
  
-Find out more about <a href="https://www.life.gov.sg/" target="_blank">LifeSG here</a>. Have a question or need more help? Refer to our <a href="https://www.life.gov.sg/help-support/about-lifesg" target="_blank">frequently asked questions (FAQs).</a>
- 
-Couldn't find what you're looking for or need more assistance? Email the LifeSG team at [helpdesk@life.gov.sg](mailto:helpdesk@life.gov.sg). 
+## Data protection and safeguards
 
+LifeSG recognises the importance of data protection. We are committed to safeguarding your personal data by complying with the Public Sector Governance Act (PSGA). The PSGA governs data-sharing and protection within the public sector. 
+ Also, we have technical safeguards, which include: 
+-	Encrypting all data transmissions; 
+-	Mandating Singpass login as a requirement for access to services; 
+-	Checking for unauthorised logins; and 
+-	Running the platform through regular industry standard tests.
+
+ 
+Need more information on LifeSG, head over to their website at <a href="https://www.life.gov.sg/" target="_blank">www.life.gov.sg</a>. Have a question or need more help? Refer to our <a href="https://www.life.gov.sg/help-support/about-lifesg" target="_blank">frequently asked questions (FAQs).</a>
+ 
+Couldn't find what you're looking for or need more assistance? Email the LifeSG team at [helpdesk@life.gov.sg](mailto:helpdesk@life.gov.sg).
