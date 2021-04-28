@@ -1,9 +1,8 @@
 ---
 title: Strategic National Projects Overview
 permalink: /initiatives/strategic-national-projects
-third_nav_title: "Strategic National Projects"
+third_nav_title: Strategic National Projects
 ---
-
 # Strategic National Projects
 
 As we move towards our Smart Nation goal, some fundamental drivers have been chosen to be the building blocks in our transformation. These projects will allow us to grow and develop efficiently throughout Singapore. 
@@ -21,8 +20,8 @@ As we move towards our Smart Nation goal, some fundamental drivers have been cho
     <div class="para">Simple, swift, seamless, and secure payments for citizens and businesses!</div>
   </div>
   <div class="column-c">  
-    <a href="/initiatives/strategic-national-projects/lifesg-initiative" target="_blank"><img src="/images/initiatives/overview-pages/LifeSG-initiative.png"></a><br>
-    <div class="header"><b>LifeSG Initiative</b></div><br>
+    <a href="/initiatives/strategic-national-projects/lifesg" target="_blank"><img src="/images/initiatives/overview-pages/LifeSG.png"></a><br>
+    <div class="header"><b>LifeSG</b></div><br>
     <div class="para">Personalising government services and information across different agencies to provide a more citizen-centric experience.</div>
   </div>     
 </div>
