@@ -16,15 +16,15 @@ sections:
         - title: Strategic National Projects
           description: The building blocks of our Smart Nation Initiative
           url: /initiatives/strategic-national-projects
-        - title: Smart Nation Ambassadors
-          description: Join us on our transformative Journey
-          url: /community/smart-nation-ambassadors
         - title: Pillars Of Smart Nation
           description: Find out more about the three key pillars.
           url: /our-smart-nation/pillars-of-smart-nation
         - title: A Secure Smart Nation
           description: Report a Government Data Incident
           url: /abt-smart-nation/secure-smart-nation/report-data-incident/
+        - title: Smart Nation Ambassadors
+          description: Join us on our transformative Journey
+          url: /community/smart-nation-ambassadors
   - infobar:
       title: Punggol Digital District
       subtitle: "Initiatives - Businesses "
