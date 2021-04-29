@@ -22,5 +22,3 @@ Celebrate Singapore’s DIY culture with the first ever Maker Summit and Maker C
 * Maker Summit explores the difference facets of the Maker movement and its role in shaping Education, Entrepreneruship and community;
 * Maker Conference shares best practices in the different aspects of the maker movement;
 * Maker Faire Singapore is the largest DIY and technology event in Singapore!
-
-
