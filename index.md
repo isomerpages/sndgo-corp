@@ -25,6 +25,12 @@ sections:
         - title: A Secure Smart Nation
           description: Report a Government Data Incident
           url: /abt-smart-nation/secure-smart-nation/report-data-incident/
+  - infobar:
+      title: Punggol Digital District
+      subtitle: "Initiatives - Businesses "
+      description: Find out why the Punggol Digital District is the place to be!
+      button: Read more about it
+      url: /initiatives/businesses/punggol-digital-district
   - infopic:
       title: TraceTogether Tokens
       description: Exchange your TraceTogether Tokens if they have run out of battery
