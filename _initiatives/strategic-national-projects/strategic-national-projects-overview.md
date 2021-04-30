@@ -18,7 +18,7 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 	display: block;
 	border: 0;
 	width: 100%;
-    height: 150px;
+    height: 100%;
     padding: 1em;
     border-radius: 15px 15px 0px 0px;
 }
