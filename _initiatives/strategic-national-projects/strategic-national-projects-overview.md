@@ -15,10 +15,10 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 
 /* refrain from using pure img selector as it changes the MSE logo size */
 #policies-container > section > div > a > img {
-	display: block;
-	border: 0;
-	width: 100%;
-    height: 100%;
+    display: block;
+    border: 0;
+    width: 100%;
+    height: 75%;
     padding: 1em;
     border-radius: 15px 15px 0px 0px;
 }
@@ -27,7 +27,7 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     flex: 1 0 500px;
     box-sizing: border-box;
     margin: 1rem .25em;
-	background: white;
+    background: white;
     margin-bottom: 1em;
     /* border: 0.13em solid rgba(0,0,0,.2); */
     border-radius: 15px;
@@ -40,9 +40,9 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 }
 
 .card-content h6 {
-	padding: .5em;
-	margin-top: 0.5em;
-	margin-bottom: .5em;
+    padding: .5em;
+    margin-top: 0.5em;
+    margin-bottom: .5em;
     font-weight: bold;
     color: inherit;
     text-decoration: none;
@@ -55,7 +55,7 @@ CODE FROM MSE: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     border: 2px solid #cccccc;
     background-color: white;
     margin-top: 0.5em;
-	margin-bottom: .5em;
+    margin-bottom: .5em;
   }
 
 .card a:hover {
