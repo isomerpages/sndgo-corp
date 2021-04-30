@@ -2,7 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - initiatives-overview.md
       - strategic-national-projects/.keep
       - strategic-national-projects/strategic-national-projects-overview.md
       - strategic-national-projects/codex.md
