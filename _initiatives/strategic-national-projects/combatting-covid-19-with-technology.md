@@ -94,78 +94,73 @@ GovTech created a website for citizens to find the nearest centre to collect the
 
 ## Public Health Solutions
  
-
+ ![COVID-19 Public Health Solutions](/images/initiatives/COVID-19-informational-platforms.png)
+ 
 Rolling out digital services to help with the management and containment of the virus was essential. The services had to be implemented keeping in mind that we will have to live with COVID-19 over the next few years. With the following solutions, we believe we can boost community preparedness and confidence to manage and pull through this challenging time. 
 
-<h3> HealthCerts - https://www.healthcerts.gov.sg/
+### [HealthCerts](https://www.healthcerts.gov.sg/)
 
 HealthCerts was developed as a globally interoperable standard for COVID-19 test results and vaccinations certificates to facilitate the safe resumption of travel.
 
-<h3> Notarise & Verify System
+### Notarise & Verify System
 
 The system endorses locally-issued COVID-19 test results and vaccination certificates and checks the authenticity of such certificates. 
 
-
-<h3> National Appointment System (NAS) for COVID-19 Vaccination https://appointment.vaccine.gov.sg/ 
+### [National Appointment System (NAS) for COVID-19 Vaccination](https://appointment.vaccine.gov.sg/ ) 
 
 To support the roll-out of nation-wide vaccinations, we created a microsite for residents to schedule their appointments once they receive their Registration Code. This efficient system  helps to manage the appointments and administrative load ensures that the vaccination doses are sufficient and used with minimal wastage. 
 
-
-<h3> Space Out https://www.spaceout.gov.sg/
+### [Space Out ](https://www.spaceout.gov.sg/)
 
 Launched in April 2020, it enabled people to check crowd levels at various locations during the circuit breaker to promote safe distancing. 
 
-<h3> SPOTON Smart Thermal Scanner 
+### SPOTON Smart Thermal Scanner 
 
 SPOTON enables faster crowd temperature scanning of up to ten people at a time. This scanner minimises physical contact, reduces manpower and speeds up check-ins to popular and high traffic locations. 
 
-For more information on SPOTON, head over to GovTech's Developer Portal (https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/spoton).
+For more information on [SPOTON, head over to GovTech's Developer Portal](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/spoton).
 
-<h3> SupplyAlly https://www.supplyally.gov.sg/
+### [SupplyAlly](https://www.supplyally.gov.sg/) 
 
 SupplyAlly is a mobile app that facilitates the process of logistics distribution. It has been used for the  distribution of masks, TraceTogether Tokens and various COVID-19 initiatives. SupplyAlly provides the logistical distribution support to ensure that all data and stock levels were captured accurately. 
 
 SupplyAlly has facilitated the management of hundreds of volunteers during the COVID-19 pandemic, distribution of 4.2 million reusable masks, over $20 million in physical credit vouchers and the issuance of TraceTogether Tokens. The App continues to be used by charity organisations for food redemptions.  
 
-<h3> VigilantGantry
+### VigilantGantry
 
 VigilantGantry is a fully automated AI-driven temperature screening gantry that saves time and manpower. 
 
 The AI-driven system can record temperatures even with headgear or hair fringes – avoiding any required human intervention!  GovTech has open-sourced the solution for wider adoption in the public sector. 
 
 
-<h2> Providing Social and Economic Support 
+## Providing Social and Economic Support 
 
- 
+![COVID-19 Social and Economic Support]( /images/initiatives/COVID-19-economic-support.png)
 
 Many different issues and concerns arose as a result of the pandemic. Due to the economic crisis, jobs were lost or salaries reduced. Students had to settle for home-based learning.
 
 As such, platforms were quickly set up to assist with the various changes – such as websites to apply for COVID-19 grants. 
 
-<h3> COVID-19 GoBusiness Portal https://covid.gobusiness.gov.sg/ 
+### [COVID-19 GoBusiness Portal](https://covid.gobusiness.gov.sg/) 
 
 The GoBusiness platform for business was used as a one-stop portal to provide businesses with information on safe management requirements and to apply to resume operations. 
 
-
-<h3> COVID-19 Support Grant (CSG) application portals
+### COVID-19 Support Grant (CSG) application portal
 
 Launched in May 2020 to provide temporary support to Singaporeans whose jobs have been affected by COVID-19. The CSG was available until the end of 2020 and approved 98,000 applications since its launch.
 
 CSG was replaced with the COVID-19 Recovery Grant (CRG) with revised eligibility criteria in 2021
 
 
-<h3> COVID-19 Recovery Grant (CRG) application portals https://msf-csg.gov.sg/preinstruction/crg
+### [COVID-19 Recovery Grant (CRG) application portal](https://msf-csg.gov.sg/preinstruction/crg)
 
 Launched in January 2021, it is to continue the support to workers who need some temporary financial help. The Grant focuses on workers in lower- to middle-income households who are presently experiencing involuntary job loss and will be open for application until 31 December 2021.
 
 
-<h3> SupportGoWhere https://supportgowhere.life.gov.sg/
+### [SupportGoWhere](https://supportgowhere.life.gov.sg/)
 
 SupportGoWhere, a LifeSG initiative, provides citizens with a single portal to determine which assistance schemes they would be eligible for. It also has an Eligibility Checker, which lists the schemes that might be available to you when you answer a few questions.
 
-<h3> Student Learning Space 
+### Student Learning Space 
 
-When schools had to be closed during the circuit breaker period, MOE tapped on the Student Learning Space (SLS)  to ensure that learning could continue while the world battled COVID-19. With the help of SLS, 420,000 students and 33,000 teachers transitioned smoothly to home-based learning. 
-
-
-
+When schools had to be closed during the circuit breaker period, MOE tapped on the Student Learning Space (SLS)  to ensure that learning could continue while the world battled COVID-19. With the help of SLS, 420,000 students and 33,000 teachers transitioned smoothly to home-based learning.
