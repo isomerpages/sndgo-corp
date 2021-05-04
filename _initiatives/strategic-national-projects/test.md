@@ -1,5 +1,5 @@
 ---
 title: Test
-permalink: /initiatives/strategic-national-projects/test
-third_nav_title: "Strategic National Projects"
+permalink: /initiatives/urban-living/test
+third_nav_title: "Urban Living"
 ---
