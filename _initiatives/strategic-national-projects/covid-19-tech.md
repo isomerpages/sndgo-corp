@@ -1,7 +1,7 @@
 ---
 title: Combatting COVID-19 with Technology
 permalink: /initiatives/strategic-national-projects/permalink
-third_nav_title: "Strategic National Projects"
+third_nav_title: "Strategic National Projects 2"
 ---
 
 # Singapore’s Technology Driven Response To The Pandemic
