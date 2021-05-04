@@ -1,6 +1,6 @@
 ---
 title: Combatting COVID-19 with Technology
-permalink: /initiatives/strategic-national-projects/covid-19-tech
+permalink: /initiatives/strategic-national-projects/permalink
 third_nav_title: "Strategic National Projects"
 ---
 
