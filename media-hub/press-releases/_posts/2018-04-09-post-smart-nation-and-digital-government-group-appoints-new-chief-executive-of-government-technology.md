@@ -1,8 +1,7 @@
 ---
-title: Smart Nation and Digital Government Group appoints new Chief Executive of
-  Government Technology
+title: Smart Nation and Digital Government Group appoints new Chief Executive of Government Technology Agency
 date: 2018-04-09
-permalink: /media-hub/press-releases/sndgg-appoints-new-chief
+permalink: /media-hub/press-releases/sndgg-appoints-new-chief-executive-of-government-technology-agency
 ---
 
 Mr Kok Ping Soon, Deputy Secretary (Development) in the Ministry of Manpower (MOM), will be appointed as Chief Executive (CE) of the Government Technology Agency (GovTech) with effect from 1 May 2018. He succeeds Ms Jacqueline Poh. Ms Poh’s next appointment will be announced in due course.  
