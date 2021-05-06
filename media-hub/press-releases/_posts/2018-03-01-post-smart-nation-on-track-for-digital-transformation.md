@@ -3,7 +3,6 @@ title: Smart Nation on Track for Digital Transformation
 date: 2018-03-01
 permalink: /media-hub/press-releases/smart-nation-on-track
 ---
-
 a. The Smart Nation Strategic National Projects are on time, on target to deliver benefits to end users.
 
 b. The Digital Government Blueprint will lay out the strategy for a digital and data driven Government.
