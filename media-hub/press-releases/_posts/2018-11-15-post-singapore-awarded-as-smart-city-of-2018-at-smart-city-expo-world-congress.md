@@ -30,4 +30,4 @@ The last category, Urban Environment, rewarded Shanghai’s Jinshan District Gov
 
 The awards were presented this past evening during a Gala held at the Smart City Expo World Congress 2018.
 
-[Press release issued by Fira de Barcelona (pdf - 170kb](/files/press-releases/2018/singapore-awarded-as-smart-city-of-2018-at-smart-city-expo-world-congress.pdf)
+[Press release issued by Fira de Barcelona (pdf - 170kb)](/files/press-releases/2018/singapore-awarded-as-smart-city-of-2018-at-smart-city-expo-world-congress.pdf)
