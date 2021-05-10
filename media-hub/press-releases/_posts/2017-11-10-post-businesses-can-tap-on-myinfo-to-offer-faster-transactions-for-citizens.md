@@ -1,7 +1,7 @@
 ---
 title: Businesses Can Tap On MyInfo to Offer Faster Transactions for Citizens
 date: 2017-11-10
-permalink: /media-hub/press-releases/businesses-can-tap-on-my
+permalink: /media-hub/press-releases/businesses-can-tap-on-myinfo-to-offer-faster-transactions-for-citizens
 ---
 
 Businesses and developers can now offer simpler and hassle-free digital services to their customers by tapping on the government’s MyInfo service. Launched today, the MyInfo Developer & Partner Portal, as a next step towards building a vibrant ecosystem for the National Digital Identity (NDI), provides businesses with the necessary resources to integrate their digital services with MyInfo.
