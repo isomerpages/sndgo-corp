@@ -1,7 +1,7 @@
 ---
 title: Infocomm Media Industry Transformation Map (ITM)
 date: 2017-11-03
-permalink: /media-hub/press-releases/infocomm-media-industry
+permalink: /media-hub/press-releases/infocomm-media-industry-transformation-map-itm
 ---
 
 The Infocomm Media Development Authority (IMDA) today released the Industry Transformation Map (ITM) for the Infocomm Media sector, which outlines the strategies to prepare Singapore for the digital economy. Speaking at the launch of the ITM, Minister for Communications and Information Dr Yaacob Ibrahim, said the ITM aims to grow the ICM industry’s value-add by around 6% annually (almost twice as fast as the overall economy). It is also expected to employ more than 210,000 workers (from approximately 194,000 workers in 2016), and create more than 13,000 new PMET jobs by 2020.  
