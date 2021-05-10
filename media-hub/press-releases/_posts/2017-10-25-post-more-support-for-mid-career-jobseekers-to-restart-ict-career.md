@@ -1,7 +1,7 @@
 ---
 title: More Support for Mid-career Jobseekers to Restart ICT Career
 date: 2017-10-25
-permalink: /media-hub/press-releases/more-support-for-mid-c
+permalink: /media-hub/press-releases/more-support-for-mid-career-jobseekers-to-restart-ict-career
 ---
 
 Mid-career infocomm technology (ICT) jobseekers aged 40 years and above will now have more opportunities to experience working in dynamic companies through the TechSkills Accelerator (TeSA) pilot immersion programme.  
