@@ -23,7 +23,7 @@ JOINTLY ISSUED BY CYBER SECURITY AGENCY, GOVERNMENT TECHNOLOGY AGENCY OF SINGAPO
 
 Attached:
 
-[Smart Nation Scholarship Factsheet (pdf - 300kb](/files/press-releases/2018/smart-nation-scholarship-factsheet_15aug18.pdf)
+[Smart Nation Scholarship Factsheet (pdf - 300kb)](/files/press-releases/2018/smart-nation-scholarship-factsheet_15aug18.pdf)
 
 ---
 **About Cyber Security Agency**
