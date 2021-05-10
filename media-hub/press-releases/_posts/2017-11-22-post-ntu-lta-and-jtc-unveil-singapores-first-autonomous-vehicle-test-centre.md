@@ -1,7 +1,7 @@
 ---
 title: NTU, LTA and JTC Unveil Singapore’s First Autonomous Vehicle Test Centre
 date: 2017-11-22
-permalink: /media-hub/press-releases/ntu-lta-jtc-unveil-sing
+permalink: /media-hub/press-releases/ntu-lta-and-jtc-unveil-singapores-first-autonomous-vehicle-test-centre
 ---
 The Nanyang Technological University, Singapore (NTU Singapore), the Land Transport Authority (LTA) and JTC have today opened Singapore’s first autonomous vehicle (AV) test centre located in Jurong Innovation District.  
   
