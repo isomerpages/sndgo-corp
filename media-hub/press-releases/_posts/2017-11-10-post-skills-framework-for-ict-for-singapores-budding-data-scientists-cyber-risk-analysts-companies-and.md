@@ -4,8 +4,6 @@ title: Skills Framework For Ict For Singapores Budding Data Scientists Cyber
 date: 2017-11-10
 permalink: /media-hub/press-releases/skills-framework-for-ict-for-singapores-budding-data-scientists-cyber-risk-analysts-companies
 ---
-
-
 Companies and individuals can now enjoy better access to the skills and career pathways required for new, in-demand infocomm technology (ICT) roles – including Chief Digital Officer, Data Scientist, Cyber Risk Analyst, and more.
 
 The Skills Framework (SF) for ICT is a comprehensive guide on the ICT skills and employment opportunities, and maps out the career pathways across seven tracks[^1]. It also covers 119 job roles and over 80 existing and emerging skills within the ICT sector, and across other industry domains such as retail, logistics, finance and healthcare.
