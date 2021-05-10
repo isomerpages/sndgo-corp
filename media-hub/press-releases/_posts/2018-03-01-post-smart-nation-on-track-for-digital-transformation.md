@@ -63,7 +63,7 @@ c. The Smart Nation Scholarship will deepen public sector engineering capabiliti
 
 **Enclosed**
 
--   [Infographic on Updated Milestones for Strategic National Projects (pdf - 400kb](/files/press-releases/2018/infographic-on-updated-milestones-for-strategic-national-projects.pdf)
+-   [Infographic on Updated Milestones for Strategic National Projects (pdf - 400kb)](/files/press-releases/2018/infographic-on-updated-milestones-for-strategic-national-projects.pdf)
 
 -   [Infographic on Moments of Life (Families) - (pdf - 2.7mb)](/files/press-releases/2018/infographic-moments-of-life-(families).pdf)
 -   Factsheets:
