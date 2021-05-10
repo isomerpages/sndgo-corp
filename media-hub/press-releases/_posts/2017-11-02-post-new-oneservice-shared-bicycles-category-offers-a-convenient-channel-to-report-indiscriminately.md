@@ -2,7 +2,7 @@
 title: "New OneService ‘Shared Bicycles’ Category Offers a Convenient Channel to
   Report Indiscriminately "
 date: 2017-11-02
-permalink: /media-hub/press-releases/new-oneservice-shared-bi
+permalink: /media-hub/press-releases/new-oneservice-shared-bicycles-category-offers-a-convenient-channel-to-report-indiscriminately-parked-shared-bicycles
 ---
 The Municipal Services Office (MSO) is partnering the Land Transport Authority (LTA) and bicycle-sharing operators to introduce a new feedback category on ‘Shared Bicycles’ in the OneService app. The new category will offer the public a more convenient way to provide feedback on indiscriminately parked bicycles which are causing obstruction and inconvenience in their neighbourhood (see [Annex A (pdf - 290kb)](/files/press-releases/2017/shared-bikes-category-cleared.pdf)). The feedback will be sent directly through the OneService app to the bicycle-sharing operators for attention.
 
