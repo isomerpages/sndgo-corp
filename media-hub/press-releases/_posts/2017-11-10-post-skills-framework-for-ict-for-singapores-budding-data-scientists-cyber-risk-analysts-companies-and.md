@@ -1,6 +1,5 @@
 ---
-title: Skills Framework For Ict For Singapores Budding Data Scientists Cyber
-  Risk Analysts Companies And
+title: Skills Framework for ICT for Singapore’s Budding Data Scientists, Cyber Risk Analysts, Companies and More
 date: 2017-11-10
 permalink: /media-hub/press-releases/skills-framework-for-ict-for-singapores-budding-data-scientists-cyber-risk-analysts-companies
 ---
