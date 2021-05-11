@@ -3,7 +3,6 @@ title: Strategic National Projects to Build a Smart Nation
 date: 2017-08-20
 permalink: /media-hub/press-releases/strategic-national-proje
 ---
-
 1\. The Smart Nation initiative is about harnessing the full power and potential of digital and smart technologies to create new jobs and business opportunities, in order to make our lives more convenient, and our economy more productive, through more efficient Government and business processes. But beyond that, a Smart Nation is about creating new opportunities in a digital age, and transforming the way people live, work and play, so that Singapore remains an outstanding global city.
 
 ## Why the push for a Smart Nation?
