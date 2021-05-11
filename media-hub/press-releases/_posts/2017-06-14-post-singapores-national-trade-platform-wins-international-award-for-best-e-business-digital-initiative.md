@@ -2,7 +2,7 @@
 title: Singapore's National Trade Platform wins International Award for best
   e-Business Digital Initiative
 date: 2017-06-14
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/singapore-s-national-trade-platform-wins-international-award-for-best-e-business-digital-initiative
 ---
 The National Trade Platform (NTP) project led by Singapore Customs and the Government Technology Agency (GovTech) has emerged the winner in the e-business category of the World Summit on the Information Society (WSIS) Prizes 2017[^1]
 
