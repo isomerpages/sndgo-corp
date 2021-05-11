@@ -47,4 +47,5 @@ sections:
       url: /initiatives/strategic-national-projects/lifesg-initiative
       image: /images/initiatives/lifesg-kv.jpg
       alt: "LifeSG app "
+notification: "Site downtime on XXXXX "
 ---
