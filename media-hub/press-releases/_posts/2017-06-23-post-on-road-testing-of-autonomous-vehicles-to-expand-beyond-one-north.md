@@ -1,7 +1,7 @@
 ---
 title: On-Road Testing of Autonomous Vehicles to Expand Beyond one-north
 date: 2017-06-23
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/on-road-testing-of-autonomous-vehicles-to-expand-beyond-one-north
 ---
 Autonomous vehicle (AV) trials first began in July 2015 and have made good progress over the last 24 months. In September 2016, LTA doubled the length of the test routes within one-north from 6km to 12km, after AV trial participants showed their capabilities in navigating mixed traffic environments. Since then, the AV trial participants have demonstrated a readiness to advance their capabilities to more on-road scenarios in an expanded test area.  
   
