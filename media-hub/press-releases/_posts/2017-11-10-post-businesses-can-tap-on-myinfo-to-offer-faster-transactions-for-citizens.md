@@ -3,7 +3,6 @@ title: Businesses Can Tap On MyInfo to Offer Faster Transactions for Citizens
 date: 2017-11-10
 permalink: /media-hub/press-releases/businesses-can-tap-on-myinfo-to-offer-faster-transactions-for-citizens
 ---
-
 Businesses and developers can now offer simpler and hassle-free digital services to their customers by tapping on the government’s MyInfo service. Launched today, the MyInfo Developer & Partner Portal, as a next step towards building a vibrant ecosystem for the National Digital Identity (NDI), provides businesses with the necessary resources to integrate their digital services with MyInfo.
 
 This move sets Singapore apart as one of the first governments in the world to enable businesses to access consent-driven citizen data for easier integration into their applications. This is in line with the Smart Nation objectives of facilitating greater collaboration between Government and private sector, to create better efficiencies for businesses and a more intuitive user experience for their customers.
@@ -18,6 +17,6 @@ The provision of government-verified digital data also ensures greater accuracy 
 
 The portal will also benefit developers as it offers a sandbox environment for them to build solutions faster. Developers can access the sandbox at [https://www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction](https://www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction) to find out how to prototype their services. Locally-registered businesses can log in with their CorpPass credentials from December 2017 onwards.  
 
-[Annex - Quotes from participating banks and users (pdf - 350kb)](/files/press-releases/2017/Annex–Quotes-from-participating-banks-and-users.pdf)
+[Annex - Quotes from participating banks and users (350kb)](/files/press-releases/2017/Annex–Quotes-from-participating-banks-and-users.pdf)
 
 [Press release issued by Government Technology Agency of Singapore](https://www.tech.gov.sg/media/media-releases/businesses-can-tap-on-myinfo)
