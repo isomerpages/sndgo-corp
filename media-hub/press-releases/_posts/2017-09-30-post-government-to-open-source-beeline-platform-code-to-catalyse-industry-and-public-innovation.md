@@ -4,8 +4,7 @@ title: Government to Open-source Beeline Platform Code to Catalyse Industry and
 date: 2017-09-30
 permalink: /media-hub/press-releases/government-to-open-source-beeline-platform-code-to-catalyse-industry-and-public-innovation
 ---
-
-In line with Singapore’s Smart Nation vision of catalysing innovation and co-creation, the Government Technology Agency (GovTech) will progressively open-source the code [1] for the Beeline smart mobility platform from October 2017. Industry and individual developers will be able to adopt, build on and scale up the platform or develop new mobility solutions using the code.
+In line with Singapore’s Smart Nation vision of catalysing innovation and co-creation, the Government Technology Agency (GovTech) will progressively open-source the code [^1] for the Beeline smart mobility platform from October 2017. Industry and individual developers will be able to adopt, build on and scale up the platform or develop new mobility solutions using the code.
 
 Jointly developed by GovTech and Land Transport Authority (LTA), Beeline is an open, cloud-based smart mobility platform to provide data-driven shuttle bus services for commuters.
 
@@ -28,9 +27,9 @@ For more information, interested members of the transport industry may write to 
 
 Developers may get in touch with the Beeline dev team by opening a GitHub issue on the repositories listed above.
 
-Enc: [Beeline Factsheet (pdf - 350kb)](/files/press-releases/2017/beeline-factsheet-october-2017.pdf)
+Enc: [Beeline Factsheet (350kb)](/files/press-releases/2017/beeline-factsheet-october-2017.pdf)
 
-[1] Key components of the code base that may compromise the security of the Beeline platform will not be open-sourced.
+[^1]: Key components of the code base that may compromise the security of the Beeline platform will not be open-sourced.
 
 **About Government Technology Agency**
 
