@@ -2,7 +2,7 @@
 title: Government to Partner Industry to Spark Innovation and Build Capabilities
   in a Smart Nation
 date: 2017-05-24
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/government-to-partner-industry-to-spark-innovation-and-build-capabilities-in-a-smart-nation
 ---
 
 Following the formation of the Smart Nation and Digital Government Group (SNDGG), the Government will accelerate Smart Nation deployment and digital transformation, and further partner and co-create with the industry to apply digital and smart technologies that improve the lives of citizens.
