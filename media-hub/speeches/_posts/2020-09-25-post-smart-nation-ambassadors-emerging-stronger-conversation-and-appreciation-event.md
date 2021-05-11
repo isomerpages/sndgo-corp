@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Smart Nation Ambassadors Emerging Stronger Conversation And Appreciation Event on 25 September 2020
+title: Smart Nation Ambassadors Emerging Stronger Conversation And Appreciation
+  Event on 25 September 2020
 permalink: /media-hub/speeches/smart-nation-ambassadors-emerging-stronger-conversation-and-appreciation-event-2020
---- 
-
+---
 # Remarks by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative at Smart Nation Ambassadors Emerging Stronger Conversation and Appreciation Event
 
 ## Opening Remarks 
@@ -22,7 +22,7 @@ Welcome to our first Smart Nation Ambassadors Emerging Stronger Conversation and
   
 5  I want to spend some time doing a stocktake of what we have done so far and in particular, to highlight your contributions as Smart Nation Ambassadors this year. All of you have helped us achieve much as a Smart Nation. We had made sure that no one is left behind, especially our seniors. From August 2019 till early this year, over 2000 student volunteers from Jurong Pioneer Junior College, Ngee Ann Polytechnic and Temasek Polytechnic conducted lessons on 8 digital government apps (i.e. My Smart Ahma Top Picks) in vernacular languages and dialects at the Senior Activity Centres. About 600 seniors have benefitted from this effort.  
   
-6  Our workers too need to upskill digitally for Industry 4.0. In 2019, we ended on a high with our inaugural Smart Nation & U event at NTUC Club to raise awareness of technology for workers and their families. Many of you were there. vidDPM Heng Swee Keat and I met you, and we were heartened to see over 30,000 participants across the two days, with over 60 partners and 700 Smart Nation Ambassadors involved. The success of this event would not have been possible without your contributions in your own unique, different capacities - from providing interactive tech exhibits to the public, conducting talks and workshops or even bringing people around the event to show the highlights.  
+6  Our workers too need to upskill digitally for Industry 4.0. In 2019, we ended on a high with our inaugural Smart Nation & U event at NTUC Club to raise awareness of technology for workers and their families. Many of you were there. DPM Heng Swee Keat and I met you, and we were heartened to see over 30,000 participants across the two days, with over 60 partners and 700 Smart Nation Ambassadors involved. The success of this event would not have been possible without your contributions in your own unique, different capacities - from providing interactive tech exhibits to the public, conducting talks and workshops or even bringing people around the event to show the highlights.  
   
 7  Despite the onset of COVID-19, Smart Nation Ambassadors like you were still eager to help others in need. In June this year, when our migrant workers were ready to return to work, the Ministry of Manpower required them to use three apps (i.e. TraceTogether, FWMOMCares, SGWorkpass) in order for them to return to work safely.  
   
