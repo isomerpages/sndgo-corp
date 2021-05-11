@@ -1,7 +1,7 @@
 ---
 title: Exploring E-Payment Solutions For The Heartlands
 date: 2017-08-25
-permalink: /media-hub/press-releases/exploring-e-payment-solu
+permalink: /media-hub/press-releases/exploring-e-payment-solutions-for-the-heartlands
 ---
 Agencies issue Request for Information for e-payment solutions in hawker centres, HDB coffee shops and shops
 
