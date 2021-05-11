@@ -47,8 +47,4 @@ sections:
       url: /initiatives/strategic-national-projects/lifesg-initiative
       image: /images/initiatives/lifesg-kv.jpg
       alt: "LifeSG app "
-  - resources:
-      title: Media Hub
-      subtitle: Learn more
-      button: View More
 ---
