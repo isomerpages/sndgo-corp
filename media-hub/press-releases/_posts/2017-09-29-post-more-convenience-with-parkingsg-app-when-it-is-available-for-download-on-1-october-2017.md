@@ -2,7 +2,7 @@
 title: More Convenience with Parking.sg App When It Is Available for Download on
   1 October 2017
 date: 2017-09-29
-permalink: /media-hub/press-releases/more-convenience-with
+permalink: /media-hub/press-releases/more-convenience-with-parkingsg-app-when-it-is-available-for-download-on-1-october-2017
 ---
 From 1 October 2017, motorists will be able to download the Parking.sg app on Apple App Store and Google Play Store. The mobile app is a quick and convenient way to pay for parking at all the 1,100 public car parks that currently use paper coupons[^1]. For a start, the mobile app can only be used for cars. It will be extended to motorcycles and heavy vehicles by the end of the year.
 
