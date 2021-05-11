@@ -3,7 +3,6 @@ title: More Support for Mid-career Jobseekers to Restart ICT Career
 date: 2017-10-25
 permalink: /media-hub/press-releases/more-support-for-mid-career-jobseekers-to-restart-ict-career
 ---
-
 Mid-career infocomm technology (ICT) jobseekers aged 40 years and above will now have more opportunities to experience working in dynamic companies through the TechSkills Accelerator (TeSA) pilot immersion programme.  
   
 Senior Minister of State, Ministry of Communications and Information, Dr Janil Puthucheary announced more support for mid-career jobseekers at the Tech Hirers Connect forum. The forum, which aimed to raise awareness of best practices for talent acquisition and development of a skilled ICT workforce, was attended by key hirers of companies and industry partners. Second Minister for Manpower, Mrs Josephine Teo, also attended the event as a Special Guest in recognition of the efforts to boost manpower development in the Infocomm sector.  
@@ -21,10 +20,10 @@ Mr Tan Choon Shian, Chief Executive of Workforce Singapore (WSG) said, “Mid-ca
 With the commitment from the participating companies, the common goal is to provide more opportunities for eligible mid-career PMETs to be immersed in a self-driven environment, gain experience, and expand their professional network, so that they can keep up with the changes in the dynamic digital economy. Through the experience gained, mid-career PMETs will be able to enhance their portfolio, which aims to improve employability across the various sectors.  
   
 Related Resources  
-[Annex A: Factsheet of the TeSA pilot immersion programme (pdf - 390kb)](/files/press-releases/2017/annex-a-more-support-for-mid-career-jobseekers-to-restart-ict-career.pdf)  
+[Annex A: Factsheet of the TeSA pilot immersion programme (390kb)](/files/press-releases/2017/annex-a-more-support-for-mid-career-jobseekers-to-restart-ict-career.pdf)  
 
-[Annex B: Factsheet of the TeSA initiative (pdf - 870kb)](/files/press-releases/2017/annex-b-more-support-for-mid-career-jobseekers-to-restart-ict-career.pdf)
+[Annex B: Factsheet of the TeSA initiative (870kb)](/files/press-releases/2017/annex-b-more-support-for-mid-career-jobseekers-to-restart-ict-career.pdf)
 
-[Annex C: Profiles of the participating companies (pdf - 380kb)](/files/press-releases/2017/annex-c-more-support-for-mid-career-jobseekers-to-restart-ict-career.pdf)
+[Annex C: Profiles of the participating companies (380kb)](/files/press-releases/2017/annex-c-more-support-for-mid-career-jobseekers-to-restart-ict-career.pdf)
 
 [Press release issued by Infocomm Media Development Authority](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2018/more-support-for-mid-career-jobseekers-to-restart-ict-career)
