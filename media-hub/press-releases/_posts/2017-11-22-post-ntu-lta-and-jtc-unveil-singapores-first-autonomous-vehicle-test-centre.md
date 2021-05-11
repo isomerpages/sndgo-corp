@@ -5,7 +5,7 @@ permalink: /media-hub/press-releases/ntu-lta-and-jtc-unveil-singapores-first-aut
 ---
 The Nanyang Technological University, Singapore (NTU Singapore), the Land Transport Authority (LTA) and JTC have today opened Singapore’s first autonomous vehicle (AV) test centre located in Jurong Innovation District.  
   
-2. The new 2-hectare test facility which was jointly developed by LTA, NTU and JTC, will support the **Centre of Excellence for Testing & Research of AVs – NTU (CETRAN)**, which was launched on 1 Aug 2016, to spearhead the development of testing requirements for AVs. Together with CETRAN and its partners, LTA will work towards developing the necessary standards and testing regimes for the safe deployment of AVs on our public roads. As there are currently no existing international test standards or international certification bodies for AVs, CETRAN will anchor Singapore’s position in supporting the testing and eventual widespread deployment of AVs.  
+2\. The new 2-hectare test facility which was jointly developed by LTA, NTU and JTC, will support the **Centre of Excellence for Testing & Research of AVs – NTU (CETRAN)**, which was launched on 1 Aug 2016, to spearhead the development of testing requirements for AVs. Together with CETRAN and its partners, LTA will work towards developing the necessary standards and testing regimes for the safe deployment of AVs on our public roads. As there are currently no existing international test standards or international certification bodies for AVs, CETRAN will anchor Singapore’s position in supporting the testing and eventual widespread deployment of AVs.  
 
 ## Fully-Equipped Test Centre 
 
@@ -29,6 +29,6 @@ The Nanyang Technological University, Singapore (NTU Singapore), the Land Transp
   
 10\. CETRAN also inked partnership agreements with four organisations during the ceremony. They are PTV Asia-Pacific Pte Ltd, a leading corporation in traffic and transportation solutions, the National Physical Laboratory, United Kingdom’s largest applied physics organisation, and NXP Semiconductors Singapore Pte Ltd, global automotive semiconductor supplier in secure connected cars, and Diamond Energy for energy management technologies for electric autonomous vehicles.  
   
-[Annex: Centran AV Test Centre’s layout and detailed features (pdf - 160kb)](/files/press-releases/2017/20171122-cetran-av-testcentre-annex.pdf)  
+[Annex: Centran AV Test Centre’s layout and detailed features (160kb)](/files/press-releases/2017/20171122-cetran-av-testcentre-annex.pdf)  
 
 [Press release issued by Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/11/2/joint-news-release-by-the-land-transport-authority-lta-ntu-jtc---ntu-lta-and-jtc-unveil-singapores-first-autonomous-veh.html)
