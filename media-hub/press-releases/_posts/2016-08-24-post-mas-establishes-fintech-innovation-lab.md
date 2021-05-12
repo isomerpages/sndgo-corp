@@ -1,7 +1,7 @@
 ---
 title: MAS establishes FinTech Innovation Lab
 date: 2016-08-24
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/mas-establishes-fintech-innovation-lab
 ---
 The Monetary Authority of Singapore (MAS) today announced the opening of its FinTech Innovation Lab. The purpose-built facility, known as Looking Glass @ MAS[^1], is located within the MAS Building.
 
