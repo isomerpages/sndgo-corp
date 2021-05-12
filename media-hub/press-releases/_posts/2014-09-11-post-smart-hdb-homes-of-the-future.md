@@ -1,7 +1,7 @@
 ---
 title: Smart HDB Homes of the Future
 date: 2014-09-11
-permalink: /media-hub/press-releases/smart-hdb-hom
+permalink: /media-hub/press-releases/smart-hdb-homes-of-the-future
 ---
 HDB today announced, a new “Smart HDB Town Framework”.
 
