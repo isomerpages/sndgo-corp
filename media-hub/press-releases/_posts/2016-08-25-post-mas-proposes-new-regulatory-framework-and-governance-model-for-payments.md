@@ -1,7 +1,7 @@
 ---
 title: MAS Proposes New Regulatory Framework and Governance Model for Payments
 date: 2016-08-25
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/permalinkmas-proposes-new-regulatory-framework-and-governance-model-for-payments
 ---
 The Monetary Authority of Singapore (MAS) today released a consultation paper on proposed changes to the payments regulatory framework and establishment of a National Payments Council.
 
