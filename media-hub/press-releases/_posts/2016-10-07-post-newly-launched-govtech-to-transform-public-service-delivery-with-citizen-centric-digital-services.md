@@ -2,7 +2,7 @@
 title: Newly-launched GovTech to Transform Public Service Delivery with
   Citizen-centric Digital Services
 date: 2016-10-07
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/newly-launched-govtech-to-transform-public-service-delivery-with-citizen-centric-digital-services-and-products
 ---
 Citizens and businesses can look forward to better and more citizen-centric services with the establishment of the new Government Technology Agency or GovTech. The new statutory board will spearhead the Government’s digital and data strategy. It will partner public agencies, industry and citizens to transform public service delivery through the use of technologies such as data science and analytics, artificial intelligence and machine learning.
 
