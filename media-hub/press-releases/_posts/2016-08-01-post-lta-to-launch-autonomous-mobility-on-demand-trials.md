@@ -1,7 +1,7 @@
 ---
 title: LTA to Launch Autonomous Mobility-on-Demand Trials
 date: 2016-08-01
-permalink: /media-hub/press-releases/lta-to-launch-autonomous
+permalink: /media-hub/press-releases/lta-to-launch-autonomous-mobility-on-demand-trials
 ---
 1\.  What if you could summon a self-driving shuttle that sends you right to your doorstep after you exit from an MRT station? Or a self-driving pod that brings you to nearby amenities with just a few taps on your smartphone?
     
