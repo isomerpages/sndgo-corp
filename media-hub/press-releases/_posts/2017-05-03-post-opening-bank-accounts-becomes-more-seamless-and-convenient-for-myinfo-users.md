@@ -1,7 +1,7 @@
 ---
 title: Opening Bank Accounts Becomes More Seamless and Convenient for MyInfo Users
 date: 2017-05-03
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/opening-bank-accounts-becomes-more-seamless-and-convenient-for-myinfo-users
 ---
 The Smart Nation and Digital Government Office (SNDGO) and Government Technology Agency (GovTech), in collaboration with the Monetary Authority of Singapore (MAS), have begun a pilot with four banks to explore simplifying online banking transactions with the use of the Government’s MyInfo service.
 
