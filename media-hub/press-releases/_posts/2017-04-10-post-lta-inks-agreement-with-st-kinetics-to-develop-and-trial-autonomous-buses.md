@@ -1,7 +1,7 @@
 ---
 title: LTA Inks Agreement with ST Kinetics to Develop & Trial Autonomous Buses
 date: 2017-04-10
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/lta-inks-agreement-with-st-kinetics-to-develop-and-trial-autonomous-buses
 ---
 As part of efforts by the Committee on Autonomous Road Transport for Singapore (CARTS) to catalyse the development and deployment of autonomous vehicles (AVs) to enhance Singapore’s land transport system, the Land Transport Authority (LTA) has signed a partnership agreement with ST Kinetics to develop and trial autonomous buses. This is the fourth such agreement signed, in addition to LTA’s ongoing partnerships with the Energy Research Institute @ NTU (ERI@N) to develop and trial autonomous bus technology, as well as with Delphi and nuTonomy to conduct autonomous mobility-on-demand trials.
 
