@@ -1,7 +1,7 @@
 ---
 title: LTA Pilots Account-based Ticketing System for Public Transport with MasterCard
 date: 2017-02-28
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/lta-pilots-account-based-ticketing-system-for-public-transport-with-mastercard
 ---
 1. The Land Transport Authority (LTA) and Mastercard are jointly launching a pilot of the Account-Based Ticketing (ABT) System for public transport, by allowing the usage of contactless credit cards and contactless debit cards for fare payments. Singapore will be the first in Asia, and one of the few cities in the world, to enable this.  
   
