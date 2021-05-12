@@ -2,7 +2,7 @@
 title: Formation of The Smart Nation and Digital Government Group in the Prime
   Minister’s Office
 date: 2017-03-20
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/formation-of-the-smart-nation-and-digital-government-group-in-the-prime-ministers-office
 ---
 Since the Smart Nation initiative was launched in late 2014, progress has been made in applying digital and smart solutions to provide better services for our citizens and businesses. Companies have also responded with innovative products.  
   
