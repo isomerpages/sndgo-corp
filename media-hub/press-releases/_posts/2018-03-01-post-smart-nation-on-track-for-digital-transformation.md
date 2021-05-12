@@ -63,11 +63,11 @@ c. The Smart Nation Scholarship will deepen public sector engineering capabiliti
 
 **Enclosed**
 
--   [Infographic on Updated Milestones for Strategic National Projects (pdf - 400kb)](/files/press-releases/2018/infographic-on-updated-milestones-for-strategic-national-projects.pdf)
+-   [Infographic on Updated Milestones for Strategic National Projects (400kb)](/files/press-releases/2018/infographic-on-updated-milestones-for-strategic-national-projects.pdf)
 
--   [Infographic on Moments of Life (Families) - (pdf - 2.7mb)](/files/press-releases/2018/infographic-moments-of-life-(families).pdf)
+-   [Infographic on Moments of Life (Families) - (2.7mb)](/files/press-releases/2018/infographic-moments-of-life-(families).pdf)
 -   Factsheets:
-    -   [Moments of Life (Families) - (pdf - 450kb)](/files/press-releases/2018/moments-of-life-families-factsheet.pdf)
-    -   [National Digital Identity (pdf - 490kb)](/files/press-releases/2018/national-digital-identity-factsheet.pdf)
-    -   [Singapore Government Technology Stack (pdf - 450kb)](/files/press-releases/2018/singapore-government-technology-stack-factsheet.pdf)
-    -   [Smart Nation Scholarship (pdf - 150kb)](/files/press-releases/2018/smart-nation-scholarship-media-factsheet.pdf)
+    -   [Moments of Life (Families) - (450kb)](/files/press-releases/2018/moments-of-life-families-factsheet.pdf)
+    -   [National Digital Identity (490kb)](/files/press-releases/2018/national-digital-identity-factsheet.pdf)
+    -   [Singapore Government Technology Stack (450kb)](/files/press-releases/2018/singapore-government-technology-stack-factsheet.pdf)
+    -   [Smart Nation Scholarship (150kb)](/files/press-releases/2018/smart-nation-scholarship-media-factsheet.pdf)
