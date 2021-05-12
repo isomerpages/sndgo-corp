@@ -2,7 +2,7 @@
 title: MAS and Local Polytechnics Sign Memorandum of Understanding to Promote
   Skills Development in Fin
 date: 2016-10-03
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/mas-and-local-polytechnics-sign-memorandum-of-understanding-to-promote-skills-development-in-financial-technology
 ---
 The Monetary Authority of Singapore (MAS) and the five local polytechnics[^1] have agreed on a framework to review and enhance the polytechnics’ curricula in the next three years to prepare and equip their graduates with the skill sets necessary to take on the new FinTech-related jobs emerging in the financial sector. MAS and the polytechnics signed a Memorandum of Understanding to guide this effort.
 
