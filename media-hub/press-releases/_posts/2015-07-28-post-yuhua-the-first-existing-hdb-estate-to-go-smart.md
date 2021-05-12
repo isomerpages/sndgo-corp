@@ -1,7 +1,7 @@
 ---
 title: Yuhua the First Existing HDB Estate to Go Smart
 date: 2015-07-28
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/yuhua-the-first-existing-hdb-estate-to-go-smart
 ---
 Some 9,000 Yuhua residents living in 3,194 flats will be the first to experience ‘Smart Living’ in an existing HDB estate, in a move to realise Singapore’s Smart Nation vision. This pilot estate will see Smart features introduced to enhance residents’ quality of life. Residents can also look forward to a more liveable, efficient, sustainable and safe environment. Building on the sustainable improvements implemented in Yuhua under the HDB Greenprint, the introduction of Smart features will transform Yuhua into a Smart and Sustainable estate.
 
