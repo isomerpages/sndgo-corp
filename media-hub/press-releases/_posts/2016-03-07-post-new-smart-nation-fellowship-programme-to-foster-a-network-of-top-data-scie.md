@@ -1,7 +1,7 @@
 ---
-title: New Smart Nation Fellowship Programme to Foster a Network of Top Data Scie
+title: New Smart Nation Fellowship Programme to Foster a Network of Top Data Science and Tech Talents for Singapore
 date: 2016-03-07
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/new-smart-nation-fellowship-programme-to-foster-a-network-of-top-data-science-and-tech-talents-for-singapore
 ---
 The Infocomm Development Authority of Singapore (IDA) today launched the **Smart Nation Fellowship Programme**, calling out to top data scientists, technologists and engineers to help the Singapore government deliver meaningful digital and data solutions to improve the lives of citizens.
 
