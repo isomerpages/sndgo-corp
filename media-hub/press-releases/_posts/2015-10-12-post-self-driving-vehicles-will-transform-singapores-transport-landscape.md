@@ -1,7 +1,7 @@
 ---
 title: Self-Driving Vehicles will Transform Singapore's Transport Landscape
 date: 2015-10-12
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/self-driving-vehicles-will-transform-singapore-s-transport-landscape
 ---
 # MOT Unveils Roadmap for Self-Driving Vehicles, with Slate of Ongoing and Upcoming Trials in one-north, Gardens by the Bay, Sentosa and West Coast Highway
 
