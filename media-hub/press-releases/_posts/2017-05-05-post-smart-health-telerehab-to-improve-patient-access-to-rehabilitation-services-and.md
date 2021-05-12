@@ -1,7 +1,7 @@
 ---
-title: Smart Health TeleRehab to Improve Patient Access to Rehabilitation Services and
+title: Smart Health TeleRehab to Improve Patient Access to Rehabilitation Services and Productivity for Therapists
 date: 2017-05-05
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/smart-health-telerehab-to-improve-patient-access-to-rehabilitation-services-and-productivity-for-therapists
 ---
 Patients who need rehabilitation therapy services can look forward to greater convenience with the implementation of Smart Health TeleRehab, a Smart Nation initiative. Through the use of wearable sensors and remote monitoring by therapists, patients can undergo their rehabilitation exercises at a time and location of their choice. Therapists and service providers also stand to benefit from better productivity.
 
