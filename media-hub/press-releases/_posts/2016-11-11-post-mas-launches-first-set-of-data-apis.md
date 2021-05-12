@@ -1,7 +1,7 @@
 ---
 title: MAS Launches First Set of Data APIs
 date: 2016-11-11
-permalink: /media-hub/press-releases/mas-launches-first-set-o
+permalink: /media-hub/press-releases/mas-launches-first-set-of-data-apis
 ---
 
 The Monetary Authority of Singapore (MAS) today announced that it is publishing 12 sets of data from MAS’ Monthly Statistical Bulletin as Application Programming Interfaces (APIs) on the MAS website. These include frequently accessed datasets on exchange rates and interest rates.
