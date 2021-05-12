@@ -1,8 +1,7 @@
 ---
-title: Healthcare Consultations Move Online in Singapore's First National
-  Implementation of Smart Health V
+title: Healthcare Consultations Move Online in Singapore's First National Implementation of Smart Health Video Consultation for Healthcare
 date: 2017-04-12
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/healthcare-consultations-move-online-in-singapore-s-first-national-implementation-of-smart-health-video-consultation-for-healthcare
 ---
 Patients can soon consult healthcare professionals online from wherever they are, as part of Singapore’s first national implementation of Smart Health Video Consultation (VC) for healthcare. Announced this morning by Integrated Health Information Systems (IHiS) - the technology agency for Singapore healthcare, the Smart Health initiative has been implemented for selected services at KK Women’s and Children’s Hospital (KKH), Institute of Mental Health, Singapore General Hospital, and Tan Tock Seng Hospital. The platform will also be made available at National University Hospital and National University Cancer Institute, Singapore (NCIS) in mid-2017.
 
