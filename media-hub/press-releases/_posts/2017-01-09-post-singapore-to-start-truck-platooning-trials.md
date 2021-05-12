@@ -1,7 +1,7 @@
 ---
 title: Singapore to Start Truck Platooning Trials
 date: 2017-01-09
-permalink: /media-hub/press-releases/singapore-to-start-truck
+permalink: /media-hub/press-releases/singapore-to-start-truck-platooning-trials
 ---
 
 1. The Ministry of Transport (MOT) and PSA Corporation today signed agreements with two automotive companies, Scania and Toyota Tsusho, to design, develop and test-bed an autonomous truck platooning system for use on Singapore's public roads. With this, Singapore moves another step closer towards autonomous freight transport. These agreements follow from a Request for Proposals (RFP) exercise, suite to a Memorandum of Understanding (MoU) inked between MOT and PSA in October 2015 to collaborate and co-fund truck platooning projects.  
