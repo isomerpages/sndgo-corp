@@ -1,7 +1,7 @@
 ---
 title: Launch of CETRAN and Test Circuit at CleanTech Park
 date: 2016-08-01
-permalink: /media-hub/press-releases/launch-of-cetran-and-tes
+permalink: /media-hub/press-releases/launch-of-cetran-and-test-circuit-at-cleantech-park
 ---
 To enable Singapore to move closer to its goal of deploying self-driving vehicles (SDVs) for shared transport, the Land Transport Authority (LTA) and JTC, in partnership with the Nanyang Technological University (NTU Singapore), launched the Centre of Excellence for Testing & Research of AVs – NTU (CETRAN) and Test Circuit at CleanTech Park today.
 
