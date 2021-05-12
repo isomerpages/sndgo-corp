@@ -1,7 +1,7 @@
 ---
 title: Smarter and More Energy-Efficient Street Lighting System by 2022
 date: 2017-01-03
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/smarter-and-more-energy-efficient-street-lighting-system-by-2022
 ---
 1.  Expect a more energy-efficient lighting system on our roads by 2022, as the Land Transport Authority (LTA) steps up efforts to harness technology for a more sustainable land transport system.  
 
