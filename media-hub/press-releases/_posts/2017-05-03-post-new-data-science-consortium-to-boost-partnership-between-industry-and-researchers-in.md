@@ -1,8 +1,7 @@
 ---
-title: "New Data Science Consortium to Boost Partnership Between Industry and
-  Researchers in "
+title: "New Data Science Consortium to Boost Partnership Between Industry and Researchers in Big Data Analytics"
 date: 2017-05-03
-permalink: /press-releases/permalink
+permalink: /media-hub/press-releases/new-data-science-consortium-to-boost-partnership-between-industry-and-researchers-in-big-data-analytics
 ---
 The National Research Foundation (NRF) Singapore, in collaboration with the National University of Singapore (NUS), the Nanyang Technological University (NTU), the Singapore Management University (SMU) and the Agency for Science, Technology and Research (A*STAR), will set up the Singapore Data Science Consortium, a national partnership that will deepen Singapore’s existing strengths in data science and analytics.
 
