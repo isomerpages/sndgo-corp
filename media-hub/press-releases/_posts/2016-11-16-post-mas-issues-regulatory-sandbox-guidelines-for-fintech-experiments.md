@@ -1,7 +1,7 @@
 ---
 title: MAS Issues "Regulatory Sandbox" Guidelines for FinTech Experiments
 date: 2016-11-16
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/mas-issues-regulatory-sandbox-guidelines-for-fintech-experiments
 ---
 The Monetary Authority of Singapore (MAS) today published its [“regulatory sandbox” guidelines](https://www.mas.gov.sg/-/media/MAS/Smart-Financial-Centre/Sandbox/FinTech-Regulatory-Sandbox-Guidelines-19Feb2018.pdf?la=en&hash=B1D36C055AA641F580058339009448CC19A014F7) to encourage and enable experimentation of solutions that utilise technology innovatively to deliver financial products or services. The guidelines incorporate feedback from the public consultation as well as learning points from actual sandbox applications.
 
