@@ -1,7 +1,7 @@
 ---
 title: ‘Our Digital World’ Exhibition Showcases Power of Big Data
 date: 2016-06-28
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/our-digital-world-exhibition-showcases-power-of-big-data
 ---
 The Urban Redevelopment Authority (URA) launched the ‘Our Digital World’ exhibition at the Urban Lab today. Officiated by Minister for National Development Mr Lawrence Wong, the exhibition explores how government, academia, industry and the public make use of data, innovative analytics and modelling technology to enhance planning processes to better meet people’s needs.
 
