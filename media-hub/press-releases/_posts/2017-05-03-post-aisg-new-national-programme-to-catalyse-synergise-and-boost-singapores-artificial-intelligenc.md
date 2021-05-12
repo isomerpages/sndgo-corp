@@ -1,8 +1,7 @@
 ---
-title: "AI.SG: New National Programme to Catalyse, Synergise and Boost
-  Singapore's Artificial Intelligenc"
+title: "AI.SG: New National Programme to Catalyse, Synergise and Boost Singapore's Artificial Intelligence Capabilities"
 date: 2017-05-03
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/aisg-new-national-programme-to-catalyse-synergise-and-boost-singapore-s-artificial-intelligence-capabilities
 ---
 1. The National Research Foundation (NRF) Singapore will launch a national programme in Artificial Intelligence (AI) to catalyse, synergise and boost Singapore’s AI capabilities to power our future, digital economy. AI.SG will be an initiative driven by a government-wide partnership comprising NRF, the Smart Nation and Digital Government Office (SNDGO), the Economic Development Board (EDB), the Infocomm Media Development Authority (IMDA), SGInnovate, and the Integrated Health Information Systems (IHiS). AI.SG will also bring together all Singapore-based research institutions and the vibrant ecosystem of AI start-ups and companies developing AI products, to grow the knowledge, create the tools and develop the talent to power Singapore’s AI efforts.
 
