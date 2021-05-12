@@ -1,7 +1,7 @@
 ---
 title: Smart Defence Vision Announced at Ministry of Defence (MINDEF) PRIDE Day 2015
 date: 2015-09-02
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/smart-defence-vision-announced-at-ministry-of-defence-mindef-pride-day-2015
 ---
 Second Minister for Defence Mr Lui Tuck Yew officiated at the Ministry of Defence (MINDEF) PRIDE (PRoductivity and Innovation in Daily Efforts) Day 2015 award presentation ceremony held at the Singapore University of Technology and Design this afternoon.
 
