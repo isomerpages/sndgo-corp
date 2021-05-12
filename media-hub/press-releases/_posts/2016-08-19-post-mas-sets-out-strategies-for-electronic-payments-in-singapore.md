@@ -1,7 +1,7 @@
 ---
 title: MAS Sets Out Strategies for Electronic Payments in Singapore
 date: 2016-08-19
-permalink: /media-hub/press-releases/mas-sets-out-strategies
+permalink: /media-hub/press-releases/mas-sets-out-strategies-for-electronic-payments-in-singapore
 ---
 The Monetary Authority of Singapore (MAS) today articulated strategies to promote electronic payments in Singapore, and has published a “Singapore Payments Roadmap” which it has commissioned KPMG Advisory to produce. In a speech at the Sim Kee Boon Institute for Financial Economics, the Managing Director of MAS, Mr Ravi Menon, described ongoing initiatives for swift, simple, secure payments, enhancing convenience for customers and productivity for businesses.
 
