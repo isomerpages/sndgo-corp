@@ -6,12 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      title: Webinars for Everyone
-      subtitle: We have a wide range of online workshops - to cater for all ages and
-        interests!
-      background: /images/hero-banner.png
-      url: /community/smart-nation-together
-      button: Sign Up Now!
+      background: /images/Hero-banner-wip.png
       key_highlights:
         - title: Strategic National Projects
           description: The building blocks of our Smart Nation Initiative
