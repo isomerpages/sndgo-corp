@@ -1,7 +1,7 @@
 ---
 title: IMD-SUTD Smart City Index 2019
 date: 2019-11-01
-permalink: /accolades-&-awards/permalink
+permalink: /media-hub/accolades-&-awards/imd-sutd-smart-city-index-2019
 ---
 # Taking The Top Spot 
 ![Singapore Skyline of the business district](/images/media-hub/accolades-&-awards/singapore-skyline.jpeg) 
