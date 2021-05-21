@@ -34,5 +34,13 @@ sections:
       url: /initiatives/strategic-national-projects/covid-19
       image: /images/initiatives/COVID-19-tech-solutions.png
       alt: Image alt text
+  - infopic:
+      title: Co-Create With Us Today
+      description: Share your feedback with us on digital government services via
+        SCOPE today
+      button: Find out more
+      url: /community/scope
+      image: /images/community/scope-sn-ambassdor.jpg
+      alt: Image alt text
 notification: ""
 ---
