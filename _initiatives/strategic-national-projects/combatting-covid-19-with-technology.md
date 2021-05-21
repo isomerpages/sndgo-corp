@@ -3,9 +3,6 @@ title: Combatting COVID-19 with Technology
 permalink: /initiatives/strategic-national-projects/covid-19
 third_nav_title: Strategic National Projects
 ---
-
-
-
 # Singapore’s Technology Driven Response To The Pandemic
 
  ![COVID-19 technological solutions](/images/initiatives/COVID-19-tech-solutions.png)
@@ -96,8 +93,8 @@ GovTech created a website for citizens to find the nearest centre to collect the
 
 
 ## Public Health Solutions
- 
- ![COVID-19 Public Health Solutions](/images/initiatives/COVID-19-informational-platforms.png)
+
+ ![COVID-19 Public Health Solutions](/images/initiatives/COVID-19-tech-solutions.png)
  
 Rolling out digital services to help with the management and containment of the virus was essential. The services had to be implemented keeping in mind that we will have to live with COVID-19 over the next few years. With the following solutions, we believe we can boost community preparedness and confidence to manage and pull through this challenging time. 
 
