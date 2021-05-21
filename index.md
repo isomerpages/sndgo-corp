@@ -32,8 +32,8 @@ sections:
         technology
       button: Read  More here
       url: /initiatives/strategic-national-projects/covid-19
-      image: /images/initiatives/COVID-19-tech-solutions.png
-      alt: Image alt text
+      image: /images/Infopix-Covid-19.png
+      alt: "Covid-19 Technology "
   - infopic:
       title: Co-Create With Us Today
       description: Share your feedback with us on digital government services via
