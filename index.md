@@ -40,7 +40,7 @@ sections:
         SCOPE today
       button: Find out more
       url: /community/scope
-      image: /images/community/scope-sn-ambassdor.jpg
-      alt: Image alt text
+      image: /images/Infopix-SCOPE.png
+      alt: SCOPE - Co-create with us
 notification: ""
 ---
