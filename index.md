@@ -27,20 +27,12 @@ sections:
       button: Read more about it
       url: /initiatives/businesses/punggol-digital-district
   - infopic:
-      title: TraceTogether Tokens
-      description: Exchange your TraceTogether Tokens if they have run out of battery
-        at the nearest Community Centre
-      button: Find out more
-      url: https://token.gowhere.gov.sg/
-      alt: TraceTogether token
-      image: /images/TT-token.jpeg
-  - infopic:
-      title: LifeSG App
-      description: LifeSG is the enhanced version of the Moments of Life App, with new
-        features and a better user experience!
-      button: Learn more
-      url: /initiatives/strategic-national-projects/lifesg-initiative
-      image: /images/initiatives/lifesg-kv.jpg
-      alt: "LifeSG app "
+      title: Combatting COVID-19
+      description: Learn about how Singapore efficiently managed the pandemic with
+        technology
+      button: Read  More here
+      url: /initiatives/strategic-national-projects/covid-19
+      image: /images/initiatives/COVID-19-tech-solutions.png
+      alt: Image alt text
 notification: ""
 ---
