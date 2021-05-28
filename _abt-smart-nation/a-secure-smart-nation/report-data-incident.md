@@ -5,7 +5,7 @@ breadcrumb: Report Data Incident
 third_nav_title: A Secure Smart Nation
 ---
 # Government Data Incident Reporting Platform
-![Report Data incident](/images/abt-smart-nation/abt-smart-nation/report-data-incident-wip.png)
+![Alt text for image on Isomer site](/images/report-data-incident-wip.png)
 
 Everyone in the community can play their part in strengthening and safeguarding government Information and Communications Technology systems, digital services, and data. Members of the public can now **report incidents involving any unauthorised disclosure or compromise of government data** on our government data incident reporting platform.
 
