@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - smartnationtogether/.keep
-      - smartnationtogether/smartnationtogether-overview.md
+      - smartnationtogether/smartnationtogether.md
       - smartnationtogether/children-youths-and-young-parents.md
       - smartnationtogether/working-adults.md
       - smartnationtogether/seniors.md
