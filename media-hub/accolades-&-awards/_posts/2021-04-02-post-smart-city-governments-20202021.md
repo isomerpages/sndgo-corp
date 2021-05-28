@@ -1,7 +1,7 @@
 ---
 title: Smart City Governments 2020/2021
 date: 2021-04-02
-permalink: /media-hub/accolades-&-awards/smart-city-governments-2021
+permalink: /media-hub/accolades-awards/smart-city-governments-2021
 ---
 # Climbing To The Top Spot 
 
