@@ -3,10 +3,8 @@ title: "#SmartNationTogether"
 permalink: /community/smart-nation-together
 third_nav_title: Smartnationtogether
 ---
-
 # Welcome To Our Online Channel! 
-
-![Alt text for image on Isomer site](/images/community/smart-nation-together-WIP.png)
+![Smart Nation Together](/images/Smart-nation-together-wip.png)
 
 We have a wide array of workshops available for you to learn more. Whether you are interested in learning the basics of coding or simply want to hear about the latest technological trends from subject experts, there will always be something for everyone! 
 
