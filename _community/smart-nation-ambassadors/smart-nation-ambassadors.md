@@ -1,9 +1,8 @@
 ---
 title: Smart Nation Ambassadors
 permalink: /community/smart-nation-ambassadors
-third_nav_title: "Smart Nation Ambassadors"
+third_nav_title: Smart Nation Ambassadors
 ---
-
 # Assist The  Community As An Ambassador Today!
 
 ![Smart Nation Ambassdors at an event](/images/community/SNA-smart-Nation-U.jpg)
@@ -35,8 +34,7 @@ We are looking for individuals interested in helping others live digitally-enabl
 
 Have a question or need more help? Refer to our list of [FAQs](/community/smart-nation-ambassadors/faq) or email us at [Ambassadors@smartnation.gov.sg](mailto:Ambassadors@smartnation.gov.sg).
 
-Check out our schedule of upcoming events that you can <a href="https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation" target="_blank">volunteer for here</a>
+Check out our schedule of upcoming events that you can <a href="https://www.volunteer.gov.sg/volunteer/agencies/agency_details/?code=SmartNation" target="_blank">volunteer for here</a>
 
 For more updates on Smart Nation events, follow us on Telegram:  
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:240px;height:62px;"><a href="https://t.me/SmartNationAmbassadors" target="_blank"><img src="/images/community/sna-tg.png"></a></div></div>
- 
