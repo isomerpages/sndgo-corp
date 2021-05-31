@@ -33,6 +33,6 @@ The development and use of such digital planning tools contribute to Singapore�
 
 Over the next few weeks, Urban Lab will hold talks where members of public can learn more about some of the projects and tools showcased in the exhibition.
 
-‘Our Digital World’ will run from 28 June to 17 September 2016 at the URA Centre Atrium. Admission is free. More details on Urban Lab, the exhibition and the upcoming talks can be found at [http://ura.sg/urbanlab](http://ura.sg/urbanlab).
+‘Our Digital World’ will run from 28 June to 17 September 2016 at the URA Centre Atrium. Admission is free. More details on Urban Lab, the exhibition and the upcoming talks can be found at [http://ura.gov.sg/urbanlab](http://ura.gov.sg/urbanlab).
 
 [Press release issued by Urban Redevelopment Authority](https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr16-39)
