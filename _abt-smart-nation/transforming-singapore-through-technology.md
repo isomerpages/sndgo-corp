@@ -2,7 +2,6 @@
 title: Transforming Singapore Through Technology
 permalink: /abt-smart-nation/transforming-singapore
 ---
-
 # A Digital First Singapore
 
 Technological disruption is happening on a global scale. 
@@ -22,7 +21,6 @@ Find out more about the framework that guides the Smart Nation Initiative: ["Sma
 There are key enablers to transform an entire nation, which will help everyone onboard onto the digital platforms. The Government has identified some Strategic National Projects to support Singapore and the citizens to transform the way we live.
 
 **The key projects are:**
-**Pending links**
 -	[CODEX](/initiatives/strategic-national-projects/codex)
 -	[E-Payments](/initiatives/strategic-national-projects/e-payments)
 -	[LifeSG Initiative](/initiatives/strategic-national-projects/lifesg-initiative)
