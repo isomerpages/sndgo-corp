@@ -3,7 +3,7 @@ title: Join Us
 permalink: /careers/join-sndgo
 breadcrumb: Join Us
 ---
-# Lead our Smart Nation Transformation
+# Lead Our Smart Nation Transformation
 A world-class city, with a leading economy and an inclusive society where everyone benefits from the latest tech developments.
 
 That’s how we envision the future of our nation. 
