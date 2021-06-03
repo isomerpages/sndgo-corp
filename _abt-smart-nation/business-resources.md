@@ -1,11 +1,8 @@
 ---
-title: Business Resources 
+title: Business Resources
 permalink: /about-smart-nation/business-resources
 ---
-
 # Business Resources
-
-![alt](/images/hero-banner.png)
 
 Starting a new business or running one is a daunting task – especially in the midst of this global digital transformation that the world is going through. 
 
