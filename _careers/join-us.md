@@ -17,4 +17,4 @@ We’re determined to bring about real transformation in our society, economy an
 Join the Smart Nation and Digital Government Office and shape the way we live, work, and play.
 
 
-**Inspired and keen to join our team today? Check out the available positions we have on <a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=smart%20nation%20and%20digital%20government%20office&job-mail-subscribe-privacy=agree" target="_blank">Careers@Gov</a> or email us at XXXXX**
+**Inspired and keen to join our team today? Check out the available positions we have on <a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=smart%20nation%20and%20digital%20government%20office&job-mail-subscribe-privacy=agree" target="_blank">Careers@Gov</a>
