@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/SNW%20hero%20banner.jpeg
+      background: /images/SNW-hero-banner-RED.jpeg
       key_highlights:
         - title: Strategic National Projects
           description: The building blocks of our Smart Nation Initiative
