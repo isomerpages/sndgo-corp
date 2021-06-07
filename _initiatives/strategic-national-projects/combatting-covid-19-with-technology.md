@@ -18,17 +18,17 @@ In Singapore, we managed to respond swiftly and effectively to the pandemic usin
 
 Digital contact tracing solutions had to be swiftly conceptualised and implement as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount. 
 
-With the help of the digital contact tracing tools – TraceTogether and SafeEntry, - we managed to reduce the average time to identify and quarantine close contacts from 4 days to less than 1.5 days. 
+With the help of the digital contact tracing tools – TraceTogether (TT) and SafeEntry, - we managed to reduce the average time to identify and quarantine close contacts from 4 days to less than 1.5 days. 
 
 ### [SafeEntry]( https://www.safeentry.gov.sg/)
 
 SafeEntry is our national digital check-in system that logs the information of individuals who visit selected locations to support our contract tracing efforts. 
 
-Members of the public can check-in (and out) using the following methods:
-*	TraceTogether App or Token
-*	Singpass App
-*	ID Card (e.g. NRIC, Passion card, Pioneer Generation, driver's licence, etc.) 
-*	Using your phone camera or QR scanner app to scan the QR code at the venue
+Individuals who wish to enter a venue where SafeEntry is mandatory, will need to have either an active TT App or a working TT Token. They can only perform SafeEntry check-ins by:
+
+1. Using their TT App to scan the venue’s QR code;
+2. Displaying their TT Token for venue staff to scan the TT Token’s QR code;
+3. Tapping their TT App or TT Token at a SafeEntry Gateway device.
 
 With SafeEntry, we can log the individuals' entry and exit times to a location to have a complete picture of how far the virus can spread and allow the health authorities to understand the virus transmission better. 
 
