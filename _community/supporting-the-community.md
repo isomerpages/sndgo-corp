@@ -3,8 +3,7 @@ title: Supporting The Community
 permalink: /community/supporting-the-community
 ---
 # Ensuring Everyone Has The Opportunity
- 
-![Support for individuals](/images/Support-for-individuals.png)
+![Opportunities & help for the community](/images/Community-individuals.jpg) 
 
 As Singapore transforms into a Smart Nation, we want to also ensure that all segments of our society can be a part of this journey. Below are various Government initiatives created to assist different groups of people. 
 
