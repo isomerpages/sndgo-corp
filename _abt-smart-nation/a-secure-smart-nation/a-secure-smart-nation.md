@@ -4,9 +4,8 @@ permalink: /abt-smart-nation/secure-smart-nation
 breadcrumb: A Secure Smart Nation
 third_nav_title: A Secure Smart Nation
 ---
-
 # Keeping Our Digital Nation Safe
-![A Secure Smart Nation overview](/images/secure-smart-nation-wip.png)
+![A Secure Smart Nation overview](/images/secure-smart-nation.jpg)
 
 **“Data is the lifeblood of a digital economy and a digital government. As the custodian of a vast amount of data, the Government takes its responsibility of securing the data and preserving individuals’ privacy very seriously.”**<br>
 *- Prime Minister Lee Hsien Loong, Nov 2019*
