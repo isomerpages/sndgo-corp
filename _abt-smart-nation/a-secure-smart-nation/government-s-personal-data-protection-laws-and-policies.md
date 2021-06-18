@@ -2,12 +2,11 @@
 title: Government's Personal Data Protection Laws And Policies
 permalink: /abt-smart-nation/secure-smart-nation/personal-data-protection
 breadcrumb: Personal Data Protection Laws And Policies
-third_nav_title: "A Secure Smart Nation"
+third_nav_title: A Secure Smart Nation
 ---
-
 # Setting Out Guidelines And Rules For Everyone
 
-![image](/images/hero-banner.png)
+![Personal Data Protection Laws and Policies](/images/PDPA.png)
 
 The Government has put in place strong personal data protection laws and policies to safeguard sensitive data.
 
