@@ -2,12 +2,10 @@
 title: Cybersecurity In The Public Sector
 permalink: /abt-smart-nation/secure-smart-nation/cybersecurity
 breadcrumb: Cybersecurity
-third_nav_title: "A Secure Smart Nation"
+third_nav_title: A Secure Smart Nation
 ---
-
 # Protecting Our Digital Landscape
-
-![Image](/images/hero-banner.png)
+![Cybersecurity](/images/Cybersecurity.png)
 
 Digital technologies and solutions need to be made secure to ensure that there is no disruption to citizen services and citizens’ data entrusted to the Government is protected.
 
