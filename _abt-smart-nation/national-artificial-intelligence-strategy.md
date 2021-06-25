@@ -2,103 +2,84 @@
 title: National Artificial Intelligence Strategy
 permalink: /abt-smart-nation/artificial-intelligence
 ---
+As a Smart Nation, we want to go beyond just adopting technology. Our aim is to fundamentally rethink business models, so that we can make impactful changes to reap productivity gains and create new growth areas.
 
+By 2030, we see Singapore as a leader in developing and deploying scalable, impactful artificial intelligence (AI) solutions, in key sectors of high value and relevance to our citizens and businesses.
 
-# The Next Key Frontier Of Singapore's Smart Nation Journey
+Read more about our [National Artificial Intelligence Strategy here. (2.7mb)](/files/publications/national-ai-strategy-summary.pdf)
 
-The National Artificial Intelligence (AI) Strategy is a key step in our Smart Nation journey. It spells out our plans to deepen our use of AI technologies to transform our economy. We want to go beyond just adopting technology.  The aim is to fundamentally rethink business models and make changes to reap productivity gains and create new growth areas.
+## National Artificial Intelligence Strategy
 
-We have currently identified five National AI Projects in these key areas:
--	**Transport and logistics:** Intelligent Freight Planning to optimise the movement of freight to improve productivity for businesses and traffic efficiency.
--	**Smart Cities and Estates:** Seamless and Efficient Municipal Services to make municipal services more responsive, reliable and timely.
--	**Healthcare:** Chronic Disease Prediction and Management to help prevent and better manage chronic diseases.
--	**Education:** Personalised Education through Adaptive Learning and Assessment to help teachers better customise and improve every student's learning experience.
--	**Safety and Security:** Border Clearance Operations – to strengthen border security while improving traveller experience.
+The [National AI Strategy (2.7mb)](files/publications/national-ai-strategy.pdf) outlines our plans to deepen the use of AI to transform our economy:
 
-In these projects, AI technologies will address challenges and deliver a strong social and economic impact for Singapore and Singaporeans. 
+ - Identify areas to focus attention and resources on at a national level
+ - Set out how the Government, companies and researchers can work together to realise the positive impact from AI
+ - Address areas where attention is needed to manage change and/or manage new forms of risks that emerge when AI becomes more pervasive
 
-The National AI strategy also outlines five key enablers to anchor a vibrant and sustainable AI ecosystem to drive AI innovation and adoption across the economy. They are:
-1. Triple Helix Partnership: Research Community + Industry + Government
-2. AI Talent and Education
-3. Data Architecture 
-4. Progressive and Trusted Environment
-5. International Collaboration 
-  
-Find out more in the National AI Strategy document.
+## Building a Vibrant Ecosystem for Sustained AI Innovation
 
-<div style="width:100%;display:flex;flex-wrap:wrap;"> 
-  <div style="flex:50%;padding:1%;">
-    National AI Strategy<br>(pdf - 9.2mb)
-  </div>  
-  <div style="flex:50%;padding:1%;">
-    National AI Strategy (Summary)<br>(pdf - 2.6mb)
-  </div>  
-</div>
-<div style="width:100%;display:flex;flex-wrap:wrap;"> 
-  <div style="flex:50%;padding:1%;">
-    <a href="/files/publications/national-ai-strategy.pdf"><img src="/images/abt-smart-nation/national-AI-strat-cover.png"></a>
-  </div>  
-  <div style="flex:50%;padding:1%;">
-    <a href="/files/publications/national-ai-strategy-summary.pdf"><img src="/images/abt-smart-nation/national-ai-strat-summary-cover.png"></a>
-  </div>  
-</div>
+In order to drive AI innovation and adoption across our economy, we must build a vibrant and sustainable ecosystem. To do so, we’ve identified five critical ecosystem enablers:
+
+ 1. **Partnership between the research community, industry and Government** enables the rapid commercialisation of fundamental research and deployment of AI solutions.
+ 2. **Talent and education** addresses the need to develop homegrown talent across the entire range of AI-related job roles.
+ 3. **Data architecture** enables quick and secure access to high-quality datasets across various sectors.
+ 4. A **progressive and trusted environment** for test-bedding, developing and deploying AI solutions.
+ 5. **International collaborations** open up opportunities to work with overseas partners to shape the international discourse on AI.
+
+## Five National AI projects that Address Key Challenges
+
+We have also identified five National AI Projects that would address key challenges and also deliver a strong social and economic impact for Singapore and Singaporeans:
+
+**1. Transport and logistics:** Intelligent freight planning optimises the movement of freight for greater business productivity and traffic efficiency.
+
+**2. Smart cities and estates:** Municipal services are made more responsive, reliable and timely for citizens.
+
+**3. Healthcare:** Chronic disease prediction and management helps with faster detection and care for such diseases.
+
+**4. Education:** Personalised education through adaptive learning and assessment helps teachers better customise and improve their students learning experience.
+
+**5. Safety and security:** Border clearance operations strengthen security while improving travellers’ experience.
 
 ## Working Together
 
-The National AI Strategy needs everyone to come together - Singaporeans, businesses, researchers and the Government – to work closely to achieve our goals. Singapore will also need to work with international partners to advance the deployment of AI in Singapore. There are four ways you can be involved in the National AI Strategy: 
+The success of our National AI Strategy depends on Singaporeans, businesses, researchers and the Government coming together to work closely towards our goals. We will also need to work with international partners to better make use of AI in Singapore.
 
-### National AI Projects
+You can play a part in our future success by contributing through one of these four ways:
 
-If you have ideas or solutions that can contribute to our five National AI Projects or have new National AI projects to propose, <a href="https://form.gov.sg/#!/5dbbe22a895bd6001283542e" target="_blank">please fill up this form.</a> We will reach out to you after we have evaluated your proposal.
+### Submit ideas and solutions for National AI Projects
 
-### Transform your Business with AI
+If you have any ideas, solutions or even proposals for new National AI projects, send them our way via [this form](https://form.gov.sg/#!/5dbbe22a895bd6001283542e).
 
-No matter your company's size, you can start your AI transformation journey today by building up your technological capabilities and digital infrastructure. If you are a company that is already adopting AI, take part in data sharing initiatives to promote greater use of AI and contribute to a trusted environment by adopting AI governance initiatives. 
-There are many avenues where companies can receive support from the Government. Find out more about the resources to support businesses in their AI transformation journey:
+### Transform your business with AI
 
-#### <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital" target="_blank">SMEs Go Digital Programme</a>
-SMEs can leverage the sector-specific Industry Digital Plans, which provide a step-by-step guide on the digital solutions to adopt at each stage of its growth.
- 
-#### <a herf="https://www.aisingapore.org/industryinnovation/100e/" target="_blank">AI Singapore's 100 Experiments programme</a>
-The 100 Experiments programme supports companies in deploying AI in a co-investment model. 
+If your business is already using AI, you can take part in data sharing initiatives to promote the greater use of the tech and contribute to a trusted environment by adopting AI governance initiatives.
 
-#### <a href="https://makerspace.aisingapore.org/" target="_blank">AI Makerspace</a> 
-The AI Makerspace is a new national platform to support SMEs and startups to jump start their AI journey.
- 
-#### <a href="https://www.imda.gov.sg/programme-listing/digital-services-lab" target="_blank">Digital Services Lab</a>
-The Digital Services Lab provides a suite of tools to help companies and developers to build AI solutions and leverage AI technologies.
+You can also take advantage of the following resources to kickstart or advance your AI transformation journey:
 
-#### <a href="https://www.a-star.edu.sg/enterprise/innovation-offerings/programmes-for-smes/technology-for-enterprise-capability-upgrading" target="_blank">A*STAR’s T-UP programme</a> 
-The T-Up programme helps local SMEs build up technological capabilities and develop innovative products and services by seconding A*STAR scientists and research engineers to aid in the SMEs' R&D projects for up to two years.
- 
-#### <a href="https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2019/Enabling-Data-Driven-Innovation-Through-Trusted-Data-Sharing-In-A-Digital-Economy" target="_blank">Trusted Data Sharing Framework</a>
-The Trusted Data Sharing Framework guides companies in establishing data sharing partnerships.
- 
-#### <a href="https://www.imda.gov.sg/AI" target="_blank">Model AI Governance Framework</a>
-The Model AI Governance Framework provides detailed and readily implementable guidance to private sector organisations to address critical ethical and governance issues when deploying AI solutions.
+- [SMEs Go Digital Programme](https://www.imda.gov.sg/programme-listing/smes-go-digital) provides sector-specific Industry Digital Plans (IDPs) that guide SMEs on the digital solutions they can adopt at each stage of their growth.
+- [AI Singapore’s 100 Experiments programme](https://aisingapore.org/industryinnovation/100e/) supports companies in deploying AI by using a co-investment model.
+-  [AI Makerspace](https://makerspace.aisingapore.org/) is a new national platform helping SMEs and startups kick off ]their AI journey.
+- [Digital Services Lab](https://www.imda.gov.sg/programme-listing/digital-services-lab) provides a suite of tools to help companies and developers build AI solutions and harness its benefits. 
+- [A*STAR’s T-UP programme](https://www.a-star.edu.sg/enterprise/innovation-offerings/programmes-for-smes/technology-for-enterprise-capability-upgrading) facilitates the secondment of A*STAR scientists and research engineers to work on SMEs’ R&D projects for up to two years, helping these businesses build their tech capabilities and develop innovative products and services.
+- [Trusted Data Sharing Framework](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2019/Enabling-Data-Driven-Innovation-Through-Trusted-Data-Sharing-In-A-Digital-Economy) guides companies in establishing data sharing partnerships and practices.
+- [Model AI Governance Framework](https://www.imda.gov.sg/AI) provides private sector organisations with a detailed and readily-implementable guide to address critical ethical and governance issues when using AI.
 
-### Participate in Singapore's AI Ecosystem
+### Participate in Singapore’s AI ecosystem
+As we transform our key sectors using AI, there will be many opportunities for businesses to research, develop and deploy such technologies in Singapore and the region.
 
-As we transform our key sectors through AI, there will be an abundance of opportunities for businesses to research, develop, and deploy AI solutions in Singapore and the region. Local and international investors can establish an AI team in Singapore and leverage our research ecosystem to enhance and validate new AI methodologies. The Government supports companies in participating in the AI ecosystem through the following ways:
+As a local or international investor, you can establish an AI team in Singapore and leverage our research ecosystem to enhance and validate new AI methodologies.
 
-#### <a href="https://www.imda.gov.sg/programme-listing/accreditation-at-sgd" target="_blank">IMDA’s Accreditation@SGD</a> and <a href="https://www.imda.gov.sg/programme-listing/sgd-spark" target="_blank">SG:D Spark</a> programmes
-These programmes give buyers the assurance of reliable digital and AI solutions when working with these companies and startups and help grow and scale promising and innovative Singapore-based startups and companies.
- 
-#### <a href="https://www.a-star.edu.sg/i2r/home" target="_blank">A*STAR – Institute for Infocomm Research</a> 
-A*STAR co-innovates with industry and creates AI technologies and solutions that can be applied in a wide range of sectors such as Engineering, Manufacturing, Healthcare, Security, Education, Finance, and Transportation.
+The Government supports your participation in our AI ecosystem with the following initiatives:
+- [IMDA’s Accreditation@SGD](https://www.imda.gov.sg/programme-listing/accreditation-at-sgd) and [SG:D Spark programmes](https://www.imda.gov.sg/programme-listing/sgd-spark)
+- [A*STAR – Institute for Infocomm Research co-innovates with industry](https://www.a-star.edu.sg/i2r/home) to create AI tech and solutions that can be used in sectors such as Engineering, Manufacturing, Healthcare, Security, Education, Finance and Transportation.  
+- [Accelerated Initiative for AI](https://www.ipos.gov.sg/protect-ip/apply-for-a-patent/accelerated-programmes) helps shorten the patent grant process for businesses to as soon as six months.
 
-#### <a href="https://www.ipos.gov.sg/protect-ip/apply-for-a-patent/accelerated-programmes" target="_blank">Accelerated Initiative for AI</a>
-Companies can expedite the patent grant for AI inventions in as fast as six months
- 
-### Learn About AI
-To keep up with the advances in AI technology and be ready to take on the exciting jobs that AI creates, Singaporeans need to continue to upgrade and improve their skills and understand how to apply AI in their respective domains. Learn more about the support available to help individuals learn and gain access to technology here:
- 
-#### <a href="https://www.aisingapore.org/talentdevelopment/" target="_blank">AI Singapore Talent Development Programmes</a>
-Whether you want to dip your toes into AI or take on an apprenticeship program, AI Singapore organises different levels of AI talent development courses. Learn more about AI through the AI Apprenticeship Programme, AI for Everyone, AI for Industry, AI for Students, and AI for Kids via AI Singapore's website. 
- 
-#### <a href="https://www.imda.gov.sg/imtalent/about-us/national-talent-development-initiatives/techskills-accelerator--tesa" target="_blank">TechSkills Accelerator (TeSA)</a>
-Keen to pursue a career or acquire new skills in the ICT sector? TeSA offers various programmes in collaboration with industry partners and hiring employers for ICT and non-ICT professionals to upgrade or develop new skills to meet the demand for ICT professionals! 
- 
-#### <a href="https://www.skillsfuture.gov.sg/digitalworkplace" target="_blank">SkillsFuture for Digital Workplace</a> 
-The SkillsFuture for Digital Workplace is a national initiative that aims to equip the Singaporean workforce with the relevant mindset and skills to prepare them for the future economy.
-SSG and IBM have incorporated AI content into the curriculum of the SkillsFuture for Digital Workplace programme. This course will help Singaporeans understand the fundamentals of AI technology and how they can apply AI in their workplace and daily lives. 
+### Learn about AI
+
+It’s crucial for every Singaporean to upgrade and improve our skills so that we can keep up with the advances of AI and be ready to take on the exciting jobs that are created.
+
+Learn and gain access to AI technology through these programmes:
+
+- [AI Singapore Talent Development Programmes](https://www.aisingapore.org/talentdevelopment/) offer learning opportunities for all with courses such as the AI Apprenticeship Programme, AI for Everyone, AI for Industry, AI for Students, and AI for Kids.  
+- [TechSkills Accelerator (TeSA)](https://www.imda.gov.sg/imtalent/about-us/national-talent-development-initiatives/techskills-accelerator--tesa) works with industry partners and employers to offer various programmes for both  ICT and non-ICT professionals to upgrade or develop new skills to meet growing demand.  
+- [SkillsFuture for Digital Workplace program](https://www.skillsfuture.gov.sg/digitalworkplace) is a course designed to help Singaporeans understand the fundamentals of AI and how it can be applied in their workplaces and daily lives. The curriculum includes content developed by SSG and IBM.
