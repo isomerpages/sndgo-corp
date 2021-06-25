@@ -3,7 +3,7 @@ title: Join Us
 permalink: /careers/join-sndgo
 breadcrumb: Join Us
 ---
-# Help remake Singapore into a Smart Nation 
+# Help Remake Singapore into a Smart Nation 
 We envision Singapore to be a world-class city, a leading economy and an inclusive society where everyone benefits from the latest developments in technology.
 
 To realise this vision, we need talent. Specifically, yours.
