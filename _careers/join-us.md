@@ -3,18 +3,15 @@ title: Join Us
 permalink: /careers/join-sndgo
 breadcrumb: Join Us
 ---
-# Lead Our Smart Nation Transformation
-A world-class city, with a leading economy and an inclusive society where everyone benefits from the latest tech developments.
+# Help remake Singapore into a Smart Nation 
+We envision Singapore to be a world-class city, a leading economy and an inclusive society where everyone benefits from the latest developments in technology.
 
-That’s how we envision the future of our nation. 
+To realise this vision, we need talent. Specifically, yours.
 
-To accomplish this goal, we need talent. 
+We're calling the dreamers and visionaries who dare to imagine the potential of the Smart Nation vision, and those with the skills and know-how to make this a reality. (If you are in both these camps, even better!)
 
-We need the dreamers and visionaries who dare to imagine the full potential of our Smart Nation transformation, as well as the brilliant individuals with the hard skills and knowledge to make it all a reality. 
+Be part of the Smart Nation and Digital Government Office and help shape the way we live, work and play. 
 
-We’re determined to bring about real transformation in our society, economy and government. Are you?
+From defining our national artificial intelligence strategy to crafting policies that are inclusive for all our people, there are exciting positions on offer. 
 
-Join the Smart Nation and Digital Government Office and shape the way we live, work, and play.
-
-
-**Inspired and keen to join our team today? Check out the available positions we have on <a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=smart%20nation%20and%20digital%20government%20office&job-mail-subscribe-privacy=agree" target="_blank">Careers@Gov</a>**
+**Are you up for the challenge? Check out the available positions we have on <a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=smart%20nation%20and%20digital%20government%20office&job-mail-subscribe-privacy=agree" target="_blank">Careers@Gov</a>**
