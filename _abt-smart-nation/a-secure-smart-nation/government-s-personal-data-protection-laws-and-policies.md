@@ -6,7 +6,7 @@ third_nav_title: A Secure Smart Nation
 ---
 # Setting Out Guidelines And Rules For Everyone
 
-![Personal Data Protection Laws and Policies](/images/PDPA.png)
+![Personal Data Protection Laws and Policies](/images/PDPA-WIP.png)
 
 The Government has put in place strong personal data protection laws and policies to safeguard sensitive data.
 
