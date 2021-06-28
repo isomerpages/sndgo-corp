@@ -1,8 +1,9 @@
 ---
-title: SmartNationTogether
+title: "#SmartNationTogether"
 permalink: /community/smart-nation-together
 third_nav_title: Smartnationtogether
 ---
+
 
 # Welcome To Our Online Channel! 
 ![Smart Nation Together](/images/smart-nation-together.jpg)
