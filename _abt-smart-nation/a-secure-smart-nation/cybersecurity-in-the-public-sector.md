@@ -5,7 +5,7 @@ breadcrumb: Cybersecurity
 third_nav_title: A Secure Smart Nation
 ---
 # Protecting Our Digital Landscape
-![Cybersecurity](/images/Cybersecurity.png)
+![Cybersecurity](/images/Cybersecurity-WIP.png)
 
 Digital technologies and solutions need to be made secure to ensure that there is no disruption to citizen services and citizens’ data entrusted to the Government is protected.
 
