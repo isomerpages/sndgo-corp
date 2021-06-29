@@ -2,11 +2,11 @@ collections:
   community:
     output: true
     order:
-      - smartnationtogether/.keep
-      - smartnationtogether/smartnationtogether.md
-      - smartnationtogether/children-youths-and-young-parents.md
-      - smartnationtogether/working-adults.md
-      - smartnationtogether/seniors.md
+      - SmartNationTogether/.keep
+      - SmartNationTogether/smartnationtogether.md
+      - SmartNationTogether/children-youths-and-young-parents.md
+      - SmartNationTogether/working-adults.md
+      - SmartNationTogether/seniors.md
       - smart-nation-ambassadors/.keep
       - smart-nation-ambassadors/smart-nation-ambassadors.md
       - smart-nation-ambassadors/smart-nation-ambassadors-faqs.md

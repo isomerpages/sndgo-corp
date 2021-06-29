@@ -1,7 +1,7 @@
 ---
 title: "#SmartNationTogether"
 permalink: /community/smart-nation-together
-third_nav_title: Smartnationtogether
+third_nav_title: SmartNationTogether
 ---
 
 
