@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/logo.png
-
 links:
   - title: About Smart Nation
     collection: abt-smart-nation
@@ -18,18 +11,16 @@ links:
   - title: Careers
     collection: careers
     Sublinks:
-    - title: Careers in Gov ICT & SS
-      url: https://techcareers.smartnation.gov.sg/
-      
-#  - title: Why Smart Nation
-#    collection: why-smart-nation
-#  - title: What Is Smart Nation
-#    collection: what-is-smart-nation
-#  - title: How To Be Involved
-#    collection: how-to-be-involved
-#  - title: What's New
-#    resource_room: true
-#  - title: Smart Businesses
-#    collection: business
-#  - title: Report Data Incident
-#    collection: report-data-incident
+      - title: Careers in Gov ICT & SS
+        url: https://techcareers.smartnation.gov.sg/
+  - title: Careers
+    url: /careers/join-sndgo
+    sublinks:
+      - title: Join Us
+        url: /careers/join-sndgo
+      - title: Smart Nation Scholarship
+        url: /careers/smart-nation-scholarship
+      - title: Smart Nation Fellowship
+        url: /careers/smart-nation-fellowship
+      - title: Careers in Gov ICT & SS
+        url: https://techcareers.smartnation.gov.sg/
