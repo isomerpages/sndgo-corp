@@ -2,33 +2,21 @@
 title: Transforming Singapore Through Technology
 permalink: /abt-smart-nation/transforming-singapore
 ---
-# A Digital First Singapore
+# Transforming Singapore Through Technology
 
-Technological disruption is happening on a global scale. 
+There is an ongoing digital revolution, and advancements in digital technologies are transforming the way we live, work and play. We envision a Smart Nation that is a leading economy powered by digital innovation, and a world-class city with a Government that gives our citizens the best home possible and responds to their different and changing needs.
 
-As a globally connected nation, we need to ensure that Singapore can compete at this global level to ensure that we are not left behind. The Smart Nation initiative is the next phase of our nation-building – to build on our strengths and advantages as a small and agile country.
+At the broadest level, the economy is the biggest domain driving Singapore’s growth and competitiveness. It is supported by the Government, which is leaning forward to catalyse growth and innovation across all domains, including the public sector. Crucially, these efforts are underpinned by efforts to ensure that all segments of society are able to harness digital technologies and benefit from them.
 
-At the broadest level, the economy is the most significant domain driving Singapore's growth and competitiveness. It is supported by the Government, leading the charge forward to catalyse change and innovation across all fields, including the public sector. These efforts are underpinned by measures to ensure that all segments of society can harness digital technologies and benefit from them. The enhancements in digital technologies are transforming the way we live, work and play.
-
-We envision a future Singapore that is a leading economy powered by digital innovation, and a world-class city with a Government that gives our citizens the best home possible and responds to their different and changing needs. 
-
-Find out more about the framework that guides the Smart Nation Initiative: ["Smart Nation: The Way Forward" here (pdf - 1.4mb)](/files/publications/smart-nation-strategy-nov2018.pdf)
+Find out more about the framework that guides the Smart Nation Initiative: ["Smart Nation: The Way Forward" here (1.4mb)](/files/publications/smart-nation-strategy-nov2018.pdf)
 
 ![Smart Nation Benefits 2021 Infographic](/images/abt-smart-nation/transforming-sg-through-tech-2021.jpeg)
 
-## Our Strategic National Projects
+## Strategic National Projects
 
-There are key enablers to transform an entire nation, which will help everyone onboard onto the digital platforms. The Government has identified some Strategic National Projects to support Singapore and the citizens to transform the way we live.
+To drive pervasive adoption of digital and smart technologies throughout Singapore, we have identified key Strategic National Projects, which are key enablers in our Smart Nation drive.
 
-**The key projects are:**
--	[CODEX](/initiatives/strategic-national-projects/codex)
--	[E-Payments](/initiatives/strategic-national-projects/e-payments)
--	[LifeSG Initiative](/initiatives/strategic-national-projects/lifesg-initiative)
--	[National Digital Identity](/initiatives/strategic-national-projects/national-digital-identity)
--	[Smart Nation Sensor Platform](/initiatives/strategic-national-projects/smart-nation-sensor-platform)
--	[Smart Urban Mobility](/initiatives/strategic-national-projects/smart-urban-mobility)
-
-Find out more about our [Strategic National Projects here.](/initiatives/strategic-national-projects) 
+Find out more about our [Strategic National Projects here.](/initiatives/strategic-national-projects).
 
 ## Enabling A Culture Of Innovation & Experimentation
 
