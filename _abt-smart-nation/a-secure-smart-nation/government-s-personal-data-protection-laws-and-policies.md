@@ -38,7 +38,7 @@ In 2019, the  [**Public Sector Data Security Review Committee**](abt-smart-natio
 
 Find out more about the data-related provisions in Sections 6 to 8 of the <a href="https://sso.agc.gov.sg/Act/PSGA2018" target="_blank">PSGA via this link.</a>
  
-## Data management by third parties of public agencies
+## Data Management by Third Parties of Public Agencies
 
 The Government recognises that Agencies work extensively with Third Parties to deliver services to citizens, carry out operational functions, and plan and analyse policies. When doing so, these Third Parties may handle large volumes of data from the Government. Hence, the high standards of data protection that the Government places on itself must also extend to these Third Parties.
 
