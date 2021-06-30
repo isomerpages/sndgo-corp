@@ -9,11 +9,6 @@ links:
   - title: Media Hub
     resource_room: true
   - title: Careers
-    collection: careers
-    Sublinks:
-      - title: Careers in Gov ICT & SS
-        url: https://techcareers.smartnation.gov.sg/
-  - title: Careers
     url: /careers/join-sndgo
     sublinks:
       - title: Join Us
