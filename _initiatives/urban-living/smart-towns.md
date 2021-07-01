@@ -69,4 +69,12 @@ Residents can look forward to sustainable initiatives such as:
 ![Punggol Northshore Seafront Living](/images/initiatives/smart-nation-punggol-northshore.jpg)
 <h6>Image: Punggol Northshore Seafront Living. Perspective courtesy of HDB</h6>
 
- 
+----------
+
+**Useful links:**
+
+[Smart HDB Homes of the Future](http://www20.hdb.gov.sg/fi10/fi10296p.nsf/PressReleases/F93B15F80588397748257D500009CE6C?OpenDocument)
+
+[Yuhua the First Existing HDB Estate to Go Smart](http://www.hdb.gov.sg/cs/infoweb/press-release/yuhua-the-first-existing-hdb-estate-to-go-smart)
+
+[My Smart HDB Home @ Yuhua](http://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page/hdb-smart-home-exhibition)
