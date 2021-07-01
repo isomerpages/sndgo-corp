@@ -12,7 +12,7 @@ collections:
       - strategic-national-projects/smart-urban-mobility.md
       - strategic-national-projects/combatting-covid-19-with-technology.md
       - urban-living/.keep
-      - urban-living/urban-living-overview.md
+      - urban-living/urban-living.md
       - urban-living/automated-meter-reading-trial.md
       - urban-living/dengue-hotspots-survey-drones.md
       - urban-living/myenv-app.md
