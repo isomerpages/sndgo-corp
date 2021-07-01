@@ -1,39 +1,56 @@
 ---
 title: Contactless Fare Payment For Public Transport
 permalink: /initiatives/transport/contactless-fare-payment
-third_nav_title: "Transport"
+third_nav_title: Transport
 ---
-
-# Breezing Through Public Transport 
-
 ![contactless payments on public transport](/images/initiatives/contactless-payment-transport.jpg)
 
-With technology such as NFC becoming a big part of our daily lives, more Singaporeans rely on our mobile devices, gadgets and credit/debit cards for our daily transactions. 
+**Why contactless fare payment?**
 
-Land Transport Authority (LTA) is leveraging these technologies to focus on commuter-centric e-payments for public transport, making fare payments more convenient for commuters.
+-   With more Singaporeans relying on their mobile devices, tech gadgets and credit/debit cards to carry out everyday transactions, the Land Transport Authority (LTA) is leveraging new technologies to shift towards commuter-centric e-payments for public transport, making fare payments more convenient for commuters.
+-   More innovative fare payment systems for bus and train journeys means commuters can zip through fare gates by simply scanning their devices and potentially doing away with the hassle of topping up fare cards.
 
-## SimplyGo - Account-Based Ticketing (ABT) System
+**What can we expect?**
 
-![SimplyGo logo](/images/initiatives/SimplyGo-Logo.png)
+-   Hands-free ticketing technology trial
 
-In March 2017, LTA and MasterCard launched a pilot programme for commuters to pay for their public transport fares with their contactless credit or debit cards, bypassing the need for an additional EZ-link card in our wallets.  Over 100,000 commuters signed up for the pilot, and there was an average of 60,000 transactions DAILY! 
-
-By 2018, Visa, NETS and mobile payments modes came on board the programme offering even more options for the commuters. Following the successful pilot of the ABT system, SimplyGo was launched on 4 April 2019! 
-
-With SimplyGo, fare payments more convenient for commuters. Commuters can quickly clear the fare gates by scanning their mobile devices or smartwatches that have been linked to their mobile wallets or your contactless bank card to pay for the fare. 
-
-Commuters would no longer have to go to the general ticketing machines if your EZ-link card has a low value – saving us time and hassle!
-
-Commuters can also easily view their travel expenditure and history by registering for an account on the TransitLink SimplyGo Portal, available online and via the TL SimplyGo mobile app.
-
-For more information on SimplyGo, please head over to <a href="https://simplygo.transitlink.com.sg/" target="_blank">Transit Link</a>.
-
-## Hands-free ticketing technology trials
+-   The hands-free automation fare collection system replaces existing card payment methods, and uses long-range Radio Frequency Identification (RFI) technology to detect a commuter's fare card and deduct fares automatically as they pass a sensor
+-   LTA and ST Engineering launched a trial at Redhill, Tiong Bahru, Kembangan and Bedok MRT stations in June 2018, to provide for a more inclusive public transport system.
+-   The hands-free fare gates allow people with disabilities to enter and exit train stations easily, without the need to tap their fare cards at the gates.
+-   A hands-free ticketing technology trial on buses will take place in late 2018.
+-   Trials are also underway for a Bluetooth-enabled alternative fare collection system that allows commuters to connect seamlessly with gates using a mobile device.
 
 ![hands free ticketing trial](/images/initiatives/Smrt-hands-free-trial.jpeg)
 
-LTA, SMRT and ST Engineering are running a trial at Redhill, Tiong Bahru, Kembangan and Bedok MRT stations to provide a more inclusive public transport system.
+-   Account-Based Ticketing (ABT) System
 
-The hands-free automation fare collection system seeks to replace existing card payment methods. It uses long-range Radio Frequency Identification (RFI) technology to detect a commuter's fare card and deduct fares automatically as they pass a sensor. The hands-free fare gates allow people with disabilities or families with young children to quickly enter and exit train stations without the need to tap their fare cards at the gates.
+-   LTA and MasterCard jointly launched a pilot in March 2017 to allow commuters the ease of direct payment of public bus and train rides using contactless credit or debit cards.
 
-Trials are also underway for a Bluetooth-enabled alternative fare collection system that allows commuters to connect seamlessly with gates using a mobile device. 
+-   More than 100,000 commuters signed up for the pilot, and an average of over 60,000 transactions were made daily.
+
+-   In response to positive feedback, and to allow more commuters to enjoy the convenience of ABT, Visa and NETS came on board the pilot from June 2018.
+
+-   With Singapore’s high mobile penetration rate, LTA also began trial for the use of mobile payment modes for public transport payments from the first quarter of 2018.
+
+-   The pilot will allow LTA and its partners to fine-tune operations before offering ABT to all commuters on a permanent basis in future.
+
+
+![SimplyGo logo](/images/initiatives/SimplyGo-Logo.png)
+
+Following a successful pilot of the Account-Based Ticketing (ABT) system, the Land Transport Authority has launched SimplyGo, starting with Mastercard®, on 4 April 2019.
+
+SimplyGo enables commuters to use contactless bank cards or mobile phones to pay for their travel on public transport, removing the need to carry a separate travel card or make upfront top-ups before travelling. Commuters simply need to tap their Mastercard contactless bank cards on the fare reader at the train station gantry or on the bus when boarding and alighting. Commuters can also easily view their travel expenditure and history by registering for an account on the TransitLink SimplyGo Portal, available online and via the TL SimplyGo mobile app.
+
+---
+
+**Useful links:**
+
+[LTA pilots account-based ticketing system for public transport with MasterCard](https://www.lta.gov.sg/apps/news/page.aspx?c=2&id=ea61ae1b-8aaf-4cab-89b8-c32fdf276745)  
+
+[Bringing greater commuting experience with innovative fare payment systems](http://www.lta.gov.sg/apps/news/page.aspx?c=2&id=f1b4a397-07ff-4a43-9c27-2e29d2e7391c)
+
+[LTA seeks information for future “hands free” automatic fare collection system](http://www.lta.gov.sg/apps/news/page.aspx?c=2&id=232c3fef-7896-411d-90bc-08c17f430808)
+
+[LTA to pilot account-based ticketing system](https://www.lta.gov.sg/apps/news/page.aspx?c=2&id=2461b224-f045-4318-b40b-a85591e849f7)
+
+[More convenient travel with SimplyGo from 4 April!](https://www.lta.gov.sg/apps/news/page.aspx?c=2&id=55eaf2f4-5722-4294-a008-05546f4cf69a)
