@@ -21,7 +21,7 @@ collections:
       - urban-living/smart-elderly-alert-system.md
       - urban-living/smart-towns.md
       - transport/.keep
-      - transport/transport-overview.md
+      - transport/transport.md
       - transport/autonomous-vehicles.md
       - transport/contactless-fare-payment-for-public-transport.md
       - transport/on-demand-shuttle.md
