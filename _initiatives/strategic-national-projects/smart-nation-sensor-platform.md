@@ -1,47 +1,34 @@
 ---
-title: Smart Nation Sensor Platform  
+title: Smart Nation Sensor Platform
 permalink: /initiatives/strategic-national-projects/smart-nation-sensor-platform
-third_nav_title: "Strategic National Projects"
+third_nav_title: Strategic National Projects
 ---
-
-# Planning For A Better Future
-
 ![Smart nation sensor platform](/images/initiatives/smart-nation-sensor-platform.jpg)
 
-In this digital age, we always hear about how there are large amounts of data out there for businesses to process before using it to grow their businesses. 
 
-The Smart Nation Sensor Platform  (SNSP) has been created to collect essential data to plan and develop solutions to make Singapore an even better place to live. 
+**What is SNSP?**
 
-From smart water meters that give homeowners more data on their water usage to smart lamp posts that can generate data on traffic flows and crowds to ensure our public transport system, the possibilities are endless for sensors and data collection. 
+-   An integrated nation-wide sensor platform to improve municipal services, city-level operations, planning and security.
+-   More systematic use of sensors and data to improve urban planning, build more responsive and reliable public transport, and better public security.
+-   Trials for various aspects of the Smart Nation Sensor Platform are ongoing.
 
-The aim is to create a holistic view of how we live, work, and play to understand the issues better and build solutions to create a better environment for us to live in. 
+**What can we expect?**
 
+-   Wireless Sensor Network
 
-## What is the Smart Nation Sensor Platform?
+	-   Wireless Sensor Network trial will be completed at the end of 2018. The wireless sensor network is being used by over 500 sensors in Yuhua to transmit water usage data from smart water meters. Smart water meters empower users to save water by enabling them to access near real-time water usage data and detect water leaks through a mobile app. A trial in Punggol in 2016 has shown encouraging results, with households observed to achieve water savings of approximately 5% from early leak detection and good water-saving habits.
 
-- An integrated nation-wide sensor platform to improve municipal services, city-level operations, planning and security.
-- The use of sensors and data to improve urban planning, build more responsive and reliable public transport, and better public security.
- 
-## What can citizens expect from this?
+-   Drowning detection at pools
 
-### Wireless Sensor Network
+	-   A pilot has started for drowning detection at swimming pools. The system uses computer vision for drowning detection and continuous surveillance of activities in the pool, and is able to alert the lifeguards and help them react faster to swimmers in distress and prevent drownings.
 
-- Wireless Sensor Network trial, completed at the end of 2018, had over 500  sensors in Yuhua to transmit water usage data from smart water meters. The smart water meters help homeowners save water by providing near real-time water usage data and detect water leaks through a mobile app. 
-- Another trial in Punggol in held 2016 has shown encouraging results, with households able to achieve approximately 5% water savings from early leak detection and good water-saving habits.
+-   Personal Alert Button
 
-### Drowning detection at pools
+	-   A trial is being conducted to seek citizens’ feedback to design and develop a cost-effective, lightweight, easy-deployable elderly help button solution that can replace the current pull cord system. The trial will allow us to understand the needs of the elderly and take in feedback so we can enhance the button accordingly.
 
-- A pilot has started for drowning detection at swimming pools. The system uses computer vision for drowning detection and continuous surveillance of activities in the pool. 
-- It can alert the lifeguards and help them react faster to swimmers in distress and prevent drownings.
-
-### Personal Alert Button
-
-- An ongoing trial is conducted to seek citizens' feedback to design and develop a cost-effective, lightweight, easy-deployable elderly help button solution that can replace the current pull cord system. 
-- This trial will allow us to understand the needs of the elderly and take in feedback to enhance the button accordingly as we gear up to take care of our ageing population.
-
-### Smart Lamp Posts
-- Lamppost-as-a-Platform (Laap) trial commenced in 2019 to host sensors on lamp posts
-- The trial aims to collect data on air quality, rainfall, and footfall. 
-- The sensors' data will be used for effective urban planning for amenities such as safer footpaths and roads for pedestrians and even monitoring our environment as global warming looms worldwide.  
+-   Smart Lamp Posts
+	-   Lamppost-as-a-Platform (Laap) trial will commence in 2019 to host sensors on lamp posts
+	-   The trial will use crowd analytics and environmental sensors to measure air quality, rainfall and water level
+	-   The data from the sensors will be analysed using various techniques, including Artificial Intelligence (AI), to improve policy making and service delivery for citizens and businesses
 
 ![Smart Lamp Posts](/images/initiatives/smart-lamp-post-govtech.png)
