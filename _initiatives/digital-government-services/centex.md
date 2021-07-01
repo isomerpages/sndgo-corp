@@ -1,30 +1,21 @@
 ---
 title: CentEx
 permalink: /initiatives/digital-government-services/centex
-third_nav_title: "Digital Government Services"
+third_nav_title: Digital Government Services
 ---
+![CentEx](/images/initiatives/centex.jpg)
 
-# Building The Dream Team 
-  
- ![CentEx](/images/initiatives/centex.jpg)
+**What is the CentEx for?**
 
-As we progress forward towards our Smart Nation goals, we are building capabilities in key areas to help bolster the growth with a Centre of Excellence (or CentEx) for ICT and Smart Systems. The CentEx is where specialist engineering expertise will be grown to support the government initiatives.
+-   Centre of Excellence (or CentEx) for ICT and Smart Systems is where specialist engineering expertise will be grown to support the government.
+-   The CentEx will house capability centres such as Data Science and AI, ICT Infrastructure, Application Development, Sensors and IoT, Cybersecurity, and GeoSpatial.
+-   The CentEx may expand into new technology capability areas as the need arises. This could include robotics, VR/AR, digital twins or blockchain.
+-   Doing so will enable the Government to have the right capabilities to support our level of ambition, and ensure that the Government is able to “think big, start small and act fast” to seize new opportunities.
 
-The CentEx will house capability centres such as:
-- Data Science and AI
-- ICT Infrastructure
-- Application Development
-- Sensors and IoT
-- Cybersecurity
-- GeoSpatial
+**How will the CentEx build capabilities?**
 
-As we take this journey, the CentEx may expand into new technology capability areas as the need arises. Capabilities could include robotics, VR/AR, digital twins or blockchain. 
+-   By building an in-house reserve of deep technical skills in areas where internal capabilities are needed to deal with highly complex issues on short notice
+-   By raising capabilities of ICT practitioners and leaders across the government
+-   By equipping general public officers with relevant broad-based ICT skills (eg. basic awareness of data analytics)
 
-By developing CentEx, it will enable the Government to have the right capabilities to support our ambition and grow. It also gives us the bandwidth to “think big, start small and act fast” to seize new opportunities as they arise, to have the first mover advantage.
-
-## How will the CentEx Build Capabilities? 
-
-- Building an in-house reserve of deep technical skills in areas where internal capabilities are needed to deal with highly complex issues on short notice.
-  - This has proven extremely useful when the COVID-19 pandemic hit. We were able to be nimble and efficient to creating digital tools to help our fight against the virus. 
-- Raising the capabilities of ICT practitioners and leaders across the government
-- Equipping general public officers with relevant broad-based ICT skills (e.g. basic awareness of data analytics)
+Find out more  [here](https://www.tech.gov.sg/digital-government-transformation/).
