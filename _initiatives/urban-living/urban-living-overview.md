@@ -35,16 +35,10 @@ With limited land, we need to continuously find innovative solutions to improve 
     <a href="	/initiatives/urban-living/urban-planning" target="_blank"><img src="/images/initiatives/overview-pages/planning-people-businesses.png"></a><br>
      <div class="header"><b>Planning for Our People and Businesses</b></div><br>
     <div class="para">Harnessing digital technologies to achieve better planning outcomes for our people and businesses</div>
+	</div>
   <div class="column-c">  
     <a href="/initiatives/urban-living/smart-elderly-alert-system" target="_blank"><img src="/images/initiatives/overview-pages/smart-elderly-alert-system.png"></a><br>
     <div class="header"><b>Smart Elderly Alert System</b></div><br>
     <div class="para">Providing peace of mind to caregivers of elderly loved ones.</div>
   </div>
 	</div>
-<div class="row">  
-  <div class="column-c" > 
-   <a href="/initiatives/urban-living/smart-towns" target="_blank"><img src="/images/initiatives/overview-pages/smart-towns.png"></a><br>
-    <div class="header"><b>Smart Towns</b></div><br>
-    <div class="para">Using technology in the planning, development and management of HDB towns to create more liveable, efficient, sustainable, and safe living environments for residents.</div>
-		  </div>
-</div>
