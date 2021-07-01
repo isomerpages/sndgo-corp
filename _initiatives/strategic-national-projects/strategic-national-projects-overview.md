@@ -5,7 +5,9 @@ third_nav_title: Strategic National Projects
 ---
 # Strategic National Projects
 
-As we move towards our Smart Nation goal, some fundamental drivers have been chosen to be the building blocks in our transformation. These projects will allow us to grow and develop efficiently throughout Singapore. 
+These projects are the building blocks that help us grow and develop efficiently as we transform Singapore into a Smart Nation.
+
+Learn more about these Strategic National Projects:
 
 <style>
 /*--------------------------------------------------------------
