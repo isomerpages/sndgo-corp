@@ -3,29 +3,48 @@ title: FinTech Sandbox
 permalink: /initiatives/businesses/fintech
 third_nav_title: Businesses
 ---
-
-
-# Creating A Innovative And Secure Sandbox 
-
 ![Singapore's central business district](/images/initiatives/Fintech-sandbox.jpg)
 
-With the upcoming four digital banks, the finance industry's buzz words seem to be all about FinTech. Advancements in financial technology, commonly known as "FinTech", are increasingly challenging how business is being done.
 
-The Monetary Authority of Singapore (MAS) is working towards creating a Smart Financial Centre to ensure we retain our regional financial hub status. The Smart Financial Centre is focused on using technology widely in the financial industry to increase efficiency, create more economic opportunities, and better manage risks. 
- 
-## MAS’ FinTech Initiatives
+**Why is FinTech important?**
 
-Efforts are being put in place to nurture a FinTech environment that supports innovation in financial services and where financial institutions such as banks can experiment with the application of new technologies in a safe environment.
+-   Advancements in financial technology, also known as “FinTech”, are increasingly challenging the way business is being done
+-   To maintain our status as a regional financial hub, the Monetary Authority of Singapore (MAS) has set its sights on creating a Smart Financial Centre where technology is used pervasively in the financial industry to increase efficiency, create economic opportunities, and allow for better management of risks.
 
-### Looking Glass @ MAS
-The MAS opened its <a href="https://www.mas.gov.sg/news/media-releases/2016/mas-establishes-fintech-innovation-lab" target="_blank">FinTech Innovation Lab</a> as the platform for the FinTech community to connect, collaborate, and co-create with one another. 
+**Fintech initiatives**
 
-### One-stop virtual entity for FinTech matters
-To promote Singapore as a FinTech hub, the FinTech Office was established with members of the office coming from MAS, Economic Development Board of Singapore, Infocomm Investments Pte Ltd, Info-communications Media Development Authority, National Research Foundation, and SPRING Singapore.  Click here to find out more on the <a href="https://www.mas.gov.sg/development/fintech" target="_blank">FinTech Office.</a> 
- 
-### Open data
-To encourage and facilitate development of innovative solutions, MAS has published data sets from the MAS' Monthly Statistical Bulletin and other financial statistics as <a href="https://secure.mas.gov.sg/api/Search.aspx" target="_blank">Application Programming Interfaces (APIs) here.</a> 
+Efforts are being put in place to nurture a FinTech environment that supports innovation in the financial services, and where financial institutions such as banks, can experiment with the application of new technologies in a safe environment.
 
-### "Regulatory Sandbox" Guidelines
--	Taking on a responsive and forward-looking regulatory approach, MAS has provided a conducive environment for FinTech experiments and allow innovations a better chance to take root
--	It released a consultation paper on proposed <a href="https://www.mas.gov.sg/news/media-releases/2016/mas-issues-regulatory-sandbox-guidelines-for-fintech-experiments" target="_blank">guidelines for a "regulatory sandbox"</a> that will enable financial institutions and non-financial players to experiment with FinTech solutions.
+-   **Looking Glass @ MAS**
+
+The MAS  [opened](https://www.mas.gov.sg/news/media-releases/2016/mas-establishes-fintech-innovation-lab) its FinTech Innovation Lab to serve as a platform for the FinTech community to connect, collaborate, and co-create with one another.
+
+-   **"Regulatory Sandbox"**
+
+To provide a conducive environment for FinTech experiments and allow innovations a better chance to take root, the MAS is taking on a responsive and forward-looking regulatory approach.
+
+It released a consultation paper on proposed guidelines for a “regulatory sandbox” that will enable financial institutions and non-financial players to experiment with FinTech solutions.
+
+In November, MAS issued the [](https://www.mas.gov.sg/news/media-releases/2016/mas-issues-regulatory-sandbox-guidelines-for-fintech-experiments) ["Regulatory Sandbox" guidelines](https://www.mas.gov.sg/news/media-releases/2016/mas-issues-regulatory-sandbox-guidelines-for-fintech-experiments) for FinTech experiments.
+
+-   **One-stop virtual entity for FinTech matters**
+
+Plans are in place to set up a one-stop virtual entity for all FinTech related matters and to promote Singapore as a FinTech hub. Members of the office include MAS, Economic Development Board of Singapore, Infocomm Investments Pte Ltd, Info-communications Media Development Authority, National Research Foundation, and SPRING Singapore.
+
+-   **Open data**
+
+To encourage and facilitate development of innovative solutions, MAS published 12 sets of data from the MAS' Monthly Statistical Bulletin as Application Programming Interfaces (APIs) on their  [website](http://www.mas.gov.sg/Statistics/APIs.aspx).
+
+----------
+
+  
+
+**Useful links**
+
+[MAS Proposes a "Regulatory Sandbox" for FinTech Experiments](https://www.mas.gov.sg/news/media-releases/2016/mas-proposes-a-regulatory-sandbox-for-fintech-experiments)
+
+[Speech Transcript: "Singapore's  FinTech Journey - Where We Are, What Is Next"](https://www.mas.gov.sg/news/speeches/2016/singapore-fintech-journey)  
+
+[MAS establishes FinTech Innovation Lab](https://www.mas.gov.sg/news/media-releases/2016/mas-establishes-fintech-innovation-lab)
+
+[MAS APIs](https://secure.mas.gov.sg/api/Search.aspx)
