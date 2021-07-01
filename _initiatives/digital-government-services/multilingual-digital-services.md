@@ -1,19 +1,14 @@
 ---
-title: Multilingual Digital Services 
+title: Multilingual Digital Services
 permalink: /initiatives/digital-government-services/multilingual-digital-services
-third_nav_title: "Digital Government Services"
+third_nav_title: Digital Government Services
 ---
-
-# To The Power Of Four
-
 ![multilingual digital services](/images/initiatives/multilingual-digital-services.jpeg)
 
-The Government is developing a multilingual digital services policy in line with efforts to promote inclusion and access to digital government services.
+The Government is developing a multilingual digital services policy, in line with efforts to promote inclusion and access to digital government services.
 
-To better understand users' requirements, we started with a selection of digital services with a high transactional volume and are commonly used across demographics. 
+To better understand the requirements of users, we are beginning with a selection of digital services that have a high transaction volume, and that are commonly used across demographics.
 
-The following digital services have been updated to include Singapore's four vernacular languages:
+Since October 2018, citizens have been able to check their Central Provident Fund (CPF) balances, as well as apply for the Housing & Development Board’s (HDB) EASE (Enhancement for Active Seniors) grant, in four languages.
 
-- Accessing Central Provident Fund balances
-- Applying for the Housing & Development Board’s EASE (Enhancement for Active Seniors) grant
-- Online booking for medical appointments at the National Healthcare Group’s Polyclinics 
+Since December 2018, patients at the National Healthcare Group’s Polyclinics have also been able to make their medical appointments online in the four vernacular languages.
