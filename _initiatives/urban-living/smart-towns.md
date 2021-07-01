@@ -1,86 +1,72 @@
 ---
 title: Smart Towns
 permalink: /initiatives/urban-living/smart-towns
-third_nav_title: "Urban Living"
+third_nav_title: Urban Living
 ---
-
-# Transforming Our Estates
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nvEQE84SK1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-With 80% of Singapore's population living in public housing – this is a crucial area of development to provide a living environment that we all can enjoy and take pride in. 
 
-In September 2014, HDB introduced the Smart HDB Town Framework that focuses on five key areas to create better living environments for all as we move towards a Smart Nation. 
+**What are Smart Towns?**
 
-The frameworks help drive many initiatives such as making digital infrastructure in flats, enabling owners to tap on Smart home applications for their daily living or for Estate managements to collect the data to improve the estate services. 
+-   The  **Smart HDB Town Framework**  encapsulates a five-pronged approach HDB is taking to introduce smart into housing estates
 
-## What are Smart Towns?
+	-   Smart Planning - use of computer simulation and data analytics to improve the way towns, precincts, and buildings are planned and designed. Real time information is integrated into the simulation models to derive optimal and cost-effective solutions for urban design technologies in HDB towns.
 
-The Smart HDB Town Framework emphases on the following five core areas that HDB introduce into our housing estates:
+	-   Smart Environment - linking estates with a network of sensors to capture real-time environment information, such as temperature and humidity, which can be used to create a more pleasant environment for residents.
 
-### Smart Planning
+	-   Smart Estate - leverage smart technologies to collect and analyse estate data to optimise maintenance cycles and pre-empt problems.
 
-Using computer simulation and data analytics, we can learn how the environment will play into the neighbourhood's design is essential. The Planners will merge the data to help them decide where to put local amenities to keep them shaded or where the greenery should be planted for shade to keep the residents comfortable as we go about our daily tasks. 
+	-   Smart Living - digital infrastructure in flats to pave the way for intelligent homes. Residents will be able to tap on smart home applications developed by commercial companies.
 
-### Smart Environment 
+	-   Smart Community – leverage data analytics and Information and Communications Technologies (ICTs) to better understand and engage residents, enhance community bonding efforts, and empower communities to take greater ownership in co-creating their living environments
 
-Tapping on the network of sensors allows the estate to turn on and off town services such as lights and fans following the weather conditions – rainy or warm and humid days – to help elevate the comfort levels for all while optimising our energy use!
-
-### Smart Estate
-
-Collecting and analysing the estate data provides the Estate Management with valuable information to help them better plan and improve estate services. Finding a change in the data could suggest a potential issue and allowing them to check and fix services (such as lifts) before it becomes an inconvenience to the residents! 
-
-### Smart Living 
-
-With the digital infrastructure in place, homeowners can tap on Smart home solutions to enhance their flats. Punggol Northshore is the first HDB flats to come with the infrastructure to support commercial solutions.
-
-### Smart Community 
-
-To engage the community, one must first understand patterns and preferences. Armed with the anonymised data – from shopping to lifestyle – the community can plan and create bonding activities to bring the residents together. The residents can also use the data to take ownership and co-creating with each other to bring about their dream estate. 
-
-## What is HDB Smart Hub? 
-
-The brains behind the Smart HDB Town Framework is the HDB Smart Hub. As the 'brains' of the estate operations – the HDB Smart Hub collects and integrates the data from various sources. This data repository helps power the framework – from providing insights for town planning and building design to assisting the town councils to improve their estate management.
+-   The  **HDB Smart Hub**  supports the Smart HDB Town Framework. The Smart Hub is akin to the 'brain' for HDB estate operations, collecting and integrating multiple sources of information such as real-time data on energy used by common services in HDB estates. The data repository helps provide insights to facilitate better town planning and building design, and helps town councils improve estate management.
+    -   The first phase of the Smart Hub was implemented in Yuhua estate in Jurong East; and the next phase will be at Teck Ghee in Ang Mo Kio (a brownfield site), and at Punggol and Tenggah Town (greenfield sites).
  
 ![Peek into the estate operations](/images/initiatives/estate-operations.jpeg)
 *Image: Business Times, "The Brain Behind Estate Operations", 09 Nov 2018.*
 
-## Using Tech to Drive Sustainability Efforts
 
-Beyond using technology to improve our estate living, HDB is also tapping on it to become more eco-friendly as we look towards a greener estate. Residents can look forward to sustainable initiatives such as:
+**Sustainability efforts**
 
-### Smart Lighting
+Residents can look forward to sustainable initiatives such as:
 
-Lighting sensors installed in common areas allow HDB to understand traffic patterns to optimise the lighting requirements. Where there is lower or no traffic, lightings can be reduced to help manage energy usage.  
+-   Smart Lighting
 
-### SolarNova Programme
+	-   Lighting fitted with sensors and anticipatory software, installed in common areas, can help HDB understand human traffic patterns and optimise the provision of lighting.
 
-In 2010, Singapore set a goal to power 60,000 households for a year – which translates to a 350 megawatt-peak (MWp) target - using solar energy by 2020 to tackle climate change. By the first quarter of 2020, we managed to achieve that goal (https://www.ema.gov.sg/media_release.aspx?news_sid=20200422F0KVcWTR1Urf ) 
+	-   The lighting in common areas with little or no human traffic detected, could be reduced and help reduce energy usage.
 
-Our new goal for 2030 is to power 350,000 households for a year (2 gigawatt-peak)! Therefore, this programme focuses on the deployment of solar photovoltaic (PV) systems in Singapore to promote and aggregate demand for solar PV across government agencies to achieve economies of scale and drive the growth of Singapore's solar industry. 
+-   SolarNova Programme
 
-### Pneumatic Waste Conveyance System
+	-   The programme looks at accelerating the deployment of solar photovoltaic (PV) systems in Singapore, to promote and aggregate demand for solar PV across government agencies to achieve economies of scale, as well as drive the growth of Singapore’s solar industry.
 
-This automated waste collection system uses a vacuum-type underground pipe network to collect household waste, and it is transported through underground pipes to a sealed container. 
+	-   HDB will progressively roll out 220 MWp of solar panels across 5,500 HDB blocks within the next few years, which will align with Singapore’s plans to generate 350 MWp of solar power by 2020.
 
-The benefits of this system include:
--	A reduced need for manual labour
--	Improved living environment as the system will help eliminate foul odours emitted from refuse chutes, thereby promoting a more hygienic and cleaner environment
--	Environmentally friendly as the system reduces the need for washing of chutes, reduces infestation of pests, and minimises decomposition of waste
--	Encourage recycling as it supports the separation of waste for recycling 
+-   Pneumatic Waste Conveyance System
 
+	-   An automated waste collection system that uses a vacuum-type underground pipe network to collect household waste, which is then transported through underground pipes to a sealed container. Trucks then periodically collect the waste for disposal.
 
-## Where are these Smart Towns located?
-- HDB's Northshore Residences I & II is the first development to house the first HDB flats equipped with the infrastructure needed to support Smart home solutions. 
+	-   Benefits include:
+
+		-   Reduced need for manual labour
+		-   Improved living environment as the system helps eliminate foul odours emitted from refuse chutes, thereby promoting a more hygienic and cleaner environment
+		-   Environmentally friendly as the system reduces the need for washing of chutes, reduces infestation of pests, and minimises decomposition of waste
+		-   Encourage recycling as it supports separation of waste for recycling
+
+**Where are these Smart Towns and Homes?**
+
+-   Punggol town:
+
+	-   Town planners, architects and engineers use smart planning tools and data analytics to analyse the wind flow, solar irradiance and shaded areas within a town, and determine how best new flats can be designed and sited to provide maximum thermal comfort and a more conducive living environment for our residents.
+
+-   HDB’s Northshore Residences I & II:
+
+	-   To be completed in 2020, this will house the first HDB flats equipped with the infrastructure needed to support such smart home solutions.
+
+	-   A number of private sector-driven smart home trials have also been launched, such as The Luxurie by M1 and Keppel Land which was announced in December 2015. Visionaire and iNz Residence, Executive Condominium (EC) projects with Smart Homes at Sembawang and Choa Chu Kang respectively, are also available for sale.
+
+![Punggol Northshore Seafront Living](/images/initiatives/smart-nation-punggol-northshore.jpg)
+<h6>Image: Punggol Northshore Seafront Living. Perspective courtesy of HDB</h6>
+
  
-![Punggol Northshore seafront living](/images/initiatives/smart-nation-punggol-northshore.jpg)
-*Image: Punggol Northshore Seafront Living. Perspective courtesy of HDB*
-
--	The Punggol town's planners, architects and engineers using smart planning tools and data analytics to analyse the wind flow, solar irradiance (amount of sunlight in a given area) and shaded areas within a town. The information and data will help determine how best to design the new flats to provide maximum thermal comfort and a more conducive living environment for residents.
--	In the private sector, smart home trials have also been launched. Some projects are:
-  o	The Luxurie by M1 and Keppel Land 
-  o	Visionaire – an Executive Condominium (EC) in Sembawang
-  o	iNz Residence, another EC in Choa Chu Kang
-
-## Related  links:
-<a href="https://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page" target="_blank">Smart HDB Town</a>
