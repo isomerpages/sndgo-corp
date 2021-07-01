@@ -1,20 +1,17 @@
 ---
 title: Corppass
 permalink: /initiatives/businesses/corppass
-third_nav_title: "Businesses"
+third_nav_title: Businesses
 ---
-
-# Convenience And Control For Your Business 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ifwp4kfYXCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In line with our Smart Nation objectives and the Government’s aim to create a secure platform for businesses to transact with government digital services. Corppass is the corporate digital identity for businesses and other entities (such as non-profit organisations and associations) to access e-services provided by government agencies since September 2018
 
-## Why Should Businesses Use Corppass?
+**Why use CorpPass**
 
-- Corppass enhances cyber hygiene by allowing employees to use Corppass, instead of Singpass, to transact on their company’s behalf.
-- Business owners are also allowed greater control, with the flexibility of granting employees separate roles to access government digital services.
-- Provides companies greater convenience and visibility by providing a single platform to grant and manage the authorisations given to their employees across all government digital services.
-- For foreign registered entities and individuals without Singpass, Corppass will also allow you to transact with selected government agencies in Singapore.
+-   A single authentication and authorisation system for businesses and other entities (such as non-profit organisations and associations) to access e-services provided by government agencies, CorpPass allows access to more than 130 government digital services.
+-   CorpPass enhances cyber hygiene by allowing employees to use CorpPass, instead of SingPass, to transact on their company’s behalf.
+-   Business owners are also allowed greater control, with the flexibility of granting employees separate roles to access government digital services.
+-   It also allows companies greater convenience and visibility, by providing a single platform to grant and manage the authorisations given to their employees across all government digital services.
+-   For foreign registered entities and individuals without SingPass, CorpPass will also allow you to transact with selected government agencies in Singapore.
 
-For more details on Corppass, head over to their website at <a href="https://www.corppass.gov.sg/" target="_blank">https://www.corppass.gov.sg/</a>
+Find out more  [here](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login).
