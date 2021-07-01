@@ -1,24 +1,18 @@
 ---
 title: Data Innovation Programme Office
 permalink: /initiatives/businesses/data-innovation-programme-office
-third_nav_title: "Businesses"
+third_nav_title: Businesses
 ---
-
-# Providing The Data Support To Our Digital Economy  
-
 ![Data innovation programme office](/images/initiatives/DIPO.jpg)
 
-IMDA, PricewaterhouseCoopers and a Singapore-based startup, DEX, entered into the first Data Collaborative Pilot in April 2018. The six-month pilot  programme had the aim to: 
--	Build a decentralised platform that provides access to data in a regulated and audited fashion, with full awareness and consent of data owners;
--	Drive data sharing collaborative.
 
-Today, the <a href="https://www.imda.gov.sg/programme-listing/Data-Innovation" target="_blank">Data Innovation Programme Office (DIPO)</a> sits under the IMDA umbrella to promote the responsible use of data. 
+**What does the Data Innovation Programme Office (DIPO) do?**
 
-DIPO works with industry partners to scope problem statements through industry-led Data Collaboratives and drive innovation and development for Singapore’s digital economy. They help provide the data ecosystem with more flexibility to work with data and share data in exchange for compliance with ex ante standards and transparency and maintain an open ecosystem that allows the dataset to grow.
+-   The DIPO works with industry to scope problem statements through industry-led Data Collaboratives.
+-   These provide the entire ecosystem with more flexibility to work with data and share data in exchange for compliance with ex ante standards and transparency, as well as to maintain an open ecosystem that allows dataset to grow.
+-   IMDA, PricewaterhouseCoopers (PwC) and a Singapore-based startup, DEX have entered into the first Data Collaborative Pilot, which was launched in April 2018. This is a six-month pilot, with the aim of
 
-The key programmes under the DIPO are:
-- <a href="https://www.imda.gov.sg/programme-listing/data-collaborative-programme" target="_blank">Data Collaborative Programs</a>
--	<a href="https://www.imda.gov.sg/programme-listing/Data-Innovation/Community-for-Data-Innovation" target="_blank">Community for Data Innovation</a>
--	<a href="https://www.imda.gov.sg/programme-listing/Data-Innovation/Policy-Prototyping" target="_blank">Policy Prototyping</a>
+-   Building a decentralised platform that provide access to data in a regulated and audited fashion, with full awareness and consent of data owners;
+-   Driving data sharing collaborative.
 
-For more information, please head over to <a href="https://www.imda.gov.sg/programme-listing/Data-Innovation" target="_blank">DIPO site</a>. 
+-   At the end of six months, it is envisioned that there will be an operational decentralised platform; three collaborative pilots and a Trusted Data framework.
