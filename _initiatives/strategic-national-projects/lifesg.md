@@ -25,7 +25,6 @@ _*Figure refers to newborns who meet the eligibility criteria for birth registra
 
 LifeSG will offer users more ready access to digital government services through the consolidation of personalised content. From August 2020, LifeSG will have a new interface with improved navigation, topical guides and the following features:
 
-![LifeSG KV](https://www.smartnation.gov.sg/images/default-source/default-album/lifesg-kv.jpg?sfvrsn=7267b2e9_2)
 
 **a.** **Explore Services** – Citizens can explore and easily access more than 40 Government services (up from 12 services previously featured on the app). Information displayed is grouped according to topics of interest, such as family and parenting, work and employment, healthcare, housing and property, and other frequently-used digital services. More services will be added progressively.
 
@@ -39,6 +38,6 @@ LifeSG is developed based on insights gathered through citizen engagement sessio
 
 LifeSG is not just a step for the Government to connect the dots. It also represents how active gathering of citizen feedback can help enhance service delivery and design of the app.
 
-Find out more about LifeSG **[here](https://www.life.gov.sg/?utm_source=smartnation&utm_medium=website)**. Have a question or need more help? Refer to our **[frequently asked questions (FAQs)](https://www.life.gov.sg/help-support/about-lifesg?utm_source=smartnation&utm_medium=website).**
+Find out more about LifeSG **[here](https://www.life.gov.sg/)**. Have a question or need more help? Refer to our **[frequently asked questions (FAQs)](https://www.life.gov.sg/help-support/about-lifesg).**
 
 Couldn't find what you're looking for or need more assistance? Email the LifeSG team at [helpdesk@life.gov.sg](mailto:helpdesk@life.gov.sg).
