@@ -42,9 +42,9 @@ With limited land, we need to continuously find innovative solutions to improve 
   </div>     
 </div>
 <div class="row">  
- <div class="column-c" > 
-    <a href="/initiatives/urban-living/smart-towns" target="_blank"><img src="/images/initiatives/overview-pages/smart-towns.png"></a><br>
+  <div class="column-c" > 
+   <a href="/initiatives/urban-living/smart-towns" target="_blank"><img src="/images/initiatives/overview-pages/smart-towns.png"></a><br>
     <div class="header"><b>Smart Towns</b></div><br>
-    <div class="para">Using technology in the planning, development and management of HDB towns to create more liveable, efficient, sustainable, and safe living environments for residents.</div> 
-  </div>
+    <div class="para">Using technology in the planning, development and management of HDB towns to create more liveable, efficient, sustainable, and safe living environments for residents.</div>
+		  </div>
 </div>
