@@ -1,34 +1,31 @@
 ---
 title: myENV App
 permalink: /initiatives/urban-living/myenv-app
-third_nav_title: "Urban Living"
+third_nav_title: Urban Living
 ---
-
 # Keeping The Environment (Status) In Your Pocket
 
-![screenshot of myENV app](/images/initiatives/myenv-overview.jpg)
+![screenshot of myENV app](/images/initiatives/myenv-app-initiatives.jpg)
 
-Do you normally look up at the sky before deciding if you should head out for a day of outdoor fun or indoor exploration?
 
-NEA has taken out the guess work out of the weather and provided it in the palm of our hands with the myENV app. From weather forecast to PSI readings and to even lightening warnings – all these weather info can be accessed through the app at for your convenience. 
+**Why download?**
 
-In addition, the App also provides various public health information like Aedes population areas or Dengue clusters; enabling us to take precautions where necessary. There is are also lists for hawker centres and food hygiene – so you can check out what eateries are near you!
+Get the latest environmental updates and information at your fingertips based on your current location with myENV:
 
-## Why download myENV? 
+-   Access real-time information on Singapore’s weather and air quality including weather forecasts, PSI readings and UV index
+-   Subscribe to receive location-specific alerts on heavy rainfall, lightning and dengue clusters
+-   Locate hawker centres and vector control operators by name or proximity
+-   Search track records of licenced food establishments
+-   View the latest NEA’s events and happenings
+-   Participate by signing up as a volunteer
+-   Report environment-related incidents to NEA by sending geo-tagged pictures
 
-You will get the latest environmental updates and information at your fingertips based on your current location with myENV:
-- Access real-time information on Singapore’s weather and air quality including weather forecasts, PSI readings and UV index
-- Subscribe to receive location-specific alerts on heavy rainfall, lightning and dengue clusters
-- Locate hawker centres and search track records of licenced food establishments
-- Participate by signing up as a volunteer
-- Check out vector control operators by name or proximity
-- View the latest NEA’s events and happenings
-- Report environment-related incidents to NEA by sending geo-tagged pictures
- 
-## How myENV benefits you? 
+**Benefits to citizens**
 
-- Helps users better plan their activities and take pre-emptive measures 
-- Allows everyone to play a part in safeguarding our environment!
+-   Helps users better plan their activities and take pre-emptive measures
+-   Allows everyone to play a part in safeguarding our environment!
+
+The app is installed on 670,000 devices and has 80,000 active users a month. The most popular feature is the Alerts feature. For instance, our air quality 24-hr PSI alert has more than 500,000 subscriptions!
 
 ## Download myENV App now!
 
