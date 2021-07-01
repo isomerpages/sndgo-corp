@@ -74,6 +74,7 @@ The Government supports your participation in our AI ecosystem with the followin
 - [IMDA’s Accreditation@SGD](https://www.imda.gov.sg/programme-listing/accreditation-at-sgd) and [SG:D Spark programmes](https://www.imda.gov.sg/programme-listing/sgd-spark)
 - [A*STAR – Institute for Infocomm Research co-innovates with industry](https://www.a-star.edu.sg/i2r/home) to create AI tech and solutions that can be used in sectors such as Engineering, Manufacturing, Healthcare, Security, Education, Finance and Transportation.  
 - [Accelerated Initiative for AI](https://www.ipos.gov.sg/protect-ip/apply-for-a-patent/accelerated-programmes) helps shorten the patent grant process for businesses to as soon as six months.
+- [SGInnovate](https://www.sginnovate.com/) is one of the fastest-growing communities focused on fostering deep tech in Singapore. It organises talent development programmes, knowledge-sharing sessions and Open Innovation activities, which bring innovators and organisations to the same table as part of its Deep Tech for Good initiative.
 
 ### Learn about AI
 
