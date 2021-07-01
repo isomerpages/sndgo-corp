@@ -42,7 +42,7 @@ collections:
       - digital-government-services/opencerts.md
       - digital-government-services/parents-gateway.md
       - businesses/.keep
-      - businesses/businesses-overview.md
+      - businesses/businesses.md
       - businesses/corppass.md
       - businesses/data-innovation-programme-office.md
       - businesses/fintech-initiatives.md
