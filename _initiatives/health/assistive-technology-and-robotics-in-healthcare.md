@@ -1,46 +1,54 @@
 ---
 title: Assistive Technology and Robotics In Healthcare
 permalink: /initiatives/health/assistive-techonology-robotics
-third_nav_title: "Health"
+third_nav_title: Health
 ---
 # Improving Healthcare With Technology
 
 ![robotics in healthcare](/images/initiatives/health-robotics.jpg)
   
-The elderly and the people with disabilities – need healthcare as one of their core requirements due to their individual needs. Therefore, our healthcare system is continually looking into new ways to meet these two groups' needs to ensure that they are getting the best care possible. 
 
-Especially with our ageing population, we are also working towards ensuring that we are ready to serve our ageing population's changing needs. 
+**How can technology, healthcare analytics, and robotics improve the provision of healthcare?**
 
-There are three areas of focus: 
+**Enhance overall well-being**
 
-## 1) Enhance Overall Well-being
+-   Enable independent living for the growing ageing population
+-   For the elderly and those with disabilities, developments in assistive technology and robotics can make a real difference to the way they are able to complete tasks and activities  
+    
 
-- To enable independent living for our growing ageing population
-- For the elderly and those with disabilities, developments in assistive technology and robotics will make a real difference to the way they can complete tasks and activities
+**Enhance productivity in healthcare**
 
-## 2) Improve Patient Care
+-   Delivery drones dispatch medicines and equipment
+-   Industrial robotic arm can pick and pack a range of objects, including fragile items
+-   Automated guided vehicles (AGV) can transport food, linen or documents, or move heavy items like beds
+-   Data analytics to improve daily operations and reducing waiting times
+-   Augmented reality for doctors  
+    
 
-- Robotics technology helps improve patient mobility as they rest to avoid bed sores or trips to the toilet
-- Automated bathing machines and autonomous droids that interact with the patient and monitor their progress
-- Robots that help recovering stroke patients exercise or even able to keep early-stage dementia patients occupied and alert them to take their medicine
+**Improve patient care**
 
-## 3) Enhance Productivity in Healthcare
+-   Robotics technology can improve patient mobility as they rest to avoid bed sores or trips to the toilet
+-   Automated bathing machines and autonomous droids that can interact and monitor patient progress
+-   Robots that can help recovering stroke patients exercise, or keep early stage dementia patients occupied and alert them to take their medicine  
+    
 
-- Working with delivery drones for dispatching medicines and equipment 
-- An industrial robotic arm is able to pick and pack a range of objects, including fragile items, to assist with tasks 
-- Automated guided vehicles transport food, linen or documents, or move heavy items such as beds
-- Data analytics to improve daily operations and reducing waiting times
-- Augmented reality for doctors 
- 
-## An Example of Assistive Robotics - RoboCoach Xian 
+**Example of Assistive Robotics**
+
+RoboCoach Xian
 
 ![robocoach xian](/images/initiatives/smart-nation-robocoach.jpg)
 
-- A robot trainer that imitates human movements and teaches exercise routines to senior citizens individually or in groups
-- Enhanced with sensors, it offers personalised, gentle exercise routines to help senior citizens - and younger people as well - to stay active
-- Uses motion-sensing technology to ensure the elderly do their exercise routines correctly
-- It provides physical and cognitive therapy to seniors who have suffered strokes or have disorders such as Alzheimer's or Parkinson's
-- Research and development into creating a screen reader could also enhance the learning and communication experiences of the visually impaired
+-   A robot trainer that imitates human movements and teaches exercises to senior citizens individually or in groups
+-   Enhanced with sensors, it offers personalized gentle exercise routines to help senior citizens - and younger people too - to stay active
+-   Uses motion sensing technology to ensure the elderly do their exercise routines correctly
+-   Helps to provide physical and cognitive therapy to seniors who have suffered strokes or have disorders such as Alzheimer's or Parkinson's
+-   Research and development into creating a screen reader could also enhance the learning and communication experiences of the visually impaired.
 
-## Related Links:
-<a href="https://www.cgh.com.sg/chart" target="_blank">Centre for Healthcare Assistive and Robotics Technology (CHART)</a>
+  
+
+----------
+
+  
+**Useful links:**
+
+[Centre for Healthcare Assistive and Robotics Technology (CHART)](http://www.chart.com.sg/)
