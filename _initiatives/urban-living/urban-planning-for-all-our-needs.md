@@ -1,53 +1,41 @@
 ---
-title: Urban Planning For All Our Needs 
+title: Urban Planning For All Our Needs
 permalink: /initiatives/urban-living/urban-planning
-third_nav_title: "Urban Living"
+third_nav_title: Urban Living
 ---
-
-# Planning For Our Future, Today
-
 ![Small Island, Big Needs](/images/initiatives/URA-1.jpg)
 
-We are a small city-state with a land area of just 721 square kilometres. On this little piece of land we call home, we have to fit where we live and play to where we work and all the infrastructure to keep our Nation running smoothly.
+**Digital innovations in planning**
 
-Urban Redevelopment Authority (URA) has to plan and provide space for economic development and provide quality living and recreation opportunities sustainably as our country and population grow, accommodating our continually changing needs. 
+Singapore is a small city-state with a land area of just 721 square kilometres. As Singapore’s land use planning and conservation authority, the Urban Redevelopment Authority (URA) has to plan and provide space for economic development, as well as provide quality living and recreation opportunities in a sustainable manner.
 
-## Innovations in Planning
+Planning in today’s changing environment requires a holistic understanding of the city. In the past, it was more challenging to do so without the benefit of consolidated, up-to-date and real-time information. Thanks to digital innovations, URA has transformed the way it plans. The use of digital tools has helped to create solutions that better meet urban challenges, deliver a better quality of life for our people, as well as support our industry in driving productivity gain and value creation.
 
-Planning in today’s changing environment requires a holistic understanding of the city, and with digital innovations, URA has transformed the way they plan our city-state.  
+**Using data to gain insights to drive better planning decisions**
 
-Using digital tools has helped us create solutions that better meet our urban challenges, deliver a better quality of life for everyone, and support our industry in driving productivity as Singapore grows from strength to strength. 
-
-## With the data and insights collected, URA is able to drive better planning decisions: 
-
-### Bringing jobs closer to homes
+-   Bringing jobs closer to homes
 
 ![Eastern side of Singapore](/images/initiatives/URA-2.png)
 
-Over the last few years, URA’s strategy to provide more job opportunities closer to people’s homes has helped reduce the home-work commutes. For instance, most people working near Tampines Regional Centre reside in the East and Northeast region, allowing them to reach home within 45 minutes by public transport. With the upcoming Punggol Digital District <Link to PDD page>, there will be many more new jobs available to the Northeast region residents soon! 
 
-### Improve accessibility and allocation of amenities
+URA’s decentralisation strategy provides people living in the West and North regions with more job opportunities nearer to their homes, helping to reduce long home-work commutes. The data tells us, for instance, that the majority of the people working near Tampines Regional Centre reside in the East and Northeast region, mostly within 45 minutes of home-work travel by public transport.
+
+-   Improve accessibility and allocation of amenities
 
 ![allocation of amenities](/images/initiatives/URA-3.png)
 
-For example, the URA Planners uses the technology available to identify the areas with a high concentration of seniors and check their access to healthcare facilities and services. Based on the data available, seniors living in the East and Northeast region are mostly within 1.5 km from the nearest polyclinic. Over the next couple of decades, more healthcare facilities will be required in these areas as the population ages to ensure that the services are not overwhelmed.
 
-### Empower planners with rich planning data for quick visualisation and analysis
+Planners use digital tools to help identify areas with a high concentration of seniors with poorer access to healthcare facilities and services. Based on the data available, a larger population of seniors reside in the East and Northeast region, with most within 1.5 km from the nearest polyclinic. More healthcare facilities will be required in areas with seniors residing further away from existing healthcare services, and where the number of seniors are expected to grow.
+
+-   Empower planners with rich planning data for quick visualisation and analysis
 
 ![URA eplanner](/images/initiatives/URA-4.png)
 
-The ePlanner is developed in-house by URA to be a one-stop, multi-platform, geospatial urban planning analytics system, pulling its data from multiple sources. 
 
-This tool enables planners from URA and other agencies to easily access and analyse various land-use planning information such as development control, real estate, land sales and car parks on a single platform. There are over 100 data layers that come together to give a well-rounded insight into the plans. 
+Developed in-house by URA, ePlanner is a one stop, multi-platform, geospatial urban planning analytics system that integrates data from various sources to enable advanced spatial visualisation and analytics. ePlanner enables planners from URA and other agencies to easily access and analyse various land-use planning information such as development control, real estate, land sales and car parks, on a single platform, and especially while they are on-the-go. With such a system that facilitates integrated planning, planners are now better informed of the ground situation to anticipate changes and improve coordination among agencies.
 
-With such a system that facilitates integrated planning, we are better positioned to anticipate changes and improve coordination among agencies.
-
-### Allow cross-agency collaboration in scenario-testing and optimising land use
+-   Allow cross-agency collaboration in scenario-testing and optimising land use
 
 ![URA Gemma](/images/initiatives/URA-5.png)
 
-Putting together the building blocks of our Nation is not just one agency’s job. With GEMMA, multiple agencies can access a full set of map-based data to run scenarios for planning purposes.
-
-GEMMA is a powerful collaborative tool that allows the agencies’ planners to do land-use scenario studies and infrastructure staging plans. 
-
-For example, it can assess public transport use patterns across different neighbourhoods, putting in new MRT or bus services scenarios to analyse how transport accessibilities can be improved. 
+GEMMA is a powerful collaborative tool that allows planners across various agencies to come together to do land-use scenario studies and infrastructure staging plans. Through the system, planners can access rich layers of map-based information and data-analytics algorithms for integrated planning analysis. For example, land use and transport planners can jointly assess the public transport use patterns across different neighbourhoods, to improve plans that would encourage greater use of public transport.
