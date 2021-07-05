@@ -2,8 +2,6 @@
 title: Apps For You
 permalink: /community/apps-for-you
 ---
-# Find An App That Suits Your Needs
-
 ![Apps for you](/images/Apps-for-you-wip.png)
 
 As we continue digitising Government services, some of them have evolved into mobile apps - making it more convenient.  
@@ -403,23 +401,6 @@ Many of us love to travel and explore new cultures, cuisines and squeeze in some
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=org.customs.gov.sg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
       </div>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="/images/community/eAppt-ICA.jpg" alt="eAppt ICA"></td>
-	<td><h3>eAppt@ICA</h3>
-	Enjoy convenience when transacting with ICA while on the move! In addition to the e-Appointment service on the ICA website, you can now make, change or cancel appointments directly with the App.<br>
-	<br>
-	Your appointment booking details and acknowledgement page can be found under the 'My Appointment' function for subsequent viewing. You can set reminder alerts with the calendar function!<br>
-	<br>	
-	Access the <a href="https://eservices.ica.gov.sg/ibook/index.do" target="_blank">eAppointment web version here.</a><br>
-	<br>
-<div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/eappt-ica/id1071195475" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
-          </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.ica.eappt" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
-          </div>
-      </div>  
     </td>
   </tr>
 </table>
