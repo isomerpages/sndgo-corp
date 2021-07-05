@@ -38,7 +38,7 @@ If you are a business looking for government grants, this one-stop portal can he
 If you are a Singapore company looking to build capabilities, innovate and internationalise, Enterprise Singapore can help! Working with businesses – from startups to SMEs and high-growth companies – Enterprise Singapore supports your growth by providing programmes and support catered to your company’s stage of growth, the industry you are in, and the overseas markets of your interest.
 
 
-## <a href="https://govassist.gobusiness.gov.sg/" target="_blank">GoBusiness Gov Assist</a></h2>
+## <a href="https://govassist.gobusiness.gov.sg/" target="_blank">GoBusiness Gov Assist</a>
 
 Learn about the various government assistance options to help you start and grow your business.
 
@@ -53,11 +53,11 @@ The programme offers a series of platforms which serve as a catalyst for transfo
 
 The "Looking Glass", a FinTech Innovation Lab at the Monetary Authority of Singapore (MAS) seeks to help financial institutions, start-ups or technology vendors with an idea, by supporting the experimentation and deployment of the FinTech solution; and by facilitating consultations with industry experts on areas of interest such as legal, regulation, and business-related matters.
 
-## <a href="https://business.myinfo.gov.sg/" target="_blank">MyInfo Business</a></h2>
+## <a href="https://business.myinfo.gov.sg/" target="_blank">MyInfo Business</a>
 
 MyInfo Business will save business owners time and effort when submitting government-verified entity data, such as corporate profile, financial performance and ownership information. Singapore-registered business owners can simply log in through Corppass, give consent, and have their data pre-filled for participating services! More B2B services will be onboarded to MyInfo Business, and developer tools will soon also be made available to facilitate businesses’ technical implementation.
 
-## <a href="https://www.sginnovate.com/" target="_blank">SGInnovate</a></h2>
+## <a href="https://www.sginnovate.com/" target="_blank">SGInnovate</a>
 
 Supporting the entrepreneurial and ambitious build products and companies in science and tech through Singapore's innovation ecosystem.
 
