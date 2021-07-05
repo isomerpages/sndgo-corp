@@ -4,7 +4,8 @@ permalink: /abt-smart-nation/pillars-of-smart-nation
 ---
 Key pillars that support Singapore’s Smart Nation goals are: Digital Economy, Digital Government and Digital Society. Our people, our companies and our public agencies all have a role to play in this transformation.
 
- ## Digital Economy
+## Digital Economy
+
 Rapid digitalisation is disrupting business operations, altering industry structures and redefining rules globally. This is why it is important for us to be able to adapt and embrace digitalisation.
 
 Talent and businesses are critical in a digital economy that will continue to keep Singapore vibrant and competitive. We are digitalising our economy from a position of strength. Singapore’s pro-business environment, excellent infrastructure and connectivity to major Asian economies, as well as availability of investment and well-developed technology, will continue to help attract businesses and talents.
