@@ -37,7 +37,6 @@ The app seeks to provide an efficient means of managing common administrative fu
 **What to expect**
 
 -   A feature to allow parents to check the balance of their child’s Edusave account before granting access for activities.
-
 -   Online reservation system for more convenient allocation of parent-teacher meetings.
 ---
 **Useful Links**
