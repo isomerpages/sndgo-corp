@@ -2,7 +2,6 @@
 title: Combating COVID-19 with Technology
 permalink: /covid-19/covid-19-tech
 ---
-
 # Singapore’s Technology Driven Response To The Pandemic
 
  ![COVID-19 technological solutions](/images/initiatives/COVID-19-tech-solutions.png)
@@ -15,4 +14,4 @@ In Singapore, we managed to respond swiftly and effectively to the pandemic usin
 
 
 | [**Suite of Contact Tracing and Management Tech**](#suite-of-contact-tracing-and-management-tech) | [**Informational Websites and  Platforms**](#informational-websites-and-platforms) | 
-| 
+|
