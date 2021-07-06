@@ -1,7 +1,8 @@
 ---
 title: TraceTogether Token Checking Pods
-permalink: /community/tt-token-checking-pods
+permalink: /covid-19/tt-token-checking-pods
 ---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LI1lx3lxKz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Have you checked if your TraceTogether Token is working? The next time you are at an MRT station, look out for our Token checking pods at the platform or near the gantries for a quick check!
