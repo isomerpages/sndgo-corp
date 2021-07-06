@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - combating-covid-19-with-technology.md
+      - tracetogether-token-checking-pods.md
