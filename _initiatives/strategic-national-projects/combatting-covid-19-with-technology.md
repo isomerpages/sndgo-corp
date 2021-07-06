@@ -11,6 +11,16 @@ For many of us, COVID-19 is the crisis of our generation. The pandemic has shutd
 
 In Singapore, we managed to respond swiftly and effectively to the pandemic using technology to keep our people safe. Smart Nation and Digital Government Group worked closely with various Government agencies to assist with public health response and beyond.
 
+**Learn more about the wide range of solutions and services that was rolled out!**
+
+
+| [**Suite of Contact Tracing and Management Tech**](#suite-of-contact-tracing-and-management-tech) | [**Informational Websites and  Platforms**](#informational-websites-and-platforms) | 
+| -------- | -------- | 
+|[SafeEntry](#safeentry)   | [COVID-19 Situation Report Dashboard](#COVID-19-Situation-Report-Dashboard) |
+|[TraceTogether Programme](#tracetogether-programme) | [FluGoWhere](#flugowhere)|
+|[Homer](#homer) | [Gov.sg WhatsApp](#gov.sg-whatsapp)|
+|  | [Gov.sg Info Bot](#gov.sg-info-bot)|
+| | [TokenGoWhere](#tokengowhere)|
 
 ## Suite of Contact Tracing and Management Tech 
 
