@@ -40,10 +40,10 @@ collections:
       - digital-government-services/multilingual-digital-services.md
       - digital-government-services/opencerts.md
       - digital-government-services/parents-gateway.md
-      - businesses/.keep
-      - businesses/businesses.md
-      - businesses/corppass.md
-      - businesses/data-innovation-programme-office.md
-      - businesses/fintech-sandbox.md
-      - businesses/networked-trade-platform.md
-      - businesses/punggol-digital-district.md
+      - business/.keep
+      - business/businesses.md
+      - business/corppass.md
+      - business/data-innovation-programme-office.md
+      - business/fintech-sandbox.md
+      - business/networked-trade-platform.md
+      - business/punggol-digital-district.md
