@@ -1,8 +1,9 @@
 ---
 title: Networked Trade Platform
-permalink: /initiatives/businesses/networked-trade-platform
+permalink: /initiatives/business/networked-trade-platform
 third_nav_title: Business
 ---
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IqsHu3rK7p8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
