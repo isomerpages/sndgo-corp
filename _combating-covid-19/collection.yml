@@ -1,4 +1,5 @@
 collections:
   combating-covid-19:
     output: true
-    order: []
+    order:
+      - combating-covid-19-with-technology.md
