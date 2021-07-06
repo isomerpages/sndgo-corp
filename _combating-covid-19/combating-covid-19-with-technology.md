@@ -32,7 +32,7 @@ In Singapore, we managed to respond swiftly and effectively to the pandemic usin
 
 ## Suite of Contact Tracing and Management Tech
 
-![COVID-19 Contact tracing and management tech](https://d33wubrfki0l68.cloudfront.net/05c84ad3f665b8e7ca9f40e1ccf9c37682fda626/1fb36/images/initiatives/covid-19-contact-tracing-and-management.png)
+![COVID-19 Contact tracing and management tech](/images/initiatives/COVID-19-contact-tracing-and-management.png)
 
 Digital contact tracing solutions had to be swiftly conceptualised and implement as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
 
@@ -49,6 +49,8 @@ Individuals who wish to enter a venue where SafeEntry is mandatory, will need to
 3.  Tapping their TT App or TT Token at a SafeEntry Gateway device.
 
 With SafeEntry, we can log the individuals’ entry and exit times to a location to have a complete picture of how far the virus can spread and allow the health authorities to understand the virus transmission better.
+
+**For information on SafeEntry at public transport nodes, click here**
 
 ### [TraceTogether Programme](https://www.tracetogether.gov.sg/)
 
@@ -70,7 +72,7 @@ Homer allows the Government agencies to manage all the individuals on their SHN 
 
 ## Informational Websites and Platforms
 
-![COVID-19 Informational Websites and  Platforms](https://d33wubrfki0l68.cloudfront.net/7df8322c5674aecff1f945a8bbddfb80e74c6bfe/86bc7/images/initiatives/covid-19-informational-platforms.png)
+![COVID-19 Informational Websites and  Platforms](/images/initiatives/COVID-19-informational-platforms.png)
 
 With the rapidly changing situation at the start of the pandemic, there was a critical need to ensure that the members of the public receive verified information to ensure that citizens are well-informed. After the initial anxiety had calmed down, the need for verified information is crucial to provide the public assurances that information is accurate with multiple sources of information.
 
@@ -108,7 +110,7 @@ GovTech created a website for citizens to find the nearest centre to collect the
 
 ## Public Health Solutions
 
-![COVID-19 Public Health Solutions](https://d33wubrfki0l68.cloudfront.net/32e68d125cac7e4fb36fae8536eed3f4f333ee09/c79ee/images/initiatives/covid-19-tech-solutions.png)
+![COVID-19 Public Health Solutions](/images/initiatives/COVID-19-tech-solutions.png)
 
 Rolling out digital services to help with the management and containment of the virus was essential. The services had to be implemented keeping in mind that we will have to live with COVID-19 over the next few years. With the following solutions, we believe we can boost community preparedness and confidence to manage and pull through this challenging time.
 
@@ -148,7 +150,7 @@ The AI-driven system can record temperatures even with headgear or hair fringes 
 
 ## Providing Social and Economic Support
 
-![COVID-19 Social and Economic Support](https://d33wubrfki0l68.cloudfront.net/2d2a2d05462e62d4d4fa056ceac85d9699799795/e558a/images/initiatives/covid-19-economic-support.png)
+![COVID-19 Social and Economic Support](/images/initiatives/COVID-19-economic-support.png)
 
 Many different issues and concerns arose as a result of the pandemic. Due to the economic crisis, jobs were lost or salaries reduced. Students had to settle for home-based learning.
 
