@@ -1,8 +1,9 @@
 ---
 title: FinTech Sandbox
-permalink: /initiatives/businesses/fintech
+permalink: /initiatives/business/fintech
 third_nav_title: Business
 ---
+
 
 ![Singapore's central business district](/images/initiatives/Fintech-sandbox.jpg)
 
