@@ -1,8 +1,9 @@
 ---
 title: Punggol Digital District
-permalink: /initiatives/businesses/punggol-digital-district
+permalink: /initiatives/business/punggol-digital-district
 third_nav_title: Business
 ---
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3SBpl95qxNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
