@@ -22,7 +22,7 @@ sections:
           url: /community/smart-nation-ambassadors
   - infobar:
       title: Punggol Digital District
-      subtitle: "Initiatives - Businesses "
+      subtitle: Initiatives - Business
       description: Find out why the Punggol Digital District is the place to be!
       button: Read more about it
       url: /initiatives/businesses/punggol-digital-district
