@@ -1,8 +1,9 @@
 ---
 title: Data Innovation Programme Office
-permalink: /initiatives/businesses/data-innovation-programme-office
+permalink: /initiatives/business/dipo
 third_nav_title: Business
 ---
+
 
 ![Data innovation programme office](/images/initiatives/DIPO.jpg)
 
