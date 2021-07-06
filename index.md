@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/hero-banner-main.png
+      background: /images/hero-homepage-banner.png
       key_highlights:
         - title: Strategic National Projects
           description: The building blocks of our Smart Nation Initiative
@@ -35,7 +35,7 @@ sections:
       image: /images/Infopix-Covid-19.png
       alt: "Covid-19 Technology "
   - infopic:
-      title: Co-Create With Us Today
+      title: Co-create With Us Today
       description: Share your feedback with us on digital government services via
         SCOPE today
       button: Find out more
