@@ -3,7 +3,6 @@ title: Urban Living
 permalink: /initiatives/urban-living
 third_nav_title: Urban Living
 ---
-
 # Urban Living
 
 With limited land, we need to continuously find innovative solutions to improve our urban environment, estates and homes for our residents, to make them safer, more sustainable and liveable.
@@ -11,7 +10,7 @@ With limited land, we need to continuously find innovative solutions to improve 
 <br>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/initiatives/urban-living/amr-trial" target="_blank"><img src="/images/initiatives/overview-pages/amr-trial.png"></a><br>
+    <a href="/initiatives/urban-living/amr-trial"><img src="/images/initiatives/overview-pages/amr-trial.png"></a><br>
     <div class="header"><b>Automated Meter Reading Trial</b></div><br>
     <div class="para">Making water usage data readily accessible for consumers from tap to app.</div>
   </div>
