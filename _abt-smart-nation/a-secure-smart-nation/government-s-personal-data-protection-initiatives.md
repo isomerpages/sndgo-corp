@@ -5,7 +5,7 @@ breadcrumb: Personal Data Protection Initiatives
 third_nav_title: A Secure Smart Nation
 ---
 # Government's Personal Data Protection Initiatives
-![Government's Personal Data Protection Initiatives](/images/Govt-pdp-WIP.png)
+![Government's Personal Data Protection Initiatives](/images/pdp-initiatives-wip.png)
 
 Data security is a critical safeguard towards building a Smart Nation. Secure and effective use of data and digital solutions are important in policy-making, and in enabling the Government to deliver services to the citizens. The Government has been actively strengthening its data security regime to ensure that data entrusted to the Government is handled and protected with utmost care.
 
