@@ -1,7 +1,8 @@
 ---
 title: Business Resources
-permalink: /about-smart-nation/business-resources
+permalink: /resources/business
 ---
+
 # Business Resources
 
 Starting a new business or running one is a daunting task – especially in the midst of this digital transformation that the world is going through. 
