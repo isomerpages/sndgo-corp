@@ -4,4 +4,5 @@ collections:
     order:
       - covid-19-tech/.keep
       - covid-19-tech/combating-covid-19-with-technology.md
+      - covid-19-tech/safeentry-at-public-transport-nodes.md
       - tracetogether-token-checking-pods.md
