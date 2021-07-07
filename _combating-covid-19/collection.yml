@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - covid-19-tech/.keep
-      - combating-covid-19-with-technology.md
       - tracetogether-token-checking-pods.md
       - safeentry-at-public-transport-nodes.md
