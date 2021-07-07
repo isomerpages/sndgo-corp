@@ -12,18 +12,20 @@ third_nav_title: A Secure Smart Nation
 
 Cybersecurity and data security are key enablers of a Smart Nation. The Government is committed to ensuring the security of its systems, and the data that is entrusted to it by the public. Secure design principles are adopted to safeguard Government systems against cybersecurity threats. We will also ensure that citizens’ data is handled with care, and protect the data in accordance with the high standards imposed on the public sector and third party vendors.
 
+<a href="/abt-smart-nation/secure-smart-nation/report-data-incident/"><img src="/images/RDI-banner-wip.png"></a><br>
+		
 Find out more about how the Government protects your data and safeguards its systems:          
 
 <br>
 <div style="width:100%;display:flex;flex-wrap:wrap;">  
   <div style="flex:50%;padding:1%;"> 
-    <a href="/abt-smart-nation/secure-smart-nation/pdp-initiatives" target="_blank"><img src="/images/Govt-pdp-WIP.png"></a><br>
+    <a href="/abt-smart-nation/secure-smart-nation/pdp-initiatives"><img src="/images/pdp-initiatives-wip.png"></a><br>
     <div class="header"><b>Government’s Personal Data Protection Initiatives</b></div>
     <br>
     <div class="para">Recommendations and initiatives to strengthen the Government’s data security regime.</div>
   </div>
   <div style="flex:50%;padding:1%;"> 
-    <a href="/abt-smart-nation/secure-smart-nation/personal-data-protection" target="_blank"><img src="/images/PDPA-WIP.png"></a><br>   
+    <a href="/abt-smart-nation/secure-smart-nation/personal-data-protection" target="_blank"><img src="/images/personal-data-wip.png"></a><br>   
     <div class="header"><b>Government's Personal Data Protection Laws and Policies</b></div>
     <br>
     <div class="para">Data management by public sector agencies and third parties of public agencies.</div>
@@ -31,13 +33,13 @@ Find out more about how the Government protects your data and safeguards its sys
 </div> 
 <div style="width:100%;display:flex;flex-wrap:wrap;">  
   <div style="flex:50%;padding:1%;"> 
-    <a href="/abt-smart-nation/secure-smart-nation/cybersecurity" target="_blank"><img src="/images/Cybersecurity-WIP.png"></a><br>
+    <a href="/abt-smart-nation/secure-smart-nation/cybersecurity"><img src="/images/cybersecurity-wip.png"></a><br>
     <div class="header"><b>Cybersecurity In The Public Sector</b></div>
     <br>
     <div class="para">Three-pronged approach to secure our systems.</div>
   </div>     
   <div style="flex:50%;padding:1%;">
-    <a href="/abt-smart-nation/secure-smart-nation/report-data-incident/" target="_blank"><img src="/images/RDI.jpg"></a><br>
+    <a href="/abt-smart-nation/secure-smart-nation/report-data-incident/"><img src="/images/RDI-2.jpg"></a><br>
     <div class="header"><b>Report a Government Data Incident</b></div>
     <br>
     <div class="para">New government data incident reporting platform to report a suspected incident.</div>
