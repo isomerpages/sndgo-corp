@@ -5,7 +5,7 @@ breadcrumb: Cybersecurity
 third_nav_title: A Secure Smart Nation
 ---
 # Cybersecurity In The Public Sector
-![Cybersecurity](/images/Cybersecurity-WIP.png)
+![Cybersecurity](/images/cybersecurity-wip.png)
 
 Digital technologies and solutions need to be made secure to ensure that there is no disruption to citizen services, and citizens’ data entrusted to the Government is protected.
 
