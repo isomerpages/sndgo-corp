@@ -4,7 +4,7 @@ permalink: /covid-19/covid-19-tech
 ---
 # Singapore’s Technology Driven Response To The Pandemic
 
- ![COVID-19 technological solutions](/images/initiatives/COVID-19-tech-solutions.png)
+ ![COVID-19 technological solutions](/images/covid-19/COVID-19-tech-solutions.png)
  
 For many of us, COVID-19 is the crisis of our generation. The pandemic has shutdown cities, has caused deficits in economies and put the lives of many people on hold as they stayed at home to keep the virus from spreading.
 
@@ -32,7 +32,7 @@ In Singapore, we managed to respond swiftly and effectively to the pandemic usin
 
 ## Suite of Contact Tracing and Management Tech
 
-![COVID-19 Contact tracing and management tech](/images/initiatives/COVID-19-contact-tracing-and-management.png)
+![COVID-19 Contact tracing and management tech](/images/covid-19/COVID-19-contact-tracing-and-management.png)
 
 Digital contact tracing solutions had to be swiftly conceptualised and implement as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
 
@@ -72,7 +72,7 @@ Homer allows the Government agencies to manage all the individuals on their SHN 
 
 ## Informational Websites and Platforms
 
-![COVID-19 Informational Websites and  Platforms](/images/initiatives/COVID-19-informational-platforms.png)
+![COVID-19 Informational Websites and  Platforms](/images/covid-19/COVID-19-informational-platforms.png)
 
 With the rapidly changing situation at the start of the pandemic, there was a critical need to ensure that the members of the public receive verified information to ensure that citizens are well-informed. After the initial anxiety had calmed down, the need for verified information is crucial to provide the public assurances that information is accurate with multiple sources of information.
 
@@ -110,7 +110,7 @@ GovTech created a website for citizens to find the nearest centre to collect the
 
 ## Public Health Solutions
 
-![COVID-19 Public Health Solutions](/images/initiatives/COVID-19-tech-solutions.png)
+![COVID-19 Public Health Solutions](/images/covid-19/COVID-19-tech-solutions.png)
 
 Rolling out digital services to help with the management and containment of the virus was essential. The services had to be implemented keeping in mind that we will have to live with COVID-19 over the next few years. With the following solutions, we believe we can boost community preparedness and confidence to manage and pull through this challenging time.
 
@@ -150,7 +150,7 @@ The AI-driven system can record temperatures even with headgear or hair fringes 
 
 ## Providing Social and Economic Support
 
-![COVID-19 Social and Economic Support](/images/initiatives/COVID-19-economic-support.png)
+![COVID-19 Social and Economic Support](/images/covid-19/COVID-19-economic-support.png)
 
 Many different issues and concerns arose as a result of the pandemic. Due to the economic crisis, jobs were lost or salaries reduced. Students had to settle for home-based learning.
 
