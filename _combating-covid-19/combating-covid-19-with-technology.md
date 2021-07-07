@@ -50,7 +50,7 @@ Individuals who wish to enter a venue where SafeEntry is mandatory, will need to
 
 With SafeEntry, we can log the individuals’ entry and exit times to a location to have a complete picture of how far the virus can spread and allow the health authorities to understand the virus transmission better.
 
-**For information on SafeEntry at public transport nodes, click here**
+**For information on [SafeEntry at public transport nodes, click here](/combating-covid-19/safeentrytransportnodes)**
 
 ### [TraceTogether Programme](https://www.tracetogether.gov.sg/)
 
