@@ -27,7 +27,7 @@ sections:
       button: Read more about it
       url: /initiatives/businesses/punggol-digital-district
   - infopic:
-      title: Combatting COVID-19
+      title: Combating COVID-19
       description: Learn about how Singapore efficiently managed the pandemic with
         technology
       button: Read  More here
