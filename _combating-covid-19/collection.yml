@@ -1,5 +1,5 @@
 collections:
-  covid-19:
+  combating-covid-19:
     output: true
     order:
       - covid-19-tech/.keep
