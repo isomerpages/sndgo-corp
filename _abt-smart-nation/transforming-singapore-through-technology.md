@@ -3,7 +3,9 @@ title: Transforming Singapore Through Technology
 permalink: /abt-smart-nation/transforming-singapore
 ---
 # Transforming Singapore Through Technology
-![Smart Nation Benefits 2021 Infographic](/images/abt-smart-nation/transforming-sg-through-tech-2021.jpeg)
+![Smart Nation Benefits 2021 Infographic](/images/abt-smart-nation/transforming-sg-through-tech-2021.jpeg)<h6>Smart Nation Benefits Infographic as of 26 Feb 2021</h6>
+
+[Download the Smart Nation Benefits Infographic  (3.1mb)](/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf)
 
 There is an ongoing digital revolution, and advancements in digital technologies are transforming the way we live, work and play. We envision a Smart Nation that is a leading economy powered by digital innovation, and a world-class city with a Government that gives our citizens the best home possible and responds to their different and changing needs.
 
