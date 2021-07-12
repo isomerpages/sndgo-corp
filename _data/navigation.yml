@@ -1,7 +1,7 @@
 logo: /images/smart-nation-logo.svg
 links:
   - title: About Smart Nation
-    collection: abt-smart-nation
+    collection: about-smart-nation
   - title: Initiatives
     collection: initiatives
   - title: Combating Covid 19
