@@ -1,5 +1,5 @@
 collections:
-  abt-smart-nation:
+  about-smart-nation:
     output: true
     order:
       - transforming-singapore-through-technology.md
