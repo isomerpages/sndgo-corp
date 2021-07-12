@@ -1,6 +1,6 @@
 ---
 title: Government's Personal Data Protection Initiatives
-permalink: /about-smart-nation/secure-smart-nation/pdp
+permalink: /about-smart-nation/secure-smart-nation/pdp-initiatives 
 third_nav_title: A Secure Smart Nation
 ---
 # Government's Personal Data Protection Initiatives
