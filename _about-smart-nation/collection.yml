@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - a-secure-smart-nation/.keep
+      - a-secure-smart-nation/report-data-incident.md
       - transforming-singapore-through-technology.md
       - pillars-of-smart-nation.md
       - national-artificial-intelligence-strategy.md
