@@ -24,7 +24,7 @@ We look forward to working with you to strengthen the overall public sector data
 
 ✔️ Upon submitting records of evidence to SNDGG, please  **dispose of all evidence**  immediately in an appropriate manner.
 
-**Have a question or need more help? Refer to our [frequently asked questions (FAQs)](/report-data-incident/faq/).**
+**Have a question or need more help? Refer to our [frequently asked questions (FAQs)](/about-smart-nation/a-secure-smart-nation/rdi-faqs).**
 
 ---
 ## **Note:**
