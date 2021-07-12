@@ -1,7 +1,7 @@
 ---
 title: Combating COVID-19 with Technology
 permalink: /covid-19/covid-19-tech
-third_nav_title: Covid 19 Tech
+third_nav_title: COVID-19 Tech
 ---
 
 # Singapore’s Technology Driven Response To The Pandemic
