@@ -35,4 +35,4 @@ To qualify, you must be:
 
 ## How to Apply:
 
-The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="Go.gov.sg/smartnationscholarship" target="_blank">Go.gov.sg/smartnationscholarship</a> for the full details or email scholarship@smartnation.gov.sg.
+The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="http://Go.gov.sg/smartnationscholarship" target="_blank">Go.gov.sg/smartnationscholarship</a> for the full details or email scholarship@smartnation.gov.sg.
