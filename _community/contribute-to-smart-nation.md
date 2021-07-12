@@ -2,25 +2,18 @@
 title: Contribute To Smart Nation
 permalink: /community/SCOPE
 ---
-
-# Contribute to the Smart Nation Initiative 
-
-Come, participate and co-create with us on our Smart Nation journey!
+# Take Part in a Smart Nation Survey
 
 ![Member of public doing SCOPE with a Smart Nation Ambassador](/images/community/scope-sn-ambassdor.jpg)
 
-All of us play a crucial role in the Smart Nation journey as Singapore transforms herself to be a digitally forward nation. This is a collaborative effort; and we as a community must come together to share our ideas and thoughts so that we can grow and develop as a Smart Nation.
-
-SCOPE - Smart Nation Co-creating with Our People Everywhere - is a co-creation platform by the Smart Nation and Digital Government Group that lets citizens try out new digital government initiatives and products, still in developmental stage and provide instantaneous feedback. The insights gathered has helped us enhance digital government services to be more accessible and convenient for all Singaporeans.
-
-You can contribute through SCOPE by providing feedback on prototypes as they are developed or taking part in surveys.
+Interested in testing new digital government services before these are launched? Have an observation or suggestion that you think might help us with our Smart Nation goals?
+Take part in our surveys on our Smart Nation Co-creating with Our People Everywhere (SCOPE) platform.
 
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:300px;"><img src="/images/community/scope-logo.png"></div></div>
 
-## Provide your valuable feedback on digital government services
+SCOPE is our co-creation platform designed to let you test the latest digital government initiatives and products that are still in development. Your feedback will help us make services more accessible and convenient for all Singaporeans. 
 
-![SCOPE Screenshot](/images/community/scope-outreach-screenshot.png)
-
+## How to take part in SCOPE surveys:
 You can share your feedback with us on the following initiatives via the links below:
 
 1.  We want to find out how Government websites and digital services can be enhanced and developed to be more user-friendly for seniors. If you are 50 years old and above, or you are assisting a loved one aged 50 years old and above with mobile apps and online transactions, we would love to hear from you. Please share with us your feedback via this <a href="https://www.research.net/r/Digital4seniors" target="_blank">form</a>.
