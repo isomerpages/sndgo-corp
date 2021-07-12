@@ -1,6 +1,6 @@
 ---
 title: Government's Personal Data Protection Laws And Policies
-permalink: /about-smart-nation/secure-smart-nation/permalink
+permalink: /about-smart-nation/secure-smart-nation/personal-data-protection
 third_nav_title: A Secure Smart Nation
 ---
 # Government's Personal Data Protection Laws And Policies
