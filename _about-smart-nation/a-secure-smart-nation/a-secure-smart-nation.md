@@ -24,7 +24,7 @@ Find out more about how the Government protects your data and safeguards its sys
     <div class="para">Recommendations and initiatives to strengthen the Government’s data security regime.</div>
   </div>
   <div style="flex:50%;padding:1%;"> 
-    <a href="/about-smart-nation/secure-smart-nation/personal-data-protection" target="_blank"><img src="/images/personal-data-wip.png"></a><br>   
+    <a href="/about-smart-nation/secure-smart-nation/personal-data-protection"><img src="/images/personal-data-wip.png"></a><br>   
     <div class="header"><b>Government's Personal Data Protection Laws and Policies</b></div>
     <br>
     <div class="para">Data management by public sector agencies and third parties of public agencies.</div>
