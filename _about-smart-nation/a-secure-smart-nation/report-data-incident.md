@@ -1,6 +1,6 @@
 ---
 title: Report Data Incident
-permalink: /about-smart-nation/secure-smart-nation/report
+permalink: /about-smart-nation/secure-smart-nation/report-data-incident
 third_nav_title: A Secure Smart Nation
 ---
 # Government Data Incident Reporting Platform
