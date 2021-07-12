@@ -1,9 +1,8 @@
 ---
 title: SafeEntry at Public Transport Nodes
 permalink: /combating-covid-19/safeentrytransportnodes
-third_nav_title: Covid 19 Tech
+third_nav_title: COVID-19 Tech
 ---
-
 
 ![SafeEntry at public transport notes](/images/covid-19/SafeEntry-Transport-Nodes.jpeg)
 
