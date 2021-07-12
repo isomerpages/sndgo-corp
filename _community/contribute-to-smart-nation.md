@@ -14,10 +14,10 @@ Take part in our surveys on our Smart Nation Co-creating with Our People Everywh
 SCOPE is our co-creation platform designed to let you test the latest digital government initiatives and products that are still in development. Your feedback will help us make services more accessible and convenient for all Singaporeans. 
 
 ## How to take part in SCOPE surveys:
-You can share your feedback with us on the following initiatives via the links below:
 
-1.  We want to find out how Government websites and digital services can be enhanced and developed to be more user-friendly for seniors. If you are 50 years old and above, or you are assisting a loved one aged 50 years old and above with mobile apps and online transactions, we would love to hear from you. Please share with us your feedback via this <a href="https://www.research.net/r/Digital4seniors" target="_blank">form</a>.
-    
-2.  We want everyone to be on board the Smart Nation journey. To do that well, providing digital government services in the various languages is essential. However, setting up websites in Malay, Chinese and Tamil can be intensive and resource-heavy. Let us know how useful machine-translated content is for you via this <a href="https://www.research.net/r/MultilanguageGovt" target="_blank">survey form</a>.
+* <a href="https://www.research.net/r/Digital4seniors" target="_blank">**Survey open to those 50 years and above, or caring for someone in that age group:**</a>  Take this survey to share your experience when using Government mobile apps and completing online transactions
 
-If you would like to contribute further and love to engage fellow Singaporeans, join our growing Smart Nation Ambassador family! Find out more about the [program here.](/community/smart-nation-ambassadors)
+* <a href="https://www.research.net/r/MultilanguageGovt" target="_blank">**Survey open to everyone:**</a> Take this survey to share your thoughts on the effectiveness of our machine-translated content in your mother tongue
+
+
+You can also contribute by joining our growing Smart Nation Ambassador family. [Find out how here.](/community/smart-nation-ambassadors)
