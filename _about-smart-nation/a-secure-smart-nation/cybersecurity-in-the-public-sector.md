@@ -1,6 +1,6 @@
 ---
 title: Cybersecurity In The Public Sector
-permalink: /about-smart-nation/secure-smart-nation/perma
+permalink: /about-smart-nation/secure-smart-nation/cybersecurity
 third_nav_title: A Secure Smart Nation
 ---
 # Cybersecurity In The Public Sector
