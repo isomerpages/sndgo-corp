@@ -3,19 +3,28 @@ title: Smart Urban Mobility
 permalink: /initiatives/strategic-national-projects/smart-urban-mobility
 third_nav_title: Strategic National Projects
 ---
+# Remaking Our Transportation Roadmap 
+
 <div style="width:50%;display:flex;flex-wrap:wrap;"><img src="/images/initiatives/smart-urban-mobility.jpeg" alt="smart urban mobility infographics" class="center"></div>
  
+As a land-scarce city with a growing population, Singapore needs an efficient transportation infrastructure to run smoothly. This is why we’ve identified Smart Urban Mobility as one of our strategic national projects.
 
-**What is Smart Urban Mobility?**
+It uses digital technologies to find smart solutions that enhance our public transport system and provide greater comfort, convenience, reliability and support for our vision of a car-lite Singapore.
 
-Using digital technologies to enhance comfort, convenience and reliability of our public transport systems, and support our vision of a car-lite Singapore.
+## An Improved Commuting Experience
 
-**What can we expect?**
+By analysing anonymised data obtained from commuters’ fare cards, the Land Transport Authority (LTA) can easily identify commuter hotspots. This helps them better manage bus fleets, making the bus system more efficient.
 
--   Improved commuting experience: By analysing anonymised data obtained from commuters' fare cards and identifying commuter hotspots to manage bus fleets, the Land Transport Authority (LTA) can help improve commuting experience.
+The data also provides information on which bus routes are more popular, making it easier for LTA and the bus operators to meet commuters' commuting needs.
 
--   Hands-free ticketing technology: A trial was conducted to look at offering a more inclusive public transport system. The hands-free fare gates can allow elderly, families with young children, and commuters with mobility challenges to enter and exit train stations easily, without the need to tap their fare cards at the gates. A hands-free ticketing technology trial on buses will take place later this year.
+## Hands-Free Ticketing Technology
 
--   Autonomous shuttles: A number of trials are ongoing to gain insights on how technology can be deployed to strengthen intra-town connectivity, and enhance mobility for commuters, particularly the elderly and persons with disabilities.
+Making our public transport system more inclusive is one of our top priorities. We are exploring the use of hands-free fare gates that allow (1) the elderly, (2) families with young children and (3) commuters with mobility challenges to enter and exit train stations and buses quickly -without the need to tap their fare cards on the card readers.
 
-Find out more about the Smart Nation initiatives on [transport here](/initiatives/transport).
+## Self-driving Shuttles
+
+Currently, we are conducting several trials to understand how technology can be used to better connect towns and enhance mobility for commuters, particularly the elderly and persons with disabilities.
+
+These trials will help us to assess the feasibility of autonomous or self-driving vehicles and how these can help us improve your commuter experience during peak hours or late-night services.
+
+Find out more about our initiatives for [transport here](/initiatives/transport).
