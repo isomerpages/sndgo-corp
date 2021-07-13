@@ -3,30 +3,34 @@ title: Health
 permalink: /initiatives/health
 third_nav_title: Health
 ---
-The number of elderly citizens is expected to reach 900,000 by 2030, and with a declining old-age support ratio with our low birth rates, it is imperative that healthcare is made more proactive to guide people to take pre-emptive steps to keep themselves healthy or better manage their well-being.
+The number of elderly citizens in Singapore is projected to reach 900,000 by 2030. Combined with our low birth rates, the burden of caring for our seniors will get heavier, which makes our healthcare needs a priority. As we move towards being a Smart Nation, we’re constantly exploring technology to create healthcare solutions to proactively meet these needs. 
+
+Currently, our health initiatives focus on equipping Singaporeans with the information and tools to better take control of their health and healthcare needs, so that they are prepared for the future. 
+These are some of the Smart Nation health initiatives we’re working on right now:
+
 
 <br>
 <div class="row">  
   <div class="column-c" > 
     <a href="/initiatives/health/assistive-techonology-robotics"><img src="/images/initiatives/overview-pages/assistive-tech.png"></a><br>
-    <div class="header"><b>Assistive Technology and Robotics In Healthcare</b></div><br>
-    <div class="para">Leveraging technology to revolutionise healthcare in Singapore, and to help seniors and those with disabilities.</div>
+    <div class="header"><b>Assistive Technology and Robotics in Healthcare</b></div><br>
+    <div class="para">Robotics and assistive tech offer us solutions to better help our seniors and those with disabilities to be more mobile.</div>
   </div>
    <div class="column-c"> 
     <a href="/initiatives/health/healthhub"><img src="/images/initiatives/overview-pages/healthhub.png"></a><br>
      <div class="header"><b>HealthHub</b></div><br>
-    <div class="para">A one-stop digital healthcare portal for Singaporeans to access medical records and useful health information.</div>
+    <div class="para">This convenient one-stop health portal lets Singaporeans easily access their medical records and browse useful health tips, articles and news.</div>
   </div>
   <div class="column-c">  
     <a href="/initiatives/health/national-steps-challenge"><img src="/images/initiatives/overview-pages/national-steps-challenge.png"></a><br>
     <div class="header"><b>National Steps Challenge & Healthy 365 App</b></div><br>
-    <div class="para">Living a healthier lifestyle by walking more daily using wearable tech with steps tracker app.</div>
+    <div class="para">With the integration of wearable step-tracker tech with our National Steps Challenge, we’re encouraging Singaporeans to lead a healthier, more active lifestyle.</div>
   </div>     
 </div>
 <div class="row">  
   <div class="column-c" > 
     <a href="/initiatives/health/telehealth"><img src="/images/initiatives/overview-pages/telehealth.png"></a><br>
     <div class="header"><b>TeleHealth</b></div><br>
-    <div class="para">Bringing care into the home to enhance patient access to healthcare, and improve productivity in our healthcare system.</div>
+    <div class="para">Bringing healthcare into the home not only makes it more convenient for patients, it also improves our efficiency to deliver these services.</div>
   </div>    
 </div>
