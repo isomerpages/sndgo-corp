@@ -3,41 +3,32 @@ title: LifeSG
 permalink: /initiatives/strategic-national-projects/lifesg
 third_nav_title: Strategic National Projects
 ---
+# Personalised Government Services and Information  
 ![LifeSG banner](/images/initiatives/lifesg-kv.jpg)
 
-**What is LifeSG?**
+Originally known as Moments of Life, the <a href="http://www.life.gov.sg" target="_blank">app</a> was launched in June 2018, with modules to support families with young children, and seniors . The app was rebranded to LifeSG in August 2020, with new features to serve Singaporeans throughout their life journey.
 
-As part of efforts to offer citizens a more seamless and convenient experience when transacting with Government digital services, the Government is re-organising itself to provide personalised, customised services at a citizen-centric level.
+Today, LifeSG allows you to easily access Government services, keep up with the latest news and updates, track your applications and more.
 
-The LifeSG app is a Smart Nation initiative that helps citizens access Government services and information conveniently on a single platform. LifeSG makes Government services easy-to-use by personalising experiences, anticipating citizens’ needs and providing meaningful solutions. With a simplified experience, citizens can save time and focus on the things that matter. The app is developed by the Government Technology Agency.
+Below are some of LifeSG’s key features:
 
-**Is LifeSG new?**
+## Navigate Various Services
 
-Formerly known as Moments of Life, the app was launched in June 2018 to support families with young children and seniors. Since then, the app has progressively added new features to serve citizens in other aspects of their life journey. Currently, 7 in 10* Singaporean births have been registered with the app. Other features include an Active Ageing module for seniors aged 60 and above (rolled out in September 2019) and more recently, an Employment Support Guide for job-seekers (rolled out in June 2020). To date, the app has had more than 165,000 downloads.
+Ever felt overwhelmed when trying to get to a specific service? LifeSG helps connect you to more than 40 government services easily and at your fingertips.Information is grouped according to topics of interest, such as family and parenting, work and employment, healthcare and housing and property – making it easier to navigate. More services will be added progressively too, so watch out for these.
 
-On 19 August 2020, Minister-in-charge of the Smart Nation Initiative, Dr Vivian Balakrishnan, announced the rebranding of Moments of Life to LifeSG. The rebranding reflects the Government's future plans to expand and serve citizens beyond key moments in their lives. At the moment, the app has been enhanced to provide users with access to more than 40 services from various Government agencies. Over time, we hope to include more features and relevant digital services for citizens.
+## Create A Personal Dashboard
 
-_*Figure refers to newborns who meet the eligibility criteria for birth registration in the app._
+Set up and create your personalised dashboard using MyInfo so that you receive the information you need. You can also browse recommended content, useful guides and Government benefits via features like the Family Support Calculator.
 
-  
+## Data Protection and Safeguards
 
-**Features available in LifeSG**
+LifeSG complies with the Public Sector Governance Act (PSGA), which governs data-sharing and protection within the public sector. It has the following technical safeguards in place to keep your information secure:
 
-LifeSG will offer users more ready access to digital government services through the consolidation of personalised content. From August 2020, LifeSG will have a new interface with improved navigation, topical guides and the following features:
+* Encrypting all data transmissions
+* Mandating Singpass log-in as a requirement to access services
+* Checking for unauthorised logins
+* Running the platform through regular industry standard tests
 
+Have suggestions on how we can make LifeSG better? Share your feedback in the ongoing [Smart Nation Co-creating with our People Everywhere (SCOPE)](/community/scope) sessions, so we can enhance the app’s design and effectiveness.
 
-**a.** **Explore Services** – Citizens can explore and easily access more than 40 Government services (up from 12 services previously featured on the app). Information displayed is grouped according to topics of interest, such as family and parenting, work and employment, healthcare, housing and property, and other frequently-used digital services. More services will be added progressively.
-
-**b.** **Personal Dashboard** – Citizens can use the dashboard to discover recommended content, access guides that simplify processes such as job & preschool searches and discover government benefits through features such as the Family Support Calculator.
-
-  
-
-**Co-creating with Citizens**
-
-LifeSG is developed based on insights gathered through citizen engagement sessions over a six-month period to identify and better understand users' challenges and needs. The Government has also tapped on the ongoing Smart Nation Co-creating with our People Everywhere (SCOPE) sessions since Oct 2018, to consult citizens and better understand how the LifeSG initiative could better meet their needs.
-
-LifeSG is not just a step for the Government to connect the dots. It also represents how active gathering of citizen feedback can help enhance service delivery and design of the app.
-
-Find out more about LifeSG **[here](https://www.life.gov.sg/)**. Have a question or need more help? Refer to our **[frequently asked questions (FAQs)](https://www.life.gov.sg/help-support/about-lifesg).**
-
-Couldn't find what you're looking for or need more assistance? Email the LifeSG team at [helpdesk@life.gov.sg](mailto:helpdesk@life.gov.sg).
+Need help using the app? Refer to LifeSG's <a href="https://www.life.gov.sg/help-support/about-lifesg" target="_blank">frequently asked questions (FAQs)</a>.
