@@ -17,7 +17,7 @@ To qualify, you must be:
 -	A Singapore Citizen[^1]
 - A GCE A-Level (or equivalent) or polytechnic diploma graduate with an outstanding co-curricular activities record
 - Passionate about having a career in tech
--	Persuing or about to start an ICT-related degree programme[^2]
+-	Persuing an ICT-related degree programme[^2]
 
 [^1]: Includes Singapore Permanent Residents who are taking up citizenship.
 [^2]: If you are currently not in an ICT-related course but interested to take up a double degree in ICT, you will also be considered. 
