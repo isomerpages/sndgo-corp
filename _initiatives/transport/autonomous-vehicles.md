@@ -5,7 +5,7 @@ third_nav_title: Transport
 ---
 # Driving Into the Future
 ![Self driving illustration](/images/initiatives/self-driving-vehicle-lta.jpg)
-<h6>Image: Land Transport Authority</h6>
+###### Image: Land Transport Authority
 
 
 Imagine a day when your family car drives your children to school, takes you to work and brings your elderly parents out to lunch—all by itself. Your job is just to schedule the various trips.
@@ -22,7 +22,8 @@ Ongoing trials allow us to study the potential of autonomous vehicles, and you c
 
 ### A*STAR’s Institute for Infocomm Research (I2R)
 
-![Prime Minister Lee Hsien Loong in a self driving vehicle](/images/initiatives/smart-nation-pm-sdv.jpg)<h6>Image: A STAR</h6>
+![Prime Minister Lee Hsien Loong in a self driving vehicle](/images/initiatives/smart-nation-pm-sdv.jpg)
+###### Image: A STAR
   
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cUDgTRxP4ks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,7 +32,7 @@ A* STAR’s self-driving vehicle was the first autonomous vehicle approved for p
 
 ### National University of Singapore (NUS) and the Singapore-MIT Alliance for Research and Technology (SMART)
 ![SMART electric passenger car](/images/initiatives/SMART-SDV-r.jpg)
-<h6>Image: SMART</h6>
+###### Image: SMART
 
 In collaboration with SMART, the team at NUS has designed working research prototypes that have been making the rounds around the campus. Riders can book them and select their desired pick-up and drop-off locations using their smartphones, much like an on-demand shuttle service.
 
@@ -39,7 +40,7 @@ The team also conducted its first public trials of self-driving vehicles at the 
 
 ### nuTonomy
 ![nuTonomy's self driving car](/images/initiatives/nuTonomy.jpg)
-	<h6>Image: nuTonomy</h6>
+###### Image: nuTonomy
 
 An MIT/SMART spin-off, nuTonomy was the first private company to obtain approval for public road testing at one-north as of April 2016.
   
@@ -48,14 +49,14 @@ Its technology has been tested in the US, Singapore and Europe, and the company 
 
 ### Gardens by the Bay, in collaboration with ST Engineering
 ![Gardens by the bay self driving vehicle](/images/initiatives/gbtb-auto-rider-night.jpeg)
-	<h6>Image: Gardens by the Bay</h6>
+###### Image: Gardens by the Bay
 	
 Auto Rider - the first fully-operational self driving vehicle in Asia - is electric-powered, air-conditioned and can seat eight passengers. Auto Rider enhances connectivity within the Gardens and provides visitors with an alternative, cutting-edge mode of transport for getting around.
 	
 
 ### Nanyang Technological University (NTU)
 ![NTU shuttle bus](/images/initiatives/ntu-shuttle-bus.jpeg)
-<h6>Image: LTA & NTU</h6>
+###### Image: LTA & NTU
 
 NTU’s driverless shuttle bus travels a 500m route that connects up to 300 passengers between student halls and the main study areas. The aim is for this shuttle bus to eventually travel across the entire campus and beyond, connecting NTU to the neighbouring Cleantech Park.
 
@@ -71,7 +72,7 @@ Phase 1 trials will be conducted in the companies’ respective research centres
 
 ### Katoen Natie and VDL
 ![Driverless truck](/images/initiatives/driverless-truck-r.jpg)
-	<h6>Image: Katoen Natie</h6>
+###### Image: Katoen Natie
 
 Driverless trucks have gone on trial on Jurong Island since September 2017. These trucks are retrofitted with autonomous systems, which communicate with transponders installed in roads. As part of the initial trial , these trucks ply a fixed 6km-8km route.
 
