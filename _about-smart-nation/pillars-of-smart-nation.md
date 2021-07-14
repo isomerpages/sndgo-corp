@@ -1,7 +1,8 @@
 ---
-title: Pillars Of Smart Nation
+title: Pillars of Smart Nation
 permalink: /about-smart-nation/pillars-of-smart-nation
 ---
+
 Key pillars that support Singapore’s Smart Nation goals are: Digital Economy, Digital Government and Digital Society. Our people, our companies and our public agencies all have a role to play in this transformation.
 
 ## Digital Economy
