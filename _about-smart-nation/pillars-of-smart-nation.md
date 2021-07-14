@@ -2,10 +2,43 @@
 title: Pillars of Smart Nation
 permalink: /about-smart-nation/pillars-of-smart-nation
 ---
+# Three Pillars of a Smart Nation
 
-Key pillars that support Singapore’s Smart Nation goals are: Digital Economy, Digital Government and Digital Society. Our people, our companies and our public agencies all have a role to play in this transformation.
+Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a Smart Nation, harnessing technology to transform how its people and businesses live, work and play.  
+  
+The digital revolution is upon us, and Singapore must adapt and use technology to 
+harvest the benefits of digitalisation.
+
+## Digital Society
+
+A Digital Society empowers everyone  with a fair chance of succeeding despite their differences or circumstances. It inspires us to dream bigger, as we get more interconnected with the world through technology.
+
+Whether you’re young or old, tech-savvy or not, the aim is for every Singaporean to benefit from tech as part of a Digital Society. The <a href="https://www.mci.gov.sg/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">**Digital Readiness Blueprint**</a> explains how the Singapore Government is  making this happen:
+
+* By making technology more accessible to every Singaporean
+* By improving Singaporeans’ digital literacy
+* By helping the local community and businesses drive widespread adoption of technology
+* By designing inclusive digital services
+
+<div style="width:50%"> 
+ </div>
+<div style="width:50%"> 
+ <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/abt-smart-nation/digital-readiness-blueprint.jpg"></a>
+</div>
 
 ## Digital Economy
+
+A Digital Economy takes advantage of the latest technology to digitalise processes and drive business growth. This attracts foreign investments which, in turn, creates new jobs and opportunities for those in Singapore.
+
+Singapore’s pro-business environment, excellent tech infrastructure, close connectivity to major Asian economies as well as the availability of investment puts us in a good position to develop a strong Digital Economy.
+
+Three key strategies have been identified in the <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action" target="_blank">**Digital Economy Framework for Action**</a> to take advantage of our strengths:
+* Accelerate our economic growth by digitalising industries and businesses
+* Develop an ecosystem to help businesses stay vibrant and competitive
+* Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
+
+---
+
 
 Rapid digitalisation is disrupting business operations, altering industry structures and redefining rules globally. This is why it is important for us to be able to adapt and embrace digitalisation.
 
@@ -59,8 +92,4 @@ To empower Singaporeans to maximise the opportunities of a digital society, impr
 The blueprint signifies the commitment of the Singapore Government and our partners in the private and people sectors to ensure that people are at the centre of Singapore’s Smart Nation efforts, and that everyone can experience the benefits of technology.
 <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Read the Digital Readiness Blueprint here.</a>
 
- <div style="width:50%"> 
- </div>
-<div style="width:50%"> 
- <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/abt-smart-nation/digital-readiness-blueprint.jpg"></a>
-</div>
+ 
