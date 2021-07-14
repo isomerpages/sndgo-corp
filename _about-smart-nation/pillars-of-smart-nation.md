@@ -37,17 +37,6 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
 * Develop an ecosystem to help businesses stay vibrant and competitive
 * Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
 
----
-
-
-Rapid digitalisation is disrupting business operations, altering industry structures and redefining rules globally. This is why it is important for us to be able to adapt and embrace digitalisation.
-
-Talent and businesses are critical in a digital economy that will continue to keep Singapore vibrant and competitive. We are digitalising our economy from a position of strength. Singapore’s pro-business environment, excellent infrastructure and connectivity to major Asian economies, as well as availability of investment and well-developed technology, will continue to help attract businesses and talents.
-
-Our vision is to build a vibrant economy that remains attractive to foreign investments, with good opportunities for Singaporeans. We want to digitalise industries to increase business efficacy, and create new jobs and opportunities.
-
-The <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action" target="_blank">Digital Economy Framework for Action</a> sets out a guide to help our businesses and workforce prepare for and embrace the possibilities in a digital economy.
-
 <div style="width:50%"> 
  Digital Economy Framework for Action (4.31mb)
 </div>
@@ -57,39 +46,41 @@ The <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-
 
 ## Digital Government
 
+Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
 
-The Digital Government Blueprint (DGB) was launched on 5 Jun 2018, stating the vision and strategies for achieving a Digital Government. 14 Key Performance Indicators (KPIs) were set to measure the progress of our digitalisation.
+The [**Digital Government Blueprint (277kb)**](/files/publications/dgb-public-document_30dec20.pdf)  details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.  
 
-Two years after the launch of the DGB, the Government has introduced new policies and initiatives. COVID-19 has also reaffirmed our emphasis on capability building, and compelled different parts of the Government to accelerate the use of data and of technology to offer digital services that minimise physical contact, and to use technology and digital tools to keep us safe.
+New policies and initiatives are continually being added to the Digital Government Blueprint (DGB) to help us chart the fast-changing tides of tech and world events. For example, our ongoing drive to enhance our tech capabilities allowed us to pivot quickly and develop digital tools for contact tracing and the safe re-opening of Singapore’s economy amid the COVID-19 pandemic.
 
-The DGB has been updated to accurately reflect the current plans and to push for more ambitious goals to pursue deeper and more extensive digitalisation within the Government. New examples are included to better explain the latest efforts and benefits of Digital Government. The refresh is in line with the approach to improve the blueprint iteratively.
+From 2018 to 2020, our push towards deeper and more extensive digitalisation led to four key changes in the DGB:
 
-The key changes made to the DGB include:
+**1. Going deeper into what “digital to the core” and “serves with a heart” mean**
 
-1.  **Elaboration on the DGB vision** of “Digital to the core” and “Serves with heart”. A “digital to the core” framework has been developed to describe how the Government is developing and measuring itself towards this vision. There is a greater emphasis on “Serves with heart” to explain how the use of digital technologies is to help the Government achieve its main purpose of serving citizens better and building trust.
-2.  **Updated DGB strategies** that stresses greater importance on user centricity and co-creation, improving how we work as digital organisations and harnessing new technology including Artificial Intelligence.
-3.  **New and updated KPIs.**
-    -   New KPI: at least 70% of eligible Government systems to be on commercial cloud by 2023
-    -   Update existing KPI: Time required to fuse and share core data for cross-agency projects to be no more than 7 working days
-4.  **The future direction for Digital Government, as at 2020 and in light of COVID-19.**  A new section has been added to signal the future direction and the steps that agencies need to undertake to progress towards being digital organisations, which requires deeper changes in organisational policy, structure, and culture.
+There will be greater efforts to use digitalisation to create policies that are more personalised, and which can be easily adjusted in response to user behaviour. This will allow the Government to respond to citizens’ needs more effectively. We have already begun this with new digital platforms such as LifeSG.
 
-**<a href="/files/publications/dgb-public-document_30dec20.pdf" target="_blank">Read the full DGB 2020 Document here (272kb)</a>**
+**2. Putting the citizen’s needs first**
+
+The blueprint’s strategies have been updated to place more emphasis on users’ needs, to improve how we work, live and play as we harness new technologies such as AI.  
+
+**3. Setting targets to meet our near-term future**
+* New KPI:  At least 70% of eligible Government systems to be on commercial cloud by 2023
+* Update of an existing KPI: Time required to combine and share data for cross-agency projects to be no more than seven working days  
   
+**4. Setting a future direction in light of COVID-19**  
+The pandemic has given renewed impetus for government agencies to digitalise, including making deeper changes in organisational policy, structure and culture. 
 
-**Key Highlights of the Progress of DGB KPIs as of end-2019**
+### The progress so far
+Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2019:
+* 86% of citizens and 77% of businesses are very/extremely satisfied with Government digital services, surpassing our target of 75%-80%
+* 95% of transactions are completed digitally from start to end of the process, meeting the target of 90-95%
+* 20,000 officers have been trained in data analytics and data science, meeting the initial target set  and a new KPI is being reviewed
+* All 20 ministries have submitted plans to use artificial intelligence, meeting the target of broadening digitalisation within the Government
 
-1.  86% of citizens and 77% of businesses reported that they are “very” or “extremely” satisfied (at least 5 on a 6-point scale) with Government digital services, against the DGB target of 75-80%. These are the best results since the survey started in 2012. Both results also improved significantly, by 8%, compared to 2018.
-2.  To date, 95% of transactions (by volume) are completed digitally from end-to-end, meeting the target of 90-95%.
-3.  We have met the target for number of officers trained in data analytics and data science and will review a new KPI.
-4.  All 20 Ministries have submitted plans to use Artificial Intelligence.
+We’ve also set our sights on goals for 2023 and beyond:
+* 70% of eligible Government systems to be hosted on the commercial cloud
+* All public officers to have basic digital literacy skills
+* All ministry families to have at least 1 AI project for service delivery or policymaking
+* At least 10 cross-agency high-impact data analytics projects to be completed per year
+* No more than 7 working days to share data for cross-agency projects
 
-## Digital Society
-
-Digital inclusion is about ensuring all Singaporeans have access to technology that can enhance our everyday lives, and equipping people with the skills and know-how to use technology safely and confidently.
-
-To empower Singaporeans to maximise the opportunities of a digital society, improve their lives, be connected to the world, and have an equal chance to succeed, we released the  **Digital Readiness Blueprint**.
-
-The blueprint signifies the commitment of the Singapore Government and our partners in the private and people sectors to ensure that people are at the centre of Singapore’s Smart Nation efforts, and that everyone can experience the benefits of technology.
-<a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Read the Digital Readiness Blueprint here.</a>
-
- 
+Read the latest DGB here: [DGB - 30 December 2020 (277kb)](/files/publications/dgb-public-document_30dec20.pdf)  
