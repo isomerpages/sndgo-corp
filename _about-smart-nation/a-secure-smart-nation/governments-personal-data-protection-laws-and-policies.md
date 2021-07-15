@@ -4,7 +4,7 @@ permalink: /about-smart-nation/secure-smart-nation/personal-data-protection
 third_nav_title: A Secure Smart Nation
 ---
 # Government's Personal Data Protection Laws And Policies
-![Personal Data Protection Laws and Policies](/images/personal-data-wip.png)
+![Personal Data Protection Laws and Policies](/images/law-policies-wip.png)
 
 **The Government has put in place strong personal data protection laws and policies to safeguard sensitive data.**
 
