@@ -2,7 +2,7 @@
 title: Apps For You
 permalink: /community/apps-for-you
 ---
-![Apps for you](/images/Apps-for-you-wip-c.png)
+![Apps for you](/images/apps-for-you-wip.png)
 
 As we continue digitising Government services, some of them have evolved into mobile apps - making it more convenient.  
 
