@@ -21,7 +21,7 @@ Robotics can help improve patient care, for instance, assisting them with automa
 ## Enhanced Productivity in Healthcare
 Technology can lighten the workload of our healthcare workers with tools such as delivery drones that dispatch medicines and equipment, to data analytics that improve daily operations and reduces waiting times.
 
-*Other examples include: *
+**Other examples include:**
 
 * An industrial robotic arm that can pick and pack a range of objects, including fragile medical items. 
 * 	Automated guided vehicles that can transport food, linen documents,or move heavy items such as beds.
