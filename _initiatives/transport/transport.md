@@ -32,7 +32,7 @@ In land-scarce Singapore, 12% of our land is set aside for roads and transport i
   </div>
 	   <div class="column-c"> 
     <a href="/initiatives/transport/cetran-test-circuit"><img src="/images/initiatives/overview-pages/cetran.png"></a><br>
-     <div class="header"><b>Spearheading research in standards for SDVs
+     <div class="header"><b>Spearheading Research For Self-driving Vehicles
 </b></div><br>
     <div class="para">Singapore will spearhead research in standards for self-driving vehicles (SDVs) and provide an environment to test them before introducing to public roads.</div>
   </div>      
