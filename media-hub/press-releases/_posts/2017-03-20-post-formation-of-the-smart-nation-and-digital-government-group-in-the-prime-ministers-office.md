@@ -14,7 +14,7 @@ b. The  _Government Technology Agency_  (GovTech), a statutory board under MCI, 
 
 3\. Collectively, the SNDGO and GovTech will form the  **Smart Nation and Digital Government Group (SNDGG)**  in the Prime Minister’s Office. Figure 1 [below] illustrates these organisational changes.  
 
-![SNDGG Organisational Chart ](/images/media-hub/press-release/SNDGG-organisational-chart-r2.jpeg)
+![SNDGG Organisational Chart ](/images/media-hub/press-release/2017-2019/SNDGG-organisational-chart-r2.jpeg)
 
 Figure 1: Organisational chart for Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office
 
