@@ -3,7 +3,6 @@ layout: post
 title: Launch Of New App For Contact Tracing
 permalink: /media-hub/press-releases/launch-of-new-app-for-contact-tracing
 ---
-
 # A community effort to help combat the spread of COVID-19
 
 To help support and supplement current contact tracing efforts, Government Technology Agency (GovTech), in collaboration with the Ministry of Health (MOH), has developed a mobile app called TraceTogether. The app will be launched on 20 March.
@@ -44,14 +43,14 @@ To help support and supplement current contact tracing efforts, Government Techn
 **QR CODE TO DOWNLOAD:**
 
 <div style="width:30%"> 
-<img src="/files/press-releases/2020/QR-code-TT-20-mar-2020.jpeg" alt="trace together qr code for app download" style="width:30%">
+<img src="/images/media-hub/press-release/2020/qr-code-tt-20-mar-2020.jpeg" alt="trace together qr code for app download" style="width:30%">
 </div>
  
 **Resources:**
 
-[Step-by-step guide on using TraceTogether (pdf - 4.5mb)](/files/press-releases/2020/tracetogether-step-by-step-guide.pdf)
+[Step-by-step guide on using TraceTogether (4.5mb)](/files/press-releases/2020/tracetogether-step-by-step-guide.pdf)
 
-[Media Factsheet (pdf - 470kb)](/files/press-releases/2020/sndgg-tracetogether-media-factsheet-20-mar-20.pdf)
+[Media Factsheet (470kb)](/files/press-releases/2020/sndgg-tracetogether-media-factsheet-20-mar-20.pdf)
 
 [TraceTogether Infographic (jpg - 7.6mb)](/files/press-releases/2020/tracetogether-infographic-20-mar-2020.jpeg)
 
