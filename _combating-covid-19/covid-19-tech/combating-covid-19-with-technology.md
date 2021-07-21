@@ -108,7 +108,7 @@ When the outbreak hit Singapore's shores, there was a surge in demand for facema
 
 GovTech created a website for citizens to find the nearest centre to collect their masks based on their postal code **within 48 hours**.  [Read GovTech's look back](https://www.tech.gov.sg/media/technews/maskgowhere)  on how they raced against time and hurdles to get the site up and running.
 
-**[Return to top](#Learn-More-About)**
+**[Return to top](#singapores-technology-driven-response-to-the-pandemic)**
 
 ## Public Health Solutions
 ![COVID-19 tech solutions](/images/covid-19/COVID-19-tech-solutions.png)
@@ -149,7 +149,7 @@ VigilantGantry is a fully automated AI-driven temperature screening gantry that 
 
 The AI-driven system can record temperatures even with headgear or hair fringes – avoiding any required human intervention! GovTech has open-sourced the solution for wider adoption in the public sector.
 
-**[Return to top](#Learn-More-About)**
+**[Return to top](#singapores-technology-driven-response-to-the-pandemic)**
 
 ## Providing Social and Economic Support
 ![COVID-19 social and economic support](/images/covid-19/COVID-19-economic-support.png)
@@ -179,7 +179,4 @@ SupportGoWhere, a LifeSG initiative, provides citizens with a single portal to d
 
 When schools had to be closed during the circuit breaker period, MOE tapped on the Student Learning Space (SLS) to ensure that learning could continue while the world battled COVID-19. With the help of SLS, 420,000 students and 33,000 teachers transitioned smoothly to home-based learning.
 
-
-
-
-**[Return to top](#Learn-More-About)**
+**[Return to top](#singapores-technology-driven-response-to-the-pandemic)**
