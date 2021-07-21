@@ -34,6 +34,6 @@ d. Smart Urban Mobility, to leverage data and digital technologies, including ar
 
 e. Moments of Life, which bundles relevant government services, across different agencies, to the citizen at key moments of his life. This reduces the need for citizens to transact with multiple government agencies, for a more seamless and convenient experience.
 
-![Smart Nation Strategic National Projects](/images/media-hub/press-release/Key-Milestones-for-Strategic-National-Projects-2017.jpeg)
+![Smart Nation Strategic National Projects](/images/media-hub/press-release/2017-2019/Key-Milestones-for-Strategic-National-Projects-2017.jpeg)
 
 6\. To achieve the above outcomes, the Government will actively engage citizens and businesses, respond to their feedback and needs, and create space for innovation and co-creation. The Government is also in the process of crystallising the next phase of similarly impactful projects to advance Smart Nation, and will seek views and perspectives from different sources.
