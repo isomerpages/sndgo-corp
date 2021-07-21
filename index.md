@@ -13,7 +13,7 @@ sections:
           url: /initiatives/strategic-national-projects
         - title: Pillars Of Smart Nation
           description: Find out more about the three key pillars.
-          url: /abt-smart-nation/pillars-of-smart-nation
+          url: /about-smart-nation/pillars-of-smart-nation
         - title: A Secure Smart Nation
           description: Report a Government Data Incident
           url: /abt-smart-nation/secure-smart-nation/report-data-incident/
