@@ -15,8 +15,8 @@ In Singapore, we managed to respond swiftly and effectively to the pandemic usin
 
 |[**Suite of Contact Tracing and Management Tech**](#suite-of-contact-tracing-and-management-tech) | [**Informational Websites and Platforms**](#informational-websites-and-platforms)|
 | -------- | -------- | 
-| [SafeEntry](#safeentry)  | [COVID-19 Situation Report Dashboard](#COVID-19-Situation-Report-Dashboard)  
-|[TraceTogether Programme](#TraceTogether-Programme)|[FluGoWhere](#FluGoWhere)
+| [SafeEntry](#safeentry)  | [COVID-19 Situation Report Dashboard](#covid-19-situation-report-dashboard)  
+|[TraceTogether Programme](#tracetogether-programme)|[FluGoWhere](#FluGoWhere)
 |[Homer](#Homer)|[Gov.sg WhatsApp](#Gov.sg-WhatsApp)
 | | [Gov.sg Info Bot](#Gov.sg-Info-Bot)
 ||[TokenGoWhere](#TokenGoWhere)
