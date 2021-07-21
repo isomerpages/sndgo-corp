@@ -16,13 +16,13 @@ In Singapore, we managed to respond swiftly and effectively to the pandemic usin
 |[**Suite of Contact Tracing and Management Tech**](#suite-of-contact-tracing-and-management-tech) | [**Informational Websites and Platforms**](#informational-websites-and-platforms)|
 | -------- | -------- | 
 | [SafeEntry](#safeentry)  | [COVID-19 Situation Report Dashboard](#covid-19-situation-report-dashboard)  
-|[TraceTogether Programme](#tracetogether-programme)|[FluGoWhere](#FluGoWhere)
-|[Homer](#Homer)|[Gov.sg WhatsApp](#Gov.sg-WhatsApp)
-| | [Gov.sg Info Bot](#Gov.sg-Info-Bot)
-||[TokenGoWhere](#TokenGoWhere)
-||[MaskGoWhere](#MaskGoWhere)
+|[TraceTogether Programme](#tracetogether-programme)|[FluGoWhere](#flugowhere)
+|[Homer](#homer)|[Gov.sg WhatsApp](#gov-sg-whatsapp)
+| | [Gov.sg Info Bot](#gov-sg-info-bot)
+||[TokenGoWhere](#tokengowhere)
+||[MaskGoWhere](#maskgowhere)
 |[**Public Health Solutions**](#public-health-solutions) | [**Providing Social and Economic Support**](#providing-social-and-economic-support)|
-| [HealthCerts](#HealthCerts)|[COVID-19 GoBusiness Portal](#COVID-19-GoBusiness-Portal)
+| [HealthCerts](#healthcerts)|[COVID-19 GoBusiness Portal](#covid-19-gobusiness-portal)
 |[Notarise & Verify System](#Notarise-&-Verify-System)|[COVID-19 Support Grant (CSG) application portal](#COVID-19-Support-Grant-CSG-application-portal)
 |[National Appointment System (NAS) for COVID-19 Vaccination](#National-Appointment-System-NAS-for-COVID-19-Vaccination)|[COVID-19 Recovery Grant (CRG) application portal](#COVID-19-Recovery-Grant-CRG-application-portal)
 |[Space Out](#Space-Out)|[SupportGoWhere](#SupportGoWhere)
