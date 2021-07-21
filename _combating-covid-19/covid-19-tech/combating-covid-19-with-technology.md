@@ -17,8 +17,8 @@ In Singapore, we managed to respond swiftly and effectively to the pandemic usin
 | -------- | -------- | 
 | [SafeEntry](#safeentry)  | [COVID-19 Situation Report Dashboard](#covid-19-situation-report-dashboard)  
 |[TraceTogether Programme](#tracetogether-programme)|[FluGoWhere](#flugowhere)
-|[Homer](#homer)|[Gov.sg WhatsApp](#gov-sg-whatsapp)
-| | [Gov.sg Info Bot](#gov-sg-info-bot)
+|[Homer](#homer)|[Gov.sg WhatsApp](#govsg-whatsapp)
+| | [Gov.sg Info Bot](#govsg-info-bot)
 ||[TokenGoWhere](#tokengowhere)
 ||[MaskGoWhere](#maskgowhere)
 |[**Public Health Solutions**](#public-health-solutions) | [**Providing Social and Economic Support**](#providing-social-and-economic-support)|
