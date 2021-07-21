@@ -23,10 +23,10 @@ In Singapore, we managed to respond swiftly and effectively to the pandemic usin
 ||[MaskGoWhere](#maskgowhere)
 |[**Public Health Solutions**](#public-health-solutions) | [**Providing Social and Economic Support**](#providing-social-and-economic-support)|
 | [HealthCerts](#healthcerts)|[COVID-19 GoBusiness Portal](#covid-19-gobusiness-portal)
-|[Notarise & Verify System](#Notarise-&-Verify-System)|[COVID-19 Support Grant (CSG) application portal](#COVID-19-Support-Grant-CSG-application-portal)
-|[National Appointment System (NAS) for COVID-19 Vaccination](#National-Appointment-System-NAS-for-COVID-19-Vaccination)|[COVID-19 Recovery Grant (CRG) application portal](#COVID-19-Recovery-Grant-CRG-application-portal)
-|[Space Out](#Space-Out)|[SupportGoWhere](#SupportGoWhere)
-|[SPOTON Smart Thermal Scanner](#SPOTON-Smart-Thermal-Scanner)|[Student Learning Space](#Student-Learning-Space)
+|[Notarise & Verify System](#notarise-&-verify-system)|[COVID-19 Support Grant (CSG) Application Portal](#covid-19-support-grant-csg-application-portal)
+|[National Appointment System (NAS) for COVID-19 Vaccination](#national-appointment-system-nas-for-covid-19-vaccination)|[COVID-19 Recovery Grant (CRG) Application Portal](#covid-19-recovery-grant-crg-application-portal)
+|[Space Out](#space-out)|[SupportGoWhere](#supportgowhere)
+|[SPOTON Smart Thermal Scanner](#spoton-smart-thermal-scanner)|[Student Learning Space](#student-learning-space)
 |[SupplyAlly](#SupplyAlly)|
 |[VigilantGantry](#VigilantGantry)
 
