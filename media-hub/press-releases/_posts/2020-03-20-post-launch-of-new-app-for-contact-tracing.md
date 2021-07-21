@@ -52,7 +52,7 @@ To help support and supplement current contact tracing efforts, Government Techn
 
 [Media Factsheet (470kb)](/files/press-releases/2020/sndgg-tracetogether-media-factsheet-20-mar-20.pdf)
 
-[TraceTogether Infographic (png - 2.8mb)](/files/press-releases/2020/tracetogether-infographic-20-mar-2020.jpeg)
+[TraceTogether Infographic (png - 2.8mb)](/images/media-hub/press-release/2020/tracetogether-infographic-20-mar-2020.png)
 
 ---
 
