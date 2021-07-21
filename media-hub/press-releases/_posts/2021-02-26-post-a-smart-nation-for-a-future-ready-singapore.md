@@ -3,7 +3,6 @@ layout: post
 title: A Smart Nation For A Future-Ready Singapore
 permalink: /media-hub/press-releases/a-smart-nation-for-a-future-ready-singapore
 ---
-
 *   _Our digitalisation efforts over the years enabled us to overcome many of the challenges posed by COVID-19_
 *   _Smart Nation initiatives have improved people’s lives and facilitated business innovation_
 *   _Digital Government efforts will continue to focus on enhancing digital infrastructure and strengthening in-house capabilities_
@@ -81,21 +80,21 @@ permalink: /media-hub/press-releases/a-smart-nation-for-a-future-ready-singapore
 
 ---
 
-[Factsheet: LifeSG (pdf - 660kb)](/files/press-releases/2021/factsheet-lifesg.pdf)
+[Factsheet: LifeSG (660kb)](/files/press-releases/2021/factsheet-lifesg.pdf)
 
-[Factsheet: SingPass (pdf - 100kb)](/files/press-releases/2021/factsheet-singpass-national-digital-identity.pdf)
+[Factsheet: SingPass (100kb)](/files/press-releases/2021/factsheet-singpass-national-digital-identity.pdf)
 
-[Factsheet: GoBusiness (pdf - 110kb)](/files/press-releases/2021/factsheet-gobusiness.pdf)
+[Factsheet: GoBusiness (110kb)](/files/press-releases/2021/factsheet-gobusiness.pdf)
 
 [Factsheet: The Digital Academy (70kb)](/files/press-releases/2021/factsheet-the-digital-academy.pdf)  
   
 [Factsheet: HealthCerts (215kb)](/files/press-releases/2021/factsheet-healthcerts.pdf)
 
-[Infographic: Responding to COVID-19 with tech (pdf - 8.9mb)](/files/press-releases/2021/responding-to-covid-19-with-tech.pdf)
+[Infographic: Responding to COVID-19 with tech (8.9mb)](/files/press-releases/2021/responding-to-covid-19-with-tech.pdf)
 
-[Infographic: Transforming Singapore through technology (pdf - 3.1mb)](/files/press-releases/2021/transforming-sg-through-tech.pdf)
+[Infographic: Transforming Singapore through technology (3.1mb)](/files/press-releases/2021/transforming-sg-through-tech.pdf)
 
-[Infographic: Building Partnerships and Capabilities for Smart Nation (pdf - 2mb)](/files/press-releases/2021/building-partnerships-and-capabilities-for-smart-nation.pdf)
+[Infographic: Building Partnerships and Capabilities for Smart Nation (2mb)](/files/press-releases/2021/building-partnerships-and-capabilities-for-smart-nation.pdf)
 
 **For media enquiries, please contact**:
 
