@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Factsheet - Enhancements to the TraceTogether Application
+title: Factsheet - Enhancements to the TraceTogether Application
 permalink: /media-hub/press-releases/factsheet-enhancements-to-the-tracetogether-application
 ---
-
 As Singapore eases its circuit breaker measures and allows the resumption of more businesses and activities, it is even more critical that contact tracing be conducted quickly, and comprehensively.
 
 2\. TraceTogether was the first digital tool launched to support the national contact tracing programme. However, there are certain limitations with the iOS version of the app that only works when the app is running in the foreground. The necessity for a smart phone is another hurdle for universal participation. Consequently, we are developing a wearable device that will overcome these challenges. If the device works well, we may then distribute it nationwide for universal coverage.
@@ -39,7 +38,7 @@ As Singapore eases its circuit breaker measures and allows the resumption of mor
 
 13\. Users can follow the steps below to set up the app.
 
-![TraceTogether Setup User guide](/files/press-releases/2020/TT-app-user-setup-guide.png)
+![TraceTogether Setup User guide](/images/media-hub/press-release/2020/tt-app-user-setup-guide.png)
 
 **Re-onboarding for existing TraceTogether app users**
 
