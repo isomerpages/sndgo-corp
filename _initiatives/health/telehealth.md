@@ -4,7 +4,7 @@ permalink: /initiatives/health/telehealth
 third_nav_title: Health
 ---
 # Medical Consultations in the Comfort of Your Own Home
-![Alt text for image on Isomer site](/images/initiatives/telehealth.jpeg)
+![TeleHealth](/images/initiatives/telehealth.jpeg)
 
 TeleHealth offers integrated, seamless medical care in the form of online medical consultations without having to go down to the healthcare institution in person. It allows better use of resources, greater efficiency and less stress for patients and healthcare providers alike.  
   
