@@ -27,8 +27,8 @@ In Singapore, we managed to respond swiftly and effectively to the pandemic usin
 |[National Appointment System (NAS) for COVID-19 Vaccination](#national-appointment-system-nas-for-covid-19-vaccination)|[COVID-19 Recovery Grant (CRG) Application Portal](#covid-19-recovery-grant-crg-application-portal)
 |[Space Out](#space-out)|[SupportGoWhere](#supportgowhere)
 |[SPOTON Smart Thermal Scanner](#spoton-smart-thermal-scanner)|[Student Learning Space](#student-learning-space)
-|[SupplyAlly](#SupplyAlly)|
-|[VigilantGantry](#VigilantGantry)
+|[SupplyAlly](#supplyally)|
+|[VigilantGantry](#vigilantgantry)
 
 
 
