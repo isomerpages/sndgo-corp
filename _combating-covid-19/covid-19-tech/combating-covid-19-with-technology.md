@@ -11,7 +11,7 @@ For many of us, COVID-19 is the crisis of our generation. The pandemic has shutd
 
 In Singapore, we managed to respond swiftly and effectively to the pandemic using technology to keep our people safe. Smart Nation and Digital Government Group worked closely with various Government agencies to assist with public health response and beyond.
 
-## Learn More About the Wide Range of Solutions and Services That Was Rolled Out!
+**Learn More About the Wide Range of Solutions and Services That Was Rolled Out!**
 
 |[**Suite of Contact Tracing and Management Tech**](#suite-of-contact-tracing-and-management-tech) | [**Informational Websites and Platforms**](#informational-websites-and-platforms)|
 | -------- | -------- | 
@@ -72,7 +72,7 @@ The App uses its auto location reporting function to submit the individual's cur
 
 Homer allows the Government agencies to manage all the individuals on their SHN or QO effectively and monitor their health status.
 
-**[Return to top](#Learn-More-About)**
+**[Return to top](#Singapore-s-Technology-Driven-Response-To-The-Pandemic)**
 
 ## Informational Websites and Platforms
 ![COVID-19 information websites and platforms](/images/covid-19/COVID-19-informational-platforms.png)
