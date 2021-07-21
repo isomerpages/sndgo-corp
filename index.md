@@ -16,7 +16,7 @@ sections:
           url: /about-smart-nation/pillars-of-smart-nation
         - title: A Secure Smart Nation
           description: Report a Government Data Incident
-          url: /abt-smart-nation/secure-smart-nation/report-data-incident/
+          url: /about-smart-nation/secure-smart-nation/report-data-incident
         - title: Smart Nation Ambassadors
           description: Join us on our transformative Journey
           url: /community/smart-nation-ambassadors
