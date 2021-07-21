@@ -3,7 +3,6 @@ title: Strategic National Projects
 permalink: /initiatives/strategic-national-projects
 third_nav_title: Strategic National Projects
 ---
-
 # Strategic National Projects
 
 These projects are the building blocks that help us grow and develop efficiently as we transform Singapore into a Smart Nation.
@@ -150,14 +149,6 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
                 <img src="/images/initiatives/overview-pages/smart-urban-mobility.png">
             <div class="card-content">
                 <h6>Smart Urban Mobility</h6>
-            </div><!-- .card-content -->
-        </a>
-    </div><!-- .card -->
-	<div class="card">
-        <a href="/initiatives/strategic-national-projects/covid-19">
-                <img src="/images/initiatives/overview-pages/initiative-overview-covid-19.png">
-            <div class="card-content">
-                <h6>Combatting Covid-19</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
