@@ -70,7 +70,7 @@ The App uses its auto location reporting function to submit the individual's cur
 
 Homer allows the Government agencies to manage all the individuals on their SHN or QO effectively and monitor their health status.
 
-**[Return to top](#singapore-s-technology-driven-response-to-the-pandemic)**
+**[Return to top](#singapores-technology-driven-response-to-the-pandemic)**
 
 ## Informational Websites and Platforms
 ![COVID-19 information websites and platforms](/images/covid-19/COVID-19-informational-platforms.png)
