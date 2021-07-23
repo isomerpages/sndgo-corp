@@ -1,6 +1,6 @@
 ---
 title: Punggol Digital District
-permalink: /initiatives/business/punggol-digital-district
+permalink: /initiatives/strategic-national-projects/punggol-digital-district
 third_nav_title: Strategic National Projects
 ---
 
