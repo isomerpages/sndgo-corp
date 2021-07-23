@@ -1,6 +1,6 @@
 ---
 title: Business Grants Portal & GoBusiness Licensing
-permalink: /initiatives/digital-government-services/business-grants-gobusiness-licensing
+permalink: /initiatives/strategic-national-projects/business-grants-gobusiness-licensing
 third_nav_title: Strategic National Projects
 ---
 ![business grants portal](/images/initiatives/business-grants-gobusiness.png)
