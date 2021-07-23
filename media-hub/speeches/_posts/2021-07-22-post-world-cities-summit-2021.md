@@ -10,14 +10,14 @@ layout: post
 
 Hello everyone
 
-1. Thank you for inviting me and congratulations to the Centre of Liveable Cities for once again organising the World Cities Summit.
+1\. Thank you for inviting me and congratulations to the Centre of Liveable Cities for once again organising the World Cities Summit.
 
-2. The World Cities Summit has been running for 13 years.
+2\. The World Cities Summit has been running for 13 years.
 * Its longevity is testament to the usefulness of us coming together to exchange insights and sharpen ideas on building better cities.
 * There is much in common in the challenges we face and the aspirations we have.
 * Yet no two cities are completely alike. The circumstances that shape us are different.
 
-3. In this spirit of mutual learning, I am pleased to launch a joint publication between CLC and Tianjin’s Eco-City Administrative Committee titled, “A Partnership for A Smart and Sustainable Future: the China-Singapore Tianjin Eco-City”.
+3\. In this spirit of mutual learning, I am pleased to launch a joint publication between CLC and Tianjin’s Eco-City Administrative Committee titled, “A Partnership for A Smart and Sustainable Future: the China-Singapore Tianjin Eco-City”.
 	* The Tianjin Eco City is second of three bilateral flagship projects Singapore has with China, all of which I’m privileged to have been part of.
 	* The project broke ground in 2008. It was designed to demonstrate how cities can be built with environmental sustainability as a top priority, and how concepts can turn into reality.
 	* Its experience was documented and published in 2018, on the occasion of its 10th anniversary. It received many positive responses. To broaden its reach and benefit more interested parties, an adapted English edition is being launched today.
