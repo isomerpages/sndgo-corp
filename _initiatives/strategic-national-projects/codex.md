@@ -3,6 +3,7 @@ title: CODEX
 permalink: /initiatives/strategic-national-projects/codex
 third_nav_title: Strategic National Projects
 ---
+
 # Sharing Resources to Develop Digital Services For Citizens 
 
 ![CODEX infograhic](/images/initiatives/CODEX.jpeg)
