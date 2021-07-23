@@ -2,7 +2,7 @@
 title: Opportunities & Help For The Community
 permalink: /community/opportunities
 ---
-![Opportunities & help for the community](/images/Opportunities-help-WIP.png)
+![Opportunities & help for the community](/images/Opportunities-WIP.png)
 
 ## [Home Access](https://www.imda.gov.sg/programme-listing/home-access)
 
