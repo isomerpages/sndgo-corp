@@ -105,6 +105,14 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="policies-container">
 <section class="cards">
     <div class="card">
+        <a href="/initiatives/strategic-national-projects/business-grants-gobusiness-licensing">
+                <img src="/images/initiatives/business-grants-gobusiness.png">
+            <div class="card-content">
+                <h6>Business Grants Portal & GoBusiness Licensing</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+	<div class="card">
         <a href="/initiatives/strategic-national-projects/codex">
                 <img src="/images/initiatives/overview-pages/codex.png">
             <div class="card-content">
@@ -133,6 +141,14 @@ CODE FROM MSE: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
                 <img src="/images/initiatives/overview-pages/national-digital-identity.png">
             <div class="card-content">
                 <h6>National Digital Identity (NDI)</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+	  <div class="card">
+        <a href="/initiatives/strategic-national-projects/punggol-digital-district">
+                <img src="/images/initiatives/overview-pages/punggol-digital-district.png">
+            <div class="card-content">
+                <h6>Punggol Digital District</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
