@@ -102,7 +102,7 @@ Hello everyone
 * The SP Group announced just such a trial in Singapore earlier this month.
 * If it works, the batteries in electric vehicles can be dual-purposed as storage for the city’s electricity grid, to improve its reliability and allow it to better utilise intermittent solar power.
 
-## Future-Focused *
+## Future-Focused
 
 21\. Thirdly, a smart city builds for the future.
 
@@ -145,10 +145,3 @@ Hello everyone
 * bridge-builders who apply them to urban living
 
 32\. They will gather physically and virtually in forums like today’s to share views and sharpen each other’s thinking. I thank you all for your enthusiastic participation and wish you fruitful discussions. Thank you.
-
-
-
-
-
-
-
