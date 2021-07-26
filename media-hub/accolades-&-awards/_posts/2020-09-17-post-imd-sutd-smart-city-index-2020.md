@@ -1,6 +1,6 @@
 ---
 title:  IMD-SUTD Smart City Index 2020
-permalink: /media-hub/accolades-awards/imd-sutd-smart-city-index-2020
+permalink: /media-hub/accolades-&-awards/imd-sutd-smart-city-index-2020
 ---
 
 # Global Recognition For The Second Year Running
