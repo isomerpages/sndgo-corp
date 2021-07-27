@@ -18,7 +18,7 @@ The Smart Nation and Digital Government Office (SNDGO) has published the second 
 
 ## Three Newly-Implemented Initiatives since 1 October 2020
 
-6. As of 31 March 2021, the Government has implemented 21 of the 24 initiatives arising from the five key recommendations by the PSDSRC. The 3 initiatives that have been implemented since 1 October 2020 are:
+6\. As of 31 March 2021, the Government has implemented 21 of the 24 initiatives arising from the five key recommendations by the PSDSRC. The 3 initiatives that have been implemented since 1 October 2020 are:
 
 * The **Data Privacy Protection Capability Centre (DPPCC)**: This centre was set up within GovTech in December 2020 to deepen the Government’s expertise in data privacy protection technologies. It will provide expert advice to agencies, and monitor emerging data privacy protection risks and recommend solutions to mitigate these risks.
 
@@ -26,23 +26,23 @@ The Smart Nation and Digital Government Office (SNDGO) has published the second 
 
 * **Amendments to the Personal Data Protection Act (PDPA)**: The amendments came into effect on 1 February 2021. These amendments strengthen the data protection accountability of non-Government entities and non-public officers who handle Government data. Punitive measures were introduced to hold these individuals accountable for the reckless handling, or intentional mishandling, of personal data.
  
-7. The remaining 3 of the 24 initiatives are technical measures, which require significant re-architecting of technical systems and more time to develop. The Government is on track to complete these initiatives as planned, by end-2023.
+7\. The remaining 3 of the 24 initiatives are technical measures, which require significant re-architecting of technical systems and more time to develop. The Government is on track to complete these initiatives as planned, by end-2023.
 
 ## Updates on Ongoing Initiatives
 
 ### Technical and process measures to prevent data compromises
 
-8. The Government has been implementing advanced technical solutions to further strengthen the public sector’s data security posture. In November 2020, the Government implemented the Government Commercial Cloud (GCC) Privileged Identity Management (PIM) solution. With more Government systems migrating to the Cloud as part of our “Cloud-First” strategy, the GCC-PIM solution will ensure that access by privileged users (i.e. those whose roles require wide access to data), such as system administrators, will be secured and monitored to prevent unauthorised use of data.
+8\. The Government has been implementing advanced technical solutions to further strengthen the public sector’s data security posture. In November 2020, the Government implemented the Government Commercial Cloud (GCC) Privileged Identity Management (PIM) solution. With more Government systems migrating to the Cloud as part of our “Cloud-First” strategy, the GCC-PIM solution will ensure that access by privileged users (i.e. those whose roles require wide access to data), such as system administrators, will be secured and monitored to prevent unauthorised use of data.
 
-9. The Government has also started to develop WOG Data Loss Protection (DLP) services. The DLP services uses technical and process controls to detect anomalous activities, such as unexpected downloads of large amounts of data to personal computers, that are indicators of possible malicious activity or data incidents. The DLP services will prompt the user to confirm that the data was intended to be transferred before proceeding to do so, and in some cases, stop the anomalous data transfer altogether to prevent the loss of sensitive data from Government networks and user devices. The implementation of the WOG DLP services will commence by the end of 2021.
+9\. The Government has also started to develop WOG Data Loss Protection (DLP) services. The DLP services uses technical and process controls to detect anomalous activities, such as unexpected downloads of large amounts of data to personal computers, that are indicators of possible malicious activity or data incidents. The DLP services will prompt the user to confirm that the data was intended to be transferred before proceeding to do so, and in some cases, stop the anomalous data transfer altogether to prevent the loss of sensitive data from Government networks and user devices. The implementation of the WOG DLP services will commence by the end of 2021.
 
 ### Enhancing competencies in safeguarding data and holding public officers accountable
 
-10. It is not possible to eliminate data incidents altogether and we will need to respond swiftly when they occur. To ensure that the public service is well-prepared to respond to data incidents at the WOG level, the Government will be conducting central ICT and Data Incident Management exercises in a multiple-agency effort. Four ministries have been selected to participate in the inaugural central ICT and Data Incident Management Exercise to be held in September 2021. These come on top of annual agency-specific exercises to simulate data incidents and test the readiness of agencies to effectively contain and manage the impact of data incidents.
+10\. It is not possible to eliminate data incidents altogether and we will need to respond swiftly when they occur. To ensure that the public service is well-prepared to respond to data incidents at the WOG level, the Government will be conducting central ICT and Data Incident Management exercises in a multiple-agency effort. Four ministries have been selected to participate in the inaugural central ICT and Data Incident Management Exercise to be held in September 2021. These come on top of annual agency-specific exercises to simulate data incidents and test the readiness of agencies to effectively contain and manage the impact of data incidents.
 
-11. The Government has also implemented several initiatives to ensure that public officers are well-equipped to manage and safeguard data to mitigate security risks. In February 2021, the Data Security e-learning module was refreshed to include new content on how to work from home securely, and how to safeguard data when using the new Secure Internet Surfing technology implemented in November 2020. In addition, the Government will be conducting a series of specialised workshops from July 2021 for Key Appointment Holders, as well as ICT and data teams, to equip them with the necessary skillsets to fulfil their roles.
+11\. The Government has also implemented several initiatives to ensure that public officers are well-equipped to manage and safeguard data to mitigate security risks. In February 2021, the Data Security e-learning module was refreshed to include new content on how to work from home securely, and how to safeguard data when using the new Secure Internet Surfing technology implemented in November 2020. In addition, the Government will be conducting a series of specialised workshops from July 2021 for Key Appointment Holders, as well as ICT and data teams, to equip them with the necessary skillsets to fulfil their roles.
 
-12. The second update on the Government’s personal data protection efforts can be found on the “A Secure Smart Nation” microsite (Go.gov.sg/SecureSmartNation).
+12\. The second update on the Government’s personal data protection efforts can be found on the “A Secure Smart Nation” microsite (Go.gov.sg/SecureSmartNation).
 
 ******
 [**Annex A: Infographic on Second Update (932 KB)**](/files/publications/government-personal-data-protection-efforts-2021-summary.pdf)
