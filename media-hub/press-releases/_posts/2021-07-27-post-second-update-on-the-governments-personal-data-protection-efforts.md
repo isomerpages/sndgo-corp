@@ -52,16 +52,16 @@ The Smart Nation and Digital Government Office (SNDGO) has published the second 
 
 For media queries, please contact:
 
-**Amanda Foo**
-Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: +65 9841 8628
+**Amanda FOO (Ms)**<br>
+Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: +65 9841 8628<br>
 Email: amanda_foo@pmo.gov.sg
 
-**Goh Yu Chong**
-Assistant Director, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore
-Mobile: +65 9644 1674
+**GOH Yu Chong (Mr)**<br>
+Assistant Director, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
+Mobile: +65 9644 1674<br>
 Email: goh_yu_chong@pmo.gov.sg
 
 ******
