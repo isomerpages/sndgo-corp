@@ -35,14 +35,24 @@ The Government has accepted the Committee’s recommendations and will take the 
  
 ## Annual Updates on Government’s Personal Data Protection Initiatives
 
-Starting from 2020, the Government will publish annual updates to highlight efforts and initiatives taken to strengthen the public sector data security regime and safeguard data.  The report will also provide an overview of the effectiveness of the efforts and initiatives, and lessons learnt from data incidents.  Moving forward, the Government will continually and proactively enhance its initiatives to ensure the resiliency of its data security regime to respond and address emerging threats and risks.
+The Government publishes annual updates to highlight efforts and initiatives taken to strengthen the public sector data security regime and safeguard data. The reports also provide an overview of the effectiveness of the efforts and initiatives, and lessons learnt from data incidents. The Government will continually and proactively enhance its initiatives to ensure the resiliency of its data security regime to respond and address emerging threats and risks.
+
+*Find a copy of the annual updates below.*
+
+**2021: Second Update on the Government's Personal Data Protection Efforts 2021 – Summary (PDF - 932KB)**
+
+
+
+**2021: Second Update on the Government's Personal Data Protection Efforts 2021 (PDF - 269KB)**
+
+
  
-**Annual Update on the Government's Personal Data Protection Efforts 2020 - Summary (205KB)**
+**2020: First Update on the Government's Personal Data Protection Efforts - Summary (PDF - 205KB)**
 <div style="width:50%"> 
  <a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary.pdf" target="_blank"><img src="/images/abt-smart-nation/psdsrc-annual-update-2020-summary.jpeg"></a>
 </div>
 
-**Annual Update on the Government's Personal Data Protection Efforts 2020 (2.2MB)**
+**2020: First Update on the Government's Personal Data Protection Efforts (PDF - 2.2MB)**
 <div style="width:50%"> 
  <a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-2020.pdf" target="_blank"><img src="/images/abt-smart-nation/psdsrc-annual-update-2020_report.jpeg"></a>
 </div>
