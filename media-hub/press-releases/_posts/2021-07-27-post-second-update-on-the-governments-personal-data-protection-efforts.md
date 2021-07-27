@@ -1,9 +1,10 @@
 ---
 title: Second Update on the Government's Personal Data Protection Efforts
 date: 2021-07-27
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/2nd-update-pdp
 layout: post
 ---
+
 The Smart Nation and Digital Government Office (SNDGO) has published the second update on the Government’s personal data protection efforts. This annual update is a key recommendation made by the Public Sector Data Security Review Committee (PSDSRC) [^1] in November 2019, to enhance transparency on how the Government uses and secures citizen data.
 
 2. This update focuses on the initiatives carried out between 1 October 2020 and 31 March 2021, while the inaugural update covered the period from November 2019 to 30 September 2020. The coverage of future updates will henceforth be aligned to the financial year. 
