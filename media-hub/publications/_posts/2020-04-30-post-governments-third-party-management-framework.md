@@ -1,7 +1,7 @@
 ---
 title: Government’s Third-Party Management Framework
 date: 2020-04-30
-permalink: /media-hub/publications/third-party-management-framework-apr2020
+permalink: /media-hub/publications/third-party-management-framework
 layout: post
 ---
 
