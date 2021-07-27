@@ -4,18 +4,17 @@ date: 2021-07-27
 permalink: /media-hub/press-releases/2nd-update-pdp
 layout: post
 ---
-
 The Smart Nation and Digital Government Office (SNDGO) has published the second update on the Government’s personal data protection efforts. This annual update is a key recommendation made by the Public Sector Data Security Review Committee (PSDSRC) [^1] in November 2019, to enhance transparency on how the Government uses and secures citizen data.
 
-2. This update focuses on the initiatives carried out between 1 October 2020 and 31 March 2021, while the inaugural update covered the period from November 2019 to 30 September 2020. The coverage of future updates will henceforth be aligned to the financial year. 
+2\. This update focuses on the initiatives carried out between 1 October 2020 and 31 March 2021, while the inaugural update covered the period from November 2019 to 30 September 2020. The coverage of future updates will henceforth be aligned to the financial year. 
 
 ## Trends in Number of Government Data Incidents Reported
 
-3. The number of government data incidents rose from 75 in FY2019 to 108 in FY2020. While the number of data incidents reported has increased by 44%, there has been a downward trend in their severity – none of these incidents were assessed to be of high severity, and all incidents were addressed within 48 hours. The increase in data incidents reported correlates with trends seen in the private sector and globally, as the exchange and usage of data grows. The increase also reflects increased awareness and improved understanding among public officers to report all data incidents, regardless of scale or impact.
+3\. The number of government data incidents rose from 75 in FY2019 to 108 in FY2020. While the number of data incidents reported has increased by 44%, there has been a downward trend in their severity – none of these incidents were assessed to be of high severity, and all incidents were addressed within 48 hours. The increase in data incidents reported correlates with trends seen in the private sector and globally, as the exchange and usage of data grows. The increase also reflects increased awareness and improved understanding among public officers to report all data incidents, regardless of scale or impact.
 
-4. Out of the 108 government data incidents in FY2020, 6 were detected as a result of public reports made to the Government Data Security Contact Centre (GDSCC). The Centre was set up in April 2020 for members of the public to report data incidents involving government data or government agencies, and seeks to strengthen the Government’s capabilities to detect data incidents.
+4\. Out of the 108 government data incidents in FY2020, 6 were detected as a result of public reports made to the Government Data Security Contact Centre (GDSCC). The Centre was set up in April 2020 for members of the public to report data incidents involving government data or government agencies, and seeks to strengthen the Government’s capabilities to detect data incidents.
 
-5. Public officers found to have made unauthorised use or disclosure of government data will be held accountable. In 2021, several individuals had been charged under the Official Secrets Act (OSA) for the unauthorised disclosure of information related to Singapore’s response to COVID-19.
+5\. Public officers found to have made unauthorised use or disclosure of government data will be held accountable. In 2021, several individuals had been charged under the Official Secrets Act (OSA) for the unauthorised disclosure of information related to Singapore’s response to COVID-19.
 
 ## Three Newly-Implemented Initiatives since 1 October 2020
 
