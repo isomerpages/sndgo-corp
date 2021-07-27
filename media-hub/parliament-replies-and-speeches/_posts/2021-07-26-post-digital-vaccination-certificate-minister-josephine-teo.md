@@ -1,7 +1,7 @@
 ---
 title: Digital Vaccination Certificate - Minister Josephine Teo
 date: 2021-07-26
-permalink: /media-hub/parliament-replies-and-speeches/permalink
+permalink: /media-hub/parliament-replies-speeches/digital-vaccination-certificate
 layout: post
 ---
 # Fourteenth Parliament of Singapore – First Session for the Sitting on 26 July 2021
