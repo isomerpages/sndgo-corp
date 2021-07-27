@@ -16,7 +16,7 @@ The Smart Nation and Digital Government Office (SNDGO) has published the second 
 
 5. Public officers found to have made unauthorised use or disclosure of government data will be held accountable. In 2021, several individuals had been charged under the Official Secrets Act (OSA) for the unauthorised disclosure of information related to Singapore’s response to COVID-19.
 
-## **Three Newly-Implemented Initiatives since 1 October 2020**
+## Three Newly-Implemented Initiatives since 1 October 2020
 
 6. As of 31 March 2021, the Government has implemented 21 of the 24 initiatives arising from the five key recommendations by the PSDSRC. The 3 initiatives that have been implemented since 1 October 2020 are:
 
@@ -28,7 +28,7 @@ The Smart Nation and Digital Government Office (SNDGO) has published the second 
  
 7. The remaining 3 of the 24 initiatives are technical measures, which require significant re-architecting of technical systems and more time to develop. The Government is on track to complete these initiatives as planned, by end-2023.
 
-## **Updates on Ongoing Initiatives**
+## Updates on Ongoing Initiatives
 
 ### Technical and process measures to prevent data compromises
 
