@@ -65,4 +65,4 @@ Mobile: +65 9644 1674<br>
 Email: goh_yu_chong@pmo.gov.sg
 
 ******
-[^1] The Public Sector Data Security Review Committee (PSDSRC) made five key recommendations in 2019 to improve the Government’s data security regime. The Government accepted the Committee’s recommendations in full and committed to implementing them in phases from 2020 to 2023.
+[^1]: The Public Sector Data Security Review Committee (PSDSRC) made five key recommendations in 2019 to improve the Government’s data security regime. The Government accepted the Committee’s recommendations in full and committed to implementing them in phases from 2020 to 2023.
