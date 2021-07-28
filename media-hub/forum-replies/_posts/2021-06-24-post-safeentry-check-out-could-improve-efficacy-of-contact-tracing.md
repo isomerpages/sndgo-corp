@@ -23,6 +23,6 @@ Mr Su asked about SE implementation at malls. SE check-in will be required so lo
  
 We will continue to improve the user experience of the TT Programme and SE, and adjust our approach to enable effective contact tracing even as the public health situation evolves.
  
-Huang Weixian
-Director, Adoption and Engagement
-Smart Nation and Digital Government Office, Prime Minister’s Office
+**Huang Weixian<br>
+Director, Adoption and Engagement<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office**
