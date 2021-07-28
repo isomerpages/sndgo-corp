@@ -5,7 +5,7 @@ permalink: /media-hub/forum-replies/safeentry-check-out
 layout: post
 ---
 # SafeEntry Check-Out Could Improve Efficacy of Contact Tracing
-**Published in: Lianhe Zaobao**
+**Published in: Lianhe Zaobao (page 24)**
  
 We thank Ms Chen Yi An (TraceTogether Token should record time of exit, 17 June), Mr Su Ying Quan (Room for improvement for TraceTogether system, 19 June) and Ms Luo Zi Fen (TraceTogether Token should allow for check-in and check-out, 19 June), for their feedback.
  
