@@ -1,7 +1,7 @@
 ---
 title: Kids and Young Parents
-permalink: /community/smart-nation-together/young-parents-children
+permalink: /community/smart-nation-together/kids-young-parents
 third_nav_title: SmartNationTogether
 ---
 
-#### **\#Webinars for Children, Youths and Young Parents**
+#### **\#Webinars for Kids and Young Parents**
