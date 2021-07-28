@@ -1,9 +1,10 @@
 ---
 title: New AI-powered OneService Chatbot for easy reporting of municipal issues
 date: 2021-07-15
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/new-ai-powered-ones
 layout: post
 ---
+
 **New AI-powered OneService Chatbot for easy reporting of municipal issues**
 
 2. As part of the National Artificial Intelligence (AI) Strategy, the Municipal Services Office (MSO) and the Smart Nation and Digital Government Group (SNDGG) have launched the AI-powered OneService Chatbot on WhatsApp and Telegram.
