@@ -4,7 +4,7 @@ permalink: /about-smart-nation/secure-smart-nation/report-data-incident
 third_nav_title: A Secure Smart Nation
 ---
 # Government Data Incident Reporting Platform
-![Report data incident](/images/rdi-wip.png)
+![Report data incident](/images/abt-smart-nation/report-data-incident.png)
 
 Everyone in the community can play their part in strengthening and safeguarding government ICT (information and communications technology) systems, digital services, and data. Members of the public can now  **report incidents involving any unauthorised disclosure or compromise of government data** on our government data incident reporting platform.
 
