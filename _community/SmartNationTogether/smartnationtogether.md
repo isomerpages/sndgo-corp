@@ -4,7 +4,7 @@ permalink: /community/smart-nation-together
 third_nav_title: SmartNationTogether
 ---
 # Welcome To Our Online Channel! 
-![Smart Nation Together](/images/community/community/smart-nation-together.png)
+![Smart Nation Together](/images/community/smart-nation-together.png)
 
 We have a wide array of workshops available for you to learn more. Whether you are interested in learning the basics of coding or simply want to hear about the latest technological trends from subject experts, there will always be something for everyone! 
 
