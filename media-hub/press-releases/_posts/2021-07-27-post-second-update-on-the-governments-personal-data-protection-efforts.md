@@ -53,16 +53,17 @@ The Smart Nation and Digital Government Office (SNDGO) has published the second 
 For media queries, please contact:
 
 **Amanda FOO (Ms)**<br>
-Manager, Adoption and Engagement Directorate<br>
+Manager, Public and International Communications<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
 Mobile: +65 9841 8628<br>
-Email: amanda_foo@pmo.gov.sg
+Email: [amanda_foo@pmo.gov.sg](mailto:[amanda_foo@pmo.gov.sg)
+
 
 **GOH Yu Chong (Mr)**<br>
-Assistant Director, Adoption and Engagement Directorate<br>
+Assistant Director, Public and International Communications<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
 Mobile: +65 9644 1674<br>
-Email: goh_yu_chong@pmo.gov.sg
+Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
 
 ******
 [^1]: The Public Sector Data Security Review Committee (PSDSRC) made five key recommendations in 2019 to improve the Government’s data security regime. The Government accepted the Committee’s recommendations in full and committed to implementing them in phases from 2020 to 2023.
