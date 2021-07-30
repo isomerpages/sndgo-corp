@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Committee of Supply (COS) Debates 2018 - Dr Janil Puthucheary
-permalink: /media-hub/speeches/committee-of-supply-cos-debates-dr-janil-puthucheary-2018
+permalink: /media-hub/parliament-replies-&-speeches/cos-2018-debates-dr-janil-puthucheary
 --- 
 
 # Transcript Of Speech By Dr Janil Puthucheary, Minister-in-Charge Of GovTech
