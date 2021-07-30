@@ -1,7 +1,7 @@
 ---
 title: Smart Nation Innovations Week 2016 Tech Meets Innovation (17 - 21 May 2016)
 date: 2016-05-17
-permalink: /media-hub/webinars-events/sni-2016
+permalink: /media-hub/webinars-&-events/sni-2016
 layout: post
 ---
 
