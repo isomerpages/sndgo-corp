@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SingPass: Facial Verification - Minister Vivian Balakrishnan
+title:  SingPass' Facial Verification - Minister Vivian Balakrishnan
 permalink: /media-hub/parliament-replies-&-speeches/singpass-facial-verification
 --- 
 
