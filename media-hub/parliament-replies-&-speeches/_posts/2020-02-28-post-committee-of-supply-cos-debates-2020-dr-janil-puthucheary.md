@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Committee of Supply (COS) Debates 2020 - Dr Janil Puthucheary
-permalink: /media-hub/speeches/committee-of-supply-cos-debates-dr-janil-puthucheary-2020
+permalink: /media-hub/parliament-replies-&-speeches/cos-2020-debates-sms-janil-puthucheary
 --- 
 
 # Speech By Dr Janil Puthucheary, Minister-in-Charge Of Govtech
