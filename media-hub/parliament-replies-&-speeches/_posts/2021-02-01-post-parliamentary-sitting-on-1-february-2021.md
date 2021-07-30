@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Parliamentary Sitting On 1 February 2021
-permalink: /media-hub/speeches/parliamentary-sitting-1-feb-2021
+title:  TraceTogether-only SafeEntry - Senior Minister Teo Chee Hean
+permalink: /media-hub/parliament-replies-&-speechess/TT-only-SE
 --- 
 
 # Fourteenth Parliament Of Singapore – First Session For The Sitting On 1 February 2021
