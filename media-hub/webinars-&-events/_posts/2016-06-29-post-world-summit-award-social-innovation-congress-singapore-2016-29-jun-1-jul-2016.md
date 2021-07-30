@@ -2,7 +2,7 @@
 title: World Summit Award Social Innovation Congress Singapore 2016 (29 Jun - 1
   Jul 2016)
 date: 2016-06-29
-permalink: /media-hub/events/wsa-2016
+permalink: /media-hub/webinars-&-events/wsa-2016
 ---
 
 ![World Summit Award Social Innovation Congress Singapore 2016](/images/media-hub/events/till-2020/wsa-2016.png)
