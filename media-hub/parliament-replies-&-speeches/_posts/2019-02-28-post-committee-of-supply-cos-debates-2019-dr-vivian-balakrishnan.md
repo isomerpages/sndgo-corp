@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Committee of Supply (COS) Debates 2019 - Dr Vivian Balakrishnan
+title:  Committee of Supply (COS) Debates 2019 - Minister Dr Vivian Balakrishnan
 permalink: /media-hub/parliament-replies-&-speeches/cos-2019-debates-min-vivian-balakrishnan
 --- 
 
