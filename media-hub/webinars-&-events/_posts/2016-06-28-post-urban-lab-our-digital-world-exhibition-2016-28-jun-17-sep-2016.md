@@ -1,7 +1,7 @@
 ---
 title: Urban Lab Our Digital World Exhibition 2016 (28 Jun - 17 Sep 2016)
 date: 2016-06-28
-permalink: /media-hub/events/urban-lab-2016
+permalink: /media-hub/webinars-&-events/urban-lab-2016
 ---
 
 ![Urban Lab 2016](/images/media-hub/events/till-2020/urban-lab-2016.jpeg)
