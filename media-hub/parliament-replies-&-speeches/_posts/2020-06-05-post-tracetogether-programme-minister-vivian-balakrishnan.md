@@ -1,7 +1,7 @@
 ---
 title: TraceTogether Programme - Minister Vivian Balakrishnan
 date: 2020-06-05
-permalink: /media-hub/speeches/parliamentary-sitting-5-jun-2020
+permalink: /media-hub/speeches/tt-programme-5Jun20
 layout: post
 ---
 
