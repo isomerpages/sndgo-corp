@@ -1,7 +1,7 @@
 ---
-title: Parliamentary Sitting On  10 May 2021
+title: TraceTogether Programme Data Deregistration
 date: 2021-05-10
-permalink: /media-hub/speeches/parliamentary-sitting-10-may-2021
+permalink: /media-hub/parliament-replies-&-speeches/tt-data-deregistration
 ---
 # Fourteenth Parliament Of Singapore – First Session For The Sitting On 10 May 2021
 
