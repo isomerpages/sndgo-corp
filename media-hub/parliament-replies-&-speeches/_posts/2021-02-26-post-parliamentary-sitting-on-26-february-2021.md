@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Parliamentary Sitting On 26 February 2021
-permalink: /media-hub/speeches/parliamentary-sitting-26-feb-2021
+title:  My Legacy portal - Senior Minister Teo Chee Hean
+permalink: /media-hub/parliament-replies-&-speeches/my-legacy-portal
 --- 
 
 # Fourteenth Parliament Of Singapore – First Session For The Sitting On 26 February 2021
