@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Committee of Supply (COS) Debates 2019 - Dr Janil Puthucheary
-permalink: /media-hub/speeches/cos-debates-dr-janil-puthucheary-2019
+permalink: /media-hub/parliament-replies-&-speeches/cos-2019-debates-sms-janil-puthucheary
 
 --- 
 
