@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Committee of Supply (COS) Debates 2018 - Dr Vivian Balakrishnan
-permalink: /media-hub/speeches/committee-of-supply-cos-debates-dr-vivian-balakrishnan-2018
+permalink: /media-hub/parliament-replies-&-speeches/cos-2018-debates-min-vivian-balakrishnan-2018
 --- 
 
 # Transcript Of Speech By Dr Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative
