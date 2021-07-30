@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Parliamentary Sitting On 4 January 2021
-permalink: /media-hub/speeches/parliamentary-sitting-4-jan-2021
+title:  SingPass: Facial Verification - Minister Vivian Balakrishnan
+permalink: /media-hub/parliament-replies-&-speeches/singpass-facial-verification
 --- 
 
 # Fourteenth Parliament Of Singapore – First Session For The Sitting On 4 January 2021
