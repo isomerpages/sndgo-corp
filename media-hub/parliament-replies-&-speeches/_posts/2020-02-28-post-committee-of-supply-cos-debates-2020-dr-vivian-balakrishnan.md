@@ -1,7 +1,7 @@
 ---
 title: Committee of Supply (COS) Debates 2020 - Dr Vivian Balakrishnan
 date: 2020-02-28
-permalink: /media-hub/speeches/committee-of-supply-cos-debates-min-vivian-balakrishnan-2020
+permalink: /media-hub/parliament-replies-&-speeches/cos-2020-debates-min-vivian-balakrishnan
 layout: post
 ---
  
