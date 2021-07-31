@@ -1,5 +1,5 @@
 ---
-title: Committee of Supply (COS) Debate 2021 - Minister Dr Vivian Balakrishnan
+title: Committee of Supply (COS) Debate 2021 - Minister Vivian Balakrishnan
 date: 2021-02-26
 permalink: /media-hub/parliament-replies-&-speeches/cos-2021-debates-min-vivian-balakrishnan
 layout: post
