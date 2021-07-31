@@ -1,5 +1,5 @@
 ---
-title: TraceTogether Programme Data Deregistration - Minister Dr Vivian Balakrishnan
+title: TraceTogether Programme Data Deregistration - Minister Vivian Balakrishnan
 date: 2021-05-10
 permalink: /media-hub/parliament-replies-&-speeches/tt-data-deregistration
 ---
