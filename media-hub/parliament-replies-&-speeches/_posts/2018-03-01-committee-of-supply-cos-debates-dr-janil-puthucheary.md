@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Committee of Supply (COS) Debates 2018 - Senior Minister of State Dr Janil Puthucheary
+title:  Committee of Supply (COS) Debates 2018 - Senior Minister of State Janil Puthucheary
 permalink: /media-hub/parliament-replies-&-speeches/cos-2018-debates-sms-janil-puthucheary
 --- 
 
