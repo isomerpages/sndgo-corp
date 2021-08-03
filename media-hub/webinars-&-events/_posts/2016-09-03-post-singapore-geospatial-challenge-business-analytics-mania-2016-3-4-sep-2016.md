@@ -1,7 +1,7 @@
 ---
 title: Singapore Geospatial Challenge Business Analytics Mania 2016 (3 - 4 Sep 2016)
 date: 2016-09-03
-permalink: /media-hub/events/sg-geospatial-challenge-2016
+permalink: /media-hub/webinars-&-events/sg-geospatial-challenge-2016
 ---
 ![Singapore GeoSpatial Challenge Business Analytics Mania 2016](/images/media-hub/events/till-2020/SG-geospatial-challenge-2016.png) 
 
