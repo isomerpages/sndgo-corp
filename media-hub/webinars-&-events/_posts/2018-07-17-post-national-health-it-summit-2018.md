@@ -1,7 +1,7 @@
 ---
 title: "National Health IT Summit 2018 "
 date: 2018-07-17
-permalink: /media-hub/events/national-health-it-summit-2018
+permalink: /media-hub/webinars-&-events/national-health-it-summit-2018
 ---
 ![National Health IT Summit 2018](/images/media-hub/events/till-2020/national-health-it-summit-2018.jpeg)
 
