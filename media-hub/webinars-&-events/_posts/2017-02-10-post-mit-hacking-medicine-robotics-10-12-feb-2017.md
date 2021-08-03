@@ -1,7 +1,7 @@
 ---
 title: MIT Hacking Medicine Robotics (10 - 12 Feb 2017)
 date: 2017-02-10
-permalink: /media-hub/events/hacking-medicine-robotics-2017
+permalink: /media-hub/webinars-&-events/hacking-medicine-robotics-2017
 ---
 ![MIT Hacking Medicine Robotics 2017](/images/media-hub/events/till-2020/mit-hacking-medicine-robotics-2017.jpeg)
 
