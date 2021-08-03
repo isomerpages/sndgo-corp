@@ -4,7 +4,7 @@ date: 2019-11-01
 permalink: /media-hub/smart-nation-archives/imd-sutd-smart-city-index-2019
 ---
 # Taking The Top Spot 
-![Singapore Skyline of the business district](/images/media-hub/accolades-&-awards/singapore-skyline.jpeg) 
+![Singapore Skyline of the business district](/images/media-hub/smart-nation-archives/singapore-skyline.jpeg)
 
 *Photo by <a href="https://unsplash.com/@lucaslaw?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText">lucas law</a> on <a href="https://unsplash.com/s/photos/singapore-skyscraper?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText">Unsplash</a>*
  
@@ -20,4 +20,3 @@ The IMD Smart City Index 2019 is the first of its kind and focuses on how the co
 Being recognised globally as a *Smart City* shows that our investments into our Smart Nation initiative is paying off. It allows us to shine on the international stage to attract more investments to our little red dot – which will help us grow further and faster.  
 
 For more details on [IMD Smart City Index 2019, head over to the IMD report page.](https://www.imd.org/research-knowledge/reports/imd-smart-city-index-2019/)
-
