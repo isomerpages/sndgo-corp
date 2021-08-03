@@ -1,7 +1,7 @@
 ---
 title: "Innovation Labs World 2016 (27 Sep 2016) "
 date: 2016-09-27
-permalink: /media-hub/events/innovation-labs-world-2016
+permalink: /media-hub/webinars-&-events/innovation-labs-world-2016
 ---
 
 
