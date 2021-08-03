@@ -1,12 +1,11 @@
 ---
 layout: post
-title:   My Smart Ahma - Web Series
+title: My Smart Ahma - Web Series
 permalink: /media-hub/smart-nation-archives/my-smart-ahma-webseries
 ---
-
 # My Smart Ahma – Web Series
 
-![My Smart Ahma](/images/media-hub/past-campaigns/my-smart-ahma-logo.png)
+![My Smart Ahma](/images/media-hub/smart-nation-archives/my-smart-ahma-logo.png)
 
 Launched in 2018, My Smart Ahma showcased a whole slew of different Smart Nation initiatives and how the older generation can join the digital transformation.
 
