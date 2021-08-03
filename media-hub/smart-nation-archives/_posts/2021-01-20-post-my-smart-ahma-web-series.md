@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   My Smart Ahma - Web Series
-permalink: /media-hub/past-campaigns/my-smart-ahma-webseries
+permalink: /media-hub/smart-nation-archives/my-smart-ahma-webseries
 ---
 
 # My Smart Ahma – Web Series
