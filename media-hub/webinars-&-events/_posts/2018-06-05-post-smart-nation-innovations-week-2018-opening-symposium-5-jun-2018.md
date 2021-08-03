@@ -1,7 +1,7 @@
 ---
 title: Smart Nation Innovations Week 2018 Opening Symposium (5 Jun 2018)
 date: 2018-06-05
-permalink: /media-hub/events/sni-2018-opening-symposium
+permalink: /media-hub/webinars-&-events/sni-2018-opening-symposium
 ---
 ![Smart Nation Innovations Week 2018 Opening Symposium](/images/media-hub/events/till-2020/sni-2018-opening-symposium.jpeg)
 
