@@ -1,7 +1,7 @@
 ---
 title: "Singapore Defence Technology Summit (Tech Summit) 2019 "
 date: 2019-06-26
-permalink: /media-hub/events/tech-summit-2019
+permalink: /media-hub/webinars-&-events/tech-summit-2019
 ---
 ![Singapore Defence Technology Summit (Tech Summit) 2019](/images/media-hub/events/till-2020/tech-summit-2019.jpeg)
 
