@@ -1,7 +1,7 @@
 ---
 title: EmTech Asia (22 - 23 Jan 2019)
 date: 2019-01-22
-permalink: /media-hub/events/emtech-asia-2019
+permalink: /media-hub/webinars-&-events/emtech-asia-2019
 ---
 ![EmTech Asia 2019](/images/media-hub/events/till-2020/emtech-asia-2019.jpeg)
 
