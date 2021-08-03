@@ -1,7 +1,7 @@
 ---
 title: Tech-a-thon! (2 - 16 Dec 2016)
 date: 2016-12-02
-permalink: /media-hub/events/tech-a-thon-2016
+permalink: /media-hub/webinars-&-events/tech-a-thon-2016
 ---
 ![Tech-a-thon 2016](/images/media-hub/events/till-2020/tech-a-thon-2016.jpeg)
 
