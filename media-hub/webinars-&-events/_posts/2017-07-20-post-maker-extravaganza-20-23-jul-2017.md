@@ -1,7 +1,7 @@
 ---
 title: Maker Extravaganza (20 - 23 Jul 2017)
 date: 2017-07-20
-permalink: /media-hub/events/maker-extravaganza-2017
+permalink: /media-hub/webinars-&-events/maker-extravaganza-2017
 ---
 ![Maker Extravaganza 2017](/images/media-hub/events/till-2020/maker-extravaganza-2017.jpeg)
 
