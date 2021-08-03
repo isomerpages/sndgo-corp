@@ -1,7 +1,7 @@
 ---
 title: "World Smart City Forum 2016 (13 Jul 2016) "
 date: 2016-07-13
-permalink: /media-hub/events/world-smart-city-forum-2016
+permalink: /media-hub/webinars-&-events/world-smart-city-forum-2016
 ---
 
 ![World Smart City Forum 2016](/images/media-hub/events/till-2020/world-smart-city-forum-2016.png)
