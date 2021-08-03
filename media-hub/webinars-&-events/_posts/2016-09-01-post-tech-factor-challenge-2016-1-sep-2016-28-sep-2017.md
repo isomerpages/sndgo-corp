@@ -1,7 +1,7 @@
 ---
 title: Tech Factor Challenge 2016 (1 Sep 2016 - 28 Sep 2017)
 date: 2016-09-01
-permalink: /media-hub/events/tech-factor-challenge-2016
+permalink: /media-hub/webinars-&-events/tech-factor-challenge-2016
 ---
 
 ![Tech Factor Challenge 2016](/images/media-hub/events/till-2020/tech-factor-challenge-2016.png)
