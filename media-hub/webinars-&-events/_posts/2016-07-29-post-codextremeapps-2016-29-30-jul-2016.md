@@ -5,7 +5,7 @@ permalink: /media-hub/events/code-extreme-apps-2016
 ---
 
 
-![Code Extreme Apps 2016](/images/media-hub/events/till-2020/code-extreme-apps-2016.png)
+![Code Extreme Apps 2016](/images/media-hub/webinars-&-events/till-2020/code-extreme-apps-2016.png)
 
 <table style="width:100%">
   <tr>
