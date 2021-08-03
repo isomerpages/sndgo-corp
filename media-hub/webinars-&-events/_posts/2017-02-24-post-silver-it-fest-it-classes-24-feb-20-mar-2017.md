@@ -1,7 +1,7 @@
 ---
 title: Silver IT Fest – IT Classes (24 Feb - 20 Mar 2017)
 date: 2017-02-24
-permalink: /media-hub/events/silver-it-fest-2017
+permalink: /media-hub/webinars-&-events/silver-it-fest-2017
 ---
 ![Silver IT Fest - IT Classes 2017](/images/media-hub/events/till-2020/silver-it-fest-2017.jpeg)
 
