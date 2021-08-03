@@ -1,11 +1,10 @@
 ---
-title:  IMD-SUTD Smart City Index 2020
+title: IMD-SUTD Smart City Index 2020
 permalink: /media-hub/smart-nation-archives/imd-sutd-smart-city-index-2020
 ---
-
 # Global Recognition For The Second Year Running
 
-![Singapore's ariel view at night](/images/media-hub/accolades-&-awards/singapore-river-night-time-aerial-view.jpeg)
+![Singapore's ariel view at night](/images/media-hub/smart-nation-archives/singapore-river-night-time-aerial-view.jpeg)
 
 Singapore has topped the IMD-SUTD Smart City Index again for 2020. The Index was launched in 2019 and is based on citizens' perception of how their city's technological advances have impacted their lives. 
 
