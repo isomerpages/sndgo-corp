@@ -1,7 +1,7 @@
 ---
 title: "Infocomm Media Youth Festival 2016 (11 - 12 Nov 2016) "
 date: 2016-11-11
-permalink: /media-hub/events/icm-youth-festival-2016
+permalink: /media-hub/webinars-&-events/icm-youth-festival-2016
 ---
 
 ![Infocomm Media Youth Festival 2016](/images/media-hub/events/till-2020/infocomm-media-youth-festival-2016.jpeg)
