@@ -1,7 +1,7 @@
 ---
 title: "Climate Innovation Challenge 2016 (12 - 14 Aug 2016) "
 date: 2016-08-12
-permalink: /media-hub/events/climate-innovation-2016
+permalink: /media-hub/webinars-&-events/climate-innovation-2016
 ---
 
 ![Climate Innovation Challenge 2016](/images/media-hub/events/till-2020/climate-innovation-challenge-2016.jpeg)
