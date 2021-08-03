@@ -1,7 +1,7 @@
 ---
 title: MOE Learning Buildathon (25 - 26 Mar 2017)
 date: 2017-03-25
-permalink: /media-hub/events/moe-learning-buildathon-2017
+permalink: /media-hub/webinars-&-events/moe-learning-buildathon-2017
 ---
 ![MOE Learning Buildathon](/images/media-hub/events/till-2020/moe-learning-buildathon-2017.jpeg)
 
