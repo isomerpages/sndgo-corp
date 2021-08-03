@@ -1,7 +1,7 @@
 ---
 title: "Cybercrime Affecting Children: Insights From a Police Officer (12 Dec 2020)"
 date: 2020-12-12
-permalink: /media-hub/events/cybercrime-affecting-2020
+permalink: /media-hub/webinars-&-events/cybercrime-affecting-2020
 ---
 ![Cybercrime Affecting Children](/images/media-hub/events/till-2020/cybercrime-affecting-2020.jpeg)
 
