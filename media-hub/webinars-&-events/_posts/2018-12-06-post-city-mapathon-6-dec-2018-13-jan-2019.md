@@ -1,7 +1,7 @@
 ---
 title: City Mapathon (6 Dec 2018 - 13 Jan 2019)
 date: 2018-12-06
-permalink: /media-hub/events/city-mapathon-2018
+permalink: /media-hub/webinars-&-events/city-mapathon-2018
 ---
 ![City Mapathon 2018](/images/media-hub/events/till-2020/city-mapathon-2018.jpeg)
 
