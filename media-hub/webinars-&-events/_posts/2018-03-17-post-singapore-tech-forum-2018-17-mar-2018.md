@@ -1,7 +1,7 @@
 ---
 title: Singapore Tech Forum 2018 (17 Mar 2018)
 date: 2018-03-17
-permalink: /media-hub/events/sg-tech-forum-2018
+permalink: /media-hub/webinars-&-events/sg-tech-forum-2018
 ---
 ![Singapore Tech forum 2018](/images/media-hub/events/till-2020/sg-tech-forum-2018.jpeg)
 
