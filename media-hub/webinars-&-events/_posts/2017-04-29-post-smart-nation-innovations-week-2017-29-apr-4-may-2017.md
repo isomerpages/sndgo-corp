@@ -1,7 +1,7 @@
 ---
 title: Smart Nation Innovations Week 2017 (29 Apr - 4 May 2017)
 date: 2017-04-29
-permalink: /media-hub/events/sn-innovations-week-2017
+permalink: /media-hub/webinars-&-events/sn-innovations-week-2017
 ---
 ![Smart Nation Innovations Week 2017](/images/media-hub/events/till-2020/sn-innovations-week-2017.jpeg)
 
