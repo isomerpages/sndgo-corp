@@ -1,7 +1,7 @@
 ---
 title: IRAS Hackathon 2016 (2 - 4 Sep 2016)
 date: 2016-09-02
-permalink: /media-hub/events/iras-hackathon-2016
+permalink: /media-hub/webinars-&-events/iras-hackathon-2016
 ---
 
 
