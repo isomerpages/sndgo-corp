@@ -6,7 +6,7 @@ permalink: /media-hub/smart-nation-archives/imd-sutd-smart-city-index-2019
 # Taking The Top Spot 
 ![Singapore Skyline of the business district](/images/media-hub/smart-nation-archives/singapore-skyline.jpeg)
 
-*Photo by <a href="https://unsplash.com/@lucaslaw?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText">lucas law</a> on <a href="https://unsplash.com/s/photos/singapore-skyscraper?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText">Unsplash</a>*
+*Photo by <a href="https://unsplash.com/@lucaslaw?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText">Lucas Law</a> on <a href="https://unsplash.com/s/photos/singapore-skyscraper?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText">Unsplash</a>*
  
 For the first time, the Institute for Management Development (IMD) World Competitive Centre’s Smart City Observatory and Singapore University of Technology and Design (SUTD) has launched the first edition of the IMD Smart City Index 2019. Singapore has taken the top spot, with Zurich and Oslo rounding out the top three. 
 
