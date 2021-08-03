@@ -1,7 +1,7 @@
 ---
 title: Jr Hackathon "My Future Singapore" (12 Nov 2016)
 date: 2016-11-12
-permalink: /media-hub/events/jr-hackathon-2016
+permalink: /media-hub/webinars-&-events/jr-hackathon-2016
 ---
 
 ![Jr Hackathon 2016](/images/media-hub/events/till-2020/jr-hackathon-2016.png)
