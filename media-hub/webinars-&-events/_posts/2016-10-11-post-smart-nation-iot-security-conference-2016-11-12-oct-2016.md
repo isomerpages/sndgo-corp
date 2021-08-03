@@ -1,7 +1,7 @@
 ---
 title: Smart Nation Iot Security Conference 2016 (11 - 12 Oct 2016)
 date: 2016-10-11
-permalink: /media-hub/events/iot-security-conference-2016
+permalink: /media-hub/webinars-&-events/iot-security-conference-2016
 ---
 
 ![Smart Nation IoT Security Conference 2016](/images/media-hub/events/till-2020/iot-security-conference-2016.jpeg)
