@@ -1,7 +1,7 @@
 ---
 title: Maker Immersion Camp (27 Nov - 1 Dec 2017)
 date: 2017-11-27
-permalink: /media-hub/events/maker-immersion-camp-2017
+permalink: /media-hub/webinars-&-events/maker-immersion-camp-2017
 ---
 ![Maker Immersion Camp 2017](/images/media-hub/events/till-2020/maker-immersion-camp-2017.jpeg)
 
