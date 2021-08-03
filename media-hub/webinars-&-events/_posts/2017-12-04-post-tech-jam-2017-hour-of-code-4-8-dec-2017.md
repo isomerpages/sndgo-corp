@@ -1,7 +1,7 @@
 ---
 title: Tech Jam 2017 – Hour of Code (4 - 8 Dec 2017)
 date: 2017-12-04
-permalink: /media-hub/events/tech-jam-2017
+permalink: /media-hub/webinars-&-events/tech-jam-2017
 ---
 ![Tech Jam 2017](/images/media-hub/events/till-2020/tech-jam-2017.jpeg)
 
