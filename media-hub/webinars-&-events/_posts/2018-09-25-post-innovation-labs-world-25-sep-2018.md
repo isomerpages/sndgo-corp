@@ -3,7 +3,7 @@ title: Innovation Labs World (25 Sep 2018)
 date: 2018-09-25
 permalink: /media-hub/events/innovation-labs-world-2018
 ---
-![Innovation Labs World 2018](/images/media-hub/events/till-2020/innovation-labs-world-2017.png)
+![Innovation Labs World 2018](/images/media-hub/webinars-&-events/till-2020/innovation-labs-world-2017.png)
 
 <table style="width:100%">
   <tr>
