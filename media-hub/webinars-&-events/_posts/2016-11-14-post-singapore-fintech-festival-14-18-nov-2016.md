@@ -1,7 +1,7 @@
 ---
 title: Singapore FinTech Festival  (14 - 18 Nov 2016)
 date: 2016-11-14
-permalink: /media-hub/events/fintech-festival-2016
+permalink: /media-hub/webinars-&-events/fintech-festival-2016
 ---
 ![Singapore FinTech Festival 2016](/images/media-hub/events/till-2020/fintech-festival-2016.png) 
 
