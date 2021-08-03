@@ -1,7 +1,7 @@
 ---
 title: DBS X GovTech X SUTD Smart City Challenge (30 Jan - 22 Mar 2019)
 date: 2019-01-30
-permalink: /media-hub/events/smart-city-challenge-2019
+permalink: /media-hub/webinars-&-events/smart-city-challenge-2019
 ---
 ![DBS X GovTech X SUTD Smart City Challenge 2019](/images/media-hub/events/till-2020/smart-city-challenge-2019.jpeg)
 
