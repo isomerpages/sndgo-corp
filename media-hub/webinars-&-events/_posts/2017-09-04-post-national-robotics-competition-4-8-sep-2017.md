@@ -1,7 +1,7 @@
 ---
 title: National Robotics Competition (4 - 8 Sep 2017)
 date: 2017-09-04
-permalink: /media-hub/events/national-robotics-competition-17
+permalink: /media-hub/webinars-&-events/national-robotics-competition-17
 ---
 ![national robotics competition 2017](/images/media-hub/events/till-2020/national-robotics-competition-2017.png)
 
