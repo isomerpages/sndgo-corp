@@ -5,25 +5,23 @@ third_nav_title: Strategic National Projects
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1VmJm9imBp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Why E-Payments?**
+Electronic payments (E-payments) are today simple, swift, seamless and secure digital transactions. As we move towards more of such transactions, e-payments will increasingly become a vital mode of payment for everyone - citizens and businesses alike.
 
--   To provide an open, accessible and interoperable national e-payments infrastructure
--   To facilitate simple, swift, seamless, and secure digital transactions
--   Enhance convenience and efficiency for citizens and businesses
+## The Journey So Far
 
-**Our e-Payments Milestones**
+To make financial transactions more seamless and efficient for all, we’re constantly working towards a simple and secure platform that operates across various systems. 
 
--   2014: Singapore’s banking industry launched  **FAST** (Fast and Secure Transfers), a payment system that enables direct real-time transfers between consumers and businesses across different banks.
+Here’s a quick look at some of the milestones so far:
 
--   2017:  **PayNow** was launched. The platform enables instant peer-to-peer transfers between customers of participating banks, simply by entering a mobile or personal identification number.
-    -   A number of Government agencies have begun to use PayNow:
-        -   CPF and MOE started to pilot the use of PayNow in March 2018 to disburse CPF lump sum and Edusave award monies respectively.
-        -   In July, SportSG disbursed the Singapore National Games Awards to prize winners via PayNow. 
-        -   From 2019, NSMen will be able to receive IPPT awards via PayNow on the same day, compared to two weeks after their IPPT currently.
-        -   In 2018, citizens who have registered their NRIC on PayNow by 7 November 2018 will receive their SG Bonus 10 days earlier compared to those who opt to receive it by direct bank crediting, and 20 days earlier than those who opt to receive it by cheque.
--   2018:  **PayNow Corporate**  was introduced to allow businesses and government agencies to pay and receive funds instantaneously using a Unique Entity Number. Around 40,000 businesses have signed up.
--   2018:  **NETS** was appointed to develop an interoperable and open access e-payment solution at 200 coffee shops, 25 hawker centres and 20 industrial canteens over 2 years. This would make it more convenient for citizens and merchants to make and receive payments.
-
--   2018: The Singapore government worked with industry players to launch the  **Singapore Quick Response Code (SGQR)** standard, which combines multiple payment QR codes into a single SGQR code. With SGQR, merchants only need one QR code to accept mobile payments.
-
--   2021: Non-bank financial institutions get access to FAST
+* **FAST (Fast and Secure Transfers) launched in 2014**
+	* Facilitates direct, real-time transfers between consumers and businesses across different banks
+* **PayNow launched in 2017**
+	* Facilitates real-time peer-to-peer transfers between customers of participating banks by entering a mobile or personal identification number
+* **PayNow Corporate launched in 2018**
+	* Allows businesses and Government agencies to pay and receive funds instantaneously using a Unique Entity Number
+* **NETS developed an interoperable and open-access e-payment solution in 2018**
+	* The payments infrastructure covers 200 coffee shops, 25 hawker centres and 20 industrial canteens, making transactions more convenient
+* **Singapore Quick Response Code (SGQR) standard introduced in 2018**
+	* With SGQR, merchants need just one QR code to accept mobile payments from different service providers
+* **Non-bank financial institutions**  **received**  **access to FAST in 2021**
+	* Provides consumers and businesses with additional options to make financial transactions more conveniently
