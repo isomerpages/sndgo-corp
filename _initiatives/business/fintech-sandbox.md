@@ -3,8 +3,7 @@ title: FinTech Sandbox
 permalink: /initiatives/business/fintech
 third_nav_title: Business
 ---
-
-
+# Pushing Boundaries with Singapore’s Very Own FinTech Sandbox
 ![Singapore's central business district](/images/initiatives/Fintech-sandbox.jpg)
 
 
