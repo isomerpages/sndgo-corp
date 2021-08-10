@@ -6,19 +6,18 @@ third_nav_title: Business
 # Pushing Boundaries with Singapore’s Very Own FinTech Sandbox
 ![Singapore's central business district](/images/initiatives/Fintech-sandbox.jpg)
 
+Financial technology, or FinTech, is evolving quickly and changing the way business is and will be done. As one of the world’s financial hubs, Singapore will have to keep pace with these changes, and the Monetary Authority of Singapore (MAS) has this in mind as it develops a Smart Financial Centre.
 
-**Why is FinTech important?**
+## FinTech Initiatives
 
--   Advancements in financial technology, also known as “FinTech”, are increasingly challenging the way business is being done
--   To maintain our status as a regional financial hub, the Monetary Authority of Singapore (MAS) has set its sights on creating a Smart Financial Centre where technology is used pervasively in the financial industry to increase efficiency, create economic opportunities, and allow for better management of risks.
+The Smart Financial Centre will offer our financial institutions a space to experiment with new technologies to increase efficiency and better manage risks as they grow and innovate. This Centre will provide the facilities and infrastructure to keep us on top of the latest FinTech developments.
 
-**Fintech initiatives**
+Here are some of the initiatives happening at the Smart Financial Centre:
 
-Efforts are being put in place to nurture a FinTech environment that supports innovation in the financial services, and where financial institutions such as banks, can experiment with the application of new technologies in a safe environment.
+### Looking Glass @ MAS
 
--   **Looking Glass @ MAS**
+The [FinTech Innovation Lab](https://www.mas.gov.sg/news/media-releases/2016/mas-establishes-fintech-innovation-lab) serves as a platform for the FinTech community to connect, collaborate, and co-create with one another in an engaging and supportive environment. 
 
-The MAS  [opened](https://www.mas.gov.sg/news/media-releases/2016/mas-establishes-fintech-innovation-lab) its FinTech Innovation Lab to serve as a platform for the FinTech community to connect, collaborate, and co-create with one another.
 
 -   **"Regulatory Sandbox"**
 
