@@ -7,15 +7,14 @@ permalink: /media-hub/smart-nation-archives/my-smart-ahma-webseries
 
 ![My Smart Ahma](/images/media-hub/smart-nation-archives/my-smart-ahma-logo.png)
 
-Launched in 2018, My Smart Ahma showcased a whole slew of different Smart Nation initiatives and how the older generation can join the digital transformation.
+Launched in 2018, My Smart Ahma series told the story of our  Smart Nation initiatives through the vantage point of  Ahma (Grandma) and Benjamin as they discover how technology can benefit our daily lives. 
 
-Beyond the six episodes of Ahma and Benjamin’s journey on showing us how technology can benefit our daily lives, we had roadshows where our <a href="/community/smart-nation-ambassadors" target="_blank">Smart Nation Ambassadors</a> assisted the members of public understand the different Initiatives and Apps and helped many with their first steps into the digital world.
+There was also a spin-off called <a href="https://www.youtube.com/playlist?list=PLmGkYf0auQJyDWGlxbnFyqBrq86C-zbow" target="_blank">My Smart Ahma Top Picks</a>, which is a series of webinars to help seniors join the digital transformation journey. Seniors get to use a different app in each session. 
 
-We also now have <a href="https://www.youtube.com/playlist?list=PLmGkYf0auQJyDWGlxbnFyqBrq86C-zbow" target="_blank">My Smart Ahma Top Picks – a series of webinars</a> targeted seniors. During each session, we showcase an app during the session and help members of public learn how to use the app. Check out the <a href="/community/smart-nation-together/seniors" target="_blank">#SmartNationTogether webinar schedule for seniors here</a> and sign up for upcoming sessions!
 
 ## My Smart Ahma Episodes
 
-If you missed the web epsiodes of My Smart Ahma, enjoy the six episodes below as Benjamin and his Ahma show us how Smart Nation can benefit our lives!
+If you missed My Smart Ahma, enjoy the six episodes below as Benjamin and his Ahma show us how Smart Nation can benefit our lives.
 
 ### Episode 1
 Ahma shows up at Benjamin's meeting with a cute colleague. What will Benjamin do?
@@ -23,9 +22,9 @@ Ahma shows up at Benjamin's meeting with a cute colleague. What will Benjamin do
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yiYyvxTHnps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Smart Nation initiatives featured:**
-- <a href="/initiatives/urban-living/smart-towns" target="_blank">HDB Smart Towns</a> 
-- <a href="/initiatives/digital-government-services/hdb-resale-portal" target="_blank">HDB Resale Portal</a>
-- <a href="/initiatives/urban-living/amr-trial" target="_blank">PUB Automated Meter Reading (AMR) Trials</a> 
+- [HDB Smart Towns](/initiatives/urban-living/smart-towns) 
+- [HDB Resale Portal](/initiatives/digital-government-services/hdb-resale-portal)
+- [PUB Automated Meter Reading (AMR) Trials](/initiatives/urban-living/amr-trial)
 
 ### Episode 2
 
@@ -34,23 +33,24 @@ Ben is afraid to ask Rachel out. Ahma tries to help. Will he do it?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gRFEhl5Ujtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 **Smart Nation initiatives featured:**
-- <a href="/initiatives/health/telehealth" target="_blank">Smart Health TeleRehab</a> 
-- <a href="/initiatives/urban-living/oneservice-app" target="_blank">OneService App</a>
-- <a href="/initiatives/smart-elderly-alert-system" target="_blank">Smart Elderly Alert System</a> 
-- <a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform" target="_blank">Personal Alert Button trial</a> 
-- myResponder App - Download from the <a href="https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp" target="_blank">Play Store</a>
+
+* [Smart Health TeleRehab](/initiatives/health/telehealth)
+* [OneService App](/initiatives/urban-living/oneservice-app)
+* [Smart Elderly Alert System](/initiatives/urban-living/smart-elderly-alert-system)
+* [Personal Alert Button trial](/initiatives/strategic-national-projects/smart-nation-sensor-platform)
+* myResponder App - Download from the <a href=" https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp " target="_blank">Google Play Store</a>
 
 ### Episode 3
 
-Is this Ben's chance to give Rachel flowers? Will he succeed?
+Is this Ben's chance to give flowers to Rachel? Will he succeed?
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HuNGadjRHlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Smart Nation initiatives featured:**
-- <a href="/initiatives/urban-living/smart-towns" target="_blank">Smart Lighting</a>
-- <a href="/initiatives/strategic-national-projects/lifesg-initiative" target="_blank">Moments of Life (Now known as LifeSG)</a> 
-- <a href="/initiatives/strategic-national-projects/national-digital-identity" target="_blank">Singpass Mobile and MyInfo</a>
-- <a href="/initiatives/health/healthhub" target="_blank">HealthHub App</a> 
+* [Smart Lighting](/initiatives/urban-living/smart-towns) 
+* [Moments of Life (Now known as LifeSG)](/initiatives/strategic-national-projects/lifesg)
+* [Singpass Mobile and MyInfo](/initiatives/strategic-national-projects/national-digital-identity)
+* [HealthHub App](/initiatives/health/healthhub)
 
 ### Episode 4
 
@@ -59,13 +59,13 @@ Ahma goes missing! How will Ben and Rachel find her?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O-r7xzRRqes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 **Smart Nation initiatives featured:**
-- <a href="/initiatives/urban-living/myenv-app" target="_blank">myENV app</a>
-- MyTransport.SG app  - Download from the <a href="https://apps.apple.com/sg/app/mytransport-singapore/id1306661188" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg" target="_blank">Play Store</a>
-- <a href="/initiatives/transport/open-data-analytics" target="_blank">Open Data & Analytics for Urban Transportation</a>
-- <a href="/initiatives/transport/on-demand-shuttle" target="_blank">On-Demand Shuttles</a> 
-- <a href="/initiatives/transport/autonomous-vehicles" target="_blank">Autonomous Vehicles</a> 
-- <a href="/initiatives/health/national-steps-challenge" target="_blank">National Steps Challenge</a>
-- Healthy 365 app - Download from the <a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blank">Play Store</a>
+* [myENV App](/initiatives/urban-living/myenv-app)
+* MyTransport.SG App - Download from the <a href="https://apps.apple.com/sg/app/mytransport-singapore/id1306661188" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg " target="_blank">Google Play Store</a>
+* [Open Data & Analytics for Urban Transportation](/initiatives/transport/open-data-analytics)
+* [On-Demand Shuttles](/initiatives/transport/on-demand-shuttle)
+* [Autonomous Vehicles](nitiatives/transport/autonomous-vehicles)
+* [National Steps Challenge](/initiatives/health/national-steps-challenge)
+* Healthy 365 App - Download from the <a href=" https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365 " target="_blank">Google Play Store</a>
 
 ### Episode 5
 
@@ -74,8 +74,8 @@ With Ahma’s help, Ben cooks a meal for Rachel. Will sparks fly?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hkUvOOXPlpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 **Smart Nation initiatives featured:**
-- <a href="/initiatives/strategic-national-projects/e-payments" target="_blank">PayNow and SGQR</a> 
-- <a href="/initiatives/urban-living/dengue-hotspots-survey-drones" target="_blank">Drones to survey dengue hotspots</a>
+* [PayNow and SGQR](/initiatives/strategic-national-projects/e-payments) 
+* [Drones to survey dengue hotspots](/initiatives/urban-living/dengue-hotspots-survey-drones) 
 
 ### Episode 6
 
@@ -84,8 +84,10 @@ Ben may never see Rachel again. Will he go after her?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XIhdrAy-x6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
  
 **Smart Nation initiatives featured:**
-- Parking.sg - Download from the <a href="https://apps.apple.com/vn/app/parking-sg/id1286602494" target="_blank">App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en">Play Store</a>
-- <a href="/initiatives/businesses/corppass" target="_blank">Corppass</a>
-- <a href="/about-smart-nation/business-resources" target="_blank">Start Digital, Startup SG Tech</a>
-- <a href="/initiatives/businesses/punggol-digital-district" target="_blank">Punggol Digital District</a> 
-- <a href="/community/supporting-the-community" target="_blank">PA Senior Academy for Smart Nation, Silver Infocomm Initiative</a>
+* Parking.sg - Download from the <a href="https://apps.apple.com/vn/app/parking-sg/id1286602494" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en" target="_blank">Google Play Store</a>
+* [Corppass](/initiatives/business/corppass)
+* [Start Digital, Startup SG Tech](/resources/business)
+* [Punggol Digital District](/initiatives/strategic-national-projects/punggol-digital-district)
+* [PA Senior Academy for Smart Nation, Silver Infocomm Initiative](/community/opportunities) 
+
+
