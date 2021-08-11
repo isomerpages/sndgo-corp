@@ -3,6 +3,7 @@ title: E-Payments
 permalink: /initiatives/strategic-national-projects/e-payments
 third_nav_title: Strategic National Projects
 ---
+# E-Payments
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1VmJm9imBp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Electronic payments (E-payments) are today simple, swift, seamless and secure digital transactions. As we move towards more of such transactions, e-payments will increasingly become a vital mode of payment for everyone - citizens and businesses alike.
