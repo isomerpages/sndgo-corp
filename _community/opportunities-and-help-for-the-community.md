@@ -55,7 +55,7 @@ With this programme, the aim is to groom working professionals to move us closer
 Check out the courses and certifications offered under [TeSA](https://www.skillsfuture.gov.sg/tesa)!
 
  ## Tech Connect 
-Tech Connect is an initiative by the Ministry of Communications and Information, IMDA and PA to help seniors be Smart Nation-ready. 
+ Tech Connect is an initiative by the Ministry of Communications and Information, IMDA and PA to help seniors be Smart Nation-ready. 
 
 One-on-one tech assistance is available conveniently at selected Community Centres (CCs) to anyone who may need help with their digital devices and services. 
 
