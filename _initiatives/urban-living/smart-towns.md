@@ -83,3 +83,9 @@ For instance, the amount of sunlight falling into homes and factoring in of shad
 ### Northshore Residences I & II
 
 Completed in 2020, these are the first HDB flats equipped with smart distribution boards and smart sockets in every room to easily support smart home solutions. The smart distribution board replaces the conventional distribution board in HDB flats, enabling residents to monitor electricity usage across their household appliances.
+
+
+## Related Links
+* <a href="http://www20.hdb.gov.sg/fi10/fi10296p.nsf/PressReleases/F93B15F80588397748257D500009CE6C?OpenDocument" target="_blank">Smart HDB Homes of the Future</a>
+* <a href="http://www.hdb.gov.sg/cs/infoweb/press-release/yuhua-the-first-existing-hdb-estate-to-go-smart" target="_blank">Yuhua the First Existing HDB Estate to Go Smart</a>
+* <a href="http://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page/hdb-smart-home-exhibition" target="_blank">My Smart HDB Home @ Yuhua</a>
