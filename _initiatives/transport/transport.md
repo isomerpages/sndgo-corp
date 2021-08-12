@@ -26,7 +26,7 @@ In land-scarce Singapore, 12% of our land is set aside for roads and transport i
 	  </div>
 <div class="row">  
   <div class="column-c" > 
-    <a href="/initiatives/transport/open-data-analytics"><img src="/images/initiatives/overview-pages/urban-transportation-data.png"></a><br>
+    <a href="/initiatives/transport/open-data-analytics"><img src="/images/initiatives/SG-Traffic-watch.jpeg"></a><br>
     <div class="header"><b>Open Data & Analytics for Urban Transportation</b></div><br>
     <div class="para">Public data sets and data analytics empower the Government and Singaporeans to work together to address transport challenges, and make our existing land transport system more efficient.</div>
   </div>
