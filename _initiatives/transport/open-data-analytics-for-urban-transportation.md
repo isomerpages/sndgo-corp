@@ -3,53 +3,54 @@ title: Open Data & Analytics For Urban Transportation
 permalink: /initiatives/transport/open-data-analytics
 third_nav_title: Transport
 ---
+# Enhancing Public Transport Using Data
 ![SG Traffic Watch screenshot](/images/initiatives/SG-Traffic-watch.jpeg) 
 
+Did you know that our public buses are installed with sensors?
 
-**How can public data help transport planning?**
+The Land Transport Authority (LTA) has been using these sensors to gather information on buses’ real-time location and arrival times at various stops to improve their transport planning.
 
--   By analysing anonymised data obtained from commuters' fare cards and identifying commuter hotspots to manage bus fleets, the Land Transport Authority (LTA) can help improve commuting experience.
--   Arrival times of buses are tracked using sensors installed in over 5,000 vehicles, and the real-time location data of buses helps facilitate transport planning to better meet commuters' demands.
--   Insights gained from data can help LTA better anticipate and address the needs of different types of commuters through improved policy planning.
+LTA has also been collecting anonymised data from commuters’ fare cards to help identify commuter hotspots, which enables them to better manage bus fleets and commuter demand.
 
+As a result of this data collection and analysis, LTA has seen improvements on these fronts:
+
+* 92% reduction in the number of bus services with crowding issues, despite a year-on-year increase in average daily bus ridership
+* 3- to7-minute reduction in the average waiting time on popular bus services  
   
+This is just one example of how insights from data can help LTA improve policy planning to provide a better commuter experience for residents. Read on to find out how else.
 
-**The result?**
+## Singapore Traffic Watch
 
--   A 92% reduction in the number of bus services with crowding issues despite year-on-year increase in average daily bus ridership
--   Average waiting time on popular services shortened by about 3 to 7 minutes!
+<a href="https://sgtrafficwatch.org/" target="_blank">SG Traffic Watch</a>  uses a combination of real-time data and historical analysis to provide insights to help manage our road traffic.
 
-**Real-Time Singapore Traffic Watch**
+It pulls data from LTA’s Land Transport DataMall and NEA weather service, providing analytical charts that plot current traffic conditions against past trends. Their real-time map lets users explore how the different data sources can help to explain congestion and other traffic situations.
 
-For an idea of how data and data analytics can provide insights to help in the management of Singapore's traffic to better serve citizens, visit  [https://sgtrafficwatch.org](https://sgtrafficwatch.org/)/. Explore how different data sources can be correlated to explain congestions and other traffic outliers in real-time, and in understanding historical trends. Using data from the LTA Land Transport DataMall and NEA weather service, analytical charts also plot current traffic conditions against past trends.
+## Why is Open Data Important?
 
-**How can open data help in the co-creation of solutions?**
+Open transport data provides useful information that both the public and third-party developers can easily tap on to create efficient transport solutions.
 
--   With more open transport data, the public and third party developers can put them to good use in creating people-centric transport solutions.
+Currently, users are free to access LTA’s Land Transport DataMall transport data sets for:
 
--   Transport data sets that have been made publicly accessible via LTA's Land Transport DataMall include:
+1. Real-time data on bus arrival timings
+2. Taxi availability
+3. Traffic conditions
+4. Carpark availability  
+  
+The data is well-accessed: Statistics show that downloads of this data have increased from an average of 4 million to 600 million per month since April 2015.  
+  
+This data has also been put to good use, with several third-arty transport apps developed as a result. One example is the <a href="https://www.busuncle.sg/" target="_blank">Bus Uncle chatbot</a>, a helpful bus guide app with a well-loved grumpy “uncle” persona who speaks swee Singlish.  
 
--   real-time data on bus arrival timings
--   taxi availability
--   traffic conditions
--   carpark availability
+Check out other apps that use the <a href="https://datamall.lta.gov.sg/content/datamall/en/app-zone.html" target="_blank">Land Transport DataMall open data</a>.
 
--   Downloads of transport data from the Land Transport DataMall have increased from an average of 4 million to 600 million per month since April 2015. A number of third party transport apps have been developed, including the  [Bus Uncle](https://www.busuncle.sg/)  chatbot. Check out the other apps  [here](https://www.mytransport.sg/content/mytransport/home/dataMall/app-zone.html).
+## Beyond Collecting Data
 
-**What’s in the pipeline?**
+As technology improves, we find even more innovative ways to leverage data analytics to improve our transport system.
 
--   The Fusion AnalyticS for public Transport Emergency Response (FASTER) system that will analyse data collected from various sources to:
-    -   help authorities and operators visualise commuting patterns to improve transport planning
-    -   predict the impact of incidents so as to better respond and recommend mitigating measures, such as the injection of additional trains and buses in times of emergencies
--   A next-generation Electronic Road Pricing System that will collect comprehensive, real-time, aggregated traffic data and in turn help develop a more accurate picture of real-time traffic situation. This will enable LTA to intervene where necessary, such as by adjusting traffic light timings and providing traffic light priority for buses.  
+For instance, LTA has a next-generation Electronic Road Pricing (ERP) system in the works to collect comprehensive, real-time, aggregated traffic data. This will enable LTA to intervene more effectively, such as by adjusting traffic light timings and providing priority for buses.
 
-LTA will continue to explore more ways to leverage data analytics to improve the quality of public land transport services.
+Another example is the Fusion AnalyticS for public Transport Emergency Response (FASTER) system, which crunches data collected from various sources to:
 
-
-----------
-
-**Useful links:**
-
-[Leveraging Technology for a Smarter and Greener Transport System](https://www.lta.gov.sg/apps/news/page.aspx?c=2&id=e09102cd-acd5-469e-8234-777b68e4e18a)
-
-[Land Transport DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall.html)
+1. Help authorities and public transport operators visualise commuting patterns to improve transport planning
+2. Trigger early alerts for surge in crowds
+3. Predict the impact of incidents such as transport delays and the number of commuters affected
+4. Recommend measures such as the injection of additional trains and buses to respond to transport incidents quickly
