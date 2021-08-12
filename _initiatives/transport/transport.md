@@ -24,7 +24,7 @@ The initiatives below outline how we aim to achieve this.
   </div>      
    <div class="column-c"> 
     <a href="/initiatives/transport/contactless-fare-payment"><img src="/images/initiatives/overview-pages/contactless-fare-payments.png"></a><br>
-     <div class="header"><b>Contactless Fare Payment For Public Transport</b></div><br>
+     <div class="header"><b>Contactless Fare Payment</b></div><br>
     <div class="para">Our contactless fare payment system is constantly being refined to make commuting a breeze</div>
   </div>
 </div>
@@ -36,7 +36,8 @@ The initiatives below outline how we aim to achieve this.
   </div>
   <div class="column-c" > 
     <a href="/initiatives/transport/open-data-analytics"><img src="/images/initiatives/SG-Traffic-watch.jpeg"></a><br>
-    <div class="header"><b>Open Data & Analytics for Urban Transportation</b></div><br>
+    <div class="header"><b>Open Data and Analytics for Urban Transportation</b></div><br>
     <div class="para">We encourage sharing of open data so that developers can come up with creative solutions that improve our transport system</div>
   </div>
 </div>
+
