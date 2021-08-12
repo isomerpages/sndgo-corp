@@ -23,10 +23,10 @@ collections:
       - transport/.keep
       - transport/transport.md
       - transport/autonomous-vehicles.md
+      - transport/cetran.md
       - transport/contactless-fare-payment-for-public-transport.md
       - transport/on-demand-shuttle.md
       - transport/open-data-analytics-for-urban-transportation.md
-      - transport/cetran.md
       - health/.keep
       - health/health.md
       - health/assistive-technology-and-robotics-in-healthcare.md
