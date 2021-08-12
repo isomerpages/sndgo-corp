@@ -69,6 +69,8 @@ The blueprintâ€™s strategies have been updated to place more emphasis on usersâ€
 **4. Setting a future direction in light of COVID-19**  
 The pandemic has given renewed impetus for government agencies to digitalise, including making deeper changes in organisational policy, structure and culture. 
 
+![Alt text for image on Isomer site](/images/abt-smart-nation/Digital-Government.jpeg)
+
 ### The progress so far
 Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2019:
 * 86% of citizens and 77% of businesses are very/extremely satisfied with Government digital services, surpassing our target of 75%-80%
