@@ -3,37 +3,40 @@ title: Transport
 permalink: /initiatives/transport
 third_nav_title: Transport
 ---
-# Transport
-In land-scarce Singapore, 12% of our land is set aside for roads and transport infrastructure. With a growing population and more than one million vehicles on the road, the challenge lies in optimising the use of our limited space for more efficient, safe, reliable, and enhanced transportation.
+# Transport in a Smart Nation 
+Currently, our Government has set aside 12% of our land area for roads and infrastructure. Considering our small land size, this is a significant percentage.
+
+However, our growing population requires us to further optimise our limited space. With more than 1 million vehicles on the road and counting, we face the ongoing challenge of designing more efficient, safe and reliable transportation systems for Singapore. 
+
+The initiatives below outline how we aim to achieve this.
 
 <br>
 <div class="row">  
   <div class="column-c" > 
     <a href="/initiatives/transport/autonomous-vehicles"><img src="/images/initiatives/overview-pages/autonomous-vehicles.png"></a><br>
     <div class="header"><b>Autonomous Vehicles</b></div><br>
-    <div class="para">The future of Singapore’s transport system, bringing greater mobility for the elderly and the disabled.</div>
+    <div class="para">The future of Singapore’s transport system will bring greater mobility to everyone</div>
   </div>
+	<div class="column-c"> 
+    <a href="/initiatives/transport/cetran-test-circuit"><img src="/images/initiatives/overview-pages/cetran.png"></a><br>
+     <div class="header"><b>CETRAN</b></div><br>
+    <div class="para">The CETRAN test circuit enables research and testing of self-driving vehicles before these officially hit the roads </div>
+  </div>      
    <div class="column-c"> 
     <a href="/initiatives/transport/contactless-fare-payment"><img src="/images/initiatives/overview-pages/contactless-fare-payments.png"></a><br>
      <div class="header"><b>Contactless Fare Payment For Public Transport</b></div><br>
-    <div class="para">Towards commuter-centric e-payments for public transport fare payment.</div>
+    <div class="para">Our contactless fare payment system is constantly being refined to make commuting a breeze</div>
   </div>
-  <div class="column-c">  
+</div>
+<div class="row">  
+  <div class="column-c" > 
     <a href="/initiatives/transport/on-demand-shuttle"><img src="/images/initiatives/overview-pages/on-demand-shuttle.png"></a><br>
     <div class="header"><b>On-Demand Shuttle</b></div><br>
-    <div class="para">Where autonomous technology and public transport data support mobility on-demand.</div>
+    <div class="para">We’re exploring ways to harness autonomous technology and public transport data to meet commuters’ needs</div>
   </div>
-	  </div>
-<div class="row">  
   <div class="column-c" > 
     <a href="/initiatives/transport/open-data-analytics"><img src="/images/initiatives/SG-Traffic-watch.jpeg"></a><br>
     <div class="header"><b>Open Data & Analytics for Urban Transportation</b></div><br>
-    <div class="para">Public data sets and data analytics empower the Government and Singaporeans to work together to address transport challenges, and make our existing land transport system more efficient.</div>
+    <div class="para">We encourage sharing of open data so that developers can come up with creative solutions that improve our transport system</div>
   </div>
-	   <div class="column-c"> 
-    <a href="/initiatives/transport/cetran-test-circuit"><img src="/images/initiatives/overview-pages/cetran.png"></a><br>
-     <div class="header"><b>Spearheading Research For Self-driving Vehicles
-</b></div><br>
-    <div class="para">Singapore will spearhead research in standards for self-driving vehicles (SDVs) and provide an environment to test them before introducing to public roads.</div>
-  </div>      
 </div>
