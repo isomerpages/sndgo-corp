@@ -36,13 +36,6 @@ With limited land, we need to continuously find innovative solutions to improve 
      <div class="header"><b>Planning for Our People and Businesses</b></div><br>
     <div class="para">Harnessing digital technologies to achieve better planning outcomes for our people and businesses</div>
 	</div>
-  <div class="column-c">  
-    <a href="/initiatives/urban-living/smart-elderly-alert-system"><img src="/images/initiatives/overview-pages/smart-elderly-alert-system.png"></a><br>
-    <div class="header"><b>Smart Elderly Alert System</b></div><br>
-    <div class="para">Providing peace of mind to caregivers of elderly loved ones.</div>
-  </div>
-	</div>
-<div class="row">  
   <div class="column-c" > 
    <a href="/initiatives/urban-living/smart-towns"><img src="/images/initiatives/overview-pages/smart-towns.png"></a><br>
     <div class="header"><b>Smart Towns</b></div><br>
