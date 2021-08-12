@@ -35,9 +35,8 @@ The initiatives below outline how we aim to achieve this.
     <div class="para">We’re exploring ways to harness autonomous technology and public transport data to meet commuters’ needs</div>
   </div>
   <div class="column-c" > 
-    <a href="/initiatives/transport/open-data-analytics"><img src="/images/initiatives/SG-Traffic-watch.jpeg"></a><br>
+    <a href="/initiatives/transport/open-data-analytics"><img src="/images/initiatives/overview-pages/Transport-analytics-overview.png"></a><br>
     <div class="header"><b>Open Data and Analytics for Urban Transportation</b></div><br>
     <div class="para">We encourage sharing of open data so that developers can come up with creative solutions that improve our transport system</div>
   </div>
 </div>
-
