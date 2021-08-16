@@ -8,7 +8,7 @@ As Singapore moves towards becoming a Smart Nation, we want to make sure that ev
 
 ## Home Access
 
-Infocomm Media Development Authority (IMDA)'s [Home Access programme](https://www.imda.gov.sg/programme-listing/home-access) provides eligible households with 2 years of subsidised fibre broadband connectivity from as low as S$6 per month, with an option to bundle it with a tablet or smartphone.
+Infocomm Media Development Authority (IMDA)'s [Home Access programme](https://www.imda.gov.sg/programme-listing/home-access) provides eligible households with two years of subsidised fibre broadband connectivity from as low as S$6 per month, with an option to bundle it with a tablet or smartphone.
 
 Click here for the full details and to [apply for the programme.](https://eservice.imda.gov.sg/das/homepage)
 
@@ -24,7 +24,7 @@ PA Senior Academy's key mission is to encourage seniors aged 50 years and above 
 
 As part of the programme, there is a range of popular IT-related courses (conducted in English and Mandarin) to prepare seniors to go digital, and be able to access community activities digitally.  
   
-Head over to [PA's website for the details and list of participating Community Centres (CCs).](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy#seniors](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy#seniors)
+Head over to [PA's website for the details and list of participating Community Centres (CCs).(https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy#seniors)
 
 ## PIXEL
 
@@ -46,7 +46,7 @@ SkillsFuture is a national movement to enable all Singaporeans to develop to the
 
 Skills mastery is more than just the right paper qualifications; it is a constant endeavour towards outstanding excellence through knowledge, application and experience.
 
-Head over to the SkillsFuture website to [check out the available programmes.](https://www.skillsfuture.gov.sg/](https://www.skillsfuture.gov.sg/)
+Head over to the SkillsFuture website to [check out the available programmes.](https://www.skillsfuture.gov.sg/)
 
 ## TechSkills Accelerator (TeSA)
 
@@ -68,4 +68,4 @@ Head over to [PA's website for the list of CCs that are part of this initiative.
 
 ICT professionals can join TTAB, which caters to this group of professional. TTAB provides a platform for lifelong employability, learning and sharing. TTAB's affiliation with NTUC allows ICT professionals access to more resources and social benefits.
 
-Develop skills and build up an Infocomm-related portfolio with [TTAB now.](https://www.ttab.org.sg/Pages/index.aspx) 
+Develop skills and build up an Infocomm-related portfolio with [TTAB now.](https://www.ttab.org.sg/Pages/index.aspx)
