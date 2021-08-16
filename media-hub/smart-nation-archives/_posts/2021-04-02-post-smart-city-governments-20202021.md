@@ -3,9 +3,9 @@ title: Smart City Governments 2020/2021
 date: 2021-04-02
 permalink: /media-hub/smart-nation-archives/smart-city-governments-2021
 ---
-# Climbing to the Top Spot 
+# Climbing to the Top
 
-[Eden Strategy Institute](https://www.edenstrategyinstitute.com/) and ONG&ONG have put together a biennial study that ranks Smart City Governments across the world. The study focuses on the role of city governments and how they drive their smart city initiatives. 
+[Eden Strategy Institute](https://www.edenstrategyinstitute.com/) and ONG&amp;ONG have put together a biennial study that ranks Smart City Governments across the world. The study focuses on the role of city governments and how they drive their smart city initiatives. 
 
 In this 2nd edition, Singapore has taken the top honours out of over 230 cities that were evaluated by Eden Strategy Institute. Seoul and London took the 2nd and 3rd spots respectively with the third Asian city – Shanghai – in the Top 10 at 8th spot. 
 
@@ -22,4 +22,4 @@ The Top 50 Smart City Government ranking is based on the Institute’s secondary
 9. **Talent-Readiness** - Programmes to equip the city’s talent with smart skills 
 10. **Track Record** - The government’s experience in catalysing successful smart city initiatives 
 
-To find the list of the Top 50 Smart City Government Ranking for 2021/21 or for more information on the Study, please visit <a href="https://www.smartcitygovt.com/" target="_blank">www.smartcitygovt.com</a>
+To find the list of the Top 50 Smart City Government Ranking for 2021/21 or for more information on the Study, please visit <a href="https://www.smartcitygovt.com/">www.smartcitygovt.com</a>
