@@ -24,7 +24,7 @@ PA Senior Academy's key mission is to encourage seniors aged 50 years and above 
 
 As part of the programme, there is a range of popular IT-related courses (conducted in English and Mandarin) to prepare seniors to go digital, and be able to access community activities digitally.  
   
-Head over to [PA's website for the details and list of participating Community Centres (CCs).(https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy#seniors)
+Head over to [PA's website for the details and list of participating Community Centres (CCs)](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy#seniors).
 
 ## PIXEL
 
