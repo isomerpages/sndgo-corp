@@ -3,17 +3,16 @@ title: Corppass
 permalink: /initiatives/business/corppass
 third_nav_title: Business
 ---
+# One Corppass to Transact It All 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ifwp4kfYXCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+In our Digital Economy, businesses need a secure, convenient way to transact with the Government’s online services.
 
+[Corppass](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login) is a single authentication and authorisation system designed to meet this need. It enables businesses and other entities such as non-profit organisations and associations to access more than 130 e-services provided by public sector agencies.
 
-**Why use CorpPass**
+If you are a business owner, take advantage of Corppass today by:
 
--   A single authentication and authorisation system for businesses and other entities (such as non-profit organisations and associations) to access e-services provided by government agencies, CorpPass allows access to more than 130 government digital services.
--   CorpPass enhances cyber hygiene by allowing employees to use CorpPass, instead of SingPass, to transact on their company’s behalf.
--   Business owners are also allowed greater control, with the flexibility of granting employees separate roles to access government digital services.
--   It also allows companies greater convenience and visibility, by providing a single platform to grant and manage the authorisations given to their employees across all government digital services.
--   For foreign registered entities and individuals without SingPass, CorpPass will also allow you to transact with selected government agencies in Singapore.
+1. Managing your employees via Corppass to transact on your organisation’s behalf  
+2. Using Corppass to grant and manage authorisations given to different employees within your organisation
 
-Find out more  [here](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login).
+Learn more about [Corppass here](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login).
