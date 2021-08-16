@@ -3,20 +3,27 @@ title: IMD-SUTD Smart City Index 2019
 date: 2019-11-01
 permalink: /media-hub/smart-nation-archives/imd-sutd-smart-city-index-2019
 ---
-# Taking The Top Spot 
+# Taking the Top Spot 
 ![Singapore Skyline of the business district](/images/media-hub/smart-nation-archives/singapore-skyline.jpeg)
 
-*Photo by <a href="https://unsplash.com/@lucaslaw?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText">Lucas Law</a> on <a href="https://unsplash.com/s/photos/singapore-skyscraper?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText">Unsplash</a>*
+*Photo by <a href="https://unsplash.com/@lucaslaw?utmsource=unsplash&amp;utmmedium=referral&amp;utmcontent=creditCopyText">Lucas Law</a> on <a href="https://unsplash.com/s/photos/singapore-skyscraper?utmsource=unsplash&amp;utmmedium=referral&amp;utmcontent=creditCopyText">Unsplash</a>*
  
-For the first time, the Institute for Management Development (IMD) World Competitive Centre’s Smart City Observatory and Singapore University of Technology and Design (SUTD) has launched the first edition of the IMD Smart City Index 2019. Singapore has taken the top spot, with Zurich and Oslo rounding out the top three. 
+Wonder what it feels like to live in the “smartest” city in the world? Ask a Singaporean.
 
-The IMD Smart City Index 2019 is the first of its kind and focuses on how the countries’ citizens perceive their own cities. In the first edition, 102 cities worldwide were rank by surveying 120 residents per city on five key areas:
-* Health and Safety
+Our city-state has taken top spot in the Institute for Management Development (IMD) Smart City Index 2019, ahead of 101 other nations.  
+
+This is a ringing endorsement from our citizens on our Smart Nation goals as the IMD Smart City Index is a unique measure of how citizens perceive their own government’s efforts to make their cities “smart”. Citizens effectively rank their city in five key areas: 
+
+* Health and safety
 * Mobility
 * Activities
 * Opportunities 
-* Governance 
+* Governance
 
-Being recognised globally as a *Smart City* shows that our investments into our Smart Nation initiative is paying off. It allows us to shine on the international stage to attract more investments to our little red dot – which will help us grow further and faster.  
+Singapore’s top score reflects its people’s satisfaction with the government’s use of tech to solve everyday challenges and issues ranging from municipal services to  reducing traffic congestion, to access to job listings online. 
 
-For more details on [IMD Smart City Index 2019, head over to the IMD report page.](https://www.imd.org/research-knowledge/reports/imd-smart-city-index-2019/)
+With this achievement, we’re likely to draw in more quality investment and talent, positioning us for greater social, economic and policy growth for a smarter future.
+
+The IMD Smart City Index 2019 was launched by IMD World Competitive Centre’s Smart City Observatory and Singapore University of Technology and Design.
+
+Full report on <a href="https://www.imd.org/research-knowledge/reports/imd-smart-city-index-2019/">IMD Smart City Index 2019 here.</a>
