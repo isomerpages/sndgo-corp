@@ -6,29 +6,38 @@ third_nav_title: Strategic National Projects
 ![Smart nation sensor platform](/images/initiatives/smart-nation-sensor-platform.jpg)
 
 
-**What is SNSP?**
+**Using Data to Build a Better Future**
 
--   An integrated nation-wide sensor platform to improve municipal services, city-level operations, planning and security.
--   More systematic use of sensors and data to improve urban planning, build more responsive and reliable public transport, and better public security.
--   Trials for various aspects of the Smart Nation Sensor Platform are ongoing.
+In this digital age, we’re surrounded by huge amounts of data. The question is how we can organise and tap on the most relevant data,  to plan and develop better solutions that will improve the way we live in our city. 
 
-**What can we expect?**
+The answer lies in our Smart Nation Sensor Platform (SNSP). This is an integrated, nationwide platform that uses sensors to collect essential data that can be analysed to create smart solutions. 
 
--   Wireless Sensor Network
+Read on to find out how: 
 
-	-   Wireless Sensor Network trial will be completed at the end of 2018. The wireless sensor network is being used by over 500 sensors in Yuhua to transmit water usage data from smart water meters. Smart water meters empower users to save water by enabling them to access near real-time water usage data and detect water leaks through a mobile app. A trial in Punggol in 2016 has shown encouraging results, with households observed to achieve water savings of approximately 5% from early leak detection and good water-saving habits.
+**Tracking Water Usage and Leaks**
 
--   Drowning detection at pools
+At the end of 2018, we completed a wireless sensor network trial to collect water data transmitted from smart meters from more than 500 sensors in Yuhua estate. The results showed that these smart meters can help homeowners save water by providing near real-time water usage data and detect water leaks via a mobile app.
 
-	-   A pilot has started for drowning detection at swimming pools. The system uses computer vision for drowning detection and continuous surveillance of activities in the pool, and is able to alert the lifeguards and help them react faster to swimmers in distress and prevent drownings.
+ An earlier trial held in Punggol in 2016 showed similarly encouraging results. This time, households managed to achieve approximately 5% water savings from early leak detection and good water-saving habits.
+ 
+ **Drowning Detection System at Public Pools**
 
--   Personal Alert Button
+We are conducting a pilot at our public swimming pools to use computer vision to detect possible drowning incidents.  The system helps to alert lifeguards so they can react faster to swimmers in distress and those in need.
 
-	-   A trial is being conducted to seek citizens’ feedback to design and develop a cost-effective, lightweight, easy-deployable elderly help button solution that can replace the current pull cord system. The trial will allow us to understand the needs of the elderly and take in feedback so we can enhance the button accordingly.
+![Alt text for image on Isomer site](/images/Computer-vision-drowning-SNSP.jpg)
 
--   Smart Lamp Posts
-	-   Lamppost-as-a-Platform (Laap) trial will commence in 2019 to host sensors on lamp posts
-	-   The trial will use crowd analytics and environmental sensors to measure air quality, rainfall and water level
-	-   The data from the sensors will be analysed using various techniques, including Artificial Intelligence (AI), to improve policy making and service delivery for citizens and businesses
+**Personal Alert Button for Elderly**
+
+As of April 2021, more than 5,600 seniors who live in rental blocks now have the Personal Alert Button (PAB) installed in their flats. This allows them to request for emergency help if needed.  
+
+When the PAB is triggered, an alert will be sent to a Senior Activity Centre where staff can quickly assess the situation. With the two-way voice communication system,  help can then be dispatched to the unit quickly. 
+
+For more information, visit the [Singapore Government Developer Portal](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/personal-alert-button). 
+
+**Smart Lamp Posts for Urban Planning**
+
+We started the Lamppost-as-a-Platform  trial in 2019 by placing sensors on lamp posts to collect data on air quality, rainfall and footfall. The data collected is  used for effective urban planning such as designing safer footpaths and roads for pedestrians. 
+
+We also plan to collect environmental data to learn how we are being affected by global warming.
 
 ![Smart Lamp Posts](/images/initiatives/smart-lamp-post-govtech.png)
