@@ -6,40 +6,43 @@ third_nav_title: Digital Government Services
 ![Parents Gateway app screen shots](/images/initiatives/Parent-gateway-screenshots.jpeg)
 
 
-**Why was Parents Gateway app developed?**
+# Gateway to Better Parent–School Communication
 
-The app seeks to provide an efficient means of managing common administrative functions, thus enhancing convenience for parents, and elevating administrative workload for teachers so as to allow teachers to focus on teaching and nurturing.
+Parents, are you tired of trying to keep track of the information and consent forms sent by your child’s school? We hear you.
+ 
+Parents Gateway is an app for schools to disseminate information, and seek parents’ consent on admin matters, in a consolidated digital form. It gives you greater access and control over your child’s participation in school activities and for you to better manage school-related administrative tasks.
 
-**Benefits of using the application**
+It also frees up time and reduces the administrative workload for teachers, allowing them to focus on teaching and nurturing your child.
 
--   Enhanced convenience for parents:
 
--   Parents can perform administrative functions on the app, such as providing consent for their children to participate in school activities, and be kept updated on the flurry of programmes and activities their children are involved in.
+**Designed in Collaboration**
 
--   Parents with children attending different schools can use the app to access information on all their children through one platform.
+The app  is the result of close collaboration between various Government divisions and agencies, built with feedback from parents and teachers. 
 
--   When a student moves from one level to another or from one school to another, his or her particulars will be updated automatically on the app, reducing hassle on the part of parents.
+User behaviour and needs were taken into consideration and applied to the final design. For instance, it has a calendar and in-app notifications to alert parents of information they need to know about. 
 
--   Elevated administrative workload for teachers:
+It is also regularly reviewed and refined to take into account the changing needs in the education landscape. 
 
--   By streamlining the manual administrative process involving distribution, collection, collation and repeated reminders when engaging parents, through their children, using hardcopy forms, teachers can better focus on lesson preparation and student engagement.
+**How to Use the Parents Gateway App**
 
-**The app development process**
+The app gives parents direct access to administrative matters, allowing them to: 
 
--   The Parents Gateway app was designed with the citizen’s needs in mind.
+* Provide consent for their child’s  participation in school activities
 
--   It involved collaborating with partners across various division and agencies, and gathering of feedback from stakeholders and users.
+* Receive updates on programmes and activities their child is involved in
+ 
+* Review changes in their child’s particulars when they change levels or schools
+ 
+* Access administrative information for all their children even if they attend different schools
 
--   The app development process adopted a parent-centric design approach, and took into consideration familiar user-behaviours (such as adding to calendar, in-app notifications, etc.)
+Teachers benefit too. The app reduces the need to distribute, collect and collate hardcopy admin forms, freeing up time for them to focus on lesson preparation and student engagement. 
 
--   The implementation of the Parents Gateway app adopts a “Forever Beta” approach in order to remain relevant and responsive to necessary changes for continuous improvement.
+**In the Pipeline...**
 
-**What to expect**
+Parents will soon be able to check the balance of their child’s Edusave account, making sure they have sufficient funds before giving consent to activities. Our developers are also working on an online reservation system  for parent-teacher meetings.
 
--   A feature to allow parents to check the balance of their child’s Edusave account before granting access for activities.
--   Online reservation system for more convenient allocation of parent-teacher meetings.
 ---
 **Useful Links**
 
--   [A Behind-the-scenes Look at the Parents Gateway App](https://www.tech.gov.sg/media/technews/behind-the-scenes-look-at-the-parents-gateway-app)
--   [Five things Busy Parents Should Know About The Parents Gateway App](https://www.tech.gov.sg/media/technews/five-things-busy-parents-should-know-about-the-parents-gateway-app)
+-   [A Behind-the-Scenes Look at the Parents Gateway App](https://www.tech.gov.sg/media/technews/behind-the-scenes-look-at-the-parents-gateway-app)
+-   [Five Things Busy Parents Should Know About the Parents Gateway App](https://www.tech.gov.sg/media/technews/five-things-busy-parents-should-know-about-the-parents-gateway-app)
