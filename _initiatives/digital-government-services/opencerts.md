@@ -23,7 +23,7 @@ Blockchain offers us a tool for a new way of digitally recording transactions. A
 
 Since OpenCerts is built on a blockchain platform, its certificates are easily verifiable and cannot be destroyed.
 
-When an OpenCerts certificate is issued by an educational institute, a unique code is published onto the blockchain. A cryptographic proof is added to the certificate data and sent to each student. This cryptographic proof allows OpenCerts to prove it has verified and validated the certificate.
+When an OpenCerts certificate is issued by an educational institute, a unique code is published onto the blockchain. A cryptographic proof``[^2] is added to the certificate data and sent to each student. This cryptographic proof allows OpenCerts to prove it has verified and validated the certificate.
 
 Visit the [OpenCerts platform](https://opencerts.io) to learn more. 
 
