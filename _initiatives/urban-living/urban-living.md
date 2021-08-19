@@ -3,21 +3,23 @@ title: Urban Living
 permalink: /initiatives/urban-living
 third_nav_title: Urban Living
 ---
-# Urban Living
+# Smart Urban Living
 
-With limited land, we need to continuously find innovative solutions to improve our urban environment, estates and homes for our residents, to make them safer, more sustainable and liveable.
+Singapore’s limited land requires us to constantly find innovative solutions to improve our urban environment. This includes making our homes and estates cleaner, greener, safer and more sustainable.
+
+The initiatives below outline how we aim to achieve this.
 
 <br>
 <div class="row">  
   <div class="column-c"> 
     <a href="/initiatives/urban-living/amr"><img src="/images/initiatives/overview-pages/amr-trial.png"></a><br>
-    <div class="header"><b>Automated Meter Reading Trial</b></div><br>
-    <div class="para">Making water usage data readily accessible for consumers from tap to app.</div>
+    <div class="header"><b>Automated Meter Reading</b></div><br>
+    <div class="para">From tap to app, we’re making water usage data readily accessible for our residents so they can better manage their water consumption and bills.</div>
   </div>
    <div class="column-c"> 
     <a href="/initiatives/urban-living/dengue-hotspots-survey-drones"><img src="/images/initiatives/overview-pages/dengue-survey-drones.png"></a><br>
      <div class="header"><b>Dengue Hotspots Survey Drones</b></div><br>
-    <div class="para">Improving dengue control through technology.</div>
+    <div class="para">We’re using drones to identify possible dengue hotspots and manage any outbreaks.</div>
   </div>
   <div class="column-c">  
     <a href="/initiatives/urban-living/myenv-app"><img src="/images/initiatives/overview-pages/myenv-app.png"></a><br>
