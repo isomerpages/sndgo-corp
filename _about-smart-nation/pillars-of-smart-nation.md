@@ -13,7 +13,7 @@ harvest the benefits of digitalisation.
 
 A Digital Society empowers everyone  with a fair chance of succeeding despite their differences or circumstances. It inspires us to dream bigger, as we get more interconnected with the world through technology.
 
-Whether you’re young or old, tech-savvy or not, the aim is for every Singaporean to benefit from tech as part of a Digital Society. The <a href="https://www.mci.gov.sg/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">**Digital Readiness Blueprint**</a> explains how the Singapore Government is  making this happen:
+Whether you’re young or old, tech-savvy or not, the aim is for every Singaporean to benefit from tech as part of a Digital Society. The <a href="https://www.mci.gov.sg/portfolios/digital-readiness/digital-readiness-blueprint">**Digital Readiness Blueprint**</a> explains how the Singapore Government is  making this happen:
 
 * By making technology more accessible to every Singaporean
 * By improving Singaporeans’ digital literacy
@@ -23,7 +23,7 @@ Whether you’re young or old, tech-savvy or not, the aim is for every Singapore
 <div style="width:50%"> 
  </div>
 <div style="width:50%"> 
- <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/abt-smart-nation/digital-readiness-blueprint.jpg"></a>
+ <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint"><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png"></a>
 </div>
 
 ## Digital Economy
@@ -32,7 +32,7 @@ A Digital Economy takes advantage of the latest technology to digitalise process
 
 Singapore’s pro-business environment, excellent tech infrastructure, close connectivity to major Asian economies as well as the availability of investment puts us in a good position to develop a strong Digital Economy.
 
-Three key strategies have been identified in the <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action" target="_blank">**Digital Economy Framework for Action**</a> to take advantage of our strengths:
+Three key strategies have been identified in the <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action">**Digital Economy Framework for Action**</a> to take advantage of our strengths:
 * Accelerate our economic growth by digitalising industries and businesses
 * Develop an ecosystem to help businesses stay vibrant and competitive
 * Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
@@ -41,7 +41,7 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
  Digital Economy Framework for Action (4.31mb)
 </div>
 <div style="width:50%"> 
- <a href="/files/abt-smart-nation/SGD Framework For Action.pdf" target="_blank"><img src="/images/abt-smart-nation/digital-economy-framework.jpg"></a>
+ <a href="/files/abt-smart-nation/SGD Framework For Action.pdf"><img src="/images/abt-smart-nation/digital-economy-framework.jpg"></a>
 </div>
 
 ## Digital Government
