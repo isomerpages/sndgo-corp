@@ -56,7 +56,7 @@ The [TraceTogether Programme](https://www.tracetogether.gov.sg/) comprises the T
 
 TraceTogether helps to tackle the spread of the virus by identifying individuals who were in close proximity with a COVID-19 patient, which then allows health officials to take the appropriate quarantine measures to ring-fence possible exposures and limit the spread within the community.
 
-Individuals can choose to either download the TT App on their mobile phones or use the TT Token. The latter ensures inclusivity for those who are less digitally-savvy, or who prefer a separate device. 
+Individuals can choose to either download the TT App on their mobile phones or use the TT Token. The latter ensures inclusivity for those who are less digitally savvy, or who prefer a separate device. 
 
 **[Return to top](#singapores-tech-driven-response-to-the-covid-19-pandemic)**
 
@@ -80,7 +80,7 @@ These are reliable sources of information people can turn to at any time:
 *  [COVID-19 Situation Report Dashboard](https://covidsitrep.moh.gov.sg/)  presents the key statistics and figures on Singapore's current pandemic situation.
 *  [FluGoWhere](https://flu.gowhere.gov.sg/) allows the public to find a Public Health Preparedness Clinic (PHPC) closest to them to receive subsidised treatment and medication for respiratory infections. 
 *  [Gov.sg WhatsApp](https://www.gov.sg/article/govsg-on-whatsapp) delivers daily COVID-19 updates to more than 1.2 million subscribers in their preferred language. It's also used for other key Government announcements, such as the annual Budget and National Day Rally.
-*  [Gov.sg Info Bot](https://www.gov.sg/infobot) addresses public queries regarding COVID-19. As of December 2020, this Bot has addressed more than 865,000 COVID-19-related queries. 
+*  [Gov.sg Info Bot](https://www.gov.sg/infobot) addresses public queries regarding COVID-19. As of December 2020, this bot has addressed more than 865,000 COVID-19-related queries. 
 *  [TokenGoWhere](https://token.gowhere.gov.sg/) helps the public to check where they can collect or replace their Tokens.
 *  [MaskGoWhere](https://mask.gowhere.gov.sg/) helped people find the nearest location to collect face masks distributed by the Government. [Read GovTech’s look-back](https://www.tech.gov.sg/media/technews/maskgowhere) on how we raced against time to get the website up and running.
 
@@ -96,8 +96,9 @@ COVID-19 will likely be around for at least the next few years. Our arsenal of d
 * [National Appointment System (NAS) for COVID-19 Vaccination](https://appointment.vaccine.gov.sg/) allows the public to schedule their vaccination appointments once they receive the registration code.
 *  [Space Out](https://www.spaceout.gov.sg/) allows users to check crowd levels at various locations, so they can better plan their activities and avoid crowded areas.
 *  [SPOTON Smart Thermal Scanner](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/spoton) scans up to 10 people at a time, minimising physical contact and reducing manpower while speeding up check-ins at popular and high traffic locations.
-*  [SupplyAlly](https://www.supplyally.gov.sg/) is an app that facilitates logistics distribution. It was used for the distribution of masks, TraceTogether Tokens, credit vouchers as well as the management of various other COVID-19 initiatives and volunteers. 
 *  **VigilantGantry** is a fully automated, AI-driven temperature-screening gantry that can record people's temperatures even if their fringes are blocking the forehead or they have headgear on.
+*  [SupplyAlly](https://www.supplyally.gov.sg/) is an app that facilitates logistics distribution. It was used for the distribution of masks, TraceTogether Tokens, credit vouchers as well as the management of various other COVID-19 initiatives and volunteers. 
+
 
 **[Return to top](#singapores-tech-driven-response-to-the-covid-19-pandemic)**
 
