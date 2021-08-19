@@ -41,7 +41,7 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
  Digital Economy Framework for Action (4.31mb)
 </div>
 <div style="width:50%"> 
- <a href="/files/abt-smart-nation/SGD Framework For Action.pdf"><img src="/images/abt-smart-nation/digital-economy-framework.jpg"></a>
+ <a href="/files/abt-smart-nation/SGD Framework For Action.pdf"><img src="/images/abt-smart-nation/Digital-Economy-Framework2.png"></a>
 </div>
 
 ## Digital Government
