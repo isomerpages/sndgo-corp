@@ -25,7 +25,7 @@ sections:
       subtitle: Initiatives - Business
       description: Find out why the Punggol Digital District is the place to be!
       button: Read more about it
-      url: /initiatives/businesses/punggol-digital-district
+      url: /initiatives/strategic-national-projects/punggol-digital-district
   - infopic:
       title: Combating COVID-19
       description: Learn about how Singapore efficiently managed the pandemic with
