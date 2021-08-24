@@ -27,6 +27,6 @@ The district is shaping up to become a groundswell of ideas and opportunities fo
 
 PDD will house key growth sectors and businesses driving the Digital Economy, such as cybersecurity and the Internet of Things. This is expected to bring approximately 28,000 exciting jobs to Punggol and the north-east region.
 
-Of course, it’s not just about business and the economy. A thriving community of people will also be calling this neighbourhood home. With shared public spaces and hi-tech community facilities, PDD will be connected to the Punggol (?) waterfront by green links for the community’s recreational needs.
+Of course, it’s not just about business and the economy. A thriving community of people will also be calling this neighbourhood home. With shared public spaces and hi-tech community facilities, PDD will be connected to the Punggol waterfront by green links for the community’s recreational needs.
 
 Learn more about <a href="https://estates.jtc.gov.sg/pdd" target="_blank">Punggol Digital District here.</a>
