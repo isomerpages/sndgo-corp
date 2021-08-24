@@ -29,13 +29,13 @@ Find out more about how the Government protects your data and safeguards its sys
     <a href="/about-smart-nation/secure-smart-nation/personal-data-protection"><img src="/images/abt-smart-nation/govt-personal-data-protection.png"></a><br>   
     <div class="header"><b>Government's Personal Data Protection Laws and Policies</b></div>
     <br>
-    <div class="para">Data management by public sector agencies and third parties of public agencies.</div>
+    <div class="para">Data management by public sector agencies and third-parties working with public agencies.</div>
   </div>
 </div> 
 <div style="width:100%;display:flex;flex-wrap:wrap;">  
   <div style="flex:50%;padding:1%;"> 
     <a href="/about-smart-nation/secure-smart-nation/cybersecurity"><img src="/images/abt-smart-nation/cybersecurity.png"></a><br>
-    <div class="header"><b>Cybersecurity In The Public Sector</b></div>
+    <div class="header"><b>Cybersecurity in the Public Sector</b></div>
     <br>
     <div class="para">Three-pronged approach to secure our systems.</div>
   </div>     
@@ -43,6 +43,6 @@ Find out more about how the Government protects your data and safeguards its sys
     <a href="/about-smart-nation/secure-smart-nation/report-data-incident/"><img src="/images/abt-smart-nation/report-data-incident.png"></a><br>
     <div class="header"><b>Report a Government Data Incident</b></div>
     <br>
-    <div class="para">New government data incident reporting platform to report a suspected incident.</div>
+    <div class="para">New Government data incident reporting platform to report a suspected incident.</div>
   </div>
 </div>
