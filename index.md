@@ -31,7 +31,7 @@ sections:
       description: Learn about how Singapore efficiently managed the pandemic with
         technology
       button: Read  More here
-      url: /initiatives/strategic-national-projects/covid-19
+      url: /initiatives/covid-19/covid-19-tech
       image: /images/Infopix-Covid-19.png
       alt: "Covid-19 Technology "
   - infopic:
