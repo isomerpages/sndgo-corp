@@ -11,9 +11,20 @@ With the Government Technology Agency (<a href="https://www.tech.gov.sg/">GovTec
   
 SNDGG is overseen by a Ministerial Committee made up of the following members.
 
-| Title | Minister |
+**| Title | Minister |**
+
 | Chairman | Senior Minister Teo Chee Hean |
+
 | Member &amp; Minister-in-Charge of the Smart Nation Initiative | Minister Josephine Teo |
+
 | Member &amp; Minister-in-Charge of Public Service Division | Minister Chan Chun Sing |
+
 | Member | Minister Vivian Balakrishnan |
+
 | Member &amp; Minister-in-Charge of GovTech | Senior Minister of State Janil Puthucheary |
+
+For information on SNDGO press materials, please visit the [Singapore Press Centre](https://www.sgpc.gov.sg).
+
+For career opportunities with SNDGO, please visit www.careers.gov.sg. 
+
+For other enquiries, contact us at enquiries@smartnation.gov.sg
