@@ -1,8 +1,9 @@
 ---
-title: Cybersecurity In The Public Sector
+title: Cybersecurity in the Public Sector
 permalink: /about-smart-nation/secure-smart-nation/cybersecurity
 third_nav_title: A Secure Smart Nation
 ---
+
 # Cybersecurity In The Public Sector
 ![Cybersecurity](/images/abt-smart-nation/cybersecurity.png)
 
