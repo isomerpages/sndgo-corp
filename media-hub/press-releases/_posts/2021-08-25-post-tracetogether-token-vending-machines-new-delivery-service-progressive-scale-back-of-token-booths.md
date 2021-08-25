@@ -5,10 +5,9 @@ date: 2021-08-25
 permalink: /media-hub/press-releases/token-vendingmachine2508
 layout: post
 ---
-
 More TraceTogether (TT) Token replacement vending machines will be rolled out progressively at selected malls from 25 August, and at all 108 Community Clubs/Centres (CCs) from 30 August. A new home delivery service will also be launched for users who are requesting for a Token for the first time. With the new modes of distribution in place, manned booths for TT Token collection and replacement at CCs and shopping malls will be progressively scaled back. Token booths in shopping malls will cease operations on 31 August 2021. Token counters in the CCs will be scaled back at a later date.   
 
-Progressive Deployment of TT Token Vending Machines to 108 CCs and Selected Malls
+## Progressive Deployment of TT Token Vending Machines to 108 CCs and Selected Malls
 
 2\.         The Smart Nation and Digital Government Group (SNDGG) has worked with Temasek Foundation to retrofit mask vending machines for users to replace their TT Tokens. For a start, two vending machines were deployed at NEX and Sun Plaza on 26 July. Public feedback has been positive, and SNDGG will be rolling out vending machines to all 108 CCs as well as selected malls with high footfall. The roll-out is expected to be completed by end-October. The vending machines will enable TT Token users to replace their Token anytime, even outside the operating hours at some CCs and malls. Aside from the 108 CCs, the locations where the vending machines will be deployed at the selected malls can be found in Annex A and on the TokenGoWhere website (www.token.gowhere.gov.sg).
 
@@ -18,7 +17,7 @@ Progressive Deployment of TT Token Vending Machines to 108 CCs and Selected Mall
 
 5\.         With the rollout of Token vending machines at more locations, the number of Token booths at CCs will be scaled back. Booths will remain in areas with a higher concentration of seniors who may require more assistance when replacing their Tokens. The 17 Token replacement booths at malls will cease operations on 31 August, after vending machines have been deployed in their place. In total, the vending machines will be rolled out to more than 40 malls across the island. Residents can refer to the TokenGoWhere website (www.token.gowhere.gov.sg) for the updated list of TT Token booth and vending machine locations.
 
-Launch of Delivery Service for First-Time Token Issuance
+## Launch of Delivery Service for First-Time Token Issuance
 
 6\.         In addition to the vending machines, SNDGG is launching a free delivery service for first-time Token users. The public can access this service via the TokenGoWhere website (www.token.gowhere.gov.sg) and make a request by logging in with their Singpass account. Once the request is successfully processed, the Token will be delivered to the user’s mailbox. Those without a Singpass account will be directed to register for Singpass, or to collect their Token at a CC. This delivery service is only for first-time Token issuance, and cannot be used for Token replacement.
 
