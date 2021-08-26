@@ -5,7 +5,7 @@ third_nav_title: Urban Living
 ---
 # The Smart Town Framework
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nvEQE84SK1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/nvEQE84SK1g" height="315" width="560"></iframe>
 
 Can the average Housing and Development Board (HDB) estate be transformed into a smart town? How can technology change the lives of residents living in these estates? The Smart HDB Town Framework answers these questions.
 
@@ -40,7 +40,7 @@ The data provides insights that can help to improve estate management, town plan
 The first phase of the Smart Hub at Yuhua in Jurong East has been implemented. The next phases are slated to launch at Teck Ghee in Ang Mo Kio (a brownfield site) as well as greenfield sites in Punggol and Tengah.
 
 ![Peek into the estate operations](/images/initiatives/estate-operations.jpeg)
-*Image: Business Times, "The Brain Behind Estate Operations", 09 Nov 2018.*
+*A look at how an estate is  managed.  (Image: Business Times, "The Brain Behind Estate Operations", 9 Nov 2018)*
 
 ## Sustainability Efforts
 
@@ -78,14 +78,14 @@ Town planners, architects and engineers use smart planning tools and data analyt
 For instance, the amount of sunlight falling into homes and factoring in of shadows have been optimised for a cooler neighbourhood to live in.
 
 ![Punggol Northshore Seafront Living](/images/initiatives/smart-nation-punggol-northshore.jpg)
-*Image: Punggol Northshore Seafront Living. Perspective courtesy of HDB*
+*Punggol Northshore Seafront Living. (Image: HDB)*
 
-### Northshore Residences I & II
+### Northshore Residences I &amp; II
 
 Completed in 2020, these are the first HDB flats equipped with smart distribution boards and smart sockets in every room to easily support smart home solutions. The smart distribution board replaces the conventional distribution board in HDB flats, enabling residents to monitor electricity usage across their household appliances.
 
 
 ## Related Links
-* <a href="http://www20.hdb.gov.sg/fi10/fi10296p.nsf/PressReleases/F93B15F80588397748257D500009CE6C?OpenDocument" target="_blank">Smart HDB Homes of the Future</a>
-* <a href="http://www.hdb.gov.sg/cs/infoweb/press-release/yuhua-the-first-existing-hdb-estate-to-go-smart" target="_blank">Yuhua the First Existing HDB Estate to Go Smart</a>
-* <a href="http://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page/hdb-smart-home-exhibition" target="_blank">My Smart HDB Home @ Yuhua</a>
+* <a href="http://www20.hdb.gov.sg/fi10/fi10296p.nsf/PressReleases/F93B15F80588397748257D500009CE6C?OpenDocument">Smart HDB Homes of the Future</a>
+* <a href="http://www.hdb.gov.sg/cs/infoweb/press-release/yuhua-the-first-existing-hdb-estate-to-go-smart">Yuhua the First Existing HDB Estate to Go Smart</a>
+* <a href="http://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page/hdb-smart-home-exhibition">My Smart HDB Home @ Yuhua</a>
