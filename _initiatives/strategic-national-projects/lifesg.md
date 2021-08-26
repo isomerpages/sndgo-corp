@@ -6,7 +6,7 @@ third_nav_title: Strategic National Projects
 # Personalised Government Services and Information  
 ![LifeSG banner](/images/initiatives/lifesg-kv.jpg)
 
-Originally known as Moments of Life, the <a href="http://www.life.gov.sg">app</a> was launched in June 2018, with modules to support families with young children, and seniors . The app was rebranded to LifeSG in August 2020, with new features to serve Singaporeans throughout their life journey.
+Originally known as Moments of Life, the <a href="http://www.life.gov.sg" target="_blank">app</a> was launched in June 2018, with modules to support families with young children, and seniors . The app was rebranded to LifeSG in August 2020, with new features to serve Singaporeans throughout their life journey.
 
 Today, LifeSG allows you to easily access Government services, keep up with the latest news and updates, track your applications and more.
 
@@ -31,4 +31,4 @@ LifeSG complies with the Public Sector Governance Act (PSGA), which governs data
 
 Have suggestions on how we can make LifeSG better? Share your feedback in the ongoing [Smart Nation Co-creating with our People Everywhere (SCOPE)](/community/scope) sessions, so we can enhance the app’s design and effectiveness.
 
-Need help using the app? Refer to LifeSG's <a href="https://www.life.gov.sg/help-support/about-lifesg">frequently asked questions (FAQs)</a>.
+Need help using the app? Refer to LifeSG's <a href="https://www.life.gov.sg/help-support/about-lifesg" target="_blank">frequently asked questions (FAQs)</a>.
