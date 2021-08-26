@@ -78,7 +78,7 @@ Town planners, architects and engineers use smart planning tools and data analyt
 For instance, the amount of sunlight falling into homes and factoring in of shadows have been optimised for a cooler neighbourhood to live in.
 
 ![Punggol Northshore Seafront Living](/images/initiatives/smart-nation-punggol-northshore.jpg)
-*Punggol Northshore Seafront Living. (Image: HDB)*
+*Seafront living at Punggol Northshore. (Image: HDB)*
 
 ### Northshore Residences I &amp; II
 
