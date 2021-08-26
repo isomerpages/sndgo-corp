@@ -9,7 +9,7 @@ permalink: /about-smart-nation/transforming-singapore
 
 [Download the Smart Nation Benefits Infographic - 26 Feb 2021 (3.1mb)](/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf)
 
-> Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” – Lee Hsien Loong
+&gt; Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” – Lee Hsien Loong
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
@@ -39,11 +39,11 @@ Data sets collected by public agencies are now available and accessible to the p
 
 ### Living Laboratory
 
-Research and innovation initiatives such as <a href="https://www.nrf.gov.sg/about-nrf/rie-ecosystem" target="_blank">Research, Innovation and Enterprise</a> and <a href="https://www.aisingapore.org/" target="_blank">AI Singapore</a> allow us to leverage emerging tech breakthroughs to drive our Smart Nation goals. Our Digital Economy is also an attractive hotbed for companies and researchers to develop, prototype and pilot their technological solutions.
+Research and innovation initiatives such as <a href="https://www.nrf.gov.sg/about-nrf/rie-ecosystem">Research, Innovation and Enterprise</a> and <a href="https://www.aisingapore.org/">AI Singapore</a> allow us to leverage emerging tech breakthroughs to drive our Smart Nation goals. Our Digital Economy is also an attractive hotbed for companies and researchers to develop, prototype and pilot their technological solutions.
 
 ### Industry and Start-up Ecosystem
 
-Singapore’s start-up ecosystem is built on a strong network of venture capitalists, MNCs, start-up accelerators such as <a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/jtc-launchpad.aspx" target="_blank">JTC Launchpad</a> and the <a href="https://www.sginnovate.com/" target="_blank">SGInnovate</a> . Currently, we are developing the [Punggol Digital District (PDD)](/initiatives/strategic-national-projects/punggol-digital-district) as an attractive hotbed for the world’s best tech companies and talents to converge, innovate and create iconic solutions to boost our Digital Economy.
+Singapore’s start-up ecosystem is built on a strong network of venture capitalists, MNCs, start-up accelerators such as <a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/jtc-launchpad.aspx">JTC Launchpad</a> and the <a href="https://www.sginnovate.com/">SGInnovate</a> . Currently, we are developing the [Punggol Digital District (PDD)](/initiatives/strategic-national-projects/punggol-digital-district) as an attractive hotbed for the world’s best tech companies and talents to converge, innovate and create iconic solutions to boost our Digital Economy.
 
 ### Cybersecurity and Data Privacy
 
@@ -53,7 +53,7 @@ Cybersecurity helps us safeguard our Smart Nation growth by keeping critical sys
 
 Basic coding and computational thinking skills will help everyone benefit from our Smart Nation growth, regardless of age or digital literacy. We currently offer resources to assist both [individuals](https://smartnationsg-staging.netlify.app/community/supporting-the-community) and [businesses](https://smartnationsg-staging.netlify.app/about-smart-nation/business-resources) to re-skill, so that they can leverage the growing opportunities of our Digital Economy.
 
-Optional to include (since already linked in the body copy above): Check out the resources available for [individuals](/community/opportunities) and [businesses.](/resources/business)
+Check out the resources available for [individuals](/community/opportunities) and [businesses.](/resources/business)
 
 ### Cross-border Collaboration
 
@@ -61,6 +61,6 @@ Optional to include (since already linked in the body copy above): Check out the
 
 One way for us to grow is through sharing good ideas and best practices, exploring collaborations, and testing people-centric smart solutions within the region.
 
-The <a href="https://asean.org/asean/asean-smart-cities-network/" target="_blank">ASEAN Smart Cities Network (ASCN)</a> was established in 2018, offering a platform for ASEAN cities to exchange ideas and solutions to catalyse smart city projects.
+The <a href="https://asean.org/asean/asean-smart-cities-network/">ASEAN Smart Cities Network (ASCN)</a> was established in 2018, offering a platform for ASEAN cities to exchange ideas and solutions to catalyse smart city projects.
 
-The goal is to improve the lives of people in the region, using technology as an enabler. ASCN provides us with the unique opportunity to quickly leverage opportunities from rapid urbanisation, as well as build a strong defence against cyber-threats and trade friction that the region faces.
+The goal is to improve the lives of people in the region, using technology as an enabler. ASCN provides us with the unique opportunity to quickly leverage opportunities from rapid urbanisation, as well as build a strong defence against cyber threats and trade friction that the region faces.
