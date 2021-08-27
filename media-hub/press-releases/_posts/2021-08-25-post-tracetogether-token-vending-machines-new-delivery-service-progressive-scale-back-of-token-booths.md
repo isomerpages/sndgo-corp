@@ -26,11 +26,11 @@ More TraceTogether (TT) Token replacement vending machines will be rolled out pr
 
 ******
 
-Annex A – Shopping Malls with TraceTogether Token Vending Machines (PDF - 81 KB)
+[Annex A – Shopping Malls with TraceTogether Token Vending Machines (81 KB)](/files/press-releases/2021/annex-a-shopping-malls-with-tracetogether-token-vending-machines.pdf)
 
-Annex B – Instructional guide on the use of the TraceTogether Token Vending Machine (PDF - 177 KB)
+[Annex B – Instructional guide on the use of the TraceTogether Token Vending Machine (177 KB)](/files/press-releases/2021/annex-b-instructional-guide-on-the-use-of-the-tracetogether-token-vending-machine.pdf)
 
-Annex C – Updates on TraceTogether Token Collection and Replacement (PDF - 1152 KB)
+[Annex C – Updates on TraceTogether Token Collection and Replacement (1152 KB)](/files/press-releases/2021/annex-c---token-replacement-updates.pdf)
 
 
 ******
