@@ -17,7 +17,7 @@ To qualify, you must be:
 -	A Singapore Citizen[^1]
 - A GCE A-Level (or equivalent) or polytechnic diploma graduate with an outstanding co-curricular activities record
 - Passionate about having a career in tech
--	Persuing an ICT-related degree programme[^2]
+-	Pursuing an ICT-related degree programme[^2]
 
 [^1]: Includes Singapore Permanent Residents who are taking up citizenship.
 [^2]: If you are currently not in an ICT-related course but interested to take up a double degree in ICT, you will also be considered. 
@@ -36,3 +36,4 @@ To qualify, you must be:
 ## How to Apply:
 
 The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="http://Go.gov.sg/smartnationscholarship" target="_blank">Go.gov.sg/smartnationscholarship</a> for the full details or email scholarship@smartnation.gov.sg.
+
