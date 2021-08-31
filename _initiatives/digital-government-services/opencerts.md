@@ -3,7 +3,7 @@ title: OpenCerts
 permalink: /initiatives/digital-government-services/opencerts
 third_nav_title: Digital Government Services
 ---
-![Open Certs](/images/initiatives/OpenCerts.png)
+![Open Certs](/images/initiatives/laptop-with-diploma-academic-cap.jpg)
 
 # Graduate with a Digital Academic Certificate 
 
