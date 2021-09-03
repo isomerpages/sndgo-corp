@@ -20,19 +20,6 @@ sections:
         - title: Smart Nation Ambassadors
           description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
-  - infobar:
-      title: Punggol Digital District
-      subtitle: Strategic National Projects
-      description: Find out why the Punggol Digital District is the place to be!
-      button: Read more about it
-      url: /initiatives/strategic-national-projects/punggol-digital-district
-  - infopic:
-      title: Combating COVID-19
-      description: Learn how Singapore managed the pandemic effectively with technology
-      button: Read More Here
-      url: /covid-19/covid-19-tech
-      image: /images/Infopix-Covid-19.png
-      alt: "Covid-19 Technology "
   - infopic:
       title: Co-create With Us
       description: Share your feedback on digital Government services via SCOPE
@@ -40,5 +27,18 @@ sections:
       url: /community/scope
       image: /images/Infopix-SCOPE.png
       alt: SCOPE - Co-create with us
+  - infopic:
+      title: Combating COVID-19
+      description: Learn how Singapore managed the pandemic effectively with technology
+      button: Read More Here
+      url: /covid-19/covid-19-tech
+      image: /images/Infopix-Covid-19.png
+      alt: "Covid-19 Technology "
+  - infobar:
+      title: Punggol Digital District
+      subtitle: Strategic National Projects
+      description: Find out why the Punggol Digital District is the place to be!
+      button: Read more about it
+      url: /initiatives/strategic-national-projects/punggol-digital-district
 notification: ""
 ---
