@@ -28,16 +28,14 @@ sections:
       url: /initiatives/strategic-national-projects/punggol-digital-district
   - infopic:
       title: Combating COVID-19
-      description: Learn about how Singapore efficiently managed the pandemic with
-        technology
+      description: Learn how Singapore managed the pandemic effectively with technology
       button: Read More Here
       url: /covid-19/covid-19-tech
       image: /images/Infopix-Covid-19.png
       alt: "Covid-19 Technology "
   - infopic:
-      title: Co-create With Us Today
-      description: Share your feedback with us on digital government services via
-        SCOPE today
+      title: Co-create With Us
+      description: Share your feedback on digital Government services via SCOPE
       button: Find out more
       url: /community/scope
       image: /images/Infopix-SCOPE.png
