@@ -18,7 +18,7 @@ sections:
           description: Report a Government Data Incident
           url: /about-smart-nation/secure-smart-nation/report-data-incident
         - title: Smart Nation Ambassadors
-          description: Join us on our transformative Journey
+          description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
   - infobar:
       title: Punggol Digital District
