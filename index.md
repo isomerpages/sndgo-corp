@@ -12,7 +12,7 @@ sections:
           description: The building blocks of our Smart Nation Initiative
           url: /initiatives/strategic-national-projects
         - title: Pillars Of Smart Nation
-          description: Find out more about the three key pillars.
+          description: Find out more about the three key pillars
           url: /about-smart-nation/pillars-of-smart-nation
         - title: A Secure Smart Nation
           description: Report a Government Data Incident
