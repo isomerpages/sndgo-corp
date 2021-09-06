@@ -3,29 +3,24 @@ title: myENV App
 permalink: /initiatives/urban-living/myenv-app
 third_nav_title: Urban Living
 ---
-# Keeping The Environment (Status) In Your Pocket
+# More Than Just Weather Updates
 
 ![screenshot of myENV app](/images/initiatives/myenv-app-initiatives.jpg)
 
 
-**Why download?**
+The myENV app is a one-stop mobile platform for a range of information, from the weather, air quality, dengue clusters, drain water levels and floods, to water service disruptions, where to find hawker centres and more.
 
-Get the latest environmental updates and information at your fingertips based on your current location with myENV:
+The latest version of the app, launched in March 2021, has about 200,000 active users per month. One of its most popular features is the alerts function, with 200,000 subscriptions for the air quality 24-hr PSI alert alone.  
 
--   Access real-time information on Singapore’s weather and air quality including weather forecasts, PSI readings and UV index
--   Subscribe to receive location-specific alerts on heavy rainfall, lightning and dengue clusters
--   Locate hawker centres and vector control operators by name or proximity
--   Search track records of licenced food establishments
--   View the latest NEA’s events and happenings
--   Participate by signing up as a volunteer
--   Report environment-related incidents to NEA by sending geo-tagged pictures
+**Other popular functions include:**
 
-**Benefits to citizens**
+* Having a consolidated dashboard for key environmental information
 
--   Helps users better plan their activities and take pre-emptive measures
--   Allows everyone to play a part in safeguarding our environment!
-
-The app is installed on 670,000 devices and has 80,000 active users a month. The most popular feature is the Alerts feature. For instance, our air quality 24-hr PSI alert has more than 500,000 subscriptions!
+* Bookmark locations such as your home and office or your kid’s childcare centre to stay updated on the environmental issues there 
+ 
+* Receive push notifications on heavy rain, flash flood, dengue clusters, food recalls, suspensions and downgrading of food establishments’ hygiene standards 
+ 
+* Locate and follow preferred hawker centres
 
 ## Download myENV App now!
 
