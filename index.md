@@ -34,11 +34,13 @@ sections:
       url: /covid-19/covid-19-tech
       image: /images/Infopix-Covid-19.png
       alt: "Covid-19 Technology "
-  - infobar:
+  - infopic:
       title: Punggol Digital District
       subtitle: Strategic National Projects
       description: Find out why the Punggol Digital District is the place to be!
       button: Read more about it
       url: /initiatives/strategic-national-projects/punggol-digital-district
+      image: /images/initiatives/punggol-digital-district.jpg
+      alt: Punggol Digital District
 notification: ""
 ---
