@@ -3,41 +3,51 @@ title: Smart Urban Planning
 permalink: /initiatives/urban-living/urban-planning
 third_nav_title: Urban Living
 ---
-
-
 ![Small Island, Big Needs](/images/initiatives/URA-1.jpg)
 
-**Digital innovations in planning**
+## Using Data for Urban Planning
 
-Singapore is a small city-state with a land area of just 721 square kilometres. As Singapore’s land use planning and conservation authority, the Urban Redevelopment Authority (URA) has to plan and provide space for economic development, as well as provide quality living and recreation opportunities in a sustainable manner.
+As a small city-state with a land area of just 728 sq km, land planning is crucial. To help with this, smart solutions enable us to use our space wisely for sustainable economic development, quality living and recreation for our people and businesses. 
 
-Planning in today’s changing environment requires a holistic understanding of the city. In the past, it was more challenging to do so without the benefit of consolidated, up-to-date and real-time information. Thanks to digital innovations, URA has transformed the way it plans. The use of digital tools has helped to create solutions that better meet urban challenges, deliver a better quality of life for our people, as well as support our industry in driving productivity gain and value creation.
+The Urban Redevelopment Authority (URA), as our land-use planning and conservation authority, has harnessed digital innovations to plan and make decisions based more on data. 
 
-**Using data to gain insights to drive better planning decisions**
-
--   Bringing jobs closer to homes
+### Bringing Jobs Closer to Homes to Reduce Commute
 
 ![Eastern side of Singapore](/images/initiatives/URA-2.png)
 
+URA’s decentralisation strategy connects people living in the country’s western and northern regions with job opportunities closer to their homes, helping to reduce long commutes. 
 
-URA’s decentralisation strategy provides people living in the West and North regions with more job opportunities nearer to their homes, helping to reduce long home-work commutes. The data tells us, for instance, that the majority of the people working near Tampines Regional Centre reside in the East and Northeast region, mostly within 45 minutes of home-work travel by public transport.
+For instance, data shows that most people working near Tampines Regional Centre also reside in the east and northeast regions. They are thus able to travel from home to their workplace within 45 minutes via public transport.
 
--   Improve accessibility and allocation of amenities
+### Improving Public Healthcare Accessibility for the Elderly
 
 ![allocation of amenities](/images/initiatives/URA-3.png)
 
 
-Planners use digital tools to help identify areas with a high concentration of seniors with poorer access to healthcare facilities and services. Based on the data available, a larger population of seniors reside in the East and Northeast region, with most within 1.5 km from the nearest polyclinic. More healthcare facilities will be required in areas with seniors residing further away from existing healthcare services, and where the number of seniors are expected to grow.
+Digital tools can help to identify areas with a high concentration of seniors with poorer access to healthcare facilities and services. Based on existing data, URA has found that a larger population of seniors reside in the east and northeast regions, most of whom are located within 1.5 km of their nearest polyclinic. 
 
--   Empower planners with rich planning data for quick visualisation and analysis
+Knowing this helps authorities allocate more healthcare facilities in areas with seniors residing further away from existing healthcare services and where the number of seniors is expected to grow. 
 
-![URA eplanner](/images/initiatives/URA-4.png)
+To address the issue of Singapore’s aging population, similar evidence-based approaches can be adopted to identify hotspots of needs for the planning of targeted health and social programmes for seniors.
 
+### COVID-19 Pandemic Response and Supporting a Robust Recovery
 
-Developed in-house by URA, ePlanner is a one stop, multi-platform, geospatial urban planning analytics system that integrates data from various sources to enable advanced spatial visualisation and analytics. ePlanner enables planners from URA and other agencies to easily access and analyse various land-use planning information such as development control, real estate, land sales and car parks, on a single platform, and especially while they are on-the-go. With such a system that facilitates integrated planning, planners are now better informed of the ground situation to anticipate changes and improve coordination among agencies.
+![Alt text for image on Isomer site](/images/Space-out.jpg)
 
--   Allow cross-agency collaboration in scenario-testing and optimising land use
+To prevent overcrowding at malls and recreational spaces, URA responded by working with stakeholders to develop a digital tool called Space Out, which helped the public make informed choices on when to head out without compromising safety.
+
+This also adds to URA’s repository of useful data to inform planning, which includes demographic trends, activity and mobility patterns, accessibility and utilisation of amenities, market trends and ground concerns.
+
+Moving forward, URA will continue to bring together data, apply spatial data analytics and build up capabilities to better understand how work and non-work activity patterns are changing due to the pandemic. Planners would be more prepared and equipped to plan for amenities and services in a post-COVID-19 world, as well as a more resilient and sustainable city.
+
+### Empower Planners with Rich Data 
 
 ![URA Gemma](/images/initiatives/URA-5.png)
 
-GEMMA is a powerful collaborative tool that allows planners across various agencies to come together to do land-use scenario studies and infrastructure staging plans. Through the system, planners can access rich layers of map-based information and data-analytics algorithms for integrated planning analysis. For example, land use and transport planners can jointly assess the public transport use patterns across different neighbourhoods, to improve plans that would encourage greater use of public transport.
+Developed by URA, ePlanner is a multi-platform geospatial urban planning analytics system integrating data from various sources. It enables advanced spatial visualisation and analytics for planners to easily access and analyse various land-use planning information on a single platform, such as: 
+
+* Development control
+* Real estate
+* Land sales and car parks
+
+With quick access to such information, planners are better equipped to anticipate changes and coordinate better with relevant agencies to facilitate integrated planning.
