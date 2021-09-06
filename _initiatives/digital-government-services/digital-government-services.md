@@ -22,7 +22,7 @@ To empower citizens to live, work, play, interact and transact better with each 
 	 <div class="column-c" > 
     <a href="/initiatives/digital-government-services/multilingual-digital-services"><img src="/images/initiatives/overview-pages/multilingual-digital-services.png"></a><br>
     <div class="header"><b>Multilingual Digital Services</b></div><br>
-    <div class="para">Making digital government services more inclusive and accessible by having these in our 4 national languages.</div>
+    <div class="para">Making digital Government services more inclusive and accessible by having these in our 4 national languages.</div>
   </div>
 </div>
 <div class="row">  
