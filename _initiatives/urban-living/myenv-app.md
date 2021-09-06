@@ -5,7 +5,7 @@ third_nav_title: Urban Living
 ---
 # More Than Just Weather Updates
 
-![screenshot of myENV app](/images/initiatives/myenv-app-initiatives.jpg)
+![Alt text for image on Isomer site](/images/initiatives/New-myenv-app-layout.jpg)
 
 
 The myENV app is a one-stop mobile platform for a range of information, from the weather, air quality, dengue clusters, drain water levels and floods, to water service disruptions, where to find hawker centres and more.
