@@ -11,6 +11,8 @@ By leveraging behavioural insights and technology, the Challenge encourages Sing
 
 It also rewards them when they reach different physical activity milestones. Participants can look forward to exciting sub-challenges and thematic challenges – all geared towards making moving more fun. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nttWCR1ecog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The National Steps Challenge™ has been well received and these are some of its milestone moments:
 
 * Season 5 of the Challenge attracted over 910,000 sign-ups
