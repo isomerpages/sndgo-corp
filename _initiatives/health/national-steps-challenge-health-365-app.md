@@ -3,30 +3,22 @@ title: National Steps Challenge & Health 365 App
 permalink: /initiatives/health/national-steps-challenge
 third_nav_title: Health
 ---
-![National Steps challenge key visual](/images/initiatives/national-steps-challenge.png)
+![Alt text for image on Isomer site](/images/initiatives/Healthy-365.jpg)
 
-**What is the National Steps Challenge?**
+The [National Steps Challenge™](https://www.healthhub.sg/programmes/37/nsc) is the world’s first population level, fitness tracker-based physical activity initiative that encourages Singaporeans to move more. 
 
-As part of efforts to encourage more Singaporeans to lead active lifestyles, the Health Promotion Board (HPB) started a nation-wide physical activity programme, called the “National Steps Challenge™”, to introduce a fun way to encourage Singaporeans to sit less and move more!
+By leveraging behavioural insights and technology, the Challenge encourages Singaporeans to take more steps and clock moderate-to-vigorous physical activities daily as part of their everyday lives. They do so using a fitness tracker and the Healthy 365 mobile application.
 
-**What does it entail?**
+It also rewards them when they reach different physical activity milestones. Participants can look forward to exciting sub-challenges and thematic challenges – all geared towards making moving more fun. 
 
--   Registered participants receive a Steps Tracker
--   Pair the device with the Healthy 365 mobile application, and
--   Start tracking accumulated steps as they walk!
-**What are the Benefits?**
+The National Steps Challenge™ has been well received and these are some of its milestone moments:
 
--   By using technology as an enabler, the National Steps Challenge empowers Singaporeans to take responsibility for their health and wellbeing by tracking their progress with the aid of a steps tracker and the Healthy 365 mobile application.
--   As participants accumulate steps, not only can they track their diet, they can also see the total calories consumed and expended daily.
+* Season 5 of the Challenge attracted over 910,000 sign-ups
+* Results show that participants’ overall physical activity levels have improved,  both in exercise volume and intensity
+* From Season 4 to Season 5, there were 7% more participants who engaged in the recommended 150 minutes of moderate-to-vigorous physical activity per week
 
-**The Results**
+### How You Can Participate:
 
--   The initiative was well received. Over 156,000 people, both young and old, participated.
--   Since its launch in November 2015, 70% of previously inactive participants now average more than 7,000 steps per day, with 30% of participants clocking about 10,000 steps a day on average.
--   Based on preliminary findings between November and December 2015, 63% of Challenge participants continued to use it well beyond the formal programme.
+Eligible participants can collect a HPB Fitness Tracker or use compatible fitness devices and pair these with the Healthy 365 app. Once done, users can clock steps and moderate-to-vigorous physical activity minutes to earn rewards. 
 
-**National Steps Challenge Season 3**
-
-The last National Steps Challenge ran from last October to April 2018, and 30,000 out of 696,000 participants managed to clock an average of 5km a day over six months - almost 1,000km in total! The 41,000 people who have taken part in all three editions of the National Steps Challenge also walked more in the third season. Their average daily number of steps went up by 8 per cent to nearly 10,000 steps.
-
-Click [here](https://www.healthhub.sg/programmes/37/nsc) to participate!
+Click [here](https://www.healthhub.sg/programmes/37/nsc) for more information.
