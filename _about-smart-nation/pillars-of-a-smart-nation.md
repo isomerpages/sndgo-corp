@@ -1,7 +1,8 @@
 ---
-title: Pillars of a Smart Nation
+title: "Pillars Of A Smart Nation "
 permalink: /about-smart-nation/pillars-of-smart-nation
 ---
+
 
 # Three Pillars of a Smart Nation
 
