@@ -14,11 +14,11 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
     <div class="header"><b>Business Grants Portal & GoBusiness Licensing</b></div><br>
   </div>
    <div class="column-c"> 
-    <a href="initiatives/strategic-national-projects/codex"><img src="/images/initiatives/CODEX-2.jpg"></a><br>
+    <a href="/strategic-national-projects/codex"><img src="/images/initiatives/CODEX-2.jpg"></a><br>
      <div class="header"><b>CODEX</b></div><br>
   </div>
   <div class="column-c">  
-    <a href="initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/mobile-payments.jpg"></a><br>
+    <a href="/strategic-national-projects/e-payments"><img src="/images/initiatives/mobile-payments.jpg"></a><br>
     <div class="header"><b>E-Payments</b></div><br>
   </div>     
 </div>
