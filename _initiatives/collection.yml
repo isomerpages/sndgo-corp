@@ -28,7 +28,7 @@ collections:
       - transport/on-demand-shuttle.md
       - transport/open-data-analytics-for-urban-transportation.md
       - health/.keep
-      - health/health.md
+      - health/overview.md
       - health/assistive-technology-and-robotics-in-healthcare.md
       - health/healthhub.md
       - health/national-steps-challenge-health-365-app.md
