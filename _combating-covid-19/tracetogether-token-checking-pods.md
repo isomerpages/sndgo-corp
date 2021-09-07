@@ -8,7 +8,7 @@ Want to check if your TraceTogether Token is working? Head over to our Token che
 
 ## What Are Token Checking Pods?
 
-These Token checking pods are equipped with a SafeEntry Gateway device for you to check if your Token is working.
+These TraceTogether Token checking pods are equipped with a SafeEntry Gateway device for you to check if your Token is working.
 
 If your Token is working, there will be a green light and a beep sound when the Token is brought near the SafeEntry Gateway device. If your Token is faulty or is out of battery, there will be no light and no beep.
 
