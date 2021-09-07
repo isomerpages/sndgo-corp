@@ -13,7 +13,7 @@ collections:
       - strategic-national-projects/smart-nation-sensor-platform.md
       - strategic-national-projects/smart-urban-mobility.md
       - urban-living/.keep
-      - urban-living/urban-living.md
+      - urban-living/overview.md
       - urban-living/automated-meter-reading.md
       - urban-living/dengue-hotspots-survey-drones.md
       - urban-living/myenv-app.md
