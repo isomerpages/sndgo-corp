@@ -7,14 +7,11 @@ third_nav_title: Strategic National Projects
 
 Singapore is engineering its transformation into a Smart Nation – byte by byte, system by system. These Strategic National Projects are the foundation for turning this vision into reality.  
 
-The initiatives below outline how we aim to achieve this.
-
 <br>
 <div class="row">  
   <div class="column-c"> 
-    <a href="/initiatives/urban-living/amr"><img src="/images/initiatives/overview-pages/amr-trial.png"></a><br>
-    <div class="header"><b>Automated Meter Reading</b></div><br>
-    <div class="para">From tap to app, we’re making water usage data readily accessible for our residents so they can better manage their water consumption and bills.</div>
+    <a href="/initiatives/urban-living/amr"><img src="/images/initiatives/business-grants-gobusiness.png"></a><br>
+    <div class="header"><b>Business Grants Portal & GoBusiness Licensing</b></div><br>
   </div>
    <div class="column-c"> 
     <a href="/initiatives/urban-living/dengue-hotspots-survey-drones"><img src="/images/Drone%20with%20camera%20for%20dengue%20survey.png"></a><br>
