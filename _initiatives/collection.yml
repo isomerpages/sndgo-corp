@@ -41,7 +41,7 @@ collections:
       - digital-government-services/opencerts.md
       - digital-government-services/parents-gateway.md
       - business/.keep
-      - business/business.md
+      - business/overview.md
       - business/corppass.md
       - business/data-innovation-programme-office.md
       - business/fintech-sandbox.md
