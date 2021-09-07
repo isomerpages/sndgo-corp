@@ -10,11 +10,11 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <br>
 <div class="row">  
   <div class="column-c"> 
-    <a href="/initiatives/urban-living/amr"><img src="/images/initiatives/business-grants-gobusiness.png"></a><br>
+    <a href="initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grants-gobusiness.png"></a><br>
     <div class="header"><b>Business Grants Portal & GoBusiness Licensing</b></div><br>
   </div>
    <div class="column-c"> 
-    <a href="/initiatives/urban-living/dengue-hotspots-survey-drones"><img src="/images/initiatives/CODEX.jpeg"></a><br>
+    <a href="/initiatives/urban-living/dengue-hotspots-survey-drones"><img src="/images/initiatives/CODEX-2.jpg"></a><br>
      <div class="header"><b>CODEX</b></div><br>
   </div>
   <div class="column-c">  
