@@ -21,7 +21,7 @@ collections:
       - urban-living/smart-urban-planning.md
       - urban-living/smart-towns.md
       - transport/.keep
-      - transport/transport.md
+      - transport/overview.md
       - transport/autonomous-vehicles.md
       - transport/cetran.md
       - transport/contactless-fare-payment-for-public-transport.md
