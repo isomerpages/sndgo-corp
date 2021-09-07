@@ -10,7 +10,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <br>
 <div class="row">  
   <div class="column-c"> 
-    <a href="/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grants-gobusiness.png"></a><br>
+    <a href="/initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grants-gobusiness.png"></a><br>
     <div class="header"><b>Business Grants Portal & GoBusiness Licensing</b></div><br>
   </div>
    <div class="column-c"> 
@@ -24,9 +24,8 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 </div>
 <div class="row">  
   <div class="column-c"> 
-    <a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice-app.png"></a><br>
-    <div class="header"><b>OneService App</b></div><br>
-    <div class="para">A convenient, one-stop platform for the public to report issues they come across in their neighbourhoods.</div>
+    <a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/lifesg-kv.jpg"></a><br>
+    <div class="header"><b>LifeSG</b></div><br>
   </div>
 	 <div class="column-c"> 
     <a href="/initiatives/urban-living/urban-planning"><img src="/images/initiatives/overview-pages/planning-people-businesses.png"></a><br>
