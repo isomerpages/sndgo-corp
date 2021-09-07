@@ -14,11 +14,11 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
     <div class="header"><b>Business Grants Portal & GoBusiness Licensing</b></div><br>
   </div>
    <div class="column-c"> 
-    <a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/CODEX-2.jpg"></a><br>
+    <a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/Codex-snp.jpeg"></a><br>
      <div class="header"><b>CODEX</b></div><br>
   </div>
   <div class="column-c">  
-    <a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/mobile-payments.jpg"></a><br>
+    <a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg"></a><br>
     <div class="header"><b>E-Payments</b></div><br>
   </div>     
 </div>
@@ -28,7 +28,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
     <div class="header"><b>LifeSG</b></div><br>
   </div>
 	 <div class="column-c"> 
-    <a href="/initiatives/strategic-national-projects/national-digital-identity"><img src="/images/initiatives/Singpass-website.png"></a><br>
+    <a href="/initiatives/strategic-national-projects/national-digital-identity"><img src="/images/initiatives/Singpass-website.jpeg"></a><br>
      <div class="header"><b>National Digital Identity</b></div><br>
 	</div>
   <div class="column-c"> 
@@ -38,7 +38,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 </div>
 <div class="row">  
   <div class="column-c"> 
-   <a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/smart-nation-sensor-platform-2.jpg"></a><br>
+   <a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/smart-nation-sensor-platform-snp.jpeg"></a><br>
     <div class="header"><b>Smart Nation Sensor Platform</b></div><br>
 </div>
 		<div class="column-c"> 
