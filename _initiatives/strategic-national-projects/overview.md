@@ -14,14 +14,12 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
     <div class="header"><b>Business Grants Portal & GoBusiness Licensing</b></div><br>
   </div>
    <div class="column-c"> 
-    <a href="/initiatives/urban-living/dengue-hotspots-survey-drones"><img src="/images/Drone%20with%20camera%20for%20dengue%20survey.png"></a><br>
-     <div class="header"><b>Dengue Hotspots Survey Drones</b></div><br>
-    <div class="para">We’re using drones to identify possible dengue hotspots and manage any outbreaks.</div>
+    <a href="/initiatives/urban-living/dengue-hotspots-survey-drones"><img src="/images/initiatives/CODEX.jpeg"></a><br>
+     <div class="header"><b>CODEX</b></div><br>
   </div>
   <div class="column-c">  
-    <a href="/initiatives/urban-living/myenv-app"><img src="/images/initiatives/overview-pages/myenv-app.png"></a><br>
-    <div class="header"><b>myENV App</b></div><br>
-    <div class="para">A convenient tool to update the public on the latest environmental news, including PSI readings and dengue outbreak alerts.</div>
+    <a href="/initiatives/urban-living/myenv-app"><img src="/images/initiatives/mobile-payments.jpg"></a><br>
+    <div class="header"><b>E-Payments</b></div><br>
   </div>     
 </div>
 <div class="row">  
