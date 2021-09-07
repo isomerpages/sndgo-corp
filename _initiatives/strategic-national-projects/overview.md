@@ -38,10 +38,10 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 </div>
 <div class="row">  
 <div class="column-c"> 
-   <a href="initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/overview-pages/smart-towns.png"></a><br>
+   <a href="initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/smart-nation-sensor-platform-2.jpg"></a><br>
     <div class="header"><b>Smart Nation Sensor Platform</b></div><br>
     
 <div class="column-c"> 
-   <a href="/initiatives/urban-living/smart-towns"><img src="/images/initiatives/overview-pages/smart-towns.png"></a><br>
-    <div class="header"><b>Smart Towns</b></div><br>
+   <a href="initiatives/strategic-national-projects/smart-urban-mobility"><img src="/images/initiatives/smart-urban-mobility.jpg"></a><br>
+    <div class="header"><b>Smart Urban Mobility</b></div><br>
     </div>
