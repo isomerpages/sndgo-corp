@@ -18,21 +18,29 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
      <div class="header"><b>CODEX</b></div><br>
   </div>
   <div class="column-c">  
-    <a href="/strategic-national-projects/e-payments"><img src="/images/initiatives/mobile-payments.jpg"></a><br>
+    <a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/mobile-payments.jpg"></a><br>
     <div class="header"><b>E-Payments</b></div><br>
   </div>     
 </div>
 <div class="row">  
   <div class="column-c"> 
-    <a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/lifesg-kv.jpg"></a><br>
+    <a href="/initiatives/strategic-national-projects/lifesg"><img src="/images/initiatives/lifesg-kv.jpg"></a><br>
     <div class="header"><b>LifeSG</b></div><br>
   </div>
 	 <div class="column-c"> 
-    <a href="/initiatives/urban-living/urban-planning"><img src="/images/initiatives/overview-pages/planning-people-businesses.png"></a><br>
-     <div class="header"><b>Smart Urban Planning</b></div><br>
-    <div class="para">Tech helps urban planners better make use of our limited land to create sustainable, quality spaces for working and living in Singapore.</div>
+    <a href="/initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/Singpass-website.png"></a><br>
+     <div class="header"><b>National Digital Identity</b></div><br>
 	</div>
   <div class="column-c"> 
+   <a href="/initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/punggol-digital-district.jpg"></a><br>
+    <div class="header"><b>Punggol Digital District</b></div><br></div>
+    </div>
+<div class="column-c"> 
+   <a href="/initiatives/urban-living/smart-towns"><img src="/images/initiatives/overview-pages/smart-towns.png"></a><br>
+    <div class="header"><b>Smart Towns</b></div><br>
+    <div class="para">We’re using technology to plan, develop and manage HDB towns to create more efficient, sustainable and safe living environments for our people.</div>
+</div></div>
+<div class="column-c"> 
    <a href="/initiatives/urban-living/smart-towns"><img src="/images/initiatives/overview-pages/smart-towns.png"></a><br>
     <div class="header"><b>Smart Towns</b></div><br>
     <div class="para">We’re using technology to plan, develop and manage HDB towns to create more efficient, sustainable and safe living environments for our people.</div>
