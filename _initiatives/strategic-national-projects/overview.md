@@ -28,7 +28,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
     <div class="header"><b>LifeSG</b></div><br>
   </div>
 	 <div class="column-c"> 
-    <a href="/initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/Singpass-website.png"></a><br>
+    <a href="/initiatives/strategic-national-projects/national-digital-identity"><img src="/images/initiatives/Singpass-website.png"></a><br>
      <div class="header"><b>National Digital Identity</b></div><br>
 	</div>
   <div class="column-c"> 
