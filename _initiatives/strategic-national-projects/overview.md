@@ -33,14 +33,13 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 	</div>
   <div class="column-c"> 
    <a href="/initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/punggol-digital-district.jpg"></a><br>
-    <div class="header"><b>Punggol Digital District</b></div><br></div>
-      </div>     
+    <div class="header"><b>Punggol Digital District</b></div><br>
+  </div>     
 </div>
 <div class="row">  
-<div class="column-c"> 
+  <div class="column-c"> 
    <a href="initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/smart-nation-sensor-platform-2.jpg"></a><br>
     <div class="header"><b>Smart Nation Sensor Platform</b></div><br>
-    
 <div class="column-c"> 
    <a href="initiatives/strategic-national-projects/smart-urban-mobility"><img src="/images/initiatives/smart-urban-mobility.jpg"></a><br>
     <div class="header"><b>Smart Urban Mobility</b></div><br>
