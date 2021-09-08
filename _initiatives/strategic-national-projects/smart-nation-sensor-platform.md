@@ -3,9 +3,7 @@ title: Smart Nation Sensor Platform
 permalink: /initiatives/strategic-national-projects/smart-nation-sensor-platform
 third_nav_title: Strategic National Projects
 ---
-![Smart nation sensor platform](/images/initiatives/smart-nation-sensor-platform.jpg)
-
-
+![Alt text for image on Isomer site](/images/initiatives/smart-nation-sensor-platform-snp.jpeg)
 # Using Data to Build a Better Future
 
 In this digital age, we’re surrounded by huge amounts of data. The question is how we can organise and tap on the most relevant data,  to plan and develop better solutions that will improve the way we live in our city. 
