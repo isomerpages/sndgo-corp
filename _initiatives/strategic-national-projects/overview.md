@@ -10,7 +10,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <br>
 <div class="row">  
   <div class="column-c"> 
-    <a href="/initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grants-gobusiness.png"></a><br>
+    <a href="/initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
     <div class="header"><b>Business Grants Portal & GoBusiness Licensing</b></div><br>
   </div>
    <div class="column-c"> 
@@ -24,7 +24,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 </div>
 <div class="row">  
   <div class="column-c"> 
-    <a href="/initiatives/strategic-national-projects/lifesg"><img src="/images/initiatives/lifesg-kv.jpg"></a><br>
+    <a href="/initiatives/strategic-national-projects/lifesg"><img src="/images/initiatives/lifesg.jpeg"></a><br>
     <div class="header"><b>LifeSG</b></div><br>
   </div>
 	 <div class="column-c"> 
@@ -32,7 +32,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
      <div class="header"><b>National Digital Identity</b></div><br>
 	</div>
   <div class="column-c"> 
-   <a href="/initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/punggol-digital-district.jpg"></a><br>
+   <a href="/initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/pdd.jpeg"></a><br>
     <div class="header"><b>Punggol Digital District</b></div><br>
   </div>     
 </div>
