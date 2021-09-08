@@ -3,7 +3,6 @@ title: Overview
 permalink: /initiatives/urban-living
 third_nav_title: Urban Living
 ---
-
 # Smart Urban Living
 
 Singapore’s limited land requires us to constantly find innovative solutions to improve our urban environment. This includes making our homes and estates cleaner, greener, safer and more sustainable.
@@ -23,14 +22,14 @@ The initiatives below outline how we aim to achieve this.
     <div class="para">We’re using drones to identify possible dengue hotspots and manage any outbreaks.</div>
   </div>
   <div class="column-c">  
-    <a href="/initiatives/urban-living/myenv-app"><img src="/images/initiatives/overview-pages/myenv-app.png"></a><br>
+    <a href="/initiatives/urban-living/myenv-app"><img src="/images/initiatives/overview-pages/myenv.jpeg"></a><br>
     <div class="header"><b>myENV App</b></div><br>
     <div class="para">A convenient tool to update the public on the latest environmental news, including PSI readings and dengue outbreak alerts.</div>
   </div>     
 </div>
 <div class="row">  
   <div class="column-c"> 
-    <a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice-app.png"></a><br>
+    <a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice.jpeg"></a><br>
     <div class="header"><b>OneService App</b></div><br>
     <div class="para">A convenient, one-stop platform for the public to report issues they come across in their neighbourhoods.</div>
   </div>
