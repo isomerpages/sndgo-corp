@@ -31,7 +31,7 @@ Ongoing trials allow us to study the potential of autonomous vehicles, and you c
 A* STAR’s self-driving vehicle was the first autonomous vehicle approved for public road testing at one-north in July 2015. This iconic vehicle has ferried Prime Minister Lee Hsien Loong and Cabinet ministers such as S. Iswaran, Vivian Balakrishnan as well as ministers from other countries.
 
 ### National University of Singapore (NUS) and the Singapore-MIT Alliance for Research and Technology (SMART)
-![SMART electric passenger car](/images/initiatives/SMART-SDV-r.jpg)
+![SMART electric passenger car](/images/initiatives/smart-nus.jpg)
 *(Image: SMART)*
 
 In collaboration with SMART, the team at NUS has designed working research prototypes that have been making the rounds around the campus. Riders can book them and select their desired pick-up and drop-off locations using their smartphones, much like an on-demand shuttle service.
