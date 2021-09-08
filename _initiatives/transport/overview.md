@@ -3,7 +3,6 @@ title: Overview
 permalink: /initiatives/transport
 third_nav_title: Transport
 ---
-
 # Transport in a Smart Nation 
 Currently, our Government has set aside 12% of our land area for roads and infrastructure. Considering our small land size, this is a significant percentage.
 
@@ -24,7 +23,7 @@ The initiatives below outline how we aim to achieve this.
     <div class="para">The CETRAN test circuit enables research and testing of self-driving vehicles before these officially hit the roads </div>
   </div>      
    <div class="column-c"> 
-    <a href="/initiatives/transport/contactless-fare-payment"><img src="/images/initiatives/overview-pages/contactless-fare-payments.png"></a><br>
+    <a href="/initiatives/transport/contactless-fare-payment"><img src="/images/initiatives/overview-pages/contactless-fare-payment.jpeg"></a><br>
      <div class="header"><b>Contactless Fare Payment</b></div><br>
     <div class="para">Our contactless fare payment system is constantly being refined to make commuting a breeze</div>
   </div>
