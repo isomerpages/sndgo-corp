@@ -3,7 +3,6 @@ title: Overview
 permalink: /initiatives/business
 third_nav_title: Business
 ---
-
 Businesses have a unique opportunity to grow and thrive in Singapore’s Digital Economy due to our competitive advantages. Not only are we well-connected to other major Asian economies, we have also built up an excellent infrastructure and access to technology, on top of a well-educated workforce. Beyond this, we’re looking to solve real-world problems and companies can use Singapore as a testbed, before bringing these to other markets.
 
 Learn how our business initiatives are helping companies here stay vibrant and competitive.
@@ -16,7 +15,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
     <div class="para">A secure log-in method for business to transact with the Government online.</div>
   </div>
    <div class="column-c"> 
-    <a href="/initiatives/business/dipo"><img src="/images/initiatives/overview-pages/dipo.png"></a><br>
+    <a href="/initiatives/business/dipo"><img src="/images/initiatives/overview-pages/dipo.jpeg"></a><br>
      <div class="header"><b>Data Innovation Programme Office</b></div><br>
     <div class="para">Provides flexibility to work with and share data to encourage innovation among private sector organisations.</div>
   </div>
