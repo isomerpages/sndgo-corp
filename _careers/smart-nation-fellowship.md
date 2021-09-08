@@ -22,4 +22,3 @@ You might be an experienced data scientist, engineer, applied researcher, or tec
 
 If these resonate, we’d love to hear from you. Apply now via [Careers@Gov](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Mapletree-Business-City-Block-10-Level-10/Smart-Nation-Fellowship-Programme_JR-10000000710) or email us at AreYouIT@tech.gov.sg.
 
-![smart nation fellowship infographics](/images/careers/sn-fellowship.jpeg)
