@@ -41,6 +41,22 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
+  <tr>  <tr>
+    <td style="width:30%">
+      <img src="/images/community/dementia-friends.jpg" alt="Dementia Friends">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://dementiafriendly.sg/" target="_blank">Dementia Friends</a><br>
+   <br>
+	To build a dementia-friendly Singapore, this app provides information and resources for supporting persons with dementia and their caregivers. People looking for missing loved ones can also ask for help on this platform. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/dementia-friends/id1398198593" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=aic.dfriends" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
   <tr>
 </table>
 
