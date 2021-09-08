@@ -4,7 +4,7 @@ permalink: /initiatives/transport/contactless-fare-payment
 third_nav_title: Transport
 ---
 # Breezing Through Public Transport
-![contactless payments on public transport](/images/initiatives/contactless-payment-transport.jpg)
+![contactless payments on public transport](/images/initiatives/overview-pages/contactless-fare-payment.jpeg)
 
 NFC technology has become such a big part of our daily lives. It allows us to transact seamlessly on the go via our mobile devices, electronic gadgets and contactless credit or debit cards. 
 
