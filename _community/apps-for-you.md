@@ -57,7 +57,24 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
+  <tr>  <tr>
+    <td style="width:30%">
+      <img src="/images/community/HealthHub.jpg" alt="HealthHub">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.healthhub.sg/" target="_blank">HealthHub</a><br>
+   <br>
+	Access your health records (including COVID-19 vaccination and test results), make medical appointments as well as track medication records with this handy app. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthhub-sg/id1034200875" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthhub" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
   <tr>
+
 </table>
 
 
