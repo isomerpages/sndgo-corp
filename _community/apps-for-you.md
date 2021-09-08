@@ -4,6 +4,34 @@ permalink: /community/apps-for-you
 ---
 ![Apps for you](/images/community/apps-for-you.png)
 
+## App-solutely Essential
+
+Want to register your child’s birth, check on the weather, report municipal issues or borrow an audio book? There’s an app for that. Check them out here.
+
+<table style="width:100%">
+  <tr>
+    <td style="width:30%">
+      <img src="/images/community/ActiveWallet.jpg" alt="Active Wallet">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App" target="_blank">ActiveWallet</a><br>
+   <br>
+	Book workouts and sporting facilities as well as receive incentives through exciting fitness challenges and campaigns with the app. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/activesg/id827595244" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.iapps.ssc" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+  </tr>
+  <tr>
+</table>
+
+
+
+**old text:**
 As we continue digitising Government services, some of them have evolved into mobile apps - making it more convenient.  
 
 Below is the list of mobile apps that various government agencies have created to help us make life smarter. 
