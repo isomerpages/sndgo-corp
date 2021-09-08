@@ -15,7 +15,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
     <div class="para">A secure log-in method for business to transact with the Government online.</div>
   </div>
    <div class="column-c"> 
-    <a href="/initiatives/business/dipo"><img src="/images/initiatives/overview-pages/dipo.jpeg"></a><br>
+    <a href="/initiatives/business/dipo"><img src="/images/initiatives/overview-pages/dipo2.jpeg"></a><br>
      <div class="header"><b>Data Innovation Programme Office</b></div><br>
     <div class="para">Provides flexibility to work with and share data to encourage innovation among private sector organisations.</div>
   </div>
