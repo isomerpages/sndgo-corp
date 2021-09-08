@@ -74,6 +74,22 @@ Want to register your child’s birth, check on the weather, report municipal is
       </div>  
     </td>
   <tr>
+		 <td style="width:30%">
+      <img src="/images/community/Healthy-365.jpg" alt="Healthy 365">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.healthhub.sg/rewards" target="_blank">Healthy 365</a><br>
+   <br>
+	The must-have app for the National Steps Challenge, an initiative encouraging Singaporeans to adopt a more active lifestyle. Healthy 365 also tracks one’s health and diet. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+  <tr>
 
 </table>
 
