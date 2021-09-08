@@ -14,7 +14,7 @@ Want to register your child’s birth, check on the weather, report municipal is
       <img src="/images/community/ActiveWallet.jpg" alt="Active Wallet">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App" target="_blank">ActiveWallet</a><br>
+      	<a href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App" target="_blank">ActiveSG</a><br>
    <br>
 	Book workouts and sporting facilities as well as receive incentives through exciting fitness challenges and campaigns with the app. <br>
 	<br>
@@ -44,7 +44,7 @@ Want to register your child’s birth, check on the weather, report municipal is
   <tr>
 </table>
 
-<br><br>
+
 
 **old text:**
 As we continue digitising Government services, some of them have evolved into mobile apps - making it more convenient.  
