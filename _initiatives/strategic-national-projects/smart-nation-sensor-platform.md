@@ -38,4 +38,4 @@ We started the Lamppost-as-a-Platform  trial in 2019 by placing sensors on lamp 
 
 We also plan to collect environmental data to learn how we are being affected by global warming.
 
-![Smart Lamp Posts](/images/initiatives/smart-lamp-post-govtech.png) <div style="width:50px">
+![Smart Lamp Posts](/images/initiatives/smart-lamp-post-govtech.png) 
