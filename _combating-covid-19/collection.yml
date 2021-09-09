@@ -2,6 +2,7 @@ collections:
   combating-covid-19:
     output: true
     order:
+      - public-health-solutions/.keep
       - informational-platforms/.keep
       - contact-tracing-and-management/.keep
       - contact-tracing-and-management/safeentry-at-public-transport-nodes.md
