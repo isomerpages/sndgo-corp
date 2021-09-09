@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - combating-covid-19-with-technology.md
-      - contact-tracing/.keep
-      - contact-tracing/suite-of-contact-tracing-and-management-tech.md
-      - contact-tracing/safeentry-at-public-transport-nodes.md
-      - contact-tracing/tracetogether-token-checking-pods.md
+      - improve-contact-tracing/.keep
+      - improve-contact-tracing/suite-of-contact-tracing-and-management-tech.md
+      - improve-contact-tracing/safeentry-at-public-transport-nodes.md
+      - improve-contact-tracing/tracetogether-token-checking-pods.md
       - public-health-solutions.md
       - providing-information-on-covid-19.md
       - providing-social-and-economic-support.md
