@@ -2,7 +2,6 @@ collections:
   combating-covid-19:
     output: true
     order:
-      - social-and-economic-support/.keep
       - contact-tracing-and-management/.keep
       - contact-tracing-and-management/safeentry-at-public-transport-nodes.md
       - contact-tracing-and-management/tracetogether-token-checking-pods.md
