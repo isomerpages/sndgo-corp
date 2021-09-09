@@ -4,5 +4,4 @@ collections:
     order:
       - contact-tracing-and-management/.keep
       - combating-covid-19-with-technology.md
-      - safeentry-at-public-transport-nodes.md
       - tracetogether-token-checking-pods.md
