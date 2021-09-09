@@ -31,6 +31,7 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
      <div class="header"><b>Providing Social and Economic Support</b></div><br>
   </div>
 
-	
+	  </div>
+
 |[**Contact-Tracing Tech**](#contact-tracing-tech) | [**Informational Websites and Platforms**](#informational-websites-and-platforms)|
 |
