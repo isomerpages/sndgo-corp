@@ -107,6 +107,21 @@ Want to register your child’s birth, check on the weather, report municipal is
       </div>  
     </td>
   <tr>    
+		<td style="width:30%">
+        <img src="/images/community/myresponder.jpg" alt="My responder banner">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.scdf.gov.sg/home/community-volunteers/mobile-applications" target="_blank">MyResponder</a><br>
+   <br>
+	Crowdsource for help during medical emergencies or report fires to the Singapore Civil Defence Force with the MyResponder app. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
 </table>
 
 
