@@ -127,7 +127,7 @@ Want to register your child’s birth, check on the weather, report municipal is
         <img src="/images/community/Mytransport.jpg" alt="MyTransport.SG">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.lta.gov.sg/" target="_blank">MyTransport.SG</a><br>
+      	MyTransport.SG<br>
    <br>
 	Go places with more useful travel information on public transport, receive notifications on MRT or traffic situations and plan your journeys with the MyTransport.SG app. <br>
 	<br>
@@ -212,7 +212,7 @@ Want to register your child’s birth, check on the weather, report municipal is
         <img src="/images/community/Police.jpg" alt="Police@SG">
     </td>	
     <td style="width:70%">
-      	Police@SG</a><br>
+      	Police@SG<br>
    <br>
 	Get access to information and online services offered by the Singapore Police Force as well as report suspected criminal activities with this app. <br>
 	<br>
