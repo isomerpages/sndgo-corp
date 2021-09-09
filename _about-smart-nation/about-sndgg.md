@@ -3,6 +3,7 @@ title: About SNDGG
 permalink: /about-smart-nation/sndgg
 ---
 
+
 # About Smart Nation and Digital Government Group
 
 
