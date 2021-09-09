@@ -9,7 +9,7 @@ Digital contact tracing solutions had to be swiftly conceptualised and implement
 
 With the help of the digital contact tracing tools – TraceTogether (TT) and SafeEntry, - we managed to reduce the average time to identify and quarantine close contacts from 4 days to less than 1.5 days.
 
-# SafeEntry
+# SafeEntry Programme
 
 SafeEntry is our national digital check-in system that logs the information of individuals who visit selected locations to support our contract tracing efforts.
 
