@@ -2,7 +2,7 @@
 title: Public Health Solutions
 permalink: /combating-covid-19/public-health-solutions
 ---
-![Alt text for image on Isomer site](/images/covid-19/COVID-19-tech-solutions.png)
+![Alt text for image on Isomer site](/images/covid-19/Covid-Public-Health-Solutions.jpg)
 
 Rolling out digital services to help with the management and containment of the virus was essential. The services had to be implemented keeping in mind that we will have to live with COVID-19 over the next few years. With the following solutions, we believe we can boost community preparedness and confidence to manage and pull through this challenging time.
 
