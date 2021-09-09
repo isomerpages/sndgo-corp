@@ -1,7 +1,8 @@
 ---
 title: Boost Community Preparedness and Confidence
-permalink: /combating-covid-19/public-health-solutions
+permalink: /combating-covid-19/community-preparedness
 ---
+
 
 ![Alt text for image on Isomer site](/images/covid-19/Covid-Public-Health-Solutions.jpg)
 
