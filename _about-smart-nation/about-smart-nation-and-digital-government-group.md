@@ -2,9 +2,7 @@
 title: About Smart Nation and Digital Government Group
 permalink: /about-smart-nation/sndgg
 ---
-
-
-# About Smart Nation and Digital Government Group
+# About SNDGG
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/SNDGO_Office_01.jpg)
 
