@@ -2,7 +2,6 @@ collections:
   combating-covid-19:
     output: true
     order:
-      - covid-19-tech/.keep
       - combating-covid-19-with-technology.md
       - safeentry-at-public-transport-nodes.md
       - tracetogether-token-checking-pods.md
