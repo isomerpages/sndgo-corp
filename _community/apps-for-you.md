@@ -212,7 +212,7 @@ Want to register your child’s birth, check on the weather, report municipal is
         <img src="/images/community/Police.jpg" alt="Police@SG">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.police.gov.sg/" target="_blank">Police@SG</a><br>
+      	Police@SG</a><br>
    <br>
 	Get access to information and online services offered by the Singapore Police Force as well as report suspected criminal activities with this app. <br>
 	<br>
