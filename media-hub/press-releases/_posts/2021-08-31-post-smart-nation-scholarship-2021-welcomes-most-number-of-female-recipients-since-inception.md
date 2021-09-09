@@ -5,7 +5,7 @@ date: 2021-08-31
 permalink: /media-hub/press-releases/sn-scholarship-2021
 layout: post
 ---
-**Smart Nation Scholarship 2021 Welcomes Most Number Of Female Recipients Since Inception**
+# Smart Nation Scholarship 2021 Welcomes Most Number Of Female Recipients Since Inception
 
 
 *Female scholars make up close to 40% of 2021 cohort*
@@ -39,7 +39,7 @@ layout: post
 
  
 
-8\.         Please refer to the full list of 14 scholars from the three agencies in Annex A  (PDF - 82KB).
+8\.         Please refer to the full list of 14 scholars from the three agencies in [Annex A](/files/press-releases/2021/annex-a-full-list-of-scholars-from-govtech-imda-and-csa.pdf)  (82KB).
 
  
 **JOINTLY ISSUED BY THE CYBER SECURITY AGENCY OF SINGAPORE, GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE, AND INFOCOMM MEDIA DEVELOPMENT AUTHORITY.**
