@@ -326,4 +326,3 @@ Want to register your child’s birth, check on the weather, report municipal is
       </div>  
     </td>
 <tr>
-</table>
