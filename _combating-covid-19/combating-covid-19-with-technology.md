@@ -18,7 +18,7 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
   </div>
    <div class="column-c"> 
     <a href="combating-covid-19/providing-information-on-covid19"><img src="/images/covid-19/COVID-19-informational-platforms.png"></a><br>
-     <div class="header"><b>Informational Websites and Platforms for COVID-19</b></div><br>
+     <div class="header"><b>Providing Information on COVID-19</b></div><br>
   </div>
  </div>
  <div class="row">  
