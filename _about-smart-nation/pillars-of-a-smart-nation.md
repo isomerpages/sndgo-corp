@@ -6,8 +6,9 @@ permalink: /about-smart-nation/pillars-of-smart-nation
 
 Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a Smart Nation, harnessing technology to transform how its people and businesses live, work and play.  
   
-The digital revolution is upon us, and Singapore must adapt and use technology to 
-harvest the benefits of digitalisation.
+The digital revolution is upon us, and Singapore must adapt and use technology to harvest the benefits of digitalisation.
+
+![Alt text for image on Isomer site](/images/covid-19/Smart-Nation-Ambassador_TraceTogether-01.jpg)
 
 ## Digital Society
 
