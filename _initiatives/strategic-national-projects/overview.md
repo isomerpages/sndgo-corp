@@ -16,16 +16,16 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <div class="column-b"> 
 <a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/Codex-snp.jpeg"></a><br>
 <div class="header"><b>CODEX</b></div><br>
+
 <div class="row">  
 <div class="column-b">  
 <a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg"></a><br>
 <div class="header"><b>E-Payments</b></div><br>
 </div>     
-</div>
-<div class="row">  
 <div class="column-b"> 
 <a href="/initiatives/strategic-national-projects/lifesg"><img src="/images/initiatives/lifesg.jpeg"></a><br>
 <div class="header"><b>LifeSG</b></div><br>
+
 <div class="row">  
 <div class="column-b"> 
 <a href="/initiatives/strategic-national-projects/national-digital-identity"><img src="/images/initiatives/Singpass-website.jpeg"></a><br>
@@ -34,7 +34,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <div class="column-b"> 
 <a href="/initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/pdd.jpeg"></a><br>
 <div class="header"><b>Punggol Digital District</b></div><br>     
-</div>
+
 <div class="row">  
 <div class="column-b"> 
 <a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/smart-nation-sensor-platform-snp.jpeg"></a><br>
