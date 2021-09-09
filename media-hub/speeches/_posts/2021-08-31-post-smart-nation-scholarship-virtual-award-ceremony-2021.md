@@ -15,7 +15,7 @@ Chief Executives of CSA, GovTech and IMDA,
 Scholarship Recipients.
 
 
-INTRODUCTION
+### INTRODUCTION
 
  
 
@@ -29,7 +29,7 @@ INTRODUCTION
 
  
 
-CHALLENGES FACED IN OUR SMART NATION JOURNEY
+### CHALLENGES FACED IN OUR SMART NATION JOURNEY
 
  
 
@@ -65,7 +65,7 @@ c. Third, we need to keep Singapore vibrant and competitive. For example, our in
 
  
 
-ROLES AND EXPECTATIONS OF OUR DIGITAL TECH TALENT
+### ROLES AND EXPECTATIONS OF OUR DIGITAL TECH TALENT
 
  
 
@@ -101,7 +101,7 @@ e. You will be expected to apply your technical and leadership skills to lead ex
 
  
 
-MOST NUMBER OF FEMALE RECIPIENTS SINCE INCEPTION
+### MOST NUMBER OF FEMALE RECIPIENTS SINCE INCEPTION
 
  
 
@@ -133,7 +133,7 @@ c. I hope the record can be broken for several years more.
 
  
 
-CONCLUSION
+### CONCLUSION
 
  
 
