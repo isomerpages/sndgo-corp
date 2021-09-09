@@ -20,11 +20,11 @@ Displaying their TT Token for venue staff to scan the TT Token’s QR code;
 Tapping their TT App or TT Token at a SafeEntry Gateway device.
 With SafeEntry, we can log the individuals' entry and exit times to a location to have a complete picture of how far the virus can spread and allow the health authorities to understand the virus transmission better.
 
-For information on SafeEntry at public transport nodes, click here.
+For information on SafeEntry at public transport nodes, click [here](/combating-covid-19/safeentrytransportnodes).
 
 # TraceTogether Programme
 
-The TraceTogether Programme supports Singapore's digital contact tracing effort in the fight against COVID-19. It comprises the TraceTogether App and TraceTogether Token, and both the App and Token work by using Bluetooth signals to record other nearby TraceTogether devices.
+The [TraceTogether Programme](https://tracetogether.gov.sg) supports Singapore's digital contact tracing effort in the fight against COVID-19. It comprises the TraceTogether App and TraceTogether Token, and both the App and Token work by using Bluetooth signals to record other nearby TraceTogether devices.
 
 The App was launched on 20 March 2020, while the engineers worked on the Token to ensure that everyone could participate in the program, even if they did not use a smartphone. The Token was launched in June 2020 and distributed to 10,000 senior citizens before nation-wide distribution kicked off in September 2020.
 
