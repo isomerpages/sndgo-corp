@@ -15,19 +15,19 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
 <div class="row">  
   <div class="column-b"> 
     <a href="/combating-covid-19/contact-tracing"><img src="/images/covid-19/Covid-Contact-Tracing.jpg"></a><br>
-    <div class="header"><b>Suite of Contact Tracing and Management Tech </b></div><br>
+    <div class="header"><b>Improve Speed and Accuracy of Contact Tracing</b></div><br>
   </div>
   	<div class="column-b"> 
-      <a href="/combating-covid-19/social-economic-support">  <img src="/images/covid-19/Covid-Social-and-Economic-Support.jpg"></a><br>
-      <div class="header"><b>Public Health Solutions </b></div>  <br>
+      <a href="/combating-covid-19/community-preparedness">  <img src="/images/covid-19/Covid-Public-Health-Solutions.jpg"></a><br>
+      <div class="header"><b>Boost Community Preparedness and Confidence</b></div>  <br>
   </div>
  </div>
  <div class="row">  
      <div class="column-b"> 
-    <a href="combating-covid-19/providing-information-on-covid19"><img src="/images/covid-19/Covid-Providing-Information.jpg"></a><br>
-     <div class="header"><b>Providing Information on COVID-19</b></div><br>
+    <a href="/combating-covid-19/ensure-verified-information"><img src="/images/covid-19/Covid-Providing-Information.jpg"></a><br>
+     <div class="header"><b>Ensure Flow of Verified Information</b></div><br>
   </div>
      <div class="column-b"> 
-      <a href="/combating-covid-19/public-health-solutions">  <img src="/images/covid-19/Covid-Public-Health-Solutions.jpg"></a><br>
-       <div class="header"><b>Providing Social and Economic Support</b></div><br>
+      <a href="//combating-covid-19/economic-social-support">  <img src="/images/covid-19/Covid-Social-and-Economic-Support.jpg"></a><br>
+       <div class="header"><b>Provide Economic and Social Support</b></div><br>
   </div>
