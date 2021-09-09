@@ -3,9 +3,7 @@ title: Improving Speed and Accuracy of Contact Tracing
 permalink: /combating-covid-19/contact-tracing
 third_nav_title: Improve Contact Tracing
 ---
-
-
-![Alt text for image on Isomer site](/images/covid-19/COVID-19-contact-tracing-and-management.png)
+![Alt text for image on Isomer site](/images/covid-19/Covid-Contact-Tracing.jpg)
 
 Digital contact tracing solutions had to be swiftly conceptualised and implement as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
 
