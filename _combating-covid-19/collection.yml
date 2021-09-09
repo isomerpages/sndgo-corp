@@ -4,7 +4,6 @@ collections:
     order:
       - social-and-economic-support/.keep
       - public-health-solutions/.keep
-      - informational-platforms/.keep
       - contact-tracing-and-management/.keep
       - contact-tracing-and-management/safeentry-at-public-transport-nodes.md
       - contact-tracing-and-management/tracetogether-token-checking-pods.md
