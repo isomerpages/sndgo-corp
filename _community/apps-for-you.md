@@ -112,7 +112,7 @@ Want to register your child’s birth, check on the weather, report municipal is
       <img src="/images/community/myenv.png" alt="my env banner">
     </td>	
     <td style="width:70%">
-      	myENV<br>
+      	**myENV**<br>
    <br>
 	Hungry and looking for a nearby hawker centre? Want to be updated on dengue outbreaks in your neighbourhood or when the air quality turns bad? myENV is your go-to app. <br>
 	<br>
@@ -144,7 +144,7 @@ Want to register your child’s birth, check on the weather, report municipal is
         <img src="/images/community/Mytransport.jpg" alt="MyTransport.SG">
     </td>	
     <td style="width:70%">
-      	MyTransport.SG<br>
+      	<b>MyTransport.SG</b><br>
    <br>
 	Go places with more useful travel information on public transport, receive notifications on MRT or traffic situations and plan your journeys with the MyTransport.SG app. <br>
 	<br>
@@ -229,7 +229,7 @@ Want to register your child’s birth, check on the weather, report municipal is
         <img src="/images/community/Police.jpg" alt="Police@SG">
     </td>	
     <td style="width:70%">
-      	Police@SG<br>
+      	<b>Police@SG</b><br>
    <br>
 	Get access to information and online services offered by the Singapore Police Force as well as report suspected criminal activities with this app. <br>
 	<br>
