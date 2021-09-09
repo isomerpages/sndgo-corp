@@ -4,7 +4,7 @@ collections:
     order:
       - combating-covid-19-with-technology.md
       - improve-contact-tracing/.keep
-      - improve-contact-tracing/improving-speed-and-accuracy-of-contact-tracing.md
+      - improve-contact-tracing/improve-speed-and-accuracy-of-contact-tracing.md
       - improve-contact-tracing/safeentry-at-public-transport-nodes.md
       - improve-contact-tracing/tracetogether-token-checking-pods.md
       - boost-community-preparedness-and-confidence.md
