@@ -4,6 +4,7 @@ permalink: /careers/smart-nation-fellowship
 ---
 # Help Build Our Smart Nation, Together
 
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ThfGBUqwzyA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our journey to build a Smart Nation would not be possible without talented, creative and visionary individuals. 
@@ -21,4 +22,3 @@ You might be an experienced data scientist, engineer, applied researcher, or tec
 * Part-time consultancy can be arranged according to your schedule
 
 If these resonate, we’d love to hear from you. Apply now via [Careers@Gov](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Mapletree-Business-City-Block-10-Level-10/Smart-Nation-Fellowship-Programme_JR-10000000710) or email us at AreYouIT@tech.gov.sg.
-
