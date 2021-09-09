@@ -90,7 +90,23 @@ Want to register your child’s birth, check on the weather, report municipal is
       </div>  
     </td>
   <tr>
-
+<tr>    
+<td style="width:30%">
+      <img src="/images/community/LifeSG-Banner.png" alt="Life SG banner">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.life.gov.sg/" target="_blank">LifeSG</a><br>
+   <br>
+	Whether you’re a new parent or an elderly citizen, get personalised Government services and information in a timely manner. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+  <tr>    
 </table>
 
 
