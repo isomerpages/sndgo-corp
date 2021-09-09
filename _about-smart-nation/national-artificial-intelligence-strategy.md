@@ -7,15 +7,33 @@ As a Smart Nation, we want to go beyond just adopting technology. Our aim is to 
 
 By 2030, we see Singapore as a leader in developing and deploying scalable, impactful artificial intelligence (AI) solutions, in key sectors of high value and relevance to our citizens and businesses.
 
-Read more about our [National Artificial Intelligence Strategy here. (2.7mb)](/files/publications/national-ai-strategy-summary.pdf)
 
 ## National Artificial Intelligence Strategy
 
-The [National AI Strategy (2.7mb)](files/publications/national-ai-strategy.pdf) outlines our plans to deepen the use of AI to transform our economy:
+
+
+The National AI Strategy outlines our plans to deepen the use of AI to transform our economy:
 
  - Identify areas to focus attention and resources on at a national level
  - Set out how the Government, companies and researchers can work together to realise the positive impact from AI
  - Address areas where attention is needed to manage change and/or manage new forms of risks that emerge when AI becomes more pervasive
+
+<div style="width:50%"> 
+National AI Strategy (9.2mb)
+</div>
+<div style="width:50%"> 
+ <a href="/files/publications/national-ai-strategy.pdf"><img src="/images/abt-smart-nation/national-ai-strategy-cover.jpg"></a>
+</div>
+
+<br>
+
+<div style="width:50%"> 
+ National AI Strategy - Summary (2.6mb)
+</div>
+<div style="width:50%"> 
+ <a href="/files/publications/national-ai-strategy-summary.pdf"><img src="/images/abt-smart-nation/national-ai-strategy-summary-cover.jpg"></a>
+</div>
+
 
 ## Building a Vibrant Ecosystem for Sustained AI Innovation
 
