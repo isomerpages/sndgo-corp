@@ -241,6 +241,23 @@ Want to register your child’s birth, check on the weather, report municipal is
       </div>  
     </td>
 <tr>
+	    <tr>
+<td style="width:30%">
+        <img src="/images/community/SGBioAtlas.jpg" alt="SG Bio Altas">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.nparks.gov.sg/news/2015/4/nparks-biodiversity-databases" target="_blank">SGBioAltas</a><br>
+   <br>
+	Spotted an interesting bird species? Contribute to Singapore’s biodiversity database by sharing your sightings using the app. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/sgbioatlas/id975080923" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nparks.BiodiversityApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+<tr>
 </table>
 
 
