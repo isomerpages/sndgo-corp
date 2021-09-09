@@ -258,6 +258,57 @@ Want to register your child’s birth, check on the weather, report municipal is
       </div>  
     </td>
 <tr>
+	    <tr>
+<td style="width:30%">
+        <img src="/images/community/SGSecure.jpg" alt="SG Secure">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.sgsecure.gov.sg" target="_blank">SGSecure</a><br>
+   <br>
+	Report suspicious sightings and get emergency alerts with SGSecure. Pick up tips on protecting yourself and others during terrorist attacks and other emergency situations. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/sgsecure/id1095191664" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.ministryofhomeaffairs.sgsecure.mhasg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+<tr>
+    <tr>
+<td style="width:30%">
+            <img src="/images/initiatives/Singpass-website.jpeg" alt="Singpass Mobile">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://app.singpass.gov.sg/" target="_blank">Singpass</a><br>
+   <br>
+	The Singpass app provides a secure, convenient way for users to log into Government digital services with their fingerprint, facial recognition or six-digit passcode. Access your digital IC, driving licence and more via MyInfo using the app.  <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/us/app/singpass-mobile/id1340660807" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+<tr>
+    <tr>
+<td style="width:30%">
+            <img src="/images/community/SingStat.jpg" alt="SingStat mobile app">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.singstat.gov.sg/our-services-and-tools/singstat-mobile-app" target="_blank">SingStat</a><br>
+   <br>
+	The Singpass app provides a secure, convenient way for users to log into Government digital services with their fingerprint, facial recognition or six-digit passcode. Access your digital IC, driving licence and more via MyInfo using the app.  <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/singstat/id935197005" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.singstat" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+<tr>
 </table>
 
 
