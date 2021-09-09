@@ -173,6 +173,74 @@ Want to register your child’s birth, check on the weather, report municipal is
       </div>  
     </td>
 <tr>
+	<tr>
+<td style="width:30%">
+        <img src="/images/community/OneService.jpg" alt="One Service">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.oneservice.gov.sg/" target="_blank">OneService</a><br>
+   <br>
+	Find parking, book facilities or report issues in your neighbourhood with the convenience of this community platform. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/oneservice/id947274394" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+<tr>
+    <tr>
+<td style="width:30%">
+        <img src="/images/community/Parents-Gateway.jpg" alt="Parents Gateway">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://pg.moe.edu.sg/faq" target="_blank">Parents Gateway</a><br>
+   <br>
+	A one-stop mobile app for parents and schools to better support their child's educational journey, with timely notifications and more convenient consent-giving for school activities. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.moe.pgp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+<tr>
+    <tr>
+<td style="width:30%">
+        <img src="/images/community/Police.jpg" alt="Police@SG">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://pg.moe.edu.sg/faq" target="_blank">Police@SG</a><br>
+   <br>
+	Get access to information and online services offered by the Singapore Police Force as well as report suspected criminal activities with this app. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/police-sg/id472603758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.spf.policesg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+<tr>
+    <tr>
+<td style="width:30%">
+        <img src="/images/community/ParkingSG.jpg" alt="Parking.sg">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.parking.sg/" target="_blank">Parking.sg</a><br>
+   <br>
+	Parking coupons be gone with Parking.sg as motorists can pay for parking via the app – and be notified when parking sessions are about to end to avoid the dreaded summon. <br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/vn/app/parking-sg/id1286602494" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
+          </div>
+      </div>  
+    </td>
+<tr>
 </table>
 
 
