@@ -20,19 +20,19 @@ As part of the PSDSRC recommendation to provide the public with more information
 
 **Find out more about the Government’s key personal data protection policies in the document below:**
 
-<div style="width:50%"> 
+<div style="width:40%"> 
  Government’s Key Personal Data Protection Policies (5.8mb)
 </div>
-<div style="width:50%"> 
+<div style="width:40%"> 
  <a href="/files/publications/government-personal-data-protection-policies-jul21.pdf" target="_blank"><img src="/images/abt-smart-nation/government-personal-data-protection-policies-apr2020.jpeg"></a>
 </div>
 
 **Find out more about the Government’s key data security policies in the document below:**
 
-<div style="width:50%"> 
+<div style="width:40%"> 
  Government’s Key Data Security Policies (606kb)
 </div>
-<div style="width:50%"> 
+<div style="width:40%"> 
  <a href="/files/publications/government-data-security-policies.pdf" target="_blank"><img src="/images/abt-smart-nation/government-data-security-policies.jpeg"></a>
 </div>
 
@@ -44,7 +44,8 @@ The Government recognises that Agencies work extensively with Third Parties to d
 
 With this in mind, the Government has introduced policies to guide Agencies in ensuring that Third Parties adequately safeguard data. These policies are organised based on the lifecycle of the relationship between the Agency and the Third Party, namely: Evaluation and Selection, Contracting and On-boarding, Service Management and Transition Out (as shown in Diagram below). When working with Third Parties, Agencies will define the data security requirements that each Third Party has to comply with based on the Government’s data security policies.
 
-![Third party management framework](/images/abt-smart-nation/pdp-third-party-framework.png)
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:75%;height:75%;"><img src="/images/abt-smart-nation/pdp-third-party-framework.png"></a></div></div>
+
 
 <hr>
 A **Third Party** is defined as a party (other than a **data subject[^1]** or an **Agency[^2]**) which
@@ -57,9 +58,9 @@ A **Third Party** is defined as a party (other than a **data subject[^1]** or an
 
 **Find out more about the key policies that govern how agencies work with its third parties to safeguard data in the document below:**
 
-<div style="width:50%"> 
+<div style="width:40%"> 
  Key Policies of the Government's Third-Party Management Framework (1.2mb)
 </div>
-<div style="width:50%"> 
+<div style="width:40%"> 
  <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"><img src="/images/abt-smart-nation/key-policies-third-party-framework.jpeg"></a>
 </div>
