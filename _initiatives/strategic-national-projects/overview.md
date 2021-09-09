@@ -21,7 +21,9 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
         <a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg"></a><br>
         <div class="header"><b>E-Payments</b></div><br>
       </div>
-</div>  <div class="row">  
+</div>
+
+<div class="row">  
 	<div class="column-c">
     <a href="/initiatives/strategic-national-projects/lifesg"><img src="/images/initiatives/lifesg.jpeg"></a><br>
     <div class="header"><b>LifeSG</b></div><br>
