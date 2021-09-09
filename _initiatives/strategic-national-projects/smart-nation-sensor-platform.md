@@ -22,7 +22,7 @@ At the end of 2018, we completed a wireless sensor network trial to collect wate
 
 We are conducting a pilot at our public swimming pools to use computer vision to detect possible drowning incidents.  The system helps to alert lifeguards so they can react faster to swimmers in distress and those in need.
 
-![Alt text for image on Isomer site](/images/Computer-vision-drowning-SNSP.jpg)
+![Alt text for image on Isomer site](/images/initiatives/Computer-vision-drowning-SNSP.jpg)
 
 **Personal Alert Button for Elderly**
 
@@ -38,4 +38,4 @@ We started the Lamppost-as-a-Platform  trial in 2019 by placing sensors on lamp 
 
 We also plan to collect environmental data to learn how we are being affected by global warming.
 
-![Smart Lamp Posts](/images/initiatives/smart-lamp-post-govtech.png)
+![Smart Lamp Posts](/images/initiatives/smart-lamp-post-govtech.png) <div style="width:50%;height:50%;">
