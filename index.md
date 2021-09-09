@@ -40,7 +40,7 @@ sections:
       description: Find out why the Punggol Digital District is the place to be!
       button: Read more about it
       url: /initiatives/strategic-national-projects/punggol-digital-district
-      image: /images/initiatives/punggol-digital-district.jpg
+      image: /images/initiatives/pdd.jpeg
       alt: Punggol Digital District
 notification: ""
 ---
