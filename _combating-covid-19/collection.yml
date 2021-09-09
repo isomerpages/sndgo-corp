@@ -4,6 +4,6 @@ collections:
     order:
       - combating-covid-19-with-technology.md
       - contact-tracing/.keep
-      - contact-tracing/contact-tracing-and-management-tech.md
+      - contact-tracing/suite-of-contact-tracing-and-management-tech.md
       - contact-tracing/safeentry-at-public-transport-nodes.md
       - contact-tracing/tracetogether-token-checking-pods.md
