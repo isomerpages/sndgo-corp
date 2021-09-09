@@ -2,8 +2,7 @@
 title: Provide Economic and Social Support
 permalink: /combating-covid-19/economic-social-support
 ---
-
-![Alt text for image on Isomer site](/images/covid-19/COVID-19-economic-support.png)
+![Alt text for image on Isomer site](/images/covid-19/Covid-Social-and-Economic-Support.jpg)
 
 Many different issues and concerns arose as a result of the pandemic. Due to the economic crisis, jobs were lost or salaries reduced. Students had to settle for home-based learning.
 
