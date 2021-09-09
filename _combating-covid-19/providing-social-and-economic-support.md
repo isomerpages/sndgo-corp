@@ -10,7 +10,7 @@ As such, platforms were quickly set up to assist with the various changes – su
 
 # COVID-19 GoBusiness portal
 
-The GoBusiness platform for business was used as a one-stop portal to provide businesses with information on safe management requirements and to apply to resume operations.
+The [GoBusiness platform](https://covid.gobusiness.gov.sg/) for business was used as a one-stop portal to provide businesses with information on safe management requirements and to apply to resume operations.
 
 # COVID-19 Support Grant (CSG) application portal
 
@@ -20,11 +20,11 @@ CSG was replaced with the COVID-19 Recovery Grant (CRG) with revised eligibility
 
 # COVID-19 Recovery Grant (CRG) application portal
 
-Launched in January 2021, it is to continue the support to workers who need some temporary financial help. The Grant focuses on workers in lower- to middle-income households who are presently experiencing involuntary job loss and will be open for application until 31 December 2021.
+Launched in January 2021, [CRG](https://msf-csg.gov.sg/preinstruction/crg) is to continue the support to workers who need some temporary financial help. The Grant focuses on workers in lower- to middle-income households who are presently experiencing involuntary job loss and will be open for application until 31 December 2021.
 
 # SupportGoWhere 
 
-SupportGoWhere, a LifeSG initiative, provides citizens with a single portal to determine which assistance schemes they would be eligible for. It also has an Eligibility Checker, which lists the schemes that might be available to you when you answer a few questions.
+[SupportGoWhere](https://supportgowhere.life.gov.sg/), a LifeSG initiative, provides citizens with a single portal to determine which assistance schemes they would be eligible for. It also has an Eligibility Checker, which lists the schemes that might be available to you when you answer a few questions.
 
 # Student Learning Space
 
