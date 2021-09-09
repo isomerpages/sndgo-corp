@@ -17,8 +17,8 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
     <div class="header"><b>Suite of Contact Tracing and Management Tech </b></div><br>
   </div>
    <div class="column-c"> 
-    <a href="combating-covid-19/informational-sites-platforms"><img src="/images/covid-19/COVID-19-informational-platforms.png"></a><br>
-     <div class="header"><b>Informational Websites and Platforms</b></div><br>
+    <a href="combating-covid-19/providing-information-on-covid19"><img src="/images/covid-19/COVID-19-informational-platforms.png"></a><br>
+     <div class="header"><b>Informational Websites and Platforms for COVID-19</b></div><br>
   </div>
  </div>
  <div class="row">  
