@@ -1,7 +1,8 @@
 ---
 title: Ensure Flow of Verified Information
-permalink: /combating-covid-19/providing-information
+permalink: /combating-covid-19/ensure-verified-information
 ---
+
 ![Alt text for image on Isomer site](/images/covid-19/Covid-Providing-Information.jpg)
 
 With the rapidly changing situation at the start of the pandemic, there was a critical need to ensure that the members of the public receive verified information to ensure that citizens are well-informed. After the initial anxiety had calmed down, the need for verified information is crucial to provide the public assurances that information is accurate with multiple sources of information.
