@@ -13,7 +13,7 @@ CODEX comprises:
 * **Shifting less sensitive government systems and data to commercial cloud services** and tapping on these resources to better develop digital services.
 * **A Singapore Government Technology Stack (SGTS)** that includes a suite of shared software components and infrastructure to enable more efficient and focused building of digital applications.
 
-![CODEX infograhic](/images/initiatives/CODEX.jpeg)
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:400px;height:600px;"><img src="/images/initiatives/CODEX.jpeg"></a></div></div>
 
 ## How CODEX Makes a Difference
 
