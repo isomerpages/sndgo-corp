@@ -65,10 +65,12 @@ Check out the resources available for [individuals](/community/opportunities) an
 
 #### Cross-border Collaboration
 
-![ASEAN Smart Cities Network](/images/abt-smart-nation/ASEAN-Smart-Cities-Network.jpg)
 
 One way for us to grow is through sharing good ideas and best practices, exploring collaborations, and testing people-centric smart solutions within the region.
 
 The <a href="https://asean.org/asean/asean-smart-cities-network/" target="_blank">ASEAN Smart Cities Network (ASCN)</a> was established in 2018, offering a platform for ASEAN cities to exchange ideas and solutions to catalyse smart city projects.
+
+<br>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:75%;height:75%;"><img src="/images/abt-smart-nation/ASEAN-Smart-Cities-Network.jpg"></a></div></div>
 
 The goal is to improve the lives of people in the region, using technology as an enabler. ASCN provides us with the unique opportunity to quickly leverage opportunities from rapid urbanisation, as well as build a strong defence against cyber threats and trade friction that the region faces.
