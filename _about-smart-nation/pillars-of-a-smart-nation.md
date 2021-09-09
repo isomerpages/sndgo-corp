@@ -20,9 +20,9 @@ Whether you’re young or old, tech-savvy or not, the aim is for every Singapore
 * By helping the local community and businesses drive widespread adoption of technology
 * By designing inclusive digital services
 
-<div style="width:50%"> 
+<div style="width:40%"> 
  </div>
-<div style="width:50%"> 
+<div style="width:40%"> 
  <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint"><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png"></a>
 </div>
 
@@ -37,10 +37,10 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
 * Develop an ecosystem to help businesses stay vibrant and competitive
 * Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
 
-<div style="width:50%"> 
+<div style="width:40%"> 
  Digital Economy Framework for Action (4.31mb)
 </div>
-<div style="width:50%"> 
+<div style="width:40%"> 
  <a href="/files/abt-smart-nation/SGD Framework For Action.pdf"><img src="/images/abt-smart-nation/Digital-Economy-Framework2.png"></a>
 </div>
 
