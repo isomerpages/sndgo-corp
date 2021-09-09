@@ -2,8 +2,6 @@
 title: "Pillars Of A Smart Nation "
 permalink: /about-smart-nation/pillars-of-smart-nation
 ---
-
-
 # Three Pillars of a Smart Nation
 
 Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a Smart Nation, harnessing technology to transform how its people and businesses live, work and play.  
@@ -50,6 +48,8 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
 
 Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
 
+![Alt text for image on Isomer site](/images/abt-smart-nation/Digital-Government.jpeg)
+
 The [**Digital Government Blueprint (277kb)**](/files/publications/dgb-public-document_30dec20.pdf)  details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.  
 
 New policies and initiatives are continually being added to the Digital Government Blueprint (DGB) to help us chart the fast-changing tides of tech and world events. For example, our ongoing drive to enhance our tech capabilities allowed us to pivot quickly and develop digital tools for contact tracing and the safe re-opening of Singapore’s economy amid the COVID-19 pandemic.
@@ -71,7 +71,6 @@ The blueprint’s strategies have been updated to place more emphasis on users�
 **4. Setting a future direction in light of COVID-19**  
 The pandemic has given renewed impetus for government agencies to digitalise, including making deeper changes in organisational policy, structure and culture. 
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/Digital-Government.jpeg)
 
 ### The progress so far
 Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2019:
