@@ -10,6 +10,14 @@ permalink: /about-smart-nation/transforming-singapore
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
+<div style="width:100%"> 
+ Smart Nation Benefits Infographic - 26 Feb 2021 (3.1mb)
+</div>
+<div style="width:100%"> 
+ <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"><img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg"></a>
+</div>
+
+
 Our vision for a digital-first Singapore is one where a Digital Government, Digital Economy and Digital Society harness technology to effect transformation in  health, transport, urban living, government services and businesses.
 
 Our Digital Government continues to invest in infrastructure and create shared open platforms for our businesses and citizens to learn and develop. 
@@ -20,14 +28,7 @@ Our Digital Society empowers individuals to cultivate their talents and arm them
 
 The Smart Nation initiative is our way forward. Technology will be so seamlessly integrated that it will transform the way we work, live and play.
 
-<div style="width:100%"> 
- Smart Nation Benefits Infographic - 26 Feb 2021 (3.1mb)
-</div>
-<div style="width:100%"> 
- <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"><img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg"></a>
-</div>
 
-<br>
 
 Learn more about the framework guiding our Smart Nation initiative: [Smart Nation: The Way Forward(1.4mb)](/files/publications/smart-nation-strategy-nov2018.pdf).
 
