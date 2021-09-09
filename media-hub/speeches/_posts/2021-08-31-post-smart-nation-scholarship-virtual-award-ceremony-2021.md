@@ -4,16 +4,7 @@ date: 2021-08-31
 permalink: /media-hub/speeches/sn-scholarship-2021
 layout: post
 ---
- CONGRATULATORY SPEECH BY GUEST-OF-HONOUR
-
-JOSEPHINE TEO
-
-MINISTER FOR COMMUNICATIONS AND INFORMATION, AND MINISTER-IN-CHARGE OF SMART NATION AND CYBERSECURITY
-
-AT THE SMART NATION SCHOLARSHIP
-VIRTUAL AWARD CEREMONY ON
-
-31 AUGUST 2021
+# Speech by Minister for Communications and Information, and Minister-in-Charge of Smart Nation and Cybersecurity Mrs Josephine Teo at The Smart Nation Scholarship Virtual Award Ceremony on 31 Aug 2021
 
  
 
