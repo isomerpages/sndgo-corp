@@ -21,7 +21,6 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
         <a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg"></a><br>
         <div class="header"><b>E-Payments</b></div><br>
       </div>
-</div>
 
 <div class="row">  
   <div class="column-c"> 
@@ -36,7 +35,6 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
         <a href="//initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/pdd.jpeg"></a><br>
         <div class="header"><b>Punggol Digital District</b></div><br>
       </div>
-</div>
 
 <div class="row">  
   <div class="column-c"> 
@@ -47,4 +45,3 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
     <a href="/initiatives/strategic-national-projects/smart-urban-mobility"><img src="/images/initiatives/smart-urban-mobility.jpg"></a><br>
     <div class="header"><b>Smart Urban Mobility</b></div><br>
   </div>
-</div>
