@@ -27,7 +27,7 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
     <div class="header"><b>Public Health Solutions </b></div><br>
   </div>
    <div class="column-c"> 
-    <a href="/initiatives/strategic-national-projects/codex"><img src="/images/covid-19/COVID-19-economic-support.png"></a><br>
+    <a href="/combating-covid-19/public-health-solutions"><img src="/images/covid-19/COVID-19-economic-support.png"></a><br>
      <div class="header"><b>Providing Social and Economic Support</b></div><br>
   </div>
 
