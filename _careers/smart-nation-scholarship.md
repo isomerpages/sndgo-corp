@@ -3,7 +3,8 @@ title: Smart Nation Scholarship
 permalink: /careers/smart-nation-scholarship
 ---
 # Do You Have What It Takes?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N7KhQH84sXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tER0COx2WxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Are you passionate about technology? Are you driven by the desire to create digital solutions that can transform our society, economy and government?
 
@@ -36,4 +37,3 @@ To qualify, you must be:
 ## How to Apply:
 
 The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="http://Go.gov.sg/smartnationscholarship" target="_blank">Go.gov.sg/smartnationscholarship</a> for the full details or email scholarship@smartnation.gov.sg.
-
