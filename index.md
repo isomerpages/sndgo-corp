@@ -25,14 +25,14 @@ sections:
       description: Share your feedback on digital Government services via SCOPE
       button: Find out more
       url: /community/scope
-      image: /images/Infopix-SCOPE.png
+      image: /images/community/SmartNationAmbassador01.jpg
       alt: SCOPE - Co-create with us
   - infopic:
       title: Combating COVID-19
       description: Learn how Singapore managed the pandemic effectively with technology
       button: Read More Here
       url: /covid-19/covid-19-tech
-      image: /images/Infopix-Covid-19.png
+      image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
       alt: "Covid-19 Technology "
   - infopic:
       title: Punggol Digital District
