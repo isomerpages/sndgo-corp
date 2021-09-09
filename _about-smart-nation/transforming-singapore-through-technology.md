@@ -4,7 +4,7 @@ permalink: /about-smart-nation/transforming-singapore
 ---
 # Transforming Singapore Through Technology
 
-![COS Infographics 2021](/images/abt-smart-nation/transforming-sg-through-tech-2021.jpeg)
+![Alt text for image on Isomer site](/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg)
 ###### Smart Nation Benefits Infographic as of 26 Feb 2021
 
 [Download the Smart Nation Benefits Infographic - 26 Feb 2021 (3.1mb)](/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf)
