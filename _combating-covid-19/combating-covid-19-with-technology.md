@@ -20,8 +20,6 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
     <a href="/initiatives/strategic-national-projects/codex"><img src="/images/covid-19/COVID-19-informational-platforms.png"></a><br>
      <div class="header"><b>Informational Websites and Platforms</b></div><br>
   </div>
-
-<br>
 <div class="row">  
   <div class="column-c"> 
     <a href="/initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/covid-19/COVID-19-tech-solutions.png"></a><br>
@@ -32,5 +30,6 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
      <div class="header"><b>Providing Social and Economic Support</b></div><br>
   </div>
 
+	
 |[**Contact-Tracing Tech**](#contact-tracing-tech) | [**Informational Websites and Platforms**](#informational-websites-and-platforms)|
 |
