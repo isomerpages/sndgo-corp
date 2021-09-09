@@ -8,7 +8,7 @@ layout: post
 **Smart Nation Scholarship 2021 Welcomes Most Number Of Female Recipients Since Inception**
 
 
-Female scholars make up close to 40% of 2021 cohort
+*Female scholars make up close to 40% of 2021 cohort*
 
 
 1\.         With the goal of nurturing our future leaders in technology, the Smart Nation Scholarship was presented to 14 recipients this year. Among them were five female recipients, the largest batch of female Smart Nation Scholarship recipients to date, reflecting an increased interest amongst them to contribute to Singapore’s digital and technology development. Since its launch in 2018, the Smart Nation Scholarship has been awarded to 12 female recipients in total.
