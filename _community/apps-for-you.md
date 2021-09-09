@@ -112,7 +112,7 @@ Want to register your child’s birth, check on the weather, report municipal is
       <img src="/images/community/myenv.png" alt="my env banner">
     </td>	
     <td style="width:70%">
-      	**myENV**<br>
+     <a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app " target="_blank">myENV</a><br>
    <br>
 	Hungry and looking for a nearby hawker centre? Want to be updated on dengue outbreaks in your neighbourhood or when the air quality turns bad? myENV is your go-to app. <br>
 	<br>
