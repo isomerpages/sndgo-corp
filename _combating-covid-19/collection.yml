@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - contact-tracing-and-management/.keep
+      - contact-tracing-and-management/safeentry-at-public-transport-nodes.md
       - combating-covid-19-with-technology.md
       - tracetogether-token-checking-pods.md
