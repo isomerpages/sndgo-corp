@@ -2,6 +2,8 @@
 title: "Pillars Of A Smart Nation "
 permalink: /about-smart-nation/pillars-of-smart-nation
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DJmoy41mWDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Three Pillars of a Smart Nation
 
 Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a Smart Nation, harnessing technology to transform how its people and businesses live, work and play.  
