@@ -3,9 +3,9 @@ title: Dengue Hotspots Survey Drones
 permalink: /initiatives/urban-living/dengue-hotspots-survey-drones
 third_nav_title: Urban Living
 ---
-![Alt text for image on Isomer site](/images/initiatives/Drone%20with%20camera%20for%20dengue%20survey.png)
-
 # Survey Drones to Tackle Dengue
+
+![Alt text for image on Isomer site](/images/initiatives/Drone-with-camera-for-dengue-survey.png)
 
 Our region’s year-round warm climate and high humidity are ideal for the Aedes mosquito to breed rapidly. It has adapted particularly well to Singapore’s urban environment, where it likes to breed, mate and feed in our residential areas.
 
