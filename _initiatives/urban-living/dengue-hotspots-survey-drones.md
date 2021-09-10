@@ -3,7 +3,7 @@ title: Dengue Hotspots Survey Drones
 permalink: /initiatives/urban-living/dengue-hotspots-survey-drones
 third_nav_title: Urban Living
 ---
-![Alt text for image on Isomer site](images/initiatives/Drone%20with%20camera%20for%20dengue%20survey.png)
+![Alt text for image on Isomer site](/images/initiatives/Drone%20with%20camera%20for%20dengue%20survey.png)
 
 # Survey Drones to Tackle Dengue
 
