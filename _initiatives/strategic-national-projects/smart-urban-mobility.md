@@ -25,6 +25,6 @@ Currently, we are conducting several trials to understand how technology can be 
 
 These trials will help us to assess the feasibility of autonomous or self-driving vehicles and how these can help us improve your commuter experience during peak hours or late-night services.
 
-<div style="width:50%;display:flex;flex-wrap:wrap;"><img src="/images/initiatives/smart-urban-mobility.jpeg" alt="smart urban mobility infographics" class="center"></div>
+<br><div style="width:100%;display:flex;justify-content:center;"><div style="width:60%;height:60%;"><img src="/images/initiatives/smart-urban-mobility.jpeg" alt="smart urban mobility infographics" class="center"></a></div></div>
 
 Find out more about our initiatives for [transport here](/initiatives/transport).
