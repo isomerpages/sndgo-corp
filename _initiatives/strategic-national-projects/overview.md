@@ -31,9 +31,6 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 </div>
 <br>
 
-
-</div>
-	<br>
 		
 </div>
 <div class="row">
@@ -59,9 +56,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <div class="header"><b>Punggol Digital District</b>
 </div>
 <br>
-
-</div>
-	<br>
+	
 	
 </div>
 <div class="row">
