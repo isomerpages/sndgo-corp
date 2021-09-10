@@ -3,9 +3,9 @@ title: OpenCerts
 permalink: /initiatives/digital-government-services/opencerts
 third_nav_title: Digital Government Services
 ---
-![Open Certs](/images/initiatives/laptop-with-diploma-academic-cap.jpg)
-
 # Graduate with a Digital Academic Certificate 
+
+![Open Certs](/images/initiatives/laptop-with-diploma-academic-cap.jpg)
 
 [OpenCerts](https://opencerts.io/ ) is a blockchain[^1] platform with a unique benefit: It offers an easy, reliable way for schools to issue and validate tamper-resistant digital academic certificates to students.
 
