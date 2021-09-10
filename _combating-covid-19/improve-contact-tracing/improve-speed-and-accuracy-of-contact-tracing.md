@@ -3,7 +3,6 @@ title: Improve Speed and Accuracy of Contact Tracing
 permalink: /combating-covid-19/contact-tracing
 third_nav_title: Improve Contact Tracing
 ---
-
 ![Alt text for image on Isomer site](/images/covid-19/Covid-Contact-Tracing.jpg)
 
 Digital contact tracing solutions had to be swiftly conceptualised and implement as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
@@ -27,7 +26,7 @@ For information on SafeEntry at public transport nodes, click [here](/combating-
 
 The [TraceTogether Programme](https://tracetogether.gov.sg) supports Singapore's digital contact tracing effort in the fight against COVID-19. It comprises the TraceTogether App and TraceTogether Token, and both the App and Token work by using Bluetooth signals to record other nearby TraceTogether devices.
 
-The App was launched on 20 March 2020, while the engineers worked on the Token to ensure that everyone could participate in the program, even if they did not use a smartphone. The Token was launched in August 2020 and distributed to 10,000 senior citizens before nation-wide distribution kicked off in September 2020.
+The App was launched on 20 March 2020, while the engineers worked on the Token to ensure that everyone could participate in the program, even if they did not use a smartphone. The Token was launched in August 2020 and distributed to 10,000 senior citizens before nation-wide distribution kicked off in August 2020.
 
 TraceTogether helps the contact tracers identify the close contacts of a COVID-19 patient which helps to ringfence possible exposures and infections to stop the spread of the virus.
 
