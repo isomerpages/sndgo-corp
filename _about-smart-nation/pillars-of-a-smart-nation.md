@@ -15,7 +15,7 @@ The digital revolution is upon us, and Singapore must adapt and use technology t
 
 A Digital Society empowers everyone  with a fair chance of succeeding despite their differences or circumstances. It inspires us to dream bigger, as we get more interconnected with the world through technology.
 
-Whether you’re young or old, tech-savvy or not, the aim is for every Singaporean to benefit from tech as part of a Digital Society. The <a href="https://www.mci.gov.sg/portfolios/digital-readiness/digital-readiness-blueprint">**Digital Readiness Blueprint**</a> explains how the Singapore Government is  making this happen:
+Whether you’re young or old, tech-savvy or not, the aim is for every Singaporean to benefit from tech as part of a Digital Society. The <a href="https://www.mci.gov.sg/portfolios/digital-readiness/digital-readiness-blueprint">*Digital Readiness Blueprint*</a> explains how the Singapore Government is  making this happen:
 
 * By making technology more accessible to every Singaporean
 * By improving Singaporeans’ digital literacy
@@ -25,7 +25,8 @@ Whether you’re young or old, tech-savvy or not, the aim is for every Singapore
 ![Alt text for image on Isomer site](/images/covid-19/Smart-Nation-Ambassador_TraceTogether-01.jpg)
 
 <div style="width:40%"> 
- </div>
+ Digital Readiness Blueprint:
+</div>
 <div style="width:40%"> 
  <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint"><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png"></a>
 </div>
@@ -36,13 +37,13 @@ A Digital Economy takes advantage of the latest technology to digitalise process
 
 Singapore’s pro-business environment, excellent tech infrastructure, close connectivity to major Asian economies as well as the availability of investment puts us in a good position to develop a strong Digital Economy.
 
-Three key strategies have been identified in the <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action">**Digital Economy Framework for Action**</a> to take advantage of our strengths:
+Three key strategies have been identified in the <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action">*Digital Economy Framework for Action*</a> to take advantage of our strengths:
 * Accelerate our economic growth by digitalising industries and businesses
 * Develop an ecosystem to help businesses stay vibrant and competitive
 * Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
 
 <div style="width:40%"> 
- Digital Economy Framework for Action (4.31mb)
+ Digital Economy Framework for Action (4.31mb):
 </div>
 <div style="width:40%"> 
  <a href="/files/abt-smart-nation/SGD Framework For Action.pdf"><img src="/images/abt-smart-nation/Digital-Economy-Framework2.png"></a>
@@ -53,9 +54,9 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
 Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
 
 <br>
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:90%;height:90%;"><img src="/images/abt-smart-nation/Digital-Government.jpeg"></a></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:90%;height:90%;"><img src="/images/abt-smart-nation/Digital-Government.jpeg"></div></div>
 
-The [**Digital Government Blueprint (277kb)**](/files/publications/dgb-public-document_30dec20.pdf)  details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.  
+The [*Digital Government Blueprint (277kb)*](/files/publications/dgb-public-document_30dec20.pdf)  details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.  
 
 New policies and initiatives are continually being added to the Digital Government Blueprint (DGB) to help us chart the fast-changing tides of tech and world events. For example, our ongoing drive to enhance our tech capabilities allowed us to pivot quickly and develop digital tools for contact tracing and the safe re-opening of Singapore’s economy amid the COVID-19 pandemic.
 
