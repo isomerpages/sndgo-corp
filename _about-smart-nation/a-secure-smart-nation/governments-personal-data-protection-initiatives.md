@@ -18,7 +18,7 @@ The Government has accepted the Committee’s recommendations and will take the 
  
 ### Find out more below.
   
-<div style="width:100%"> 
+<div style="width:40%"> 
 Infographic on Recommendations (0.5MB):
 </div>
 <div style="width:40%"> 
@@ -27,7 +27,7 @@ Infographic on Recommendations (0.5MB):
 
 <br>
 
-<div style="width:100%"> 
+<div style="width:40%"> 
 Public Sector Data Security Review Committee Report (2.3MB):
 </div>
 <div style="width:40%"> 
@@ -36,7 +36,7 @@ Public Sector Data Security Review Committee Report (2.3MB):
 
 <br>
 
-<div style="width:100%"> 
+<div style="width:40%"> 
 Annexes to the Public Sector Data Security Review Committee Report (1.4MB):
 </div>
 <div style="width:40%"> 
@@ -54,7 +54,7 @@ The Government publishes annual updates to highlight efforts and initiatives tak
 
 <br>
 
-<div style="width:100%"> 
+<div style="width:40%"> 
 2021: Second Update on the Government's Personal Data Protection Efforts 2021 – Summary (932KB):
 </div>
 <div style="width:40%"> 
@@ -63,7 +63,7 @@ The Government publishes annual updates to highlight efforts and initiatives tak
 
 <br>
 
-<div style="width:100%"> 
+<div style="width:40%"> 
 2021: Second Update on the Government's Personal Data Protection Efforts 2021 (269KB):
 </div>
 <div style="width:40%"> 
@@ -74,7 +74,7 @@ The Government publishes annual updates to highlight efforts and initiatives tak
 
 <br>
 
-<div style="width:100%"> 
+<div style="width:40%"> 
 2020: First Update on the Government's Personal Data Protection Efforts - Summary (205KB):
 </div>
 <div style="width:40%"> 
@@ -83,7 +83,7 @@ The Government publishes annual updates to highlight efforts and initiatives tak
 
 <br>
 
-<div style="width:100%"> 
+<div style="width:40%"> 
 2020: First Update on the Government's Personal Data Protection Efforts (2.2MB):
 </div>
 <div style="width:40%"> 
