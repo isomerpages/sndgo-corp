@@ -3,6 +3,7 @@ title: Overview
 permalink: /initiatives/health
 third_nav_title: Health
 ---
+# Smart Inititaives to Improve Healthcare
 
 The number of elderly citizens in Singapore is projected to reach 900,000 by 2030. Combined with our low birth rates, the burden of caring for our seniors will get heavier, which makes our healthcare needs a priority. As we move towards being a Smart Nation, we’re constantly exploring technology to create healthcare solutions to proactively meet these needs. 
 
