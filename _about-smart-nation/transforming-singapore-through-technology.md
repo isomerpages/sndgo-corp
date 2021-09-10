@@ -24,7 +24,7 @@ The Smart Nation initiative is our way forward. Technology will be so seamlessly
 Learn more about the framework guiding our Smart Nation initiative: [Smart Nation: The Way Forward(1.4mb)](/files/publications/smart-nation-strategy-nov2018.pdf).
 
 <div style="width:100%"> 
- Smart Nation Benefits Infographic - 26 Feb 2021 (3.1mb):
+ Transforming Singapore Through Technology Infographic - 26 Feb 2021 (3.1mb):
 </div>
 <div style="width:100%"> 
  <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"><img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg"></a>
