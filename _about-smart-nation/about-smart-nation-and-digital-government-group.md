@@ -14,15 +14,13 @@ SNDGG is overseen by a Ministerial Committee made up of the following members.
 <br>
 
 
-
 | **Title** | **Minister** |  |
 | -------- | -------- | -------- |
-| Chairman | Senior Minister Teo Chee Hean ![Alt text for image on Isomer site](/images/abt-smart-nation/Mr-TEO-Chee-Hean.jpg) |
-| Member & Minister-in-Charge of the Smart Nation Initiative | Minister Josephine Teo ![Alt text for image on Isomer site](/images/abt-smart-nation/Mrs-Josephine-TEO.jpg) |
-| Member & Minister-in-Charge of Public Service Division | Minister Chan Chun Sing ![Alt text for image on Isomer site](/images/abt-smart-nation/Mr-CHAN-Chun-Sing.jpg) | 
-| Member | Minister Vivian Balakrishnan ![Alt text for image on Isomer site](/images/abt-smart-nation/Dr%20Vivian%20BALAKRISHNAN.png) | 
-| Member & Minister-in-Charge of GovTech | Senior Minister of State Janil Puthucheary ![Alt text for image on Isomer site](/images/abt-smart-nation/Dr-Janil.jpg) |
-
+| Chairman | Senior Minister Teo Chee Hean <div style="width:50%;height:50%;"><img src="/images/abt-smart-nation/Mr-TEO-Chee-Hean.jpg"></a></div></div> | |
+| Member & Minister-in-Charge of the Smart Nation Initiative | Minister Josephine Teo <div style="width:50%;height:50%;"><img src="/images/abt-smart-nation/Mrs-Josephine-TEO.jpg"></a></div></div> |
+| Member & Minister-in-Charge of Public Service Division | Minister Chan Chun Sing <div style="width:50%;height:50%;"><img src="/images/abt-smart-nation/Mr-CHAN-Chun-Sing.jpg"></a></div></div> | 
+| Member | Minister Vivian Balakrishnan <div style="width:50%;height:50%;"><img src="/images/abt-smart-nation/Dr%20Vivian%20BALAKRISHNAN.png"></a></div></div> | 
+| Member & Minister-in-Charge of GovTech | Senior Minister of State Janil Puthucheary <div style="width:50%;height:50%;"><img src="/images/abt-smart-nation/Dr-Janil.jpg"></a></div></div> | 
 
 
 For information on SNDGO press materials, please visit the [Singapore Press Centre](https://www.sgpc.gov.sg/).
