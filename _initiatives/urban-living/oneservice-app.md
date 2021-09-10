@@ -3,7 +3,9 @@ title: OneService App
 permalink: /initiatives/urban-living/oneservice-app
 third_nav_title: Urban Living
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GXRsAPvy-xo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# OneService App
+
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/GXRsAPvy-xo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The OneService App is a one-stop platform that lets citizens feedback on municipal issues without having to figure out which Government agency or town council to contact. 
 
@@ -19,7 +21,7 @@ There are more than 350,000 users on the OneService app as of May 31, 2021. More
  
 * Receive alerts when you are near a dengue cluster, so that you can take steps to protect yourself from potential dengue transmission
 
-## Download the OneService App 
+#### Download the OneService App 
 
 <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:25%"><a href="https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
