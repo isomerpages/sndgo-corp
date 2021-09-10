@@ -11,7 +11,7 @@ Our region’s year-round warm climate and high humidity are ideal for the Aedes
 
 Currently, there are four dengue variants in Singapore and the country’s aim is to manage transmission and outbreak levels to be at a low and predictable rate. And technology is being used to protect our people against this longstanding health risk.
 
-**Using Drones** 
+#### Using Drones
 
 Roof gutters that are maintained less regularly tend to collect stagnant water, which leads to mosquito breeding grounds. As these are often located at a considerable height, they are difficult to access safely using traditional means.
 
