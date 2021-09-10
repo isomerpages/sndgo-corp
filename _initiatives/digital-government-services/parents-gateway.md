@@ -3,10 +3,9 @@ title: Parents Gateway
 permalink: /initiatives/digital-government-services/parents-gateway
 third_nav_title: Digital Government Services
 ---
+# Gateway to Better Parent–School Communication
 ![Parents Gateway app screen shots](/images/initiatives/Parent-gateway-screenshots.jpeg)
 
-
-# Gateway to Better Parent–School Communication
 
 Parents, are you tired of trying to keep track of the information and consent forms sent by your child’s school? We hear you.
  
@@ -40,9 +39,3 @@ Teachers benefit too. The app reduces the need to distribute, collect and collat
 **In the Pipeline...**
 
 Parents will soon be able to check the balance of their child’s Edusave account, making sure they have sufficient funds before giving consent to activities. Our developers are also working on an online reservation system  for parent-teacher meetings.
-
----
-**Useful Links**
-
--   [A Behind-the-Scenes Look at the Parents Gateway App](https://www.tech.gov.sg/media/technews/behind-the-scenes-look-at-the-parents-gateway-app)
--   [Five Things Busy Parents Should Know About the Parents Gateway App](https://www.tech.gov.sg/media/technews/five-things-busy-parents-should-know-about-the-parents-gateway-app)
