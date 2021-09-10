@@ -4,6 +4,7 @@ permalink: /about-smart-nation/transforming-singapore
 ---
 # Transforming Singapore Through Technology
 
+
 <br>
 
 > Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” – Lee Hsien Loong
@@ -11,7 +12,7 @@ permalink: /about-smart-nation/transforming-singapore
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
 <div style="width:100%"> 
- Smart Nation Benefits Infographic - 26 Feb 2021 (3.1mb)
+ Smart Nation Benefits Infographic - 26 Feb 2021 (3.1mb):
 </div>
 <div style="width:100%"> 
  <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"><img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg"></a>
