@@ -22,7 +22,7 @@ The latest version of the app, launched in March 2021, has about 200,000 active 
  
 * Locate and follow preferred hawker centres
 
-## Download myENV App now!
+#### Download myENV App now!
 
   <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:25%"><a href="https://play.google.com/store/apps/details?id=sg.gov.nea" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
