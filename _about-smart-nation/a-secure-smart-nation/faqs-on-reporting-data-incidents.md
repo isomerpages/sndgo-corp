@@ -1,8 +1,9 @@
 ---
-title: FAQs on Reporting Data Incidents
+title: FAQS on Reporting Data Incidents
 permalink: /about-smart-nation/a-secure-smart-nation/rdi-faqs
 third_nav_title: A Secure Smart Nation
 ---
+
 
 
 
