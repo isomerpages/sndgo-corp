@@ -3,9 +3,9 @@ title: Smart Urban Planning
 permalink: /initiatives/urban-living/urban-planning
 third_nav_title: Urban Living
 ---
-![Small Island, Big Needs](/images/initiatives/URA-1.jpg)
-
 ## Using Data for Urban Planning
+
+![Small Island, Big Needs](/images/initiatives/URA-1.jpg)
 
 As a small city-state with a land area of just 728 sq km, land planning is crucial. To help with this, smart solutions enable us to use our space wisely for sustainable economic development, quality living and recreation for our people and businesses. 
 
@@ -29,7 +29,7 @@ To address the issue of Singapore’s aging population, similar evidence-based a
 
 ### COVID-19 Pandemic Response and Supporting a Robust Recovery
 
-![Alt text for image on Isomer site](/images/Space-out.jpg)
+![Alt text for image on Isomer site](/images/initiatives/Space-out.jpg)
 
 To prevent overcrowding at malls and recreational spaces, URA responded by working with stakeholders to develop a digital tool called Space Out, which helped the public make informed choices on when to head out without compromising safety.
 
