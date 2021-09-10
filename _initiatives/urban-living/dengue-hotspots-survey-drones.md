@@ -5,7 +5,7 @@ third_nav_title: Urban Living
 ---
 # Survey Drones to Tackle Dengue
 
-![Alt text for image on Isomer site](/images/initiatives/Drone-with-camera-for-dengue-survey.png)
+![Alt text for image on Isomer site](/images/initiatives/drone-with-camera-for-dengue-survey.jpg)
 
 Our region’s year-round warm climate and high humidity are ideal for the Aedes mosquito to breed rapidly. It has adapted particularly well to Singapore’s urban environment, where it likes to breed, mate and feed in our residential areas.
 
