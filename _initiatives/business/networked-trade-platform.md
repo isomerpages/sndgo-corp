@@ -5,7 +5,7 @@ third_nav_title: Business
 ---
 #  A Smarter Way to Trade
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IqsHu3rK7p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/IqsHu3rK7p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 When COVID-19 hit in 2020, many businesses had to shift their operations online. This transformed the way we buy our goods and services. Our supply chains had to be quickly reconfigured to make sure our people had what they needed, and it shone a spotlight on how continued effort is needed to make sure our trade links remain resilient. 
 
