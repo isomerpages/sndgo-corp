@@ -5,7 +5,6 @@ third_nav_title: Urban Living
 ---
 # Smart Urban Living
 
-![Alt text for image on Isomer site]
 
 Singapore’s limited land requires us to constantly find innovative solutions to improve our urban environment. This includes making our homes and estates cleaner, greener, safer and more sustainable.
 
