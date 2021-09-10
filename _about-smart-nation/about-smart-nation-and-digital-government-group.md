@@ -17,11 +17,11 @@ SNDGG is overseen by a Ministerial Committee made up of the following members.
 
 | **Title** | **Minister** |  |
 | -------- | -------- | -------- |
-| Chairman | Senior Minister Teo Chee Hean | 
-| Member & Minister-in-Charge of the Smart Nation Initiative | Minister Josephine Teo | 
-| Member & Minister-in-Charge of Public Service Division | Minister Chan Chun Sing | 
-| Member | Minister Vivian Balakrishnan | 
-| Member & Minister-in-Charge of GovTech | Senior Minister of State Janil Puthucheary |
+| Chairman | Senior Minister Teo Chee Hean ![Alt text for image on Isomer site](/images/abt-smart-nation/Mr-TEO-Chee-Hean.jpg) |
+| Member & Minister-in-Charge of the Smart Nation Initiative | Minister Josephine Teo ![Alt text for image on Isomer site](/images/abt-smart-nation/Mrs-Josephine-TEO.jpg) |
+| Member & Minister-in-Charge of Public Service Division | Minister Chan Chun Sing ![Alt text for image on Isomer site](/images/abt-smart-nation/Mr-CHAN-Chun-Sing.jpg) | 
+| Member | Minister Vivian Balakrishnan ![Alt text for image on Isomer site](/images/abt-smart-nation/Dr%20Vivian%20BALAKRISHNAN.png) | 
+| Member & Minister-in-Charge of GovTech | Senior Minister of State Janil Puthucheary ![Alt text for image on Isomer site](/images/abt-smart-nation/Dr-Janil.jpg) |
 
 
 
