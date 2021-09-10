@@ -10,7 +10,7 @@ The number of elderly citizens in Singapore is projected to reach 900,000 by 203
 Currently, our health initiatives focus on equipping Singaporeans with the information and tools to better take control of their health and healthcare needs, so that they are prepared for the future. 
 These are some of the Smart Nation health initiatives we’re working on right now:
 
-
+<br>
 <div class="row">
 <div class="col"> 
 <a href="/initiatives/health/assistive-techonology-robotics"><img src="/images/initiatives/overview-pages/assistive-tech.png"></a><br>
