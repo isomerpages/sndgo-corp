@@ -13,21 +13,21 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
 
 <br>
 <div class="row">  
-  <div class="column-b"> 
+  <div class="col"> 
     <a href="/combating-covid-19/contact-tracing"><img src="/images/covid-19/Covid-Contact-Tracing.jpg"></a><br>
     <div class="header"><b>Improve Speed and Accuracy of Contact Tracing</b></div><br>
   </div>
-  	<div class="column-b"> 
+  	<div class="col"> 
       <a href="/combating-covid-19/community-preparedness">  <img src="/images/covid-19/Covid-Public-Health-Solutions.jpg"></a><br>
       <div class="header"><b>Boost Community Preparedness and Confidence</b></div>  <br>
   </div>
  </div>
  <div class="row">  
-     <div class="column-b"> 
+     <div class="col"> 
     <a href="/combating-covid-19/ensure-verified-information"><img src="/images/covid-19/Covid-Providing-Information.jpg"></a><br>
      <div class="header"><b>Ensure Flow of Verified Information</b></div><br>
   </div>
-     <div class="column-b"> 
+     <div class="col"> 
       <a href="//combating-covid-19/economic-social-support">  <img src="/images/covid-19/Covid-Social-and-Economic-Support.jpg"></a><br>
        <div class="header"><b>Provide Economic and Social Support</b></div><br>
   </div>
