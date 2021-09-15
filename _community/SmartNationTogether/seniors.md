@@ -4,4 +4,4 @@ permalink: /community/smart-nation-together/seniors
 third_nav_title: SmartNationTogether
 ---
 #### **\#Webinars for Seniors**  
-![Alt text for image on Isomer site](/images/snt/seniors-sept1.jpg)
+[![Alt text for image on Isomer site](/images/snt/seniors-sept1.jpg)](https://go.gov.sg/smart-seniors)
