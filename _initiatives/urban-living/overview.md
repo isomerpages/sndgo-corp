@@ -37,7 +37,7 @@ The initiatives below outline how we aim to achieve this.
 <div class="col"> 
 <a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice.jpeg"></a><br>
     <div class="header"><b>OneService App</b></div><br>
-    <div class="para">A convenient, one-stop platform for the public to report issues they come across in their neighbourhoods.</b>
+    <div class="para">A convenient, one-stop platform for the public to report issues they come across in their neighbourhoods.
 </div>
 <br>
 
