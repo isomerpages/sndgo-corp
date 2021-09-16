@@ -1,8 +1,9 @@
 ---
 title: IMD Smart City Index 2020
-permalink: /about-smart-nation/smartcityindex2020
+permalink: /about-smart-nation/accomplishments/2020-01
 third_nav_title: Accomplishments
 ---
+
 # Global Recognition for 2nd Year Running
 ![Singapore's ariel view at night](/images/media-hub/smart-nation-archives/singapore-river-night-time-aerial-view.jpeg)
 
