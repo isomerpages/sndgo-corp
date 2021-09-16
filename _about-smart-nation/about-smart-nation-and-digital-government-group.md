@@ -10,21 +10,9 @@ The Smart Nation and Digital Government Office (SNDGO), under the Prime Minister
   
 With the Government Technology Agency (<a href="https://www.tech.gov.sg/" target="_blank">GovTech</a>), the implementing arm of SNDGO, both entities are collectively known as the Smart Nation and Digital Government Group (SNDGG). SNDGG is led by Permanent Secretary Mr Ng Chee Khern and Deputy Secretary Mr Tan Kok Yam.  
   
-SNDGG is overseen by a Ministerial Committee made up of the following members.
+SNDGG is overseen by a Ministerial Committee made up of the following members:
 <br>
 
 
 | **Minister** | | **Title**| 
-| -------- | -------- | -------- |
-| ![Alt text for image on Isomer site](/images/abt-smart-nation/Mr-TEO-Chee-Hean.jpg) | Senior Minister Teo Chee Hean | Chairman |
-| ![Alt text for image on Isomer site](/images/abt-smart-nation/Mrs-Josephine-TEO.jpg) | Minister Josephine Teo | Member & Minister-in-Charge of the Smart Nation Initiative |
-|  ![Alt text for image on Isomer site](/images/abt-smart-nation/Mr-CHAN-Chun-Sing.jpg) | Minister Chan Chun Sing | Member & Minister-in-Charge of Public Service Division |
-|  ![Alt text for image on Isomer site](/images/abt-smart-nation/Dr%20Vivian%20BALAKRISHNAN.png) | Minister Vivian Balakrishnan | Member |
-|  ![Alt text for image on Isomer site](/images/abt-smart-nation/Dr-Janil.jpg) | Senior Minister of State Janil Puthucheary | Member & Minister-in-Charge of GovTech |
-
-
-For information on SNDGO press materials, please visit the [Singapore Press Centre](https://www.sgpc.gov.sg/).
-
-For career opportunities with SNDGO, please visit www.careers.gov.sg.
-
-For other enquiries, contact us at enquiries@smartnation.gov.sg.
+|
