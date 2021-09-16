@@ -1,4 +1,5 @@
 ---
 title: Key Events
-permalink: /community/permalink
+permalink: /community/key-events
 ---
+
