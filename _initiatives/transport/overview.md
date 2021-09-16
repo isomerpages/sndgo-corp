@@ -10,6 +10,7 @@ However, our growing population requires us to further optimise our limited spac
 
 The initiatives below outline how we aim to achieve this.
 
+<br>
 <div class="row">
 <div class="col"> 
 <a href="/initiatives/transport/autonomous-vehicles"><img src="/images/initiatives/overview-pages/autonomous-vehicles.png"></a><br>
