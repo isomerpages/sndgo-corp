@@ -8,7 +8,7 @@ Singapore has set its sights on becoming a world-class, tech-driven city-state. 
   
 The digital revolution is upon us, and Singapore must adapt and use technology to harvest the benefits of digitalisation.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/DJmoy41mWDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/DJmoy41mWDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Digital Society
