@@ -70,7 +70,7 @@ The blueprintâ€™s strategies have been updated to place more emphasis on usersâ€
 The pandemic has given renewed impetus for government agencies to digitalise, including making deeper changes in organisational policy, structure and culture. 
 
 
-### The progress so far
+## The progress so far
 Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2019:
 * 86% of citizens and 77% of businesses are very/extremely satisfied with Government digital services, surpassing our target of 75%-80%
 * 95% of transactions are completed digitally from start to end of the process, meeting the target of 90-95%
