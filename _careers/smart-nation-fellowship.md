@@ -5,7 +5,7 @@ permalink: /careers/smart-nation-fellowship
 # Help Build Our Smart Nation, Together
 
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ThfGBUqwzyA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ThfGBUqwzyA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our journey to build a Smart Nation would not be possible without talented, creative and visionary individuals. 
 
