@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - pillars-of-a-smart-nation.md
-      - transforming-singapore-through-technology.md
+      - transforming-sg-through-technology.md
       - a-secure-smart-nation/.keep
       - a-secure-smart-nation/a-secure-smart-nation.md
       - a-secure-smart-nation/governments-personal-data-protection-initiatives.md
