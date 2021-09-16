@@ -3,7 +3,7 @@ url: https://www.smartnation.gov.sg/
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#ff0032"
-  secondary-color: "#DA4751"
+  secondary-color: "#1a5ded"
   media-colors:
     - title: media-color-one
       color: "#A8312D"
