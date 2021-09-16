@@ -1,8 +1,9 @@
 ---
 title: Smart City Governments Ranking 2021-2022
-permalink: /about-smart-nation/smartcitygovernments21-22
+permalink: /about-smart-nation/accomplishments/2021-02
 third_nav_title: Accomplishments
 ---
+
 
 
 # Climbing to the Top
