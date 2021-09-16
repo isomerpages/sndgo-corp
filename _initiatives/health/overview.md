@@ -50,4 +50,4 @@ These are some of the Smart Nation health initiatives we’re working on right n
 
 <div class="col">
 </div>
-<br></div></div>
+<br></div>
