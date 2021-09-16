@@ -32,7 +32,7 @@ Find out more about how the Government protects your data and safeguards its sys
     <div class="para">Data management by public sector agencies and third-parties working with public agencies.</div>
   </div>
 	</div><br><br>
-</div> 
+	
 <div style="width:100%;display:flex;flex-wrap:wrap;">  
   <div style="flex:50%;padding:1%;"> 
     <a href="/about-smart-nation/secure-smart-nation/cybersecurity"><img src="/images/abt-smart-nation/cybersecurity.png"></a><br>
