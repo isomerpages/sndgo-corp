@@ -20,20 +20,16 @@ As part of the PSDSRC recommendation to provide the public with more information
 
 **Find out more about the Government’s key personal data protection policies in the document below:**
 
-<div style="width:40%"> 
- Government’s Key Personal Data Protection Policies (5.8mb)
 </div>
 <div style="width:40%"> 
- <a href="/files/publications/government-personal-data-protection-policies-jul21.pdf" target="_blank"><img src="/images/abt-smart-nation/government-personal-data-protection-policies-apr2020.jpeg"></a>
+ <a href="/files/publications/government-personal-data-protection-policies-jul21.pdf" target="_blank"> Government’s Key Personal Data Protection Policies (5.8mb):<img src="/images/abt-smart-nation/government-personal-data-protection-policies-apr2020.jpeg"></a>
 </div>
 
 **Find out more about the Government’s key data security policies in the document below:**
 
-<div style="width:40%"> 
- Government’s Key Data Security Policies (606kb)
 </div>
 <div style="width:40%"> 
- <a href="/files/publications/government-data-security-policies.pdf" target="_blank"><img src="/images/abt-smart-nation/government-data-security-policies.jpeg"></a>
+ <a href="/files/publications/government-data-security-policies.pdf" target="_blank"> Government’s Key Data Security Policies (606kb):<img src="/images/abt-smart-nation/government-data-security-policies.jpeg"></a>
 </div>
 
 Find out more about the data-related provisions in Sections 6 to 8 of the <a href="https://sso.agc.gov.sg/Act/PSGA2018" target="_blank">PSGA via this link.</a>
@@ -48,19 +44,21 @@ With this in mind, the Government has introduced policies to guide Agencies in e
 
 
 <hr>
+
 A **Third Party** is defined as a party (other than a **data subject[^1]** or an **Agency[^2]**) which
+
 1. delivers, develops, implements, operates, provides or otherwise supplies ICT systems or services to an Agency, or
+
 2. collects, stores or otherwise processes data for an Agency.
 
 [^1]: Data subject refers to the individual or entity to which the data relates.
+
 [^2]: Agency refers to Organs of State, Ministries, Departments and Statutory Boards
 <hr>
 
 **Find out more about the key policies that govern how agencies work with its third parties to safeguard data in the document below:**
 
-<div style="width:40%"> 
- Key Policies of the Government's Third-Party Management Framework (1.2mb)
 </div>
 <div style="width:40%"> 
- <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"><img src="/images/abt-smart-nation/key-policies-third-party-framework.jpeg"></a>
+ <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"> Key Policies of the Government's Third-Party Management Framework (1.2mb):<img src="/images/abt-smart-nation/key-policies-third-party-framework.jpeg"></a>
 </div>
