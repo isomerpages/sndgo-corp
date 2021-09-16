@@ -5,7 +5,7 @@ third_nav_title: Urban Living
 ---
 # The Smart Town Framework
 
-<br><iframe width="560" height="315" src="https://www.youtube.com/embed/nvEQE84SK1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><iframe width="100%" height="315" src="https://www.youtube.com/embed/nvEQE84SK1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Can the average Housing and Development Board (HDB) estate be transformed into a smart town? How can technology change the lives of residents living in these estates? The Smart HDB Town Framework answers these questions.
 
