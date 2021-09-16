@@ -2,7 +2,7 @@ collections:
   combating-covid-19:
     output: true
     order:
-      - combating-covid-19-with-technology.md
+      - singapores-tech-driven-response-to-covid-19.md
       - digital-contact-tracing/.keep
       - digital-contact-tracing/improve-speed-and-accuracy-of-contact-tracing.md
       - digital-contact-tracing/safeentry-at-public-transport-nodes.md
