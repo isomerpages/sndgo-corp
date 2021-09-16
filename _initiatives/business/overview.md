@@ -30,10 +30,8 @@ Learn how our business initiatives are helping companies here stay vibrant and c
     <div class="header"><b>FinTech Sandbox</b></div><br>
     <div class="para">A regulatory sandbox providing a secure space for companies to test out their FinTech-related innovations.</b>
 </div>
-<br>
+<br></div></div>
 
-		
-</div>
 <div class="row">
 	<div class="col">
 <a href="/initiatives/business/networked-trade-platform"><img src="/images/initiatives/overview-pages/networked-trade-platform.png"></a><br>
@@ -49,4 +47,4 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 
 <div class="col">
 </div>
-<br>
+<br></div></div>
