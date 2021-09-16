@@ -30,9 +30,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <br>
 <div class="header"><b>E-Payments</b>
 </div>
-		<br></div></div></div>
-		
-Test
+		<br></div></div>
 
 <div class="row">
 	<div class="col">
@@ -56,9 +54,7 @@ Test
 <br>
 <div class="header"><b>Punggol Digital District</b>
 </div>
-<br></div></div></div>
-	
-Test
+<br></div></div>
 
 <div class="row">
 <div class="col"> 
@@ -77,4 +73,4 @@ Test
 <br>
 	
 </div>
-<div class="col"></div></div></div>
+<div class="col"></div></div>
