@@ -4,7 +4,6 @@ collections:
     order:
       - SmartNationTogether/.keep
       - SmartNationTogether/smartnationtogether.md
-      - SmartNationTogether/seniors.md
       - smart-nation-ambassadors/.keep
       - smart-nation-ambassadors/our-smart-nation-ambassadors.md
       - smart-nation-ambassadors/faqs-on-smart-nation-ambassadors.md
