@@ -13,9 +13,9 @@ Interact with a series of exhibits and displays to discover the various ways dig
 
 Visitors to CityScape will learn about how technology:
 
-*  supports the planning of towns and amenities;
-*   is embedded into our infrastructure to benefit citizens and businesses;
-*   helps attract technology companies and talent to Singapore, and secure Singapore’s place as a thought leader on Smart City innovations.
+*  supports the planning of towns and amenities
+*   is embedded into our infrastructure to benefit citizens and businesses
+*   helps attract technology companies and talent to Singapore, and secure Singapore’s place as a thought leader on Smart City innovations
 
 ![Alt text for image on Isomer site](/images/community/community/Cityscape-06.jpg)
 
@@ -34,6 +34,3 @@ As part of measures to minimise the risk of further spread of COVID-19, the Sing
 Click [here](https://www.ura.gov.sg/Corporate/Singapore-City-Gallery) for latest updates.
 
 ![Alt text for image on Isomer site](/images/community/Cityscape-05.jpeg)
-
-
-
