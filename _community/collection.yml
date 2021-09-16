@@ -2,14 +2,14 @@ collections:
   community:
     output: true
     order:
-      - SmartNationTogether/.keep
-      - SmartNationTogether/overview.md
       - smart-nation-ambassadors/.keep
       - smart-nation-ambassadors/our-smart-nation-ambassadors.md
       - smart-nation-ambassadors/faqs-on-smart-nation-ambassadors.md
-      - contribute-to-smart-nation.md
-      - opportunities-and-help-for-the-community.md
+      - our-smart-nation-events.md
+      - SmartNationTogether/.keep
+      - SmartNationTogether/overview.md
       - apps-for-you.md
       - exhibitions/.keep
       - exhibitions/cityscape-gallery.md
-      - our-smart-nation-events.md
+      - opportunities-and-help-for-the-community.md
+      - contribute-to-smart-nation.md
