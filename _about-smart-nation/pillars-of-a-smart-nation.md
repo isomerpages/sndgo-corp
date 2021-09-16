@@ -10,6 +10,8 @@ The digital revolution is upon us, and Singapore must adapt and use technology t
 
 <div class="videoWrapper"><iframe width="100%" height="315" src="https://www.youtube.com/embed/DJmoy41mWDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+videowrapper
+
 ## Digital Society
 
 A Digital Society empowers everyone  with a fair chance of succeeding despite their differences or circumstances. It inspires us to dream bigger, as we get more interconnected with the world through technology.
