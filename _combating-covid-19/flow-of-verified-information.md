@@ -1,7 +1,8 @@
 ---
 title: Flow of Verified Information
-permalink: /combating-covid-19/ensure-verified-information
+permalink: /combating-covid-19/flow-of-verified-information
 ---
+
 
 
 ![Alt text for image on Isomer site](/images/covid-19/Covid-Providing-Information.jpg)
