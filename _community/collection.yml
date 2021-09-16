@@ -2,7 +2,6 @@ collections:
   community:
     output: true
     order:
-      - exhibitions/.keep
       - SmartNationTogether/.keep
       - SmartNationTogether/overview.md
       - smart-nation-ambassadors/.keep
@@ -11,4 +10,5 @@ collections:
       - contribute-to-smart-nation.md
       - opportunities-and-help-for-the-community.md
       - apps-for-you.md
+      - exhibitions/.keep
       - key-events.md
