@@ -3,7 +3,6 @@ title: Our Smart Nation Ambassadors
 permalink: /community/smart-nation-ambassadors
 third_nav_title: Smart Nation Ambassadors
 ---
-
 # Transform Lives with Technology
 
 ![Smart Nation Ambassdors at an event](/images/community/SNA-smart-Nation-U.jpg)
@@ -16,7 +15,7 @@ Since the Smart Nation Ambassadors programme was launched in January 2019, we’
 
 Hear from our ambassadors -Alice, Jamberi, Pearlie and Saiful - on why they decided to serve the community in this way.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sY__ajCgMnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/sY__ajCgMnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Volunteer as a Smart Nation Ambassador
 
