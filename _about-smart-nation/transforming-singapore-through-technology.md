@@ -7,7 +7,7 @@ permalink: /about-smart-nation/transforming-singapore
 ![Alt text for image on Isomer site](/images/abt-smart-nation/Singapore-Tech.jpg)
 <br>
 
-> Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” – Lee Hsien Loong
+> Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” –  Prime Minister Lee Hsien Loong
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
