@@ -1,8 +1,9 @@
 ---
 title: Global Ranking of Leading Technology Hub 2021
-permalink: /about-smart-nation/leadingtechnologyhubs2021
+permalink: /about-smart-nation/accomplishments/2021-01
 third_nav_title: Accomplishments
 ---
+
 # Taking the Top Spot
 
 Still hustlin', still innovating.
