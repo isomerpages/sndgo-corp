@@ -10,12 +10,12 @@ We have a wide array of workshops available for you to learn more. Whether you a
 
 Check out our programme schedules below!
 
-## **Kids and Young Parents**
+## Kids and Young Parents
 Parents can sign their children up for the **TECH@PLAY** or **FUN WITH TECH** interactive, hands-on workshop series. Children will have the opportunity to learn skills such as coding, 3D printing and artificial intelligence.
 
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:50%;height:50%;"><a href="/community/smart-nation-together/kids-young-parents"><img alt="View Programmes" src="/images/community/View-Programmes.png"></a></div></div>
  
-## **Working Adults**
+## Working Adults
 
 Keep abreast with what's new in digital government services and digital workplace tools. From learning how the tech industry helps fight COVID-19 to thought leaders sharing on how tech is disrupting work as we know it - there is a trove of knowledge being shared.
 
@@ -25,7 +25,7 @@ Co-create digital government services with us through focus group discussions on
 
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:50%;height:50%;"><a href="/community/smart-nation-together/working-adults"><img alt="View Programmes" src="/images/community/View-Programmes.png"></a></div></div>
 
-## **Seniors**
+## Seniors
 Learn how digital government services can help you in your daily lives with your peers in our **My Smart Ahma Top Picks** and **Live Smart series**.
 
 Need some one-to-one advice on how to use your smartphone effectively? Join the **Digital Clinics** and **Silver Infocomm Junction lessons** to take that next step to be digitally connected!
