@@ -2,7 +2,7 @@ collections:
   combating-covid-19:
     output: true
     order:
-      - tech-driven-response-to-covid-19.md
+      - our-tech-driven-response-to-covid-19.md
       - digital-contact-tracing.md
       - community-preparedness-and-confidence.md
       - flow-of-verified-information.md
