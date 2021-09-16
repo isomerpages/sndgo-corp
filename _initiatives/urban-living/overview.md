@@ -9,6 +9,7 @@ Singapore’s limited land requires us to constantly find innovative solutions t
 
 The initiatives below outline how we aim to achieve this.
 
+<br>
 <div class="row">
 <div class="col"> 
 <a href="/initiatives/urban-living/amr"><img src="/images/initiatives/overview-pages/amr-trial.png"></a><br>
