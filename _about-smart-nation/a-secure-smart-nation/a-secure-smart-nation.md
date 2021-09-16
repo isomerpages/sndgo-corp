@@ -7,7 +7,7 @@ third_nav_title: A Secure Smart Nation
 <br>
 
 > Data is the lifeblood of a digital economy and a digital government. As the custodian of a vast amount of data, the Government takes its responsibility of securing the data and preserving individuals’ privacy very seriously.”
-*- Prime Minister Lee Hsien Loong, November 2019*
+*- Prime Minister Lee Hsien Loong,*
 
 ![A Secure Smart Nation overview](/images/abt-smart-nation/secure-smart-nation.png)
 
