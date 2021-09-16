@@ -7,11 +7,26 @@ links:
   - title: Combating COVID-19
     collection: combating-covid-19
   - title: A Smart Community
-    collection: community
-  - title: Media Hub
-    resource_room: true
+    url: /community
+    sublinks:
+      - title: Our Smart Nation Ambassadors
+        url: /community/smart-nation-ambassadors
+      - title: Apps For You
+        url: /community/apps-for-you
+      - title: Exhibitions
+        url: /community/exhibitions
+      - title: Key Events
+        url: /community/key-events
+      - title: "#SmartNationTogether"
+        url: https://together.smartnation.gov.sg
+      - title: Opportunities And Help
+        url: /community/opportunities
+      - title: Contribute to Smart Nation
+        url: /community/SCOPE
   - title: Resources
     collection: resources
+  - title: Media Hub
+    resource_room: true
   - title: Careers
     url: /careers/join-sndgo
     sublinks:
