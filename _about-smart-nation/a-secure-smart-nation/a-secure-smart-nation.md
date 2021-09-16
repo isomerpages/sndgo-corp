@@ -31,7 +31,7 @@ Find out more about how the Government protects your data and safeguards its sys
     <br><br>
     <div class="para">Data management by public sector agencies and third-parties working with public agencies.</div>
   </div>
-	</div><br><br>
+	</div><br>
 	
 <div style="width:100%;display:flex;flex-wrap:wrap;">  
   <div style="flex:50%;padding:1%;"> 
