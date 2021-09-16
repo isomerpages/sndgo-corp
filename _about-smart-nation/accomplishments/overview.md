@@ -4,6 +4,8 @@ permalink: /about-smart-nation/accomplishments
 third_nav_title: Accomplishments
 ---
 # Our Accomplishments
+![Alt text for image on Isomer site](/images/abt-smart-nation/sg-fireworks.jpg)
+
 ### 2021
 
 *   Singapore take the top spot in [Roland Berger's Digital Inclusion Index](/about-smart-nation/digitalinclusionindex2021).
@@ -18,4 +20,3 @@ third_nav_title: Accomplishments
 ### 2019
 
 *  Singapore take top spot in [IMD-SUTD Smart City Index](/about-smart-nation/smartcityindex2019).
-
