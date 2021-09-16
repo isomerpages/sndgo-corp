@@ -38,7 +38,7 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
 * Develop an ecosystem to help businesses stay vibrant and competitive
 * Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
 
-</div><div style="width:50%"> 
+<div style="width:50%"> 
  <a href="/files/abt-smart-nation/SGD Framework For Action.pdf">Digital Economy Framework for Action (4.31mb):<img src="/images/abt-smart-nation/Digital-Economy-Framework2.png"></a>
 </div>
 
