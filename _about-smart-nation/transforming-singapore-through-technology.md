@@ -11,6 +11,11 @@ permalink: /about-smart-nation/transforming-singapore
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
+</div>
+<div style="width:100%">
+ <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"> Transforming Singapore Through Technology Infographic (3.1mb):<img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg"></a>
+</div>
+
 Our vision for a digital-first Singapore is one where a Digital Government, Digital Economy and Digital Society harness technology to effect transformation in  health, transport, urban living, government services and businesses.
 
 Our Digital Government continues to invest in infrastructure and create shared open platforms for our businesses and citizens to learn and develop. 
@@ -23,16 +28,9 @@ The Smart Nation initiative is our way forward. Technology will be so seamlessly
 
 Learn more about the framework guiding our Smart Nation initiative: [Smart Nation: The Way Forward(1.4mb)](/files/publications/smart-nation-strategy-nov2018.pdf).
 
-<div style="width:100%"> 
- Transforming Singapore Through Technology Infographic - 26 Feb 2021 (3.1mb):
-</div>
-<div style="width:100%"> 
- <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"><img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg"></a>
-</div>
-
 ## Our Strategic National Projects
 
-We have identified key Strategic National Projects to drive and enable the adoption of digital and smart technologies throughout Singapore. Find out more about our [Strategic National Projects here.](/initiatives/strategic-national-projects)
+We have identified key Strategic National Projects to drive and enable the adoption of digital and smart technologies throughout Singapore. Find out more about our Strategic National Projects [here](/initiatives/strategic-national-projects).
 
 ## Enabling a Culture of Innovation and Experimentation
 
@@ -42,7 +40,7 @@ You can read about the initiatives we have to facilitate this culture of innovat
 
 #### Open Data
 
-Data sets collected by public agencies are now available and accessible to the public through online portals, making it easy for developers to co-create digital solutions to benefit society. Access the [open data sets available here](/resources/open-data)
+Data sets collected by public agencies are now available and accessible to the public through online portals, making it easy for developers to co-create digital solutions to benefit society. Access the open data sets available [here](/resources/open-data).
 
 #### Living Laboratory
 
