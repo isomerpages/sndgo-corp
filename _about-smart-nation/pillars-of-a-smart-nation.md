@@ -48,7 +48,7 @@ Our vision of a Digital Government is “digital to the core, and serves with he
 
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:90%;height:90%;"><img src="/images/abt-smart-nation/Digital-Government.jpeg"></div></div>
 
-The [*Digital Government Blueprint (277kb)*](/files/publications/dgb-public-document_30dec20.pdf)  details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.  
+The [Digital Government Blueprint (277kb)](/files/publications/dgb-public-document_30dec20.pdf)  details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.  
 
 New policies and initiatives are continually being added to the Digital Government Blueprint (DGB) to help us chart the fast-changing tides of tech and world events. For example, our ongoing drive to enhance our tech capabilities allowed us to pivot quickly and develop digital tools for contact tracing and the safe re-opening of Singapore’s economy amid the COVID-19 pandemic.
 
