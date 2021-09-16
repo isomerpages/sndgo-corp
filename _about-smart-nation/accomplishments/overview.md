@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /about-smart-nation/accomplishments
+permalink: /about-smart-nation/accomplishments/overview
 third_nav_title: Accomplishments
 ---
+
 # Our Accomplishments
 ![Alt text for image on Isomer site](/images/abt-smart-nation/sg-fireworks.jpg)
 
