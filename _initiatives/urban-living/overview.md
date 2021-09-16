@@ -31,9 +31,9 @@ The initiatives below outline how we aim to achieve this.
 	<div class="header"><b>myENV App</b></div><br>
 	<div class="para">A convenient tool to update the public on the latest environmental news, including PSI readings and dengue outbreak alerts.</b>
 </div>
-<br>
+<br></div></div>
 
-</div><div class="row">
+<div class="row">
 <div class="col"> 
 <a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice.jpeg"></a><br>
     <div class="header"><b>OneService App</b></div><br>
@@ -55,6 +55,4 @@ The initiatives below outline how we aim to achieve this.
     <div class="header"><b>Smart Towns</b></div><br>
     <div class="para">We’re using technology to plan, develop and manage HDB towns to create more efficient, sustainable and safe living environments for our people.</b>
 </div>
-<br>
-
-
+<br></div></div>
