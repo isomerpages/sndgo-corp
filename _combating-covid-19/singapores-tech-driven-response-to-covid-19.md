@@ -24,7 +24,7 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
  </div>
  <div class="row">  
      <div class="col"> 
-    <a href="/combating-covid-19/ensure-verified-information"><img src="/images/covid-19/Covid-Providing-Information.jpg"></a><br>
+    <a href="/combating-covid-19/flow-of-verified-information"><img src="/images/covid-19/Covid-Providing-Information.jpg"></a><br>
      <div class="header"><b>Flow of Verified Information</b></div><br>
   </div>
      <div class="col"> 
