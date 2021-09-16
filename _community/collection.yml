@@ -2,11 +2,11 @@ collections:
   community:
     output: true
     order:
-      - events/.keep
-      - events/our-smart-nation-events.md
       - smart-nation-ambassadors/.keep
       - smart-nation-ambassadors/our-smart-nation-ambassadors.md
       - smart-nation-ambassadors/faqs-on-smart-nation-ambassadors.md
+      - events/.keep
+      - events/our-smart-nation-events.md
       - apps-for-you.md
       - exhibitions/.keep
       - exhibitions/exhibitions-for-you.md
