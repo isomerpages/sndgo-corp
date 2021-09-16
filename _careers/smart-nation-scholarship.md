@@ -11,7 +11,7 @@ Are you passionate about technology? Are you driven by the desire to create digi
 
 If your answer is yes and yes, come apply for the Smart Nation Scholarship. Offered by the Cyber Security Agency of Singapore (<a href="https://www.csa.gov.sg/" target="_blank">CSA</a>), Government Technology Agency (<a href="https://www.tech.gov.sg/" target="_blank">GovTech</a>) and Infocomm Media Development Authority (<a href="https://www.imda.gov.sg/" target="_blank">IMDA</a>), the scholarship is an opportunity for you to carve out a career in tech, while making meaningful contributions to improve the lives around you.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_bk9YFZvSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y_bk9YFZvSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Scholarship Criteria
 
