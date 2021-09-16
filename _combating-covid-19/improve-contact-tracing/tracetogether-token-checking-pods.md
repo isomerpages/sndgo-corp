@@ -3,9 +3,6 @@ title: TraceTogether Token Checking Pods
 permalink: /combating-covid-19/tt-token-checking-pods
 third_nav_title: Improve Contact Tracing
 ---
-
-
-
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LI1lx3lxKz8" height="315" width="560"></iframe>
 
 Want to check if your TraceTogether Token is working? Head over to our Token checking pods to find out.
