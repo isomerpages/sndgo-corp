@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - singapores-tech-driven-response-to-covid-19.md
+      - speed-and-accuracy-of-contact-tracing.md
       - digital-contact-tracing/.keep
       - community-preparedness-and-confidence.md
       - flow-of-verified-information.md
       - economic-and-social-support.md
-      - speed-and-accuracy-of-contact-tracing.md
