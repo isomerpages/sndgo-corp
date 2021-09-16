@@ -32,10 +32,9 @@ The initiatives below outline how we aim to achieve this.
      <div class="header"><b>Contactless Fare Payment</b></div><br>
     <div class="para">Our contactless fare payment system is constantly being refined to make commuting a breeze</b>
 </div>
-<br>
+<br></div></div>
 
 		
-</div>
 <div class="row">
 	<div class="col">
 <a href="/initiatives/transport/on-demand-shuttle"><img src="/images/initiatives/overview-pages/on-demand-shuttle.png"></a><br>
@@ -55,4 +54,4 @@ The initiatives below outline how we aim to achieve this.
 </div>
 <div class="col">
 </div>
-<br>
+<br></div></div>
