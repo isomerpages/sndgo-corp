@@ -31,6 +31,6 @@ Singapore 069118
 
 As part of measures to minimise the risk of further spread of COVID-19, the Singapore City Gallery will be closed from 17 May 2021 until further notice.
 
-Click [here](https://www.ura.gov.sg/Corporate/Singapore-City-Gallery) for latest updates.
+Visit <a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/jtc-launchpad.aspx" target="_blank">URA's website</a> for latest updates.
 
 ![Alt text for image on Isomer site](/images/community/Cityscape-05.jpeg)
