@@ -7,6 +7,7 @@ third_nav_title: Strategic National Projects
 
 Singapore is engineering its transformation into a Smart Nation – byte by byte, system by system. These Strategic National Projects are the foundation for turning this vision into reality.  
 
+<br>
 <div class="row">
 <div class="col"> 
 <a href="initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a>
@@ -29,8 +30,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <br>
 <div class="header"><b>E-Payments</b>
 </div>
-<br>
-
+		<br></div></div></div>
 		
 </div>
 <div class="row">
@@ -55,7 +55,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <br>
 <div class="header"><b>Punggol Digital District</b>
 </div>
-<br>
+<br></div></div></div>
 	
 	
 </div>
@@ -76,5 +76,4 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <br>
 	
 </div>
-<div class="col"> 
-						
+<div class="col"></div></div></div>
