@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - our-smart-nation-events/.keep
-      - our-smart-nation-events/overview.md
+      - our-smart-nation-events/our-smart-nation-events.md
       - smart-nation-ambassadors/.keep
       - smart-nation-ambassadors/our-smart-nation-ambassadors.md
       - smart-nation-ambassadors/faqs-on-smart-nation-ambassadors.md
