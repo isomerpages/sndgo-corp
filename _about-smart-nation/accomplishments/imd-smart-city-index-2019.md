@@ -1,8 +1,9 @@
 ---
 title: IMD Smart City Index 2019
-permalink: /about-smart-nation/smartcityindex2019
+permalink: /about-smart-nation/accomplishments/2019-01
 third_nav_title: Accomplishments
 ---
+
 
 # Taking the Top Spot 
 ![Singapore Skyline of the business district](/images/media-hub/smart-nation-archives/singapore-skyline.jpeg)
