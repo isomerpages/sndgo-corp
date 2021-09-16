@@ -24,7 +24,7 @@ Whether you’re young or old, tech-savvy or not, the aim is for every Singapore
 
 ![Alt text for image on Isomer site](/images/covid-19/Smart-Nation-Ambassador_TraceTogether-01.jpg)
 
-</div><div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Digital Readiness Blueprint:</a><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png"></a></div>
+<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Digital Readiness Blueprint:</a><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png"></a></div>
 
 
 ## Digital Economy
@@ -38,8 +38,7 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
 * Develop an ecosystem to help businesses stay vibrant and competitive
 * Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
 
-</div>
-<div style="width:50%"> 
+</div><div style="width:50%"> 
  <a href="/files/abt-smart-nation/SGD Framework For Action.pdf">Digital Economy Framework for Action (4.31mb):<img src="/images/abt-smart-nation/Digital-Economy-Framework2.png"></a>
 </div>
 
