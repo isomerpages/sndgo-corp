@@ -42,7 +42,7 @@ There are also weekly online interactive classes where seniors can learn alongsi
 
 [Sign up for learning sessions or explore the self-learning section here.](https://www.imda.gov.sg/en/seniorsgodigital/learn)
 
-## People's Association (PA) Seniors for Smart Nation
+## People's Association (PA) Senior Academy
 
 PA Senior Academy's key mission is to encourage seniors aged 50 years and above to pursue lifelong learning and lead an active lifestyle. It does so by providing accessible and affordable senior-friendly courses.
 
