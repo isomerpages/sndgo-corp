@@ -2,7 +2,6 @@
 title: About SNDGG
 permalink: /about-smart-nation/sndgg
 ---
-
 # About SNDGG
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/SNDGO_Office_01.jpg)
@@ -17,3 +16,11 @@ SNDGG is overseen by a Ministerial Committee made up of the following members:
 
 | **Minister** | | **Title**| 
 |
+
+### Our Vision
+
+A Singapore where people are more empowered to live meaningful and fulfilled lives, enabled seamlessly by technology, offering exciting opportunities for all.
+
+### Our Mission
+
+Lead the development of a Smart Nation by working with the public, private and people sectors.
