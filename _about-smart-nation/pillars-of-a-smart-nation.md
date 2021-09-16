@@ -24,7 +24,7 @@ Whether you’re young or old, tech-savvy or not, the aim is for every Singapore
 
 ![Alt text for image on Isomer site](/images/covid-19/Smart-Nation-Ambassador_TraceTogether-01.jpg)
 
-<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Digital Readiness Blueprint:</a><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png"></a></div>
+<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Digital Readiness Blueprint:</a><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png"></div>
 
 
 ## Digital Economy
