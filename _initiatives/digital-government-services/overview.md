@@ -30,10 +30,8 @@ To empower citizens to live, work, play, interact and transact better with each 
     <div class="header"><b>Multilingual Digital Services</b></div><br>
     <div class="para">Making digital Government services more inclusive and accessible by having these in our 4 national languages.</b>
 </div>
-<br>
+<br></div></div>
 
-		
-</div>
 <div class="row">
 	<div class="col">
 <a href="/initiatives/digital-government-services/opencerts"><img src="/images/initiatives/overview-pages/opencerts.png"></a><br>
@@ -53,4 +51,4 @@ To empower citizens to live, work, play, interact and transact better with each 
 </div>
 <div class="col">
 </div>
-<br>
+<br></div></div>
