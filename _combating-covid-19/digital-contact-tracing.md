@@ -1,7 +1,8 @@
 ---
 title: Digital Contact Tracing
-permalink: /digital-contact-tracing
+permalink: /combating-covid-19/digital-contact-tracing
 ---
+
 
 
 
