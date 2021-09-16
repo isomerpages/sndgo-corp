@@ -7,7 +7,6 @@ third_nav_title: Urban Living
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jfy-T0uggCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
 
 Collecting and analysing data on how we use water can go a long way towards helping us become more efficient with the precious resource. PUB, our national water agency, is progressively rolling out smart water meters to replace our current mechanical meters.
 
