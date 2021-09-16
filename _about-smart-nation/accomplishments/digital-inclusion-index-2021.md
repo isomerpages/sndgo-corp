@@ -1,8 +1,9 @@
 ---
 title: Digital Inclusion Index 2021
-permalink: /about-smart-nation/digitalinclusionindex2021
+permalink: /about-smart-nation/accomplishments/2021-03
 third_nav_title: Accomplishments
 ---
+
 # Singapore come up tops for digital inclusiveness!
 
 Singapore ranked first among 82 countries in Roland Berger's Digital Inclusion Index.
