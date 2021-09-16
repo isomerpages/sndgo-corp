@@ -33,10 +33,8 @@ These are some of the Smart Nation health initiatives we’re working on right n
     <div class="header"><b>National Steps Challenge & Healthy 365 App</b></div><br>
     <div class="para">With the integration of wearable step-tracker tech with our National Steps Challenge, we’re encouraging Singaporeans to lead a healthier, more active lifestyle.</b>
 </div>
-<br>
+<br></div></div>
 
-		
-</div>
 <div class="row">
 	<div class="col">
 <a href="/initiatives/health/telehealth"><img src="/images/initiatives/overview-pages/telehealth.png"></a><br>
@@ -52,5 +50,4 @@ These are some of the Smart Nation health initiatives we’re working on right n
 
 <div class="col">
 </div>
-<br>
-
+<br></div></div>
