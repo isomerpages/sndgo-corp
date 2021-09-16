@@ -18,29 +18,23 @@ The Government has accepted the Committee’s recommendations and will take the 
  
 ### Find out more below.
   
-<div style="width:40%"> 
-Infographic on Recommendations (0.5MB):
 </div>
 <div style="width:40%"> 
- <a href="/files/abt-smart-nation/psdsrc-infographic.pdf" target="_blank"><img src="/images/abt-smart-nation/psdsrc-infographic-cover.jpg"></a>
+ <a href="/files/abt-smart-nation/psdsrc-infographic.pdf" target="_blank">Infographic on Recommendations (0.5MB):<img src="/images/abt-smart-nation/psdsrc-infographic-cover.jpg"></a>
 </div>
 
 <br>
 
-<div style="width:40%"> 
-Public Sector Data Security Review Committee Report (2.3MB):
 </div>
 <div style="width:40%"> 
-<a href="/files/publications/psdsrc-main-report-Nov2019.pdf" target="_blank"><img src="/images/abt-smart-nation/psdsrc-main-report-Nov2019-1.jpg"></a>
+<a href="/files/publications/psdsrc-main-report-Nov2019.pdf" target="_blank">Public Sector Data Security Review Committee Report (2.3MB):<img src="/images/abt-smart-nation/psdsrc-main-report-Nov2019-1.jpg"></a>
 </div>
 
 <br>
 
-<div style="width:40%"> 
-Annexes to the Public Sector Data Security Review Committee Report (1.4MB):
 </div>
 <div style="width:40%"> 
-<a href="/files/publications/annexes-to-the-psdsrc-final-report.pdf" target="_blank"><img src="/images/abt-smart-nation/annexes-to-the-psdsrc-final-report-cover.jpg"></a>
+<a href="/files/publications/annexes-to-the-psdsrc-final-report.pdf" target="_blank">Annexes to the Public Sector Data Security Review Committee Report (1.4MB):<img src="/images/abt-smart-nation/annexes-to-the-psdsrc-final-report-cover.jpg"></a>
 </div>
 
  
@@ -49,42 +43,37 @@ Annexes to the Public Sector Data Security Review Committee Report (1.4MB):
 The Government publishes annual updates to highlight efforts and initiatives taken to strengthen the public sector data security regime and safeguard data. The reports also provide an overview of the effectiveness of the efforts and initiatives, and lessons learnt from data incidents. The Government will continually and proactively enhance its initiatives to ensure the resiliency of its data security regime to respond and address emerging threats and risks.
 
 *Find a copy of the annual updates below.*
-#### 2021:
+
+#### 2021:Second Update on the Government's Personal Data Protection Efforts
 
 <br>
 
-<div style="width:40%"> 
-2021: Second Update on the Government's Personal Data Protection Efforts 2021 – Summary (932KB):
+
 </div>
 <div style="width:40%"> 
- <a href="/files/publications/government-personal-data-protection-efforts-2021-summary.pdf" target="_blank"><img src="/images/abt-smart-nation/government-personal-data-protection-efforts-2021-summary-cover.jpg"></a>
+ <a href="/files/publications/government-personal-data-protection-efforts-2021-summary.pdf" target="_blank">2021: Second Update on the Government's Personal Data Protection Efforts 2021 – Summary (932KB):<img src="/images/abt-smart-nation/government-personal-data-protection-efforts-2021-summary-cover.jpg"></a>
 </div>
 
 <br>
 
-<div style="width:40%"> 
-2021: Second Update on the Government's Personal Data Protection Efforts 2021 (269KB):
 </div>
 <div style="width:40%"> 
- <a href="/files/publications/government-personal-data-protection-efforts-2021.pdf" target="_blank"><img src="/images/abt-smart-nation/2021-report-update-on-pdprc.png"></a>
+ <a href="/files/publications/government-personal-data-protection-efforts-2021.pdf" target="_blank">2021: Second Update on the Government's Personal Data Protection Efforts 2021 (269KB):<img src="/images/abt-smart-nation/2021-report-update-on-pdprc.png"></a>
 </div>
 
-#### 2020:
+#### 2020: First Update on the Government's Personal Data Protection Efforts 
 
 <br>
 
-<div style="width:40%"> 
-2020: First Update on the Government's Personal Data Protection Efforts - Summary (205KB):
-</div>
-<div style="width:40%"> 
-<a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary.pdf" target="_blank"><img src="/images/abt-smart-nation/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary_cover.jpg"></a>
+</div><div style="width:40%"> 
+<a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary.pdf" target="_blank">2020: First Update on the Government's Personal Data Protection Efforts - Summary (205KB):<img src="/images/abt-smart-nation/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary_cover.jpg"></a>
 </div>
 
 <br>
 
 <div style="width:40%"> 
-2020: First Update on the Government's Personal Data Protection Efforts (2.2MB):
+
 </div>
 <div style="width:40%"> 
- <a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-2020.pdf" target="_blank"><img src="images/abt-smart-nation/annual-update-on-govt-personal-data-protection-efforts-2020-cover.jpg"></a>
+ <a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-2020.pdf" target="_blank">2020: First Update on the Government's Personal Data Protection Efforts (2.2MB):<img src="images/abt-smart-nation/annual-update-on-govt-personal-data-protection-efforts-2020-cover.jpg"></a>
 </div>
