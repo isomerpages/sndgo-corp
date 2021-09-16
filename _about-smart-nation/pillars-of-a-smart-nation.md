@@ -45,7 +45,6 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
 
 Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
 
-<br>
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:90%;height:90%;"><img src="/images/abt-smart-nation/Digital-Government.jpeg"></div></div>
 
 The [*Digital Government Blueprint (277kb)*](/files/publications/dgb-public-document_30dec20.pdf)  details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.  
