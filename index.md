@@ -9,7 +9,7 @@ sections:
       background: /images/hero-homepage-banner-transforming-sg.jpg
       key_highlights:
         - title: Strategic National Projects
-          description: Building blocks of our Smart Nation Initiative
+          description: Discover the building blocks for our Smart Nation
           url: /initiatives/strategic-national-projects
         - title: Pillars Of Smart Nation
           description: Find out more about the 3 key pillars
