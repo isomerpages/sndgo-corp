@@ -16,7 +16,7 @@ The Public Sector Data Security Review Committee (”the Committee”) was conve
 
 The Government has accepted the Committee’s recommendations and will take the necessary steps to implement them in phases. In Budget 2020, the Government announced that it would invest $1 billion over 3 years to enhance cybersecurity and data security in the public sector.
  
-### Find out more below.
+#### Find out more below.
   
 <div style="width:40%"> 
  <a href="/files/abt-smart-nation/psdsrc-infographic.pdf" target="_blank">Infographic on Recommendations (0.5MB):<img src="/images/abt-smart-nation/psdsrc-infographic-cover.jpg"></a>
@@ -41,7 +41,7 @@ The Government publishes annual updates to highlight efforts and initiatives tak
 
 *Find a copy of the annual updates below.*
 
-### 2021:Second Update on the Government's Personal Data Protection Efforts
+#### 2021:Second Update on the Government's Personal Data Protection Efforts
 
 <br>
 
@@ -55,7 +55,7 @@ The Government publishes annual updates to highlight efforts and initiatives tak
  <a href="/files/publications/government-personal-data-protection-efforts-2021.pdf" target="_blank">2021: Second Update on the Government's Personal Data Protection Efforts 2021 (269KB):<img src="/images/abt-smart-nation/2021-report-update-on-pdprc.png"></a>
 </div>
 
-### 2020: First Update on the Government's Personal Data Protection Efforts 
+#### 2020: First Update on the Government's Personal Data Protection Efforts 
 
 <br>
 
