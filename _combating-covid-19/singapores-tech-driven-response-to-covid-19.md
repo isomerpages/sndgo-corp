@@ -14,7 +14,7 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
 <br>
 <div class="row">  
   <div class="col"> 
-    <a href="/combating-covid-19/contact-tracing"><img src="/images/covid-19/Covid-Contact-Tracing.jpg"></a><br>
+    <a href="/combating-covid-19/digital-contact-tracing"><img src="/images/covid-19/Covid-Contact-Tracing.jpg"></a><br>
     <div class="header"><b>Speed and Accuracy of Contact Tracing</b></div><br>
   </div>
   	<div class="col"> 
