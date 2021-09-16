@@ -2,8 +2,7 @@
 title: Singapore’s Tech-Driven Response to COVID-19
 permalink: /covid-19/covid-19-tech
 ---
-
-#  Singapore’s Tech-Driven Response to the COVID-19 Pandemic
+#  Singapore Harnesses Tech for COVID-19 Pandemic Measures
 
  ![Alt text for image on Isomer site](/images/covid-19/SafeEntryGatwayCheckOutBox.jpg)
 
