@@ -10,6 +10,8 @@ links:
     collection: community
   - title: Media Hub
     resource_room: true
+  - title: Resources
+    collection: resources
   - title: Careers
     url: /careers/join-sndgo
     sublinks:
@@ -21,5 +23,3 @@ links:
         url: /careers/smart-nation-fellowship
       - title: Careers in Gov ICT & SS
         url: https://techcareers.smartnation.gov.sg/
-  - title: Resources
-    collection: resources
