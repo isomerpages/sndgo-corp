@@ -21,13 +21,6 @@ sections:
           description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
   - infopic:
-      title: Co-create With Us
-      description: Share your feedback on digital Government services via SCOPE
-      button: Find out more
-      url: /community/scope
-      image: /images/community/SmartNationAmbassador01.jpg
-      alt: SCOPE - Co-create with us
-  - infopic:
       title: Combating COVID-19
       description: Learn how Singapore managed the pandemic effectively with technology
       button: Read More Here
@@ -42,5 +35,12 @@ sections:
       url: /initiatives/strategic-national-projects/punggol-digital-district
       image: /images/initiatives/pdd.jpeg
       alt: Punggol Digital District
+  - infopic:
+      title: Co-create With Us
+      description: Share your feedback on digital Government services via SCOPE
+      button: Find out more
+      url: /community/scope
+      image: /images/community/SmartNationAmbassador01.jpg
+      alt: SCOPE - Co-create with us
 notification: ""
 ---
