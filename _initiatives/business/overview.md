@@ -12,7 +12,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 <div class="col"> 
 <a href="/initiatives/business/corppass"><img src="/images/initiatives/overview-pages/corppass.png"></a><br>
     <div class="header"><b>Corppass</b></div><br>
-    <div class="para">A secure log-in method for business to transact with the Government online.</b>
+    <div class="para">A secure log-in method for business to transact with the Government online.
 </div>
 <br>
 
@@ -20,7 +20,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 	<div class="col"> 
 <a href="/initiatives/business/dipo"><img src="/images/initiatives/dipo2.jpeg"></a><br>
      <div class="header"><b>Data Innovation Programme Office</b></div><br>
-    <div class="para">Provides flexibility to work with and share data to encourage innovation among private sector organisations. </b>
+    <div class="para">Provides flexibility to work with and share data to encourage innovation among private sector organisations. 
 </div>
 <br>
 
@@ -28,7 +28,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 	<div class="col"> 
 <a href="/initiatives/business/fintech-initiatives"><img src="/images/initiatives/overview-pages/fintech-sandbox.png"></a><br>
     <div class="header"><b>FinTech Sandbox</b></div><br>
-    <div class="para">A regulatory sandbox providing a secure space for companies to test out their FinTech-related innovations.</b>
+    <div class="para">A regulatory sandbox providing a secure space for companies to test out their FinTech-related innovations.
 </div>
 <br></div></div>
 
@@ -36,7 +36,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 	<div class="col">
 <a href="/initiatives/business/networked-trade-platform"><img src="/images/initiatives/overview-pages/networked-trade-platform.png"></a><br>
     <div class="header"><b>Networked Trade Platform</b></div><br>
-    <div class="para">The national trade information management platform positions Singapore as the world’s leading trade, supply chain and trade financing hub.</b>
+    <div class="para">The national trade information management platform positions Singapore as the world’s leading trade, supply chain and trade financing hub.
 </div>
 <br>
 
