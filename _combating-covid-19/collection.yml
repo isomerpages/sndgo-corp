@@ -4,6 +4,6 @@ collections:
     order:
       - overview.md
       - digital-contact-tracing.md
-      - community-preparedness-and-confidence.md
+      - community-preparedness.md
       - flow-of-verified-information.md
       - economic-and-social-support.md
