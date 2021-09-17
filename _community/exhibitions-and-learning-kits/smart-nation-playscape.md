@@ -1,8 +1,9 @@
 ---
 title: Smart Nation Playscape
-permalink: /community/exhibitions-showcases/playscape
+permalink: /community/learn/playscape
 third_nav_title: Exhibitions And Learning Kits
 ---
+
 
 
 
