@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /community/learn/overview
+permalink: /community/showcases/overview
 third_nav_title: Showcases
 ---
+
 
 # Smart Nation Exhibitions and Showcases
 ![Alt text for image on Isomer site](/images/community/Cityscape-06.jpg)
