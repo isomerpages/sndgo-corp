@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - a-secure-smart-nation/.keep
+      - a-secure-smart-nation/a-secure-smart-nation.md
       - pillars-of-a-smart-nation.md
       - transforming-sg-through-technology.md
