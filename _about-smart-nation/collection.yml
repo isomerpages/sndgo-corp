@@ -2,5 +2,6 @@ collections:
   about-smart-nation:
     output: true
     order:
+      - a-secure-smart-nation/.keep
       - pillars-of-a-smart-nation.md
       - transforming-sg-through-technology.md
