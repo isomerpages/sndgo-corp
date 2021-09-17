@@ -1,5 +1,0 @@
-collections:
-  delete:
-    output: true
-    order:
-      - our-accomplishments.md
