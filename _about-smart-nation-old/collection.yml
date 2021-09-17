@@ -2,7 +2,6 @@ collections:
   about-smart-nation-old:
     output: true
     order:
-      - transforming-sg-through-technology.md
       - a-secure-smart-nation/.keep
       - a-secure-smart-nation/a-secure-smart-nation.md
       - a-secure-smart-nation/governments-personal-data-protection-initiatives.md
