@@ -1,8 +1,9 @@
 ---
 title: CityScape Gallery
-permalink: /community/showcase/cityscape
+permalink: /community/showcases/cityscape
 third_nav_title: Showcases
 ---
+
 
 
 
