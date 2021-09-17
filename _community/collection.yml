@@ -8,9 +8,9 @@ collections:
       - events/.keep
       - events/our-smart-nation-events.md
       - apps-for-you.md
-      - exhibitions/.keep
-      - exhibitions/exhibitions-for-you.md
-      - exhibitions/cityscape-gallery.md
-      - exhibitions/smart-nation-playscape.md
+      - exhibitions-and-showcases/.keep
+      - exhibitions-and-showcases/exhibitions-for-you.md
+      - exhibitions-and-showcases/cityscape-gallery.md
+      - exhibitions-and-showcases/smart-nation-playscape.md
       - opportunities-and-help-for-the-community.md
       - contribute-to-smart-nation.md
