@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - a-secure-smart-nation/.keep
-      - national-ai-strategy.md
       - about-sndgg.md
       - our-accomplishments.md
       - accomplishments.md
