@@ -1,8 +1,9 @@
 ---
 title: CityScape Gallery
-permalink: /community/exhibitions/cityscape
+permalink: /community/exhibitions-showcases/cityscape
 third_nav_title: Exhibitions And Showcases
 ---
+
 
 # Smart Nation CityScape in URA’s Singapore City Gallery
 <br>
