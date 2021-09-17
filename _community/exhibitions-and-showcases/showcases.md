@@ -1,8 +1,9 @@
 ---
 title: Showcases
-permalink: /community/exhibitions-showcases/showcases
+permalink: /community/showcases/overview
 third_nav_title: Exhibitions And Showcases
 ---
+
 
 
 
