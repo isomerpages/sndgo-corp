@@ -1,5 +1,20 @@
 logo: /images/smart-nation-logo.png
 links:
+  - title: About Smart Nation
+    url: /about-smart-nation
+    sublinks:
+      - title: "Pillars Of A Smart Nation "
+        url: /about-smart-nation/pillars-of-smart-nation
+      - title: Transforming SG Through Tech
+        url: /about-smart-nation/transforming-singapore
+      - title: A Secure Smart Nation
+        url: /about-smart-nation/secure-smart-nation
+      - title: National AI Strategy
+        url: /about-smart-nation/artificial-intelligence
+      - title: About SNDGG
+        url: /about-smart-nation/sndgg
+      - title: Our Accomplishments
+        url: /about-smart-nation/accomplishments
   - title: Initiatives
     collection: initiatives
   - title: Combating COVID-19
@@ -36,8 +51,3 @@ links:
         url: /careers/smart-nation-fellowship
       - title: Careers in Gov ICT & SS
         url: https://techcareers.smartnation.gov.sg/
-  - title: About Smart Nation
-    url: /about-smart-nation
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
