@@ -1,8 +1,9 @@
 ---
 title: Smart Nation Playscape
-permalink: /community/learn/playscape
+permalink: /community/showcases/playscape
 third_nav_title: Showcases
 ---
+
 
 
 
