@@ -3,11 +3,6 @@ title: Smart City Governments Ranking 2021
 permalink: /about-smart-nation/accomplishments/2021-02
 third_nav_title: Our Accomplishments
 ---
-
-
-
-
-
 # Climbing to the Top
 
 [Eden Strategy Institute](https://www.edenstrategyinstitute.com/) and ONG&amp;ONG have put together a biennial study that ranks Smart City Governments across the world. The study focuses on the role of city governments and how they drive their smart city initiatives. 
@@ -27,4 +22,4 @@ The Top 50 Smart City Government ranking is based on the Institute’s secondary
 9. **Talent-Readiness** - Programmes to equip the city’s talent with smart skills 
 10. **Track Record** - The government’s experience in catalysing successful smart city initiatives 
 
-To find the list of the Top 50 Smart City Government Ranking for 2021/21 or for more information on the Study, please visit <a href="https://www.smartcitygovt.com/">www.smartcitygovt.com</a>
+To find the list of the Top 50 Smart City Government Ranking for 2020/21 or for more information on the Study, please visit <a href="https://www.smartcitygovt.com/">www.smartcitygovt.com</a>
