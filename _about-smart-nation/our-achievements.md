@@ -2,7 +2,6 @@
 title: Our Achievements
 permalink: /about-smart-nation/achievements
 ---
-
 # Our Achievements
 ![Alt text for image on Isomer site](/images/abt-smart-nation/sg-fireworks.jpg)
 
@@ -22,7 +21,7 @@ Singapore ranked first among 82 countries in [Roland Berger's](https://www.rolan
 
 Singapore was lauded for its inclusive measures such as free public WiFi and financial assistance schemes for digital skills training, which have been credited with supporting wider digital adoption, and narrowing the digital divide.
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/digital-inclusion-index-2021.jpeg)
+![Alt text for image on Isomer site](/images/abt-smart-nation/digital-inclusin-index-2021.jpeg)
 
 Find out more <a href="https://www.rolandberger.com/en/Insights/Publications/Bridging-the-digital-divide.html?fbclid=IwAR38j3B4hMRI4oM92dQX2_gPgfGRbworFVVY5PD0QykKU_mdU1lktxKwjPs" target="_blank">here</a>.
 
@@ -42,7 +41,7 @@ Still hustlin', still innovating. For the second year running, Singapore has cli
 
 Ling Su Min, Partner, Head of Clients, Markets & Innovation, KPMG in Singapore said, “Singapore's accomplishments as a leading tech innovation hub have been part of the country's strategic vision. It reinforces other strengths that the nation has consciously built up, such as a reputable global financial hub and a critical gateway for businesses to access the rest of Asia. The recognition that we are only stronger if competitive on multiple fronts in today’s digitally connected global economy, has fostered greater collaboration and convergence between sectors, industries and previously dispersed ecosystems. These attributes continue to draw top talent to live, work and play in this city in a garden (Singapore), as we work together for a better and greener future.”
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/leading-technology-hubs-2021.jpeg)
+![Alt text for image on Isomer site](/images/abt-smart-nation/leading-tech-hubs-2021.jpeg)
 
 Find out more <a href="https://go.gov.sg/bt-190721-a" target="_blank">here</a>.
 
