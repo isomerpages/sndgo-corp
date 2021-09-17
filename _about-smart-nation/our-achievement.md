@@ -2,8 +2,7 @@
 title: Our Achievement
 permalink: /about-smart-nation/achievements
 ---
-
-# Our Accomplishments
+# Our Achievements
 ![Alt text for image on Isomer site](/images/abt-smart-nation/sg-fireworks.jpg)
 
 *   Top spot in Roland Berger's Digital Inclusion Index (2021)
@@ -76,5 +75,3 @@ Singapore’s top score reflects its people’s satisfaction with the government
 *Photo by <a href="https://unsplash.com/@lucaslaw?utmsource=unsplash&amp;utmmedium=referral&amp;utmcontent=creditCopyText">Lucas Law</a> on <a href="https://unsplash.com/s/photos/singapore-skyscraper?utmsource=unsplash&amp;utmmedium=referral&amp;utmcontent=creditCopyText">Unsplash</a>*
 
 Find out more <a href="https://www.imd.org/research-knowledge/reports/imd-smart-city-index-2019/" target="_blank">here</a>.
-
-
