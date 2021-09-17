@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - a-secure-smart-nation/.keep
-      - about-sndgg.md
       - our-accomplishments.md
       - accomplishments.md
