@@ -2,5 +2,4 @@ collections:
   about-smart-nation-old:
     output: true
     order:
-      - a-secure-smart-nation/.keep
       - our-accomplishments.md
