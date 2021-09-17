@@ -36,3 +36,8 @@ links:
         url: /careers/smart-nation-fellowship
       - title: Careers in Gov ICT & SS
         url: https://techcareers.smartnation.gov.sg/
+  - title: About Smart Nation
+    url: /about-smart-nation
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
