@@ -1,8 +1,9 @@
 ---
 title: CityScape Gallery
-permalink: /community/exhibitions-showcases/cityscape
+permalink: /community/learn/cityscape
 third_nav_title: Exhibitions And Learning Kits
 ---
+
 
 
 
