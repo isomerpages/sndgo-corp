@@ -1,5 +1,5 @@
 collections:
-  about-smart-nation:
+  about-smart-nation-old:
     output: true
     order:
       - pillars-of-a-smart-nation.md
