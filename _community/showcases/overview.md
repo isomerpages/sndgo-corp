@@ -3,10 +3,10 @@ title: Overview
 permalink: /community/showcases/overview
 third_nav_title: Showcases
 ---
-# Smart Nation Exhibitions and Showcases
+# Smart Nation Showcases
 ![Alt text for image on Isomer site](/images/community/Cityscape-06.jpg)
 
-The Smart Nation exhibitions and showcases seek to:
+The Smart Nation showcases seek to:
 
 * Demonstrate how Singapore’s Smart Nation initiatives have come together, and become integrated into our daily lives
 
