@@ -36,6 +36,14 @@ sections:
       image: /images/initiatives/pdd.jpeg
       alt: Punggol Digital District
   - infopic:
+      title: "#SmartNationTogether"
+      subtitle: Infopic Subtitle
+      description: Pick up new skills at our tech-related webinars and workshops for
+        kids, working adults and seniors.
+      button: FIND OUT MORE
+      url: https://together.smartnation.gov.sg/
+      alt: Smart Nation Together
+  - infopic:
       title: Co-create With Us
       description: Share your feedback on digital Government services via SCOPE
       button: Find out more
