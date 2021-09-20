@@ -23,7 +23,7 @@ sections:
   - infopic:
       title: Combating COVID-19
       description: Learn how Singapore managed the pandemic effectively with technology
-      button: Read More Here
+      button: Read more about it
       url: /covid-19/covid-19-tech
       image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
       alt: "Covid-19 Technology "
