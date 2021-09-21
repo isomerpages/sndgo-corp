@@ -3,14 +3,15 @@ title: Smart Nation Sensor Platform
 permalink: /initiatives/strategic-national-projects/smart-nation-sensor-platform
 third_nav_title: Strategic National Projects
 ---
-![Alt text for image on Isomer site](/images/initiatives/smart-nation-sensor-platform-snp.jpeg)
 # Using Data to Build a Better Future
+
+![Alt text for image on Isomer site](/images/initiatives/smart-nation-sensor-platform-snp.jpeg)
 
 In this digital age, we’re surrounded by huge amounts of data. The question is how we can organise and tap on the most relevant data,  to plan and develop better solutions that will improve the way we live in our city. 
 
 The answer lies in our Smart Nation Sensor Platform (SNSP). This is an integrated, nationwide platform that uses sensors to collect essential data that can be analysed to create smart solutions. 
 
-Read on to find out how: 
+Read on to find out how.
 
 **Tracking Water Usage and Leaks**
 
@@ -38,4 +39,4 @@ We started the Lamppost-as-a-Platform  trial in 2019 by placing sensors on lamp 
 
 We also plan to collect environmental data to learn how we are being affected by global warming.
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:70%;height:70%;"><img src="/images/initiatives/smart-lamp-post-govtech.png"></a></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:70%;height:70%;"><img src="/images/initiatives/smart-lamp-post-govtech.png"></div></div>
