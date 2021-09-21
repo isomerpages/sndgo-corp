@@ -61,7 +61,7 @@ A new solar target of 540 MWp by 2030 has since been announced, and this could p
 
 #### Pneumatic Waste Conveyance System
 
-This automated waste collection system uses a vacuum-type underground pipe network to collect and transport household waste to a sealed container through underground pipes. Trucks periodically collect the waste for disposal. The benefits of this system include:
+This <a href="https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/hdb-greenprint/waste-management" target="_blank">automated waste collection system</a> uses a vacuum-type underground pipe network to collect and transport household waste to a sealed container through underground pipes. Trucks periodically collect the waste for disposal. The benefits of this system include:
 
 * Reduced need for manual labour
 * A cleaner, more hygienic environment with less foul odour emitted from refuse chutes
