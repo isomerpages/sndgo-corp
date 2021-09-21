@@ -16,4 +16,4 @@ If you are a business owner, take advantage of Corppass today by:
 1. Managing your employees via Corppass to transact on your organisation’s behalf  
 2. Using Corppass to grant and manage authorisations given to different employees within your organisation
 
-Learn more about [Corppass here](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login).
+Learn more about Corpass [here](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login).
