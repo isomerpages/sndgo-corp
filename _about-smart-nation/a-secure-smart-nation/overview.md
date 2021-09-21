@@ -15,40 +15,36 @@ Cybersecurity and data security are key enablers of a Smart Nation. The Governme
 
 We will also ensure that citizens’ data is handled with care, and protect the data in accordance with the high standards imposed on the public sector and third-party vendors.
 
-Find out more about how the Government protects your data and safeguards its systems:          
+Find out more about how the Government protects your data and safeguards its systems:
 
 <br>
-<div class="row">
-<div class="col"> 
-<a href="/about-smart-nation/secure-smart-nation/cybersecurity"><img src="/images/abt-smart-nation/cybersecurity.png"></a><br>
-		<div class="header"><b>Cybersecurity in the Public Sector</b></div><br>
-		<div class="para">Three-pronged approach to secure our systems.
-</div>
+
+<div style="width:60%;height:60%;">
+
+
+####    Cybersecurity in the Public Sector
+
+<a href="/about-smart-nation/secure-smart-nation/cybersecurity"><img src="/images/abt-smart-nation/cybersecurity.png"></a>
+
+Three-pronged approach to secure our systems.
+
+####     Government's Personal Data Protection Laws and Policies
+
+<a href="/about-smart-nation/secure-smart-nation/personal-data-protection"><img src="/images/abt-smart-nation/govt-personal-data-protection.png"></a>
+
+Data management by public sector agencies and third-parties working with public agencies. 
+
+####     Government’s Personal Data Protection Initiatives
+
+<a href="/about-smart-nation/secure-smart-nation/pdp-initiatives"><img src="/images/abt-smart-nation/govt-pdp-initiativies.png"></a>
+
+Recommendations and initiatives to strengthen the Government’s data security regime.</div>
+
+
 <br>
 
-</div>
-	<div class="col"> 
-<a href="/about-smart-nation/secure-smart-nation/personal-data-protection"><img src="/images/abt-smart-nation/govt-personal-data-protection.png"></a><br>
-	<div class="header"><b>Government's Personal Data Protection Laws and Policies</b></div><br>
-	<div class="para">Data management by public sector agencies and third-parties working with public agencies.
-</div>
-<br>
-</div></div>
+----------
 
-<br>
-<div class="row">
-<div class="col"> 
-<a href="/about-smart-nation/secure-smart-nation/pdp-initiatives"><img src="/images/abt-smart-nation/govt-pdp-initiativies.png"></a><br>
-	<div class="header"><b>Government’s Personal Data Protection Initiatives</b></div><br>
-	<div class="para">Recommendations and initiatives to strengthen the Government’s data security regime.
-</div>
-<br>
+#### Report data incident here...
 
-</div>
-	<div class="col"> 
-
-<br></div></div>
-
-### Government Data Incident Reporting Platform
-
-<a href="/about-smart-nation/secure-smart-nation/report-data-incident"><img src="/images/abt-smart-nation/rdi-banner.png"></a><br>
+<a href="/about-smart-nation/secure-smart-nation/report-data-incident"><img src="/images/abt-smart-nation/report-data-incident.png"></a></div>
