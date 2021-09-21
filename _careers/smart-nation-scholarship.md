@@ -3,6 +3,7 @@ title: Smart Nation Scholarship
 permalink: /careers/smart-nation-scholarship
 ---
 # Do You Have What It Takes?
+<br>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/tER0COx2WxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
