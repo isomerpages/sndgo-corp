@@ -11,8 +11,7 @@ permalink: /about-smart-nation/achievements
 *   Top spot in IMD-SUTD Smart City Index (2020)
 *    Top spot in IMD-SUTD Smart City Index (2019)
 
-***
-
+----------
 ## 2021
 
 ### Singapore come up tops for digital inclusiveness!
@@ -45,7 +44,8 @@ Ling Su Min, Partner, Head of Clients, Markets & Innovation, KPMG in Singapore s
 
 Find out more <a href="https://go.gov.sg/bt-190721-a" target="_blank">here</a>.
 
-***
+----------
+
 ## 2020
 
 ### Singapore topped the IMD-SUTD Smart City Index for 2nd Year Running
@@ -58,7 +58,8 @@ For 2020, Institute for Management Development (IMD) surveyed citizens from 109 
 
 Find out more  <a href="https://www.imd.org/news/updates/singapore-helsinki-zurich-triumph-global-smart-city-index/" target="_blank"> here </a>.
 
-***
+----------
+
 ## 2019
 
 ### Singapore took top spot in the IMD-SUTD Smart City Index
