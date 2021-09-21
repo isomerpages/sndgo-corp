@@ -4,6 +4,7 @@ permalink: /community/events/overview
 third_nav_title: Events
 ---
 ### Smart Nation & U 2021 
+<br>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Z8cPxk-gLSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -17,6 +18,7 @@ Find out more about the event [here](/media-hub/press-releases/Smart-Nation-&-U-
 
 
 ### SkillsFuture Month X Smart Nation 2021
+<br>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/fk1DKUrCV0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
