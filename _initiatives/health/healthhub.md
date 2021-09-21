@@ -4,7 +4,7 @@ permalink: /initiatives/health/healthhub
 third_nav_title: Health
 ---
 # Your Health at Your Fingertips
-<br><iframe width="560" height="315" src="https://www.youtube.com/embed/CapIbLbLNaA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CapIbLbLNaA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 HealthHub is a Singaporeans’ “digital healthcare companion”, providing one-stop access to their personal medical records, links to healthcare services and institutions and related information and tools so they can take control of their health.  
   
