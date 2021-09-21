@@ -33,13 +33,20 @@ Find out more about how the Government protects your data and safeguards its sys
 	<div class="para">Data management by public sector agencies and third-parties working with public agencies.
 </div>
 <br>
+</div></div>
 
-</div>
-	<div class="col"> 
+<br>
+<div class="row">
+<div class="col"> 
 <a href="/about-smart-nation/secure-smart-nation/pdp-initiatives"><img src="/images/abt-smart-nation/govt-pdp-initiativies.png"></a><br>
 	<div class="header"><b>Government’s Personal Data Protection Initiatives</b></div><br>
 	<div class="para">Recommendations and initiatives to strengthen the Government’s data security regime.
 </div>
+<br>
+
+</div>
+	<div class="col"> 
+
 <br></div></div>
 
 ### Government Data Incident Reporting Platform
