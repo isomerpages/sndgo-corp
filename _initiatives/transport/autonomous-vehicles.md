@@ -80,8 +80,9 @@ For the next phase, they will be guided by satellite. The aim is to have them ev
 
 ***
 
-### Related Links
+----------
+**Related Links:**
 	
-<a href="https://www.mot.gov.sg/Transport-Matters/motoring/detail/driverless-vehicles-a-vision-for-singapore-s-transport" target="_blank">Driverless Vehicles: A Vision for Singapore’s Transport</a>
+* <a href="https://www.mot.gov.sg/Transport-Matters/motoring/detail/driverless-vehicles-a-vision-for-singapore-s-transport" target="_blank">Driverless Vehicles: A Vision for Singapore’s Transport</a>
 
-<a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/3/2/factsheet-leveraging-technology-for-a-smarter-and-greener-transport-system.html" target="_blank">Factsheet: Leveraging Technology for a Smarter and Greener Transport System</a>
+* <a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/3/2/factsheet-leveraging-technology-for-a-smarter-and-greener-transport-system.html" target="_blank">Factsheet: Leveraging Technology for a Smarter and Greener Transport System</a>
