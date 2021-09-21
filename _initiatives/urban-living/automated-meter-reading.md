@@ -8,7 +8,7 @@ third_nav_title: Urban Living
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-DR_q5WlUcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Collecting and analysing data on how we use water can go a long way towards helping us become more efficient with the precious resource. PUB, our national water agency, is progressively rolling out smart water meters to replace our current mechanical meters.
+Collecting and analysing data on how we use water can go a long way towards helping us become more efficient with the precious resource. PUB, our national water agency, is progressively rolling out <a href="https://www.pub.gov.sg/smartwatermeterprogramme/about" target="_blank">smart water meters</a> to replace our current mechanical meters.
 
 The smart water meters are designed to monitor, collect and make data on the use of water readily accessible for consumers via a mobile app.
 
