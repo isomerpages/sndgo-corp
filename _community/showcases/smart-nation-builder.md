@@ -9,4 +9,4 @@ Smart Nation Builder is a roving showcase for citizens to co-create digital prod
 
 * collect feedback and suggestions about user-journets
 * vote on the best digital solutions for existing projects
-* gateher feedback with [SCOPE](/community/SCOPE)
+* gather feedback with [SCOPE](/community/SCOPE)
