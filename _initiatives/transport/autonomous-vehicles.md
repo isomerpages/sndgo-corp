@@ -26,7 +26,7 @@ Ongoing trials allow us to study the potential of autonomous vehicles, and you c
 *Image: ASTAR*
   
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cUDgTRxP4ks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cUDgTRxP4ks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A* STAR’s self-driving vehicle was the first autonomous vehicle approved for public road testing at one-north in July 2015. This iconic vehicle has ferried Prime Minister Lee Hsien Loong and Cabinet ministers such as S. Iswaran, Vivian Balakrishnan as well as ministers from other countries.
 
@@ -78,7 +78,9 @@ Driverless trucks have gone on trial on Jurong Island since September 2017. Thes
 
 For the next phase, they will be guided by satellite. The aim is to have them eventually ply public roads autonomously.
 
-## Related Links
+***
+
+### Related Links
 	
 <a href="https://www.mot.gov.sg/Transport-Matters/motoring/detail/driverless-vehicles-a-vision-for-singapore-s-transport" target="_blank">Driverless Vehicles: A Vision for Singapore’s Transport</a>
 
