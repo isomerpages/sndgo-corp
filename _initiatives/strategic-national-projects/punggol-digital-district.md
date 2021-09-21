@@ -4,8 +4,9 @@ permalink: /initiatives/strategic-national-projects/punggol-digital-district
 third_nav_title: Strategic National Projects
 ---
 # Punggol Digital District: Singapore’s Town for the Future
+<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3SBpl95qxNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/3SBpl95qxNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Imagine a business park, university and community facilities conveniently located next to each other in one digital district. Sounds great, doesn’t it?
 
