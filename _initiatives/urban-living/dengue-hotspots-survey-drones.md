@@ -21,5 +21,5 @@ Drones not only allow us to survey roof gutters easily, they can also be equippe
 
 ----------
 **Related Links:**
+* <a href="https://www.straitstimes.com/singapore/drones-join-nea-battle-against-dengue" target="_blank">Drones join NEA battle against dengue</a>
 
-https://www.straitstimes.com/singapore/drones-join-nea-battle-against-dengue
