@@ -20,4 +20,4 @@ SCOPE is our co-creation platform designed to let you test the latest digital go
 * <a href="https://www.research.net/r/MultilanguageGovt" target="_blank">**Survey open to everyone:**</a> Take this survey to share your thoughts on the effectiveness of our machine-translated content in your mother tongue
 
 
-You can also contribute by joining our growing Smart Nation Ambassador family. [Find out how here.](/community/smart-nation-ambassadors)
+You can also contribute by joining our growing Smart Nation Ambassador family. Find out how [here.](/community/smart-nation-ambassadors)
