@@ -24,8 +24,8 @@ Technology can lighten the workload of our healthcare workers with tools such as
 **Other examples include:**
 
 * An industrial robotic arm that can pick and pack a range of objects, including fragile medical items. 
-* 	Automated guided vehicles that can transport food, linen documents,or move heavy items such as beds.
-* 	Augmented reality for doctors to explore and learn medical treatments and procedures.
+* Automated guided vehicles that can transport food, linen documents,or move heavy items such as beds.
+* Augmented reality for doctors to explore and learn medical treatments and procedures.
 
 
 ## RoboCoach Xian
