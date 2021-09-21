@@ -18,3 +18,8 @@ Roof gutters that are maintained less regularly tend to collect stagnant water, 
 Our tech solution: Drones. 
 
 Drones not only allow us to survey roof gutters easily, they can also be equipped to dispense larvicide to effectively eradicate mosquito breeding habitats.
+
+----------
+**Related Links:**
+
+https://www.straitstimes.com/singapore/drones-join-nea-battle-against-dengue
