@@ -19,22 +19,8 @@ We will also ensure that citizens’ data is handled with care, and protect the 
 
 Find out more about how the Government protects your data and safeguards its systems:          
 
+
 <br>
-<div style="width:100%;display:flex;flex-wrap:wrap;">  
-  <div style="flex:50%;padding:1%;"> 
-    <a href="/about-smart-nation/secure-smart-nation/pdp-initiatives"><img src="/images/abt-smart-nation/govt-pdp-initiativies.png"></a><br>
-    <div class="header"><b>Government’s Personal Data Protection Initiatives</b></div>
-    <br><br>
-		<div class="para">Recommendations and initiatives to strengthen the Government’s data security regime.</div>
-  </div>
-  <div style="flex:50%;padding:1%;"> 
-    <a href="/about-smart-nation/secure-smart-nation/personal-data-protection"><img src="/images/abt-smart-nation/govt-personal-data-protection.png"></a><br>   
-    <div class="header"><b>Government's Personal Data Protection Laws and Policies</b></div>
-    <br><br>
-    <div class="para">Data management by public sector agencies and third-parties working with public agencies.</div>
-  </div>
-	</div><br>
-	
 <div style="width:100%;display:flex;flex-wrap:wrap;">  
   <div style="flex:50%;padding:1%;"> 
     <a href="/about-smart-nation/secure-smart-nation/cybersecurity"><img src="/images/abt-smart-nation/cybersecurity.png"></a><br>
@@ -42,6 +28,21 @@ Find out more about how the Government protects your data and safeguards its sys
     <br><br>
     <div class="para">Three-pronged approach to secure our systems.</div>
   </div>     
+  <div style="flex:50%;padding:1%;"> 
+    <a href="/about-smart-nation/secure-smart-nation/personal-data-protection"><img src="/images/abt-smart-nation/govt-personal-data-protection.png"></a><br>   
+    <div class="header"><b>Government's Personal Data Protection Laws and Policies</b></div>
+    <br>
+    <div class="para">Data management by public sector agencies and third-parties working with public agencies.</div>
+  </div>
+	</div><br>
+	
+<div style="width:100%;display:flex;flex-wrap:wrap;">  
+  <div style="flex:50%;padding:1%;"> 
+    <a href="/about-smart-nation/secure-smart-nation/pdp-initiatives"><img src="/images/abt-smart-nation/govt-pdp-initiativies.png"></a><br>
+    <div class="header"><b>Government’s Personal Data Protection Initiatives</b></div>
+    <br>
+		<div class="para">Recommendations and initiatives to strengthen the Government’s data security regime.</div>
+  </div>
   <div style="flex:50%;padding:1%;">
     <a href="/about-smart-nation/secure-smart-nation/report-data-incident/"><img src="/images/abt-smart-nation/report-data-incident.png"></a><br>
     <div class="header"><b>Report a Government Data Incident</b></div>
