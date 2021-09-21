@@ -30,7 +30,7 @@ Technology can lighten the workload of our healthcare workers with tools such as
 
 ## RoboCoach Xian
 
-![robocoach xian](/images/initiatives/smart-nation-robocoach.jpg)
+<div style="width:70%;height:70%;"><img src="/images/initiatives/smart-nation-robocoach.jpg" alt="RoboCoach Xian" class="center"></div>
 
 RoboCoach Xian is a trainer teaching physical exercise routines to senior citizens individually or in groups. Enhanced with sensors, it offers personalised, gentle exercise routines that the elderly and young children can do, with low risk of injury.
 
