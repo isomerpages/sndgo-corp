@@ -20,6 +20,7 @@ collections:
       - urban-living/oneservice-app.md
       - urban-living/smart-urban-planning.md
       - urban-living/smart-towns.md
+      - urban-living/oneservice-chatbot.md
       - transport/.keep
       - transport/overview.md
       - transport/autonomous-vehicles.md
