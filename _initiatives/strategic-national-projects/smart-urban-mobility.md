@@ -29,4 +29,4 @@ These trials will help us to assess the feasibility of autonomous or self-drivin
 
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:60%;height:60%;"><img src="/images/initiatives/smart-urban-mobility.jpeg" alt="smart urban mobility infographics" class="center"></div></div>
 
-Find out more about our initiatives for [transport here](/initiatives/transport).
+Find out more about our initiatives for transport [here](/initiatives/transport).
