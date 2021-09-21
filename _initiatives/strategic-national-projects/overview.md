@@ -10,7 +10,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <br>
 <div class="row">
 <div class="col"> 
-<a href="initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a>
+<a href="/initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a>
 <br>
 <div class="header"><b>Business Grants Portal & GoBusiness Licensing</b>
 </div>
