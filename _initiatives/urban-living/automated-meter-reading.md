@@ -6,13 +6,17 @@ third_nav_title: Urban Living
 # Tracking Water Data from Tap to App
 <br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Jfy-T0uggCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/-DR_q5WlUcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Collecting and analysing data on how we use water can go a long way towards helping us become more efficient with the precious resource. PUB, our national water agency, is progressively rolling out smart water meters to replace our current mechanical meters.
 
 The smart water meters are designed to monitor, collect and make data on the use of water readily accessible for consumers via a mobile app.
 
 ## Automated Meter Reading (AMR) Trial
+<br>
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Jfy-T0uggCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The AMR trial is part of the <a href="https://www.pub.gov.sg/news/pressreleases/transformingpubintothesmartutilityofthefuture" target="_blank">SMART PUB roadmap</a> to digitalise Singapore’s entire water system. The roadmap allows PUB to improve its operations through smarter water quality management, network improvements, integrated customer engagements and smarter work processes.
 
