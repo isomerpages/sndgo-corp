@@ -78,8 +78,6 @@ Driverless trucks have gone on trial on Jurong Island since September 2017. Thes
 
 For the next phase, they will be guided by satellite. The aim is to have them eventually ply public roads autonomously.
 
-***
-
 ----------
 **Related Links:**
 	
