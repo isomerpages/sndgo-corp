@@ -4,7 +4,6 @@ permalink: /initiatives/urban-living/amr
 third_nav_title: Urban Living
 ---
 # Tracking Water Data from Tap to App
-<br>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Jfy-T0uggCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
