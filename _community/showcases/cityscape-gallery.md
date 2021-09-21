@@ -3,16 +3,9 @@ title: CityScape Gallery
 permalink: /community/showcases/cityscape
 third_nav_title: Showcases
 ---
-
-
-
-
-
-
-
-
 # Smart Nation CityScape in URA’s Singapore City Gallery
 <br>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/2QJqf0CZ4d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Learn all about what makes Singapore a Smart Nation, with this exhibition that has been integrated with the Singapore City Gallery.
