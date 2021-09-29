@@ -27,13 +27,13 @@ The Smart Nation initiative is our way forward. Technology will be so seamlessly
 
 Learn more about the framework guiding our Smart Nation initiative: [Smart Nation: The Way Forward(1.4mb)](/files/publications/smart-nation-strategy-nov2018.pdf).
 
-----------
+
 
 ## Our Strategic National Projects
 
 We have identified key Strategic National Projects to drive and enable the adoption of digital and smart technologies throughout Singapore. Find out more about our Strategic National Projects [here](/initiatives/strategic-national-projects).
 
-----------
+
 
 ## Enabling a Culture of Innovation and Experimentation
 
@@ -41,29 +41,29 @@ Our innovation and growth are rooted in our people and culture. For our Smart Na
 
 You can read about the initiatives we have to facilitate this culture of innovation below.
 
-#### Open Data
+### Open Data
 
 Data sets collected by public agencies are now available and accessible to the public through online portals, making it easy for developers to co-create digital solutions to benefit society. Access the open data sets available [here](/resources/open-data).
 
-#### Living Laboratory
+### Living Laboratory
 
 Research and innovation initiatives such as <a href="https://www.nrf.gov.sg/about-nrf/rie-ecosystem" target="_blank">Research, Innovation and Enterprise</a> and <a href="https://www.aisingapore.org/" target="_blank">AI Singapore</a> allow us to leverage emerging tech breakthroughs to drive our Smart Nation goals. Our Digital Economy is also an attractive hotbed for companies and researchers to develop, prototype and pilot their technological solutions.
 
-#### Industry and Start-up Ecosystem
+### Industry and Start-up Ecosystem
 
 Singapore’s start-up ecosystem is built on a strong network of venture capitalists, MNCs, start-up accelerators such as <a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/jtc-launchpad.aspx" target="_blank">JTC Launchpad</a> and the <a href="https://www.sginnovate.com/" target="_blank">SGInnovate</a> . Currently, we are developing the [Punggol Digital District (PDD)](/initiatives/strategic-national-projects/punggol-digital-district) as an attractive hotbed for the world’s best tech companies and talents to converge, innovate and create iconic solutions to boost our Digital Economy.
 
-#### Cybersecurity and Data Privacy
+### Cybersecurity and Data Privacy
 
 Cybersecurity helps us safeguard our Smart Nation growth by keeping critical systems and networks secure. We have our eye on possible risks and prioritise data privacy at all times.
 
-#### Computational Capabilities and Digital Inclusion
+### Computational Capabilities and Digital Inclusion
 
 Basic coding and computational thinking skills will help everyone benefit from our Smart Nation growth, regardless of age or digital literacy. We currently offer resources to assist both [individuals](https://smartnationsg-staging.netlify.app/community/supporting-the-community) and [businesses](https://smartnationsg-staging.netlify.app/about-smart-nation/business-resources) to re-skill, so that they can leverage the growing opportunities of our Digital Economy.
 
 Check out the resources available for [individuals](/community/opportunities) and [businesses.](/resources/business)
 
-#### Cross-border Collaboration
+### Cross-border Collaboration
 
 
 One way for us to grow is through sharing good ideas and best practices, exploring collaborations, and testing people-centric smart solutions within the region.
