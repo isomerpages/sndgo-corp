@@ -1,7 +1,8 @@
 ---
 title: Testing SNT Home Page
-permalink: /testingbed/testingsnthomepage
+permalink: /testing-bed/testingsnthomepage
 ---
+
 
 
 # Welcome to our Online Channel! 
