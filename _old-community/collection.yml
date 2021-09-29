@@ -4,7 +4,6 @@ collections:
     order:
       - smart-nation-ambassadors/.keep
       - our-smart-nation-showcases/.keep
-      - our-smart-nation-showcases/cityscape-gallery.md
       - our-smart-nation-showcases/smart-nation-builder.md
       - our-smart-nation-showcases/my-favourite-days-ar-storybook.md
       - our-smart-nation-events.md
