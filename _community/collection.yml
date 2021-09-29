@@ -4,6 +4,7 @@ collections:
     order:
       - showcases/.keep
       - showcases/overview.md
+      - showcases/smart-nation-builder.md
       - smart-nation-ambassadors/.keep
       - smart-nation-ambassadors/our-smart-nation-ambassadors.md
       - smart-nation-ambassadors/faqs-on-smart-nation-ambassadors.md
