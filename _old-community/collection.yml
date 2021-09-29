@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - smart-nation-ambassadors/.keep
-      - apps-for-you.md
       - our-smart-nation-showcases/.keep
       - our-smart-nation-showcases/overview.md
       - our-smart-nation-showcases/cityscape-gallery.md
