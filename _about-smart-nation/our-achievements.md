@@ -5,11 +5,11 @@ permalink: /about-smart-nation/achievements
 # Our Achievements
 ![Alt text for image on Isomer site](/images/abt-smart-nation/sg-fireworks.jpg)
 
-*   [Top spot in Roland Berger's Digital Inclusion Index (2021)](#singapore-come-up-tops-for-digital-inclusiveness!)
-*   [Top spot in a biennial study that ranks the top 50 smart city governments in the world (2020/2021)](/about-smart-nation/achievements/#Singapore-climbed-to-the-top-of-the-Smart-City-Governments-Ranking)
-*   [Top spot in KPMG’s Global Ranking of leading technology hubs outside of Silicon Valley/San Francisco (2021)](/about-smart-nation/achievements/#Singapore-ranked-first-in-KPMG's-Global-Ranking-of-Leading-Technology-Hubs)
-*   [Top spot in IMD-SUTD Smart City Index (2020)](/about-smart-nation/achievements/#Singapore-topped-the-IMD-SUTD-Smart-City-Index-for-2nd-Year-Running)
-*    [Top spot in IMD-SUTD Smart City Index (2019)](/about-smart-nation/achievements/#Singapore-took-top-spot-in-the-IMD-SUTD-Smart-City-Index)
+*   [Top spot in Roland Berger's Digital Inclusion Index (2021)](#singapore-come-up-tops-for-digital-inclusiveness)
+*   [Top spot in a biennial study that ranks the top 50 smart city governments in the world (2020/2021)](#singapore-climbed-to-the-top-of-the-smart-city-governments-ranking)
+*   [Top spot in KPMG’s Global Ranking of leading technology hubs outside of Silicon Valley/San Francisco (2021)](#singapore-ranked-first-in-kpmgs-global-ranking-of-leading-technology-hubs)
+*   [Top spot in IMD-SUTD Smart City Index (2020)](#singapore-topped-the-imd-sutd-smart-city-index-for-2nd-year-running)
+*    [Top spot in IMD-SUTD Smart City Index (2019)](#singapore-took-top-spot-in-the-imd-sutd-smart-city-index)
 
 ----------
 ## 2021
@@ -36,7 +36,7 @@ Seoul and London took the 2nd and 3rd spots respectively with the third Asian ci
 
 Find out more <a href="https://www.smartcitygovt.com/" target="_blank">here</a>.
 
-[Return to top](/about-smart-nation/achievements#Our-Achievements)
+[Return to top](#our-achievements)
 
 ### Singapore ranked first in KPMG's Global Ranking of Leading Technology Hubs
 
@@ -48,7 +48,7 @@ Ling Su Min, Partner, Head of Clients, Markets & Innovation, KPMG in Singapore s
 
 Find out more <a href="https://go.gov.sg/bt-190721-a" target="_blank">here</a>.
 
-[Return to top](/about-smart-nation/achievements#Our-Achievements)
+[Return to top](#our-achievements)
 
 ----------
 
@@ -64,7 +64,7 @@ For 2020, Institute for Management Development (IMD) surveyed citizens from 109 
 
 Find out more  <a href="https://www.imd.org/news/updates/singapore-helsinki-zurich-triumph-global-smart-city-index/" target="_blank"> here </a>.
 
-[Return to top](/about-smart-nation/achievements#Our-Achievements)
+[Return to top](#our-achievements)
 
 ----------
 
@@ -85,4 +85,4 @@ Singapore’s top score reflects its people’s satisfaction with the government
 
 Find out more <a href="https://www.imd.org/research-knowledge/reports/imd-smart-city-index-2019/" target="_blank">here</a>.
 
-[Return to top](/about-smart-nation/achievements#Our-Achievements)
+[Return to top](#our-achievements)
