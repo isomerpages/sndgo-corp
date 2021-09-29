@@ -1,4 +1,5 @@
 collections:
   community:
     output: true
-    order: []
+    order:
+      - apps-for-you.md
