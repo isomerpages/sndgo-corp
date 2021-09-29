@@ -3,7 +3,7 @@ collections:
     output: false
     order:
       - our-journey.md
-      - our-accordion.md
+      - testing-our-accordion.md
       - testing-our-smart-nation-milestones.md
       - testing-faq-new.md
       - testing-apps-for-you.md
