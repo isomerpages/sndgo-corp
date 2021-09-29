@@ -1,9 +1,10 @@
 ---
 title: Our Accordion
-permalink: /report-data-incident/our-accordion/
+permalink: /testingbed/our-accordion/
 breadcrumb: Our Accordion
 collection_name: report-data-incident
 ---
+
 
 
 <div class="courseAccordion">
