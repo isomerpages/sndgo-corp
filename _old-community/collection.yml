@@ -1,6 +1,0 @@
-collections:
-  old-community:
-    output: true
-    order:
-      - smart-nation-ambassadors/.keep
-      - our-smart-nation-showcases/.keep
