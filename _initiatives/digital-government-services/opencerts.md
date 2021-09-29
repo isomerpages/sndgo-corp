@@ -11,13 +11,13 @@ third_nav_title: Digital Government Services
 
 Developed by the Government Technology Agency, Ministry of Education, Ngee Ann Polytechnic and SkillsFuture Singapore, OpenCerts is built on open-source standards.
 
-**Benefits of Digital Academic Certificates**
+#### Benefits of Digital Academic Certificates
 
 Students can receive their academic certificates and transcripts digitally, which can also be viewed, shared and verified internationally. With OpenCerts, the authenticity of each digital certificate can be trusted, thus reducing costs, time and effort to verify.
 
 Education institutions can choose to publish these certificates on a public ledger for even easier verification.
 
-**Why Blockchain?**
+#### Why Blockchain
 
 Blockchain offers us a tool for a new way of digitally recording transactions. A public blockchain is not owned or maintained by any one person. In other words, it is decentralised. This means all records made on the blockchain cannot be altered or destroyed by any single person. 
 
