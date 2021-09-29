@@ -85,3 +85,5 @@ We’ve also set our sights on goals for 2023 and beyond:
 * No more than 7 working days to share data for cross-agency projects
 
 Read the latest DGB here: [DGB - 30 December 2020 (277kb)](/files/publications/dgb-public-document_30dec20.pdf)
+
+[Return to top](#three-pillars-of-a-smart-nation)
