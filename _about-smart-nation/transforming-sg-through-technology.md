@@ -2,7 +2,6 @@
 title: Transforming SG Through Technology
 permalink: /about-smart-nation/transforming-singapore
 ---
-
 # Transforming Singapore Through Technology
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/Singapore-Tech.jpg)
@@ -28,9 +27,13 @@ The Smart Nation initiative is our way forward. Technology will be so seamlessly
 
 Learn more about the framework guiding our Smart Nation initiative: [Smart Nation: The Way Forward(1.4mb)](/files/publications/smart-nation-strategy-nov2018.pdf).
 
+----------
+
 ## Our Strategic National Projects
 
 We have identified key Strategic National Projects to drive and enable the adoption of digital and smart technologies throughout Singapore. Find out more about our Strategic National Projects [here](/initiatives/strategic-national-projects).
+
+----------
 
 ## Enabling a Culture of Innovation and Experimentation
 
