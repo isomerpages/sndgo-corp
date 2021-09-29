@@ -3,7 +3,6 @@ title: Cybersecurity in the Public Sector
 permalink: /about-smart-nation/secure-smart-nation/cybersecurity
 third_nav_title: A Secure Smart Nation
 ---
-
 # Cybersecurity In The Public Sector
 ![Cybersecurity](/images/abt-smart-nation/cybersecurity.png)
 
@@ -21,8 +20,10 @@ A dedicated team of cybersecurity defenders support and protect all systems with
 
 ## Collaboration with the Community
 
-Digital defence is the 6th pillar of our national defence, and the Government works with the community to stress-test the resilience of our systems. Through the Government Bug Bounty Programme and Vulnerability Disclosure Programme, the Government works with the “white-hat” community to uncover and remediate vulnerabilities within our systems.
+Digital defence is the 6th pillar of our national defence, and the Government works with the community to stress-test the resilience of our systems. Through the <a href="https://www.tech.gov.sg/media/media-releases/2021-08-31-new-vulnerability-rewards-programme" target="_blank">Vulnerability Rewards Programme (VRP)</a>,  <a href="https://www.tech.gov.sg/media/media-releases/third-govt-bug-bounty-programme-offers-bonus-payouts-for-mobile-applications" target="_blank">Government Bug Bounty Programme (GBBP)</a> and <a href="https://www.tech.gov.sg/report_vulnerability" target="_blank">Vulnerability Disclosure Programme</a>, the Government works with the “white-hat” community to uncover and remediate vulnerabilities within our systems.
 
 The public sector’s cybersecurity defence is led by the Cyber Security Group (CSG) at GovTech. For more information on the role of cybersecurity in the <a href="https://www.tech.gov.sg/digital-government-blueprint/" target="_blank">Digital Government Blueprint, click here.</a> 
 
 To learn more about the latest developments in cybersecurity, please visit the <a href="https://medium.com/csg-govtech" target="_blank">CSG Medium homepage.</a>
+
+
