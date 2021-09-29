@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - smart-nation-ambassadors/.keep
       - apps-for-you.md
       - cityscape-gallery.md
       - contribute-to-smart-nation.md
