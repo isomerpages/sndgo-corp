@@ -4,6 +4,5 @@ collections:
     order:
       - smart-nation-ambassadors/.keep
       - our-smart-nation-showcases/.keep
-      - our-smart-nation-events.md
       - opportunities-and-help-for-the-community.md
       - contribute-to-smart-nation.md
