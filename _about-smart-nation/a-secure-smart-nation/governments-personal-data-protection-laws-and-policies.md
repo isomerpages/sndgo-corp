@@ -6,7 +6,7 @@ third_nav_title: A Secure Smart Nation
 # Government's Personal Data Protection Laws And Policies
 ![Personal Data Protection Laws and Policies](/images/abt-smart-nation/govt-personal-data-protection.png)
 
-**The Government has put in place strong personal data protection laws and policies to safeguard sensitive data.**
+The Government has put in place strong personal data protection laws and policies to safeguard sensitive data.
 
 ## Data Management in the Public Sector
 
