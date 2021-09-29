@@ -24,10 +24,10 @@ SNDGG is overseen by a Ministerial Committee made up of the following members:
 
 
 
-### Our Vision
+## Our Vision
 
 A Singapore where people are more empowered to live meaningful and fulfilled lives, enabled seamlessly by technology, offering exciting opportunities for all.
 
-### Our Mission
+## Our Mission
 
 Lead the development of a Smart Nation by working with the public, private and people sectors.
