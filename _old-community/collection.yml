@@ -1,5 +1,5 @@
 collections:
-  community:
+  old-community:
     output: true
     order:
       - smart-nation-ambassadors/.keep
