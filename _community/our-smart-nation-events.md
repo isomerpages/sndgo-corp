@@ -1,7 +1,8 @@
 ---
 title: Our Smart Nation Events
-permalink: /community/events/overview
+permalink: /community/events
 ---
+
 ### Smart Nation & U 2021 
 <br>
 
