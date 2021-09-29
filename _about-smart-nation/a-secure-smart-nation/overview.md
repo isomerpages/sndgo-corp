@@ -22,19 +22,19 @@ Find out more about how the Government protects your data and safeguards its sys
 <div style="width:60%;height:60%;">
 
 
-####    Cybersecurity in the Public Sector
+**Cybersecurity in the Public Sector**
 
 <a href="/about-smart-nation/secure-smart-nation/cybersecurity"><img src="/images/abt-smart-nation/cybersecurity.png"></a>
 
 Three-pronged approach to secure our systems.
 
-####     Government's Personal Data Protection Laws and Policies
+**Government's Personal Data Protection Laws and Policies**
 
 <a href="/about-smart-nation/secure-smart-nation/personal-data-protection"><img src="/images/abt-smart-nation/govt-personal-data-protection.png"></a>
 
 Data management by public sector agencies and third-parties working with public agencies. 
 
-####     Government’s Personal Data Protection Initiatives
+**Government’s Personal Data Protection Initiatives**
 
 <a href="/about-smart-nation/secure-smart-nation/pdp-initiatives"><img src="/images/abt-smart-nation/govt-pdp-initiativies.png"></a>
 
@@ -47,4 +47,4 @@ Recommendations and initiatives to strengthen the Government’s data security r
 
 #### Report data incident here...
 
-<a href="/about-smart-nation/secure-smart-nation/report-data-incident"><img src="/images/abt-smart-nation/report-data-incident.png"></a></div>
+<a href="/about-smart-nation/secure-smart-nation/report-data-incident"><img src="/images/abt-smart-nation/report-data-incident.png"></a>
