@@ -1,7 +1,8 @@
 ---
-title: Our Smart Nation Milestones 
-permalink: /our-smart-nation/milestones/
+title: Our Smart Nation Milestones
+permalink: /testingbed/milestones/
 ---
+
 
 <div class="row">
 	<div class="col is-8 is-offset-2 print-content"><h3 id="frequently-asked-questions"><strong>Our Smart Nation Journey</strong></h3>
