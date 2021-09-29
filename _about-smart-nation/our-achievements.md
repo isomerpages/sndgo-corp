@@ -5,7 +5,7 @@ permalink: /about-smart-nation/achievements
 # Our Achievements
 ![Alt text for image on Isomer site](/images/abt-smart-nation/sg-fireworks.jpg)
 
-*   [Top spot in Roland Berger's Digital Inclusion Index (2021)](/about-smart-nation/achievements/#Singapore-come-up-tops-for-digital-inclusiveness!)
+*   [Top spot in Roland Berger's Digital Inclusion Index (2021)](#singapore-come-up-tops-for-digital-inclusiveness!)
 *   [Top spot in a biennial study that ranks the top 50 smart city governments in the world (2020/2021)](/about-smart-nation/achievements/#Singapore-climbed-to-the-top-of-the-Smart-City-Governments-Ranking)
 *   [Top spot in KPMG’s Global Ranking of leading technology hubs outside of Silicon Valley/San Francisco (2021)](/about-smart-nation/achievements/#Singapore-ranked-first-in-KPMG's-Global-Ranking-of-Leading-Technology-Hubs)
 *   [Top spot in IMD-SUTD Smart City Index (2020)](/about-smart-nation/achievements/#Singapore-topped-the-IMD-SUTD-Smart-City-Index-for-2nd-Year-Running)
@@ -24,7 +24,7 @@ Singapore was lauded for its inclusive measures such as free public WiFi and fin
 
 Find out more <a href="https://www.rolandberger.com/en/Insights/Publications/Bridging-the-digital-divide.html?fbclid=IwAR38j3B4hMRI4oM92dQX2_gPgfGRbworFVVY5PD0QykKU_mdU1lktxKwjPs" target="_blank">here</a>.
 
-[Return to top](/about-smart-nation/achievements#Our-Achievements)
+[Return to top](#our-achievements)
 
 ### Singapore climbed to the top of the Smart City Governments Ranking
 
