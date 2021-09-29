@@ -98,4 +98,4 @@ Learn and gain access to AI technology through these programmes:
 - [TechSkills Accelerator (TeSA)](https://www.imda.gov.sg/imtalent/about-us/national-talent-development-initiatives/techskills-accelerator--tesa) works with industry partners and employers to offer various programmes for both  ICT and non-ICT professionals to upgrade or develop new skills to meet growing demand.  
 - [SkillsFuture for Digital Workplace program](https://www.skillsfuture.gov.sg/digitalworkplace) is a course designed to help Singaporeans understand the fundamentals of AI and how it can be applied in their workplaces and daily lives. The curriculum includes content developed by SSG and IBM.
 
-[Return to top](#The-Next-Frontier-of-Singapore's-Smart-Nation-Journey)
+[Return to top](#the-next-frontier-of-singapores-smart-nation-journey)
