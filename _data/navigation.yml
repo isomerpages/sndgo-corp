@@ -6,21 +6,6 @@ links:
     collection: initiatives
   - title: Combating COVID-19
     collection: combating-covid-19
-  - title: Resources
-    collection: resources
-  - title: Media Hub
-    resource_room: true
-  - title: Careers
-    url: /careers/join-sndgo
-    sublinks:
-      - title: Join Us
-        url: /careers/join-sndgo
-      - title: Smart Nation Scholarship
-        url: /careers/smart-nation-scholarship
-      - title: Smart Nation Fellowship
-        url: /careers/smart-nation-fellowship
-      - title: Careers in Gov ICT & SS
-        url: https://techcareers.smartnation.gov.sg/
   - title: A Smart Community
     url: /community
     sublinks:
@@ -38,3 +23,18 @@ links:
         url: /community/opportunities
       - title: Contribute To Smart Nation
         url: /community/SCOPE
+  - title: Resources
+    collection: resources
+  - title: Media Hub
+    resource_room: true
+  - title: Careers
+    url: /careers/join-sndgo
+    sublinks:
+      - title: Join Us
+        url: /careers/join-sndgo
+      - title: Smart Nation Scholarship
+        url: /careers/smart-nation-scholarship
+      - title: Smart Nation Fellowship
+        url: /careers/smart-nation-fellowship
+      - title: Careers in Gov ICT & SS
+        url: https://techcareers.smartnation.gov.sg/
