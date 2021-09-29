@@ -7,22 +7,7 @@ links:
   - title: Combating COVID-19
     collection: combating-covid-19
   - title: A Smart Community
-    url: /community
-    sublinks:
-      - title: Our Smart Nation Ambassadors
-        url: /community/smart-nation-ambassadors
-      - title: Our Smart Nation Events
-        url: /community/events/overview
-      - title: "#SmartNationTogether"
-        url: https://together.smartnation.gov.sg
-      - title: Apps For You
-        url: /community/apps-for-you
-      - title: Showcases
-        url: /community/showcases/overview
-      - title: Opportunities And Help
-        url: /community/opportunities
-      - title: Contribute to Smart Nation
-        url: /community/SCOPE
+    collection: community
   - title: Resources
     collection: resources
   - title: Media Hub
@@ -38,5 +23,3 @@ links:
         url: /careers/smart-nation-fellowship
       - title: Careers in Gov ICT & SS
         url: https://techcareers.smartnation.gov.sg/
-  - title: Community
-    collection: community
