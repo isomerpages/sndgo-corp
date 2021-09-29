@@ -2,7 +2,7 @@ collections:
   testing-bed:
     output: false
     order:
-      - our-journey.md
+      - testing-our-journey.md
       - testing-our-accordion.md
       - testing-our-smart-nation-milestones.md
       - testing-faq-new.md
