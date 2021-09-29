@@ -2,7 +2,6 @@
 title: National AI Strategy
 permalink: /about-smart-nation/artificial-intelligence
 ---
-
 # The Next Frontier of Singapore's Smart Nation Journey
 As a Smart Nation, we want to go beyond just adopting technology. Our aim is to fundamentally rethink business models, so that we can make impactful changes to reap productivity gains and create new growth areas.
 
@@ -98,3 +97,5 @@ Learn and gain access to AI technology through these programmes:
 - [AI Singapore Talent Development Programmes](https://www.aisingapore.org/talentdevelopment/) offer learning opportunities for all with courses such as the AI Apprenticeship Programme, AI for Everyone, AI for Industry, AI for Students, and AI for Kids.  
 - [TechSkills Accelerator (TeSA)](https://www.imda.gov.sg/imtalent/about-us/national-talent-development-initiatives/techskills-accelerator--tesa) works with industry partners and employers to offer various programmes for both  ICT and non-ICT professionals to upgrade or develop new skills to meet growing demand.  
 - [SkillsFuture for Digital Workplace program](https://www.skillsfuture.gov.sg/digitalworkplace) is a course designed to help Singaporeans understand the fundamentals of AI and how it can be applied in their workplaces and daily lives. The curriculum includes content developed by SSG and IBM.
+
+[Return to top](#The-Next-Frontier-of-Singapore's-Smart-Nation-Journey)
