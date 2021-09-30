@@ -1,8 +1,9 @@
 ---
 title: Past Campaigns
-permalink: /community/pastcampaigns
+permalink: /community/campaigns/past
 third_nav_title: Campaigns
 ---
+
 
 # My Smart Ahma
 
