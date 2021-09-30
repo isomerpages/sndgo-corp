@@ -4,7 +4,7 @@ permalink: /about-smart-nation/secure-smart-nation
 third_nav_title: A Secure Smart Nation
 ---
 # A Secure Smart Nation
-![A Secure Smart Nation overview](/images/abt-smart-nation/secure-smart-nation.png)
+![Alt text for image on Isomer site](/images/abt-smart-nation/secure-smart-nation-banner.png)
 
 <br>
 
