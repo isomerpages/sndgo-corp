@@ -41,8 +41,6 @@ Recommendations and initiatives to strengthen the Government’s data security r
 
 <a href="/about-smart-nation/secure-smart-nation/pdp-initiatives"><img src="/images/abt-smart-nation/govt-pdp-initiativies.png"></a>
 
-</div>
-
 
 <br>
 
