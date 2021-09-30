@@ -11,7 +11,7 @@ collections:
       - showcases/smart-nation-playscape.md
       - showcases/smart-nation-builder.md
       - showcases/my-favourite-days-ar-storybook.md
-      - our-smart-nation-events.md
+      - events.md
       - campaigns/.keep
       - campaigns/past-campaigns.md
       - apps-for-you.md
