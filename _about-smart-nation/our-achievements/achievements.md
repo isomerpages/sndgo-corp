@@ -16,14 +16,28 @@ third_nav_title: Our Achievements
 
 ### Singapore come up tops for Digital Inclusiveness
 
+![Alt text for image on Isomer site](/images/abt-smart-nation/digital-inclusin-index-2021.jpeg)
+
+[Return to top](#our-achievements)
+
 ### Singapore climbed to the top of the Smart City Governments ranking
 
+[Return to top](#our-achievements)
+
 ### Singapore ranked first in KPMG's Global Ranking of Leading Technology Hubs
+
+![Alt text for image on Isomer site](/images/abt-smart-nation/leading-tech-hubs-2021.jpeg)
+
+[Return to top](#our-achievements)
 
 ## 2020
 
 ### Singapore topped the IMD-SUTD Smart City Index for 2nd year running
 
+[Return to top](#our-achievements)
+
 ## 2019
 
 ### Singapore took top spot in the IMD-SUTD Smart City Index
+
+[Return to top](#our-achievements)
