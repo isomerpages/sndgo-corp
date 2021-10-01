@@ -16,6 +16,12 @@ third_nav_title: Our Achievements
 
 ### Singapore come up tops for Digital Inclusiveness
 
+Singapore has once again come up tops for digital inclusiveness!
+
+Ranked first among 82 countries, Singapore was lauded for its inclusive measures such as free public WiFi and financial assistance schemes for digital skills training, which have been credited with supporting wider digital adoption, and narrowing the digital divide.
+
+
+
 ![Alt text for image on Isomer site](/images/abt-smart-nation/digital-inclusin-index-2021.jpeg)
 
 [Return to top](#our-achievements)
