@@ -47,6 +47,8 @@ Singapore, Helsinki and Zurich came up top in the 2020 Smart City Index. The 202
 
 In each city ranked, 120 citizens were asked questions on the technological provisions of their city across five key areas: health and safety, mobility, activities, opportunities and governance. 
 
+Click <a href="https://www.imd.org/news/updates/singapore-helsinki-zurich-triumph-global-smart-city-index/">here</a>  to find out more about MD-SUTD Smart City Index 2020.
+
 [Return to top](#our-achievements)
 
 ## 2019
