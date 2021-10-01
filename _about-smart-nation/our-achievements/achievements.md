@@ -27,6 +27,13 @@ Click <a href="https://www.rolandberger.com/en/Insights/Publications/Bridging-th
 
 ### Singapore climbed to the top of the Smart City Governments ranking
 
+Singapore eclipsed London to take top spot in a biennial study that ranks the top 50 smart city governments in the world. 
+
+The Republic took the honours due to factors such as its technology infrastructure, digital initiatives and its “sterling” response to the Covid-19 pandemic.
+
+Click <a href="https://www.todayonline.com/singapore/spore-takes-top-spot-ranking-smart-city-govts-praised-sterling-covid-19-response-digital">here</a> to find out more about 2021 Smart City Governments ranking.
+
+
 [Return to top](#our-achievements)
 
 ### Singapore ranked first in KPMG's Global Ranking of Leading Technology Hubs
@@ -36,6 +43,8 @@ Singapore clinched the top spot in KPMG’s global ranking of leading technology
 The 2021 KPMG Technology Industry Survey surveyed more than 800 global leaders from various sub-sectors in the technology industry on the cities they see as leading technology innovation hubs over the next four years. Among the top factors seen as important in the ranking were an urban locale that attracts young professionals, a pipeline of skilled talent, and modern infrastructure (including high-speed bandwidth).
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/leading-tech-hubs-2021.jpeg)
+
+Click <a href="https://home.kpmg/sg/en/home/media/press-releases/2021/07/singapore-tops-2021-ranking-for-leading-technology-innovation-hubs-kpmg-survey.html">here</a>  to find out more about KPMG's Global Ranking of Leading Technology Hubs.
 
 [Return to top](#our-achievements)
 
