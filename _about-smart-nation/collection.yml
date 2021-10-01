@@ -2,9 +2,6 @@ collections:
   about-smart-nation:
     output: true
     order:
-      - our-achievements/.keep
-      - our-achievements/achievements.md
-      - our-achievements/milestones.md
       - transforming-sg-through-technology.md
       - pillars-of-a-smart-nation.md
       - a-secure-smart-nation/.keep
@@ -15,4 +12,7 @@ collections:
       - a-secure-smart-nation/report-data-incident.md
       - a-secure-smart-nation/faqs-on-reporting-data-incidents.md
       - national-ai-strategy.md
+      - our-achievements/.keep
+      - our-achievements/achievements.md
+      - our-achievements/milestones.md
       - about-sndgg.md
