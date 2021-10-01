@@ -18,8 +18,9 @@ Jump to...
 The first mainframe computer was installed in the Central Provident Fund Board (CPFB) to automate the manual ledger accounting system that kept track of 1.6 million CPF members’ accounts. With the IBM 1401 system, CPF employees filled out punch cards with information on CPF members’ latest contributions and fed these to the mainframe computer to update the accounts.
 
 <div style="width:50%"> 
+	
+	![Alt text for image on Isomer site](/images/abt-smart-nation/CPF_Mainframe_1.png)
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/CPF_Mainframe_1.png)
 </div>
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
