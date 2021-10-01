@@ -81,3 +81,5 @@ Singapore was named the Smart City of 2018 at the Smart City Expo World Congress
 “Among the excellent finalists, Singapore came out strong for its clear strategy, its ability to implement digital initiatives nationwide, and its focus on placing citizens at the centre of its Smart Nation efforts,” said Dionosio González, Director of Advocacy & Outreach at UITP, and a member of the World Smart City Awards 2018 honour jury, after the awards ceremony.
 
 Click [here](/media-hub/press-releases/smart-city-2018) to find out more about Smart City Expo World Congress 2018.
+
+[Return to top](#our-achievements)
