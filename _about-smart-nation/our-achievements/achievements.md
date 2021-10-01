@@ -3,7 +3,6 @@ title: Achievements
 permalink: /about-smart-nation/achievements
 third_nav_title: Our Achievements
 ---
-
 # Our Achievements
 ![Alt text for image on Isomer site](/images/abt-smart-nation/sg-fireworks.jpg)
 
@@ -12,4 +11,24 @@ third_nav_title: Our Achievements
 *   [Top spot in KPMG’s Global Ranking of leading technology hubs outside of Silicon Valley/San Francisco (2021)](#singapore-ranked-first-in-kpmgs-global-ranking-of-leading-technology-hubs)
 *   [Top spot in IMD-SUTD Smart City Index (2020)](#singapore-topped-the-imd-sutd-smart-city-index-for-2nd-year-running)
 *    [Top spot in IMD-SUTD Smart City Index (2019)](#singapore-took-top-spot-in-the-imd-sutd-smart-city-index)
+
+## 2021
+
+### Singapore come up tops for Digital Inclusiveness
+
+### Singapore climbed to the top of the Smart City Governments ranking
+
+### Singapore ranked first in KPMG's Global Ranking of Leading Technology Hubs
+
+## 2020
+
+### Singapore topped the IMD-SUTD Smart City Index for 2nd year running
+
+## 2019
+
+### Singapore took top spot in the IMD-SUTD Smart City Index
+
+
+
+
 
