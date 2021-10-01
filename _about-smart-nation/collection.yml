@@ -4,6 +4,7 @@ collections:
     order:
       - our-achievements/.keep
       - our-achievements/achievements.md
+      - our-achievements/milestones.md
       - transforming-sg-through-technology.md
       - pillars-of-a-smart-nation.md
       - a-secure-smart-nation/.keep
