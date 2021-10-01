@@ -11,7 +11,7 @@ third_nav_title: Our Achievements
 *   [Top spot in KPMG’s Global Ranking of leading technology hubs outside of Silicon Valley/San Francisco (2021)](#singapore-ranked-first-in-kpmgs-global-ranking-of-leading-technology-hubs)
 *   [Top spot in IMD-SUTD Smart City Index (2020)](#singapore-topped-the-imd-sutd-smart-city-index-for-2nd-year-running)
 *    [Top spot in IMD-SUTD Smart City Index (2019)](#singapore-took-top-spot-in-the-imd-sutd-smart-city-index)
-*    [Singapore awarded as Smart City of 2018 at Smart City Expo World Congress (2018)](#singapore-awarded-as-smart-city-of-2018-at-smart-city-expo-world-congress)
+*    [Singapore awarded as Smart City of 2018 at Smart City Expo World Congress (2018)](#singapore-named-smart-city-of-2018-at-smart-city-expo-world-congress)
 
 ## 2021
 
@@ -74,8 +74,10 @@ Click <a href="https://www.imd.org/research-knowledge/reports/imd-smart-city-ind
 
 ## 2018
 
-### Singapore awarded as Smart City of 2018 at Smart City Expo World Congress
+### Singapore named Smart City of 2018 at Smart City Expo World Congress
 
 Singapore was named the Smart City of 2018 at the Smart City Expo World Congress in Barcelona. 
 
 “Among the excellent finalists, Singapore came out strong for its clear strategy, its ability to implement digital initiatives nationwide, and its focus on placing citizens at the centre of its Smart Nation efforts,” said Dionosio González, Director of Advocacy & Outreach at UITP, and a member of the World Smart City Awards 2018 honour jury, after the awards ceremony.
+
+Click [here](/media-hub/press-releases/smart-city-2018) to find out more about Smart City Expo World Congress 2018.
