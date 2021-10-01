@@ -27,8 +27,3 @@ third_nav_title: Our Achievements
 ## 2019
 
 ### Singapore took top spot in the IMD-SUTD Smart City Index
-
-
-
-
-
