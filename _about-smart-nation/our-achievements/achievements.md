@@ -18,11 +18,9 @@ third_nav_title: Our Achievements
 
 Ranked first among 82 countries, Singapore was lauded for its inclusive measures such as free public WiFi and financial assistance schemes for digital skills training, which have been credited with supporting wider digital adoption, and narrowing the digital divide.
 
-Click here to find out more about Roland Berger's Digital Inclusion Index (2021).
-
-
-
 ![Alt text for image on Isomer site](/images/abt-smart-nation/digital-inclusin-index-2021.jpeg)
+
+Click <a href="https://www.rolandberger.com/en/Insights/Publications/Bridging-the-digital-divide.html">here</a>  to find out more about Roland Berger's Digital Inclusion Index (2021).
 
 [Return to top](#our-achievements)
 
@@ -31,6 +29,10 @@ Click here to find out more about Roland Berger's Digital Inclusion Index (2021)
 [Return to top](#our-achievements)
 
 ### Singapore ranked first in KPMG's Global Ranking of Leading Technology Hubs
+
+Singapore clinched the top spot in KPMG’s global ranking of leading technology innovation hubs outside of Silicon Valley/San Francisco in 2021. Singapore pulled ahead of other cities like New York, Tel Aviv, Beijing, and London for the second year running.
+
+The 2021 KPMG Technology Industry Survey surveyed more than 800 global leaders from various sub-sectors in the technology industry on the cities they see as leading technology innovation hubs over the next four years. Among the top factors seen as important in the ranking were an urban locale that attracts young professionals, a pipeline of skilled talent, and modern infrastructure (including high-speed bandwidth).
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/leading-tech-hubs-2021.jpeg)
 
