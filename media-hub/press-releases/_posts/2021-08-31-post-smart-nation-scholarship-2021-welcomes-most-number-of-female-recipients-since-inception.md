@@ -7,6 +7,7 @@ layout: post
 ---
 ## Smart Nation Scholarship 2021 Welcomes Most Number Of Female Recipients Since Inception
 
+**31 Aug 2021**
 
 ***Female scholars make up close to 40% of 2021 cohort***
 
