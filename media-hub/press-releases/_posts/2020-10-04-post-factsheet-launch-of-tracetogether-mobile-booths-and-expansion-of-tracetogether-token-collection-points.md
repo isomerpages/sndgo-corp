@@ -6,6 +6,8 @@ permalink: /media-hub/press-releases/factsheet-launch-of-tracetogether-mobile-bo
 ---
 ## Factsheet: Launch of TraceTogether mobile booths and expansion of TraceTogether Token Collection Points
 
+**04 Oct 2020**
+
 As Singapore looks to reopen its economy further by allowing more businesses and social activities to resume, the ability to do contact tracing quickly, and at scale, becomes more critical to reduce the risk of new transmission chains forming.
 
 The TraceTogether (TT) Programme – comprising the TT App and the TT Token – provides the initial list of close contacts of COVID-19 positive cases. Together with SafeEntry (SE) and associated digital systems, the TT Programme has enabled the contact tracing teams to reduce the time taken to identify and quarantine a close contact from 4 days to less than 2 days on average. The TT Programme also supplements manual contact tracing by identifying close contacts who are not known to index cases, or cannot be recalled by cases.
