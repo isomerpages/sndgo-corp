@@ -49,15 +49,21 @@ The Government has also implemented several initiatives to ensure that public of
 
 The second update on the Government’s personal data protection efforts can be found on the “A Secure Smart Nation” microsite (Go.gov.sg/SecureSmartNation).
 
-### Annexes
-
-[Annex A: Infographic on Second Update (932 KB)](/files/publications/government-personal-data-protection-efforts-2021-summary.pdf)
-
-[Annex B: Implementation Timeline of the Public Sector Data Security Review Committee Recommendations (180 KB)](/files/publications/annex-b-for-press-release-second-psdsrc-update.pdf) <br><br>
-
 ----------
 
 [^1]: The Public Sector Data Security Review Committee (PSDSRC) made five key recommendations in 2019 to improve the Government’s data security regime. The Government accepted the Committee’s recommendations in full and committed to implementing them in phases from 2020 to 2023.
+
+
+----------
+
+**Annexes**
+
+* [Annex A: Infographic on Second Update (932 KB)](/files/publications/government-personal-data-protection-efforts-2021-summary.pdf)
+
+* [Annex B: Implementation Timeline of the Public Sector Data Security Review Committee Recommendations (180 KB)](/files/publications/annex-b-for-press-release-second-psdsrc-update.pdf) 
+
+
+
 
 ----------
 
