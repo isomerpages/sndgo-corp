@@ -109,12 +109,12 @@ The Government Technology Agency was formed. It is responsible for the delivery 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
 ## 2016
-HDB announced the new “[Smart HDB Town Framework](https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page)” that maps out how HDB plans to introduce the “Smart” element in HDB towns and estates, through Smart Planning, Smart Environment, Smart Estate, and Smart Living.
+HDB announced the new “<a href="https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page" target="_blank">Smart HDB Town Framework</a>” that maps out how HDB plans to introduce the “Smart” element in HDB towns and estates, through Smart Planning, Smart Environment, Smart Estate, and Smart Living.
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
 ## 2016
-The Monetary Authority of Singapore (MAS) published the “[Singapore Payments Roadmap](https://www.mas.gov.sg/development/e-payments)” to promote electronic payments in Singapore.
+The Monetary Authority of Singapore (MAS) published the “<a href="https://www.mas.gov.sg/development/e-payments" target="_blank">Singapore Payments Roadmap</a>” to promote electronic payments in Singapore.
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
@@ -125,7 +125,7 @@ The Smart Nation & Digital Government Office (SNDGO) was formed. Sitting under t
 
 ## 2017
 
-Strategic Technology Master Plan unveiled to improve population's health and health administration. The strategic Health IT Master Plan ([HITMAP](https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx)) enables the Ministry of Health's (MOH) three key shifts of moving beyond quality to value, beyond hospital to community, and beyond healthcare to help.
+Strategic Technology Master Plan unveiled to improve population's health and health administration. The strategic Health IT Master Plan (<a href="https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx" target="_blank">HITMAP</a>) enables the Ministry of Health's (MOH) three key shifts of moving beyond quality to value, beyond hospital to community, and beyond healthcare to help.
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
@@ -140,6 +140,6 @@ Deputy Prime Minister and Minister for Finance, Heng Swee Keat, announced that S
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
 ## 2020
-The Monetary Authority of Singapore (MAS) and the Smart Nation and Digital Government Group (SNDGG) today launched the Singapore Financial Data Exchange ([SGFinDex](https://www.mas.gov.sg/development/fintech/sgfindex)), which will enable Singaporeans to consolidate their financial information for more effective financial planning.
+The Monetary Authority of Singapore (MAS) and the Smart Nation and Digital Government Group (SNDGG) today launched the Singapore Financial Data Exchange (<a href="https://www.mas.gov.sg/development/fintech/sgfindex" target="_blank">SGFinDex</a>), which will enable Singaporeans to consolidate their financial information for more effective financial planning.
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
