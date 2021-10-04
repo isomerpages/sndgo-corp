@@ -71,5 +71,3 @@ Tjan Hui Min (Ms)<br>
 Manager<br>
 Communications and Marketing Group, GovTech<br>
 Email: [TJAN_Hui_Min@tech.gov.sg](mailto:TJAN_Hui_Min@tech.gov.sg)<br>
-
-
