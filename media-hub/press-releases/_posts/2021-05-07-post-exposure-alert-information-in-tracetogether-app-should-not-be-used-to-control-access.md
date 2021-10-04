@@ -5,7 +5,9 @@ date: 2021-05-07
 permalink: /media-hub/press-releases/exposure-alert-information-in-tracetogether-app-should-not-be-used-to-control-access
 layout: post
 ---
-# Joint Statement by the Ministry of Health & Smart Nation and Digital Government Office
+## Joint Statement by the Ministry of Health & Smart Nation and Digital Government Office
+
+**07 May 2021**
 
 Businesses should  not  use the exposure alert information of persons using the TraceTogether App to grant or deny access to premises.
 
