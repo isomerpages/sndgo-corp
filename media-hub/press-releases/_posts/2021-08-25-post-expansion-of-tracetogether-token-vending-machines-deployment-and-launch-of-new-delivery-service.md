@@ -27,16 +27,16 @@ In addition to the vending machines, SNDGG is launching a free delivery service 
 
 The deployment of TT Token vending machines and the introduction of the Token delivery service are part of the continuous effort to support our public health needs, as we work towards becoming a COVID-19 resilient nation.
 
+----------
 
-### Annexes
+**Annexes**
 
-[Annex A – Shopping Malls with TraceTogether Token Vending Machines (81 KB)](/files/press-releases/2021/annex-a-shopping-malls-with-tracetogether-token-vending-machines.pdf)
+* [Annex A – Shopping Malls with TraceTogether Token Vending Machines (81 KB)](/files/press-releases/2021/annex-a-shopping-malls-with-tracetogether-token-vending-machines.pdf)
 
-[Annex B – Instructional guide on the use of the TraceTogether Token Vending Machine (177 KB)](/files/press-releases/2021/annex-b-instructional-guide-on-the-use-of-the-tracetogether-token-vending-machine.pdf)
+* [Annex B – Instructional guide on the use of the TraceTogether Token Vending Machine (177 KB)](/files/press-releases/2021/annex-b-instructional-guide-on-the-use-of-the-tracetogether-token-vending-machine.pdf)
 
-[Annex C – Updates on TraceTogether Token Collection and Replacement (1152 KB)](/files/press-releases/2021/annex-c---token-replacement-updates.pdf)
+* [Annex C – Updates on TraceTogether Token Collection and Replacement (1152 KB)](/files/press-releases/2021/annex-c---token-replacement-updates.pdf)
 
-<br>
 
 
 
