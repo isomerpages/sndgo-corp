@@ -37,7 +37,6 @@ sections:
       alt: Punggol Digital District
   - infopic:
       title: Pick Up New Skills
-      subtitle: Infopic Subtitle
       description: "Learn something new  at our #SmartNationTogether webinars and workshops"
       button: FIND OUT MORE
       url: https://together.smartnation.gov.sg/
