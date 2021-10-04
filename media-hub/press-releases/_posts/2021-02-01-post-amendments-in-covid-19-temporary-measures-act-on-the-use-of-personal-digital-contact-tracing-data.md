@@ -60,13 +60,13 @@ We must continue to do well in contact tracing so that we can manage the COVID-1
 
 **For media enquiries, please contact:**
 
-Goh Yu Chong (Mr)<br>
+**Goh Yu Chong (Mr)**<br>
 Senior Manager, Public and International Communications<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 9644 1674<br>
 Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
 
-Chia Suat Ning (Ms)<br>
+**Chia Suat Ning (Ms)**<br>
 Manager, Public and International Communications<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 8182 8052<br>
