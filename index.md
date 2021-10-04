@@ -1,52 +1,53 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Smart Nation Singapore
+description: Homepage of Singapore's Smart Nation Initiative
+image: /images/isomer-logo.svg
 permalink: /
-notification: 
 sections:
-    - hero:
-        title: 
-        subtitle: 
-        background: /images/hero4.png
-        button: 
-        url: 
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infopic:
-        title: Speech by Minister Vivian Balakrishnan at SCEWC 2019
-        subtitle: 
-        description: 
-        button: Read more
-        url: /scewc19-speech/
-        image: /images/scewc19.jpeg
-        alt: Minister Vivian Balakrishnan at SCEWC 2019 
-    - infopic:
-        title: National Artificial Intelligence Strategy Unveiled
-        subtitle: 
-        description: 
-        button: Learn More
-        url: /national-artifical-intelligence-strategy/
-        image: /images/ai-strategy.jpg
-        alt: AI Strategy
-    - infopic:
-        title: My Smart Ahma Top Picks
-        subtitle: 
-        description:
-        button: Learn More
-        url: /whats-new/my-smart-ahma/
-        image: /images/my-smart-ahma.png
-        alt: Members of the Ministry of ABC in suits
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      background: /images/hero-homepage-banner-transforming-sg.jpg
+      key_highlights:
+        - title: Strategic National Projects
+          description: Discover the building blocks for our Smart Nation
+          url: /initiatives/strategic-national-projects
+        - title: Pillars Of Smart Nation
+          description: Find out more about the 3 key pillars
+          url: /about-smart-nation/pillars-of-smart-nation
+        - title: A Secure Smart Nation
+          description: Report a Government Data Incident
+          url: /about-smart-nation/secure-smart-nation/report-data-incident
+        - title: Smart Nation Ambassadors
+          description: Join us on our transformative journey
+          url: /community/smart-nation-ambassadors
+  - infopic:
+      title: Combating COVID-19
+      description: Learn how Singapore managed the pandemic effectively with technology
+      button: Read more about it
+      url: /covid-19/covid-19-tech
+      image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
+      alt: "Covid-19 Technology "
+  - infopic:
+      title: Punggol Digital District
+      subtitle: Strategic National Projects
+      description: Find out why the Punggol Digital District is the place to be!
+      button: Read more about it
+      url: /initiatives/strategic-national-projects/punggol-digital-district
+      image: /images/initiatives/pdd.jpeg
+      alt: Punggol Digital District
+  - infopic:
+      title: Pick Up New Skills
+      description: "Learn something new  at our #SmartNationTogether webinars and workshops"
+      button: FIND OUT MORE
+      url: https://together.smartnation.gov.sg/
+      alt: Smart Nation Together
+      image: /images/community/SNT-webinars.jpg
+  - infopic:
+      title: Co-create With Us
+      description: Share your feedback on digital Government services via SCOPE
+      button: Find out more
+      url: /community/scope
+      image: /images/community/SmartNationAmbassador01.jpg
+      alt: SCOPE - Co-create with us
+notification: ""
 ---

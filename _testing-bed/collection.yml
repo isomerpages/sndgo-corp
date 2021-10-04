@@ -1,0 +1,13 @@
+collections:
+  testing-bed:
+    output: false
+    order:
+      - testing-our-journey.md
+      - testing-our-accordion.md
+      - testing-our-smart-nation-milestones.md
+      - testing-faq-new.md
+      - testing-apps-for-you.md
+      - testing-our-stories.md
+      - testing-text-on-image-sample.md
+      - testing-mse-boxes.md
+      - testing-snt-home-page.md

@@ -4,16 +4,13 @@
 
 @charset "utf-8";
 
-// HLB brand colors
-$primary: #ed1a3b;
-$secondary: #ed1a3b;
-$secondary-hover: lighten($secondary, 10%);
-
-$media-color-one: #ed1a3b;
-$media-color-two: #ed1a3b;
-$media-color-three: #ed1a3b;
-$media-color-four: #ed1a3b;
-$media-color-five: #ed1a3b;
+// Agency brand colors
+$primary: {{- site.colors.primary-color -}}; 
+$secondary: {{- site.colors.secondary-color -}};
+$secondary-hover: lighten($secondary, 10%); 
+{%- for media-color in site.colors.media-colors -%} 
+    ${{- media-color.title -}}: {{- media-color.color -}}; 
+{%- endfor -%}
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -71,6 +68,24 @@ $desktop: 960px + (2 * $gap) !default;
   			background-color: darken($media-color-five, 10%);
 		}
   	}
+//  	&-6 {
+//  		background-color: $media-color-six;
+//  		&:hover {
+//  			background-color: darken($media-color-six, 10%);
+//		}
+//  	}
+//  	&-7 {
+// 		background-color: $media-color-seven;
+//  		&:hover {
+//  			background-color: darken($media-color-seven, 10%);
+//		}
+//  	}
+//  	&-8 {
+//  		background-color: $media-color-eight;
+//  		&:hover {
+//  			background-color: darken($media-color-eight, 10%);
+//		}
+//  	}
   }
   &-1{
     //background-color: $primary;
@@ -365,3 +380,405 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-hero-body {
 	background: unset;
 }
+
+/* Start of Custom CSS - Columns */
+.column-c {
+  	float: left;
+  	width: 32%;
+  	margin-bottom: 10px;
+  	margin-left: 5px;
+  	margin-right: 5px;
+  	height: 480px;
+}
+
+/* Body Text and Images */	  
+.header {
+	text-align: center;
+	height: 20px;
+	padding-top: 5px;
+	margin-bottom: 8px;
+}
+
+.image {height: 6.5rem;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	img { width: 100%;
+	height: auto;
+	}
+}
+
+.spacer {
+	height: 15px;	  
+}
+
+.spacer1 { 
+	height: 2.75rem;
+}
+
+.para {
+	height: 8.5rem;
+	margin-bottom: 1rem;
+	font-size: 0.95rem;
+}
+
+.para2 {
+	height: 9.5rem;
+	margin-bottom: 1rem;
+	font-size: 0.95rem;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  	content: "";
+  	display: table;
+  	clear: both;
+}
+
+.row2:after {
+	content: "";
+  	display: table;
+  	clear: both;
+}
+	
+//accordion Course
+.courseAccordion {
+  .cdDesc{
+    margin: 0 0 50px;
+  }
+  input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  .row {
+    display: flex;
+    margin: 0 !important;
+    .col {
+      flex: 1;
+      &:last-child {
+        margin-left: 0;
+        padding:0 
+      }
+    }
+  }
+  .tabs {
+    border-radius: 0;
+    overflow: hidden;
+    box-shadow: 0 4px 4px -2px rgba(0, 0, 0, 0.5);
+  }
+  .tab {
+    width: 100%;
+    color: white;
+    overflow: hidden;
+    &:hover {
+      color: white;
+    }  
+  }
+  .tab-label {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    background: $secondary;
+    font-weight: bold;
+    cursor: pointer;
+    /* Icon */
+    &:hover {
+      background: lighten($secondary, 10%);
+    }
+    &::after {
+      content: "\276F";
+      width: 1em;
+      height: 1em;
+      text-align: center;
+      transition: all .35s;
+    }
+  }
+  .tab-content {
+    max-height: 0;
+    padding: 0 1em;
+    color: #000000;
+    background: white;      
+    transition: all .35s;
+    margin-top: 0;
+  }
+  .tab-close {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1em;
+    font-size: 0.75em;
+    background: $secondary;
+    cursor: pointer;
+    &:hover {
+      background: lighten($secondary, 10%);
+    }
+  }
+  input:checked {
+    + .tab-label {
+      background: darken($secondary, 10%);
+      &::after {
+        -webkit-transform: rotate(90deg);
+        transform: rotate(90deg);
+      }
+    }
+    ~ .tab-content {
+      max-height: 350vh;
+      padding: 1em;
+    }
+  }
+  .tabs.healthWellness {
+    .tab-label {
+      background:$secondary;
+      &:hover {
+        background:$secondary;
+      }    
+    }
+    .tab-close {
+      background:$secondary;
+      &:hover {
+        background:$secondary;
+      }
+    }
+    input:checked {
+      + .tab-label {
+        background:$secondary;
+        color: white;
+      }
+    }
+  }
+  .tabs.lifestyleLeisure {
+    .tab-label {
+      background: $secondary;
+      &:hover {
+        background: $secondary;
+      }    
+    }
+    .tab-close {
+      background: $secondary;
+      &:hover {
+        background: $secondary;
+      }
+    }
+    input:checked {
+      + .tab-label {
+        background: $secondary;
+        color: #000000;
+      }
+    }
+  }
+  .tabs.financialLiteracy {
+    .tab-label {
+      background:$secondary;
+      &:hover {
+        background: $secondary;
+      }    
+    }
+    .tab-close {
+      background:$secondary;
+      &:hover {
+        background: $secondary;
+      }
+    }
+    input:checked {
+      + .tab-label {
+        background: $secondary;
+        color: #000000;
+      }
+    }
+  }
+  .tabs.lifelongLearning {
+    .tab-label {
+      background: $secondary;
+      &:hover {
+        background: $secondary;
+      }    
+    }
+    .tab-close {
+      background: $secondary;
+      &:hover {
+        background: $secondary;
+      }
+    }
+    input:checked {
+      + .tab-label {
+        background: $secondary;
+        color: #000000;
+      }
+    }
+  }
+  .tbl {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0px auto;
+    td {
+      padding: 10px 5px;
+      border-style: solid;
+      border-width: 0px;
+      overflow: hidden;
+      word-break: normal;
+    }
+    th {
+      font-weight: normal;
+      padding: 10px 5px;
+      border-style: solid;
+      border-width: 0px;
+      overflow: hidden;
+      word-break: normal;
+    }
+    .tbl-shortdesc {
+      border-color: inherit;
+      text-align: center;
+      vertical-align: middle;
+    }
+    .tbl-subhdr {
+      font-weight: bold;
+      border-color: inherit;
+      text-align: left;
+      vertical-align: middle;
+    }
+    .tbl-conval {
+      text-align: left;
+      vertical-align: top;
+    }
+  }
+  table.tblsimpresp { 
+    border-collapse: collapse; 
+    margin: 0; 
+    padding: 0; 
+    width: 100%; 
+    table-layout: fixed; 
+  }
+  .img-desc-container{
+    display: flex; 
+    flex-wrap: nowrap;
+    margin-top: 5px;
+    flex-direction: row;
+    .img-container-left{
+      width: 40%;
+      margin: 0 10px 0 0;
+    }
+    .desc-container-right{
+      width: 60%; 
+      margin: 0 0 0 10px;
+    }
+    img{
+      width: 100%;
+    }
+  }
+}
+
+/* Accordion styles */
+//767px
+@media screen and (max-width: 100%) {
+  .courseAccordion {
+    .tbl {
+      width: 100% !important;
+      col {
+        width: auto !important;
+      }
+    }
+    .tbl-wrap {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin: auto 0px;
+    }
+    .tblsimpresp { 
+      border: 0; 
+      thead { 
+        border: none; 
+        clip: rect(0 0 0 0); 
+        height: 1px; 
+        margin: -1px; 
+        overflow: hidden; 
+        padding: 0; 
+        position: absolute; 
+        width: 1px; 
+      }
+      tr { 
+        display: block; 
+        margin-bottom: .625em; 
+        border-bottom: 1px solid #dbdbdb;
+        &:last-child { border-bottom: 0; }
+      }  
+      td { 
+        display: block; 
+        font-size: 1em; 
+        text-align: left; 
+        &::before {
+          content: attr(data-label); 
+          display: inline-block; 
+          font-weight: bold;
+          min-width: 5em;
+        } 
+      }    
+    }
+    .img-desc-container{
+      flex-direction: column;
+      .img-container-left{
+        width: 100%;
+        margin: 0 10px 0 0;
+      }
+      .desc-container-right{
+        width: 100%; 
+        margin: 0 0 0 10px;
+      }      
+      img{
+        width: 60%;
+      }
+    }
+  }
+}
+
+/* For sample 1 in text-on message. Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  opacity: 0.6;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Centered image */
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
+

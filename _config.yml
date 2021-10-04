@@ -1,38 +1,55 @@
 title: Smart Nation Singapore
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.smartnation.gov.sg/
 favicon: /images/favicon-isomer.ico
-
-collections:
-  why-smart-nation:
-    output: true
-  what-is-smart-nation:
-    output: true
-  how-to-be-involved:
-    output: true
-resources_name: whats-new
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+colors:
+  primary-color: "#ff0032"
+  secondary-color: "#f11336"
+  media-colors:
+    - title: media-color-one
+      color: "#A8312D"
+    - title: media-color-two
+      color: "#EA333D"
+    - title: media-color-three
+      color: "#CE7E7D"
+    - title: media-color-four
+      color: "#FF9C3D"
+    - title: media-color-five
+      color: "#EF6318"
+resources_name: media-hub
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+staging: https://smartnationsg-staging.netlify.app
+prod: https://smartnationsg-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme
+is_government: true

@@ -1,0 +1,18 @@
+collections:
+  about-smart-nation:
+    output: true
+    order:
+      - transforming-sg-through-technology.md
+      - pillars-of-a-smart-nation.md
+      - a-secure-smart-nation/.keep
+      - a-secure-smart-nation/overview.md
+      - a-secure-smart-nation/cybersecurity-in-the-public-sector.md
+      - a-secure-smart-nation/governments-personal-data-protection-laws-and-policies.md
+      - a-secure-smart-nation/governments-personal-data-protection-initiatives.md
+      - a-secure-smart-nation/report-data-incident.md
+      - a-secure-smart-nation/faqs-on-reporting-data-incidents.md
+      - national-ai-strategy.md
+      - our-achievements/.keep
+      - our-achievements/achievements.md
+      - our-achievements/milestones.md
+      - about-sndgg.md

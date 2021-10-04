@@ -1,0 +1,8 @@
+collections:
+  careers:
+    output: true
+    order:
+      - join-us.md
+      - smart-nation-scholarship.md
+      - smart-nation-fellowship.md
+      - quiz.md

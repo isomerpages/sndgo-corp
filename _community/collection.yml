@@ -1,0 +1,19 @@
+collections:
+  community:
+    output: true
+    order:
+      - smart-nation-ambassadors/.keep
+      - smart-nation-ambassadors/our-smart-nation-ambassadors.md
+      - smart-nation-ambassadors/faqs-on-smart-nation-ambassadors.md
+      - showcases/.keep
+      - showcases/overview.md
+      - showcases/cityscape-gallery.md
+      - showcases/smart-nation-playscape.md
+      - showcases/smart-nation-builder.md
+      - showcases/my-favourite-days-ar-storybook.md
+      - events.md
+      - campaigns/.keep
+      - campaigns/past-campaigns.md
+      - apps-for-you.md
+      - opportunities-and-help-for-the-community.md
+      - contribute-to-smart-nation.md

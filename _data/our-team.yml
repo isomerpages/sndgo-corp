@@ -1,0 +1,56 @@
+# Ministerial Committee
+ministerial-committee:
+  - name: Senior Minister Teo Chee Hean
+    title: Chairman
+    image-url: /images/our-team/ng-chee-khern.jpg
+  - name: Minister Dr Vivian Balakrishnan
+    title: Member & Minister-in-Charge of the Smart Nation Initiative
+    image-url: /images/our-team/kok-ping-soon.png
+  - name: Minister S Iswaran
+    title: Member
+    image-url: /images/our-team/bojan-blecic.jpg   
+  - name: Minister Chan Chun Sing
+    title: Member
+    image-url: /images/our-team/lesly-goh.jpg
+  - name: Senior Minister of State Dr Janil Puthucheary
+    title: Member & Minister-in-Charge of GovTech
+    image-url: /images/our-team/Derrick_Goh.jpg    
+    
+# Senior Leadership
+senior-leadership:
+  - name: Mr Ng Chee Khern
+    title: Permanent Secretary 
+    organisation: Smart Nation and Digital Government Group
+    image-url: /images/our-team/kok-ping-soon.png
+  - name: Mr Tan Kok Yam
+    title: Deputy Secretary 
+    organisation: Smart Nation and Digital Government Group 
+    image-url: /images/our-team/chan-cheow-hoe.jpg
+  - name: Mr Tan Chee Hau
+    title: Director
+    organisation: Planning and Prioritisation
+    image-url: /images/our-team/lim-bee-kwan.jpg
+  - name: Ms Tan Lijun
+    title: Director
+    organisation: Policy and Governance
+    image-url: /images/our-team/tan-eng-pheng.jpg
+  - name: Ms Quek Su Lynn
+    title: Director
+    organisation: Government Data Office
+    image-url: /images/our-team/Jason-Bay-GovTech-Smart-Nation-Senior-Leader.jpg
+  - name: Ms Huang Weixian
+    title: Director
+    organisation: Adoption and Engagement
+    image-url: /images/our-team/chai-chin-loon.jpg
+  - name: Ms Chen Zhenzhi
+    title: Director
+    organisation: National AI Office
+    image-url: /images/our-team/kwok-quek-sin.png
+  - name: Mr Patrick Yee
+    title: Director
+    organisation: Human Capital and Development 
+    image-url: /images/our-team/leong-der-yao.jpg
+  - name: Ms Ng Teng Teng
+    title: Director
+    organisation: Smart Nation Technology Office
+    image-url: /images/our-team/lim-chinn-hwa.jpg
