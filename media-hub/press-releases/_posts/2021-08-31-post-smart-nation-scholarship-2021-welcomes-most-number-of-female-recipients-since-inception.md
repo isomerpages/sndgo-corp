@@ -8,7 +8,7 @@ layout: post
 # Smart Nation Scholarship 2021 Welcomes Most Number Of Female Recipients Since Inception
 
 
-Female scholars make up close to 40% of 2021 cohort
+***Female scholars make up close to 40% of 2021 cohort***
 
 
 With the goal of nurturing our future leaders in technology, the Smart Nation Scholarship was presented to 14 recipients this year. Among them were five female recipients, the largest batch of female Smart Nation Scholarship recipients to date, reflecting an increased interest amongst them to contribute to Singapore’s digital and technology development. Since its launch in 2018, the Smart Nation Scholarship has been awarded to 12 female recipients in total.
@@ -26,9 +26,9 @@ The Smart Nation Scholarship seeks to develop and nurture technology talents who
 
 "I believe technology has tremendous potential to improve lives. As one of CSA’s Smart Nation scholars, I want to ensure that systems and software are more secure so people can embrace technology without fearing the harm that cybercriminals can do. It is also an honour to join the growing number of women in this industry as we can provide varying perspectives to problem-solving that may otherwise be overlooked,” said Natasha Tan, one of the six recipients who will be joining CSA.
 
-Please refer to the full list of 14 scholars from the three agencies in [Annex A](/files/press-releases/2021/annex-a-full-list-of-scholars-from-govtech-imda-and-csa.pdf)  (82KB).
+Please refer to the full list of 14 scholars from the three agencies in[Annex A](/files/press-releases/2021/annex-a-full-list-of-scholars-from-govtech-imda-and-csa.pdf)  (82KB).
 
-
+----------
  
 **JOINTLY ISSUED BY THE CYBER SECURITY AGENCY OF SINGAPORE, GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE, AND INFOCOMM MEDIA DEVELOPMENT AUTHORITY.**
 
