@@ -58,13 +58,13 @@ SFM X SN 2021 is co-organised by the Smart Nation and Digital Government Office 
 **Cristiano PESWANI (Mr)**<br>
 Manager, Public and International Communications<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
-Tel: +65 9674 5524
+Tel: +65 9674 5524<br>
 Email:  [cristiano_peswani@pmo.gov.sg](mailto:cristiano_peswani@pmo.gov.sg)
 
-**Sarah LUA (Ms)**
-Senior Manager, Corporate & Marketing Communications
-SkillsFuture Singapore
-Tel: +65 9625 8878
+**Sarah LUA (Ms)**<br>
+Senior Manager, Corporate & Marketing Communications<br>
+SkillsFuture Singapore<br>
+Tel: +65 9625 8878<br>
 Email: [sarah_lua@ssg.gov.sg](mailto:sarah_lua@ssg.gov.sg)
 
 ----------
