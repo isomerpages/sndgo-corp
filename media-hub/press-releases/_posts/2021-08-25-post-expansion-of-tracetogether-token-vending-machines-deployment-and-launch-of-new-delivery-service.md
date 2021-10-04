@@ -5,8 +5,6 @@ date: 2021-08-25
 permalink: /media-hub/press-releases/token-vendingmachine2508
 layout: post
 ---
-
-
 ## Expansion of TraceTogether Token Vending Machines Deployment and Launch of New Delivery Service; Progressive Scale-back of Token Booths at CCs and Malls
 
 More TraceTogether (TT) Token replacement vending machines will be rolled out progressively at selected malls from 25 August, and at all 108 Community Clubs/Centres (CCs) from 30 August. A new home delivery service will also be launched for users who are requesting for a Token for the first time. With the new modes of distribution in place, manned booths for TT Token collection and replacement at CCs and shopping malls will be progressively scaled back. Token booths in shopping malls will cease operations on 31 August 2021. Token counters in the CCs will be scaled back at a later date. 
