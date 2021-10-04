@@ -46,16 +46,14 @@ The deployment of TT Token vending machines and the introduction of the Token de
 For media enquiries, please contact:
 
 
-**CHIA Suat Ning (Ms)**
-
+**CHIA Suat Ning (Ms)**<br>
 Manager, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 8182 8052<br>
 Email: CHIA_Suat_Ning@pmo.gov.sg
 
 
-**Cristiano PESWANI (Mr)**
-
+**Cristiano PESWANI (Mr)**<br>
 Manager, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 9674 5524<br>
