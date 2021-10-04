@@ -21,7 +21,7 @@ Ranked first among 82 countries, Singapore was lauded for its inclusive measures
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/digital-inclusin-index-2021.jpeg)
 
-Click <a href="https://www.rolandberger.com/en/Insights/Publications/Bridging-the-digital-divide.html">here</a>  to find out more about Roland Berger's Digital Inclusion Index (2021).
+Click <a href="https://www.rolandberger.com/en/Insights/Publications/Bridging-the-digital-divide.html" target="_blank">here</a>  to find out more about Roland Berger's Digital Inclusion Index (2021).
 
 [Return to top](#our-achievements)
 
@@ -31,7 +31,7 @@ Singapore eclipsed London to take top spot in a biennial study that ranks the to
 
 The Republic took the honours due to factors such as its technology infrastructure, digital initiatives and its “sterling” response to the Covid-19 pandemic.
 
-Click <a href="https://www.todayonline.com/singapore/spore-takes-top-spot-ranking-smart-city-govts-praised-sterling-covid-19-response-digital">here</a> to find out more about 2021 Smart City Governments ranking.
+Click <a href="https://www.todayonline.com/singapore/spore-takes-top-spot-ranking-smart-city-govts-praised-sterling-covid-19-response-digital" target="_blank">here</a> to find out more about 2021 Smart City Governments ranking.
 
 
 [Return to top](#our-achievements)
@@ -44,7 +44,7 @@ The 2021 KPMG Technology Industry Survey surveyed more than 800 global leaders f
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/leading-tech-hubs-2021.jpeg)
 
-Click <a href="https://home.kpmg/sg/en/home/media/press-releases/2021/07/singapore-tops-2021-ranking-for-leading-technology-innovation-hubs-kpmg-survey.html">here</a>  to find out more about KPMG's Global Ranking of Leading Technology Hubs.
+Click <a href="https://home.kpmg/sg/en/home/media/press-releases/2021/07/singapore-tops-2021-ranking-for-leading-technology-innovation-hubs-kpmg-survey.html" target="_blank">here</a>  to find out more about KPMG's Global Ranking of Leading Technology Hubs.
 
 [Return to top](#our-achievements)
 
@@ -56,7 +56,7 @@ Singapore, Helsinki and Zurich came up top in the 2020 Smart City Index. The 202
 
 In each city ranked, 120 citizens were asked questions on the technological provisions of their city across five key areas: health and safety, mobility, activities, opportunities and governance. 
 
-Click <a href="https://www.imd.org/news/updates/singapore-helsinki-zurich-triumph-global-smart-city-index/">here</a>  to find out more about MD-SUTD Smart City Index 2020.
+Click <a href="https://www.imd.org/news/updates/singapore-helsinki-zurich-triumph-global-smart-city-index/" target="_blank">here</a>  to find out more about MD-SUTD Smart City Index 2020.
 
 [Return to top](#our-achievements)
 
@@ -68,7 +68,7 @@ The first edition of the Smart City Index 2019, created by the IMD World Competi
 
 The top 10 cities in the IMD Smart City Index 2019 are Singapore, Zurich, Oslo, Geneva, Copenhagen, Auckland, Taipei Citiy, Helsinki, Bilbao and Dusseldorf.
 
-Click <a href="https://www.imd.org/research-knowledge/reports/imd-smart-city-index-2019/">here</a>  to find out more about MD-SUTD Smart City Index 2019.
+Click <a href="https://www.imd.org/research-knowledge/reports/imd-smart-city-index-2019/" target="_blank">here</a>  to find out more about MD-SUTD Smart City Index 2019.
 
 [Return to top](#our-achievements)
 
