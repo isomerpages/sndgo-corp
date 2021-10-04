@@ -108,7 +108,38 @@ The Government Technology Agency was formed. It is responsible for the delivery 
 	
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
+## 2016
+HDB announced the new “[Smart HDB Town Framework](https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page)” that maps out how HDB plans to introduce the “Smart” element in HDB towns and estates, through Smart Planning, Smart Environment, Smart Estate, and Smart Living.
+
+[Return to top](#milestones-of-singapores-smart-nation-story)
+
+## 2016
+The Monetary Authority of Singapore (MAS) published the “[Singapore Payments Roadmap](https://www.mas.gov.sg/development/e-payments)” to promote electronic payments in Singapore.
+
+[Return to top](#milestones-of-singapores-smart-nation-story)
+
 ## 2017
 The Smart Nation & Digital Government Office (SNDGO) was formed. Sitting under the Prime Minister’s Office, it plans and prioritises key Smart Nation projects such as the National Digital Identity and Smart Nation Sensor Platform. SNDGO also drives digital transformation and builds long-term capabilities for the public sector, and promotes adoption and participation from the public and industry.
+
+[Return to top](#milestones-of-singapores-smart-nation-story)
+
+## 2017
+
+Strategic Technology Master Plan unveiled to improve population's health and health administration. The strategic Health IT Master Plan ([HITMAP](https://www.ihis.com.sg/About_IHiS/Pages/HITMAP.aspx)) enables the Ministry of Health's (MOH) three key shifts of moving beyond quality to value, beyond hospital to community, and beyond healthcare to help.
+
+[Return to top](#milestones-of-singapores-smart-nation-story)
+
+## 2017
+The government identified key [Strategic National Projects](/initiatives/strategic-national-projects) to drive and enable the adoption of digital and smart technologies throughout Singapore.
+
+[Return to top](#milestones-of-singapores-smart-nation-story)
+
+## 2019
+Deputy Prime Minister and Minister for Finance, Heng Swee Keat, announced that Singapore will embark on a plan to develop and use Artificial Intelligence (AI) to transform Singapore’s economy and improve the lives of citizens. This plan is outlined in the [National AI Strategy](/about-smart-nation/artificial-intelligence) document that was unveiled at the SFF X SWITCH (Singapore FinTech Festival and Singapore Week of Innovation and TeCHnology) Conference.
+
+[Return to top](#milestones-of-singapores-smart-nation-story)
+
+## 2020
+The Monetary Authority of Singapore (MAS) and the Smart Nation and Digital Government Group (SNDGG) today launched the Singapore Financial Data Exchange ([SGFinDex](https://www.mas.gov.sg/development/fintech/sgfindex)), which will enable Singaporeans to consolidate their financial information for more effective financial planning.
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
