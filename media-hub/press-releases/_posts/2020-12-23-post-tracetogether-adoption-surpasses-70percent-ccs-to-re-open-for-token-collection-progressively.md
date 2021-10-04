@@ -4,7 +4,7 @@ title: TraceTogether Adoption Surpasses 70% CCs to Re-open For Token Collection
   Progressively
 permalink: /media-hub/press-releases/tracetogether-adoption-surpasses-70
 ---
-## TraceTogether Adoption Surpasses 70percent Ccs To Re Open For Token Collection Progressively
+## TraceTogether Adoption Surpasses 70% -  CCs To Re Open For Token Collection Progressively
 
 **23 Dec 2020**
 
