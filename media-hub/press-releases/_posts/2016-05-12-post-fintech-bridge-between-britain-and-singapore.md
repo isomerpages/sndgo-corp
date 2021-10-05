@@ -3,6 +3,10 @@ title: FinTech Bridge Between Britain and Singapore
 date: 2016-05-12
 permalink: /media-hub/press-releases/fintech-bridge-between-britain-and-singapore
 ---
+## Fintech Bridge Between Britain And Singapore
+
+**12 May 2016**
+
 Singaporean officials and FinTech companies gathered with UK FinTech companies in Downing Street today to celebrate the launch of the UK’s first ever FinTech Bridge, which included the signing of a Regulatory Cooperation Agreement between the Financial Conduct Authority (FCA) and the Monetary Authority of Singapore (MAS).
 
 The agreement will enable the regulators to refer FinTech firms to their counterparts across the globe. It also sets out how the regulators plan to share and use information on financial services innovation in their respective markets.
