@@ -3,6 +3,10 @@ title: Smart Defence Vision Announced at Ministry of Defence (MINDEF) PRIDE Day 
 date: 2015-09-02
 permalink: /media-hub/press-releases/smart-defence-vision-announced-at-ministry-of-defence-mindef-pride-day-2015
 ---
+## Smart Defence Vision Announced At Ministry Of Defence Mindef Pride Day 2015
+
+**02 Sep 2015**
+
 Second Minister for Defence Mr Lui Tuck Yew officiated at the Ministry of Defence (MINDEF) PRIDE (PRoductivity and Innovation in Daily Efforts) Day 2015 award presentation ceremony held at the Singapore University of Technology and Design this afternoon.
 
 Speaking at the award presentation ceremony, Mr Lui articulated MINDEF and the Singapore Armed Forces' (SAF) vision as a Smart Defence organisation for the next bound of innovation. He said, "Our vision of Smart Defence is to apply new technologies so that we as an organisation work smarter, and our people's work lives are improved as a result. Within the SAF, data mining and analytics, coupled with predictive engines, can offer us sustained sense-making and intelligence to detect security threats to Singapore... At the individual level, work life in MINDEF/SAF can be better and much improved through smart technologies. All these are in line with the national vision for Singapore to be a Smart Nation." Mr Lui also highlighted the importance of continual innovation in MINDEF/SAF to find better ways to achieve its mission. He added, "Looking ahead, as the SAF of the future will be even leaner, we must make technology work harder for us, so as to maximise every soldier's potential in operations and relieve as much as possible the exposure of our personnel to dangerous, or even laborious and mundane tasks."
