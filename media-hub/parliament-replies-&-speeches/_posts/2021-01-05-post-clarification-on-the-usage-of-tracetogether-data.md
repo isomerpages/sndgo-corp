@@ -5,6 +5,8 @@ permalink: /media-hub/parliament-replies-&-speeches/clarification-on-the-usage-o
 ---
 ## Clarification On The Usage Of Tracetogether Data
 
+**Clarifications By Minister Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative**
+
 I wish to clarify three points on the TraceTogether (TT) programme. First, on the purpose of the programme; second, the built-in protection for privacy; and third, the legal provisions governing the use of TraceTogether data.
 
 First point: Contact tracing is absolutely essential for the control of COVID-19. We need to quickly identify everyone who has been exposed or potentially exposed to a patient who is infected in order to provide the necessary care to this close contact and to reduce the probability of them passing on the virus. In other words, to be able to truncate chains of transmission quickly, effectively, and early.
