@@ -4,8 +4,17 @@ date: 2021-02-01
 permalink: /media-hub/parliament/20210201
 layout: post
 ---
+## Helping companines transit into TraceTogether-only SafeEntry Phase
 
-## Fourteenth Parliament Of Singapore – First Session For The Sitting On 1 February 2021
+**Fourteenth Parliament Of Singapore – First Session For The Sitting On 1 February 2021**
+
+### Question
+
+**Mr Leon Perera asked the Prime Minister**
+
+(a) which types of establishments will be required to comply with TraceTogether-only SafeEntry; (b) how many of such establishments presently do not have the capability to accept TraceTogether token check-in and what is their percentage of all affected establishments; (c) how is the Government supporting these establishments in acquiring this capability; and (d) to what extent will the Government help defray additional costs incurred by smaller establishments to comply with TraceTogether-only SafeEntry.
+
+### Answer
 
 **Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security**
 
