@@ -5,7 +5,7 @@ date: 2019-12-23
 permalink: /media-hub/forum-replies/data-protection
 layout: post
 ---
-
+## Forum Reply: No Two Standards For Data Protection Across Public And Private Sectors
 
 We would like to clarify two points in Mr Hariz Baharudin’s commentary in The Straits Times (Breaking down the double standards of data protection, Dec 19).
 
@@ -25,7 +25,7 @@ Data is the lifeblood of the digital economy and a digital government. Matters r
 
 More information on the [recommendations of the Public Sector Data Security Review Committee can be found here](/media-hub/press-releases/completion-of-public-sector-data-security-review-to-secure-and-protect-citizens-data)
 
-Quek Su Lynn<br>
+**Quek Su Lynn**<br>
 Director, Government Data Office<br>
 Smart Nation and Digital Government Office<br>
 Prime Minister’s Office
