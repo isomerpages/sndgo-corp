@@ -1,9 +1,10 @@
 ---
 title: SafeEntry (Business App) - Minister Josephine Teo
 date: 2021-09-13
-permalink: /media-hub/parliament-replies-&-speeches/permalink
+permalink: /media-hub/parliament/20210913
 layout: post
 ---
+
 ## Fourteenth Parliament of Singapore – First Session for the Sitting on 13 September 2021
 
 **Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity**
