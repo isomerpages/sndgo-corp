@@ -5,9 +5,15 @@ date: 2021-09-14
 permalink: /media-hub/parliament/20210914-b
 layout: post
 ---
+## Using SafeEntry (Business) App to check vaccination status of TraceTogether Token or app users 
 
+**Fourteenth Parliament of Singapore – First Session for the Sitting on 14 September 2021**
 
-## Fourteenth Parliament of Singapore – First Session for the Sitting on 14 September 2021
+### Question
+
+**Mr Gerald Giam Yean Song asked the Prime Minister** whether the SafeEntry Gateway device can be upgraded to provide an indication of a TraceTogether token or app user’s COVID-19 vaccination status in order to avoid crowding and disputes at access control points.
+
+### Answer
 
 **Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity**
 
