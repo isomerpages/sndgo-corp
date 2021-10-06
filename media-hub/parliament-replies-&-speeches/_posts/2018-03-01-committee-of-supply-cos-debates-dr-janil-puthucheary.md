@@ -4,7 +4,7 @@ title: Committee of Supply (COS) Debates 2018 - Senior Minister of State Janil
   Puthucheary
 permalink: /media-hub/parliament-replies-&-speeches/cos-2018-debates-sms-janil-puthucheary
 ---
-# Transcript Of Speech By Dr Janil Puthucheary, Minister-in-Charge Of GovTech
+## Transcript Of Speech By Dr Janil Puthucheary, Minister-in-Charge Of GovTech
 
 Mr Chairman, many members have spoken about the unprecedented pace of technological innovation we are experiencing today. Singapore’s Smart Nation effort seeks to seize the opportunities presented by these changes, to create jobs and improve the lives of our people.
 
@@ -56,6 +56,6 @@ This career pathway for scholarship holders will include working in technology a
 
 I encourage budding technologists with a passion for public service and an eagerness to take on the technical challenges of the digital age to apply for the Smart Nation Scholarship. More details will be released later this year.
 
-## Conclusion
+### Conclusion
 
 In conclusion, Mr Chairman, the initiatives that I have shared today will all come together as part of the broad Digital Government Blueprint, complementing the Transformation of the Public Service, and moving Government services to be truly digital end-to-end and most importantly, citizen-centric.
