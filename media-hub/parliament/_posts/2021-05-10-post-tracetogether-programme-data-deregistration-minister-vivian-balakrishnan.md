@@ -4,8 +4,16 @@ date: 2021-05-10
 permalink: /media-hub/parliament/20210510
 layout: post
 ---
+## Tracetogether Programme Data Deregistration
 
-## Fourteenth Parliament Of Singapore – First Session For The Sitting On 10 May 2021
+**Fourteenth Parliament Of Singapore – First Session For The Sitting On 10 May 2021**
+
+
+## Question
+
+**Ms He Ting Ru asked the Prime Minister** (a) how many users have requested to be deregistered from the TraceTogether programme; and (b) whether the users making the requests will be notified that their data has been deleted following their request.
+
+## Answer
 
 **Written Answer by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs**
 
