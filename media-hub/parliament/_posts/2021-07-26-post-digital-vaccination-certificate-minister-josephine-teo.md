@@ -4,8 +4,16 @@ date: 2021-07-26
 permalink: /media-hub/parliament/20210726
 layout: post
 ---
+## Incorporating vaccination status information into the SingPass record
 
-## Fourteenth Parliament of Singapore – First Session for the Sitting on 26 July 2021
+**Fourteenth Parliament of Singapore – First Session for the Sitting on 26 July 2021**
+
+### Question
+
+**Assoc Prof Jamus Jerome Lim asked the Prime Minister** whether there are any plans to consider incorporating vaccination status information into the SingPass record, which is the most official register of personal information that can also potentially be recognised abroad, instead of just the TraceTogether or HealthHub app.
+
+
+### Answer
 
 **Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity**
 
