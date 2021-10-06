@@ -1,9 +1,10 @@
 ---
 title: TraceTogether Programme - Minister Vivian Balakrishnan
 date: 2020-06-05
-permalink: /media-hub/parliament-replies-&-speeches/tt-programme-5Jun20
+permalink: /media-hub/parliament/20200605
 layout: post
 ---
+
 ## Thirteenth Parliament Of Singapore - Second Session For The Sitting On 5 June 2020
 
 **Oral Reply by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs**
