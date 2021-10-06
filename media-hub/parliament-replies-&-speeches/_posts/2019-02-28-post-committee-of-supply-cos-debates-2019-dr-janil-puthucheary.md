@@ -4,7 +4,9 @@ title: Committee of Supply (COS) Debates 2019 - Senior Minister of State Janil
   Puthucheary
 permalink: /media-hub/parliament-replies-&-speeches/cos-2019-debates-sms-janil-puthucheary
 ---
-## Speech By Dr Janil Puthucheary Minister-in-Charge Of GovTech Committee Of Supply 2019
+
+
+**Speech By Dr Janil Puthucheary Minister-in-Charge Of GovTech Committee Of Supply 2019**
 
 Mr Chairman, I’ll make no assumptions about which derivative geek I am. But if I may follow on from Minister Vivian’s rallying cry for all of us to become involved in Singapore’s Smart Nation ambition, the Government cannot make this happen alone, cannot make this happen through force of will, by wishing it, by making speeches. We need the ideas and the capabilities of our people and businesses. As a nation, everyone needs to be part of our Smart Nation journey.
 
