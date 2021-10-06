@@ -4,9 +4,10 @@ date: 2020-02-28
 permalink: /media-hub/parliament-replies-&-speeches/cos-2020-debates-min-vivian-balakrishnan
 layout: post
 ---
-## Speech By Minister Vivian Balakrishnan Minister-in-Charge Of The Smart Nation Initiative
+## Committee of Supply Debates 2020<br>(28 Feb 2020)
 
-**COMMITTEE OF SUPPLY 2020**
+**Speech By Minister Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative**
+
 
 ### Section 1: Introduction
 
