@@ -4,7 +4,16 @@ date: 2021-10-05
 permalink: /media-hub/parliament/20211005
 layout: post
 ---
+## Measures to prevent personal information from TraceTogether usage from being hacked
+
+
+
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 5 October 2021**
+
+**NOTICE PAPER NO 739 OF 2021**
+
+**QUESTION NO 1810 FOR ORAL ANSWER**
+
 
 ### Question
 
