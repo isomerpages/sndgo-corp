@@ -4,7 +4,9 @@ title: Addenda to the President’s Address at the Opening of the Second Session
   of the 13th Parliament
 permalink: /media-hub/parliament-replies-&-speeches/addenda-to-the-presidents-address-at-the-opening-of-the-second-session-of-the-13th-parliament
 ---
-## PRIME MINISTER’S OFFICE (SMART NATION AND DIGITAL GOVERNMENT GROUP)
+## Addenda to the Presidents Address at the Opening of the Second Session of the 13th Parliament
+
+**PRIME MINISTER’S OFFICE (SMART NATION AND DIGITAL GOVERNMENT GROUP)**
 
 **ADDENDUM TO THE PRESIDENT’S ADDRESS**
 
