@@ -2,9 +2,10 @@
 title: SafeEntry Gateway Device and Checking of Vaccination Status - Minister
   Josephine Teo
 date: 2021-09-14
-permalink: /media-hub/parliament-replies-&-speeches/permalink
+permalink: /media-hub/parliament/20210914-a
 layout: post
 ---
+
 ## Fourteenth Parliament of Singapore – First Session for the Sitting on 14 September 2021
 
 **Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity**
