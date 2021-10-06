@@ -46,6 +46,6 @@ Recommendations and initiatives to strengthen the Government’s data security r
 
 ----------
 
-#### Report data incident here...
+#### Report data incident [here](/about-smart-nation/secure-smart-nation/report-data-incident)...
 
 <a href="/about-smart-nation/secure-smart-nation/report-data-incident"><img src="/images/abt-smart-nation/report-data-incident.png"></a>
