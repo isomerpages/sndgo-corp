@@ -12,15 +12,15 @@ layout: post
 
 ## Questions
 
-**Question by Mr Chong Kee Hiong**
+**Mr Chong Kee Hiong asked the Prime Minister** 
 
-To ask the Prime Minister (a) with the increasing need to use SingPass, what measures are in place to ensure privacy and security for users, especially senior and vulnerable citizens, when they depend on third parties who are tasked to assist them to navigate online services and enter their IDs and passwords; and (b) whether the Government will consider maintaining more alternative avenues, such as physical counters, for the elderly to avail of such services without the need for SingPass as they have difficulty keeping up with the pace of digitalisation.
+(a) With the increasing need to use SingPass, what measures are in place to ensure privacy and security for users, especially senior and vulnerable citizens, when they depend on third parties who are tasked to assist them to navigate online services and enter their IDs and passwords; and (b) whether the Government will consider maintaining more alternative avenues, such as physical counters, for the elderly to avail of such services without the need for SingPass as they have difficulty keeping up with the pace of digitalisation.
 
 
 
-**Question by Mr Gerald Giam Yean Song**
+**Mr Gerald Giam Yean Song asked the Prime Minister**
 
-To ask the Prime Minister with the discontinuation of the OneKey token from 1 April 2021, how will GovTech ensure that (a) all residents who do not own a mobile phone will be able to access government e-services using SingPass, given that a local mobile phone is required for the SingPass two-factor authentication (2FA) process; and (b) notwithstanding the introduction of Multi-User SMS 2FA, whether alternative 2FA methods can be provided to enable residents with no mobile phones to login with SingPass independently, without the assistance of a third party.
+With the discontinuation of the OneKey token from 1 April 2021, how will GovTech ensure that (a) all residents who do not own a mobile phone will be able to access government e-services using SingPass, given that a local mobile phone is required for the SingPass two-factor authentication (2FA) process; and (b) notwithstanding the introduction of Multi-User SMS 2FA, whether alternative 2FA methods can be provided to enable residents with no mobile phones to login with SingPass independently, without the assistance of a third party.
 
 ## Answer
 
