@@ -3,7 +3,7 @@ title: MAS Proposes New Regulatory Framework and Governance Model for Payments
 date: 2016-08-25
 permalink: /media-hub/press-releases/permalinkmas-proposes-new-regulatory-framework-and-governance-model-for-payments
 ---
-## Mas Proposes New Regulatory Framework And Governance Model For Payments ##
+## MAS Proposes New Regulatory Framework And Governance Model For Payments ##
 
 **25 Aug 2016**
 

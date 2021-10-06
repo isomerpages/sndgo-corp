@@ -1,8 +1,13 @@
 ---
-title: Smart Health TeleRehab to Improve Patient Access to Rehabilitation Services and Productivity for Therapists
+title: Smart Health TeleRehab
 date: 2017-05-05
 permalink: /media-hub/press-releases/smart-health-telerehab-to-improve-patient-access-to-rehabilitation-services-and-productivity-for-therapists
+layout: post
 ---
+## Smart Health TeleRehab to Improve Patient Access to Rehabilitation Services and Productivity for Therapists
+
+**05 May 2017**
+
 Patients who need rehabilitation therapy services can look forward to greater convenience with the implementation of Smart Health TeleRehab, a Smart Nation initiative. Through the use of wearable sensors and remote monitoring by therapists, patients can undergo their rehabilitation exercises at a time and location of their choice. Therapists and service providers also stand to benefit from better productivity.
 
 Developed together with the National University of Singapore (NUS) Department of Electrical & Computer Engineering and Saw Swee Hock School of Public Health, Smart Health TeleRehab will be rolled out as a national pilot by Integrated Health Information Systems (IHiS) and T-Rehab, a startup by NUS. An application has been filed for patent.
