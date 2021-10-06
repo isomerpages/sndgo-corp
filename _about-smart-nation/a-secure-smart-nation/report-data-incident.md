@@ -26,9 +26,4 @@ We look forward to working with you to strengthen the overall public sector data
 
 **Have a question or need more help? Refer to our [frequently asked questions (FAQs)](/about-smart-nation/a-secure-smart-nation/rdi-faqs).**
 
-## Click [here](https://go.gov.sg/DataIncidentForm) to report an incident
-
-
-
-
-
+## Click [here](https://go.gov.sg/DataIncidentForm) to report a data incident
