@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Smart Nation Singapore
-description: Homepage of Singapore's Smart Nation Initiative
+description: Transforming Singapore Through Technology
 image: /images/isomer-logo.svg
 permalink: /
 sections:
