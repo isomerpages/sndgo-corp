@@ -16,7 +16,7 @@ We look forward to working with you to strengthen the overall public sector data
 
 ✔️ Do conduct yourself in accordance with applicable laws and regulations at all times. **Note:**  Under no circumstances should you attempt to make a false report, publish details of any suspected data incidents involving government data or recklessly or intentionally use government data for wrongful gain.
 
-✔️ Upon detection of a suspected government data incident, notify us as soon as possible by submitting a report to us by filling in the  **Incident Reporting Form**. This will enable the Smart Nation & Digital Government Group (SNDGG) to conduct an investigation promptly.
+✔️ Upon detection of a suspected government data incident, notify us as soon as possible by submitting a report to us by filling in the  **[Incident Reporting Form](https://go.gov.sg/DataIncidentForm)**. This will enable the Smart Nation & Digital Government Group (SNDGG) to conduct an investigation promptly.
 
 ✔️ Please provide your  **contact details** in the Incident Reporting Form so that you may be reached for clarifications, and for us to provide you with a status update following our investigation.
 
@@ -25,4 +25,10 @@ We look forward to working with you to strengthen the overall public sector data
 ✔️ Upon submitting records of evidence to SNDGG, please  **dispose of all evidence**  immediately in an appropriate manner.
 
 **Have a question or need more help? Refer to our [frequently asked questions (FAQs)](/about-smart-nation/a-secure-smart-nation/rdi-faqs).**
+
+## Click [here](https://go.gov.sg/DataIncidentForm) to report an incident
+
+
+
+
 
