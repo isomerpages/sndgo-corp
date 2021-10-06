@@ -5,9 +5,15 @@ date: 2021-09-14
 permalink: /media-hub/parliament/20210914-a
 layout: post
 ---
+## Managing user access and controls and using AI (Artificial Intelligence) and analytics to monitor and flag irregularities and derive insights
 
+**Fourteenth Parliament of Singapore – First Session for the Sitting on 14 September 2021**
 
-## Fourteenth Parliament of Singapore – First Session for the Sitting on 14 September 2021
+### Question
+
+**Ms Jessica Tan Soon Neo asked the Prime Minister** with regard to the observations of weaknesses in IT controls highlighted in the Report of the Auditor-General for the Financial Year 2020/2021 (a) to what extent has technology been used in public sector entities to administer and manage user access and controls; and (b) how is artificial intelligence and analytics used to monitor and flag irregularities and to derive insights.
+
+### Answer
 
 **Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security**
 
