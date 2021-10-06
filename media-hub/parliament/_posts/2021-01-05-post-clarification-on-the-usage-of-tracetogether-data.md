@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Clarification on the Usage of TraceTogether Data
-permalink: /media-hub/parliament-replies-&-speeches/clarification-on-the-usage-of-tracetogether-data-5Jan21
+date: 2021-01-05
+permalink: /media-hub/parliament/20210105
+layout: post
 ---
+
 ## Clarification On The Usage Of Tracetogether Data
 
 **Clarifications By Minister Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative**
