@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  SingPass' Facial Verification - Minister Vivian Balakrishnan
+title: SingPass' Facial Verification - Minister Vivian Balakrishnan
 permalink: /media-hub/parliament-replies-&-speeches/singpass-facial-verification
---- 
+---
+## Fourteenth Parliament Of Singapore – First Session For The Sitting On 4 January 2021
 
-# Fourteenth Parliament Of Singapore – First Session For The Sitting On 4 January 2021
-
-## Oral Reply by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs
+**Oral Reply by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs**
 
 We  are committed to building an inclusive Smart Nation, one where nobody is digitally excluded.
 
