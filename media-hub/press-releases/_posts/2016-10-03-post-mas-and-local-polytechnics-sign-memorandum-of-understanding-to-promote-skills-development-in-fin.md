@@ -4,7 +4,7 @@ title: MAS and Local Polytechnics Sign Memorandum of Understanding to Promote
 date: 2016-10-03
 permalink: /media-hub/press-releases/mas-and-local-polytechnics-sign-memorandum-of-understanding-to-promote-skills-development-in-financial-technology
 ---
-## Mas And Local Polytechnics Sign Memorandum Of Understanding To Promote Skills Development In Fin ##
+## MAS And Local Polytechnics Sign Memorandum Of Understanding To Promote Skills Development In Fin ##
 
 **03 Oct 2016**
 
@@ -19,7 +19,9 @@ More than **2,500 students** who are enrolled in the banking and IT-related cour
 MAS’ Chief Fintech Officer, Mr Sopnendu Mohanty, said, “This MOU signifies the concerted effort being taken by MAS and the local polytechnics to nurture a pool of skilled manpower for the growing FinTech community in Singapore and will be a key area of focus in the financial sector’s SkillsFuture drive”.
 
 Mr Clarence Ti, Principal of Ngee Ann Polytechnic, which is the SkillsFuture Sector Coordinator for Accountancy and Financial Services, said, “In 2017, we are going to start 100 FinTech internships and build a pool of 100 FinTech mentors. A new microsite www.polyfintech100.sg will allow companies to register their interest to provide internship or mentorship. Our partnerships with the industry will help ensure that polytechnic students acquire relevant skills to meet the evolving needs of the FinTech sector.”  
-  
+ 
+ --------
+ 
 [^1]: Nanyang Polytechnic, Ngee Ann Polytechnic, Republic Polytechnic, Singapore Polytechnic and Temasek Polytechnic
 
 [Press release issued by Monetary Authority of Singapore](https://www.mas.gov.sg/news/media-releases/2016/mas-and-local-polytechnics-sign-memorandum-of-understanding-to-promote-skills-development-in-fintech)
