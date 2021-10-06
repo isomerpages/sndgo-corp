@@ -3,7 +3,7 @@ title: MAS establishes FinTech Innovation Lab
 date: 2016-08-24
 permalink: /media-hub/press-releases/mas-establishes-fintech-innovation-lab
 ---
-## Mas Establishes Fintech Innovation Lab ##
+## MAS Establishes Fintech Innovation Lab ##
 
 **24 Aug 2016**
 
