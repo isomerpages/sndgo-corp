@@ -1,9 +1,10 @@
 ---
 title: Safeguarding TraceTogether Data - Minister Josephine Teo
 date: 2021-10-05
-permalink: /media-hub/parliament-replies-&-speeches/permalink
+permalink: /media-hub/parliament/20211005
 layout: post
 ---
+
 ## Fourteenth Parliament of Singapore – First Session for the Sitting on 5 October 2021
 
 **NOTICE PAPER NO 739 OF 2021**
