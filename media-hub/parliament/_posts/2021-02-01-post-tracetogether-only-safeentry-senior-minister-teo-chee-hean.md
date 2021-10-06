@@ -10,9 +10,7 @@ layout: post
 
 ### Question
 
-**Mr Leon Perera asked the Prime Minister**
-
-(a) Which types of establishments will be required to comply with TraceTogether-only SafeEntry; (b) how many of such establishments presently do not have the capability to accept TraceTogether token check-in and what is their percentage of all affected establishments; (c) how is the Government supporting these establishments in acquiring this capability; and (d) to what extent will the Government help defray additional costs incurred by smaller establishments to comply with TraceTogether-only SafeEntry.
+**Mr Leon Perera asked the Prime Minister** (a) which types of establishments will be required to comply with TraceTogether-only SafeEntry; (b) how many of such establishments presently do not have the capability to accept TraceTogether token check-in and what is their percentage of all affected establishments; (c) how is the Government supporting these establishments in acquiring this capability; and (d) to what extent will the Government help defray additional costs incurred by smaller establishments to comply with TraceTogether-only SafeEntry.
 
 ### Answer
 
