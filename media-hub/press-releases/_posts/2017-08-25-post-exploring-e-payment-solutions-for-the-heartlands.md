@@ -5,6 +5,8 @@ permalink: /media-hub/press-releases/exploring-e-payment-solutions-for-the-heart
 ---
 ## Exploring E Payment Solutions For The Heartlands
 
+**25 Aug 2017**
+
 **Agencies issue Request for Information for e-payment solutions in hawker centres, HDB coffee shops and shops**
 
 **JOINT NEWS RELEASE BETWEEN HDB, MAS, SNDGO AND NEA**
