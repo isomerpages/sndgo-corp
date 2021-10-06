@@ -1,9 +1,10 @@
 ---
 title: My Legacy Portal - Senior Minister Teo Chee Hean
 date: 2021-02-26
-permalink: /media-hub/parliament-replies-&-speeches/my-legacy-portal
+permalink: /media-hub/parliament/20210226-b
 layout: post
 ---
+
 ## Fourteenth Parliament Of Singapore – First Session For The Sitting On 26 February 2021
 
 **Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security**
