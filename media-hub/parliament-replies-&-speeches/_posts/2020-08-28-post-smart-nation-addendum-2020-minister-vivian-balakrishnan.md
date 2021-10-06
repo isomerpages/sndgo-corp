@@ -4,7 +4,7 @@ date: 2020-08-28
 permalink: /media-hub/parliament-replies-&-speeches/smart-nation-addendum-2020
 layout: post
 ---
-## Addendum to the President’s Address 2020
+## Smart Nation Addendum 2020
 
 **Prime Minister’s Office (Smart Nation And Digital Government Group)**
   
