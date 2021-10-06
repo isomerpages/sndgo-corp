@@ -8,7 +8,7 @@ permalink: /media-hub/parliament-replies-&-speeches/cos-2020-debates-sms-janil-p
 
 **Speech By Dr Janil Puthucheary, Minister-in-Charge Of Govtech**
 
-**COMMITTEE OF SUPPLY 2020**
+
 
 To support our fight against COVID-19, many GovTech engineers worked with the rest of the public service to build new digital services. One team put together MaskGoWhere almost overnight, to give citizens up-to-date information on where to collect their masks. This was identified as an urgent need, to allay fears, provide accurate, reliable and real-time information. It needed to be created very quickly. Other teams worked on providing accurate information through the Gov.sg WhatsApp channel and Ask Jamie chatbot, and developed software to help MOM monitor Leave of Absence compliance, just to name a few of these digital efforts to support our fight against COVID-19.
 
