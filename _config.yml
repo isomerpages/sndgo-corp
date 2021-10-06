@@ -43,7 +43,7 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: test test
+description: Transforming Singapore Through Technology
 staging: https://smartnationsg-staging.netlify.app
 prod: https://smartnationsg-prod.netlify.app
 plugins:
