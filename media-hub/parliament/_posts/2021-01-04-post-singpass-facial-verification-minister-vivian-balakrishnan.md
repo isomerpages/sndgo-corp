@@ -4,7 +4,7 @@ date: 2021-01-04
 permalink: /media-hub/parliament/20210104
 layout: post
 ---
-## PQ on SingPass and OneKey Token
+## Increasing need to use SingPass and the discontinuation of the OneKey token
 
 **Fourteenth Parliament Of Singapore – First Session For The Sitting On 4 January 2021**
 
