@@ -1,8 +1,11 @@
 ---
+title: Forum Reply - No Two Standards For Data Protection Across Public And
+  Private Sectors
+date: 2019-12-23
+permalink: /media-hub/forum-replies/data-protection
 layout: post
-title:  Forum Reply - No Two Standards For Data Protection Across Public And Private Sectors
-permalink: /media-hub/press-releases/no-two-standards-for-data-protection-across-public-and-private-sectors
 ---
+
 
 We would like to clarify two points in Mr Hariz Baharudin’s commentary in The Straits Times (Breaking down the double standards of data protection, Dec 19).
 
