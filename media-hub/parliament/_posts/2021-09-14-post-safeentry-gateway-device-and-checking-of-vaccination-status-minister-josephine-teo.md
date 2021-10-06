@@ -2,9 +2,10 @@
 title: SafeEntry Gateway Device and Checking of Vaccination Status - Minister
   Josephine Teo
 date: 2021-09-14
-permalink: /media-hub/parliament/20210914-a
+permalink: /media-hub/parliament/20210914-b
 layout: post
 ---
+
 
 ## Fourteenth Parliament of Singapore – First Session for the Sitting on 14 September 2021
 
