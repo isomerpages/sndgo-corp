@@ -4,8 +4,15 @@ date: 2021-09-13
 permalink: /media-hub/parliament/20210913
 layout: post
 ---
+## COVID-19 vaccination status check via SafeEntry (Business) App
 
-## Fourteenth Parliament of Singapore – First Session for the Sitting on 13 September 2021
+**Fourteenth Parliament of Singapore – First Session for the Sitting on 13 September 2021**
+
+### Question
+
+**Ms Joan Pereira asked the Prime Minister** whether the Government can help organisations and businesses that need to check on the COVID-19 vaccination status of their visitors, clients and customers, to install and configure their SafeEntry (Business) Apps to allow visitors and patrons, especially the elderly who carry TraceTogether tokens, to verify their status through a quick scan.
+
+### Answer
 
 **Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity**
 
