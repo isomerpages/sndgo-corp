@@ -1,9 +1,10 @@
 ---
 title: Committee of Supply (COS) Debates 2020 - Minister Vivian Balakrishnan
 date: 2020-02-28
-permalink: /media-hub/parliament/20200228
+permalink: /media-hub/parliament/20200228-b
 layout: post
 ---
+
 
 ## Committee of Supply Debates 2020<br>(28 Feb 2020)
 
