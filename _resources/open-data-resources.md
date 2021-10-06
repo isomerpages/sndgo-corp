@@ -64,6 +64,6 @@ Find out more about trees in your neighbourhood! The online portal plots more th
 
 
 ### <a href="https://www.ura.gov.sg/maps/" target="_blank">URA Space</a>
-<div style="width:50%"><img src="/images/ura-space.png"></div>
+<div style="width:50%"><img src="/images/ura space 2.png"></div>
 
 An online geospatial map that consolidates detailed land use information. Access information relating to the master plan, urban design guidelines, private property use and approval, car park locations and availability, private residential property transactions, and conservation areas and buildings.
