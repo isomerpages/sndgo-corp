@@ -3,6 +3,10 @@ title: Opening Bank Accounts Becomes More Seamless and Convenient for MyInfo Use
 date: 2017-05-03
 permalink: /media-hub/press-releases/opening-bank-accounts-becomes-more-seamless-and-convenient-for-myinfo-users
 ---
+## Opening Bank Accounts Becomes More Seamless And Convenient For MyInfo Users
+
+**03 May 2017**
+
 The Smart Nation and Digital Government Office (SNDGO) and Government Technology Agency (GovTech), in collaboration with the Monetary Authority of Singapore (MAS), have begun a pilot with four banks to explore simplifying online banking transactions with the use of the Government’s MyInfo service.
 
 Starting progressively from today, prospective customers of United Overseas Bank (UOB), Development Bank of Singapore (DBS), Oversea-Chinese Banking Corporation (OCBC) and Standard Chartered Bank (StanChart) with a registered profile on myinfo.gov.sg can apply for a new bank account without needing to submit supporting documentation. This enables greater convenience and a faster transaction time, creating a seamless digital user experience. In addition, the banks benefit from higher productivity and lower compliance costs.
