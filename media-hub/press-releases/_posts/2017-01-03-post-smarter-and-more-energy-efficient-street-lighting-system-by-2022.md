@@ -3,7 +3,7 @@ title: Smarter and More Energy-Efficient Street Lighting System by 2022
 date: 2017-01-03
 permalink: /media-hub/press-releases/smarter-and-more-energy-efficient-street-lighting-system-by-2022
 ---
-# Smarter And More Energy Efficient Street Lighting System By 2022
+## Smarter And More Energy Efficient Street Lighting System By 2022
 
 **03 Jan 2017**
 
