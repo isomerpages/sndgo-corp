@@ -29,6 +29,8 @@ Besides the RCMS, the Government Technology Agency will leverage LTA’s smart l
 
 [Press release issued by Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/1/2/smarter-and-more-energy-efficient-street-lighting-system-by-2022.html)
 
+----------
+
 [^1]: Trials for medium-powered LED lightings were conducted at Northumberland Road and Tekka Lane from 2010 to 2013. Trials for high-powered LED lightings were conducted at Lor 1 Toa Payoh and West Coast Highway from 2013 to 2016.
 
 [^2]: LED lightings require less maintenance compared to the current High Pressure Sodium Vapour (HPSV) lightings as the components can last an average of 10 years compared to HPSV lamps, which require replacement every three years in order to achieve the required lighting output.
