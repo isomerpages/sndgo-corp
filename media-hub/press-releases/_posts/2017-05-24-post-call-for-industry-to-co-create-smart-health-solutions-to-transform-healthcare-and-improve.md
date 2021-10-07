@@ -1,8 +1,12 @@
 ---
-title: "Call for Industry to Co-create Smart Health Solutions to Transform Healthcare & Improve Population Health"
+title: Call for Industry to Co-create Smart Health Solutions to Transform
+  Healthcare & Improve Population Health
 date: 2017-05-24
 permalink: /media-hub/press-releases/call-for-industry-to-co-create-smart-health-solutions-to-transform-healthcare-and-improve-population-health
 ---
+## Call For Industry To Co Create Smart Health Solutions To Transform Healthcare And Improve Population Health
+
+**24 May 2017**
 
 Integrated Health Information Systems (IHiS), the technology agency for Singapore healthcare, has today called for greater collaboration across various industries to co-create Smart Health solutions to transform healthcare and improve population health. MOH’s three strategic shifts in moving care beyond the hospital to the community, beyond healthcare to health, and beyond quality to value aim to combat the challenges of a rapidly growing ageing population, increasing chronic disease burden, and shrinking workforce that is faced by many developed cities around the globe.
 
