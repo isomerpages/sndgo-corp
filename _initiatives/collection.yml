@@ -12,6 +12,7 @@ collections:
       - strategic-national-projects/punggol-digital-district.md
       - strategic-national-projects/smart-nation-sensor-platform.md
       - strategic-national-projects/smart-urban-mobility.md
+      - national-ai-strategy.md
       - urban-living/.keep
       - urban-living/overview.md
       - urban-living/automated-meter-reading.md
@@ -47,4 +48,3 @@ collections:
       - business/data-innovation-programme-office.md
       - business/fintech-sandbox.md
       - business/networked-trade-platform.md
-      - national-ai-strategy.md
