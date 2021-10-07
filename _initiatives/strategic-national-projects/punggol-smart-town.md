@@ -3,8 +3,7 @@ title: Punggol Smart Town
 permalink: /initiatives/strategic-national-projects/punggolst
 third_nav_title: Strategic National Projects
 ---
-
-# Punggol Digital District: Singapore’s Town for the Future
+# Punggol Smart Town: Singapore’s Town for the Future
 <br>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3SBpl95qxNU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
