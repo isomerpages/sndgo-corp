@@ -4,7 +4,7 @@ title: Healthcare Consultations Move Online in Singapore's First National
 date: 2017-04-12
 permalink: /media-hub/press-releases/healthcare-consultations-move-online-in-singapore-s-first-national-implementation-of-smart-health-video-consultation-for-healthcare
 ---
-## Healthcare Consultations Move Online In Singapore's First National Implementation Of Smart Health V
+## Healthcare Consultations Move Online in Singapore’s First National Implementation of Smart Health Video Consultation for Healthcare
 
 **12 Apr 2017**
 
