@@ -5,6 +5,7 @@ date: 2017-02-13
 permalink: /media-hub/press-releases/govtech-partners-with-eight-institutes-of-higher-learning-to-develop-deep-technical-capabilities-in-students-to-help-build-a-smart-nation
 ---
 ## Govtech Partners With Eight Institutes Of Higher Learning To Develop Deep Technical Capabilities In
+
 **13 Feb 2017** 
 
 The Government Technology Agency of Singapore (GovTech) announced the signing of six individual Memorandums of Understanding (MOU), and two Memorandums of Intent (MOI) with eight Institutes of Higher Learning (IHLs) today.
