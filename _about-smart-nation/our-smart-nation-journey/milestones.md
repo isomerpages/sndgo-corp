@@ -1,8 +1,9 @@
 ---
 title: Milestones
-permalink: /about-smart-nation/our-achievements/milestones
+permalink: /about-smart-nation/our-journey/milestones
 third_nav_title: Our Smart Nation Journey
 ---
+
 
 # Milestones of Singapore’s Smart Nation story
 
