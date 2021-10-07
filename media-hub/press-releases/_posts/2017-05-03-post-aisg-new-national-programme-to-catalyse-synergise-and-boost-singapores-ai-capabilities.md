@@ -5,8 +5,7 @@ date: 2017-05-03
 permalink: /media-hub/press-releases/aisg-new-national-programme-to-catalyse-synergise-and-boost-singapore-s-artificial-intelligence-capabilities
 layout: post
 ---
-
-## AI.SG New National Programme To Catalyse Synergise And Boost Singapores Artificial Intelligence
+## AI.SG New National Programme To Catalyse Synergise And Boost Singapores Artificial Intelligence Capabilities
 
 **03 May 2017**
 
@@ -36,6 +35,8 @@ As AI.SG will be a national partnership that pulls together Singapore’s AI cap
 Mr Tan Kok Yam, Deputy Secretary, SNDG, PMO said: “Through AI.SG, we intend to work with AI research performers, start-ups and companies to audaciously tackle tough challenges in areas such as transportation and urban management. We hope that the programme will be a stellar example of how a Smart Nation will use digital technology in an impactful way to improve citizens’ lives, and create new opportunities.”
 
 Professor Ho Teck Hua, Executive Chairman of AI.SG, also Deputy President (Research & Technology) and Tan Chin Tuan Centennial Professor at NUS, said: “AI.SG provides unparalleled opportunities for universities and research institutions working in AI. The scale and approach of AI.SG are unique. The multi-disciplinary project teams in AI.SG will work collaboratively across institutional affiliations, disciplines and national borders to investigate fundamentally different approaches to develop innovative AI technology and solutions. A key feature of AI.SG will be a series of Grand Challenges that will inspire both the researchers and the end users to tackle major societal challenges that are not only relevant for Singapore but also the global community. AI.SG aspires to develop smart technologies that transform societies."
+
+---
 
 [^1]: The NRF Fellowship provides opportunities for early career researchers to carry out independent research in Singapore. The NRF Investigatorship provides opportunities for established, innovative and active scientists and researchers, in their mid-career, to pursue ground-breaking research in Singapore.
 
