@@ -4,14 +4,15 @@ collections:
     order:
       - strategic-national-projects/.keep
       - strategic-national-projects/overview.md
-      - strategic-national-projects/business-grants-portal-gobusiness-licensing.md
+      - strategic-national-projects/gobusiness.md
       - strategic-national-projects/codex.md
       - strategic-national-projects/e-payments.md
       - strategic-national-projects/lifesg.md
       - strategic-national-projects/national-digital-identity.md
-      - strategic-national-projects/punggol-digital-district.md
+      - strategic-national-projects/punggol-smart-town.md
       - strategic-national-projects/smart-nation-sensor-platform.md
       - strategic-national-projects/smart-urban-mobility.md
+      - national-ai-strategy.md
       - urban-living/.keep
       - urban-living/overview.md
       - urban-living/automated-meter-reading.md

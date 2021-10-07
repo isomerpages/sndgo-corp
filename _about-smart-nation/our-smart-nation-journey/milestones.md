@@ -1,8 +1,10 @@
 ---
 title: Milestones
-permalink: /about-smart-nation/our-achievements/milestones
-third_nav_title: Our Achievements
+permalink: /about-smart-nation/our-journey/milestones
+third_nav_title: Our Smart Nation Journey
 ---
+
+
 # Milestones of Singapore’s Smart Nation story
 
 Smart technology has made a difference to the way we live, work and play. But the changes didn’t happen overnight. Here, we trace the milestones of Singapore’s Smart Nation story. 

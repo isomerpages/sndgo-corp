@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Smart Nation Singapore
-description: Homepage of Singapore's Smart Nation Initiative
+description: Transforming Singapore Through Technology
 image: /images/isomer-logo.svg
 permalink: /
 sections:
@@ -32,7 +32,7 @@ sections:
       subtitle: Strategic National Projects
       description: Find out why the Punggol Digital District is the place to be!
       button: Read more about it
-      url: /initiatives/strategic-national-projects/punggol-digital-district
+      url: /initiatives/strategic-national-projects/punggolst
       image: /images/initiatives/pdd.jpeg
       alt: Punggol Digital District
   - infopic:
