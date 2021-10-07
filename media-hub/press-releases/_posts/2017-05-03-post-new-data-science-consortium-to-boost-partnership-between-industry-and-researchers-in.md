@@ -4,7 +4,7 @@ title: New Data Science Consortium to Boost Partnership Between Industry and
 date: 2017-05-03
 permalink: /media-hub/press-releases/new-data-science-consortium-to-boost-partnership-between-industry-and-researchers-in-big-data-analytics
 ---
-## New Data Science Consortium To Boost Partnership Between Industry And Researchers In
+## New Data Science Consortium to Boost Partnership between Industry and Researchers in Big Data Analytics 
 
 **03 May 2017**
 
@@ -32,4 +32,4 @@ Data has been identified as a significant growth multiplier for Singapore. Regio
 
 **Mr Nicholas Lee, CEO, EZ-Link Pte Ltd** said: “Collaborative big data analytics is of vital importance to the development of future innovative solutions. EZLink is excited to partner with the various research institutes and like-minded industry players under the Singapore Data Science Consortium to deepen our capabilities in data science, with EZ-Link transaction data as the core. This partnership will dovetail with our current collaboration with NUS and Alibaba on data analytics as well as our foray into new technologies such as wearables and account-based payments, to bring about new integrated payment solutions that take customer experience to new levels.”
 
-[Press release issued by National Research Foundation, Prime Minister's Office](https://www.smartnation.gov.sg/docs/default-source/press-release-materials/201705081300494591-press-release-(data-science-consortium)-(final)--web.pdf?sfvrsn=1722324f_2)
+[Press release issued by National Research Foundation, Prime Minister's Office](https://www.nrf.gov.sg/docs/default-source/modules/pressrelease/201705081300494591-Press-Release-(Data-Science-Consortium)-(FINAL)--web.pdf)
