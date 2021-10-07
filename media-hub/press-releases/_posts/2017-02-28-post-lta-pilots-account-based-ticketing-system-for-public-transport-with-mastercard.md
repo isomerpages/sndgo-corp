@@ -19,6 +19,8 @@ Mr Ngien Hoon Ping, Chief Executive of LTA, said, “We are pleased to partner M
   
 Ms Deborah Heng, Country Manager of Mastercard Singapore, said, “Apart from use on public transport, Mastercard contactless payments are already available in many popular retail and F&B merchants, as well as a large number of taxis. The introduction of Account-Based Ticketing in Singapore’s public transportation system is the latest in Mastercard’s commitment to deliver smart city solutions to Singapore. In the near future, we expect to broaden contactless access by enabling mobile and wearable devices for cashless use.”
 
+----------
+
 [^1]: Cardholders accepted onto the pilot may visit the TransitLink ABT Portal
 
 [Press release issued by Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/2/2/joint-news-release-by-the-land-transport-authority-lta-mastercard---lta-pilots-account-based-ticketing-system-for-publi.html)
