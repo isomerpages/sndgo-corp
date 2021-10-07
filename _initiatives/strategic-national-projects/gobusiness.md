@@ -3,7 +3,6 @@ title: GoBusiness
 permalink: /initiatives/strategic-national-projects/business-grants-gobusiness-licensing
 third_nav_title: Strategic National Projects
 ---
-
 # Business Grants and Licenses At Your Fingertips
 ![business grants portal](/images/initiatives/business-grants-gobusiness.png)
   
@@ -19,4 +18,4 @@ The Business Grants Portal is a one-stop shop for businesses to apply for grants
 
 GoBusiness Licensing Portal allows businesses to apply, amend, renew or terminate licences from multiple agencies easily, helping them save precious time.
 
-Visit the <a href="https://www.businessgrants.gov.sg/" target="_blank">Business Grants Portal</a> and <a href="http://www.gobusiness.gov.sg/licenses" target="_blank">GoBusiness Licensing Portal</a> for more information.
+Visit the <a href="https://www.gobusiness.gov.sg/business-grants-portal/" target="_blank">Business Grants Portal</a> and <a href="https://www.gobusiness.gov.sg/licences/" target="_blank">GoBusiness Licensing Portal</a> for more information.
