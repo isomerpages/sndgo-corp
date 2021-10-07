@@ -1,8 +1,9 @@
 ---
 title: Achievements
-permalink: /about-smart-nation/achievements
+permalink: /about-smart-nation/our-journey/achievements
 third_nav_title: Our Smart Nation Journey
 ---
+
 
 # Our Achievements
 ![Alt text for image on Isomer site](/images/abt-smart-nation/sg-fireworks.jpg)
