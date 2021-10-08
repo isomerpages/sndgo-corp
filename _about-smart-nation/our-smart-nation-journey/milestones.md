@@ -15,7 +15,8 @@ Jump to...
 <a href="/about-smart-nation/our-journey/milestones#2000"><img src="/images/abt-smart-nation/2000s.png">
 <a href="/about-smart-nation/our-journey/milestones#2011"><img src="/images/abt-smart-nation/2010s.png">
 <a href="/about-smart-nation/our-journey/milestones#2020"><img src="/images/abt-smart-nation/2020s.png">
-	</div>
+	
+</div>
 	
 	
 	
