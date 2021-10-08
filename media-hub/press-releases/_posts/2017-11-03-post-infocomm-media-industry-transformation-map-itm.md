@@ -3,7 +3,7 @@ title: Infocomm Media Industry Transformation Map (ITM)
 date: 2017-11-03
 permalink: /media-hub/press-releases/infocomm-media-industry-transformation-map-itm
 ---
-## Infocomm Media Industry Transformation Map Itm
+## Infocomm Media Industry Transformation Map (ITM)
 
 **03 Nov 2017**
 
