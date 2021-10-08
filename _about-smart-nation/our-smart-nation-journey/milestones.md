@@ -9,14 +9,13 @@ Smart technology has made a difference to the way we live, work and play. But th
 
 Jump to...
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/1960s.png)
-![Alt text for image on Isomer site](/images/abt-smart-nation/1980s.png)
-![Alt text for image on Isomer site](/images/abt-smart-nation/1990s.png)
-![Alt text for image on Isomer site](/images/abt-smart-nation/2000s.png)
-![Alt text for image on Isomer site](/images/abt-smart-nation/2010s.png)
-![Alt text for image on Isomer site](/images/abt-smart-nation/2020s.png)
-
-
+<div style="width:75%"> <a href="#1963"><img src="/images/abt-smart-nation/1960s.png"></div>
+<div style="width:75%"> <a href="#1981"><img src="/images/abt-smart-nation/1980s.png"></div>
+<div style="width:75%"> <a href="#1991"><img src="/images/abt-smart-nation/1990s.png"></div>
+<div style="width:75%"> <a href="#2000"><img src="/images/abt-smart-nation/2000s.png"></div>
+<div style="width:75%"> <a href="#2011"><img src="/images/abt-smart-nation/2010s.png"></div>
+	<div style="width:75%"> <a href="#2020"><img src="/images/abt-smart-nation/2020s.png"></div>
+	
 * [1960s](#1963)
 * [1980s](#1981)
 * [1990s](#1991)
