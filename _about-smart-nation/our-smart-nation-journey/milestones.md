@@ -15,10 +15,10 @@ Jump to...
 <a href="/about-smart-nation/our-journey/milestones#2000"><img src="/images/abt-smart-nation/2000s.png">
 <a href="/about-smart-nation/our-journey/milestones#2011"><img src="/images/abt-smart-nation/2010s.png">
 <a href="/about-smart-nation/our-journey/milestones#2020"><img src="/images/abt-smart-nation/2020s.png">
-	
-	
 
-Test 1 2
+</a></div> 
+	
+Test 1 2 3
 	
 * [1960s](#1963)
 * [1980s](#1981)
