@@ -4,6 +4,10 @@ title: Skills Framework for ICT for Singapore’s Budding Data Scientists, Cyber
 date: 2017-11-10
 permalink: /media-hub/press-releases/skills-framework-for-ict-for-singapores-budding-data-scientists-cyber-risk-analysts-companies
 ---
+Skills Framework For ICT For Singapores Budding Data Scientists Cyber Risk Analysts Companies And More
+
+**10 Nov 2017**
+
 Companies and individuals can now enjoy better access to the skills and career pathways required for new, in-demand infocomm technology (ICT) roles – including Chief Digital Officer, Data Scientist, Cyber Risk Analyst, and more.
 
 The Skills Framework (SF) for ICT is a comprehensive guide on the ICT skills and employment opportunities, and maps out the career pathways across seven tracks[^1]. It also covers 119 job roles and over 80 existing and emerging skills within the ICT sector, and across other industry domains such as retail, logistics, finance and healthcare.
@@ -15,13 +19,13 @@ The SF for ICT empowers companies and individuals to self-help and benefit from 
 
 The SF for ICT will also boost companies’ efforts in attracting, retaining and developing ICT talents by using the detailed skills information in the framework to design human resource management and talent development plans. Individuals who wish to build their career in ICT can refer to this framework to identify opportunities in education and training, and plan their ICT career development across the various sectors.
 
-## Launch of SF for ICT, a SkillsFuture Initiative in Support of TechSkills Accelerator
+### Launch of SF for ICT, a SkillsFuture Initiative in Support of TechSkills Accelerator
 
 Launched by Minister for Communications and Information, Dr Yaacob Ibrahim today, the SF for ICT is jointly developed by the Infocomm Media Development Authority (IMDA), SkillsFuture Singapore (SSG) and Workforce Singapore (WSG), through extensive consultation with over 150 industry leaders from various organisations, industry associations, training providers and unions. The SF for ICT is a SkillsFuture initiative, in support of TechSkills Accelerator (TeSA), and will help individuals and companies develop a skilled ICT talent pipeline to seize opportunities in the digital economy.
 
 **Mr Ng Cher Pong, Chief Executive of SSG** said, “The Skills Framework for ICT is an integral part of the Industry Transformation Map for Infocomm Media. It sets out the manpower and skills development strategies for the sector. SSG, IMDA and WSG, together with industry stakeholders, have developed the Skills Framework for ICT to capture the evolving technology and industry trends, and in particular, the impact on jobs and skills. It will be a “living document” that we expect to update regularly in order to keep pace with changes in this industry.”
 
-## Early Adopters of SF for ICT
+### Early Adopters of SF for ICT
 
 At the launch, 11 companies were recognised for their early adoption of the SF for ICT. These companies comprise multinational companies, large and small medium enterprises, and public sector agencies, in alphabetical order; Accenture, Aptiv8, Cyber Security Agency, DBS Bank, GovTech, Integrated Health Information Systems (IHiS), i-SPRINT, PSA Corporation, Quann, Singtel and UrbanFox. As a pilot, these early adopters will align some of their ICT job roles or job functions to the SF for ICT, to improve their talent attraction and development capabilities.
 
