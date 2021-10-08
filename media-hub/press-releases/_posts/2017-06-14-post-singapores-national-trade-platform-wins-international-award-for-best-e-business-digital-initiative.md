@@ -24,7 +24,6 @@ Please refer to Annex A for a quote from the CEO & Founder, CommGate.
 
 
 
-
 [Annex A - Quote from CEO & Founder CommGate (210kb)](/files/press-releases/2017/annex-a-ceofoundercommgate.pdf)
 
 ---
