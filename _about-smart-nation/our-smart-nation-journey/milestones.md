@@ -8,17 +8,6 @@ third_nav_title: Our Smart Nation Journey
 Smart technology has made a difference to the way we live, work and play. But the changes didn’t happen overnight. Here, we trace the milestones of Singapore’s Smart Nation story. 
 
 Jump to...
-
-<div style="width:75%"> <a href="/about-smart-nation/our-journey/milestones#1963"><img src="/images/abt-smart-nation/1960s.png">
-<a href="/about-smart-nation/our-journey/milestones#1981"><img src="/images/abt-smart-nation/1980s.png">
-	<a href="/about-smart-nation/our-journey/milestones#1991"><img src="/images/abt-smart-nation/1990s.png">
-<a href="/about-smart-nation/our-journey/milestones#2000"><img src="/images/abt-smart-nation/2000s.png">
-<a href="/about-smart-nation/our-journey/milestones#2011"><img src="/images/abt-smart-nation/2010s.png">
-<a href="/about-smart-nation/our-journey/milestones#2020"><img src="/images/abt-smart-nation/2020s.png">
-
-</a></div> 
-	
-Test 1 2 3
 	
 * [1960s](#1963)
 * [1980s](#1981)
