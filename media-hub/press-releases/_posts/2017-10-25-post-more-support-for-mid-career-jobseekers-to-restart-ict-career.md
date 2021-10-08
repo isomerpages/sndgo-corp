@@ -3,6 +3,10 @@ title: More Support for Mid-career Jobseekers to Restart ICT Career
 date: 2017-10-25
 permalink: /media-hub/press-releases/more-support-for-mid-career-jobseekers-to-restart-ict-career
 ---
+## More Support For Mid Career Jobseekers To Restart ICT Career
+
+**25 Oct 2017**
+
 Mid-career infocomm technology (ICT) jobseekers aged 40 years and above will now have more opportunities to experience working in dynamic companies through the TechSkills Accelerator (TeSA) pilot immersion programme.  
   
 Senior Minister of State, Ministry of Communications and Information, Dr Janil Puthucheary announced more support for mid-career jobseekers at the Tech Hirers Connect forum. The forum, which aimed to raise awareness of best practices for talent acquisition and development of a skilled ICT workforce, was attended by key hirers of companies and industry partners. Second Minister for Manpower, Mrs Josephine Teo, also attended the event as a Special Guest in recognition of the efforts to boost manpower development in the Infocomm sector.  

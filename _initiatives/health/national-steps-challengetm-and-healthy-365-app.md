@@ -1,9 +1,11 @@
 ---
-title: National Steps Challenge & Health 365 App
+title: National Steps Challenge™ & Healthy 365 App
 permalink: /initiatives/health/national-steps-challenge
 third_nav_title: Health
 ---
-# National Steps Challenge Health 365 App
+
+
+# National Steps Challenge™ & Healthy 365 App
 
 ![Alt text for image on Isomer site](/images/initiatives/Healthy-365.jpg)
 

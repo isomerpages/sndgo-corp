@@ -4,12 +4,15 @@ title: Government to Partner Industry to Spark Innovation and Build Capabilities
 date: 2017-05-24
 permalink: /media-hub/press-releases/government-to-partner-industry-to-spark-innovation-and-build-capabilities-in-a-smart-nation
 ---
+## Government To Partner Industry To Spark Innovation And Build Capabilities In A Smart Nation
+
+**24 May 2017**
 
 Following the formation of the Smart Nation and Digital Government Group (SNDGG), the Government will accelerate Smart Nation deployment and digital transformation, and further partner and co-create with the industry to apply digital and smart technologies that improve the lives of citizens.
 
 SNDGG, comprising the Smart Nation and Digital Government Office (SNDGO) and the Government Technology Agency (GovTech), is leading the development of Smart Nation infrastructure and applications, and driving digital transformation across the public sector. Together, SNDGG will be focusing on national projects that include the National Digital Identity, cashless payments with the Monetary Authority of Singapore (MAS) and the Smart Nation Sensor Platform (SNSP).
 
-## Continued Investment in Data Analytics, Sensors, Robotics and Cybersecurity
+### Continued Investment in Data Analytics, Sensors, Robotics and Cybersecurity
 
 To support the momentum in our digitalisation efforts, the Government will be calling for a projected $2.4 billion of ICT tenders in FY17 and invest in technologies such as data analytics, sensors and related software and systems. This will include a tender for data analytics and another for communications infrastructure to link up data centres and IoT (Internet-of-Things) sensors.
 
@@ -17,7 +20,7 @@ The Government will also be partnering the industry to increase the deployment o
 
 In addition, while the Government has put in place a range of measures which minimises the likelihood of government systems being infected by malware, it will continue to invest in cybersecurity to ensure that government agencies are equipped with best cybersecurity practices and next-generation technologies including advanced threat analytics and automation.
 
-## SMEs Accounted for Close to Two-thirds of ICT Contracts in FY16 
+### SMEs Accounted for Close to Two-thirds of ICT Contracts in FY16 
 
 Ms Jacqueline Poh, Chief Executive, GovTech, said, “We will continue to work with the industry and provide them with the foundational support to build Singapore as a Smart Nation. On the other hand, companies will also need to boost their ICT and engineering capabilities in order to keep up with the fast-changing technological landscape.”
 

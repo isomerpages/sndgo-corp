@@ -4,6 +4,10 @@ title: Strategic Technology Master Plan Unveiled to Improve Population's Health
 date: 2017-05-30
 permalink: /media-hub/press-releases/strategic-technology-master-plan-unveiled-to-improve-population-s-health-and-health-administration
 ---
+## Strategic Technology Master Plan Unveiled To Improve Populations Health And Health Administration
+
+**30 May 2017**
+
 The Minister for Health, Mr Gan Kim Yong, today revealed the strategic Health IT Master Plan (HITMAP) that has been guiding the healthcare sector’s IT programmes since 2014. With seven transformation programmes, the strategic HITMAP enables the Ministry of Health’s (MOH) three key shifts of moving beyond quality to value, beyond hospital to community, and beyond healthcare to health. It also supports policy formulation and evaluation, systems governance, public health and operations management, as well as strengthens IT resiliency and improves cost effectiveness. New projects such as the admissions prevention predictive model for the Ministry’s Hospital to Home Programme, Health Marketplace, and Vital Signs Monitoring were also unveiled in Minister Gan’s speech at the 9th National Health IT Summit 2017 held at Singapore Expo.
 
 The seven transformation programmes are:  

@@ -3,6 +3,9 @@ title: Infocomm Media Industry Transformation Map (ITM)
 date: 2017-11-03
 permalink: /media-hub/press-releases/infocomm-media-industry-transformation-map-itm
 ---
+## Infocomm Media Industry Transformation Map (ITM)
+
+**03 Nov 2017**
 
 The Infocomm Media Development Authority (IMDA) today released the Industry Transformation Map (ITM) for the Infocomm Media sector, which outlines the strategies to prepare Singapore for the digital economy. Speaking at the launch of the ITM, Minister for Communications and Information Dr Yaacob Ibrahim, said the ITM aims to grow the ICM industry’s value-add by around 6% annually (almost twice as fast as the overall economy). It is also expected to employ more than 210,000 workers (from approximately 194,000 workers in 2016), and create more than 13,000 new PMET jobs by 2020.  
   
@@ -12,7 +15,7 @@ The ICM ITM will prepare Singapore for the digital economy through three thrusts
 * Second, by strengthening the core of the ICM sector, and preparing the next generation of ICM professionals and companies for future job roles and business opportunities;
 * Third, by guiding companies and workforce from the other sectors in adopting digital technology to improve productivity and efficiency.
 
-## Artificial Intelligence (AI) as one of the new growth areas
+### Artificial Intelligence (AI) as one of the new growth areas
 
 AI is one of four frontier technologies identified in the ITM to transform the ICM sector. AI Singapore was set up in May 2017 with up to S$150 million fund to catalyse, synergise and boost Singapore's AI capabilities.  
   
@@ -23,7 +26,7 @@ IMDA will work with AI Singapore to develop the AI ecosystem and make AI an enab
 * Open AI assets, starting with a National Speech Corpus; and
 * Widen availability of AI solutions via SMEs Go Digital
 
-## Strengthening Singapore’s core of ICM professionals and companies
+### Strengthening Singapore’s core of ICM professionals and companies
 
 The availability of manpower with the appropriate skillsets is key to ensure Singapore’s growth in the digital economy. IMDA will partner industry on programmes to strengthen the ICM core and prepare Singaporeans for a variety of ICM job roles in other sectors, here and around the world.  
   
@@ -33,7 +36,7 @@ IMDA is also collaborating with the industry and community to grow new digital c
   
 To further develop and deepen Singapore’s ecosystem of tech companies, IMDA will also expand the Accreditation@IMDA programme, which currently helps to accelerate the growth of promising tech start-ups. Accreditation@IMDA will be re-branded to Accreditation@SG Digital (Accreditation@SGD), to underscore its value as a national programme. Leveraging on Singapore’s branding allows the accredited companies to be better recognised overseas and help them export their capabilities and products. Accreditation@SGD’s scope will also be expanded to go beyond tech start-ups and young SMEs to include the more mature SMEs, and a selective pool of international deep technology companies to be anchored in Singapore.  
 
-## Guide companies and workforce from other sectors to adopt technology  
+### Guide companies and workforce from other sectors to adopt technology  
 
 IMDA will work with the various sector lead agencies to develop the Industry Digital Plans (IDPs) for SMEs. The IDPs aim to guide these companies in technology adoption by helping them to understand the benefits of adopting relevant digital technologies, and by providing guidance to ICM vendors to meet the companies’ specific digital technology needs. Through the IDP, SMEs can:
 

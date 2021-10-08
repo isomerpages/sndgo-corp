@@ -3,6 +3,10 @@ title: ABS Announces the Launch of PayNow, A New Peer-to-Peer Funds Transfer Ser
 date: 2017-06-27
 permalink: /media-hub/press-releases/abs-announces-the-launch-of-paynow--a-new-peer-to-peer-funds-transfer-service
 ---
+## Abs Announces The Launch Of Paynow A New Peer To Peer Funds Transfer Service
+
+**27 Jun 2017**
+
 The Association of Banks in Singapore (ABS) is pleased to announce that PayNow, a new peer-to-peer funds transfer service will be made available from 8.00 am on 10 July 2017 to customers of seven participating banks - Citibank Singapore Limited, DBS Bank/POSB, HSBC, Maybank, OCBC Bank, Standard Chartered Bank, and United Overseas Bank. PayNow offers an enhanced funds transfer service that enables customers of the seven participating banks to send and receive Singapore Dollar funds from one bank to another through FAST[^1]  using just their mobile number or Singapore NRIC/FIN, almost instantly. The service will be available 24/7, 365 days and free to customers.
 
 PayNow was introduced by ABS and banking industry in response to the increased demand from customers to make funds transfer more convenient and efficient. The sender no longer needs to know the recipient’s bank and account number when doing fund transfers as PayNow offers a simpler and more convenient way for bank customers to pay using the recipient’s mobile numbers and/or Singapore NRIC/FIN.

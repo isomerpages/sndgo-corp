@@ -3,7 +3,7 @@ title: Businesses Can Tap On MyInfo to Offer Faster Transactions for Citizens
 date: 2017-11-10
 permalink: /media-hub/press-releases/businesses-can-tap-on-myinfo-to-offer-faster-transactions-for-citizens
 ---
-## Businesses Can Tap On Myinfo To Offer Faster Transactions For Citizens
+## Businesses Can Tap On MyInfo To Offer Faster Transactions For Citizens
 
 **10 Nov 2017**
 
