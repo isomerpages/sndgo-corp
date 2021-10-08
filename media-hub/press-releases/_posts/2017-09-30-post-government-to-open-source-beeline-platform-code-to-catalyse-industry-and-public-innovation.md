@@ -4,6 +4,10 @@ title: Government to Open-source Beeline Platform Code to Catalyse Industry and
 date: 2017-09-30
 permalink: /media-hub/press-releases/government-to-open-source-beeline-platform-code-to-catalyse-industry-and-public-innovation
 ---
+## Government To Open Source Beeline Platform Code To Catalyse Industry And Public Innovation
+
+**30 Sep 2017**
+
 In line with Singapore’s Smart Nation vision of catalysing innovation and co-creation, the Government Technology Agency (GovTech) will progressively open-source the code [^1] for the Beeline smart mobility platform from October 2017. Industry and individual developers will be able to adopt, build on and scale up the platform or develop new mobility solutions using the code.
 
 Jointly developed by GovTech and Land Transport Authority (LTA), Beeline is an open, cloud-based smart mobility platform to provide data-driven shuttle bus services for commuters.
@@ -12,7 +16,7 @@ Commuters can use the Beeline app to book seats on available private express bus
 
 Designed on an open architecture, Beeline enables private transport operators and tech start-ups to easily build and integrate additional applications/functions, providing more convenient transport options for commuters. Since its pilot in 2015, seven private transport operators – including Grab (GrabShuttle), BusPlus, Aedge Holdings and Woodlands Transport – are on the Beeline platform, with more than 130 bus routes deployed on Beeline.
 
-## Catalysing Innovative Mobility Solutions
+### Catalysing Innovative Mobility Solutions
 
 Jacqueline Poh, Chief Executive, GovTech, said, “Getting people from one place to another in an efficient and pleasant manner is a challenge that all cities are facing. Smart urban mobility is a key component of Singapore’s Smart Nation vision. Transport APIs have been made available through the open data portal, Data.gov.sg, and we have seen applications created out of such APIs. By open-sourcing Beeline, we hope to catalyse innovative solutions, be it by commercial operators or individual developers. We are inviting developers to improve our open-sourced code and push out new features to the benefit of citizens at a faster pace.”
 
