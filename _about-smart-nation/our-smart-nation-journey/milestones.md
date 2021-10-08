@@ -3,18 +3,26 @@ title: Milestones
 permalink: /about-smart-nation/our-journey/milestones
 third_nav_title: Our Smart Nation Journey
 ---
-
-
 # Milestones of Singapore’s Smart Nation story
 
 Smart technology has made a difference to the way we live, work and play. But the changes didn’t happen overnight. Here, we trace the milestones of Singapore’s Smart Nation story. 
 
 Jump to...
+
+![Alt text for image on Isomer site](/images/abt-smart-nation/1960s.png)
+![Alt text for image on Isomer site](/images/abt-smart-nation/1980s.png)
+![Alt text for image on Isomer site](/images/abt-smart-nation/1990s.png)
+![Alt text for image on Isomer site](/images/abt-smart-nation/2000s.png)
+![Alt text for image on Isomer site](/images/abt-smart-nation/2010s.png)
+![Alt text for image on Isomer site](/images/abt-smart-nation/2020s.png)
+
+
 * [1960s](#1963)
 * [1980s](#1981)
 * [1990s](#1991)
 * [2000s](#2000)
 *  [2010s](#2011)
+
 
 ## 1963
 The first mainframe computer was installed in the Central Provident Fund Board (CPFB) to automate the manual ledger accounting system that kept track of 1.6 million CPF members’ accounts. With the IBM 1401 system, CPF employees filled out punch cards with information on CPF members’ latest contributions and fed these to the mainframe computer to update the accounts.
