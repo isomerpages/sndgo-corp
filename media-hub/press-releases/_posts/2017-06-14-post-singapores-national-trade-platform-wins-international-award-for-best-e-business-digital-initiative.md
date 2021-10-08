@@ -22,13 +22,21 @@ In August 2016, the NTP was also conferred the best Smart City Project under the
 
 Please refer to Annex A for a quote from the CEO & Founder, CommGate.
 
+
+
+
+[Annex A - Quote from CEO & Founder CommGate (210kb)](/files/press-releases/2017/annex-a-ceofoundercommgate.pdf)
+
+---
+
 [^1]: The World Summit on the Information Society (WSIS) is a global summit under the United Nations (UN) that seeks to build a people-centric, inclusive and development-oriented Information Society. The WSIS Prizes is an international contest to evaluate and recognise individuals, governments, civil society, local, regional and international agencies, research institutions and private-sector companies for outstanding success in implementing development-oriented strategies that leverage on ICT as an enabler of development.
 
 [^2]: The four other projects are “eTrade for All” from Switzerland, “LABORA” from Mexico, “Intelligent Waiter Robot” from Pakistan and “Online Administrative Executive Service” from Saudi Arabia.
 
 [^3]: TradeNet® was launched in 1989. It is Singapore’s single trade permit clearing house, incorporating Whole-Of-Government (WOG) trade regulatory requirements. Through TradeNet®, importers, exporters and freight forwarders can make B2G transactions such as the declaration of permits. TradeXchange® was launched in 2007. It is a secure and neutral IT platform which enables exchanges of trade and logistics documents and data amongst private sector companies, as well as with the Government.
 
-[Annex A - Quote from CEO & Founder CommGate (210kb)](/files/press-releases/2017/annex-a-ceofoundercommgate.pdf)
+---
+
 
 **About Government Technology Agency of Singapore**
 
