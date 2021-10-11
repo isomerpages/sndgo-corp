@@ -70,7 +70,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <div class="col"> 
 <a href="/initiatives/strategic-national-projects/smart-urban-mobility"><img src="/images/initiatives/smart-urban-mobility.jpg"></a>
 <br>
-<div class="header"><b>Smart Urban Mobility</b>
+<div class="header"><b>Smart Urban Mobility</b><br><br>Singapore uses digital technologies to find smart solutions that enhance our public transport system and provide greater comfort, convenience, reliability and support for our vision of a car-lite Singapore.
 </div>
 <br>
 	
