@@ -28,7 +28,9 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 	<div class="col"> 
 <a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg"></a>
 <br>
-<div class="header"><b>E-Payments</b>
+<div class="header"><b>E-Payments</b><br><br>To make financial transactions more seamless and efficient for all, we’re constantly working towards a simple and secure platform that operates across various systems.
+
+
 </div>
 		<br></div></div>
 
