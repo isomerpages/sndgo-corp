@@ -54,7 +54,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <div class="col">
 <a href="/initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/pdd.jpeg"></a>
 <br>
-<div class="header"><b>Punggol Smart Town</b>
+<div class="header"><b>Punggol Smart Town</b><br><br>Bringing together residents, businesses and students, Punggol is slated to become a thriving, tech-enabled, sustainable town showcasing our Smart Nation ambitions.
 </div>
 <br></div></div>
 
