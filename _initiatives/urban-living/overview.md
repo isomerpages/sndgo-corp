@@ -12,14 +12,33 @@ The initiatives below outline how we aim to achieve this.
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/urban-living/amr"><img src="/images/initiatives/overview-pages/amr-trial.png"></a><br>
-		<div class="header"><b>Automated Meter Reading</b></div><br>
-		<div class="para">From tap to app, we’re making water usage data readily accessible for our residents so they can better manage their water consumption and bills.
+<a href="/initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/pdd.jpeg"></a><br>
+	<div class="header"><b>Punggol Smart Town<br>(Strategic National Project)</b></div><br>
+	<div class="para">Bringing together residents, businesses and students, Punggol is slated to become a thriving, tech-enabled, sustainable town showcasing our Smart Nation ambitions.
+
 </div>
 <br>
 
 </div>
 	<div class="col"> 
+<a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/smart-nation-sensor-platform-snp.jpeg"></a><br>
+		<div class="header"><b>Smart Nation Sensor Platform<br>(Strategic National Project)</b></div><br>
+		<div class="para">SNSP is an integrated, nationwide platform that uses sensors to collect essential data that can be analysed to create smart solutions.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/initiatives/urban-living/amr"><img src="/images/initiatives/overview-pages/amr-trial.png"></a><br>
+		<div class="header"><b>Automated Meter Reading</b></div><br>
+		<div class="para">From tap to app, we’re making water usage data readily accessible for our residents so they can better manage their water consumption and bills.
+</div>
+<br></div></div>
+
+
+<br>
+<div class="row">
+<div class="col"> 
 <a href="/initiatives/urban-living/dengue-hotspots-survey-drones"><img src="images/initiatives/drone-with-camera-for-dengue-survey.jpg"></a><br>
 	<div class="header"><b>Dengue Hotspots Survey Drones</b></div><br>
 	<div class="para">We’re using drones to identify possible dengue hotspots and manage any outbreaks.
@@ -32,13 +51,21 @@ The initiatives below outline how we aim to achieve this.
 	<div class="header"><b>myENV App</b></div><br>
 	<div class="para">A convenient tool to update the public on the latest environmental news, including PSI readings and dengue outbreak alerts.
 </div>
+<br>
+
+</div>
+	<div class="col"> 
+<a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice.jpeg"></a><br>
+    <div class="header"><b>OneService App</b></div><br>
+    <div class="para">A convenient, one-stop platform for the public to report issues they come across in their neighbourhoods.
+</div>
 <br></div></div>
 
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice.jpeg"></a><br>
-    <div class="header"><b>OneService App</b></div><br>
-    <div class="para">A convenient, one-stop platform for the public to report issues they come across in their neighbourhoods.
+<a href="/initiatives/urban-living/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice.jpeg"></a><br>
+    <div class="header"><b>OneService Chatbot</b></div><br>
+    <div class="para">The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
 </div>
 <br>
 
