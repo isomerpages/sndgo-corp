@@ -11,7 +11,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 <div class="row">
 <div class="col"> 
 <a href="/initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
-		<div class="header"><b>GoBusiness<br>(Strategic National Project)</b></div><br>
+		<div class="header"><b>GoBusiness<br>(Strategic National Project)<br></b></div><br>
 		<div class="para">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
 </div>
 <br>
