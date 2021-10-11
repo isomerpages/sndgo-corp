@@ -48,11 +48,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 </div>
 <br>
 
+</div>
 <div class="col">
-</div><
-<br>
-	
-	
-	
-	
-	
+</div>
+<br></div>
