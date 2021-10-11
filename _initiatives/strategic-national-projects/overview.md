@@ -46,7 +46,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <div class="col"> 
 <a href="/initiatives/strategic-national-projects/national-digital-identity"><img src="/images/initiatives/Singpass-website.jpeg"></a>
 <br>
-<div class="header"><b>National Digital Identity</b>
+<div class="header"><b>National Digital Identity</b><br><br>Singpass, the National Digital Identity (NDI) initiative, provides a convenient and secure platform for users - both citizens and businesses - to transact with the Government and other private service providers.
 </div>
 <br>
 
@@ -54,7 +54,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <div class="col">
 <a href="/initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/pdd.jpeg"></a>
 <br>
-<div class="header"><b>Punggol Digital District</b>
+<div class="header"><b>Punggol Smart Town</b>
 </div>
 <br></div></div>
 
