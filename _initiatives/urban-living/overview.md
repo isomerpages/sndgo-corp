@@ -12,7 +12,7 @@ The initiatives below outline how we aim to achieve this.
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/punggol-digital-district"><img src="/images/initiatives/pdd.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/punggolst"><img src="/images/initiatives/pdd.jpeg"></a><br>
 	<div class="header"><b>Punggol Smart Town<br>(Strategic National Project)<br></b></div><br>
 	<div class="para">Bringing together residents, businesses and students, Punggol is slated to become a thriving, tech-enabled, sustainable town showcasing our Smart Nation ambitions.
 
