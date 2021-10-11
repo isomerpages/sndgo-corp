@@ -38,7 +38,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 	<div class="col">
 <a href="/initiatives/strategic-national-projects/lifesg"><img src="/images/initiatives/lifesg.jpeg"></a>
 <br>
-<div class="header"><b>LifeSG</b>
+<div class="header"><b>LifeSG</b><br><br>LifeSG allows you to easily access Government services, keep up with the latest news and updates, track your applications and more.
 </div>
 <br>
 
