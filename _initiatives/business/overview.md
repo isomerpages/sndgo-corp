@@ -10,9 +10,17 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 <br>
 <div class="row">
 <div class="col"> 
+<a href="/initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
+		<div class="header"><b>GoBusiness<br>(Strategic National Project)</b></div><br>
+		<div class="para">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
 <a href="/initiatives/business/corppass"><img src="/images/initiatives/overview-pages/corppass.png"></a><br>
     <div class="header"><b>Corppass</b></div><br>
-    <div class="para">A secure log-in method for business to transact with the Government online.
+    <div class="para">A secure log-in method for business to transact with the Government online. 
 </div>
 <br>
 
@@ -22,29 +30,29 @@ Learn how our business initiatives are helping companies here stay vibrant and c
      <div class="header"><b>Data Innovation Programme Office</b></div><br>
     <div class="para">Provides flexibility to work with and share data to encourage innovation among private sector organisations. 
 </div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="/initiatives/business/fintech-initiatives"><img src="/images/initiatives/overview-pages/fintech-sandbox.png"></a><br>
-    <div class="header"><b>FinTech Sandbox</b></div><br>
-    <div class="para">A regulatory sandbox providing a secure space for companies to test out their FinTech-related innovations.
-</div>
 <br></div></div>
 
 <div class="row">
 	<div class="col">
+<a href="/initiatives/business/fintech-initiatives"><img src="/images/initiatives/overview-pages/fintech-sandbox.png"></a><br>
+    <div class="header"><b>FinTech Sandbox</b></div><br>
+    <div class="para">A regulatory sandbox providing a secure space for companies to test out their FinTech-related innovations.
+</div>
+<br>
+
+</div>
+<div class="col">
 <a href="/initiatives/business/networked-trade-platform"><img src="/images/initiatives/overview-pages/networked-trade-platform.png"></a><br>
     <div class="header"><b>Networked Trade Platform</b></div><br>
     <div class="para">The national trade information management platform positions Singapore as the world’s leading trade, supply chain and trade financing hub.
 </div>
 <br>
 
-</div>
-<div class="col"> 
-</div>
-<br>
-
 <div class="col">
-</div>
+</div><
 <br>
+	
+	
+	
+	
+	
