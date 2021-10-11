@@ -67,10 +67,10 @@ To empower citizens to live, work, play, interact and transact better with each 
 <br>
 
 </div>
-<div class="col"><br>
+<div class="col"> 
 </div>
+<br>
 
+<div class="col">
 </div>
-<div class="col"><br>
-</div>
-<br></div>
+<br>
