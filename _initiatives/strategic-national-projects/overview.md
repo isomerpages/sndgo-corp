@@ -64,21 +64,17 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <div class="col"> 
 <a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/smart-nation-sensor-platform-snp.jpeg"></a><br>
 		<div class="header"><b>Smart Nation Sensor Platform (SNSP)</b></div><br>
-		<div class="para">SNSP is an integrated, nationwide platform that uses sensors to collect essential data that can be analysed to create smart solutions.
-
-</div>
+		<div class="para">SNSP is an integrated, nationwide platform that uses sensors to collect essential data that can be analysed to create smart solutions.</div>
 <br>
 
 </div>
 	<div class="col"> 
 <a href="/initiatives/strategic-national-projects/smart-urban-mobility"><img src="/images/initiatives/smart-urban-mobility.jpg"></a><br>
 	<div class="header"><b>Smart Urban Mobility</b></div><br>
-	<div class="para">We use digital technologies to find smart solutions that enhance our public transport system and provide greater comfort, convenience, reliability and support for our vision of a car-lite Singapore.
-
-</div>
+	<div class="para">We use digital technologies to find smart solutions that enhance our public transport system and provide greater comfort, convenience, reliability and support for our vision of a car-lite Singapore.</div>
 <br>
 
 </div>
-	<div class="col"> 
-
-<br></div></div>
+<div class="col">
+</div>
+<br></div>
