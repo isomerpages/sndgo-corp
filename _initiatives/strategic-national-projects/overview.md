@@ -63,7 +63,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <div class="row">
 <div class="col"> 
 <a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/smart-nation-sensor-platform-snp.jpeg"></a><br>
-		<div class="header"><b>Smart Nation Sensor Platform (SNSP)</b></div><br>
+		<div class="header"><b>Smart Nation Sensor Platform</b></div><br>
 		<div class="para">SNSP is an integrated, nationwide platform that uses sensors to collect essential data that can be analysed to create smart solutions.</div>
 <br>
 
