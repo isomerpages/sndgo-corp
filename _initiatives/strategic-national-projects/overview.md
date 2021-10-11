@@ -20,7 +20,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 	<div class="col"> 
 <a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/Codex-snp.jpeg"></a>
 <br>
-<div class="header"><b>CODEX</b>
+<div class="header"><b>CODEX</b><br><br> CODEX is a shared digital platform between government agencies and private sectors to develop better, faster and more cost-effective digital services.
 </div>
 <br>
 
