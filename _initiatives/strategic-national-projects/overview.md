@@ -82,8 +82,3 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 	<div class="col"> 
 
 <br></div></div>
-
-
-
-
-
