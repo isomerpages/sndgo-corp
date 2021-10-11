@@ -12,7 +12,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <div class="col"> 
 <a href="/initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a>
 <br>
-<div class="header"><b>GoBusiness</b>
+	<div class="header"><b>GoBusiness</b><br><br>GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.</b>
 </div>
 <br>
 
