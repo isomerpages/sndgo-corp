@@ -4,7 +4,7 @@ date: 2021-06-21
 permalink: /media-hub/speeches/the-digital-academy-launch
 layout: post
 ---
-## Speech by Dr Janil Puthucheary at The Digital Academy Virtual Launch Symposium
+## Speech by Dr Janil Puthucheary at the Digital Academy Virtual Launch Symposium
 
 **21 Jun 2021**
 
