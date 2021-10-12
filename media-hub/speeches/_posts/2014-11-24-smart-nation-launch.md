@@ -3,12 +3,16 @@ layout: post
 title: Smart Nation Launch
 permalink: /media-hub/speeches/smart-nation-launch
 ---
-# Transcript Of Speech By Prime Minister Lee Hsien Loong At Smart Nation Launch
+## Transcript Of Speech By Prime Minister Lee Hsien Loong At Smart Nation Launch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jGMbqpVRo9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**24 Nov 2014**
 
-Minister Yaacob Ibrahim, Minister for Communications and Information<br>
-Minister Vivian Balakrishnan, Minister for Environment and Water Resources<br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/jGMbqpVRo9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Minister Yaacob Ibrahim, Minister for Communications and Information
+
+Minister Vivian Balakrishnan, Minister for Environment and Water Resources
+
 Ms Yong Ying-I, Chairman of Infocomm Development Agency
 
 Ladies and Gentlemen
@@ -17,7 +21,7 @@ May I congratulate all the winners of the National Infocomm Awards. You exemplif
 
 At this year’s National Day Rally, I spoke on how we can use technology to make a difference to our people’s lives, and to build a Smart Nation. Today, I am glad to be here to recognise the organisations and the people at the forefront of this effort. I will take a few minutes today to talk about our Smart Nation initiative and our vision for where we want to take Singapore in this direction.
 
-## Why Smart Nation: Our Vision
+### Why Smart Nation: Our Vision
 
 In 50 years since independence, we have succeeded beyond expectations. Soon after Separation Mr Lee Kuan Yew said – “Over a hundred years ago, this was a mud-flat swamp. Today this is a modern city. Ten years from now, this will be a metropolis. Never fear.” Indeed Singa¬pore has become a metropolis, and more. We have improved our standard of living. We have created opportunities for our people and we have built a city and country to be proud of.
 
@@ -31,7 +35,7 @@ We have already started on this Smart Nation journey. We are wired up and well-c
 
 So we have the elements but we have to build on them to make a national effort, and to set ourselves the goal of becoming a Smart Nation. What does this mean? There are many things but let me just illustrate some the possibilities.
 
-## Our daily living
+### Our daily living
 
 First of all, our daily lives should become more convenient and sustainable. Megan just now on video showed you what this means but let me tell you again. If you can automate the things which are routine we can focus our time and energy on the things that really matter to us.
 
@@ -45,7 +49,7 @@ You have got the apps, you have got driverless cars – they are coming. People 
 
 We are trying out driverless buggies at the Lake District in Jurong and we will be trying out other driverless vehicles on some routes in One North next year. For transactions, the watch is not there yet but many of us already interact with Government departments online, like Tax-filing. We have been trialling NFC payments for retail and transport. We do not have to wait for ApplePay which was just launched in the US. What we need to do is to pull all these pieces together. For example, HDB is studying how to plug-and-play smart devices for the household, and to improve things that bother people, like parking allocation in HDB carparks. IDA is already building the network that will connect intelligent devices across the nation, from sensors to driverless cars. So that is how you can integrate everything seamlessly in our design of towns and our daily living.
 
-## Our Communities and Society
+### Our Communities and Society
 
 But being a Smart Nation is more than just making our lives more convenient, it can also strengthen our community and society, help us to connect to those we care deeply about. Enable us to do things we never imagined we could do, and empower communities to look out for and help one another.
 
@@ -65,7 +69,7 @@ This is just one patient and she is not that old, but there are a lot of old peo
 
 We are going to have Citizen Connect Centres with officers to help citizens access Government services, while we make these services available online. We will have “Silver Infocomm Junctions” that provides affordable and customised IT training for seniors. When we have IT, we want it to be accessible to everybody and we have to prevent a digital divide from turning up in Singapore – between those who have IT and can afford it and know how to use it, and those who do not have IT or do not know how to use it. For example, we have e-filing for our courts – documents are filed electronically and stored in a database, you do not have to have stacks and stacks of paper. We move faster than other countries on this. I just met in Australia, the Governor of the State of Queensland, I was there for a meeting in Brisbane, and he used to be the Chief Justice of Queensland. He came to Singapore two years ago for a conference of Chief Justices and saw our system. He was very impressed. He said the most impressive thing was not that you have a computer system, but we have provided ways and booths where people who cannot afford the access and do not know how to do the access, they can go there and bring their papers there and they can be helped and have their papers filed electronically. You may be rich, you may be poor, if you have to go to the courts, if you need to have access to justice, you get access to justice. This was one issue that they in Queensland have thought about automating and computerising their filing, and how to make sure everybody has it. We have that and we must continue to have that.
 
-## Our future
+### Our future
 
 The Smart Nation is not just a slogan – It is a rallying concept for all of us to work together to transform our future together. I have just described a few ideas, these are just scratching the surface because there are endless possibilities waiting to be dreamed of.
 
@@ -77,7 +81,7 @@ Imagine if we can tap on everyone’s local knowledge and anyone can contribute 
 
 Today, we are going to launch a new project called Virtual Singapore, the idea is to develop an integrated 3D map of Singapore enriched with layers of data about buildings, land and the environment. It will be a platform to bring the Government, Citizens, Industry and Research Institutions together to solve problems, for example to simulate wireless coverage or effects of heavy rain. What that means is to find out where it floods when it rains.
 
-## What we will do
+### What we will do
 
 To realise this vision, I think we have to pull the pieces together from all over the Government. We will set up a Smart Nation Programme Office. Today, the Government departments are all variously doing their own thing – LTA, URA, MOM and so on. Our research institutes are doing their own things, R&D institutes like A*Star are doing things like helping NLB sort books at night using robotics and sensors, quite interesting programmes, but we need to bring them together. We can go much further if we can put it together, to identify issues, prototype ideas, deploy them effectively to benefit the whole nation.
 
@@ -99,7 +103,7 @@ IDA needs more of this ethos. It cannot quite be like a Silicon Valley company, 
 
 Smart Nation is a lot of possibilities, I think, a lot of excitement, particularly for young people. This is our country, this is our future. My question to young people would be: Do you want to be part of this movement, to build a Smart Nation? Come together, design the solutions, test the ideas, give us the feedback, imagine it, let’s decide on it, let’s make it happen.
 
-## Conclusion
+### Conclusion
 
 We are making a home for all Singaporeans, young and old. Not just the technologically savvy, but everyone. We want to transform our lives for the better, and we have what it takes to achieve this vision – the capabilities and the daring to pull it all together and make a quantum leap forward. I am looking forward to living in a Smart Nation – better living for all of us; stronger communities in our society; and more opportunities for all.
 

@@ -20,7 +20,7 @@ PayNow was introduced by ABS and banking industry in response to the increased d
 |Cheque|Up to 2 working days
 |Interbank GIRO|Up to 3 working days
 
-## How to use PayNow
+### How to use PayNow
 
 **A. To access PayNow**  - customers can use the participating bank’s existing internet banking platform or mobile banking app.
 
