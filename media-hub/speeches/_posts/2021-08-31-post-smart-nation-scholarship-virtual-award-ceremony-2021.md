@@ -4,7 +4,7 @@ date: 2021-08-31
 permalink: /media-hub/speeches/sn-scholarship-2021
 layout: post
 ---
-## Speech by Minister for Communications and Information, and Minister-in-Charge of Smart Nation and Cybersecurity, Mrs Josephine Teo, at The Smart Nation Scholarship Virtual Award Ceremony 2021
+## Speech by Minister Josephine Teo, at the Smart Nation Scholarship Virtual Award Ceremony 2021
 
 **31 Aug 2021**
  
@@ -77,3 +77,7 @@ Your journey of exploration and discovery has only just begun.
 * On your return, help to grow Singapore’s Information and Communications Technology (ICT) ecosystem and co-author the next chapter of our Smart Nation journey.
 
 Congratulations once again!
+
+**Mrs Josephine Teo**<br>
+Minister for Communications and Information, <br>
+and Minister-in-Charge of Smart Nation and Cybersecurity
