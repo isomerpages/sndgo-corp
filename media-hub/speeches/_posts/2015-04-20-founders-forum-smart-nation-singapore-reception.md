@@ -2,13 +2,16 @@
 layout: post
 title: Founders Forum Smart Nation Singapore Reception 2015
 permalink: /media-hub/speeches/founders-forum-smart-nation-singapore-reception-2015
---- 
+---
+## Speech By Prime Minister Lee Hsien Loong At Founders Forum Smart Nation Singapore Reception
 
-# Speech By Prime Minister Lee Hsien Loong At Founders Forum Smart Nation Singapore Reception
+**20 Apr 2015**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/49YeHvJ6yZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/49YeHvJ6yZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Ladies and Gentlemen, good evening and welcome to Singapore! At a time where grey clouds are hovering over the world economy, we are lucky. Firstly, there were no grey clouds in the sky this evening. Secondly, the tech industry is one of the bright spots in the world. There is a sense of adventure, there is the confidence that anything is possible. There is the excitement that the next bright idea can change the world. I am sure all of you feel that, and live that, and that is why you are here this evening.
+Ladies and Gentlemen, good evening and welcome to Singapore! 
+
+At a time where grey clouds are hovering over the world economy, we are lucky. Firstly, there were no grey clouds in the sky this evening. Secondly, the tech industry is one of the bright spots in the world. There is a sense of adventure, there is the confidence that anything is possible. There is the excitement that the next bright idea can change the world. I am sure all of you feel that, and live that, and that is why you are here this evening.
 
 The IT revolution and the Internet are causing immense changes to how we live - altering lifestyles, habits, social norms, how people communicate and learn about the world – not just through books, newspaper or television but through Wikipedia, Twitter, Snapchat, and the next start-up tomorrow, which are much more dynamic and can better keep up with the changing world. Or how we shop with online retailers like Amazon offering one-hour deliveries, or get around town with new services like Uber or Grabtaxi.
 
@@ -24,13 +27,13 @@ Thirdly, this is a highly connected and wired up island. We have more mobile pho
 
 That is why we have set ourselves the goal of becoming a Smart Nation. In order to bring all these advantages together, and become one of the top countries in terms of quality of life, vibrancy, and opportunities for our people.
 
-## Not just a Smart City, but a Smart Nation  
+### Not just a Smart City, but a Smart Nation  
 
 There are a lot of Smart Cities around the world and many experiments in using technology to improve lives. For example, Kansas City is wiring up with Gigabit Internet, courtesy of Google Fibre. Rio de Janeiro has set up a central operations command centre for municipal and emergency services, I think done with IBM. Seoul is collecting public transport data to run the transport system more efficiently. New York City has NYC311, a one-stop shop for all government information and non-emergency services. So there are a lot of cities wanting to be smart, the difference in this city wanting to be smart, is Singapore is also a country. We can take a holistic national view, and not just a municipal one. We are mustering the full resources of our institutions, people and companies to focus decisively on big, complex problems, things which matter to us and our people. So it is not gee whiz high-tech, but can actually make a difference in people’s lives.
 
 For example, as a city we could work with companies to develop solutions for tele-rehabilitation, have your physiotherapist across skype, but as a country we can integrate tele-rehab with the public housing infrastructure and the national healthcare system, and rally different communities to provide emotional and social support to patients. So we are trying something to be more than a smart city. Of course other countries have similar ambitions, for example UK has a tech nation initiative. Each country will stake out a different niche for itself. But our advantage is that we are compact, we have a single level of government, we can decide efficiently, and scale up successful experiments and pilots without any delay. Also we are able to take a long-term view, and see through big transformations to the end, until they bear fruit for citizens.
 
-## Smart Nation Programme Office  
+### Smart Nation Programme Office  
 
 I have set up the Smart Nation Programme Office, to bring all the pieces together, within Government, and also between Government and the private sector, to use technology to achieve social and economic objectives, and to make a difference in all our lives. The Smart Nation Programme Office lives in the Prime Minister’s department. I take a personal interest in this. 40 years ago, after doing a math degree, I went on to study computer science, on my father’s advice. He said there is a future in that, and he was right. So for the Smart Nation Programme Office, I have put Minister Vivian Balakrishnan in charge, reporting to me. Vivian is both a hacker and a dabbler – He used to be an eye surgeon but since he does not get to operate on eyes nowadays, he dabbles in building simple robots, assembling watches, wireless devices and programming apps. His day job is to be the Minister for the Environment and Water Resources, and so when he builds apps, he uses the real time APIs generated by the Ministry. That’s called user-testing. I used to enjoy this; it is a long time since I’ve done anything. The last programme I wrote was a Sudoku solver in C++ several years ago, so I’m out of date. My children are in IT, two of them – both graduated from MIT. One of them browsed a book and said, “Here, read this”. It said “Haskell – learn you a Haskell for great good”, and one day that will be my retirement reading.
 
