@@ -61,3 +61,8 @@ This demand will need to be met by aspiring professionals like the students who 
 It will be an exciting journey, with a range of opportunities and resources to support you on the road ahead. Deep Learning Week is one such excellent resource, to explore interest areas and pursue your passions. So I hope it is not just the subject matter that is “deep learning”, but also that you will find opportunities to delve deeply into the technology, and perhaps learn something new. 
     
 I wish you all a most fruitful and meaningful week of discovery ahead. Thank you.
+
+
+**Mrs Josephine Teo**<br>
+Minister for Communications and Information, <br>
+and Minister-in-Charge of Smart Nation and Cybersecurity
