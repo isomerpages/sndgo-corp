@@ -77,3 +77,5 @@ To empower citizens to live, work, play, interact and transact better with each 
 </div>
 
 **Strategic National Project*
+
+Click [here](/community/apps-for-you) to view list of Apps from various government agencies.
