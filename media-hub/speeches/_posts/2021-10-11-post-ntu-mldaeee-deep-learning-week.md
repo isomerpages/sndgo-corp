@@ -6,7 +6,7 @@ layout: post
 ---
 ## Speech by Minister Josephine Teo at NTU MLDA@EEE Deep Learning Week Opening Ceremony
 
-**11 October 2021**
+**11 Oct 2021**
 
 Professor Subra Suresh, 
 President of Nanyang Technological University 
@@ -61,4 +61,3 @@ This demand will need to be met by aspiring professionals like the students who 
 It will be an exciting journey, with a range of opportunities and resources to support you on the road ahead. Deep Learning Week is one such excellent resource, to explore interest areas and pursue your passions. So I hope it is not just the subject matter that is “deep learning”, but also that you will find opportunities to delve deeply into the technology, and perhaps learn something new. 
     
 I wish you all a most fruitful and meaningful week of discovery ahead. Thank you.
-
