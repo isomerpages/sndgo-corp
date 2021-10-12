@@ -13,6 +13,32 @@ collections:
       - strategic-national-projects/smart-nation-sensor-platform.md
       - strategic-national-projects/smart-urban-mobility.md
       - national-ai-strategy.md
+      - business/.keep
+      - business/overview.md
+      - business/corppass.md
+      - business/data-innovation-programme-office.md
+      - business/fintech-sandbox.md
+      - business/networked-trade-platform.md
+      - digital-government-services/.keep
+      - digital-government-services/overview.md
+      - digital-government-services/centex.md
+      - digital-government-services/hdb-resale-portal.md
+      - digital-government-services/multilingual-digital-services.md
+      - digital-government-services/opencerts.md
+      - digital-government-services/parents-gateway.md
+      - health/.keep
+      - health/overview.md
+      - health/assistive-technology-and-robotics-in-healthcare.md
+      - health/healthhub.md
+      - health/national-steps-challengetm-and-healthy-365-app.md
+      - health/telehealth.md
+      - transport/.keep
+      - transport/overview.md
+      - transport/autonomous-vehicles.md
+      - transport/cetran.md
+      - transport/contactless-fare-payment-for-public-transport.md
+      - transport/on-demand-shuttle.md
+      - transport/open-data-analytics-for-urban-transportation.md
       - urban-living/.keep
       - urban-living/overview.md
       - urban-living/automated-meter-reading.md
@@ -22,29 +48,3 @@ collections:
       - urban-living/oneservice-chatbot.md
       - urban-living/smart-urban-planning.md
       - urban-living/smart-towns.md
-      - transport/.keep
-      - transport/overview.md
-      - transport/autonomous-vehicles.md
-      - transport/cetran.md
-      - transport/contactless-fare-payment-for-public-transport.md
-      - transport/on-demand-shuttle.md
-      - transport/open-data-analytics-for-urban-transportation.md
-      - health/.keep
-      - health/overview.md
-      - health/assistive-technology-and-robotics-in-healthcare.md
-      - health/healthhub.md
-      - health/national-steps-challengetm-and-healthy-365-app.md
-      - health/telehealth.md
-      - digital-government-services/.keep
-      - digital-government-services/overview.md
-      - digital-government-services/centex.md
-      - digital-government-services/hdb-resale-portal.md
-      - digital-government-services/multilingual-digital-services.md
-      - digital-government-services/opencerts.md
-      - digital-government-services/parents-gateway.md
-      - business/.keep
-      - business/overview.md
-      - business/corppass.md
-      - business/data-innovation-programme-office.md
-      - business/fintech-sandbox.md
-      - business/networked-trade-platform.md
