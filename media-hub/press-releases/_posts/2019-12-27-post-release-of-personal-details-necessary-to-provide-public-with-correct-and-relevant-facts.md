@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  Release Of Personal Details Necessary To Provide Public With Correct And Relevant Facts
+title: Release Of Personal Details Necessary To Provide Public With Correct And
+  Relevant Facts
 permalink: /media-hub/press-releases/release-of-personal-details-necessary-to-provide-public-with-correct-and-relevant-facts
 ---
+## Release Of Personal Details Necessary To Provide Public With Correct And Relevant Facts
+
+**27 Dec 2019**
 
 We have received queries from the media regarding the Government’s policy on the disclosure of personal data in certain cases of public interest.
 
