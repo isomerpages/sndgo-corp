@@ -4,6 +4,9 @@ title: Smart Nation and Digital Government Group appoints Government Chief
 date: 2018-11-01
 permalink: /media-hub/press-releases/sndgo-appoints-gcdto
 ---
+## Smart Nation And Digital Government Group Appoints Government Chief Digital Technology Officer
+
+**01 Nov 2018**
 
 Mr Chan Cheow Hoe, Deputy Chief Executive of the Government Technology Agency of Singapore (GovTech), will be appointed as Government Chief Digital Technology Officer (GCDTO) of the Smart Nation and Digital Government Office (SNDGO) with effect from 1 November 2018.
 
