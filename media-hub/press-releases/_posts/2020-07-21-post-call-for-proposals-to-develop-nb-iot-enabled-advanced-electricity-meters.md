@@ -1,20 +1,23 @@
 ---
 layout: post
-title:  Call For Proposals To Develop NB-Iot-Enabled Advanced Electricity Meters
+title: Call For Proposals To Develop NB-Iot-Enabled Advanced Electricity Meters
 permalink: /media-hub/press-releases/call-for-proposals-to-develop-nb-iot-enabled-advanced-electricity-meters
 ---
+## Call For Proposals To Develop NB-IoT-Enabled Advanced Electricity Meters
+
+**21 Jul 2020**
 
 As part of the national drive towards greater energy efficiency for a more sustainable future, advanced electricity meters will be progressively rolled out to households. When completed by 2024, over 1.4 million consumer accounts (mainly households) will be empowered to use energy more efficiently.
 
-2. Said Mr Ngiam Shih Chun, Chief Executive of the Energy Market Authority (EMA): "Advanced electricity meters can help consumers use energy in smarter ways to do their part for a greener future. For instance, households with advanced electricity meters today can already access their half-hourly electricity usage using the SP Utilities app. This helps them better understand their consumption patterns, take steps to manage their usage and be more energy efficient."
+Said Mr Ngiam Shih Chun, Chief Executive of the Energy Market Authority (EMA): "Advanced electricity meters can help consumers use energy in smarter ways to do their part for a greener future. For instance, households with advanced electricity meters today can already access their half-hourly electricity usage using the SP Utilities app. This helps them better understand their consumption patterns, take steps to manage their usage and be more energy efficient."
 
-3. EMA has issued a Call for Proposals (CFP) today to develop and test-bed advanced electricity meters which operate on the Narrowband Internet-of-Things (NB-IoT) wireless communications technology. Interested parties such as meter manufacturers are required to partner with telecommunications companies to submit joint proposals to deliver a secure and cost-effective solution for remote meter reading and transmission of the meter data.
+EMA has issued a Call for Proposals (CFP) today to develop and test-bed advanced electricity meters which operate on the Narrowband Internet-of-Things (NB-IoT) wireless communications technology. Interested parties such as meter manufacturers are required to partner with telecommunications companies to submit joint proposals to deliver a secure and cost-effective solution for remote meter reading and transmission of the meter data.
 
-4. This CFP is a collaboration between the EMA, Smart Nation and Digital Government Group (SNDGG) and utilities provider SP Group. It is part of a broader effort between SNDGG and public agencies to leverage wireless technologies such as NB-IoT for harnessing sensor data for the benefit of the public.
+This CFP is a collaboration between the EMA, Smart Nation and Digital Government Group (SNDGG) and utilities provider SP Group. It is part of a broader effort between SNDGG and public agencies to leverage wireless technologies such as NB-IoT for harnessing sensor data for the benefit of the public.
 
-5. The Government's push for a unified IoT network to meet the diverse needs of sensors, robotics, and IoT systems (such as connected appliances and smart home security systems) is a key initiative under the Smart Nation Sensor Platform. This is a strategic national project to adopt smart technologies to improve urban planning and bring about greater convenience to all Singaporeans.
+The Government's push for a unified IoT network to meet the diverse needs of sensors, robotics, and IoT systems (such as connected appliances and smart home security systems) is a key initiative under the Smart Nation Sensor Platform. This is a strategic national project to adopt smart technologies to improve urban planning and bring about greater convenience to all Singaporeans.
 
-6. The CFP closes at midnight on 24 September 2020 (Thursday). Details can be found at  www.ipi-singapore.org/technology-needs on the technical specifications and requirements of the CFP.
+The CFP closes at midnight on 24 September 2020 (Thursday). Details can be found at  www.ipi-singapore.org/technology-needs on the technical specifications and requirements of the CFP.
 
 ---
 
