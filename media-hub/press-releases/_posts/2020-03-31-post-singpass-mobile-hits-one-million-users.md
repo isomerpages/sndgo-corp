@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  SingPass Mobile Hits One Million Users
+title: SingPass Mobile Hits One Million Users
 permalink: /media-hub/press-releases/singpass-mobile-hits-one-million-users
 ---
+## SingPass Mobile Hits One Million Users
+
+**31 Mar 2020**
 
 98 per cent of all 2FA transactions done via SingPass Mobile or SMS 2FA OneKey token to be decommissioned in 2021
 
@@ -12,7 +15,7 @@ Launched in October 2018, SPM provides a secure and convenient way for users to 
 
 Apart from government services, SPM also allows users to log in to selected private sector services. To date, 16 private organisations offer SPM Login to their customer portals. These include NTUC Income, NTUC U, AIA, Manulife, Prudential, and the grants portal on the Singapore National Employers Federation website. More private sector organisations will enable SPM Login in the coming year.
 
-## OneKey token to be phased out by 31 March 2021
+### OneKey token to be phased out by 31 March 2021
 
 To date, 3.5 million SingPass users have activated their two-factor authentication (2FA). 2FA is used for secure digital transactions and consists of a two-step login. There are three methods for 2FA. Users can use SPM, or key in a one-time PIN sent via SMS (SMS 2FA) or key in a one-time PIN generated on a physical OneKey token. Currently, 98 per cent of 2FA logins to government services use SPM or SMS 2FA, and only 2 per cent use OneKey token.
 
