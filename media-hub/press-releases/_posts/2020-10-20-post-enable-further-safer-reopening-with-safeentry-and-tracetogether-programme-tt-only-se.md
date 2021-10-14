@@ -4,7 +4,7 @@ title: Enable Further Safer Reopening With SafeEntry And TraceTogether Programme
   - TT-Only SE
 permalink: /media-hub/press-releases/enable-further-safer-reopening-with-safeentry-and-tracetogether-programme
 ---
-## Enable Further Safer Reopening With SafeEntry And TraceTogether Programme - TraceTogether-only SafeEntry
+## Enable Further Safer Reopening With SafeEntry And TraceTogether Programme - TraceTogether-Only SafeEntry
 
 **20 Oct 2020**
 
