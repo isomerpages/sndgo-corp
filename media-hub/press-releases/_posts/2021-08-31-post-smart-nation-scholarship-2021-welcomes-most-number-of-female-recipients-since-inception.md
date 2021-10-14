@@ -11,7 +11,6 @@ layout: post
 
 ***Female scholars make up close to 40% of 2021 cohort***
 
-
 With the goal of nurturing our future leaders in technology, the Smart Nation Scholarship was presented to 14 recipients this year. Among them were five female recipients, the largest batch of female Smart Nation Scholarship recipients to date, reflecting an increased interest amongst them to contribute to Singapore’s digital and technology development. Since its launch in 2018, the Smart Nation Scholarship has been awarded to 12 female recipients in total.
 
 The percentage of female Smart Nation scholars has seen steady growth over the years, rising from 22% in 2018 to 36% today. Addressing the 14 scholarship awardees at a virtual awards ceremony held today, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity Josephine Teo said, “Grooming a team of Smart Nation Scholars is not unlike assembling a team of Marvel superheroes, each with their own unique superpower. By recognising and bringing together more diverse talents, we certainly hope to navigate the complexities ahead with greater confidence.”
@@ -33,21 +32,15 @@ Please refer to the full list of 14 scholars from the three agencies in[Annex A]
  
 **JOINTLY ISSUED BY THE CYBER SECURITY AGENCY OF SINGAPORE, GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE, AND INFOCOMM MEDIA DEVELOPMENT AUTHORITY.**
 
- 
-
 **About Cyber Security Agency**
-
 
 The Cyber Security Agency of Singapore (CSA) provides dedicated and centralised oversight of national cyber security functions and works with sector leads to protect Singapore’s critical services. It also engages with various industries, and stakeholders to heighten cyber security awareness as well as to ensure the holistic development of Singapore’s cyber security landscape. The Agency is part of the Prime Minister’s Office and is managed by the Ministry of Communications and Information. For more information, please visit www.csa.gov.sg
 
- 
 **About Government Technology Agency**
 
- 
 The Government Technology Agency (GovTech) is the lead agency driving Singapore’s Smart Nation initiative and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Sensors & IoT, Digital Infrastructure, and Cybersecurity.
 
 GovTech supports public agencies to manage enterprise IT operations and develop new digital products for citizens and businesses. GovTech is the public sector lead for cybersecurity, and oversees key government ICT infrastructure, as well as regulates ICT procurement, data protection and security in the public sector. GovTech is a Statutory Board under the Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office. For more information, please visit www.tech.gov.sg
-
 
 **About Infocomm Media Development Authority**
  
