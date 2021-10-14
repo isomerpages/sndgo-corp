@@ -11,9 +11,9 @@ sections:
         - title: Strategic National Projects
           description: Discover the building blocks for our Smart Nation
           url: /initiatives/strategic-national-projects
-        - title: Pillars Of Smart Nation
-          description: Find out more about the 3 key pillars
-          url: /about-smart-nation/pillars-of-smart-nation
+        - title: MILESTONES & ACHIEVEMENTS
+          description: Trace our Smart Nation Journey
+          url: /about-smart-nation/our-journey/milestones
         - title: A Secure Smart Nation
           description: Report a Government Data Incident
           url: /about-smart-nation/secure-smart-nation/report-data-incident
