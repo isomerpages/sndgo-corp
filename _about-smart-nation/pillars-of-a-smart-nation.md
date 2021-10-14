@@ -3,6 +3,7 @@ title: "Pillars of a Smart Nation "
 permalink: /about-smart-nation/pillars-of-smart-nation
 ---
 # Three Pillars of a Smart Nation
+<br>
 
 * [Digital Society](#digital-society)
 * [Digital Economy](#digital-economy)
