@@ -6,6 +6,8 @@ permalink: /media-hub/press-releases/enable-further-safer-reopening-with-safeent
 ---
 ## Enable Further Safer Reopening With SafeEntry And TraceTogether Programme - TraceTogether-only SafeEntry
 
+**20 Oct 2020**
+
 In order to resume larger-scale activities and further reopen our economy in a safer manner, _TT-only SE_ will be progressively expanded to more venues. The use of _TT-only SE_ will provide added assurance that everyone present at these larger-scale activities is better protected by effective contact tracing through participation in the TT Programme.
 
 _TT-only SE_ ensures that if a COVID-19 case is identified, we can quickly inform close contacts in those locations through the TT Programme. The close contacts can immediately take the necessary precautions to keep their loved ones safe.
