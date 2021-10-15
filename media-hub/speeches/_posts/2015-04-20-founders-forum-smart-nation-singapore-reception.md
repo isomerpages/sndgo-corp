@@ -59,5 +59,4 @@ So this is what a Smart Nation means to us. The Government will muster the resou
 
 Thank you very much.
 
-**Mr Lee Hsien Loong**<br>
-Prime Minister of Singapore
+**Prime Minister Lee Hsien Loong**
