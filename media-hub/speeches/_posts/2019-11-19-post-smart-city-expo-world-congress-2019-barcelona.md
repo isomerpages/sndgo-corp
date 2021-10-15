@@ -3,7 +3,7 @@ layout: post
 title: Smart City Expo World Congress 2019, Barcelona
 permalink: /media-hub/speeches/smart-city-expo-world-congress-barcelona-2019
 ---
-## Speech By Dr Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative, Republic Of Singapore, At The Smart City Expo World Congress, Barcelona
+## Speech by Minister Vivian Balakrishnan at The Smart City Expo World Congress, Barcelona
 
 **19 Nov 2019**
 
