@@ -3,7 +3,7 @@ layout: post
 title: Innovative Solutions for a Smart City Conference at World Cities Summit 2016
 permalink: /media-hub/speeches/innovative-solutions-for-a-smart-city-conference-at-world-cities-summit-2016
 ---
-## Transcript Of Opening Statements By Minister-in-Charge Of Smart Nation Initiative, Dr Vivian Balakrishnan At “Innovative Solutions For A Smart City” At World Cities Summit 2016, Marina Bay Sands Expo And Convention Centre
+## Transcript Of Opening Statements By Minister Vivian Balakrishnan at “Innovative Solutions for a Smart City” at World Cities Summit 2016
 
 **12 Jul 2016**
 
