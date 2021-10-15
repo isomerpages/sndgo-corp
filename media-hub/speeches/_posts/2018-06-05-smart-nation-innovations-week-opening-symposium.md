@@ -82,3 +82,7 @@ I am glad that this Smart Nation Innovations Week has brought together a strong 
 I trust that you will make full use of the opportunity to have productive exchanges over the coming days to strengthen connections, generate new ideas and create robust partnerships.
 
 I wish you all a fruitful Smart and Innovative Week ahead. Thank you.
+
+**Mr Teo Chee Hean** <br>
+Deputy Prime Minister, <br>
+Coordinating Minister For National Security
