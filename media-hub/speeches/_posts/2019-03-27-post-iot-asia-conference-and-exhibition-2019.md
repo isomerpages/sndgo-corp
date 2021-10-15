@@ -3,7 +3,7 @@ layout: post
 title: IoT Asia Conference & Exhibition 2019
 permalink: /media-hub/speeches/iot-asia-conference-and-exhibition-2019
 ---
-## Opening Remarks By Dr Vivian Balakrishnan, Minister For Foreign Affairs And Minister-in-Charge Of The Smart Nation Initiative At IoT Asia Conference And Exhibition, Max Atria @ Singapore Expo
+## Opening Remarks by Minister Vivian Balakrishnan, at IoT Asia Conference And Exhibition
 
 **27 Mar 2019**
 
