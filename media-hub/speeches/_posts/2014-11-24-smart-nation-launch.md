@@ -3,7 +3,7 @@ layout: post
 title: Smart Nation Launch
 permalink: /media-hub/speeches/smart-nation-launch
 ---
-## Transcript Of Speech By Prime Minister Lee Hsien Loong At Smart Nation Launch
+## Transcript of Speech By Prime Minister Lee Hsien Loong At Smart Nation Launch
 
 **24 Nov 2014**
 
@@ -110,3 +110,5 @@ We are making a home for all Singaporeans, young and old. Not just the technolog
 If I may go back to what Mr Lee Kuan Yew said when first we became independent and take it one step forward, update it, today perhaps this is what he would say: 50 years ago, we built a modern city. Today, we have a metropolis. 10 years from now, let’s have a smart nation!
 
 Let us make it happen together! Thank you very much.
+
+**Prime Minister Lee Hsien Loong**

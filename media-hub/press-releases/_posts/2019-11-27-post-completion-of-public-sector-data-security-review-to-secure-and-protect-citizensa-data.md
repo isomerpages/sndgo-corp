@@ -1,31 +1,35 @@
 ---
 layout: post
-title:  "Completion Of Public Sector Data Security Review - To Secure And Protect Citizens’ Data"
+title: Completion Of Public Sector Data Security Review - To Secure And Protect
+  Citizens’ Data
 permalink: /media-hub/press-releases/completion-of-public-sector-data-security-review-to-secure-and-protect-citizens-data
 ---
+## Completion Of Public Sector Data Security Review To Secure And Protect Citizen's Data
 
-1\. The Public Sector Data Security Review Committee (“the Committee”) was convened on 31 March 2019 to conduct a comprehensive review of data security policies and practices across the Public Service. We have completed the work and have submitted our recommendations to the Prime Minister on 26 November 2019.
+**27 Nov 2019**
 
-2\. The Committee was led by Senior Minister Teo Chee Hean, the Coordinating Minister for National Security and the Minister-in-charge of Public Sector Data Governance. The Committee’s Terms of Reference are:
+The Public Sector Data Security Review Committee (“the Committee”) was convened on 31 March 2019 to conduct a comprehensive review of data security policies and practices across the Public Service. We have completed the work and have submitted our recommendations to the Prime Minister on 26 November 2019.
+
+The Committee was led by Senior Minister Teo Chee Hean, the Coordinating Minister for National Security and the Minister-in-charge of Public Sector Data Governance. The Committee’s Terms of Reference are:
 
   * Review how the Government is securing and protecting citizens’ data from end-to-end, including the role of vendors and other authorised non-Government entities;
   * Recommend technical measures, processes and capabilities to improve the Government’s protection of citizens’ data, and response to incidents; and
   * Develop an action plan of immediate steps and longer-term measures to implement the recommendations.
 
-## Approach 
+### Approach 
 
-3\. The Committee notes that the Government has been actively strengthening its data security and cybersecurity. The Government’s data protection standards were first established in 2001. Subsequently the PDPA was enacted in 2012 to govern data protection in the private sector, taking reference from the Government’s standards. In 2018, additional data security provisions were included in the Public Sector Governance Act to strengthen the data security regime.
+The Committee notes that the Government has been actively strengthening its data security and cybersecurity. The Government’s data protection standards were first established in 2001. Subsequently the PDPA was enacted in 2012 to govern data protection in the private sector, taking reference from the Government’s standards. In 2018, additional data security provisions were included in the Public Sector Governance Act to strengthen the data security regime.
 
-4\. In formulating our recommendations, we:
+In formulating our recommendations, we:
 
   * Conducted an inspection of 336 systems across 94 agencies to identify data security risks and the common causes of data breaches.
   * Studied global and industry best practices, including the practices of the Governments of Canada and the United Kingdom, and companies in the finance and security sectors.
   * Reviewed the Government’s data security related legislation and guidelines i.e. Instruction Manual 8 (“IM8”) and Public Sector Governance Act (“PSGA”) against the requirements for private sector organisations in the Personal Data Protection Act (“PDPA”).
   * Evaluated whether the proposed recommendations would have prevented or mitigated the impact of past data incidents.
 
-## Key Recommendations
+### Key Recommendations
 
-5\. Based on our findings from the above, we have made five key recommendations as follows:
+Based on our findings from the above, we have made five key recommendations as follows:
 
 
 | **Desired Outcomes**| **Key Recommendations** |
@@ -36,15 +40,15 @@ permalink: /media-hub/press-releases/completion-of-public-sector-data-security-r
 |**Accountability** for data protection at every level|Enhance frameworks and processes to improve accountability and transparency of the public sector data security regime.|
 |**Sustainable and resilient** manner|Introduce and strengthen organisational and governance structures to drive a resilient public sector data security regime that can meet future needs.|
 
-## Conclusion
+### Conclusion
 
-6\. We are confident that our recommendations, when implemented, will significantly improve the Government’s data security regime and enhance the public’s confidence in the Government’s data security regime. The recommendations will also make it clear that requirements and standards imposed on the public agencies are no less stringent than what the private sector has to comply with.
+We are confident that our recommendations, when implemented, will significantly improve the Government’s data security regime and enhance the public’s confidence in the Government’s data security regime. The recommendations will also make it clear that requirements and standards imposed on the public agencies are no less stringent than what the private sector has to comply with.
 
-7\. Mr Lee Fook Sun, Chairman, Ensign Infosecurity, said, “The inspections and stock-take have shown that agencies can be better supported in the implementation of data security measures. The Committee has recommended deploying technical tools more widely, which will ensure consistently high compliance with data security measures across the public sector.”
+Mr Lee Fook Sun, Chairman, Ensign Infosecurity, said, “The inspections and stock-take have shown that agencies can be better supported in the implementation of data security measures. The Committee has recommended deploying technical tools more widely, which will ensure consistently high compliance with data security measures across the public sector.”
 
-8\. Mr David Gledhill, Senior Advisor, DBS, said, “We conducted a comprehensive review to ensure the recommendations are holistic and are in line with international best practices and industry standards. We are confident that the Committee’s recommendations, if applied then and implemented consistently would have prevented or mitigated the impact of past data incidents.”
+Mr David Gledhill, Senior Advisor, DBS, said, “We conducted a comprehensive review to ensure the recommendations are holistic and are in line with international best practices and industry standards. We are confident that the Committee’s recommendations, if applied then and implemented consistently would have prevented or mitigated the impact of past data incidents.”
 
-9\. Mr Ho Wah Lee, Former KPMG Partner, said, “Taking into account the evolving data security risks and the need to share data effectively and securely within the public sector, we have worked closely with the Government to identify areas that can be improved upon, and taken immediate steps to reduce data risks, protect the public’s data better and strengthen the data security regime. With the recommended enhancements to the audit frameworks, the Government should be able to prevent, detect and respond swiftly and effectively to data incidents.”
+Mr Ho Wah Lee, Former KPMG Partner, said, “Taking into account the evolving data security risks and the need to share data effectively and securely within the public sector, we have worked closely with the Government to identify areas that can be improved upon, and taken immediate steps to reduce data risks, protect the public’s data better and strengthen the data security regime. With the recommended enhancements to the audit frameworks, the Government should be able to prevent, detect and respond swiftly and effectively to data incidents.”
 
 **PUBLIC SECTOR DATA SECURITY REVIEW COMMITTEE**<br>
 **27 NOVEMBER 2019**

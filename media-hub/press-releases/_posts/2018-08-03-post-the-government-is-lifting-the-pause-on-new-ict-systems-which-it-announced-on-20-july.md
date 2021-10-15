@@ -4,7 +4,9 @@ title: The Government is lifting the pause on new ICT systems which it announced
 date: 2018-08-03
 permalink: /media-hub/press-releases/the-government-is-lifting-the-pause-on-new-ict-systems
 ---
-The Government is lifting the pause on new ICT systems which it announced on 20 July, following the attacks on SingHealth’s system.
+## The Government is lifting the pause on new ICT systems which it announced on 20 July, following the attacks on SingHealth’s system
+
+**03 Aug 2018**
 
 The Smart Nation and Digital Government Group (SNDGG) has completed its review of cybersecurity policies and will implement additional measures for critical Government systems, to strengthen the ability to detect and respond quickly to cybersecurity threats. With these additional measures, the Government will lift the pause on new systems with immediate effect (3 August 2018).
 
@@ -23,7 +25,6 @@ While the Government will continue to review and upgrade its security measures t
 ---
 
 For media enquiries please contact:
-
 
 **Cyber Security Agency of Singapore**
 
@@ -44,7 +45,6 @@ Manager, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office, Singapore<br>
 Mobile: 8363 1762<br>
 Email: Tiffany_SANDRASAGERAN@pmo.gov.sg
-
 
 Melvin  Tai<br>
 Assistant Director, Adoption and Engagement Directorate<br>

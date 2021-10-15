@@ -108,3 +108,6 @@ It reflects our insecurity that we are not really a big country, but also the ad
 So we believe Singapore is well poised to take advantage of opportunities that these global challenges will present to us. We are not the panacea, neither are we the complete solution. Anand Mahindra told me Singapore just needs to be a place where a visitor will say “I have seen the future and it works!”.
 
 Thank you all very much.
+
+**Dr Vivian Balakrishnan**<br>
+Minister-In-Charge Of The Smart Nation Initiative

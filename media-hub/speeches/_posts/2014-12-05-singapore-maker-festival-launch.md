@@ -80,3 +80,6 @@ Similarly, on data; we will try to make as much data available as possible as lo
 So continue making, continue tinkering, continue innovating, continue sharing; hit us with your best deals. You will find and I hope that we will be able to prove, that Singapore is the best place in the world to be a maker, an inventor, an artist, a poet - a person who combines arts, science, technology and culture; to quote William Hooi.
 
 Thank you all very much.
+
+**Dr Vivian Balakrishnan**<br>
+Minister-In-Charge Of The Smart Nation Initiative

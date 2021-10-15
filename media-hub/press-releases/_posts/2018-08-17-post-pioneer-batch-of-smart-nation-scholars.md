@@ -3,6 +3,10 @@ title: Pioneer Batch of Smart Nation Scholars
 date: 2018-08-17
 permalink: /media-hub/press-releases/pioneer-sn-scholars
 ---
+## Pioneer Batch Of Smart Nation Scholars
+
+**17 Aug 2018**
+
 The Smart Nation Scholarship was awarded to nine recipients by Dr. Vivian Balakrishnan, Minister-in-Charge of Singapore’s Smart Nation initiative, at the inaugural scholarship award ceremony today.
 
 Launched in March 2018, the Smart Nation Scholarship offers a deep technical career path for scholars with a passion in applying technology for the public good. It seeks to develop and nurture a pool of next-generation leaders who will spearhead our national digital transformation.

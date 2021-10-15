@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Transcript of Minister Vivian Balakrishnan's Offline, On-The-Record Interview with Bloomberg on Smart Nation On 22 August 2017
+title: Transcript of Minister Vivian Balakrishnan's Offline, On-The-Record
+  Interview with Bloomberg on Smart Nation On 22 August 2017
 permalink: /media-hub/speeches/transcript-of-minister-vivian-balakrishnan-offline-on-the-record-interview-with-bloomberg-on-smart-nation-2017
---- 
+---
+## Transcript of Minister Vivian Balakrishnan Interview With Bloomberg On Smart Nation
 
-<iframe src="https://www.bloomberg.com/api/embed/iframe?id=91fb976f-db49-49b4-b7d0-0abca7000d70" width="500" height="316" allowscriptaccess="always" frameborder="0"></iframe>
-Reproduced with permission. Click [here](https://www.bloomberg.com/news/videos/2017-08-22/singapore-lays-out-smart-nation-projects-video) to view the original video from Bloomberg.com
+**22 Aug 2017**
+
+Click [here](https://www.bloomberg.com/news/videos/2017-08-22/singapore-lays-out-smart-nation-projects-video) to view video from Bloomberg.com
 
 [The transcript of Bloomberg's subsequent offline interview with Minister Vivian Balakrishnan continues below.]
 

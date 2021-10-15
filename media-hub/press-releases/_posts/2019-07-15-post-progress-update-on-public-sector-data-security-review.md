@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  Progress Update On Public Sector Data Security Review
+title: Progress Update On Public Sector Data Security Review
 permalink: /media-hub/press-releases/progress-update-on-public-sector-data-security-review
 ---
+## Progress Update On Public Sector Data Security Review
+
+**15 Jul 2019**
 
 a) The Government reaffirms the importance of data security.
 
@@ -10,13 +13,13 @@ b) The Committee is seeking the views of industry and global experts to recommen
 
 c) In the interim, the Government will be deploying several technical measures to strengthen data safeguards.
 
-## Background
+### Background
 
 The Prime Minister convened the Public Sector Data Security Review Committee (“the Committee”) to review how the Government secures and protects citizens’ data. The Committee, chaired by Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean, was formed on 1 Apr 2019. The Committee has met twice, and will submit its report to the Prime Minister by 30 Nov 2019. This provides a progress update of the Committee’s work in the interim.
 
 The Committee took as its key guiding principle the utmost importance that the Government places on its duty to use citizens’ data responsibly and securely. Public trust in the responsible use of data is fundamental to our Smart Nation ambitions to improve our society and economy through digital transformation.
 
-## Review and Stocktake 
+### Review and Stocktake 
 
 The Committee is completing a comprehensive review of the public sector data security regime. This includes a government-wide stock take of data management practices, and in-depth inspections of key IT systems. It has sought the views of leading industry experts to develop a suite of measures to improve public sector data security.
 

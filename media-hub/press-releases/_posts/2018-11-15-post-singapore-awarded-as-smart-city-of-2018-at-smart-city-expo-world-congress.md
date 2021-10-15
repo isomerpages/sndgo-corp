@@ -3,6 +3,10 @@ title: Singapore awarded as Smart City of 2018 at Smart City Expo World Congress
 date: 2018-11-15
 permalink: /media-hub/press-releases/smart-city-2018
 ---
+## Singapore Awarded As Smart City Of 2018 At Smart City Expo World Congress
+
+**15 Nov 2018**
+
 Seven awards were announced last evening at the leading international summit on smart cities
 
 The city of Singapore has been chosen as the Smart City of 2018 at the Smart City Expo World Congress to recognize the most outstanding initiatives and projects in the urban innovation and transformation industry. The remaining awards –Innovative Idea, Digital Transformation, Inclusive and Sharing Cities, Governance & Finance, Mobility, and Urban Environment – have been given to {delft}LINK initiative to address housing shortage in Cape Town (South Africa); the ICT deployment model by the Government of Gaoqing – Zibo (China); the e-health living lab developed by the city of The Hague (Netherlands); the transformation of Msheireb Downtown Doha (Qatar) into a more welcoming and citizen empowering environment; the multi-modal traffic management system developed in the North Avenue Smart Corridor in Atlanta (USA); and the bold construction of smart buildings in the Jinshan District of Shanghai (China), respectively.
@@ -10,8 +14,7 @@ The city of Singapore has been chosen as the Smart City of 2018 at the Smart Cit
 The Smart Nation project to transform Singapore into a global benchmark of smart urban solutions deployment has earned the Asian city-state the title of Smart City of 2018. The wide array of solutions developed by the government from dynamic public bus routing algorithms to real-time parent-teacher portals, or even predictive analytics for water pipe leaks, have proved that Singapore systematically pursues the application of innovative digital technologies to improve people’s lives.  
 
 The Smart City Awards jury, comprised of representatives from the Barcelona City Council, the UITP International Association of Public Transport, UN-Habitat, the World Bank and Smart City Expo World Congress have considered  _“Singapore has undoubtedly become a global beacon of the urban transformation and how to implement smart urban solutions in a meaningful manner that not only enhances the city’s functioning but also improves the services provided to its citizens and through them their quality of life.”_
-
-  
+ 
 The Singaporean Senior Minister of State, Ministry of Transport & Ministry of Communications and Information, and Minister-in-charge of the Government Technology Agency, Janil Puthucheary said that  _“I would like to thank the Smart City Expo World Congress for presenting us with this award. Singapore’s Smart Nation efforts are about the transformation of our country, through technology. We will continue to create a better lived experience for our citizens, and these efforts must benefit our future generations as well. We look forward to working with other cities to make all our cities smart together.”_
 
   

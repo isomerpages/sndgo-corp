@@ -4,7 +4,7 @@ title: Inaugural Update On Government Personal Data Protection And
   Implementation Of PSDSRC Recommendations
 permalink: /media-hub/press-releases/inaugural-update-psdsrc
 ---
-## Inaugural Update On Government Personal Data Protection And Implementation Of Psdsrc Recommendations
+## Inaugural Update On Government Personal Data Protection And Implementation Of PSDRC Recommendations
 
 **11 Nov 2020**
 

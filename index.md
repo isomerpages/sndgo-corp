@@ -11,9 +11,9 @@ sections:
         - title: Strategic National Projects
           description: Discover the building blocks for our Smart Nation
           url: /initiatives/strategic-national-projects
-        - title: Pillars Of Smart Nation
-          description: Find out more about the 3 key pillars
-          url: /about-smart-nation/pillars-of-smart-nation
+        - title: Milestones & Achievements
+          description: Follow our jouney
+          url: /about-smart-nation/our-journey/milestones
         - title: A Secure Smart Nation
           description: Report a Government Data Incident
           url: /about-smart-nation/secure-smart-nation/report-data-incident
@@ -21,20 +21,19 @@ sections:
           description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
   - infopic:
+      title: 94% of Government services are digital from end-to-end
+      description: Learn about our progress as a Digital Government
+      button: Find out more
+      url: https://smartnationsg-staging.netlify.app/about-smart-nation/pillars-of-smart-nation#digital-government
+      image: /images/initiatives/Singpass-05.jpeg
+      alt: Singpass
+  - infopic:
       title: Combating COVID-19
       description: Learn how Singapore managed the pandemic effectively with technology
       button: Read more about it
       url: /covid-19/covid-19-tech
       image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
       alt: "Covid-19 Technology "
-  - infopic:
-      title: Punggol Digital District
-      subtitle: Strategic National Projects
-      description: Find out why the Punggol Digital District is the place to be!
-      button: Read more about it
-      url: /initiatives/strategic-national-projects/punggolst
-      image: /images/initiatives/pdd.jpeg
-      alt: Punggol Digital District
   - infopic:
       title: Pick Up New Skills
       description: "Learn something new  at our #SmartNationTogether webinars and workshops"

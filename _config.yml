@@ -53,3 +53,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 is_government: true
+shareicon: /images/SN%20Logo%20700px.png

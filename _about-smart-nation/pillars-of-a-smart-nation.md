@@ -3,6 +3,11 @@ title: "Pillars of a Smart Nation "
 permalink: /about-smart-nation/pillars-of-smart-nation
 ---
 # Three Pillars of a Smart Nation
+<br>
+
+* [Digital Society](#digital-society)
+* [Digital Economy](#digital-economy)
+* [Digital Government](#digital-government)
 
 Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a Smart Nation, harnessing technology to transform how its people and businesses live, work and play.  
   
@@ -26,6 +31,7 @@ Whether you’re young or old, tech-savvy or not, the aim is for every Singapore
 
 <div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Digital Readiness Blueprint:</a><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png"></div>
 
+[Return to top](#three-pillars-of-a-smart-nation)
 
 ## Digital Economy
 
@@ -41,6 +47,8 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
 <div style="width:50%"> 
  <a href="/files/abt-smart-nation/SGD Framework For Action.pdf">Digital Economy Framework for Action (4.31mb):<img src="/images/abt-smart-nation/Digital-Economy-Framework2.png"></a>
 </div>
+
+[Return to top](#three-pillars-of-a-smart-nation)
 
 ## Digital Government
 
@@ -71,13 +79,31 @@ The pandemic has given renewed impetus for government agencies to digitalise, in
 
 
 ### The progress so far
-Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2019:
-* 86% of citizens and 77% of businesses are very/extremely satisfied with Government digital services, surpassing our target of 75%-80%
-* 95% of transactions are completed digitally from start to end of the process, meeting the target of 90-95%
-* 20,000 officers have been trained in data analytics and data science, meeting the initial target set  and a new KPI is being reviewed
-* All 20 ministries have submitted plans to use artificial intelligence, meeting the target of broadening digitalisation within the Government
+Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2020.
 
-We’ve also set our sights on goals for 2023 and beyond:
+* **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
+![Alt text for image on Isomer site](/images/abt-smart-nation/citizen-satisfaction-2020.jpeg)
+
+* **Business Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
+![Alt text for image on Isomer site](/images/abt-smart-nation/business-satisfaction-2020.jpeg)
+
+* **Government services that can be completed digitally from end-to-end**
+![Alt text for image on Isomer site](/images/abt-smart-nation/end-to-end-digital-services-2020.jpeg)
+
+* **Services that provide E-payment options**
+![Alt text for image on Isomer site](/images/abt-smart-nation/services-offering-e-payment-2020.jpeg)
+
+* **E-payments transactions**
+![Alt text for image on Isomer site](/images/abt-smart-nation/e-payment-transactions-2020.jpeg)
+
+* **Other Statistics:**
+  * 20,000 officers have been trained in data analytics and data science, meeting the initial target set  and a new KPI is being reviewed.
+
+  * All 20 ministries have submitted plans to use artificial intelligence, meeting the target of broadening digitalisation within the Government
+
+#### Other Goals for 2023
+
+We’ve also set our targets for 2023 and beyond:
 * 70% of eligible Government systems to be hosted on the commercial cloud
 * All public officers to have basic digital literacy skills
 * All ministry families to have at least 1 AI project for service delivery or policymaking

@@ -114,7 +114,7 @@ On top of these ongoing efforts, we must continue to raise awareness of the pote
   * You can also donate to the Digital for Life Fund to support projects initiated by the community. The Government will match donations dollar-for-dollar.
   * Ultimately, building a more inclusive society will require a collective effort from all of us. To progress together as one, each of us must do our part to help those around us be part of this digital journey.
 
-## Conclusion
+### Conclusion
 
 In conclusion, I encourage you to take part in the Smart Nation & U Festival.
   * The force of digital disruptions is gaining pace.
