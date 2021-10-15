@@ -5,7 +5,7 @@ permalink: /media-hub/speeches/singapore-maker-festival-launch-2014
 ---
 ## Speech By Dr Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative At The Launch Of Singapore Maker Festival
 
-**5 Dec 2014**
+**05 Dec 2014**
 
 Good evening everyone.
 
@@ -80,3 +80,7 @@ Similarly, on data; we will try to make as much data available as possible as lo
 So continue making, continue tinkering, continue innovating, continue sharing; hit us with your best deals. You will find and I hope that we will be able to prove, that Singapore is the best place in the world to be a maker, an inventor, an artist, a poet - a person who combines arts, science, technology and culture; to quote William Hooi.
 
 Thank you all very much.
+
+**Mr Vivian Balakrishnan**<br>
+Minister for Foreign Affairs, <br>
+and Minister-in-Charge of Smart Nation Initiative
