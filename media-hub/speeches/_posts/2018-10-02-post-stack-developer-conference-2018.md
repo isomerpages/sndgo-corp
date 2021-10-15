@@ -3,7 +3,7 @@ layout: post
 title: STACK Developer Conference 2018
 permalink: /media-hub/speeches/stack-developer-conference-2018
 ---
-## Speech by Prime Minister Lee Hsien Loong at GovTech Stack 2018 Developer Conference
+## Speech by Prime Minister Lee Hsien Loong at GovTech Stack Developer Conference 2018 
 
 **02 Oct 2018**
 
