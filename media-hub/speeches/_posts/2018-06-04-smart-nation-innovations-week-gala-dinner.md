@@ -64,3 +64,6 @@ This is not an easy task but it is a necessary one. Certainly, we cannot do this
 In closing, I am pleased to be here tonight with all of you to celebrate the spirit of innovation, and what better setting than this. We see flowers and nature around us here in Gardens by the Bay, and experience this ‘City in a Garden’ that Singapore is known for around the world. But underpinning all of this beauty, is innovation and technology. Not only is there a carefully planned system of technology ensuring environmental sustainability, the Gardens is also a hub for horticultural R&D. To construct a project of this scale requires collaborative efforts across Government and we had to think and be bold and ambitious, and make room for new ideas to bloom.
 
 Similarly, Smart Nation is about transforming Singapore through technology. So, as we embark on what I hope would be an insightful, enriching and productive week ahead, I would like to thank you again for joining us at the Smart Nation Innovations Week Gala Dinner and Opening Symposium. Please enjoy your dinner and the programme we have lined up for you.
+
+**Dr Vivian Balakrishnan**
+Minister-in-Charge Of The Smart Nation Initiative
