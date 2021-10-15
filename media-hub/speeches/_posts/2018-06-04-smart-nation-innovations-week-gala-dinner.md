@@ -65,5 +65,5 @@ In closing, I am pleased to be here tonight with all of you to celebrate the spi
 
 Similarly, Smart Nation is about transforming Singapore through technology. So, as we embark on what I hope would be an insightful, enriching and productive week ahead, I would like to thank you again for joining us at the Smart Nation Innovations Week Gala Dinner and Opening Symposium. Please enjoy your dinner and the programme we have lined up for you.
 
-**Dr Vivian Balakrishnan**
+**Dr Vivian Balakrishnan** <br>
 Minister-in-Charge Of The Smart Nation Initiative
