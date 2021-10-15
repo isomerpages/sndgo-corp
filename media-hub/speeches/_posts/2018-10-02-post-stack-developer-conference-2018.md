@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  STACK Developer Conference 2018
+title: STACK Developer Conference 2018
 permalink: /media-hub/speeches/stack-developer-conference-2018
---- 
-
+---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WMU-5WASrKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Good morning to everybody, very delighted to be here to join you for this inaugural GovTech Stack Developer Conference. We have here more than 1,000 developers, designers, and product leaders from all over the world – both public and private sectors – present with us. It is the first time that we are having such a large gathering of the tech community in Singapore.
@@ -12,7 +11,7 @@ Many of you would already be familiar with the Singapore Government, or have wor
 
 Our ambition now is to become a Smart Nation – using technology to better meet our people’s needs for the future, and to improve their lives. Many countries and cities have similar ambitions to be smart nations or smart cities – Estonia, for example. New York, Sao Paolo, Shanghai – first world or third, everybody has captured the buzz word but each city has different needs, and we each have to develop it in our own way. The vision is vast, but we are working on several specific strategic projects to focus our efforts, like a national sensor platform, a national digital identity, and urban mobility.
 
-## Re-engineering Government
+### Re-engineering Government
 
 One of these projects is to re-engineer our government. We have a lot of work to do on this front, and let me explain why. Firstly, because we were early adopters of technology, so we now have many legacy IT systems built up over the years, in different government agencies. These enterprise IT systems have to be maintained and upgraded. As technologies advance and policies change, systems must be modified, built upon, brought up to date, fixed. This is an endless task; you could even say it is a Sisyphean task. You think you have completed rolling the stone up the hill, it comes down again and you need to start again. Over time, modifications and fixes accumulate, and the whole structure becomes harder and harder to maintain. At some point, incremental changes are no longer adequate, and we have to consider radically overhauling the existing systems, or replacing them altogether. It is a long process. For example, in some corners of the government, we still have code that is written in COBOL, and PCs using Windows 98 because the old applications were written for that platform!
 
@@ -40,7 +39,7 @@ This is why we are building the Singapore Government Technology Stack (SGTS) –
 
 Third, a library of commonly used micro-services, such as payment and authentication, so application developers can just plug and play. The SGTS will help us to deliver better public services to citizens through reusable software, much faster and at a fraction of the cost. It will complement our greater use of the commercial cloud, and support our efforts to share data more easily through published APIs. Together, SGTS, cloud and data will enable us to re-engineer the Government’s digital infrastructure. This will form the dev-ops and digital environment for in-house engineers and users, and will also enable greater collaboration and exchange with the private sector.
 
-## Developing our People and Capabilities 
+### Developing our People and Capabilities 
 
 To drive our digital transformation, the government has to develop strong engineering capabilities and nurture a deep engineering culture. This entails building organisations that invest in and build up our people, to provide them with the right skills, experience and perspectives, and to empower them to make a difference.
 
