@@ -12,7 +12,7 @@ sections:
           description: Discover the building blocks for our Smart Nation
           url: /initiatives/strategic-national-projects
         - title: Milestones & Achievements
-          description: Follow our Journey
+          description: Follow our jouney
           url: /about-smart-nation/our-journey/milestones
         - title: A Secure Smart Nation
           description: Report a Government Data Incident
