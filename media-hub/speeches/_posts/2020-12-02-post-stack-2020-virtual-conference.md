@@ -3,7 +3,7 @@ layout: post
 title: STACK 2020 Virtual Conference
 permalink: /media-hub/speeches/stack-2020-virtual-conference
 ---
-## Opening Remarks Stack 2020 Virtual Conference By Guest-Of-Honour Dr Vivian Balakrishnan Minister For Foreign Affairs And Minister-in-Charge Of The Smart Nation Initiative
+## Opening Remarks By Guest-Of-Honour Dr Vivian Balakrishnan Minister For Foreign Affairs And Minister-in-Charge Of The Smart Nation Initiative at Stack 2020 Virtual Conference
 
 **02 Dec 2020**
 
