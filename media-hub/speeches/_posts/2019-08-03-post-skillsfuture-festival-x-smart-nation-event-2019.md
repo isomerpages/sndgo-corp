@@ -37,4 +37,7 @@ In truth, many of these things that we're going to do have already started and w
 
 Thank you all for coming here to join us today at this event. Thank you to all our partners, Smart Nation and Digital Government Group staff, SSG staff, as well as Microsoft for putting together this event and this partnership. Thank you very much.
 
-**Mr Janil**
+**Dr Janil Puthucheary**<br>
+Senior Minister of State<br>
+Ministry of Communications and Information & Ministry of Health<br>
+Minister-in-Charge of GovTechl
