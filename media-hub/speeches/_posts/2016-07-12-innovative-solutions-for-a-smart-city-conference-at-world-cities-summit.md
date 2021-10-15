@@ -52,3 +52,6 @@ Now the question is, why shouldn’t the same capability be available for govern
 So this is just one example but in order to do that, you realise this goes far beyond just the Artificial Intelligence or language processing, but requires a whole-of-government reorganisation, reengineering the backroom, and of the way services are delivered, packaged and how we engage our citizens.
 
 Thank you.
+
+**Dr Vivian Balakrishnan**<br>
+Minister-In-Charge Of Smart Nation Initiative
