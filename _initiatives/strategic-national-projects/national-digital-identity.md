@@ -19,6 +19,8 @@ Read on to learn more about the current suite of services.
 
 Launched in 2003, Singpass is a personal authentication system that allows users to access various Government services online. Users can log in to digital services conveniently and securely through the Singpass app using their fingerprint, facial recognition or a 6-digit passcode.  Singpass app also introduced two-factor authentication (2FA) methods like Singpass Face Verification and Multi-User SMS 2FA, on top of SMS one-time password (OTP). These provide an additional layer of security to better protect our users’ personal data and allow people to transact anywhere, anytime.
 
+![Alt text for image on Isomer site](/images/initiatives/Singpass-02.jpeg)
+
 We have been progressively adding useful features to the Singpass app for simpler everyday transactions. Current features include:
 * One-tap access to commonly-used Government digital services such as checking one's CPF balance, applying for an HDB flat, performing Internet banking, or managing insurance policies more easily
 * Convenient access to one's digital IC 
@@ -26,6 +28,8 @@ We have been progressively adding useful features to the Singpass app for simple
 * Digital signing of documents by scanning a QR code. This removes the need for users to be physically present to sign documents and agreements
 
 Download the [Singpass app  here.](https://singpassmobile.sg/)
+
+![Alt text for image on Isomer site](/images/initiatives/Singpass-Face-Verification.jpeg)
 
 ## MyInfo
 A tell-us-once service that autofills selected personal details for online forms, minimising the need for users to repeatedly provide and verify the same information when transacting with Government agencies online. By tapping on the Retrieve MyInfo button, the participating digital service will be able to retrieve the necessary data fields needed with consent.
