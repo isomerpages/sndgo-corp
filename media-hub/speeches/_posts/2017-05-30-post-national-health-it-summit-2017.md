@@ -78,3 +78,6 @@ I would like to congratulate all our award winners. I hope to see many more next
 Thank you. And have an enjoyable morning.
 
 [MOH News Highlights](https://www.moh.gov.sg/news-highlights/details/speech-by-mr-gan-kim-yong-minister-for-health-at-the-national-health-it-summit-2017-30-may-2017)
+
+**Mr Gan Kim Yong**<br>
+Minister for Health
