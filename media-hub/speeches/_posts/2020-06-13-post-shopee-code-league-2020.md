@@ -3,7 +3,7 @@ layout: post
 title: Shopee Code League 2020
 permalink: /media-hub/speeches/shopee-code-league-2020
 ---
-## Opening Address by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs, at the Shopee Code League 2020
+## Opening Address by Minister Vivian Balakrishnan at the Shopee Code League 2020
 
 **13 Jun 2020**
 
