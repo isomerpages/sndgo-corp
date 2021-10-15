@@ -3,7 +3,7 @@ layout: post
 title: Smart Nation Innovations Week Gala Dinner 2018
 permalink: /media-hub/speeches/smart-nation-innovations-week-gala-dinner-2018
 ---
-## Speech By Dr Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative At The Smart Nation Innovations Week Gala Dinner, Gardens By The Bay
+## Speech By Minister Vivian Balakrishnan at the Smart Nation Innovations Week Gala Dinner
 
 **04 Jun 2018**
 
