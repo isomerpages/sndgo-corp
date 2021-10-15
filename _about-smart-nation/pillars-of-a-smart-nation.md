@@ -81,10 +81,10 @@ The pandemic has given renewed impetus for government agencies to digitalise, in
 ### The progress so far
 Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2020.
 
-* **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above via survey)*
+* **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
 ![Alt text for image on Isomer site](/images/abt-smart-nation/citizen-satisfaction-2020.jpeg)
 
-* **Business Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above via survey)*
+* **Business Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
 ![Alt text for image on Isomer site](/images/abt-smart-nation/business-satisfaction-2020.jpeg)
 
 * **Government services that can be completed digitally from end-to-end**
@@ -103,7 +103,7 @@ Reviewing KPIs regularly allows us to assess our performance and identify areas 
 
 #### Other Goals for 2023
 
-We’ve also set our sights on goals for 2023 and beyond:
+We’ve also set our targets for 2023 and beyond:
 * 70% of eligible Government systems to be hosted on the commercial cloud
 * All public officers to have basic digital literacy skills
 * All ministry families to have at least 1 AI project for service delivery or policymaking
