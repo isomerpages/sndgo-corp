@@ -70,3 +70,6 @@ On the regional and international front, we need to build strong ties across cou
 So, my point is that it is actually a very wonderful time to be alive, because we are living through a revolution. Very few generations have that opportunity to have a ringside seat into a revolution. I know I’m a bit biased, but those of us who are in research, academia or in politics have a unique ringside seat because we can see these platforms develop, we can see the human needs that remain, and if we can just get the innovations right - not just in technology - but in politics, social policy, education, and to continue to invest in research and development, and establish new global norms of behaviour and transaction, then so much is possible. And then, only then, can we truly achieve this concept of human well-being and security by 2030. My point is that it’s possible, but it’s not inevitable.
 
 Thank you all very much.
+
+**Dr Vivian Balakrishnan**<br>
+Minister-In-Charge Of The Smart Nation Initiative
