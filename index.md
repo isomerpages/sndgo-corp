@@ -22,7 +22,7 @@ sections:
           url: /community/smart-nation-ambassadors
   - infopic:
       title: 94% of Government services are digital from end-to-end
-      description: Learn how we have progressed as a Digital Government
+      description: Learn about our progress as a Digital Government
       button: Find out more
       url: https://smartnationsg-staging.netlify.app/about-smart-nation/pillars-of-smart-nation#digital-government
       image: /images/initiatives/Singpass-05.jpeg
