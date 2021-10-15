@@ -3,6 +3,10 @@ layout: post
 title: STACK Developer Conference 2018
 permalink: /media-hub/speeches/stack-developer-conference-2018
 ---
+## Speech by Prime Minister Lee Hsien Loong at GovTech Stack 2018 Developer Conference
+
+**02 Oct 2018**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WMU-5WASrKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Good morning to everybody, very delighted to be here to join you for this inaugural GovTech Stack Developer Conference. We have here more than 1,000 developers, designers, and product leaders from all over the world – both public and private sectors – present with us. It is the first time that we are having such a large gathering of the tech community in Singapore.
@@ -62,3 +66,5 @@ We attract IT talent from the region to work here. We keep in touch with Singapo
 There are exciting developments in Singapore in the IT industry, both in the public and private sectors. We do not know if all of our initiatives will go as we plan, but as a GovTech officer said to me recently, we are rebuilding the aeroplane even as it is mid-flight! But if you are game for this challenge, please join us as we strive towards becoming a lean, agile and digital Government, and a Smart Nation.
 
 Thank you very much.
+
+**Prime Minister Lee Hsien Loong**
