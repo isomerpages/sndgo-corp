@@ -72,3 +72,7 @@ Finally, I want to end by making this point. I started off by saying the world i
 What we are trying to do in Singapore is create the most conducive environment for people who get it, to be able to build it so that - in the future - people will come to Singapore and they will say ‘I have seen the future, and it works!’  
   
 Welcome to a wonderful future. It is a privilege to be alive and to have a ringside seat to the revolution of our lifetimes. Thank you very much.
+
+**Dr Vivian Balakrishnan**<br>
+Minister for Foreign Affairs, <br> 
+Minister-In-Charge Of The Smart Nation Initiative
