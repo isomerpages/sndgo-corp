@@ -81,6 +81,5 @@ So continue making, continue tinkering, continue innovating, continue sharing; h
 
 Thank you all very much.
 
-**Mr Vivian Balakrishnan**<br>
-Minister for Foreign Affairs, <br>
-and Minister-in-Charge of Smart Nation Initiative
+**Dr Vivian Balakrishnan**<br>
+Minister-In-Charge Of The Smart Nation Initiative
