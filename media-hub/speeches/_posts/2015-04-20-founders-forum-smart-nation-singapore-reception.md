@@ -58,3 +58,6 @@ The Government is leading the way. We are upgrading our engineering and IT schem
 So this is what a Smart Nation means to us. The Government will muster the resources, build the infrastructure, create schemes, and encourage companies and people to chase their dreams. But we need you, we need the companies and the people to step forward, to spark the bright ideas, to make progress on the challenges, and to change the world. And I hope tomorrow’s forum, and the day after’s, will be another step in your dreams to change the world.
 
 Thank you very much.
+
+**Mr Lee Hsien Loong**<br>
+Prime Minister of Singapore
