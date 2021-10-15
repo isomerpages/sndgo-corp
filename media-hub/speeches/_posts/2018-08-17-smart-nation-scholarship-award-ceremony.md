@@ -3,7 +3,7 @@ layout: post
 title: Smart Nation Scholarship Award Ceremony on 17 August 2018
 permalink: /media-hub/speeches/smart-nation-scholarship-award-ceremony-2018
 ---
-## Speech By Dr Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative At The Inaugural Smart Nation Scholarship Award Ceremony
+## Speech By Minister Vivian Balakrishnan at the Inaugural Smart Nation Scholarship Award Ceremony
 
 **17 Aug 2018**
 
