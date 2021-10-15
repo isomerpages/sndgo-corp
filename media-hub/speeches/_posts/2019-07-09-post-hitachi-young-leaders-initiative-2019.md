@@ -3,7 +3,7 @@ layout: post
 title: Hitachi Young Leaders Initiative 2019
 permalink: /media-hub/speeches/hitachi-young-leaders-initiative-2019
 ---
-## Speech By Mr S Iswaran, Minister For Communications And Information, At The Hitachi Young Leaders Initiative (Hyli) 2019 At Intercontinental Singapore
+## Speech By Minister S Iswaran at the Hitachi Young Leaders Initiative (Hyli) 2019
 
 **09 Jul 2019**
 
