@@ -111,5 +111,4 @@ If I may go back to what Mr Lee Kuan Yew said when first we became independent a
 
 Let us make it happen together! Thank you very much.
 
-**Mr Lee Hsien Loong**<br>
-Prime Minister of Singapore
+**Prime Minister Lee Hsien Loong**
