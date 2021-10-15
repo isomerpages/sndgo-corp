@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  SG-Apple Collaboration on LumiHealth
+title: SG-Apple Collaboration on LumiHealth
 permalink: /media-hub/speeches/sg-apple-collaboration-on-lumihealth-2020
---- 
+---
+## DPM Heng on the Announcement of the SG-Apple Collaboration on LumiHealth
 
-# DPM Heng on the Announcement of the SG-Apple Collaboration on LumiHealth
+**16 Sep 2020**
 
 Around the world, countries are grappling with COVID-19. Digital technology is playing a key role in safeguarding our people. The use of the TraceTogether app in Singapore to support contact tracing is one example.  
   
@@ -21,3 +22,7 @@ In addition, participants can choose to share their data from the use of LumiHea
 Collaborations such as LumiHealth also takes us one step closer towards achieving our vision to be a Smart Nation – one where we use digital technology to improve the lives of our people, and potentially people around the world.
 
 [PMO Newsroom](https://www.pmo.gov.sg/Newsroom/DPM-Heng-on-the-Announcement-of-SG-APPLE-Collaboration-on-LumiHealth)
+
+**Deputy Prime Minister Heng Swee Keat** <br>
+Coordinating Minister for Economic Policies, <br>
+Minister for Finance
