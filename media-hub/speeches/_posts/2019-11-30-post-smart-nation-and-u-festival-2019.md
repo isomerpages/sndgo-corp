@@ -5,6 +5,8 @@ permalink: /media-hub/speeches/smart-nation-and-u-festival-2019
 ---
 ## Speech by Deputy Prime Minister and Minister for Finance Heng Swee Keat at the Smart Nation and U Festival 2019 
 
+**30 Nov 2019**
+
 Dr Vivian Balakrishnan
 
 Minister for Foreign Affairs and Minister-in-Charge of The Smart Nation Initiative
