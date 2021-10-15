@@ -74,3 +74,6 @@ Your journey as a Smart Nation Scholar has just begun. As you embark on your stu
 Once again, congratulations to all of you. I wish you every success in your studies and look forward to your future contributions to building our Smart Nation.
 
 Thank you.
+
+**Dr Vivian Balakrishnan**<br>
+Minister-In-Charge Of The Smart Nation Initiative
