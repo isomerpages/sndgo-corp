@@ -62,3 +62,7 @@ We believe that if we can create a society of hackers, makers and creators and i
 Thank you all for being here.
 
 [Government Technology of Singapore Media room](https://www.tech.gov.sg/media/speeches/opening-speech-by-dr-vivian-balakrishnan-minister-for-foreign-affairs-and-minister-in-charge-of-the-smart-nation-initiative-at-the-futureeverything-signals-of-tomorrow-conference)
+
+**Dr Vivian Balakrishnan**<br>
+Minister of Foreign Affairs, <br>
+Minister-In-Charge Of The Smart Nation Initiative
