@@ -5,7 +5,7 @@ permalink: /media-hub/speeches/singapore-maker-festival-launch-2014
 ---
 ## Speech By Dr Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative At The Launch Of Singapore Maker Festival
 
-**05 Dec 2014**
+**5 Dec 2014**
 
 Good evening everyone.
 
