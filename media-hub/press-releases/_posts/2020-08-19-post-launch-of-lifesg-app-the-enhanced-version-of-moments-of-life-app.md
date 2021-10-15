@@ -3,7 +3,7 @@ layout: post
 title: Launch Of Lifesg App, The Enhanced Version Of Moments Of Life App
 permalink: /media-hub/press-releases/launch-of-lifesg-app
 ---
-## MORE FEATURES, REFRESHED LOOK
+## More Features, Refreshed Look
 
 **19 Aug 2020**
 
