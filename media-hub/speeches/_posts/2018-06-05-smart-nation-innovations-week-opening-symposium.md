@@ -3,11 +3,11 @@ layout: post
 title: Smart Nation Innovations Week Opening Symposium 2018
 permalink: /media-hub/speeches/smart-nation-innovations-week-opening-symposium-2018
 ---
-## Opening Address By Mr Teo Chee Hean, Deputy Prime Minister And Coordinating Minister For National Security At The Opening Of The Smart Nation Innovations Week Opening Symposium, Marina Bay Sands Convention Centre
+## Opening Address By Deputy Prime Minister Teo Chee Hean at the Opening of the Smart Nation Innovations Week Opening Symposium
 
 **05 Jun 2018**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TgCk9Us4imE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/TgCk9Us4imE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### “Building a Smart Nation – Empowering Citizens, Energising Businesses, Engaging Internationally”
 
