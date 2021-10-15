@@ -29,7 +29,7 @@ For more information on LifeSG, please visit [https://www.life.gov.sg/](https://
 
 ---
 
-**ANNEXES:**
+**Annexes:**
 
 [Annexes A to C (pdf - 270kb)](/files/press-releases/2020/annexes-launch-of-lifesg-app-the-enhanced-version-of-mol-app.pdf)
 
