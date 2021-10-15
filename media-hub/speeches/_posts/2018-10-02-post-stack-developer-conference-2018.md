@@ -7,7 +7,7 @@ permalink: /media-hub/speeches/stack-developer-conference-2018
 
 **02 Oct 2018**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WMU-5WASrKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WMU-5WASrKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Good morning to everybody, very delighted to be here to join you for this inaugural GovTech Stack Developer Conference. We have here more than 1,000 developers, designers, and product leaders from all over the world – both public and private sectors – present with us. It is the first time that we are having such a large gathering of the tech community in Singapore.
 
