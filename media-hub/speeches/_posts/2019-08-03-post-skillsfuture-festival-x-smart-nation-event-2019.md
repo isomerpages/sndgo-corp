@@ -40,4 +40,4 @@ Thank you all for coming here to join us today at this event. Thank you to all o
 **Dr Janil Puthucheary**<br>
 Senior Minister of State<br>
 Ministry of Communications and Information & Ministry of Health<br>
-Minister-in-Charge of GovTechl
+Minister-in-Charge of GovTech
