@@ -89,3 +89,6 @@ Your handphone.
 **Minister:**  It happened in China, paradoxically, because the conventional banking and financial system was less convenient and accessible. The digital system leapfrogs over the older systems which were not meeting people’s needs.
 
 In Singapore, we have the opposite problem. Our financial system actually works and the regulators are on top of their game. But we can be trapped because we’re too good at a local optimum. We are prepared to go one up because we have regulators that get it, and we are prepared to take risks and we’re prepared to break the old ways of doing things.
+
+**Dr Vivian Balakrishnan** <br>
+Minister-in-Charge of the Smart Nation Initiative
