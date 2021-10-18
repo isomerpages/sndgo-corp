@@ -3,7 +3,7 @@ layout: post
 title: Digital Government Exchange 2017
 permalink: /media-hub/speeches/digital-government-exchange-2017
 ---
-## Opening Speech By Head Of Civil Service At Digital Government Exchange 2017, Asian Civilisations Museum
+## Opening Speech by Head of Civil Service at Digital Government Exchange 2017, Asian Civilisations Museum
 
 **03 May 2017**
 
@@ -74,3 +74,5 @@ Re-organising, becoming data-driven, and partnering with the private sector – 
 I wish everyone a productive DGX, and a very pleasant stay in Singapore.  
   
 Thank you.
+
+**Head of Civil Service**

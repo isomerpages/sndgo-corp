@@ -3,7 +3,7 @@ layout: post
 title: Skillsfuture Festival X Smart Nation Event 2019
 permalink: /media-hub/speeches/skillsfuture-festival-x-smart-nation-event-2019
 ---
-## SMS Janil’s Speech For Skillsfuture Festival X Smart Nation Event
+## SMS Janil’s Speech for SkillsFuture Festival x Smart Nation Event
 
 **03 Aug 2019**
 
@@ -40,4 +40,4 @@ Thank you all for coming here to join us today at this event. Thank you to all o
 **Dr Janil Puthucheary**<br>
 Senior Minister of State<br>
 Ministry of Communications and Information & Ministry of Health<br>
-Minister-in-Charge of GovTechl
+Minister-in-Charge of GovTech
