@@ -16,4 +16,4 @@ Be part of the Smart Nation and Digital Government Office and help shape the way
 
 From defining our national artificial intelligence strategy to crafting policies that are inclusive for all our people, there are exciting positions on offer. 
 
-**Are you up for the challenge? Check out the available positions we have on <a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=smart%20nation%20and%20digital%20government%20office&job-mail-subscribe-privacy=agree" target="_blank">Careers@Gov</a>**
+**Are you up for the challenge? Check out the available positions we have on <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Smart%20Nation%20and%20Digital%20Government%20Office" target="_blank">Careers@Gov</a>**
