@@ -4,7 +4,7 @@ permalink: /testing-bed/text-on-image
 ---
 
 
-<div class="container">
+<div class="container-sample">
   <img src="/images/national-digital-identity2.jpg" alt="Report Data Incident" style="width:100%;">
   <div class="text-block">
     <h4>Report Data Incident</h4>
