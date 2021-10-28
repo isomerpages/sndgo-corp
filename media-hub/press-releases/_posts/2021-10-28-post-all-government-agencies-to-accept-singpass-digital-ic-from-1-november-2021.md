@@ -25,10 +25,6 @@ As the Digital IC serves as an official identification document, security measur
 Currently, the Digital IC is also accepted by service providers such as SingHealth Polyclinics and we hope to onboard more private sector companies to do so, to encourage the use of the Digital IC as a way of life in Smart Nation Singapore.
 
 
-[^1]: Since April 2021, Corppass users must verify their identities using Singpass before they can access and transact with participating digital services on behalf of their companies.
-
-[^2]: Other instances include the change management needed across various agencies.
-
 ---
 
 **For media enquiries, please contact:**
@@ -71,9 +67,16 @@ Email: Serene_CHAN@tech.gov.sg
 ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Your%20privacy%20is%20protected.jpeg)
 
 
-[^3]: Only work pass holders have the fields “Employer” and “Sector”
 
 ---
 
 **Related Resources**<br>
 * [Media Factsheet on Singpass (National Digital Identity)](/files/press-releases/2021/Media%20Factsheet%20on%20Singpass%20National%20Digital%20Identity.pdf)
+
+---
+
+[^1]: Since April 2021, Corppass users must verify their identities using Singpass before they can access and transact with participating digital services on behalf of their companies.
+
+[^2]: Other instances include the change management needed across various agencies.
+
+[^3]: Only work pass holders have the fields “Employer” and “Sector”
