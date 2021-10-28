@@ -3,7 +3,7 @@ layout: post
 title: Alibaba Cloud Summit [Infinity 2018]
 permalink: /media-hub/speeches/alibaba-cloud-summit-infinity-2018
 ---
-## Opening Address By Minister Vivian Balakrishnan, at the Alibaba Cloud Summit [Infinity 2018]
+## Opening Address By Minister Vivian Balakrishnan, at the Alibaba Cloud Summit (Infinity 2018)
 
 Good morning, everyone. A warm welcome to Singapore.
 
