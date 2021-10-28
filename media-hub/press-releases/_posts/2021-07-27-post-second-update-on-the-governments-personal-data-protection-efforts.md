@@ -51,11 +51,6 @@ The second update on the Government’s personal data protection efforts can be 
 
 ----------
 
-[^1]: The Public Sector Data Security Review Committee (PSDSRC) made five key recommendations in 2019 to improve the Government’s data security regime. The Government accepted the Committee’s recommendations in full and committed to implementing them in phases from 2020 to 2023.
-
-
-----------
-
 **Annexes**
 
 * [Annex A: Infographic on Second Update (932 KB)](/files/publications/government-personal-data-protection-efforts-2021-summary.pdf)
@@ -83,3 +78,5 @@ Mobile: +65 9644 1674<br>
 Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
 
 ******
+
+[^1]: The Public Sector Data Security Review Committee (PSDSRC) made five key recommendations in 2019 to improve the Government’s data security regime. The Government accepted the Committee’s recommendations in full and committed to implementing them in phases from 2020 to 2023.
