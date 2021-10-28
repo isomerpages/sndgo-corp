@@ -10,7 +10,7 @@ layout: post
 
 All Government agencies will accept, from 1 November 2021, the Digital Identity Card (IC) on the Singpass app as an alternative means to prove an individual’s identity for in-person agency services. This marks a significant milestone for Smart Nation, in which people can tap on this proof of identification to transact digitally with public and private sector entities.
 
-Singpass, our trusted national digital identity, provides a convenient and secure platform for users to transact with the Government and other private sector service providers. Today, 97% of Singapore Citizens and Permanent Residents aged 15 years old and above have Singpass accounts, making it one of the most pervasively adopted national digital identity systems in the world. There are over 3.2 million Singpass app users, and about 300 million personal and corporate Singpass transactions[^1]  every year.
+Singpass, our trusted national digital identity, provides a convenient and secure platform for users to transact with the Government and other private sector service providers. Today, 97% of Singapore Citizens and Permanent Residents aged 15 years old and above have Singpass accounts, making it one of the most pervasively adopted national digital identity systems in the world. There are over 3.2 million Singpass app users, and about 300 million personal and corporate Singpass transactions[^1] every year.
 
 All Government agencies to accept Digital IC, except for instances when physical document is required under the legislation
 
@@ -28,7 +28,7 @@ Currently, the Digital IC is also accepted by service providers such as SingHeal
 
 [^1] : Since April 2021, Corppass users must verify their identities using Singpass before they can access and transact with participating digital services on behalf of their companies.
 
-[^2]:  Other instances include the change management needed across various agencies.
+[^2] : Other instances include the change management needed across various agencies.
 
 ---
 
@@ -55,7 +55,7 @@ Email: Serene_CHAN@tech.gov.sg
 #### A Digital IC in your pocket, for all Singapore Residents
 *Familiar and easily recognisable coloured cards*
 
-| **Singapore Citizen**	 | **Permanent Resident** | **Long Term Pass Holder**[^3]  |
+| **Singapore Citizen**	 | **Permanent Resident** | **Long Term Pass Holder**[^3] |
 | -------- | -------- | -------- |
 | ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Singapore%20Citizen.png)     | ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Permanent%20Resident.png)    | ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Long%20Term%20Pass%20Holder.png)     |
 
@@ -72,7 +72,7 @@ Email: Serene_CHAN@tech.gov.sg
 ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Your%20privacy%20is%20protected.jpeg)
 
 
-[^3]: Only work pass holders have the fields “Employer” and “Sector”
+[^3] : Only work pass holders have the fields “Employer” and “Sector”
 
 ---
 
