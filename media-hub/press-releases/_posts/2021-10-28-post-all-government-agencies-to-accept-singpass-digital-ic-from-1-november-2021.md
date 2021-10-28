@@ -1,9 +1,10 @@
 ---
 title: All Government Agencies to Accept Singpass Digital IC from 1 November 2021
 date: 2021-10-28
-permalink: /media-hub/press-releases/permalink
+permalink: /media-hub/press-releases/digital-ic-nov21
 layout: post
 ---
+
 ## All Government Agencies To Accept Singpass Digital IC From 1 November 2021
 
 **28 October 2021**
