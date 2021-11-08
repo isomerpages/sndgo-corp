@@ -88,7 +88,7 @@ The Government has also helped stakeholders use AI in a fair and ethical manner,
 
 * Singapore is also participating in global platforms on AI governance, such as the Global Partnership on AI (GPAI) and Organisation for Economic Co-operation and Development (OCED) expert groups, to exchange perspectives and establish global norms in AI.
 
-### CONCLUSION
+### Conclusion
 
 AI is a transformative technology that will enable Singapore to push the boundaries. The National AI Strategy has made good progress and we will continue to develop and implement initiatives iteratively, to help businesses seize new opportunities and improve the lives of our citizens.
 
