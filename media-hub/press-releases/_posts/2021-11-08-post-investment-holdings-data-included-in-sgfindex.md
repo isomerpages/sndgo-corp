@@ -1,9 +1,10 @@
 ---
-title: Investment holdings data Included in SGFinDex
+title: Investment Holdings Data Included in SGFinDex
 date: 2021-11-08
 permalink: /media-hub/press-releases/sgfindex-phase-2
 layout: post
 ---
+
 ## Investment Holdings Data Included in SGFinDex 
 
 **08 Nov 2021**
