@@ -38,7 +38,7 @@ The new Programmes were selected based on their potential for wide-ranging impac
 
 		* Under MAS’ Anti-Money Laundering/Countering Financing of Terrorism Surveillance and Analytics Programme, MAS is also developing a data and information sharing platform known as **COSMIC** for financial institutions to share information on customers or transactions that cross material risk thresholds, and leverage AI to identify and disrupt illicit networks.
 	
-### Continued Investments to Furtherr Singapore's AI Ambitions
+### Continued Investments to Further Singapore's AI Ambitions
 
 The Government will invest an additional $180 million under the Research, Innovation and Enterprise (RIE) 2025 Plan for AI R&D, on top of the current $500 million committed for AI-related activities under RIE 2020. These investments will support:
 
