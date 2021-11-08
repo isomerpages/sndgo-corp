@@ -14,15 +14,14 @@ layout: post
 Two new National Artificial Intelligence (AI) Programmes in Government and Finance were launched at the Singapore FinTech Festival (SFF) x Singapore Week of Innovation and Technology (SWITCH) 2021. The new Programmes are part of the Singapore Government’s National AI Strategy, which comprise ambitious projects in key sectors aimed at catalysing AI adoption.
 
 The new Programmes were selected based on their potential for wide-ranging impact to improve the lives of our citizens, and help businesses seize new opportunities.
+
 * **The National AI Programme in Government** aims to further advance Government’s digital transformation efforts. Through greater use of AI in government agencies, the Government hopes to strengthen policymaking and planning, provide more personalised and responsive services, and optimise Government processes for the benefit of citizens and businesses.<br>
-<ul>
-<ul style="list-style-type:circle;">
-<li>The Programme has identified projects that will act as pathfinders to show how AI can be better leveraged in the public sector.
-<ul>
-<ul style="list-style-type:square;">
-<li>The Urban Redevelopment Authority (URA) is developing an AI smart planning assistant** to transform urban planning and design in Singapore. Given Singapore’s land constraints, urban planners can use AI tools to formulate plans to achieve greater adaptability and sustainability.
-<ul>
-▪ GovTech is developing JumpStart, an AI-enabled platform with recommendation engines to complement career coaches and offer jobseekers more personalised and effective jobs and skills recommendations. Jobseekers can access JumpStart’s recommendations from a range of Government products, including MyCareersFuture – our national jobs portal. To date, JumpStart has facilitated more than 2,000 job placements and could, according to data from an early pilot, increase the portal’s total job placements by 20%.
+
+The Programme has identified projects that will act as pathfinders to show how AI can be better leveraged in the public sector.
+
+The Urban Redevelopment Authority (URA) is developing an AI smart planning assistant to transform urban planning and design in Singapore. Given Singapore’s land constraints, urban planners can use AI tools to formulate plans to achieve greater adaptability and sustainability.
+
+GovTech is developing JumpStart, an AI-enabled platform with recommendation engines to complement career coaches and offer jobseekers more personalised and effective jobs and skills recommendations. Jobseekers can access JumpStart’s recommendations from a range of Government products, including MyCareersFuture – our national jobs portal. To date, JumpStart has facilitated more than 2,000 job placements and could, according to data from an early pilot, increase the portal’s total job placements by 20%.
 o Central AI Products will be developed for common AI applications that can be used across the Government.
 ▪ GovTech has developed a Video Analytics System (VAS) to support public agencies in the development and deployment of video analytics models. Using the VAS, NParks and GovTech developed the Safe Distance @ Parks portal in just 3.5 days. The portal provides the public with live crowd density data in our parks, gardens, and nature reserves, for public to make informed decisions about where to go.
 ▪ Another area of focus is AI text analytics. By leveraging techniques such as natural language processing, we aim to better sense-make information such as the feedback that our frontline agencies receive each year. This will allow us to better understand the pain points and serve citizens better.
