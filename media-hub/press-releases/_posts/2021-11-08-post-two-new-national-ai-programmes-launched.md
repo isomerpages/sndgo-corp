@@ -50,7 +50,7 @@ The Government will invest an additional $180 million under the Research, Innova
  
 ### On-going Efforts to Advance National AI Strategy
 
-The National AI Office which drives the National AI Strategy has made notable progress in delivering the initial tranche of National AI Programmes1 and initiatives to strengthen five Ecosystem Enablers2 together with key partners.
+The National AI Office which drives the National AI Strategy has made notable progress in delivering the initial tranche of National AI Programmes[^1] and initiatives to strengthen five Ecosystem Enablers[^2] together with key partners.
 
 
 #### Improve citizen well-being and raise productivity through increased AI adoption
@@ -75,8 +75,15 @@ The Government has also helped Singaporeans acquire new skills to capitalise on 
 
 * The Government has ramped up support for more Singaporeans to acquire deep skills to take on the new and exciting jobs that AI will bring:
 
-	* Over the past three years, **more than 5,000 working professionals** have upskilled under AI Singapore’s [^3] AI for Industry (AI4I)® programme and **approximately 180 AI engineers** have been trained under the AI Apprenticeship programmes (AIAP)® respectively.
+	* Over the past three years, **more than 5,000 working professionals** have upskilled under AI Singapore’s[^3] AI for Industry (AI4I)® programme and **approximately 180 AI engineers** have been trained under the AI Apprenticeship programmes (AIAP)® respectively.
 
+	* The TechSkills Accelerator (TeSA) programme has also helped more than 10,000 adult Singaporeans acquire new tech skills and placed them in good tech jobs, including AI ones, since 2016.
+
+* The Government has also increased support for upskilling Singaporeans with baseline AI and computing knowledge.
+
+	* Over the past three years, **more than 55,000 students and adult learners** have been trained in basic AI literacy skills under AI Singapore’s AI for Everyone (AI4E)®, AI for Students (AI4S)®, and AI for Kids (AI4K)® programmes.
+
+	* From 2021, as part of the Ministry of Education’s (MOE) National Digital Literacy Programme, baseline digital competencies – including computational thinking and data competencies – will be enhanced at the Higher Education level. Coverage of digital and AI competencies will also be deepened for students entering sectors ripe for AI adoption.
 
 #### Improve societal acceptance of AI through better AI governance
 
@@ -115,17 +122,9 @@ Email: goh_yu_chong@pmo.gov.sg
 
 ---------- 
 
-[^1] : National AI Projects were renamed National AI Programmes to better reflect the scope of work under the initiative. The initial tranche of Programmes were in Transport & Logistics, Smart Cities & Estates, Healthcare, Education, and Safety & Security.<br>
+[^1]: National AI Projects were renamed National AI Programmes to better reflect the scope of work under the initiative. The initial tranche of Programmes were in Transport & Logistics, Smart Cities & Estates, Healthcare, Education, and Safety & Security.<br>
 
-[^2] : The five Ecosystem Enablers are (1) triple-helix partnerships across research, industry, and the Government; (2) talent and education; (3) data architecture; (4) progressive and trusted environment; and (5) international collaboration.
+[^2]: The five Ecosystem Enablers are (1) triple-helix partnerships across research, industry, and the Government; (2) talent and education; (3) data architecture; (4) progressive and trusted environment; and (5) international collaboration. <br>
 
 
-[^3] : AI Singapore refers to our national R&D programme in AI to drive AI research, innovation, and commercialisation. <br>
-
-* The TechSkills Accelerator (TeSA) programme has also helped more than 10,000 adult Singaporeans acquire new tech skills and placed them in good tech jobs, including AI ones, since 2016.
-
-* The Government has also increased support for upskilling Singaporeans with baseline AI and computing knowledge.
-
-	* Over the past three years, **more than 55,000 students and adult learners** have been trained in basic AI literacy skills under AI Singapore’s AI for Everyone (AI4E)®, AI for Students (AI4S)®, and AI for Kids (AI4K)® programmes.
-
-	* From 2021, as part of the Ministry of Education’s (MOE) National Digital Literacy Programme, baseline digital competencies – including computational thinking and data competencies – will be enhanced at the Higher Education level. Coverage of digital and AI competencies will also be deepened for students entering sectors ripe for AI adoption.
+[^3]: AI Singapore refers to our national R&D programme in AI to drive AI research, innovation, and commercialisation. <br>
