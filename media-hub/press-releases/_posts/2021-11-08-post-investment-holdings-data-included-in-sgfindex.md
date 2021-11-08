@@ -45,7 +45,7 @@ enable individuals to improve their financial planning.”
 
 ---
 
-### About the Singapore Financial Data Exchange 
+**About the Singapore Financial Data Exchange** 
 
 The Singapore Financial Data Exchange (SGFinDex) is the world's first public digital 
 infrastructure to use a national digital identity and centrally managed online consent system 
@@ -61,7 +61,7 @@ be given again after a year.
 
 For more information, please visit https://www.mas.gov.sg/development/fintech/sgfindex
 
-### About the Monetary Authority of Singapore 
+**About the Monetary Authority of Singapore** 
 
 The Monetary Authority of Singapore (MAS) is Singapore’s central bank and integrated 
 financial regulator. As a central bank, MAS promotes sustained, non-inflationary economic 
@@ -75,7 +75,7 @@ and investor education. MAS also works with the financial industry to promote Si
 a dynamic international financial centre. It facilitates the development of infrastructures, 
 adoption of technology, and upgrading of skills in the financial industry. 
 
-### About the Smart Nation and Digital Government Group (SNDGG) 
+**About the Smart Nation and Digital Government Group (SNDGG)**
 
 The Smart Nation and Digital Government Group (SNDGG) was set up under the Singapore 
 Prime Minister’s Office in May 2017, to drive and coordinate Smart Nation and digitalisation 
@@ -91,7 +91,7 @@ lives of people in Singapore.
 
 For more information, please visit www.smartnation.gov.sg.  
 
-### About MyMoneySense 
+**About MyMoneySense** 
 
 MyMoneySense is a financial planning digital service jointly developed by MOM and GovTech. 
 It aims to enable individuals to better understand and plan their finances easily and 
@@ -118,5 +118,3 @@ Manager, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br> 
 Tel: +65 8182 8052<br> 
 Email: chia_suat_ning@pmo.gov.sg<br>
-
----
