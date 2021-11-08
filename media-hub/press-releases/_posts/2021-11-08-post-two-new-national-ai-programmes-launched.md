@@ -115,12 +115,12 @@ Email: goh_yu_chong@pmo.gov.sg
 
 ---------- 
 
-[^1] : National AI Projects were renamed National AI Programmes to better reflect the scope of work under the initiative. The initial tranche of Programmes were in Transport & Logistics, Smart Cities & Estates, Healthcare, Education, and Safety & Security.<br>
+[^1]: National AI Projects were renamed National AI Programmes to better reflect the scope of work under the initiative. The initial tranche of Programmes were in Transport & Logistics, Smart Cities & Estates, Healthcare, Education, and Safety & Security.<br>
 
-[^2] : The five Ecosystem Enablers are (1) triple-helix partnerships across research, industry, and the Government; (2) talent and education; (3) data architecture; (4) progressive and trusted environment; and (5) international collaboration.
+[^2]: The five Ecosystem Enablers are (1) triple-helix partnerships across research, industry, and the Government; (2) talent and education; (3) data architecture; (4) progressive and trusted environment; and (5) international collaboration.
 
 
-[^3] : AI Singapore refers to our national R&D programme in AI to drive AI research, innovation, and commercialisation. <br>
+[^3]: AI Singapore refers to our national R&D programme in AI to drive AI research, innovation, and commercialisation. <br>
 
 * The TechSkills Accelerator (TeSA) programme has also helped more than 10,000 adult Singaporeans acquire new tech skills and placed them in good tech jobs, including AI ones, since 2016.
 
