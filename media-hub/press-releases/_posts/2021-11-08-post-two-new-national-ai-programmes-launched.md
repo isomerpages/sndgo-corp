@@ -50,7 +50,7 @@ The Government will invest an additional $180 million under the Research, Innova
  
 ### On-going Efforts to Advance National AI Strategy
 
-The National AI Office which drives the National AI Strategy has made notable progress in delivering the initial tranche of National AI Programmes1 and initiatives to strengthen five Ecosystem Enablers2 together with key partners.
+The National AI Office which drives the National AI Strategy has made notable progress in delivering the initial tranche of National AI Programmes[^1] and initiatives to strengthen five Ecosystem Enablers[^2] together with key partners.
 
 
 #### Improve citizen well-being and raise productivity through increased AI adoption
@@ -75,7 +75,7 @@ The Government has also helped Singaporeans acquire new skills to capitalise on 
 
 * The Government has ramped up support for more Singaporeans to acquire deep skills to take on the new and exciting jobs that AI will bring:
 
-	* Over the past three years, **more than 5,000 working professionals** have upskilled under AI Singapore’s [^3] AI for Industry (AI4I)® programme and **approximately 180 AI engineers** have been trained under the AI Apprenticeship programmes (AIAP)® respectively.
+	* Over the past three years, **more than 5,000 working professionals** have upskilled under AI Singapore’s[^3] AI for Industry (AI4I)® programme and **approximately 180 AI engineers** have been trained under the AI Apprenticeship programmes (AIAP)® respectively.
 
 
 #### Improve societal acceptance of AI through better AI governance
