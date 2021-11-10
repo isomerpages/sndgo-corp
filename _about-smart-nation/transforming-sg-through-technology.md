@@ -31,7 +31,11 @@ Learn more about the framework guiding our Smart Nation initiative: [Smart Natio
 
 ## Our Strategic National Projects
 
-We have identified key Strategic National Projects to drive and enable the adoption of digital and smart technologies throughout Singapore. Find out more about our Strategic National Projects [here](/initiatives/strategic-national-projects).
+We have identified key Strategic National Projects to drive and enable the adoption of digital and smart technologies throughout Singapore. 
+
+![Alt text for image on Isomer site](/images/abt-smart-nation/Strategic_National_Projects.jpg)
+
+Find out more about our Strategic National Projects [here](/initiatives/strategic-national-projects).
 
 
 
