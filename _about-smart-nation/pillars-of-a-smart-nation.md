@@ -19,6 +19,7 @@ permalink: /about-smart-nation/pillars-of-smart-nation
 	<div class="col"> 
 <a href="/about-smart-nation/pillars-of-smart-nation#digital-government"><img src="/images/abt-smart-nation/Digital_Government_Button.jpg"></a><br>
 <br></div>
+</div>
 
 Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a Smart Nation, harnessing technology to transform how its people and businesses live, work and play.  
   
