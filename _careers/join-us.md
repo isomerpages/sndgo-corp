@@ -16,4 +16,6 @@ Be part of the Smart Nation and Digital Government Office and help shape the way
 
 From defining our national artificial intelligence strategy to crafting policies that are inclusive for all our people, there are exciting positions on offer. 
 
-**Are you up for the challenge? Check out the available positions we have on <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Smart%20Nation%20and%20Digital%20Government%20Office" target="_blank">Careers@Gov</a>**
+**Are you up for the challenge? Check out the available positions we have on <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Smart%20Nation%20and%20Digital%20Government%20Office" target="_blank">Careers@Gov</a>.**
+
+**For career opportunities in the Singapore Government’s Information and Communications Technology & Smart Systems (ICT&SS) sector, visit <a href="https://techcareers.smartnation.gov.sg/" target="_blank">techcareers.smartnation.gov.sg</a>.**

@@ -2,7 +2,9 @@
 title: Events
 permalink: /community/events
 ---
+# Events
 
+![Alt text for image on Isomer site](/images/community/Smart_Nation_Events.jpg)
 
 ### Smart Nation & U 2021 
 <br>
@@ -34,3 +36,9 @@ Find out more about the event [here](/media-hub/press-releases/skillsfuture-mont
 ![Alt text for image on Isomer site](/images/community/sn-skillsfuture-01.jpeg)
 
 ![Alt text for image on Isomer site](/images/community/sn-skillsfuture-02.jpeg)
+
+### #SmartNationTogether
+
+Visit the [#SmartNationTogether website](https://together.smartnation.gov.sg/ ) to check out tech-related talks and workshops for kids & young parents, working adults, and seniors.
+
+![Alt text for image on Isomer site](/images/community/SNT-webinars.jpg)
