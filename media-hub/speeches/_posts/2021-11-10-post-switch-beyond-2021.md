@@ -16,14 +16,14 @@ The theme of today’s conference is “Envisioning the Future”. There is a wi
 
 Today, I would like to focus on AI. Some of you may remember that in 2019, Singapore launched our National AI Strategy here at SWITCH. Fast forward two years, on Monday, Deputy Prime Minister Heng Swee Keat in his opening address gave an update on the progress of this Strategy. He announced the launch of two new National AI Programmes in the Government and Finance sectors, as well as our plans to set aside an additional $180 million for AI research and development. 
 
-In line with today’s conference theme, I would like to give an update on what we have done to prepare Singapore and Singaporeans for a future driven by AI. Specifically, I would like to touch on four points:<br>
+In line with today’s conference theme, I would like to give an update on what we have done to prepare Singapore and Singaporeans for a future driven by AI. Specifically, I would like to touch on four points:
 
-a.	Strengthening partnerships;<br>
-b.	Education and training to empower our people to seize opportunities;<br>
-c.	Data sharing; and lastly<br>
-d.	AI governance.
+* Strengthening partnerships;
+* Education and training to empower our people to seize opportunities;
+* Data sharing; and lastly
+* AI governance.
 
-#### Strengthening partnership
+### Strengthening partnership
 
 First, on strengthening partnerships. 
 
@@ -37,7 +37,7 @@ AI Singapore (AISG), our national AI R&D programme, is a key partner in this eff
 
 We have also set up many testbed sites and regulatory sandboxes and partnered with industry to test and refine new AI technologies in a safe environment. Examples include the Sustainable Tropical Data Centre Testbed to trial cooling technologies like digital twins and energy optimisation algorithms. Another example is the Centre for Healthcare Innovation Start-up Enterprise Link (CHISEL), to testbed innovative healthcare technologies like medical imaging and clinical risk scoring solutions. Yet another example is the Personal Data Protection Commission (PDPC)’s data regulatory sandbox, to help businesses explore and pilot innovative uses of data.  
 
-#### AI Education and Training
+### AI Education and Training
 
 AI education and training is another important area of focus.
 
@@ -45,7 +45,7 @@ To help Singaporeans take on good jobs in an AI-driven economy, we have and will
 
 In addition to professional training, we are helping Singaporeans acquire foundational AI and digital literacy skills. Anchoring this effort is the Ministry of Education’s National Digital Literacy Programme. Launched in March 2020, the programme helps students across our schools and Institutes of Higher Learning acquire digital skills. For example, all students in the 2021 intake[^1] of our autonomous universities, polytechnics and Institute of Technical Education (ITE) will acquire baseline digital competencies such as in data and computational thinking . Beyond schools, we are stepping up foundational AI and digital literacy skills training for Singaporeans.  For instance, since 2018, AISG has equipped more than 55,000 individuals with basic AI awareness through their foundational AI skills programmes.
 
-#### Data
+### Data
 
 Let me now move on to data. 
 
@@ -55,7 +55,7 @@ To do this, we are investing in data-sharing frameworks and platforms to help st
 
 One such initiative is the recently launched Singapore Financial Data Exchange (SGFinDex). Under the initiative, users can leverage our national digital identity system, Singpass, to pool all their financial data from across banks, government agencies, and other financial institutions into a single platform of their choice. This has enabled banks to offer new AI-enabled services, such as personalised dashboards that leverage predictive analytics to help users manage their finances. Another example is the Singapore Trade Data Exchange (SGTraDex), a common data infrastructure to help stakeholders in our supply chain ecosystem share data securely. From the early results of our pilot, it is estimated that the platform can unlock more than $200 million of value annually for the supply chain ecosystem.
 
-#### AI Governance
+### AI Governance
 
 Finally, I would like to share about the work we have done in AI governance.
 
