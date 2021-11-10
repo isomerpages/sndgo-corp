@@ -6,7 +6,7 @@ permalink: /about-smart-nation/pillars-of-smart-nation
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/Smart_Nation_Pillars.jpg)
 
-1415
+1416
 
 <br>
 <div class="row">
