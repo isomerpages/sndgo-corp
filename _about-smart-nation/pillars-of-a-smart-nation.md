@@ -3,7 +3,16 @@ title: "Pillars of a Smart Nation "
 permalink: /about-smart-nation/pillars-of-smart-nation
 ---
 # Three Pillars of a Smart Nation
-<br>
+
+![Alt text for image on Isomer site](/images/abt-smart-nation/Smart_Nation_Pillars.jpg)
+
+
+
+| ![Alt text for image on Isomer site](/images/abt-smart-nation/Digital_Society_Button.jpg)| ![Alt text for image on Isomer site](/images/abt-smart-nation/Digital_Economy_Button.jpg) | ![Alt text for image on Isomer site](/images/abt-smart-nation/Digital_Government_Button.jpg) |
+
+| Text     | Text     | Text     |
+
+
 
 * [Digital Society](#digital-society)
 * [Digital Economy](#digital-economy)
