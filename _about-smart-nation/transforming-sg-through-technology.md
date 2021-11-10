@@ -31,7 +31,11 @@ Learn more about the framework guiding our Smart Nation initiative: [Smart Natio
 
 ## Our Strategic National Projects
 
-We have identified key Strategic National Projects to drive and enable the adoption of digital and smart technologies throughout Singapore. Find out more about our Strategic National Projects [here](/initiatives/strategic-national-projects).
+We have identified key Strategic National Projects to drive and enable the adoption of digital and smart technologies throughout Singapore. 
+
+![Alt text for image on Isomer site](/images/abt-smart-nation/Strategic_National_Projects.jpg)
+
+Find out more about our Strategic National Projects [here](/initiatives/strategic-national-projects).
 
 
 
@@ -51,7 +55,7 @@ Research and innovation initiatives such as <a href="https://www.nrf.gov.sg/abou
 
 ### Industry and Start-up Ecosystem
 
-Singapore’s start-up ecosystem is built on a strong network of venture capitalists, MNCs, start-up accelerators such as <a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/jtc-launchpad.aspx" target="_blank">JTC Launchpad</a> and the <a href="https://www.sginnovate.com/" target="_blank">SGInnovate</a> . Currently, we are developing the [Punggol Digital District (PDD)](/initiatives/strategic-national-projects/punggol-digital-district) as an attractive hotbed for the world’s best tech companies and talents to converge, innovate and create iconic solutions to boost our Digital Economy.
+Singapore’s start-up ecosystem is built on a strong network of venture capitalists, MNCs, start-up accelerators such as <a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/jtc-launchpad.aspx" target="_blank">JTC Launchpad</a> and the <a href="https://www.sginnovate.com/" target="_blank">SGInnovate</a> . Currently, we are developing the [Punggol Digital District (PDD)](/initiatives/strategic-national-projects/punggolst) as an attractive hotbed for the world’s best tech companies and talents to converge, innovate and create iconic solutions to boost our Digital Economy.
 
 ### Cybersecurity and Data Privacy
 

@@ -10,8 +10,6 @@ By 2030, we see Singapore as a leader in developing and deploying scalable, impa
 
 ## National Artificial Intelligence Strategy
 
-
-
 The National AI Strategy outlines our plans to deepen the use of AI to transform our economy:
 
  - Identify areas to focus attention and resources on at a national level
@@ -31,27 +29,36 @@ The National AI Strategy outlines our plans to deepen the use of AI to transform
 
 ## Building a Vibrant Ecosystem for Sustained AI Innovation
 
-In order to drive AI innovation and adoption across our economy, we must build a vibrant and sustainable ecosystem. To do so, we’ve identified five critical ecosystem enablers:
+In order to drive AI innovation and adoption, we must build a vibrant and sustainable ecosystem. To do so, we’ve identified five critical ecosystem enablers.
 
- 1. **Partnership between the research community, industry and Government** enables the rapid commercialisation of fundamental research and deployment of AI solutions.
- 2. **Talent and education** addresses the need to develop homegrown talent across the entire range of AI-related job roles.
+![Alt text for image on Isomer site](/images/initiatives/Ecosystem_Enablers_for_AI.jpg)
+
+ 1. **Triple helix partnerships** between the research community, industry and Government enables the rapid commercialisation of fundamental research and deployment of AI solutions.
+ 2. **Talent and education** addresses the need to develop homegrown talent across the entire range of AI-related job roles and helps Singaporeans prepare for the future AI economy.
  3. **Data architecture** enables quick and secure access to high-quality datasets across various sectors.
- 4. A **progressive and trusted environment** for test-bedding, developing and deploying AI solutions.
- 5. **International collaborations** open up opportunities to work with overseas partners to shape the international discourse on AI.
+ 4. A **progressive & trusted environment** is important for test-bedding, developing and deploying AI solutions.
+ 5. **International collaborations** to drive and support sustainable development of AI with multi-nationals researchers, businesses and governments. 
 
-## Five National AI projects that Address Key Challenges
+## Seven National AI Programmes that Address Key Challenges
 
-We have also identified five National AI Projects that would address key challenges and also deliver a strong social and economic impact for Singapore and Singaporeans:
+We have also identified seven National AI Projects that can deliver strong social and economic impact for Singapore and Singaporeans.
 
-**1. Transport and logistics:** Intelligent freight planning optimises the movement of freight for greater business productivity and traffic efficiency.
+![Alt text for image on Isomer site](/images/initiatives/National_AI_Programmes.jpg)
 
-**2. Smart cities and estates:** Municipal services are made more responsive, reliable and timely for citizens.
+**1. Healthcare:** Chronic disease prediction and management helps with faster detection and treatment of such diseases.
 
-**3. Healthcare:** Chronic disease prediction and management helps with faster detection and care for such diseases.
+**2. Smart estates:** Municipal services are delivered in a more responsive, reliable and timely for citizens.
 
-**4. Education:** Personalised education through adaptive learning and assessment helps teachers better customise and improve their students learning experience.
+**3. Education:** Personalised education through adaptive learning and assessment helps teachers better customise and improve their students learning experience.
 
-**5. Safety and security:** Border clearance operations strengthen security while improving travellers’ experience.
+**4. Border security:** Border clearance operations strengthen security while improving travellers’ experience.
+
+**5. Logistics:** Intelligent freight planning optimises the movement of freight for greater business productivity and traffic efficiency.
+
+**6. Finance:** Growing Singapore into a global hub for financial AI solutions. 
+
+**7. Government:** Leveraging AI to transform government services to deliver  high-impact outcomes for citizens and businesses.
+
 
 ## Working Together
 
@@ -59,11 +66,11 @@ The success of our National AI Strategy depends on Singaporeans, businesses, res
 
 You can play a part in our future success by contributing through one of these four ways:
 
-### Submit ideas and solutions for National AI Projects
+#### 1. Submit ideas and solutions for National AI Projects
 
 If you have any ideas, solutions or even proposals for new National AI projects, send them our way via [this form](https://form.gov.sg/#!/5dbbe22a895bd6001283542e).
 
-### Transform your business with AI
+#### 2. Transform your business with AI
 
 If your business is already using AI, you can take part in data sharing initiatives to promote the greater use of the tech and contribute to a trusted environment by adopting AI governance initiatives.
 
@@ -77,7 +84,7 @@ You can also take advantage of the following resources to kickstart or advance y
 - [Trusted Data Sharing Framework](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2019/Enabling-Data-Driven-Innovation-Through-Trusted-Data-Sharing-In-A-Digital-Economy) guides companies in establishing data sharing partnerships and practices.
 - [Model AI Governance Framework](https://www.imda.gov.sg/AI) provides private sector organisations with a detailed and readily-implementable guide to address critical ethical and governance issues when using AI.
 
-### Participate in Singapore’s AI ecosystem
+#### 3. Participate in Singapore’s AI ecosystem
 As we transform our key sectors using AI, there will be many opportunities for businesses to research, develop and deploy such technologies in Singapore and the region.
 
 As a local or international investor, you can establish an AI team in Singapore and leverage our research ecosystem to enhance and validate new AI methodologies.
@@ -88,7 +95,7 @@ The Government supports your participation in our AI ecosystem with the followin
 - [Accelerated Initiative for AI](https://www.ipos.gov.sg/protect-ip/apply-for-a-patent/accelerated-programmes) helps shorten the patent grant process for businesses to as soon as six months.
 - [SGInnovate](https://www.sginnovate.com/) is one of the fastest-growing communities focused on fostering deep tech in Singapore. It organises talent development programmes, knowledge-sharing sessions and Open Innovation activities, which bring innovators and organisations to the same table as part of its Deep Tech for Good initiative.
 
-### Learn about AI
+#### 4. Learn about AI
 
 It’s crucial for every Singaporean to upgrade and improve our skills so that we can keep up with the advances of AI and be ready to take on the exciting jobs that are created.
 
