@@ -6,12 +6,9 @@ permalink: /about-smart-nation/pillars-of-smart-nation
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/Smart_Nation_Pillars.jpg)
 
-1525
-
-
 | |  |  |
 | - | - | - |
-| <a href="/about-smart-nation/pillars-of-smart-nation#digital-society"><img src="/images/abt-smart-nation/Digital_Society_Button.jpg"> | <a href="/about-smart-nation/pillars-of-smart-nation#digital-society"><img src="/images/abt-smart-nation/Digital_Society_Button.jpg"> |<a href="/about-smart-nation/pillars-of-smart-nation#digital-government"><img src="/images/abt-smart-nation/Digital_Government_Button.jpg"></a> |
+| <a href="/about-smart-nation/pillars-of-smart-nation#digital-society"><img src="/images/abt-smart-nation/Digital_Society_Button.jpg"> | <a href="/about-smart-nation/pillars-of-smart-nation#digital-economy"><img src="/images/abt-smart-nation/Digital_Economy_Button.jpg"> |<a href="/about-smart-nation/pillars-of-smart-nation#digital-government"><img src="/images/abt-smart-nation/Digital_Government_Button.jpg"></a> |
 |  |  |  |
 
 	
