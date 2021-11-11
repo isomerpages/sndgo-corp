@@ -87,3 +87,7 @@ I hope that Accenture Singapore’s Future of Cities Innovation Hub will serve a
 
 Thank you very much.
 
+**Dr Janil Puthucheary**<br>
+Senior Minister of State, <br>
+Ministry of Communications and Information & Ministry of Health<br>
+Minister-in-Charge of GovTech
