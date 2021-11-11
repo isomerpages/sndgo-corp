@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/hero-homepage-banner-transforming-sg.jpg
+      background: /images/Homepage_Transforming_SG_through_technology.jpg
       key_highlights:
         - title: Strategic National Projects
           description: Discover the building blocks for our Smart Nation
