@@ -20,4 +20,4 @@ The truck platooning trials will take place in two phases over a three-year peri
   
 A 10-km long test route along West Coast Highway has been designated for the phase 2 trials. The trials will initially involve inter-terminal haulage between Brani Terminal and Pasir Panjang Terminals, and may eventually be scaled up for haulage within the port area, as well as between Pasir Panjang Terminals and Tuas Port.
 
-[Press release issued by Ministry of Transport](https://www.mot.gov.sg/news-centre/news/Detail/Singapore%20to%20start%20truck%20platooning%20trials/)
+**Press release issued by Ministry of Transport**
