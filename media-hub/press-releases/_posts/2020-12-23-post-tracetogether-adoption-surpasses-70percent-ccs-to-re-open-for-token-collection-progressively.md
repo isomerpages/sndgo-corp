@@ -5,7 +5,6 @@ date: 2020-12-23
 permalink: /media-hub/press-releases/tracetogether-adoption-surpasses-70
 layout: post
 ---
-
 ## TraceTogether Adoption Surpasses 70% -  CCs To Re Open For Token Collection Progressively
 
 **23 Dec 2020**
@@ -18,7 +17,7 @@ TT Token collection at Community Centres/Clubs (CCs) was rolled out progressivel
 
 Since the distribution exercise began, we’ve observed a much higher-than-expected demand for Tokens, with collection at some CCs exceeding 50% of the constituency population. We understand that there are still many Singaporeans who want to collect a TT Token, and we will continue to build up stock to ensure that everyone who wants a Token will be able to get one. By end February 2021, we expect to have produced 5 million Tokens.
 
-4 As stock becomes available, we will progressively re-open the distribution points in CCs that are currently closed, beginning from January 2021. The public will be informed of the opening dates at the CCs at least 3 days in advance. Residents can check the TokenGoWhere website (<a href="www.Token.gowhere.gov.sg" target="_blank">www.Token.gowhere.gov.sg</a>) or the community notice boards for the latest updates before heading down to the collection points.
+4 As stock becomes available, we will progressively re-open the distribution points in CCs that are currently closed, beginning from January 2021. The public will be informed of the opening dates at the CCs at least 3 days in advance. Residents can check the TokenGoWhere website www.tokengowhere.gov.sg or the community notice boards for the latest updates before heading down to the collection points.
 
 ### TraceTogether-only SafeEntry will be implemented after everyone has had a chance to collect their Token
 
