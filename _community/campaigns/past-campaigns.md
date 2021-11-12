@@ -87,5 +87,5 @@ Ben may never see Rachel again. Will he go after her?
 * Parking.sg - Download from the <a href="https://apps.apple.com/vn/app/parking-sg/id1286602494" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en" target="_blank">Google Play Store</a>
 * [Corppass](/initiatives/business/corppass)
 * [Start Digital, Startup SG Tech](/resources/business)
-* [Punggol Digital District](/initiatives/strategic-national-projects/punggol-digital-district)
+* [Punggol Digital District](/initiatives/strategic-national-projects/punggolst)
 * [PA Senior Academy for Smart Nation, Silver Infocomm Initiative](/community/opportunities)
