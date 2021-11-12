@@ -83,7 +83,7 @@ With the Start Digital Pack, you can gain an advantage to better capture busines
 
 Start Digital, start Right.
 
-## <a href="http://www.startupsg.net/startupsg-tech">Startup SG Tech</a>
+## <a href="https://www.startupsg.gov.sg/">Startup SG Tech</a>
 
 Start-ups with proprietary technology solutions or are seeking support for Proof-of-Concept (POC) and Proof-of-Value (POV), can approach Startup SG Tech to seek early-stage funding for commercialisation of proprietary tech ideas! 
 
