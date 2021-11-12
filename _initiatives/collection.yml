@@ -12,7 +12,7 @@ collections:
       - strategic-national-projects/punggol-smart-town.md
       - strategic-national-projects/smart-nation-sensor-platform.md
       - strategic-national-projects/smart-urban-mobility.md
-      - national-ai-strategy.md
+      - National AI Strategy.md
       - business/.keep
       - business/overview.md
       - business/corppass.md
@@ -43,6 +43,7 @@ collections:
       - urban-living/overview.md
       - urban-living/automated-meter-reading.md
       - urban-living/dengue-hotspots-survey-drones.md
+      - urban-living/Elderly Monitoring System.md
       - urban-living/myenv-app.md
       - urban-living/oneservice-app.md
       - urban-living/oneservice-chatbot.md

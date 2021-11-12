@@ -24,4 +24,4 @@ The Total Defence Day Commemoration Event, organised annually by MINDEF, include
 MINISTRY OF COMMUNICATIONS AND INFORMATION  
 MINISTRY OF DEFENCE
 
-[Press release issued by Ministry of Communications and Information](https://www.mci.gov.sg/cos2017/mcicorphome/pressroom/news-and-stories/pressroom/2019/2/total-defence-strengthened-with-addition-of-digital-defence-as-the-sixth-pillar?pagesize=6&type=Events%2CForum+Replies%2CNews%2CParliament+QAs%2CPress+Releases%2CSocial+Media%2CSpeeches%2CStories&category=Cyber+Security%2CDesign%2CGovernment+Technology%2CInfocomm+Media%2CLibraries%2CPersonal+Data%2CPublic+Comms&page=45_6)
+Press release issued by Ministry of Communications and Information

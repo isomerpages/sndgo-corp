@@ -41,7 +41,7 @@ Individuals can sign up for tech and digital webinars offered by training provid
 
 The 19 webinars curated for this event offer tech skills upgrading courses for those who want a more general introduction to tech topics, as well as those looking to improve their skills in a particular area of expertise. Topics range from the use of augmented reality for productive marketing campaigns, to the ethics of artificial intelligence and its governance; and search engine optimisation (SEO) to the basics of programming using Python programming language. Visitors can sign up for these webinars in the Act Zone, or at  <a href="http://go.gov.sg/SFM21-SN" target="_blank">Go.gov.sg/SFM21-SN</a>. Please refer to  [Annex A (101kb)](/files/press-releases/2021/SkillsFuture-X-Smart%20Nation-2021-Annex-A.pdf) for the list of webinars provided.
 
-More information on SFM X SN 2021 and a full listing of all the activities are available on the MySkillsFuture app,  <a href="http://myskillsfuture.gov.sg/skillsfuturemonth" target="_blank">myskillsfuture.gov.sg/skillsfuturemonth</a>  and on  <a href="http://go.gov.sg/SFM21" target="_blank">Go.gov.sg/SFM21</a>.  
+More information on SFM X SN 2021 and a full listing of all the activities are available on the MySkillsFuture app,  <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-month-2021--explore-your-interest-through-sector-ev.html" target="_blank">MySkillsFuture website</a>  and on  <a href="http://go.gov.sg/SFM21" target="_blank">Go.gov.sg/SFM21</a>.  
 
 SFM X SN 2021 is co-organised by the Smart Nation and Digital Government Office (SNDGO) and SkillsFuture Singapore (SSG) and is part of the SkillsFuture Month.
 

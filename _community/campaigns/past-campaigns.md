@@ -24,7 +24,7 @@ Ahma shows up at Benjamin's meeting with a cute colleague. What will Benjamin do
 **Smart Nation initiatives featured:**
 - [HDB Smart Towns](/initiatives/urban-living/smart-towns) 
 - [HDB Resale Portal](/initiatives/digital-government-services/hdb-resale-portal)
-- [PUB Automated Meter Reading (AMR) Trials](/initiatives/urban-living/amr-trial)
+- [PUB Automated Meter Reading (AMR)](/initiatives/urban-living/amr)
 
 ### Episode 2
 
@@ -36,7 +36,7 @@ Ben is afraid to ask Rachel out. Ahma tries to help. Will he do it?
 
 * [Smart Health TeleRehab](/initiatives/health/telehealth)
 * [OneService App](/initiatives/urban-living/oneservice-app)
-* [Smart Elderly Alert System](/initiatives/urban-living/smart-elderly-alert-system)
+* [HDB Elderly Monitoring System](/initiatives/urban-living/ems)
 * [Personal Alert Button trial](/initiatives/strategic-national-projects/smart-nation-sensor-platform)
 * myResponder App - Download from the <a href=" https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp " target="_blank">Google Play Store</a>
 
@@ -63,7 +63,7 @@ Ahma goes missing! How will Ben and Rachel find her?
 * MyTransport.SG App - Download from the <a href="https://apps.apple.com/sg/app/mytransport-singapore/id1306661188" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg " target="_blank">Google Play Store</a>
 * [Open Data & Analytics for Urban Transportation](/initiatives/transport/open-data-analytics)
 * [On-Demand Shuttles](/initiatives/transport/on-demand-shuttle)
-* [Autonomous Vehicles](nitiatives/transport/autonomous-vehicles)
+* [Autonomous Vehicles](/initiatives/transport/autonomous-vehicles)
 * [National Steps Challenge](/initiatives/health/national-steps-challenge)
 * Healthy 365 App - Download from the <a href=" https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365 " target="_blank">Google Play Store</a>
 
@@ -87,5 +87,5 @@ Ben may never see Rachel again. Will he go after her?
 * Parking.sg - Download from the <a href="https://apps.apple.com/vn/app/parking-sg/id1286602494" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en" target="_blank">Google Play Store</a>
 * [Corppass](/initiatives/business/corppass)
 * [Start Digital, Startup SG Tech](/resources/business)
-* [Punggol Digital District](/initiatives/strategic-national-projects/punggol-digital-district)
+* [Punggol Digital District](/initiatives/strategic-national-projects/punggolst)
 * [PA Senior Academy for Smart Nation, Silver Infocomm Initiative](/community/opportunities)

@@ -2,10 +2,6 @@
 title: Overview
 permalink: /covid-19/covid-19-tech
 ---
-
-
-
-
 #  Singapore Harnesses Tech for COVID-19 Pandemic Measures
 
  ![Alt text for image on Isomer site](/images/covid-19/SafeEntryGatwayCheckOutBox.jpg)
@@ -32,6 +28,6 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
      <div class="header"><b>Flow of Verified Information</b></div><br>
   </div>
      <div class="col"> 
-      <a href="//combating-covid-19/economic-social-support">  <img src="/images/covid-19/Covid-Social-and-Economic-Support.jpg"></a><br>
+      <a href="/combating-covid-19/economic-social-support">  <img src="/images/covid-19/Covid-Social-and-Economic-Support.jpg"></a><br>
        <div class="header"><b>Economic and Social Support</b></div><br>
   </div>

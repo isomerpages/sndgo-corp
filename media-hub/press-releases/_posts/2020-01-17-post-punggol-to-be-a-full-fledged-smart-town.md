@@ -9,7 +9,7 @@ permalink: /media-hub/press-releases/punggol-to-be-a-full-fledged-smart-town
 
 Punggol will integrate residential districts, a business park, a university campus, community facilities, and a network of parks and waterbodies, transforming the way we live, work, learn, and play. Bringing together residents, businesses and students, Punggol is slated to become a thriving, tech-enabled, sustainable town showcasing our Smart Nation ambitions. Senior Minister and Coordinating Minister for National Security Mr Teo Chee Hean shared these plans at the groundbreaking ceremony of the Punggol Digital District (PDD), and the launch of the PDD exhibition.
 
-Punggol will provide opportunities for industry, the Singapore Institute of Technology (SIT) and public agencies to co-create, test and deploy innovative solutions in areas such as cybersecurity and smart facilities management. A multi-agency effort[[1]](file:///C:/Users/Goh%20Yu%20Chong/Downloads/Press%20release%20-%20Punggol%20town_Final_16%20Jan.docx#_ftn1)  will enable greater integration in the planning and running of infrastructure and services, and contribute to a vibrant and innovative ecosystem.
+Punggol will provide opportunities for industry, the Singapore Institute of Technology (SIT) and public agencies to co-create, test and deploy innovative solutions in areas such as cybersecurity and smart facilities management. A multi-agency effort will enable greater integration in the planning and running of infrastructure and services, and contribute to a vibrant and innovative ecosystem.
 
 Punggol has been designated as a Strategic National Project for Smart Nation. It will be key in realising Singapore’s Smart Nation vision, and will drive adoption of digital and smart urban solutions throughout Singapore. The trials conducted in Punggol will be scaled to guide the development of future new towns and districts such as Tengah and Jurong Lake District, as well as the redevelopment of existing towns across Singapore.
 
@@ -44,7 +44,7 @@ The PDD exhibition will be opened to the public on the following dates. Admissio
 
 Village Square, Level 1, Waterway Point, 83 Punggol Central, Singapore 828761
 17 to 19 January 2020, 10 am – 9 pm daily
-For more information on PDD, please visit [estates.jtc.gov.sg/pdd](http://estates.jtc.gov.sg/pdd)
+For more information on PDD, please visit https://estates.jtc.gov.sg/pdd.
 
 ---
 

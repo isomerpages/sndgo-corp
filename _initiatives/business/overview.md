@@ -34,7 +34,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 
 <div class="row">
 	<div class="col">
-<a href="/initiatives/business/fintech-initiatives"><img src="/images/initiatives/overview-pages/fintech-sandbox.png"></a><br>
+<a href="/initiatives/business/fintech"><img src="/images/initiatives/overview-pages/fintech-sandbox.png"></a><br>
     <div class="header"><b>FinTech Sandbox</b></div><br>
     <div class="para">A regulatory sandbox providing a secure space for companies to test out their FinTech-related innovations.
 </div>

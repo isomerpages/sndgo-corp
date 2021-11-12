@@ -42,11 +42,7 @@ The Smart Nation and Digital Government Group will be working with the public an
 
 To participate in TraceTogether, simply download the app from  [Google Play](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en)  or  [the App Store](https://apps.apple.com/us/app/tracetogether/id1498276074). For more information on TraceTogether, please refer to the fact sheet in the Annex, and visit  [www.tracetogether.gov.sg](http://www.tracetogether.gov.sg/).
 
-**QR CODE TO DOWNLOAD:**
 
-<div style="width:30%"> 
-<img src="/images/media-hub/press-release/2020/qr-code-tt-20-mar-2020.jpeg" alt="trace together qr code for app download" style="width:30%">
-</div>
  
 **Resources:**
 

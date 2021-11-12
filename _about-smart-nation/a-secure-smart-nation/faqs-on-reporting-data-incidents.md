@@ -3,11 +3,6 @@ title: FAQs on Reporting Data Incidents
 permalink: /about-smart-nation/a-secure-smart-nation/rdi-faqs
 third_nav_title: A Secure Smart Nation
 ---
-
-
-
-
-
 # Frequently Asked Questions
 
 Got a question or need more help on reporting a government data incident? Check out our FAQs below.
@@ -61,7 +56,7 @@ When making a report, please provide as many details as possible. For example, w
 
 There are three ways in which you can report a government data incident:
 
-- Complete the 'Government Data Incident Reporting Form' located on the [Smart Nation website](/report-data-incident/report-data-incident/) 
+- Complete the 'Government Data Incident Reporting Form' located on the [Smart Nation website](/about-smart-nation/secure-smart-nation/report-data-incident) 
 - Email [Report_Data_Incident@tech.gov.sg](mailto:Report_Data_Incident@tech.gov.sg) with details of the suspected data incident
 - Call the Government Data Security Contact Centre hotline at +65 63830117.
 

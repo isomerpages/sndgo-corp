@@ -35,7 +35,7 @@ Want to register your child’s birth, check on the weather, report municipal is
 	Declare and pay taxes on your overseas purchases before you even hit  the airport, or provide tip-offs on customs offences – all via this nifty app. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/customs-sg/id1062502468" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/dementia-friends/id1398198593" target="_blanket"><img alt="Apple App Store Link" src="/images/community/Apple-Store.png"></a>
           </div>
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=org.customs.gov.sg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/Google-Play.png"></a>
           </div>
