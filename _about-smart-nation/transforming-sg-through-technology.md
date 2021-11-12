@@ -63,7 +63,7 @@ Cybersecurity helps us safeguard our Smart Nation growth by keeping critical sys
 
 ### Computational Capabilities and Digital Inclusion
 
-Basic coding and computational thinking skills will help everyone benefit from our Smart Nation growth, regardless of age or digital literacy. We currently offer resources to assist both [individuals](/community/supporting-the-community) and [businesses](/about-smart-nation/business-resources) to re-skill, so that they can leverage the growing opportunities of our Digital Economy.
+Basic coding and computational thinking skills will help everyone benefit from our Smart Nation growth, regardless of age or digital literacy. We currently offer resources to assist both [individuals](community/opportunities) and [businesses](/resources/business) to re-skill, so that they can leverage the growing opportunities of our Digital Economy.
 
 Check out the resources available for [individuals](/community/opportunities) and [businesses.](/resources/business)
 
