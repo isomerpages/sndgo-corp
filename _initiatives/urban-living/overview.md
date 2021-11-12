@@ -94,18 +94,12 @@ The initiatives below outline how we aim to achieve this.
 <br>
 
 </div>
-	<div class="col"> 
-<a href="/initiatives/urban-living/urban-planning"><img src="/images/initiatives/overview-pages/planning-people-businesses.png"></a><br>
-     <div class="header"><b>Smart Urban Planning</b></div><br>
-    <div class="para">Tech helps urban planners better make use of our limited land to create sustainable, quality spaces for working and living in Singapore.
+	<div class="col">
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/urban-living/smart-towns"><img src="/images/initiatives/overview-pages/smart-towns.png"></a><br>
-    <div class="header"><b>Smart Towns</b></div><br>
-    <div class="para">We’re using technology to plan, develop and manage HDB towns to create more efficient, sustainable and safe living environments for our people.
 </div>
 <br></div></div>
 
