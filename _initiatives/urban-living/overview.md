@@ -47,22 +47,30 @@ The initiatives below outline how we aim to achieve this.
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/urban-living/myenv-app"><img src="/images/initiatives/overview-pages/myenv.jpeg"></a><br>
-	<div class="header"><b>myENV App</b></div><br>
-	<div class="para">A convenient tool to update the public on the latest environmental news, including PSI readings and dengue outbreak alerts.
+<a href="/initiatives/urban-living/ems"><img src="/images/initiatives/hdbsmartimage_thumbnail.jpeg"></a><br>
+	<div class="header"><b>Elderly Monitoring System</b></div><br>
+	<div class="para"> The system  learns the daily habits of seniors through the help of motion sensors and alerts you or other caregivers in times of need or when irregular patterns in behavior are detected
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice.jpeg"></a><br>
-    <div class="header"><b>OneService App</b></div><br>
-    <div class="para">A convenient, one-stop platform for the public to report issues they come across in their neighbourhoods.
+<a href="/initiatives/urban-living/myenv-app"><img src="/images/initiatives/overview-pages/myenv.jpeg"></a><br>
+	<div class="header"><b>myENV App</b></div><br>
+	<div class="para">A convenient tool to update the public on the latest environmental news, including PSI readings and dengue outbreak alerts.
 </div>
 <br></div></div>
 
 <div class="row">
 <div class="col"> 
+<a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice.jpeg"></a><br>
+    <div class="header"><b>OneService App</b></div><br>
+    <div class="para">A convenient, one-stop platform for the public to report issues they come across in their neighbourhoods.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
 <a href="/initiatives/urban-living/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice.jpeg"></a><br>
     <div class="header"><b>OneService Chatbot</b></div><br>
     <div class="para">The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
@@ -75,14 +83,6 @@ The initiatives below outline how we aim to achieve this.
      <div class="header"><b>Smart Urban Planning</b></div><br>
     <div class="para">Tech helps urban planners better make use of our limited land to create sustainable, quality spaces for working and living in Singapore.
 </div>
-<br>
-
-</div>
-	<div class="col"> 
-<a href="/initiatives/urban-living/smart-towns"><img src="/images/initiatives/overview-pages/smart-towns.png"></a><br>
-    <div class="header"><b>Smart Towns</b></div><br>
-    <div class="para">We’re using technology to plan, develop and manage HDB towns to create more efficient, sustainable and safe living environments for our people.
-</div>
 <br></div></div>
 
 <div class="row">
@@ -94,14 +94,14 @@ The initiatives below outline how we aim to achieve this.
 <br>
 
 </div>
-	<div class="col">
+<div class="col"> 
 </div>
 <br>
 
+<div class="col">
 </div>
-	<div class="col"> 
+<br>
 </div>
-<br></div></div>
 
 
 **Strategic National Project*
