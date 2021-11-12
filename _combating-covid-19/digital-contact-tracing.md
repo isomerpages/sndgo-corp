@@ -2,10 +2,6 @@
 title: Digital Contact Tracing
 permalink: /combating-covid-19/digital-contact-tracing
 ---
-
-
-
-
 ![Alt text for image on Isomer site](/images/covid-19/Covid-Contact-Tracing.jpg)
 
 Digital contact tracing solutions had to be swiftly conceptualised and implement as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
@@ -23,7 +19,7 @@ Displaying their TT Token for venue staff to scan the TT Token’s QR code;
 Tapping their TT App or TT Token at a SafeEntry Gateway device.
 With SafeEntry, we can log the individuals' entry and exit times to a location to have a complete picture of how far the virus can spread and allow the health authorities to understand the virus transmission better.
 
-For information on SafeEntry at public transport nodes, click [here](/combating-covid-19/safeentrytransportnodes).
+For information on SafeEntry at public transport nodes, click [here](/safeentrytransportnodes).
 
 # TraceTogether Programme
 
