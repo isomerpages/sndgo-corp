@@ -3,7 +3,6 @@ title: National AI Strategy
 permalink: /inititatives/artificial-intelligence
 description: ""
 ---
-
 # The Next Frontier of Singapore's Smart Nation Journey
 As a Smart Nation, we want to go beyond just adopting technology. Our aim is to fundamentally rethink business models, so that we can make impactful changes to reap productivity gains and create new growth areas.
 
