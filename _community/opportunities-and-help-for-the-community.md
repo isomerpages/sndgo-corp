@@ -60,9 +60,9 @@ Head over to [PA's website](https://www.pa.gov.sg/engage/connect-with-government
 
 ## Home Access
 
-Infocomm Media Development Authority (IMDA)'s [Home Access programme](https://www.imda.gov.sg/programme-listing/home-access) provides eligible households with two years of subsidised fibre broadband connectivity from as low as S$6 per month, with an option to bundle it with a tablet or smartphone.
+Infocomm Media Development Authority (IMDA)'s Home Access programme provides eligible households with two years of subsidised fibre broadband connectivity from as low as S$6 per month, with an option to bundle it with a tablet or smartphone.
 
-Head over to [IMDA's website](https://eservice.imda.gov.sg/das/homepage) for the full details and to apply for the programme.
+Head over to [IMDA's website](https://www.imda.gov.sg/programme-listing/home-access) for the full details and to apply for the programme.
 
 ## NEU PC Plus
 
