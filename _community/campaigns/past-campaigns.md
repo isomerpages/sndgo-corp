@@ -63,7 +63,7 @@ Ahma goes missing! How will Ben and Rachel find her?
 * MyTransport.SG App - Download from the <a href="https://apps.apple.com/sg/app/mytransport-singapore/id1306661188" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg " target="_blank">Google Play Store</a>
 * [Open Data & Analytics for Urban Transportation](/initiatives/transport/open-data-analytics)
 * [On-Demand Shuttles](/initiatives/transport/on-demand-shuttle)
-* [Autonomous Vehicles](nitiatives/transport/autonomous-vehicles)
+* [Autonomous Vehicles](/initiatives/transport/autonomous-vehicles)
 * [National Steps Challenge](/initiatives/health/national-steps-challenge)
 * Healthy 365 App - Download from the <a href=" https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365 " target="_blank">Google Play Store</a>
 
