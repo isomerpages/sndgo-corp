@@ -15,7 +15,7 @@ We will therefore temporarily suspend distribution at the 38 CCs where TT Token 
 
 The new mode of distribution will begin on 29 October, starting initially with Marsiling CC, and for residents in that constituency only. More constituency CCs will be progressively opened for the collection of Tokens from October to December. By the second half of December, all CCs will be opened for collection, including the initial 38 CCs. Residents in these 38 CCs who have not yet collected their Tokens during the first collection wave, will be able to do so at that time. 
 
-Residents can check the TokenGoWhere website (<a href="Token.gowhere.gov.sg" target="_blank">Token.gowhere.gov.sg</a>) to find their designated collection venue, as well as the full collection schedule. Please refer to [Annex A (pdf - 1.8mb)](/files/press-releases/2020/sndgg-tt-token-distribution-oct-2020-annex-a.pdf) for the full list of collection venues and distribution dates.
+Residents can check the TokenGoWhere website (www.tokengowhere.gov.sg) to find their designated collection venue, as well as the full collection schedule. Please refer to [Annex A (pdf - 1.8mb)](/files/press-releases/2020/sndgg-tt-token-distribution-oct-2020-annex-a.pdf) for the full list of collection venues and distribution dates.
 
 Members of the public may use either the TT App or the TT Token for TT-only-SE check-in. Both serve the same function of recording close contact data, supplemented by SE data for comprehensive digital contact tracing – critical for safe reopening as we move towards Phase 3. 
 
