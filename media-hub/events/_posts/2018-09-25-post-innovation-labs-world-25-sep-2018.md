@@ -3,6 +3,8 @@ title: Innovation Labs World (25 Sep 2018)
 date: 2018-09-25
 permalink: /media-hub/events/innovation-labs-world-2018
 ---
+![Alt text for image on Isomer site](/images/media-hub/events/till-2020/innovation-labs-world-2017.png)
+
 <table style="width:100%">
   <tr>
     <td style="width:20%">Event Date</td>	
