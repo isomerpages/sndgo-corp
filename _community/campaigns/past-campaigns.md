@@ -24,7 +24,7 @@ Ahma shows up at Benjamin's meeting with a cute colleague. What will Benjamin do
 **Smart Nation initiatives featured:**
 - [HDB Smart Towns](/initiatives/urban-living/smart-towns) 
 - [HDB Resale Portal](/initiatives/digital-government-services/hdb-resale-portal)
-- [PUB Automated Meter Reading (AMR) Trials](/initiatives/urban-living/amr-trial)
+- [PUB Automated Meter Reading (AMR) Trials](/initiatives/urban-living/amr)
 
 ### Episode 2
 
