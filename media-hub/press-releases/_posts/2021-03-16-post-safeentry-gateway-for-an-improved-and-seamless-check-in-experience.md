@@ -23,7 +23,7 @@ Existing modes of SE check-in will remain in place at venues required to deploy 
 
 From 19 April 2021, selected venues with high visitorship, such as malls, large standalone retail stores, cinemas, hospitals, polyclinics and MICE venues hosting events with more than 100 participants, etc., will be required to deploy SEGW (either the SEGW Box or app), in addition to pre-existing SafeEntry check-in methods.
 
-Business operators may visit the SafeEntry website (<a href="www.safeentry.gov.sg" target="_blank">www.safeentry.gov.sg</a>) to check if they are required to deploy SEGWs at their venues. These businesses may choose to use the SEGW function on the SafeEntry (Business) app or apply to receive the SEGW Box.
+Business operators may visit the SafeEntry website (www.safeentry.gov.sg) to check if they are required to deploy SEGWs at their venues. These businesses may choose to use the SEGW function on the SafeEntry (Business) app or apply to receive the SEGW Box.
 
 ### Importance of ensuring the Token is in working condition 
 
