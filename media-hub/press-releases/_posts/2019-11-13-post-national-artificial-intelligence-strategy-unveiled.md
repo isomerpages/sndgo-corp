@@ -54,7 +54,7 @@ Building an AI-enabled Singapore requires researchers, businesses and Government
 
 Factsheet: [Expert Views on National AI Strategy (pdf - 450kb)](/files/press-releases/2019/expert-views-on-national-ai-strategy.pdf)
 
-**For more information on the [National AI Strategy, please visit this page](/abt-smart-nation/artificial-intelligence).**
+**For more information on the National AI Strategy, please visit this page: https://www.smartnation.gov.sg/initiatives/artificial-intelligence.**
 
 ---
 
