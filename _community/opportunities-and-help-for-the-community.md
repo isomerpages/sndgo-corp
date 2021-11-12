@@ -12,7 +12,7 @@ SkillsFuture is a national movement to enable all Singaporeans to develop to the
 
 Skills mastery is more than just the right paper qualifications; it is a constant endeavour towards outstanding excellence through knowledge, application and experience.
 
-Head over to the SkillsFuture website to [check out the available programmes.](https://www.skillsfuture.gov.sg/)
+Head over to the [SkillsFuture website ](https://www.skillsfuture.gov.sg/) to check out the available programmes.
 
 ## TechSkills Accelerator (TeSA)
 
@@ -20,19 +20,19 @@ TeSA is focused on assisting existing and aspiring information and communication
 
 With this programme, the aim is to groom working professionals to move us closer to achieving Singapore's vision of building a digital economy. It aims to enhance training and placement opportunities for ICT jobs across the economy by facilitating individuals' reskilling or upskilling.
 
-[Check out the courses and certifications offered under TeSA!](https://www.skillsfuture.gov.sg/tesa)
+Head over to the [SkillsFuture website ](https://www.skillsfuture.gov.sg/tesa/) to check out the courses and certifications offered under TeSA!
 
 ## Tech Talent Assembly (TTAB)
 
 ICT professionals can join TTAB, which caters to this group of professional. TTAB provides a platform for lifelong employability, learning and sharing. TTAB's affiliation with NTUC allows ICT professionals access to more resources and social benefits.
 
-Develop skills and build up an Infocomm-related portfolio with [TTAB now.](https://www.ttab.org.sg/Pages/index.aspx)
+Develop skills and build up an Infocomm-related portfolio with [Tech Talent Assembly](https://www.ttab.org.sg/Pages/index.aspx) now.
 
 ## PIXEL
 
 PIXEL is a gathering space for entrepreneurs, freelancers and makers to acquire new skills, generate ideas, experiment, collaborate and build prototypes. It hosts mixers, workshops and masterclasses so that the community can come together to learn and network. It can also be used as an incubator or a co-working space.
 
-[Click here for more information and how to join this vibrant community.](https://www.imda.gov.sg/impixel#2)
+Head to [IMDA's website](https://www.imda.gov.sg/impixel#2) for more information and how to join this vibrant community.
 
 ## Seniors Go Digital
 
@@ -40,7 +40,7 @@ Are you a senior or know of someone who wants to pick up a new digital skill? Ch
 
 There are also weekly online interactive classes where seniors can learn alongside their peers. Alternatively, they can learn at their own pace with the self-learning tools offered to get a basic understanding of the digital world.
 
-[Sign up for learning sessions or explore the self-learning section here.](https://www.imda.gov.sg/en/seniorsgodigital/learn)
+Sign up for learning sessions or explore the self-learning section at [IMDA's website](https://www.imda.gov.sg/en/seniorsgodigital/learn).
 
 ## People's Association (PA) Senior Academy
 
@@ -48,7 +48,7 @@ PA Senior Academy's key mission is to encourage seniors aged 50 years and above 
 
 As part of the programme, there is a range of popular IT-related courses (conducted in English and Mandarin) to prepare seniors to go digital, and be able to access community activities digitally.  
   
-Head over to [PA's website for the details and list of participating Community Centres (CCs)](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy#seniors).
+Head over to [IMDA's website](https://www.imda.gov.sg/en/seniorsgodigital/Stories/PA-Senior-Academy) for the list of participating Community Centres (CCs).
 
 ## Tech Connect
 
@@ -56,16 +56,16 @@ Tech Connect is an initiative by the Ministry of Communications and Information,
 
 One-on-one tech assistance is available conveniently at selected Community Centres (CCs) to anyone who may need help with their digital devices and services.
 
-Head over to [PA's website for the list of CCs that are part of this initiative.](https://www.pa.gov.sg/engage/connect-with-government/tech-connect-brochures)
+Head over to [PA's website](https://www.pa.gov.sg/engage/connect-with-government/tech-connect-brochures) for the list of CCs that are part of this initiative.
 
 ## Home Access
 
 Infocomm Media Development Authority (IMDA)'s [Home Access programme](https://www.imda.gov.sg/programme-listing/home-access) provides eligible households with two years of subsidised fibre broadband connectivity from as low as S$6 per month, with an option to bundle it with a tablet or smartphone.
 
-Click here for the full details and to [apply for the programme.](https://eservice.imda.gov.sg/das/homepage)
+Head over to [IMDA's website](https://eservice.imda.gov.sg/das/homepage) for the full details and to apply for the programme.
 
 ## NEU PC Plus
 
 This programme is designed to make digitalisation more accessible to low-income households with school-going children or persons with disabilities. Under this scheme, eligible families will have the opportunity to own a new computer at an affordable price that comes bundled with a free broadband subscription.
 
-The details for application and the various criteria can be found on the [programme's website.](https://www.imda.gov.sg/neupc)
+The details for application and the various criteria can be found on the [IMDA's website.](https://www.imda.gov.sg/neupc)
