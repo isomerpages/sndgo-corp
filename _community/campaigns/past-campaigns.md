@@ -24,7 +24,7 @@ Ahma shows up at Benjamin's meeting with a cute colleague. What will Benjamin do
 **Smart Nation initiatives featured:**
 - [HDB Smart Towns](/initiatives/urban-living/smart-towns) 
 - [HDB Resale Portal](/initiatives/digital-government-services/hdb-resale-portal)
-- [PUB Automated Meter Reading (AMR) Trials](/initiatives/urban-living/amr)
+- [PUB Automated Meter Reading (AMR)](/initiatives/urban-living/amr)
 
 ### Episode 2
 
@@ -36,7 +36,7 @@ Ben is afraid to ask Rachel out. Ahma tries to help. Will he do it?
 
 * [Smart Health TeleRehab](/initiatives/health/telehealth)
 * [OneService App](/initiatives/urban-living/oneservice-app)
-* [Smart Elderly Alert System](/initiatives/urban-living/smart-elderly-alert-system)
+* [HDB Elderly Monitoring System](/initiatives/urban-living/ems)
 * [Personal Alert Button trial](/initiatives/strategic-national-projects/smart-nation-sensor-platform)
 * myResponder App - Download from the <a href=" https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp " target="_blank">Google Play Store</a>
 
