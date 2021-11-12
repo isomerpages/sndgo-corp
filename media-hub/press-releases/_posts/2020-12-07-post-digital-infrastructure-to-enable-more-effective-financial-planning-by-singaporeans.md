@@ -51,7 +51,7 @@ SNDGG is made up of the Smart Nation and Digital Government Office (SNDGO) and t
 
 **About The Association of Banks in Singapore**
 
-The Association of Banks in Singapore (ABS) plays an active role in promoting and representing the interests of the banking community in Singapore. In doing so, ABS works closely with the relevant government authorities towards the development of a sound financial system in Singapore. Since its establishment in 1973, ABS has promoted common understanding among its members and projected a unifying voice on banking issues. It has brought its members closer together through various guidelines and banking practices as well as the support of projects of mutual benefit to face the challenges of the financial and banking community in Singapore. Today, ABS has a membership of more than 150 local and foreign banks. More information on ABS is available on the website: <a href="www.abs.org.sg" target="_blank">www.abs.org.sg</a>
+The Association of Banks in Singapore (ABS) plays an active role in promoting and representing the interests of the banking community in Singapore. In doing so, ABS works closely with the relevant government authorities towards the development of a sound financial system in Singapore. Since its establishment in 1973, ABS has promoted common understanding among its members and projected a unifying voice on banking issues. It has brought its members closer together through various guidelines and banking practices as well as the support of projects of mutual benefit to face the challenges of the financial and banking community in Singapore. Today, ABS has a membership of more than 150 local and foreign banks. More information on ABS is available on the website: www.abs.org.sg.
 
 **About MyMoneySense**
 
