@@ -14,20 +14,18 @@ Data management in the public sector is governed by the  <a href="https://sso.ag
 
 Since 2001, the Government’s data security policies have been set out in the IM on ICT&SS Management. The IM on ICT&SS Management sets out how the Government manages and protects data (including personal data) in its possession or control. In 2018, the PSGA was enacted to further strengthen public sector data governance. The PSGA imposes criminal penalties on public officers who (a) knowingly or recklessly disclose data without authorisation; (b) misuse data that results in personal gain for the public officer or another person, or harm or loss to another person; and (c) knowingly or recklessly re-identify anonymised information without authorisation.
 
-In 2019, the  [Public Sector Data Security Review Committee (PSDSRC)](/abt-smart-nation/secure-smart-nation/pdp-initiatives) recommended additional technical and process measures to protect data and prevent data compromise. The recommended measures have since been incorporated into the IM on ICT&SS Management and sets out how data security is managed by agencies. The data security policies prescribe data security requirements, including technical and process controls, to safeguard data against security threats.
+In 2019, the  [Public Sector Data Security Review Committee (PSDSRC)](about-smart-nation/secure-smart-nation/pdp-initiatives) recommended additional technical and process measures to protect data and prevent data compromise. The recommended measures have since been incorporated into the IM on ICT&SS Management and sets out how data security is managed by agencies. The data security policies prescribe data security requirements, including technical and process controls, to safeguard data against security threats.
 
 As part of the PSDSRC recommendation to provide the public with more information about the Government’s approach to personal data protection, the Government started publishing its policies and standards on personal data protection on this microsite in 2020.
 
 **Find out more about the Government’s key personal data protection policies in the document below:**
 
-</div>
 <div style="width:40%"> 
  <a href="/files/publications/government-personal-data-protection-policies-jul21.pdf" target="_blank"> Government’s Key Personal Data Protection Policies (5.8mb):<img src="/images/abt-smart-nation/government-personal-data-protection-policies-apr2020.jpeg"></a>
 </div>
 
 **Find out more about the Government’s key data security policies in the document below:**
 
-</div>
 <div style="width:40%"> 
  <a href="/files/publications/government-data-security-policies.pdf" target="_blank"> Government’s Key Data Security Policies (606kb):<img src="/images/abt-smart-nation/government-data-security-policies.jpeg"></a>
 </div>
@@ -40,7 +38,7 @@ The Government recognises that Agencies work extensively with Third Parties to d
 
 With this in mind, the Government has introduced policies to guide Agencies in ensuring that Third Parties adequately safeguard data. These policies are organised based on the lifecycle of the relationship between the Agency and the Third Party, namely: Evaluation and Selection, Contracting and On-boarding, Service Management and Transition Out (as shown in Diagram below). When working with Third Parties, Agencies will define the data security requirements that each Third Party has to comply with based on the Government’s data security policies.
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:75%;height:75%;"><img src="/images/abt-smart-nation/pdp-third-party-framework.png"></a></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:75%;height:75%;"><img src="/images/abt-smart-nation/pdp-third-party-framework.png"></div></div>
 
 
 <hr>
@@ -58,7 +56,6 @@ A **Third Party** is defined as a party (other than a **data subject[^1]** or an
 
 **Find out more about the key policies that govern how agencies work with its third parties to safeguard data in the document below:**
 
-</div>
 <div style="width:40%"> 
  <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"> Key Policies of the Government's Third-Party Management Framework (1.2mb):<img src="/images/abt-smart-nation/key-policies-third-party-framework.jpeg"></a>
 </div>
