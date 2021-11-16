@@ -1,7 +1,13 @@
 ---
 title: "Pillars of a Smart Nation "
 permalink: /about-smart-nation/pillars-of-smart-nation
+description: Our vision for a digital-first Singapore is one where a Digital
+  Government, Digital Economy and Digital Society harness technology to effect
+  transformation in health, transport, urban living, government services and
+  businesses.
+image: /images/abt-smart-nation/Smart_Nation_Pillars.jpg
 ---
+
 # Three Pillars of a Smart Nation
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/Smart_Nation_Pillars.jpg)

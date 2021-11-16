@@ -2,10 +2,10 @@ collections:
   about-smart-nation:
     output: true
     order:
-      - transforming-sg-through-technology.md
-      - pillars-of-a-smart-nation.md
+      - Transforming SG Through Technology.md
+      - Pillars of a Smart Nation .md
       - a-secure-smart-nation/.keep
-      - a-secure-smart-nation/overview.md
+      - a-secure-smart-nation/Overview.md
       - a-secure-smart-nation/cybersecurity-in-the-public-sector.md
       - a-secure-smart-nation/governments-personal-data-protection-laws-and-policies.md
       - a-secure-smart-nation/governments-personal-data-protection-initiatives.md

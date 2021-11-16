@@ -21,7 +21,7 @@ sections:
           description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
   - infopic:
-      title: 94% of Government services are digital from end-to-end
+      title: 94% of Government services are digital from end to end
       description: Learn about our progress as a Digital Government
       button: Find out more
       url: https://smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation#digital-government
