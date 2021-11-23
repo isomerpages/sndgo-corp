@@ -54,3 +54,4 @@ plugins:
   - jekyll-remote-theme
 is_government: true
 shareicon: /images/SN_logo-shareicon.jpeg
+google_analytics: UA-77555444-1
