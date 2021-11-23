@@ -4,7 +4,7 @@ date: 2021-11-23
 permalink: /media-hub/speeches/2nd-abu-dhabi-smart-cities
 layout: post
 ---
-## Keynote by Minister Josephine Teo at 2nd Abu Dhabi Smart Cities Summit
+## Keynote Address by Minister Josephine Teo at 2nd Abu Dhabi Smart Cities Summit
 
 **23 Nov 2021**
 
@@ -108,4 +108,3 @@ I wish you all a fruitful time of discussions and networking, and a very success
 **Mrs Josephine Teo**<br>
 Minister for Communications and Information, <br>
 and Minister-in-charge of Smart Nation and Cybersecurity
-
