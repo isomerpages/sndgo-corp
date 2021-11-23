@@ -86,4 +86,4 @@ Thank you and I wish you all a great conference ahead.
 **Dr Janil Puthucheary**<br>
 Senior Minister of State, <br>
 Ministry of Communications and Information & Ministry of Health<br>
-Minister-in-Charge of GovTech Singapore
+Minister-in-charge of GovTech Singapore
