@@ -4,7 +4,6 @@ date: 2021-10-27
 permalink: /media-hub/speeches/asia-future-cities-2021
 layout: post
 ---
-
 ## Opening Remarks by SMS Janil Puthucheary at the “Technology for Infrastructure for Asia’s Future Cities” seminar at the AIIB’s Sixth Annual Meeting of the Board of Governors
 
 **27 Oct 2021**
@@ -28,4 +27,4 @@ I have shared Singapore’s approach towards the building of digital infrastruct
 **Dr Janil Puthucheary**<br>
 Senior Minister of State, <br>
 Ministry of Communications and Information & Ministry of Health<br>
-Minister-in-Charge of GovTech
+Minister-in-charge of GovTech Singapore

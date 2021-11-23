@@ -151,4 +151,4 @@ They will gather physically and virtually in forums like today’s to share view
 
 **Mrs Josephine Teo**<br>
 Minister for Communications and Information, <br>
-and Minister-in-Charge of Smart Nation and Cybersecurity
+and Minister-in-charge of Smart Nation and Cybersecurity

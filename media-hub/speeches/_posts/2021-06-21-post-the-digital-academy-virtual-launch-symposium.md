@@ -45,4 +45,4 @@ Finally, congratulations to GovTech and The Digital Academy team, the Academy’
 **Dr Janil Puthucheary**<br>
 Senior Minister of State, <br>
 Ministry of Communications and Information & Ministry of Health <br>
-Minister-in-Charge of GovTech
+Minister-in-charge of GovTech Singapore

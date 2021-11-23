@@ -80,4 +80,4 @@ Congratulations once again!
 
 **Mrs Josephine Teo**<br>
 Minister for Communications and Information, <br>
-and Minister-in-Charge of Smart Nation and Cybersecurity
+and Minister-in-charge of Smart Nation and Cybersecurity
