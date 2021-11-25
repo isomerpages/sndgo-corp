@@ -2,11 +2,11 @@ title: Smart Nation Singapore
 url: https://www.smartnation.gov.sg/
 favicon: /images/SNS-burst.ico
 colors:
-  primary-color: "#f11336"
+  primary-color: "#e70d2e"
   secondary-color: "#a6221c"
   media-colors:
     - title: media-color-one
-      color: "#c70000"
+      color: "#d01c18"
     - title: media-color-two
       color: "#da4751"
     - title: media-color-three
