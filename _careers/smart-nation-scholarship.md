@@ -25,7 +25,7 @@ To qualify, you must be:
 [^1]: Includes Singapore Permanent Residents who are taking up citizenship.
 [^2]: If you are currently not in an ICT-related course but interested to take up a double degree in ICT, you will also be considered. 
 
-![Smart Nation Scholarship pathway](/images/careers/SN-scholarship-careerpathway.jpeg)
+![Alt text for image on Isomer site](/images/careers/Smart_Nation_Scholarship_Pathways.jpg)
 
 ## What the Smart Nation Scholarship covers:
 -	Tuition and other compulsory fees
@@ -40,4 +40,6 @@ To qualify, you must be:
 
 The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="http://Go.gov.sg/smartnationscholarship" target="_blank">Go.gov.sg/smartnationscholarship</a> for the full details or email scholarship@smartnation.gov.sg.
 
-![Smart Nation Scholarship](/images/careers/smart-nation-scholarship-2021.jpg)
+![Smart Nation Scholarship](/images/careers/smart-nation-scholarship-2021.jpg) <br>
+
+***
