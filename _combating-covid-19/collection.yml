@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - digital-contact-tracing.md
+      - Digital Contact Tracing.md
       - community-preparedness.md
       - flow-of-verified-information.md
       - economic-and-social-support.md
