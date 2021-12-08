@@ -13,12 +13,12 @@ collections:
       - strategic-national-projects/smart-nation-sensor-platform.md
       - strategic-national-projects/smart-urban-mobility.md
       - National AI Strategy.md
-      - business/.keep
-      - business/Overview.md
-      - business/corppass.md
-      - business/data-innovation-programme-office.md
-      - business/fintech-sandbox.md
-      - business/networked-trade-platform.md
+      - Business/.keep
+      - Business/Overview.md
+      - Business/corppass.md
+      - Business/data-innovation-programme-office.md
+      - Business/fintech-sandbox.md
+      - Business/networked-trade-platform.md
       - digital-government-services/.keep
       - digital-government-services/Overview.md
       - digital-government-services/centex.md
