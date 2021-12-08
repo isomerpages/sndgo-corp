@@ -4,13 +4,14 @@ collections:
     order:
       - Transforming SG Through Technology.md
       - Pillars of a Smart Nation .md
-      - a-secure-smart-nation/.keep
-      - a-secure-smart-nation/Overview.md
-      - a-secure-smart-nation/cybersecurity-in-the-public-sector.md
-      - a-secure-smart-nation/governments-personal-data-protection-laws-and-policies.md
-      - a-secure-smart-nation/governments-personal-data-protection-initiatives.md
-      - a-secure-smart-nation/report-data-incident.md
-      - a-secure-smart-nation/FAQs on Reporting Data Incidents.md
+      - A Secure Smart Nation/.keep
+      - A Secure Smart Nation/Overview.md
+      - A Secure Smart Nation/cybersecurity-in-the-public-sector.md
+      - A Secure Smart
+        Nation/governments-personal-data-protection-laws-and-policies.md
+      - A Secure Smart Nation/governments-personal-data-protection-initiatives.md
+      - A Secure Smart Nation/report-data-incident.md
+      - A Secure Smart Nation/FAQs on Reporting Data Incidents.md
       - our-smart-nation-journey/.keep
       - our-smart-nation-journey/milestones.md
       - our-smart-nation-journey/achievements.md
