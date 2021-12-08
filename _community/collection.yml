@@ -2,9 +2,9 @@ collections:
   community:
     output: true
     order:
-      - smart-nation-ambassadors/.keep
-      - smart-nation-ambassadors/Our Smart Nation Ambassadors.md
-      - smart-nation-ambassadors/FAQs on Smart Nation Ambassadors.md
+      - Smart Nation Ambassadors/.keep
+      - Smart Nation Ambassadors/Our Smart Nation Ambassadors.md
+      - Smart Nation Ambassadors/FAQs on Smart Nation Ambassadors.md
       - showcases/.keep
       - showcases/Overview.md
       - showcases/CityScape Gallery.md
