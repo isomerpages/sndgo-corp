@@ -40,7 +40,7 @@ collections:
       - transport/on-demand-shuttle.md
       - transport/open-data-analytics-for-urban-transportation.md
       - urban-living/.keep
-      - urban-living/overview.md
+      - urban-living/Overview.md
       - urban-living/automated-meter-reading.md
       - urban-living/dengue-hotspots-survey-drones.md
       - urban-living/Elderly Monitoring System.md
