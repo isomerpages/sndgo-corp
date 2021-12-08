@@ -39,13 +39,13 @@ collections:
       - transport/contactless-fare-payment-for-public-transport.md
       - transport/on-demand-shuttle.md
       - transport/open-data-analytics-for-urban-transportation.md
-      - urban-living/.keep
-      - urban-living/Overview.md
-      - urban-living/Automated Meter Reading.md
-      - urban-living/dengue-hotspots-survey-drones.md
-      - urban-living/Elderly Monitoring System.md
-      - urban-living/myENV App.md
-      - urban-living/OneService App.md
-      - urban-living/OneService Chatbot.md
-      - urban-living/Smart Urban Planning.md
-      - urban-living/Smart Towns.md
+      - Urban Living/.keep
+      - Urban Living/Overview.md
+      - Urban Living/Automated Meter Reading.md
+      - Urban Living/dengue-hotspots-survey-drones.md
+      - Urban Living/Elderly Monitoring System.md
+      - Urban Living/myENV App.md
+      - Urban Living/OneService App.md
+      - Urban Living/OneService Chatbot.md
+      - Urban Living/Smart Urban Planning.md
+      - Urban Living/Smart Towns.md
