@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - business-resources.md
+      - Business Resources.md
       - open-data-resources.md
