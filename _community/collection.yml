@@ -4,7 +4,7 @@ collections:
     order:
       - smart-nation-ambassadors/.keep
       - smart-nation-ambassadors/Our Smart Nation Ambassadors.md
-      - smart-nation-ambassadors/faqs-on-smart-nation-ambassadors.md
+      - smart-nation-ambassadors/FAQs on Smart Nation Ambassadors.md
       - showcases/.keep
       - showcases/overview.md
       - showcases/cityscape-gallery.md
