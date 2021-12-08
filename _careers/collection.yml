@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Join Us.md
-      - smart-nation-scholarship.md
+      - Smart Nation Scholarship.md
       - smart-nation-fellowship.md
       - quiz.md
