@@ -2,16 +2,16 @@ collections:
   initiatives:
     output: true
     order:
-      - strategic-national-projects/.keep
-      - strategic-national-projects/Overview.md
-      - strategic-national-projects/gobusiness.md
-      - strategic-national-projects/CODEX.md
-      - strategic-national-projects/e-payments.md
-      - strategic-national-projects/LifeSG.md
-      - strategic-national-projects/national-digital-identity.md
-      - strategic-national-projects/Punggol Smart Town.md
-      - strategic-national-projects/smart-nation-sensor-platform.md
-      - strategic-national-projects/smart-urban-mobility.md
+      - Strategic National Projects/.keep
+      - Strategic National Projects/Overview.md
+      - Strategic National Projects/gobusiness.md
+      - Strategic National Projects/CODEX.md
+      - Strategic National Projects/e-payments.md
+      - Strategic National Projects/LifeSG.md
+      - Strategic National Projects/national-digital-identity.md
+      - Strategic National Projects/Punggol Smart Town.md
+      - Strategic National Projects/smart-nation-sensor-platform.md
+      - Strategic National Projects/smart-urban-mobility.md
       - National AI Strategy.md
       - Business/.keep
       - Business/Overview.md
