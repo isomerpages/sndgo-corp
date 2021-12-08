@@ -19,13 +19,13 @@ collections:
       - Business/data-innovation-programme-office.md
       - Business/fintech-sandbox.md
       - Business/networked-trade-platform.md
-      - digital-government-services/.keep
-      - digital-government-services/Overview.md
-      - digital-government-services/centex.md
-      - digital-government-services/hdb-resale-portal.md
-      - digital-government-services/multilingual-digital-services.md
-      - digital-government-services/opencerts.md
-      - digital-government-services/parents-gateway.md
+      - Digital Government Services/.keep
+      - Digital Government Services/Overview.md
+      - Digital Government Services/centex.md
+      - Digital Government Services/hdb-resale-portal.md
+      - Digital Government Services/multilingual-digital-services.md
+      - Digital Government Services/opencerts.md
+      - Digital Government Services/parents-gateway.md
       - health/.keep
       - health/overview.md
       - health/assistive-technology-and-robotics-in-healthcare.md
