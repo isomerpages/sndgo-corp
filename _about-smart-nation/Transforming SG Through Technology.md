@@ -4,8 +4,9 @@ permalink: /about-smart-nation/transforming-singapore
 description: The Smart Nation initiative is our way forward. Technology will be
   so seamlessly integrated that it will transform the way we work, live and
   play.
-image: /images/hero-homepage-banner-transforming-sg.jpg
+image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
+
 
 
 # Transforming Singapore Through Technology

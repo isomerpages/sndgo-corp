@@ -2,50 +2,50 @@ collections:
   initiatives:
     output: true
     order:
-      - strategic-national-projects/.keep
-      - strategic-national-projects/Overview.md
-      - strategic-national-projects/gobusiness.md
-      - strategic-national-projects/codex.md
-      - strategic-national-projects/e-payments.md
-      - strategic-national-projects/lifesg.md
-      - strategic-national-projects/national-digital-identity.md
-      - strategic-national-projects/punggol-smart-town.md
-      - strategic-national-projects/smart-nation-sensor-platform.md
-      - strategic-national-projects/smart-urban-mobility.md
+      - Strategic National Projects/.keep
+      - Strategic National Projects/Overview.md
+      - Strategic National Projects/gobusiness.md
+      - Strategic National Projects/CODEX.md
+      - Strategic National Projects/e-payments.md
+      - Strategic National Projects/LifeSG.md
+      - Strategic National Projects/national-digital-identity.md
+      - Strategic National Projects/Punggol Smart Town.md
+      - Strategic National Projects/smart-nation-sensor-platform.md
+      - Strategic National Projects/smart-urban-mobility.md
       - National AI Strategy.md
-      - business/.keep
-      - business/overview.md
-      - business/corppass.md
-      - business/data-innovation-programme-office.md
-      - business/fintech-sandbox.md
-      - business/networked-trade-platform.md
-      - digital-government-services/.keep
-      - digital-government-services/overview.md
-      - digital-government-services/centex.md
-      - digital-government-services/hdb-resale-portal.md
-      - digital-government-services/multilingual-digital-services.md
-      - digital-government-services/opencerts.md
-      - digital-government-services/parents-gateway.md
-      - health/.keep
-      - health/overview.md
-      - health/assistive-technology-and-robotics-in-healthcare.md
-      - health/healthhub.md
-      - health/national-steps-challengetm-and-healthy-365-app.md
-      - health/telehealth.md
-      - transport/.keep
-      - transport/overview.md
-      - transport/autonomous-vehicles.md
-      - transport/cetran.md
-      - transport/contactless-fare-payment-for-public-transport.md
-      - transport/on-demand-shuttle.md
-      - transport/open-data-analytics-for-urban-transportation.md
-      - urban-living/.keep
-      - urban-living/overview.md
-      - urban-living/automated-meter-reading.md
-      - urban-living/dengue-hotspots-survey-drones.md
-      - urban-living/Elderly Monitoring System.md
-      - urban-living/myenv-app.md
-      - urban-living/oneservice-app.md
-      - urban-living/oneservice-chatbot.md
-      - urban-living/smart-urban-planning.md
-      - urban-living/smart-towns.md
+      - Business/.keep
+      - Business/Overview.md
+      - Business/Corppass.md
+      - Business/Data Innovation Programme Office.md
+      - Business/FinTech Sandbox.md
+      - Business/Networked Trade Platform.md
+      - Digital Government Services/.keep
+      - Digital Government Services/Overview.md
+      - Digital Government Services/CentEx.md
+      - Digital Government Services/hdb-resale-portal.md
+      - Digital Government Services/multilingual-digital-services.md
+      - Digital Government Services/OpenCerts.md
+      - Digital Government Services/parents-gateway.md
+      - Health/.keep
+      - Health/Overview.md
+      - Health/Assistive Technology and Robotics In Healthcare.md
+      - Health/HealthHub.md
+      - Health/National Steps Challenge™ & Healthy 365 App.md
+      - Health/Telehealth.md
+      - Transport/.keep
+      - Transport/Overview.md
+      - Transport/Autonomous Vehicles.md
+      - Transport/CETRAN.md
+      - Transport/Contactless Fare Payment For Public Transport.md
+      - Transport/on-demand-shuttle.md
+      - Transport/Open Data & Analytics For Urban Transportation.md
+      - Urban Living/.keep
+      - Urban Living/Overview.md
+      - Urban Living/Automated Meter Reading.md
+      - Urban Living/dengue-hotspots-survey-drones.md
+      - Urban Living/Elderly Monitoring System.md
+      - Urban Living/myENV App.md
+      - Urban Living/OneService App.md
+      - Urban Living/OneService Chatbot.md
+      - Urban Living/Smart Urban Planning.md
+      - Urban Living/Smart Towns.md

@@ -53,5 +53,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 is_government: true
-shareicon: /images/SN_logo-shareicon.jpeg
+shareicon: /images/og-image/Smart-Nation-OG-Image.jpg
 google_analytics: UA-77555444-1
