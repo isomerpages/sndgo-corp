@@ -1,11 +1,10 @@
 ---
 title: Page Redirect (Smart Nation Scholarship)
 permalink: /scholarship
-description: ""
 date: 2021-12-13
 layout: post
+description: ""
 ---
-
 <div style="width:100%;display:flex;justify-content:center;"><img src="/images/Page-Redirect.jpg"></div>
 
 <div style="width:100%;text-align:center; font-size:32px; font-weight: 700; color: #ed1a3b;">The URL has been updated.</div>
