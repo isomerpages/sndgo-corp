@@ -2,7 +2,6 @@
 layout: homepage
 title: Smart Nation Singapore
 description: Transforming Singapore Through Technology
-image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
