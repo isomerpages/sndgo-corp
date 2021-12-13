@@ -5,7 +5,7 @@ date: 2021-12-08
 layout: post
 description: ""
 ---
-##  Keynote Address by 2PS/SNDG'sat Visegrád Group (V4) Innovation & Technology Webinar
+##  Keynote Address by SNDGG's Second Permanent Secretary at Visegrád Group (V4) Innovation & Technology Webinar
 
 **8 Dec 2021** 
 
@@ -44,5 +44,5 @@ The second piece is open innovation. We don't have all the solutions and we have
 And finally, collaboration. To build a smart city we need to collaborate with the private sector, other people, and other countries. I know GreeHill, an innovative company, has been helping us and NParks to manage our urban forests, to help us map each tree’s location, and allow us to identify trees that need management and inspections. I think these are important areas for us. We don't have all the answers and we are always looking outwards for the best solutions out there. And I'm really glad to see the list of companies that many of our government agencies and companies are working together with the V4 countries. And so I hope that we can continue this collaboration and take this much further. Thanks very much.
 
 **Mr Chng Kai Fong**<br>
-2nd Permanent Secretary<br>
+Second Permanent Secretary<br>
 Smart Nation and Digital Government Group
