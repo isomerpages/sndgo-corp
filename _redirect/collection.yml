@@ -1,0 +1,4 @@
+collections:
+  redirect:
+    output: true
+    order: []
