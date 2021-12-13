@@ -5,7 +5,7 @@ date: 2021-12-08
 layout: post
 description: ""
 ---
-## Transcript for  2PS/SNDG's Keynote Address at Visegrád Group (V4) Innovation & Technology Webinar
+##  Keynote Address by 2PS/SNDG'sat Visegrád Group (V4) Innovation & Technology Webinar
 
 **8 Dec 2021** 
 
