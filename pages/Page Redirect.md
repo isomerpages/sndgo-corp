@@ -7,7 +7,7 @@ description: ""
 ---
 <div style="width:100%;display:flex;justify-content:center;"><img src="/images/Page-Redirect.jpg"></div>
 
-<div style="width:100%;display:flex;justify-content:center; font-size:32px; font-weight: 700; color: #ed1a3b;">URL has been updated.</div>
+<div style="width:100%;display:flex;justify-content:center; font-size:32px; font-weight: 700; color: #ed1a3b;">The URL has been updated.</div>
 
 <div style="width:100%;display:flex;justify-content:center; font-size:22px; font-weight: 500; ;">Click on the link below to be redirected to the new page.</div><br>
 
