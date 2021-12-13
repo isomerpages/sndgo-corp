@@ -1,5 +1,0 @@
-collections:
-  redirect:
-    output: true
-    order:
-      - Example Title.md
