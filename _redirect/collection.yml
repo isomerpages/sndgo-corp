@@ -1,4 +1,5 @@
 collections:
   redirect:
     output: true
-    order: []
+    order:
+      - Example Title.md
