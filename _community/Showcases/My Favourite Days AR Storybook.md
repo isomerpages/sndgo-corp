@@ -7,3 +7,5 @@ description: ""
 # AR Storybook (Coming Soon)
 
 'My Favourite Days' Augmented Reality (AR) storybook is a collaboration between TOUCH Community Services, MeshMinds, Meta and the Smart Nation Digital Government Office.
+
+[Click here for more info](https://www.touch.org.sg/about-touch/tips-and-resources/details/2021/12/13/my-favourite-days)
