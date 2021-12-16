@@ -38,5 +38,5 @@ The Smart Nation showcases seek to:
   </div>
      <div class="col"> 
       <a href="/community/showcases/myfavouritedays"><img src="/images/community/MyFavouriteDays.jpg"></a><br>
-       <div class="header"><b>'My Favourite Days' AR Storybook</b></div><br>
+       <div class="header"><b>My Favourite Days - An AR Storybook</b></div><br>
   </div>
