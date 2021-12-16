@@ -27,8 +27,8 @@ The Smart Nation showcases seek to:
     <div class="header"><b>Cityscape</b></div><br>
   </div>
   	<div class="col"> 
-      <a href="/community/showcases/playscape">  <img src="/images/community/coming-soon.jpg"></a><br>
-      <div class="header"><b>Playscape (Coming Soon)</b></div>  <br>
+      <a href="/community/showcases/playscape">  <img src="/images/community/Playscape_Rubik.jpg"></a><br>
+      <div class="header"><b>Playscape</b></div>  <br>
   </div>
  </div>
  <div class="row">  
@@ -38,5 +38,5 @@ The Smart Nation showcases seek to:
   </div>
      <div class="col"> 
       <a href="/community/showcases/myfavouritedays"><img src="/images/community/MyFavouriteDays.jpg"></a><br>
-       <div class="header"><b>'My Favourite Days' AR Storybook (Coming Soon)</b></div><br>
+       <div class="header"><b>'My Favourite Days' AR Storybook</b></div><br>
   </div>
