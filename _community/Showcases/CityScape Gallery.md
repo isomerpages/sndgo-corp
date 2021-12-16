@@ -7,10 +7,7 @@ description: Interact with a series of exhibits and displays to discover the
   way we live, work and play!
 image: /images/community/Cityscape-06.jpg
 ---
-
-
-
-# Smart Nation CityScape in URA’s Singapore City Gallery
+# CityScape Gallery
 <br>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/2QJqf0CZ4d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

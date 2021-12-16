@@ -1,9 +1,11 @@
 ---
 title: Smart Nation Builder
-permalink: /community/showcases/sn-builder
-third_nav_title: Showcases
+permalink: /community/Community-Projects/Smart-Nation-Builder
+third_nav_title: Community Projects
 description: ""
 ---
+
+
 
 
 # Smart Nation Builder (Coming Soon)
