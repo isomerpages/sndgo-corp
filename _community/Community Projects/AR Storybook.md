@@ -2,8 +2,13 @@
 title: AR Storybook
 permalink: /community/Community-Projects/My-Favourite-Days
 third_nav_title: Community Projects
-description: ""
+description: ‘My Favourite Days is a 35-page Augmented Reality (AR) storybook.
+  It tells the heart-warming story of a little girl and her grandpa on a jaunt
+  around Singapore, and the tech discoveries they make along the way.
+image: /images/community/MyFavouriteDays.jpg
 ---
+
+
 
 # My Favourite Days
 

@@ -2,8 +2,15 @@
 title: Smart Nation PlayScape
 permalink: /community/showcases/playscape
 third_nav_title: Showcases
-description: ""
+description: Smart Nation PlayScape is jointly developed by the Smart Nation and
+  Digital Government Group and Science Centre Singapore. Through gamified
+  interactives, complex technological concepts are broken down and brought to
+  life.
+image: /images/community/Playscape_Rubik.jpg
 ---
+
+
+
 # Smart Nation PlayScape
 
 Smart Nation PlayScape is jointly developed by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/). It features a wide variety of digital technologies powering Singapore’s Smart Nation journey. 
