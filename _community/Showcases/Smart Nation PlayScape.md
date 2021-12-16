@@ -4,26 +4,30 @@ permalink: /community/showcases/playscape
 third_nav_title: Showcases
 description: ""
 ---
+# Smart Nation PlayScape
+
+Smart Nation PlayScape is jointly developed by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/). It features a wide variety of digital technologies powering Singapore’s Smart Nation journey. 
+
+Through gamified interactives, complex technological concepts are broken down and brought to life. People of all ages can experience and see the benefits that digitalisation has to offer.  
+ 
+The exhibition consists of eight zones: Sensors, Geospatial, Biometrics, Blockchain, Artificial Intelligence (AI)/ Data Analytics, Robotics, User Experience (UX) & Services, and Augmented/Virtual Reality/Mixed Reality (AR/VR/MR). Each zone includes key game interactives for guests to explore and experience these technologies in a fun and engaging way. 
+
+### Check out these activities and more! 
+
+Compete with friends to see how fast the computer can recognise your doodles.
+
+Scramble a Rubik’s cube and watch how our robot solves it.
+
+Programme a robot to dance. 
 
 
+### Visit the exhibition 
 
+ Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore. 
 
+**Address **<br>
+15 Science Centre Road (Singapore 609081). 
 
+**Opening Hours **<br>
+Visit science.edu.sg/visit-us/opening-hours to view opening hours. 
 
-
-
-
-
-
-# PlayScape@Science Centre (Coming Soon)
-
-
-PlayScape@Science Centre is jointly developed by SNDGG and  <a href="https://www.science.edu.sg/" target="_blank">Singapore Science Centre</a>. Through interactive play and immersive activities, PlayScape will showcase how the technology behind Smart Nation initiatives work. It aims to:
-
-* demystify technology and encourage everyone to learn more about how things work
-* help people understand technology is transforming the way we work, live and play
-* inspire the young to be curious about future technology
-
-Visitors will get to learn about Artificial Intelligence, biometrics, geospatial technology, virtual reality, robotics, blockchain technology, sensors and more.
-
-![Alt text for image on Isomer site](/images/community/playscape-coming-soon.jpg)
