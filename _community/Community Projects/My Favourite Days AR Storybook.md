@@ -33,13 +33,11 @@ You can also download a softcopy of the book below.
 
 ### How to use the AR feature?
 
-<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/AT1Ww61KGb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 1. Lay the book on a horizontal surface.<br> 
 2. Scan the QR code on each AR page to open the effect for that page in Instagram or head to the 'Effects' tab at @touchcommunityservices on Instagram to select the relevant effect.<br>
 3. Using your smartphone in portrait mode, point the camera at the image on the page to activate the AR experience. Don’t forget to enable audio for the full experience!<br> 
 4. Once it starts, please turn your smartphone to landscape mode for best viewing.<br>
-5. AR effect not loading? Try quitting the application and try again. 
+5. AR effect not loading? Try quitting the application and try again.
 
- 
+<br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/AT1Ww61KGb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
