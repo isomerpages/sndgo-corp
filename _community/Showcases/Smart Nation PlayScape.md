@@ -16,18 +16,23 @@ The exhibition consists of eight zones: Sensors, Geospatial, Biometrics, Blockch
 
 Compete with friends to see how fast the computer can recognise your doodles.
 
+![Alt text for image on Isomer site](/images/community/Playscape_Drawing.jpg)
+
 Scramble a Rubik’s cube and watch how our robot solves it.
 
+![Alt text for image on Isomer site](/images/community/Playscape_Rubik.jpg)
+
 Programme a robot to dance. 
+
+![Alt text for image on Isomer site](/images/community/Playscape_Robot.jpg)
 
 
 ### Visit the exhibition 
 
  Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore. 
 
-**Address **<br>
+**Address** <br>
 15 Science Centre Road (Singapore 609081). 
 
-**Opening Hours **<br>
-Visit science.edu.sg/visit-us/opening-hours to view opening hours. 
-
+**Opening Hours**<br>
+Visit www.science.edu.sg/visit-us/opening-hours to view opening hours.
