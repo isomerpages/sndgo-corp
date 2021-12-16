@@ -2,7 +2,6 @@ collections:
   community:
     output: true
     order:
-      - Community Projects/.keep
       - Smart Nation Ambassadors/.keep
       - Smart Nation Ambassadors/Our Smart Nation Ambassadors.md
       - Smart Nation Ambassadors/FAQs on Smart Nation Ambassadors.md
@@ -12,6 +11,7 @@ collections:
       - Showcases/Smart Nation PlayScape.md
       - Showcases/Smart Nation Builder.md
       - Showcases/My Favourite Days AR Storybook.md
+      - Community Projects/.keep
       - Events.md
       - Campaigns/.keep
       - Campaigns/Past Campaigns.md
