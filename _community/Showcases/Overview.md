@@ -5,9 +5,6 @@ third_nav_title: Showcases
 description: Check out our Smart Nation Showcases!
 image: /images/community/Cityscape-06.jpg
 ---
-
-
-
 # Smart Nation Showcases
 ![Alt text for image on Isomer site](/images/community/Cityscape-06.jpg)
 
@@ -20,6 +17,8 @@ The Smart Nation showcases seek to:
 * Enable local and overseas visitors to experience technological innovations through visually-engaging and interactive exhibits, and generate interest in technology across all age groups
 
 * Encourage more citizens to join us in co-creating digital solutions for Singapore
+
+
 
 <br>
 <div class="row">  
@@ -38,6 +37,6 @@ The Smart Nation showcases seek to:
      <div class="header"><b>Smart Nation Builder (Coming Soon)</b></div><br>
   </div>
      <div class="col"> 
-      <a href="/community/showcases/myfavouritedays"><img src="/images/community/coming-soon.jpg"></a><br>
+      <a href="/community/showcases/myfavouritedays"><img src="/images/community/MyFavouriteDays.jpg"></a><br>
        <div class="header"><b>'My Favourite Days' AR Storybook (Coming Soon)</b></div><br>
   </div>
