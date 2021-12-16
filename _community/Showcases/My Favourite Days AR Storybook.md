@@ -22,7 +22,7 @@ My Favourite Days is available for loan at all [National Library Board](https:/
 
 You can also download a softcopy of the book below.
 
-<div style="width:50%"> 
+<div style="width:30%"> 
  <a href="/files/abt-smart-nation/SGD Framework For Action.pdf">My Favourite Days E-copy.pdf(3.6mb):<img src="/images/community/My-Favourite-Days-Cover.jpg"></a>
 </div>
 
