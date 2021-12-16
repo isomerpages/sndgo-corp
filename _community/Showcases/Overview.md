@@ -24,11 +24,11 @@ The Smart Nation showcases seek to:
 <div class="row">  
   <div class="col"> 
     <a href="/community/showcases/cityscape"><img src="/images/community/Cityscape-01.jpeg"></a><br>
-    <div class="header"><b>Cityscape</b></div><br>
+    <div class="header"><b>CityScape</b></div><br>
   </div>
   	<div class="col"> 
       <a href="/community/showcases/playscape">  <img src="/images/community/Playscape_Rubik.jpg"></a><br>
-      <div class="header"><b>Playscape</b></div>  <br>
+      <div class="header"><b>PlayScape</b></div>  <br>
   </div>
  </div>
  <div class="row">  
