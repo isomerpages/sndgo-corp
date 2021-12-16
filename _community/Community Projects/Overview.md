@@ -10,7 +10,7 @@ third_nav_title: Community Projects
 <br>
  <div class="row">  
      <div class="col"> 
-    <a href="/Community-Projects/My-Favourite-Days"><img src="/images/community/coming-soon.jpg"></a><br>
+    <a href="/Community-Projects/Smart-Nation-Builder"><img src="/images/community/coming-soon.jpg"></a><br>
      <div class="header"><b>Smart Nation Builder (Coming Soon)</b></div><br>
   </div>
      <div class="col"> 
