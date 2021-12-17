@@ -29,7 +29,7 @@ Ms Kay Poh Gek Vasey, Chief Connecting Officer at MeshMinds, said, “We are hon
 
 The public can visit the exhibition from 17 December 2021 to 16 January 2022 at the Central Public Library, or find out more about the book by spotting colourful floor stickers displayed at three regional libraries located at Jurong, Tampines, and Woodlands and at library@harbourfront.
 
-‘My Favourite Days’ is available for borrowing at all public libraries. Some 2,400 copies of the book will also be distributed to pre-schools and primary schools around Singapore. An additional 19,500 copies (sponsored by Meta) will be distributed to children from low- and middle-income families, through the National Library Board’s Early READ Starter Kit . 
+‘My Favourite Days’ is available for borrowing at all public libraries. Some 2,400 copies of the book will also be distributed to pre-schools and primary schools around Singapore. An additional 19,500 copies (sponsored by Meta) will be distributed to children from low- and middle-income families, through the National Library Board’s Early READ Starter Kit[^1]. 
 
 __________________
 
@@ -104,4 +104,4 @@ _______
 ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Dragon%20Playground%20AR%20Spread.png)
 _________
 
-1. The Early READ Starter Kits are distributed to selected preschool centres which includes low to middle-low income families and provide appropriate materials to encourage parents to read with their children. The variety of materials in the kit helps parents to guide their children through the five early literacy practices such as talking, singing, playing, reading and writing; practices that are important in inculcating early interest in reading. The items are also specially curated to allow repeated use over a long period of time.
+[^1]: The Early READ Starter Kits are distributed to selected preschool centres which includes low to middle-low income families and provide appropriate materials to encourage parents to read with their children. The variety of materials in the kit helps parents to guide their children through the five early literacy practices such as talking, singing, playing, reading and writing; practices that are important in inculcating early interest in reading. The items are also specially curated to allow repeated use over a long period of time.
