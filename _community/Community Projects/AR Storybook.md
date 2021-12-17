@@ -7,16 +7,13 @@ description: ‘My Favourite Days is a 35-page Augmented Reality (AR) storybook.
   around Singapore, and the tech discoveries they make along the way.
 image: /images/community/MyFavouriteDays.jpg
 ---
-
-
-
 # My Favourite Days
 
 <br>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/VaK-uBHM-0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-‘My Favourite Days is a 35-page Augmented Reality (AR) storybook put together by  [TOUCH Community Services](https://www.touch.org.sg/), [Meta](https://about.facebook.com/meta/), and [MeshMinds](https://www.meshminds.com/), together with Smart Nation and Digital Government Office (SNDGO). 
+‘My Favourite Days' is a 35-page Augmented Reality (AR) storybook put together by  [TOUCH Community Services](https://www.touch.org.sg/), [Meta](https://about.facebook.com/meta/), and [MeshMinds](https://www.meshminds.com/), together with Smart Nation and Digital Government Office (SNDGO). 
 
 It tells the heart-warming story of a little girl and her grandpa on a jaunt around Singapore, and the tech discoveries they make along the way. 
 
