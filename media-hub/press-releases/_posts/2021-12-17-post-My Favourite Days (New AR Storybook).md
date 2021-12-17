@@ -5,7 +5,6 @@ date: 2021-12-17
 layout: post
 description: ""
 ---
-
 ## 'My Favourite Days' - New Augmented Reality Storybook To Help Children Imagine A Tech-Enabled Future 
 
 **17 Dec 2021**
@@ -65,7 +64,7 @@ _______________________
 
 **About Touch Community Services**
 
-Since 1992, TOUCH Community Services has served people of all backgrounds to see sustainable change and transformation in their lives. It believes in the worth and potential of every child, youth at-risk, family in need, senior and person with special or healthcare needs to grow, participate and contribute in the community. The heartbeat of TOUCH is to **activate potential, build independence, connect people**, and **deliver impact** by developing sustainable solutions in society.
+Since 1992, [TOUCH Community Services](https://www.touch.org.sg/) has served people of all backgrounds to see sustainable change and transformation in their lives. It believes in the worth and potential of every child, youth at-risk, family in need, senior and person with special or healthcare needs to grow, participate and contribute in the community. The heartbeat of TOUCH is to **activate potential, build independence, connect people**, and **deliver impact** by developing sustainable solutions in society.
 
 TOUCH Child Care (TCC), a service of TOUCH, runs two child care centres which offer quality early childhood education in a safe, caring and inclusive environment. TCC reaches out to children aged two to six, including those with special needs, before they attend primary school. 
 
@@ -78,30 +77,30 @@ For more information, please visit [www.smartnation.gov.sg](https://www.smartnat
 
 **About Meta**
 
-Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world.
+[Meta](https://about.facebook.com/meta/) builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world.
 Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.
 
 **About Meshminds**
 
-MeshMinds is a creative technology studio officially partnered with the United Nations Environment Programme. Together, they combine art and technology with powerful partnerships to drive awareness, ignite conversations and inspire behaviour change for the sustainable development of people and our planet. Alongside commercial work, through its sister organisation, The MeshMinds Foundation educates, enables and transforms artists to become creative technologists and donates services to financially– challenged charities and good causes.
+[MeshMinds](https://www.meshminds.com/) is a creative technology studio officially partnered with the United Nations Environment Programme. Together, they combine art and technology with powerful partnerships to drive awareness, ignite conversations and inspire behaviour change for the sustainable development of people and our planet. Alongside commercial work, through its sister organisation, The MeshMinds Foundation educates, enables and transforms artists to become creative technologists and donates services to financially– challenged charities and good causes.
 
 _______
 
-## Annex A: AR Spreads in 'My Favourite Days'
+### Annex A: AR Spreads in 'My Favourite Days'
 
-### Classroom Spread
+#### Classroom Spread
 ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Classroom%20Spread.png)
 
-### Drones Spread
+#### Drones Spread
 ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Drones%20Spread.png)
 
-### Hawker Centre Spread
+#### Hawker Centre Spread
 ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Hawker%20Centre%20Spread.png)
 
-### Telemedicine AR Spread
+#### Telemedicine AR Spread
 ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Telemedicine%20AR%20Spread.png)
 
-### Dragon Playground AR Spread
+#### Dragon Playground AR Spread
 ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Dragon%20Playground%20AR%20Spread.png)
 _________
 
