@@ -29,7 +29,7 @@ Ms Kay Poh Gek Vasey, Chief Connecting Officer at MeshMinds, said, “We are hon
 
 The public can visit the exhibition from 17 December 2021 to 16 January 2022 at the Central Public Library, or find out more about the book by spotting colourful floor stickers displayed at three regional libraries located at Jurong, Tampines, and Woodlands and at library@harbourfront.
 
-‘My Favourite Days’ is available for borrowing at all public libraries. Some 2,400 copies of the book will also be distributed to pre-schools and primary schools around Singapore. An additional 19,500 copies (sponsored by Meta) will be distributed to children from low- and middle-income families, through the National Library Board’s Early READ Starter Kit[^1]. 
+‘My Favourite Days’ is available for borrowing at all public libraries. Some 2,400 copies of the book will also be distributed to pre-schools and primary schools around Singapore. An additional 19,500 copies (sponsored by Meta) will be distributed to children from low- and middle-income families, through the National Library Board’s Early READ Starter Kit[^1] . 
 
 __________________
 
@@ -68,12 +68,12 @@ Since 1992, TOUCH Community Services has served people of all backgrounds to see
 
 TOUCH Child Care (TCC), a service of TOUCH, runs two child care centres which offer quality early childhood education in a safe, caring and inclusive environment. TCC reaches out to children aged two to six, including those with special needs, before they attend primary school. 
 
-For more information on TOUCH, please visit www.touch.org.sg 
+For more information on TOUCH, please visit [www.touch.org.sg](https://www.touch.org.sg/) 
 
 **About Smart Nation and Digital Government Office**
 
 The Smart Nation and Digital Government Office (SNDGO), under the Prime Minister’s Office (PMO), plans and prioritises key Smart Nation projects, drives the digital transformation of government, builds long-term capabilities for the public sector, and promotes adoption and participation from the public  and industry, to take a collective approach in building a Smart Nation.
-For more information, please visit www.smartnation.gov.sg.
+For more information, please visit [www.smartnation.gov.sg](https://www.smartnation.gov.sg/).
 
 **About Meta**
 
