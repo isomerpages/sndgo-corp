@@ -86,10 +86,9 @@ MeshMinds is a creative technology studio officially partnered with the United N
 
 _______
 
-## Annex: AR Spreads In 'My Favourite Days'
+## Annex A: AR Spreads in 'My Favourite Days'
 
 ### Classroom Spread
-
 ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Classroom%20Spread.png)
 
 ### Drones Spread
@@ -97,3 +96,9 @@ _______
 
 ### Hawker Centre Spread
 ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Hawker%20Centre%20Spread.png)
+
+### Telemedicine AR Spread
+![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Telemedicine%20AR%20Spread.png)
+
+### Dragon Playground AR Spread
+![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Dragon%20Playground%20AR%20Spread.png)
