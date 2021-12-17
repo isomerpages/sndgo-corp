@@ -5,24 +5,22 @@ third_nav_title: Community Projects
 description: ‘My Favourite Days is a 35-page Augmented Reality (AR) storybook.
   It tells the heart-warming story of a little girl and her grandpa on a jaunt
   around Singapore, and the tech discoveries they make along the way.
-image: /images/community/MyFavouriteDays.jpg
+image: /images/community/AR-Storybook-03.jpeg
 ---
-
-
 
 # My Favourite Days
 
-<br>
+![Alt text for image on Isomer site](/images/community/AR-Storybook-02.jpeg)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/VaK-uBHM-0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-‘My Favourite Days is a 35-page Augmented Reality (AR) storybook put together by  [TOUCH Community Services](https://www.touch.org.sg/), [Meta](https://about.facebook.com/meta/), and [MeshMinds](https://www.meshminds.com/), together with Smart Nation and Digital Government Office (SNDGO). 
+‘My Favourite Days' is a 35-page Augmented Reality (AR) storybook put together by  [TOUCH Community Services](https://www.touch.org.sg/), [Meta](https://about.facebook.com/meta/), and [MeshMinds](https://www.meshminds.com/), together with Smart Nation and Digital Government Office (SNDGO). 
 
 It tells the heart-warming story of a little girl and her grandpa on a jaunt around Singapore, and the tech discoveries they make along the way. 
 
 Built on Meta’s Spark AR platform, children get to experience the story in a fun and immersive way. The AR effects were developed by Meshminds, a Singapore creative technology studio.  
 
 Young readers will get to stretch their imagination on the possibilities offered by technology, and marvel at how it changes everything from the way we conduct play, to how our food is served. 
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VaK-uBHM-0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Where to get the book?
