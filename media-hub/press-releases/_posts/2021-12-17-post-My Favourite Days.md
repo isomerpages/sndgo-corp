@@ -64,7 +64,7 @@ _______________________
 
 **About Touch Community Services**
 
-Since 1992, TOUCH Community Services has served people of all backgrounds to see sustainable change and transformation in their lives. It believes in the worth and potential of every child, youth at-risk, family in need, senior and person with special or healthcare needs to grow, participate and contribute in the community. The heartbeat of TOUCH is to activate potential, build independence, connect people, and deliver impact by developing sustainable solutions in society.
+Since 1992, TOUCH Community Services has served people of all backgrounds to see sustainable change and transformation in their lives. It believes in the worth and potential of every child, youth at-risk, family in need, senior and person with special or healthcare needs to grow, participate and contribute in the community. The heartbeat of TOUCH is to **activate potential, build independence, connect people**, and **deliver impact** by developing sustainable solutions in society.
 
 TOUCH Child Care (TCC), a service of TOUCH, runs two child care centres which offer quality early childhood education in a safe, caring and inclusive environment. TCC reaches out to children aged two to six, including those with special needs, before they attend primary school. 
 
@@ -102,3 +102,6 @@ _______
 
 ### Dragon Playground AR Spread
 ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Dragon%20Playground%20AR%20Spread.png)
+_________
+
+1. The Early READ Starter Kits are distributed to selected preschool centres which includes low to middle-low income families and provide appropriate materials to encourage parents to read with their children. The variety of materials in the kit helps parents to guide their children through the five early literacy practices such as talking, singing, playing, reading and writing; practices that are important in inculcating early interest in reading. The items are also specially curated to allow repeated use over a long period of time.
