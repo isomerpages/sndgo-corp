@@ -6,9 +6,6 @@ description: The Smart Nation initiative is our way forward. Technology will be
   play.
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
-
-
-
 # Transforming Singapore Through Technology
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/Singapore-Tech.jpg)
@@ -62,7 +59,7 @@ Research and innovation initiatives such as <a href="https://www.nrf.gov.sg/abou
 
 ### Industry and Start-up Ecosystem
 
-Singapore’s start-up ecosystem is built on a strong network of venture capitalists, MNCs, start-up accelerators such as <a href="https://www.jtc.gov.sg/industrial-land-and-space/Pages/jtc-launchpad.aspx" target="_blank">JTC Launchpad</a> and the <a href="https://www.sginnovate.com/" target="_blank">SGInnovate</a> . Currently, we are developing the [Punggol Digital District (PDD)](/initiatives/strategic-national-projects/punggolst) as an attractive hotbed for the world’s best tech companies and talents to converge, innovate and create iconic solutions to boost our Digital Economy.
+Singapore’s start-up ecosystem is built on a strong network of venture capitalists, MNCs, start-up accelerators such as <a href="https://www.jtc.gov.sg/" target="_blank">JTC Launchpad</a> and the <a href="https://www.sginnovate.com/" target="_blank">SGInnovate</a> . Currently, we are developing the [Punggol Digital District (PDD)](/initiatives/strategic-national-projects/punggolst) as an attractive hotbed for the world’s best tech companies and talents to converge, innovate and create iconic solutions to boost our Digital Economy.
 
 ### Cybersecurity and Data Privacy
 
