@@ -43,7 +43,7 @@ Data management by public sector agencies and third-parties working with public 
 ### Government’s Personal Data Protection Initiatives
 Recommendations and initiatives to strengthen the Government’s data security regime.
 
-<a href="/about-smart-nation/secure-smart-nation/pdp-initiatives"><img src="/images/abt-smart-nation/govt-pdp-initiativies.png"></a>
+<a href="/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives"><img src="/images/abt-smart-nation/govt-pdp-initiativies.png"></a>
 
 
 <br>
