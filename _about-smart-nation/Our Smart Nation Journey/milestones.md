@@ -137,7 +137,7 @@ The government identified key [Strategic National Projects](/initiatives/strateg
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
 ## 2019
-Deputy Prime Minister and Minister for Finance, Heng Swee Keat, announced that Singapore will embark on a plan to develop and use Artificial Intelligence (AI) to transform Singapore’s economy and improve the lives of citizens. This plan is outlined in the [National AI Strategy](/inititatives/artificial-intelligence) document that was unveiled at the SFF X SWITCH (Singapore FinTech Festival and Singapore Week of Innovation and TeCHnology) Conference.
+Deputy Prime Minister and Minister for Finance, Heng Swee Keat, announced that Singapore will embark on a plan to develop and use Artificial Intelligence (AI) to transform Singapore’s economy and improve the lives of citizens. This plan is outlined in the [National AI Strategy](/initiatives/artificial-intelligence) document that was unveiled at the SFF X SWITCH (Singapore FinTech Festival and Singapore Week of Innovation and TeCHnology) Conference.
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
