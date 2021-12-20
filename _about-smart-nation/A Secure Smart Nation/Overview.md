@@ -36,7 +36,7 @@ Three-pronged approach to secure our systems.
 ### Government's Personal Data Protection Laws and Policies
 Data management by public sector agencies and third-parties working with public agencies. 
 
-<a href="/about-smart-nation/secure-smart-nation/personal-data-protection"><img src="/images/abt-smart-nation/govt-personal-data-protection.png"></a>
+<a href="/about-smart-nation/secure-smart-nation/personal-data-protection-laws-and-policies"><img src="/images/abt-smart-nation/govt-personal-data-protection.png"></a>
 
 
 
