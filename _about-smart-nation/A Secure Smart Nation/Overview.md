@@ -7,9 +7,6 @@ description: "Cybersecurity and data security are key enablers of a Smart
   and the data that is entrusted to it by the public. "
 image: /images/og-image/Cybersecurity-OG-Image.jpg
 ---
-
-
-
 # A Secure Smart Nation
 ![Alt text for image on Isomer site](/images/abt-smart-nation/secure-smart-nation-banner.png)
 
@@ -32,7 +29,7 @@ Find out more about how the Government protects your data and safeguards its sys
 ### Cybersecurity in the Public Sector
 Three-pronged approach to secure our systems.
 
-<a href="/about-smart-nation/secure-smart-nation/cybersecurity"><img src="/images/abt-smart-nation/cybersecurity.png"></a>
+<a href="/about-smart-nation/secure-smart-nation/cybersecurity-public-sector"><img src="/images/abt-smart-nation/cybersecurity.png"></a>
 
 Three-pronged approach to secure our systems.
 
