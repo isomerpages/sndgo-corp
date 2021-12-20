@@ -5,7 +5,7 @@ date: 2021-12-17
 layout: post
 description: ""
 ---
-## Opening Address by Minister Josephine Teo at Augmented Reality Storybook Launch – ‘My Favourite Days’
+## Opening Address by Minister Josephine Teo at the Launch of  ‘My Favourite Days’ Augmented Reality Storybook
 
 **17 Dec 2021**
 
