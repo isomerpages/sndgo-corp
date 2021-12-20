@@ -8,9 +8,6 @@ description: Smart Nation PlayScape is jointly developed by the Smart Nation and
   life.
 image: /images/community/Playscape_Rubik.jpg
 ---
-
-
-
 # Smart Nation PlayScape
 
 Smart Nation PlayScape is jointly developed by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/). It features a wide variety of digital technologies powering Singapore’s Smart Nation journey. 
@@ -42,4 +39,4 @@ Programme a robot to dance.
 15 Science Centre Road (Singapore 609081). 
 
 **Opening Hours**<br>
-Visit www.science.edu.sg/visit-us/opening-hours to view opening hours.
+Visit [www.science.edu.sg/visit-us/opening-hours](www.science.edu.sg/visit-us/opening-hours) to view opening hours.
