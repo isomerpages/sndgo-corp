@@ -8,7 +8,7 @@ permalink: /media-hub/press-releases/tracetogether-token-collection-at-community
 
 **26 Oct 2020**
 
-Starting 27 Oct, members of the public should collect the TraceTogether (TT) Tokens only from their own constituency CCs. Please check the TokenGoWhere website (<a href="www.Token.gowhere.gov.sg" target="_blank">www.Token.gowhere.gov.sg</a>) to find out which is your designated collection point. 
+Starting 27 Oct, members of the public should collect the TraceTogether (TT) Tokens only from their own constituency CCs. Please check the TokenGoWhere website (<a href="https://token.gowhere.gov.sg/" target="_blank">token.gowhere.gov.sg/</a>) to find out which is your designated collection point. 
 
 All constituencies will be served in due course. So we urge the public to wait for the collection exercise to start in your respective constituency. TraceTogether-only SafeEntry will only be enforced after everyone who needs a Token has had a chance to collect one. 
 
