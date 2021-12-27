@@ -5,8 +5,6 @@ third_nav_title: Business
 description: ""
 image: /images/initiatives/business-grant-portal-overview.jpeg
 ---
-
-
 Businesses have a unique opportunity to grow and thrive in Singapore’s Digital Economy due to our competitive advantages. Not only are we well-connected to other major Asian economies, we have also built up an excellent infrastructure and access to technology, on top of a well-educated workforce. Beyond this, we’re looking to solve real-world problems and companies can use Singapore as a testbed, before bringing these to other markets.
 
 Learn how our business initiatives are helping companies here stay vibrant and competitive.
@@ -14,7 +12,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
 		<div class="header"><b>GoBusiness*</b></div><br>
 		<div class="para">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
 </div>
