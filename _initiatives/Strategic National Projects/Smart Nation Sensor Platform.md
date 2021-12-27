@@ -5,9 +5,6 @@ third_nav_title: Strategic National Projects
 description: ""
 image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
 ---
-
-
-
 # Using Data to Build a Better Future
 
 ![Alt text for image on Isomer site](/images/initiatives/smart-nation-sensor-platform-snp.jpeg)
@@ -24,7 +21,7 @@ At the end of 2018, we completed a wireless sensor network trial to collect wate
 
  An earlier trial held in Punggol in 2016 showed similarly encouraging results. This time, households managed to achieve approximately 5% water savings from early leak detection and good water-saving habits.
  
- ## Drowning Detection System at Public Pools
+## Drowning Detection System at Public Pools
 
 We are conducting a pilot at our public swimming pools to use computer vision to detect possible drowning incidents.  The system helps to alert lifeguards so they can react faster to swimmers in distress and those in need.
 
