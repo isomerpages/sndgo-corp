@@ -1,8 +1,11 @@
 ---
 title: GoBusiness
-permalink: /initiatives/strategic-national-projects/business-grants-gobusiness-licensing
+permalink: /initiatives/strategic-national-projects/gobusiness
 third_nav_title: Strategic National Projects
+description: ""
+image: /images/initiatives/business-grants-gobusiness.png
 ---
+
 # Business Grants and Licenses At Your Fingertips
 ![business grants portal](/images/initiatives/business-grants-gobusiness.png)
   

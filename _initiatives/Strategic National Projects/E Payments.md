@@ -1,8 +1,11 @@
 ---
-title: E-Payments
+title: E Payments
 permalink: /initiatives/strategic-national-projects/e-payments
 third_nav_title: Strategic National Projects
+description: ""
+image: /images/initiatives/mobile-payments.jpg
 ---
+
 
 # E-Payments
 <br>

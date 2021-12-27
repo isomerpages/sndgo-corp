@@ -4,14 +4,14 @@ collections:
     order:
       - Strategic National Projects/.keep
       - Strategic National Projects/Overview.md
-      - Strategic National Projects/gobusiness.md
+      - Strategic National Projects/GoBusiness.md
       - Strategic National Projects/CODEX.md
-      - Strategic National Projects/e-payments.md
+      - Strategic National Projects/E Payments.md
       - Strategic National Projects/LifeSG.md
-      - Strategic National Projects/national-digital-identity.md
+      - Strategic National Projects/National Digital Identity.md
       - Strategic National Projects/Punggol Smart Town.md
-      - Strategic National Projects/smart-nation-sensor-platform.md
-      - Strategic National Projects/smart-urban-mobility.md
+      - Strategic National Projects/Smart Nation Sensor Platform.md
+      - Strategic National Projects/Smart Urban Mobility.md
       - National AI Strategy.md
       - Business/.keep
       - Business/Overview.md
@@ -22,10 +22,10 @@ collections:
       - Digital Government Services/.keep
       - Digital Government Services/Overview.md
       - Digital Government Services/CentEx.md
-      - Digital Government Services/hdb-resale-portal.md
-      - Digital Government Services/multilingual-digital-services.md
+      - Digital Government Services/HDB Resale Portal.md
+      - Digital Government Services/Multilingual Digital Services.md
       - Digital Government Services/OpenCerts.md
-      - Digital Government Services/parents-gateway.md
+      - Digital Government Services/Parents Gateway.md
       - Health/.keep
       - Health/Overview.md
       - Health/Assistive Technology and Robotics In Healthcare.md
@@ -42,10 +42,10 @@ collections:
       - Urban Living/.keep
       - Urban Living/Overview.md
       - Urban Living/Automated Meter Reading.md
-      - Urban Living/dengue-hotspots-survey-drones.md
+      - Urban Living/Dengue Hotspots Survey Drones.md
       - Urban Living/Elderly Monitoring System.md
       - Urban Living/myENV App.md
       - Urban Living/OneService App.md
       - Urban Living/OneService Chatbot.md
+      - Strategic National Projects/E Payments.md
       - Urban Living/Smart Urban Planning.md
-      - Urban Living/Smart Towns.md

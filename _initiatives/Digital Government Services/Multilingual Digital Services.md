@@ -2,7 +2,10 @@
 title: Multilingual Digital Services
 permalink: /initiatives/digital-government-services/multilingual-digital-services
 third_nav_title: Digital Government Services
+description: ""
+image: /images/initiatives/multilingual-digital-services.jpeg
 ---
+
 
 # Tech that Speaks Your Language
 ![multilingual digital services](/images/initiatives/multilingual-digital-services.jpeg)

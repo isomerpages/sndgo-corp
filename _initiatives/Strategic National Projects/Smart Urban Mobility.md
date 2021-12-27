@@ -2,7 +2,10 @@
 title: Smart Urban Mobility
 permalink: /initiatives/strategic-national-projects/smart-urban-mobility
 third_nav_title: Strategic National Projects
+description: ""
+image: /images/initiatives/smart-urban-mobility.jpg
 ---
+
 
 # Remaking Our Transportation Roadmap 
  

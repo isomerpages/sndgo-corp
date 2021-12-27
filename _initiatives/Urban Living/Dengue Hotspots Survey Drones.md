@@ -2,7 +2,10 @@
 title: Dengue Hotspots Survey Drones
 permalink: /initiatives/urban-living/dengue-hotspots-survey-drones
 third_nav_title: Urban Living
+description: ""
+image: /images/initiatives/drone-with-camera-for-dengue-survey.jpg
 ---
+
 
 # Survey Drones to Tackle Dengue
 

@@ -1,9 +1,11 @@
 ---
 title: Government's Personal Data Protection Laws And Policies
-permalink: /about-smart-nation/secure-smart-nation/personal-data-protection
+permalink: /about-smart-nation/secure-smart-nation/personal-data-protection-laws-and-policies
 third_nav_title: A Secure Smart Nation
+description: The Government has put in place strong personal data protection
+  laws and policies to safeguard sensitive data.
+image: /images/abt-smart-nation/govt-personal-data-protection.png
 ---
-
 # Government's Personal Data Protection Laws And Policies
 ![Personal Data Protection Laws and Policies](/images/abt-smart-nation/govt-personal-data-protection.png)
 
@@ -15,7 +17,7 @@ Data management in the public sector is governed by the  <a href="https://sso.ag
 
 Since 2001, the Government’s data security policies have been set out in the IM on ICT&SS Management. The IM on ICT&SS Management sets out how the Government manages and protects data (including personal data) in its possession or control. In 2018, the PSGA was enacted to further strengthen public sector data governance. The PSGA imposes criminal penalties on public officers who (a) knowingly or recklessly disclose data without authorisation; (b) misuse data that results in personal gain for the public officer or another person, or harm or loss to another person; and (c) knowingly or recklessly re-identify anonymised information without authorisation.
 
-In 2019, the  [Public Sector Data Security Review Committee (PSDSRC)](about-smart-nation/secure-smart-nation/pdp-initiatives) recommended additional technical and process measures to protect data and prevent data compromise. The recommended measures have since been incorporated into the IM on ICT&SS Management and sets out how data security is managed by agencies. The data security policies prescribe data security requirements, including technical and process controls, to safeguard data against security threats.
+In 2019, the  [Public Sector Data Security Review Committee (PSDSRC)](/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives) recommended additional technical and process measures to protect data and prevent data compromise. The recommended measures have since been incorporated into the IM on ICT&SS Management and sets out how data security is managed by agencies. The data security policies prescribe data security requirements, including technical and process controls, to safeguard data against security threats.
 
 As part of the PSDSRC recommendation to provide the public with more information about the Government’s approach to personal data protection, the Government started publishing its policies and standards on personal data protection on this microsite in 2020.
 

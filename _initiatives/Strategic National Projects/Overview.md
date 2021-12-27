@@ -5,9 +5,6 @@ third_nav_title: Strategic National Projects
 description: ""
 image: /images/og-image/Strategic-National-Project-OG-Image.jpg
 ---
-
-
-
 # Strategic National Projects
 
 Singapore is engineering its transformation into a Smart Nation – byte by byte, system by system. These Strategic National Projects are the foundation for turning this vision into reality.  
@@ -16,7 +13,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/business-grants-gobusiness-licensing"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
 		<div class="header"><b>GoBusiness</b></div><br>
 		<div class="para">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
 </div>

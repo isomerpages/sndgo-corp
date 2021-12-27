@@ -2,7 +2,10 @@
 title: HDB Resale Portal
 permalink: /initiatives/digital-government-services/hdb-resale-portal
 third_nav_title: Digital Government Services
+description: ""
+image: /images/initiatives/HDB-resale-portal.jpg
 ---
+
 
 # The Portal to Your New Home
 <br>

@@ -2,7 +2,10 @@
 title: Parents Gateway
 permalink: /initiatives/digital-government-services/parents-gateway
 third_nav_title: Digital Government Services
+description: ""
+image: /images/initiatives/Parent-gateway-screenshots.jpeg
 ---
+
 
 # Gateway to Better Parent–School Communication
 ![Parents Gateway app screen shots](/images/initiatives/Parent-gateway-screenshots.jpeg)
