@@ -7,11 +7,9 @@ description: Our vision for a digital-first Singapore is one where a Digital
   businesses.
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
-
-
 # Three Pillars of a Smart Nation
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/Smart_Nation_Pillars.jpg)
+![Three Pillars of a Smart Nation](/images/abt-smart-nation/Smart_Nation_Pillars.jpg)
 
 | |  |  |
 | - | - | - |
@@ -64,7 +62,7 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
 
 Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:90%;height:90%;"><img src="/images/abt-smart-nation/Digital_Government_Digital_To_The_Core_Serves_With_Heart.jpg"></div></div>
+![Digital to the core and serves with hearth](/images/abt-smart-nation/Digital-Government-Who-What-How.jpg)
 
 The [Digital Government Blueprint (277kb)](/files/publications/dgb-public-document_30dec20.pdf)  details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.  
 
@@ -92,19 +90,19 @@ The pandemic has given renewed impetus for government agencies to digitalise, in
 Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2020.
 
 * **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
-![Alt text for image on Isomer site](/images/abt-smart-nation/citizen-satisfaction-2020.jpeg)
+![Citizen Satisfaction with Government Digital Services](/images/abt-smart-nation/citizen-satisfaction-2020.jpeg)
 
 * **Business Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
-![Alt text for image on Isomer site](/images/abt-smart-nation/business-satisfaction-2020.jpeg)
+![Business Satisfaction with Government Digital Services](/images/abt-smart-nation/business-satisfaction-2020.jpeg)
 
 * **Government services that can be completed digitally from end-to-end**
-![Alt text for image on Isomer site](/images/abt-smart-nation/end-to-end-digital-services-2020.jpeg)
+![Government services that can be completed digitally from end-to-end](/images/abt-smart-nation/end-to-end-digital-services-2020.jpeg)
 
 * **Services that provide E-payment options**
-![Alt text for image on Isomer site](/images/abt-smart-nation/services-offering-e-payment-2020.jpeg)
+![Services that provide E-payment options](/images/abt-smart-nation/services-offering-e-payment-2020.jpeg)
 
 * **E-payments transactions**
-![Alt text for image on Isomer site](/images/abt-smart-nation/e-payment-transactions-2020.jpeg)
+![E-payments transactions](/images/abt-smart-nation/e-payment-transactions-2020.jpeg)
 
 * **Other Statistics:**
   * 20,000 officers have been trained in data analytics and data science, meeting the initial target set  and a new KPI is being reviewed.
