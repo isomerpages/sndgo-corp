@@ -7,7 +7,7 @@ description: Interact with a series of exhibits and displays to discover the
   way we live, work and play!
 image: /images/community/Cityscape-06.jpg
 ---
-# CityScape Gallery
+# Smart Nation CityScape
 <br>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/2QJqf0CZ4d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -39,4 +39,3 @@ Singapore 069118
 As part of measures to minimise the risk of further spread of COVID-19, the Singapore City Gallery will be closed from 17 May 2021 until further notice.
 
 Visit <a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery" target="_blank">URA's website</a> for latest updates.
-
