@@ -6,11 +6,9 @@ description: Volunteer as a Smart Nation Ambassador and help us help fellow
   Singaporeans get involved in the Smart Nation journey.
 image: /images/community/SmartNationAmbassador01.jpg
 ---
-
-
 # Transform Lives with Technology
 
-![Smart Nation Ambassdors at an event](/images/community/SNA-smart-Nation-U.jpg)
+![Smart Nation Ambassdors](/images/community/SNA-smart-Nation-U.jpg)
 
 Are you interested to help others improve their quality of life with the use of tech?  Volunteer as a Smart Nation Ambassador and help us help fellow Singaporeans get involved in the Smart Nation journey.
 
@@ -28,7 +26,7 @@ You don’t need to be a digital whiz or have deep technical skills to volunteer
 
 To volunteer, sign up for your preferred activity here: <a href="https://www.volunteer.gov.sg/volunteer/agencies/agency_details/?code=SmartNation" target="_blank">Volunteer.gov.sg</a>  
 
-![Smart Nation Ambassdors at an Smart Nation & U event](/images/community/SNA-Grp.jpg)
+![Smart Nation Ambassdors](/images/community/SNA-Grp.jpg)
 
 Be sure to read our [FAQs](/community/smart-nation-ambassadors/faq) to clear up any questions or concerns you may have. If you have an exciting idea on how we can help each other in this digital journey, please write to us at [ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg). We want to hear from you!
 
