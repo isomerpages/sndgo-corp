@@ -7,7 +7,6 @@ description: ‘My Favourite Days is a 35-page Augmented Reality (AR) storybook.
   around Singapore, and the tech discoveries they make along the way.
 image: /images/community/AR-Storybook-03.jpeg
 ---
-
 # My Favourite Days
 
 ![Alt text for image on Isomer site](/images/community/AR-Storybook-02.jpeg)
@@ -30,7 +29,7 @@ My Favourite Days is available for loan at all [National Library Board](https:/
 You can also download a softcopy of the book below.
 
 <div style="width:30%"> 
- <a href="/files/abt-smart-nation/SGD Framework For Action.pdf">My Favourite Days E-copy.pdf(3.6mb):<img src="/images/community/My-Favourite-Days-Cover.jpg"></a>
+ <a href="/files/publications/My-Favourite-Days-E-copy.pdf">My Favourite Days E-copy.pdf(3.6mb):<img src="/images/community/My-Favourite-Days-Cover.jpg"></a>
 </div>
 
 
