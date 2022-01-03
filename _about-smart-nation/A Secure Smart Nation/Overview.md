@@ -8,7 +8,7 @@ description: "Cybersecurity and data security are key enablers of a Smart
 image: /images/og-image/Cybersecurity-OG-Image.jpg
 ---
 # A Secure Smart Nation
-![Alt text for image on Isomer site](/images/abt-smart-nation/secure-smart-nation-banner.png)
+![A Secure Smart Nation](/images/abt-smart-nation/secure-smart-nation-banner.png)
 
 <br>
 

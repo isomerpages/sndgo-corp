@@ -4,10 +4,9 @@ permalink: /community/SCOPE
 description: ""
 image: /images/community/SmartNationAmbassador01.jpg
 ---
-
 # Take Part in a Smart Nation Survey
 
-![Member of public doing SCOPE with a Smart Nation Ambassador](/images/community/scope-sn-ambassdor.jpg)
+![Smart Nation Co-creating with Our People Everywhere (SCOPE)](/images/community/scope-sn-ambassdor.jpg)
 
 Interested in testing new digital government services before these are launched? Have an observation or suggestion that you think might help us with our Smart Nation goals?
 Take part in our surveys on our Smart Nation Co-creating with Our People Everywhere (SCOPE) platform.

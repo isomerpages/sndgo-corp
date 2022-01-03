@@ -1,5 +1,5 @@
 ---
-title: Smart Nation PlayScape
+title: PlayScape
 permalink: /community/showcases/playscape
 third_nav_title: Showcases
 description: Smart Nation PlayScape is jointly developed by the Smart Nation and
@@ -8,6 +8,7 @@ description: Smart Nation PlayScape is jointly developed by the Smart Nation and
   life.
 image: /images/community/Playscape_Rubik.jpg
 ---
+
 # Smart Nation PlayScape
 
 Smart Nation PlayScape is jointly developed by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/). It features a wide variety of digital technologies powering Singapore’s Smart Nation journey. 
@@ -20,15 +21,15 @@ The exhibition consists of eight zones: Sensors, Geospatial, Biometrics, Blockch
 
 Compete with friends to see how fast the computer can recognise your doodles.
 
-![Alt text for image on Isomer site](/images/community/Playscape_Drawing.jpg)
+![Smart Nation PlayScape - Doodles](/images/community/Playscape_Drawing.jpg)
 
 Scramble a Rubik’s cube and watch how our robot solves it.
 
-![Alt text for image on Isomer site](/images/community/Playscape_Rubik.jpg)
+![Smart Nation PlayScape - Rubik's Cube](/images/community/Playscape_Rubik.jpg)
 
 Programme a robot to dance. 
 
-![Alt text for image on Isomer site](/images/community/Playscape_Robot.jpg)
+![Smart Nation PlayScape - Robot](/images/community/Playscape_Robot.jpg)
 
 
 ### Visit the exhibition 

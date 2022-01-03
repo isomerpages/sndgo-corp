@@ -5,6 +5,8 @@ third_nav_title: Our Smart Nation Journey
 ---
 # Milestones of Singapore’s Smart Nation story
 
+![Our Smart Nation Milestones](/images/abt-smart-nation/Milestones.jpg)
+
 Smart technology has made a difference to the way we live, work and play. But the changes didn’t happen overnight. Here, we trace the milestones of Singapore’s Smart Nation story. 
 
 Jump to...

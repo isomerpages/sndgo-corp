@@ -1,5 +1,5 @@
 ---
-title: CityScape Gallery
+title: CityScape
 permalink: /community/showcases/cityscape
 third_nav_title: Showcases
 description: Interact with a series of exhibits and displays to discover the
@@ -7,7 +7,8 @@ description: Interact with a series of exhibits and displays to discover the
   way we live, work and play!
 image: /images/community/Cityscape-06.jpg
 ---
-# CityScape Gallery
+
+# Smart Nation CityScape
 <br>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/2QJqf0CZ4d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -22,9 +23,11 @@ Visitors to CityScape will learn about how technology:
 *   is embedded into our infrastructure to benefit citizens and businesses
 *   helps attract technology companies and talent to Singapore, and secure Singapore’s place as a thought leader on Smart City innovations
 
-![Alt text for image on Isomer site](/images/community/Cityscape-06.jpg)
+![Smart Nation CityScape](/images/community/Cityscape-06.jpg)
 
-![Alt text for image on Isomer site](/images/community/Cityscape-04.jpeg)
+![Smart Nation CityScape](/images/community/Cityscape-04.jpeg)
+
+![Smart Nation CityScape](/images/community/Cityscape-05.jpeg)
 
 #### Address
 
@@ -37,5 +40,3 @@ Singapore 069118
 As part of measures to minimise the risk of further spread of COVID-19, the Singapore City Gallery will be closed from 17 May 2021 until further notice.
 
 Visit <a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery" target="_blank">URA's website</a> for latest updates.
-
-![Alt text for image on Isomer site](/images/community/Cityscape-05.jpeg)

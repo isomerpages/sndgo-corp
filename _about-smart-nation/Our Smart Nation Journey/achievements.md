@@ -3,9 +3,8 @@ title: Achievements
 permalink: /about-smart-nation/our-journey/achievements
 third_nav_title: Our Smart Nation Journey
 ---
-
 # Our Achievements
-![Alt text for image on Isomer site](/images/abt-smart-nation/sg-fireworks.jpg)
+![Our Smart Nation Achievements](/images/abt-smart-nation/Achievements.jpg)
 
 *   [Top spot in IMD-SUTD Smart City Index (2021)](#singapore-topped-the-imd-sutd-smart-city-index-for-3rd-year-running)
 *   [Top spot in Roland Berger's Digital Inclusion Index (2021)](#singapore-came-up-tops-for-digital-inclusiveness)
@@ -25,7 +24,7 @@ The Smart City Index takes into account input from the cities' residents of how 
 
 Click on the link to find out more about the <a href="https://www.imd.org/news/updates/data-shows-effects-of-covid-and-climate-change-on-citizens-perceptions-of-how-smart-their-cities-are/" target="_blank"> IMD-SUTD Smart City Index 2021</a>.
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/Smart_City_Index_2021.jpg)
+![IMD-SUTD Smart City Index 2021](/images/abt-smart-nation/Smart_City_Index_2021.jpg)
 
 [Return to top](#our-achievements)
 
@@ -33,7 +32,7 @@ Click on the link to find out more about the <a href="https://www.imd.org/news/u
 
 Ranked first among 82 countries, Singapore was lauded for its inclusive measures such as free public WiFi and financial assistance schemes for digital skills training, which have been credited with supporting wider digital adoption, and narrowing the digital divide.
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/digital-inclusin-index-2021.jpeg)
+![Roland Berger's Digital Inclusion Index (2021)](/images/abt-smart-nation/digital-inclusin-index-2021.jpeg)
 
 Click on the link to find out more about <a href="https://www.rolandberger.com/en/Insights/Publications/Bridging-the-digital-divide.html" target="_blank"> Roland Berger's Digital Inclusion Index (2021)</a>.
 
@@ -55,7 +54,7 @@ Singapore clinched the top spot in KPMG’s global ranking of leading technology
 
 The 2021 KPMG Technology Industry Survey surveyed more than 800 global leaders from various sub-sectors in the technology industry on the cities they see as leading technology innovation hubs over the next four years. Among the top factors seen as important in the ranking were an urban locale that attracts young professionals, a pipeline of skilled talent, and modern infrastructure (including high-speed bandwidth).
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/leading-tech-hubs-2021.jpeg)
+![KPMG's Global Ranking of Leading Technology Hubs](/images/abt-smart-nation/leading-tech-hubs-2021.jpeg)
 
 Click on the link to find out more about <a href="https://home.kpmg/sg/en/home/media/press-releases/2021/07/singapore-tops-2021-ranking-for-leading-technology-innovation-hubs-kpmg-survey.html" target="_blank">KPMG's Global Ranking of Leading Technology Hubs</a>.
 
