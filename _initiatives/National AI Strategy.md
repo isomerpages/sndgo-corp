@@ -6,8 +6,6 @@ description: By 2030, we see Singapore as a leader in developing and deploying
   high value and relevance to our citizens and businesses.
 image: /images/og-image/AI-OG-Image.jpg
 ---
-
-
 # The Next Frontier of Singapore's Smart Nation Journey
 As a Smart Nation, we want to go beyond just adopting technology. Our aim is to fundamentally rethink business models, so that we can make impactful changes to reap productivity gains and create new growth areas.
 
@@ -23,13 +21,13 @@ The National AI Strategy outlines our plans to deepen the use of AI to transform
  - Address areas where attention is needed to manage change and/or manage new forms of risks that emerge when AI becomes more pervasive
 
 <div style="width:40%"> 
- <a href="/files/publications/national-ai-strategy.pdf">National AI Strategy (9.2mb):<img src="/images/initiatives/national-ai-strategy-cover.jpg"></a>
+ <a href="/files/publications/national-ai-strategy.pdf">National AI Strategy (9.2mb):<img src="/images/initiatives/national-ai-strategy-cover.jpg" alt="National AI Strategy"></a>
 </div>
 
 <br>
 
 <div style="width:40%"> 
- <a href="/files/publications/national-ai-strategy-summary.pdf"> National AI Strategy - Summary (2.6mb):<img src="/images/initiatives/national-ai-strategy-summary-cover.jpg"></a>
+ <a href="/files/publications/national-ai-strategy-summary.pdf"> National AI Strategy - Summary (2.6mb):<img src="/images/initiatives/national-ai-strategy-summary-cover.jpg" alt="National AI Strategy Summary"></a>
 </div>
 
 
@@ -37,7 +35,7 @@ The National AI Strategy outlines our plans to deepen the use of AI to transform
 
 In order to drive AI innovation and adoption, we must build a vibrant and sustainable ecosystem. To do so, we’ve identified five critical ecosystem enablers.
 
-![Alt text for image on Isomer site](/images/initiatives/Ecosystem_Enablers_for_AI.jpg)
+![Ecosystem Enablers for AI](/images/initiatives/Ecosystem_Enablers_for_AI.jpg)
 
  1. **Triple helix partnerships** between the research community, industry and Government enables the rapid commercialisation of fundamental research and deployment of AI solutions.
  2. **Talent and education** addresses the need to develop homegrown talent across the entire range of AI-related job roles and helps Singaporeans prepare for the future AI economy.
@@ -49,7 +47,7 @@ In order to drive AI innovation and adoption, we must build a vibrant and sustai
 
 We have also identified seven National AI Projects that can deliver strong social and economic impact for Singapore and Singaporeans.
 
-![Alt text for image on Isomer site](/images/initiatives/National_AI_Programmes.jpg)
+![National AI Programmes](/images/initiatives/National_AI_Programmes.jpg)
 
 **1. Healthcare:** Chronic disease prediction and management helps with faster detection and treatment of such diseases.
 
@@ -74,7 +72,7 @@ You can play a part in our future success by contributing through one of these f
 
 #### 1. Submit ideas and solutions for National AI Projects
 
-If you have any ideas, solutions or even proposals for new National AI projects, send them our way via [this form](https://form.gov.sg/#!/5dbbe22a895bd6001283542e).
+If you have any ideas, solutions or even proposals for new National AI projects, send them our way via this [form](https://form.gov.sg/#!/5dbbe22a895bd6001283542e).
 
 #### 2. Transform your business with AI
 
