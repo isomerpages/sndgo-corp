@@ -6,12 +6,7 @@ description: With the rapidly changing situation at the start of the pandemic,
   verified information to ensure that citizens are well-informed.
 image: /images/covid-19/Covid-Providing-Information.jpg
 ---
-
-
-
-
-
-![Alt text for image on Isomer site](/images/covid-19/Covid-Providing-Information.jpg)
+![Flow of Verified Information](/images/covid-19/Covid-Providing-Information.jpg)
 
 With the rapidly changing situation at the start of the pandemic, there was a critical need to ensure that the members of the public receive verified information to ensure that citizens are well-informed. After the initial anxiety had calmed down, the need for verified information is crucial to provide the public assurances that information is accurate with multiple sources of information.
 
