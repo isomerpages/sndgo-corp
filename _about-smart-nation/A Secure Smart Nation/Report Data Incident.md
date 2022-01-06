@@ -5,8 +5,6 @@ third_nav_title: A Secure Smart Nation
 description: ""
 image: /images/abt-smart-nation/report-data-incident.png
 ---
-
-
 # Government Data Incident Reporting Platform
 ![Report data incident](/images/abt-smart-nation/report-data-incident.png)
 
@@ -30,4 +28,4 @@ We look forward to working with you to strengthen the overall public sector data
 
 **Have a question or need more help? Refer to our [frequently asked questions (FAQs)](/about-smart-nation/a-secure-smart-nation/rdi-faqs).**
 
-## Click [here](https://go.gov.sg/DataIncidentForm) to report a data incident
+### Click on the link to [report a data incident](https://go.gov.sg/DataIncidentForm).
