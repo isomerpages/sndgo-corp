@@ -7,12 +7,7 @@ description: "Rolling out digital services to help with the management and
   years. "
 image: /images/covid-19/Covid-Public-Health-Solutions.jpg
 ---
-
-
-
-
-
-![Alt text for image on Isomer site](/images/covid-19/Covid-Public-Health-Solutions.jpg)
+![Community Preparedness](/images/covid-19/Covid-Public-Health-Solutions.jpg)
 
 Rolling out digital services to help with the management and containment of the virus was essential. The services had to be implemented keeping in mind that we will have to live with COVID-19 over the next few years. With the following solutions, we believe we can boost community preparedness and confidence to manage and pull through this challenging time.
 
@@ -46,6 +41,6 @@ SupplyAlly has facilitated the management of hundreds of volunteers during the C
 
 # VigilantGantry
 
-VigilantGantry is a fully automated AI-driven temperature screening gantry that saves time and manpower.
+[VigilantGantry](https://www.youtube.com/watch?v=4quAADmKs40) is a fully automated AI-driven temperature screening gantry that saves time and manpower.
 
 The AI-driven system can record temperatures even with headgear or hair fringes – avoiding any required human intervention! GovTech has open-sourced the solution for wider adoption in the public sector.
