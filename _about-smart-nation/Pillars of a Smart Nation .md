@@ -79,10 +79,13 @@ There will be greater efforts to use digitalisation to create policies that are 
 The blueprint’s strategies have been updated to place more emphasis on users’ needs, to improve how we work, live and play as we harness new technologies such as AI.  
 
 **3. Setting targets to meet our near-term future**
-* New KPI:  At least 70% of eligible Government systems to be on commercial cloud by 2023
-* Update of an existing KPI: Time required to combine and share data for cross-agency projects to be no more than seven working days  
+
+- New KPI:  At least 70% of eligible Government systems to be on commercial cloud by 2023
+
+- Update of an existing KPI: Time required to combine and share data for cross-agency projects to be no more than seven working days  
   
-**4. Setting a future direction in light of COVID-19**  
+**4. Setting a future direction in light of COVID-19**
+	
 The pandemic has given renewed impetus for government agencies to digitalise, including making deeper changes in organisational policy, structure and culture. 
 
 
