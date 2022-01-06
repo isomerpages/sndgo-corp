@@ -5,8 +5,6 @@ third_nav_title: Digital Government Services
 description: ""
 image: /images/initiatives/OpenCerts.png
 ---
-
-
 # Graduate with a Digital Academic Certificate 
 
 ![Open Certs](/images/initiatives/laptop-with-diploma-academic-cap.jpg)
@@ -29,7 +27,7 @@ Since OpenCerts is built on a blockchain platform, its certificates are easily v
 
 When an OpenCerts certificate is issued by an educational institute, a unique code is published onto the blockchain. A cryptographic proof[^2] is added to the certificate data and sent to each student. This cryptographic proof allows OpenCerts to prove it has verified and validated the certificate.
 
-Visit the [OpenCerts platform](https://opencerts.io) to learn more. 
+Click on the link to learn more about the [OpenCerts platform](https://opencerts.io).
 
 [^1]: Blockchain is a tool for digitally recording transactions, be it between a buyer and seller, or in this case, an educational institution and its graduates. A public blockchain is neither owned nor maintained by an individual and instead decentralised. This ensures that records made on it cannot be altered or destroyed by a single person.
 
