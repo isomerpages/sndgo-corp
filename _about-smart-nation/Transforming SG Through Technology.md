@@ -8,7 +8,7 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
 # Transforming Singapore Through Technology
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/Singapore-Tech.jpg)
+![Transforming Singapore Through Technology](/images/abt-smart-nation/Singapore-Tech.jpg)
 <br>
 
 > Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” –  Prime Minister Lee Hsien Loong
@@ -39,7 +39,7 @@ We have identified key Strategic National Projects to drive and enable the adopt
 
 ![Alt text for image on Isomer site](/images/abt-smart-nation/Strategic_National_Projects.jpg)
 
-Find out more about our Strategic National Projects [here](/initiatives/strategic-national-projects).
+Click on the link to find out more about our [Strategic National Projects](/initiatives/strategic-national-projects).
 
 
 
@@ -51,7 +51,9 @@ You can read about the initiatives we have to facilitate this culture of innovat
 
 ### Open Data
 
-Data sets collected by public agencies are now available and accessible to the public through online portals, making it easy for developers to co-create digital solutions to benefit society. Access the open data sets available [here](/resources/open-data).
+Data sets collected by public agencies are now available and accessible to the public through online portals, making it easy for developers to co-create digital solutions to benefit society. 
+
+Click on the link to access the [open data sets](/resources/open-data) available.
 
 ### Living Laboratory
 
