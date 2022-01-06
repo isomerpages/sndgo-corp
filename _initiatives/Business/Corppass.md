@@ -5,9 +5,6 @@ third_nav_title: Business
 description: ""
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
-
-
-
 # One Corppass to Transact It All 
 <br>
 
@@ -22,4 +19,4 @@ If you are a business owner, take advantage of Corppass today by:
 1. Managing your employees via Corppass to transact on your organisation’s behalf  
 2. Using Corppass to grant and manage authorisations given to different employees within your organisation
 
-Learn more about Corpass [here](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login).
+Click on the link to learn more about [Corppass](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login).
