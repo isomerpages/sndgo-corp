@@ -14,4 +14,4 @@ The system learns the daily habits of seniors through the help of motion sensors
 ![Elderly Monitoring System](/images/initiatives/hdbsmartimage.jpeg)
 (Image credit: [Housing & Development Board (HDB)](https://www.hdb.gov.sg/)
 
-Click [here](https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page/hdb-smart-home-exhibition) to find out more about the Elderly Monitoring System.
+Click on the link to find out more about the [Elderly Monitoring System](https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page/hdb-smart-home-exhibition).
