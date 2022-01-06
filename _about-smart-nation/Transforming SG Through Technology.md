@@ -16,7 +16,7 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
 <div style="width:100%">
- <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"> Transforming Singapore Through Technology Infographic (3.1mb):<img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg"></a>
+ <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"> Transforming Singapore Through Technology Infographic (3.1mb):<img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg" alt="Transforming Singapore Through Technology Infographic"></a>
 </div>
 
 Our vision for a digital-first Singapore is one where a Digital Government, Digital Economy and Digital Society harness technology to effect transformation in  health, transport, urban living, government services and businesses.
@@ -37,7 +37,7 @@ Learn more about the framework guiding our Smart Nation initiative: [Smart Natio
 
 We have identified key Strategic National Projects to drive and enable the adoption of digital and smart technologies throughout Singapore. 
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/Strategic_National_Projects.jpg)
+![Smart Nation Strategic National Projects](/images/abt-smart-nation/Strategic_National_Projects.jpg)
 
 Click on the link to find out more about our [Strategic National Projects](/initiatives/strategic-national-projects).
 
@@ -80,7 +80,7 @@ One way for us to grow is through sharing good ideas and best practices, explori
 
 The <a href="https://asean.org/asean/asean-smart-cities-network/" target="_blank">ASEAN Smart Cities Network (ASCN)</a> was established in 2018, offering a platform for ASEAN cities to exchange ideas and solutions to catalyse smart city projects.
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:75%;height:75%;"><img src="/images/abt-smart-nation/ASEAN-Smart-Cities-Network.jpg"></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:75%;height:75%;"><img src="/images/abt-smart-nation/ASEAN-Smart-Cities-Network.jpg" alt="ASEAN Smart Cities Network"></div></div>
 
 The goal is to improve the lives of people in the region, using technology as an enabler. ASCN provides us with the unique opportunity to quickly leverage opportunities from rapid urbanisation, as well as build a strong defence against cyber threats and trade friction that the region faces.
 
