@@ -6,8 +6,7 @@ description: "With the help of the digital contact tracing tools – TraceTogeth
   quarantine close contacts. "
 image: /images/covid-19/Covid-Contact-Tracing.jpg
 ---
-
-![Alt text for image on Isomer site](/images/covid-19/Covid-Contact-Tracing.jpg)
+![Digital Contact Tracing](/images/covid-19/Covid-Contact-Tracing.jpg)
 
 Digital contact tracing solutions had to be swiftly conceptualised and implement as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
 
@@ -24,7 +23,7 @@ Displaying their TT Token for venue staff to scan the TT Token’s QR code;
 Tapping their TT App or TT Token at a SafeEntry Gateway device.
 With SafeEntry, we can log the individuals' entry and exit times to a location to have a complete picture of how far the virus can spread and allow the health authorities to understand the virus transmission better.
 
-For information on SafeEntry at public transport nodes, click [here](/safeentrytransportnodes).
+Click on the link for information on [SafeEntry at public transport nodes](/safeentrytransportnodes).
 
 # TraceTogether Programme
 
@@ -40,7 +39,7 @@ For information on TraceTogether Token collection and replacement, visit https:/
 
 # Homer
 
-The Homer app allows the Government agencies managing Stay Home Notices (SHN) or Quarantine Orders (QO) to keep in touch with the individuals that have been put on SHN or QO.
+The [Homer app](https://homer.gov.sg/) allows the Government agencies managing Stay Home Notices (SHN) or Quarantine Orders (QO) to keep in touch with the individuals that have been put on SHN or QO.
 
 The App uses its auto location reporting function to submit the individual's current location to the relevant authorities multiple times a day. Individuals also use the App to update their health status and reports as required.
 
