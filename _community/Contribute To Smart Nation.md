@@ -11,7 +11,7 @@ image: /images/community/SmartNationAmbassador01.jpg
 Interested in testing new digital government services before these are launched? Have an observation or suggestion that you think might help us with our Smart Nation goals?
 Take part in our surveys on our Smart Nation Co-creating with Our People Everywhere (SCOPE) platform.
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:300px;"><img src="/images/community/scope-logo.png"></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:300px;"><img src="/images/community/scope-logo.png" alt="SCOPE"></div></div>
 
 SCOPE is our co-creation platform designed to let you test the latest digital government initiatives and products that are still in development. Your feedback will help us make services more accessible and convenient for all Singaporeans. 
 
@@ -22,4 +22,4 @@ SCOPE is our co-creation platform designed to let you test the latest digital go
 * <a href="https://www.research.net/r/MultilanguageGovt" target="_blank">**Survey open to everyone:**</a> Take this survey to share your thoughts on the effectiveness of our machine-translated content in your mother tongue
 
 
-You can also contribute by joining our growing Smart Nation Ambassador family. Find out how [here.](/community/smart-nation-ambassadors)
+You can also contribute by joining our growing [Smart Nation Ambassador](/community/smart-nation-ambassadors) family. Click on the link to find out how.
