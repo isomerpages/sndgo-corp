@@ -7,7 +7,6 @@ description: Over the past years, we’ve had the privilege of working with
   experience and expertise towards developing tech for public good.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
 # Help Build Our Smart Nation, Together
 <br>
 
@@ -19,7 +18,7 @@ Over the past years, we’ve had the privilege of working with bright, establish
 
 You might be an experienced data scientist, engineer, applied researcher, or technologist.  Whatever your field of expertise, we welcome you to join the ranks of our Fellowship programme if you share our desire to create tech-related solutions that can positively impact our way of life in Singapore. 
 
-[Read](https://www.tech.gov.sg/careers/smart-nation-fellowship-programme/#paul-piong) about the experience of some of our Smart Nation Fellows and find out how they contributed to the work done. 
+Click on the link to read more about the [experience of some of our Smart Nation Fellows](https://www.tech.gov.sg/careers/smart-nation-fellowship-programme/) and find out how they contributed to the work done. 
 
 ## Collaborate or Consult as a Smart Nation Fellow
 

@@ -7,9 +7,7 @@ description: Many different issues and concerns arose as a result of the
   quickly set up to assist with the various changes.
 image: /images/covid-19/Covid-Social-and-Economic-Support.jpg
 ---
-
-
-![Alt text for image on Isomer site](/images/covid-19/Covid-Social-and-Economic-Support.jpg)
+![Economic and Social Support](/images/covid-19/Covid-Social-and-Economic-Support.jpg)
 
 Many different issues and concerns arose as a result of the pandemic. Due to the economic crisis, jobs were lost or salaries reduced. Students had to settle for home-based learning.
 
@@ -35,4 +33,4 @@ Launched in January 2021, [CRG](https://msf-csg.gov.sg/preinstruction/crg) is to
 
 # Student Learning Space
 
-When schools had to be closed during the circuit breaker period, MOE tapped on the Student Learning Space (SLS) to ensure that learning could continue while the world battled COVID-19. With the help of SLS, 420,000 students and 33,000 teachers transitioned smoothly to home-based learning.
+When schools had to be closed during the circuit breaker period, MOE tapped on the [Student Learning Space (SLS)](https://www.moe.gov.sg/education-in-sg/student-learning-space) to ensure that learning could continue while the world battled COVID-19. With the help of SLS, 420,000 students and 33,000 teachers transitioned smoothly to home-based learning.

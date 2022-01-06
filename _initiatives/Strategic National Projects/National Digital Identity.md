@@ -5,8 +5,6 @@ third_nav_title: Strategic National Projects
 description: ""
 image: /images/initiatives/Singpass-05.jpeg
 ---
-
-
 # Creating Your Trusted Digital Identity 
 <br>
 
@@ -31,9 +29,9 @@ We have been progressively adding useful features to the Singpass app for simple
 * Timely notifications from Government agencies for alerts such as NRIC re-registration or passport renewal via the inbox feature
 * Digital signing of documents by scanning a QR code. This removes the need for users to be physically present to sign documents and agreements
 
-Download the [Singpass app  here.](https://singpassmobile.sg/)
+Click on the link to download the [Singpass app](https://singpassmobile.sg/).
 
-![Alt text for image on Isomer site](/images/initiatives/Singpass-Face-Verification.jpeg)
+![Singpass App](/images/initiatives/Singpass-Face-Verification.jpeg)
 
 ## MyInfo
 A tell-us-once service that autofills selected personal details for online forms, minimising the need for users to repeatedly provide and verify the same information when transacting with Government agencies online. By tapping on the Retrieve MyInfo button, the participating digital service will be able to retrieve the necessary data fields needed with consent.

@@ -7,7 +7,7 @@ image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
 ---
 # Using Data to Build a Better Future
 
-![Alt text for image on Isomer site](/images/initiatives/smart-nation-sensor-platform-snp.jpeg)
+![Smart Nation Sensor Platform](/images/initiatives/smart-nation-sensor-platform-snp.jpeg)
 
 In this digital age, we’re surrounded by huge amounts of data. The question is how we can organise and tap on the most relevant data,  to plan and develop better solutions that will improve the way we live in our city. 
 
@@ -25,7 +25,7 @@ At the end of 2018, we completed a wireless sensor network trial to collect wate
 
 We are conducting a pilot at our public swimming pools to use computer vision to detect possible drowning incidents.  The system helps to alert lifeguards so they can react faster to swimmers in distress and those in need.
 
-![Alt text for image on Isomer site](/images/initiatives/Computer-vision-drowning-SNSP.jpg)
+![Drowning Detection System](/images/initiatives/Computer-vision-drowning-SNSP.jpg)
 
 ## Personal Alert Button for Elderly
 
@@ -41,4 +41,4 @@ We started the Lamppost-as-a-Platform  trial in 2019 by placing sensors on lamp 
 
 We also plan to collect environmental data to learn how we are being affected by global warming.
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:70%;height:70%;"><img src="/images/initiatives/smart-lamp-post-govtech.png"></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:70%;height:70%;"><img src="/images/initiatives/smart-lamp-post-govtech.png" alt="Smart Lamp Post"></div></div>

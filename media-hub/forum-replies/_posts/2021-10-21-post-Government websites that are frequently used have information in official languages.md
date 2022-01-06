@@ -1,9 +1,12 @@
 ---
-title: Have government website info in other official languages
+title: Government websites that are frequently used have information in official
+  languages
 date: 2021-10-21
 permalink: /media-hub/forum-replies/website-translations
 layout: post
+description: ""
 ---
+
 ## Forum Reply: Government websites that are frequently used have information in official languages
 
 I thank Forum writer Rachel Tan for her feedback ([Have government website info in other official languages](https://www.straitstimes.com/opinion/forum/forum-excerpts-from-readers-letters-12), Oct 15).

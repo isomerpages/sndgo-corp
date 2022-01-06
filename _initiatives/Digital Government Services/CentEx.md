@@ -5,8 +5,6 @@ third_nav_title: Digital Government Services
 description: ""
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
-
-
 # CentEx
 ![CentEx](/images/initiatives/centex.jpg)
 
@@ -22,5 +20,3 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 -   By building an in-house reserve of deep technical skills in areas where internal capabilities are needed to deal with highly complex issues on short notice
 -   By raising capabilities of ICT practitioners and leaders across the government
 -   By equipping general public officers with relevant broad-based ICT skills (eg. basic awareness of data analytics)
-
-Find out more  [here](https://www.tech.gov.sg/digital-government-transformation/).

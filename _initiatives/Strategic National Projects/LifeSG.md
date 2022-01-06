@@ -6,11 +6,8 @@ description: " LifeSG allows you to easily access Government services, keep up
   with the latest news and updates, track your applications and more."
 image: /images/initiatives/lifesg.jpeg
 ---
-
-
-
 # Personalised Government Services and Information  
-![LifeSG banner](/images/initiatives/lifesg-kv.jpg)
+![LifeSG](/images/initiatives/lifesg-kv.jpg)
 
 Originally known as Moments of Life, the <a href="http://www.life.gov.sg" target="_blank">app</a> was launched in June 2018, with modules to support families with young children, and seniors . The app was rebranded to LifeSG in August 2020, with new features to serve Singaporeans throughout their life journey.
 

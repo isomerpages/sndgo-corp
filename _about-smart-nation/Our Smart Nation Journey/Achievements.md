@@ -2,7 +2,10 @@
 title: Achievements
 permalink: /about-smart-nation/our-journey/achievements
 third_nav_title: Our Smart Nation Journey
+description: ""
+image: /images/og-image/Achievements-OG-Image.jpg
 ---
+
 # Our Achievements
 ![Our Smart Nation Achievements](/images/abt-smart-nation/Achievements.jpg)
 

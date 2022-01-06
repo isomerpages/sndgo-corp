@@ -5,8 +5,6 @@ third_nav_title: Business
 description: ""
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
-
-
 #  A Smarter Way to Trade
 <br>
 
@@ -28,4 +26,4 @@ Specifically, the NTP helps businesses to:
 * **Share data across borders securely**, giving rise to potentially exciting new insights for the industry.  
 * **Digitisation of documents quickly and securely**, helping to cut costs and streamline processes.
 
-Learn more about the Network Trade Platform <a href="https://www.ntp.gov.sg/home/?TYPE=login">here.</a>
+Click on the link to learn more about the [Networked Trade Platform](https://www.ntp.gov.sg/home/).

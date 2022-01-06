@@ -13,7 +13,7 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 
 | |  |  |
 | - | - | - |
-| <a href="/about-smart-nation/pillars-of-smart-nation#digital-society"><img src="/images/abt-smart-nation/Digital_Society_Button.jpg"> | <a href="/about-smart-nation/pillars-of-smart-nation#digital-economy"><img src="/images/abt-smart-nation/Digital_Economy_Button.jpg"> |<a href="/about-smart-nation/pillars-of-smart-nation#digital-government"><img src="/images/abt-smart-nation/Digital_Government_Button.jpg"></a> |
+| <a href="/about-smart-nation/pillars-of-smart-nation#digital-society"><img src="/images/abt-smart-nation/Digital_Society_Button.jpg" alt="Digital Society"> | <a href="/about-smart-nation/pillars-of-smart-nation#digital-economy"><img src="/images/abt-smart-nation/Digital_Economy_Button.jpg" alt="Digital Economy"> |<a href="/about-smart-nation/pillars-of-smart-nation#digital-government"><img src="/images/abt-smart-nation/Digital_Government_Button.jpg" alt="Digital Government"></a> |
 |  |  |  |
 
 	
@@ -35,9 +35,9 @@ Whether you’re young or old, tech-savvy or not, the aim is for every Singapore
 * By helping the local community and businesses drive widespread adoption of technology
 * By designing inclusive digital services
 
-![Alt text for image on Isomer site](/images/covid-19/Smart-Nation-Ambassador_TraceTogether-01.jpg)
+![Digital Society](/images/covid-19/Smart-Nation-Ambassador_TraceTogether-01.jpg)
 
-<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Digital Readiness Blueprint:</a><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png"></div>
+<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Digital Readiness Blueprint:</a><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png" alt="Digital Readiness Blueprint"></div>
 
 [Return to top](#three-pillars-of-a-smart-nation)
 
@@ -53,7 +53,7 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
 * Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
 
 <div style="width:50%"> 
- <a href="/files/abt-smart-nation/SGD Framework For Action.pdf">Digital Economy Framework for Action (4.31mb):<img src="/images/abt-smart-nation/Digital-Economy-Framework2.png"></a>
+ <a href="/files/abt-smart-nation/SGD Framework For Action.pdf">Digital Economy Framework for Action (4.31mb):<img src="/images/abt-smart-nation/Digital-Economy-Framework2.png" alt="Digital Economy Framework for Action"></a>
 </div>
 
 [Return to top](#three-pillars-of-a-smart-nation)
@@ -79,10 +79,13 @@ There will be greater efforts to use digitalisation to create policies that are 
 The blueprint’s strategies have been updated to place more emphasis on users’ needs, to improve how we work, live and play as we harness new technologies such as AI.  
 
 **3. Setting targets to meet our near-term future**
-* New KPI:  At least 70% of eligible Government systems to be on commercial cloud by 2023
-* Update of an existing KPI: Time required to combine and share data for cross-agency projects to be no more than seven working days  
+
+- New KPI:  At least 70% of eligible Government systems to be on commercial cloud by 2023
+
+- Update of an existing KPI: Time required to combine and share data for cross-agency projects to be no more than seven working days  
   
-**4. Setting a future direction in light of COVID-19**  
+**4. Setting a future direction in light of COVID-19**
+	
 The pandemic has given renewed impetus for government agencies to digitalise, including making deeper changes in organisational policy, structure and culture. 
 
 

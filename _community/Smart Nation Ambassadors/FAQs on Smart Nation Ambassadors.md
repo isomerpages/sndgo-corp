@@ -5,8 +5,6 @@ third_nav_title: Smart Nation Ambassadors
 description: Have a question on our Smart Nation Ambassador Programme? Check out our FAQs.
 image: /images/community/SmartNationAmbassador01.jpg
 ---
-
-
 # Frequently Asked Questions
 
 Have a question on our Smart Nation Ambassador Programme? Check out our FAQs.
@@ -60,7 +58,7 @@ There is no minimum number of events to volunteer for. We hope that you will fin
 
 To sign up to be a Smart Nation Ambassador, email us at [Ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg). 
 
-The schedule of upcoming volunteer events can be <a href="https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation" target="_blank">found here.</a>
+Click on the link to view the <a href="https://www.volunteer.sg/volunteer/agencies/agency_details?code=SmartNation" target="_blank">schedule of upcoming volunteer events</a>.
 
 [Return to top](#frequently-asked-questions)
 

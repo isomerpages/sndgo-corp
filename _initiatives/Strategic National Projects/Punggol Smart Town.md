@@ -7,8 +7,6 @@ description: Imagine a business park, university and community facilities
   doesn’t it?
 image: /images/initiatives/pdd.jpeg
 ---
-
-
 # Punggol Smart Town: Singapore’s Town for the Future
 <br>
 
@@ -36,4 +34,4 @@ PDD will house key growth sectors and businesses driving the Digital Economy, su
 
 Of course, it’s not just about business and the economy. A thriving community of people will also be calling this neighbourhood home. With shared public spaces and hi-tech community facilities, PDD will be connected to the Punggol waterfront by green links for the community’s recreational needs.
 
-Learn more about Punggol Digital District <a href="https://estates.jtc.gov.sg/pdd" target="_blank">here.</a>
+Click on the link to learn more about <a href="https://estates.jtc.gov.sg/pdd" target="_blank">Punggol Digital District</a>.

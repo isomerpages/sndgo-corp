@@ -7,9 +7,6 @@ description: Digital technologies and solutions need to be made secure to ensure
   to the Government is protected.
 image: /images/abt-smart-nation/cybersecurity.png
 ---
-
-
-
 # Cybersecurity In The Public Sector
 ![Cybersecurity](/images/abt-smart-nation/cybersecurity.png)
 
@@ -29,8 +26,8 @@ A dedicated team of cybersecurity defenders support and protect all systems with
 
 Digital defence is the 6th pillar of our national defence, and the Government works with the community to stress-test the resilience of our systems. Through the <a href="https://www.tech.gov.sg/media/media-releases/2021-08-31-new-vulnerability-rewards-programme" target="_blank">Vulnerability Rewards Programme (VRP)</a>,  <a href="https://www.tech.gov.sg/media/media-releases/third-govt-bug-bounty-programme-offers-bonus-payouts-for-mobile-applications" target="_blank">Government Bug Bounty Programme (GBBP)</a> and <a href="https://www.tech.gov.sg/report_vulnerability" target="_blank">Vulnerability Disclosure Programme</a>, the Government works with the “white-hat” community to uncover and remediate vulnerabilities within our systems.
 
-![Alt text for image on Isomer site](/images/abt-smart-nation/Vulnerability_Discovery_Programmes.jpg)
+![Vulnerability Discovery Programmes](/images/abt-smart-nation/Vulnerability_Discovery_Programmes.jpg)
 
-The public sector’s cybersecurity defence is led by the Cyber Security Group (CSG) at GovTech. For more information on the role of cybersecurity in the Digital Government Blueprint, <a href="https://www.tech.gov.sg/digital-government-blueprint/" target="_blank"> click here.</a> 
+The public sector’s cybersecurity defence is led by the Cyber Security Group (CSG) at GovTech. Click on the link for more information on the <a href="https://www.tech.gov.sg/digital-government-blueprint/" >role of cybersecurity in the Digital Government Blueprint</a>.
 
 To learn more about the latest developments in cybersecurity, please visit the <a href="https://medium.com/csg-govtech" target="_blank">CSG Medium homepage.</a>

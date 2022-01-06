@@ -1,9 +1,11 @@
 ---
-title: Access to Digital IC and personal data is too easy
+title: Safeguard phones, devices used to access Singpass
 date: 2021-11-17
 permalink: /media-hub/forum-replies/access-to-dig-ic-too-easy
 layout: post
+description: ""
 ---
+
 ## Forum Reply: Safeguard phones, devices used to access Singpass
 
 We refer to the Forum letter ["Access to digital IC and personal data is too easy" (Nov 9)](https://www.straitstimes.com/opinion/forum/forum-access-to-digital-ic-and-personal-data-is-too-easy) and thank Dr Tan Yia Swam for her feedback.

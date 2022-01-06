@@ -1,7 +1,9 @@
 ---
-title: On-Demand Shuttle
+title: On Demand Shuttle
 permalink: /initiatives/transport/on-demand-shuttle
 third_nav_title: Transport
+description: ""
+image: /images/initiatives/overview-pages/on-demand-shuttle.png
 ---
 
 # Can Public Transport Be On Demand?
@@ -30,4 +32,4 @@ Data collected from this trial was used to test how technology can be harnessed 
 
 In December 2018, LTA conducted a 6-month on-demand public bus service trial to explore using dynamic routing and matching algorithms to optimise bus services. During the trial, commuters could request pick-ups and drop-offs at any bus stop within a defined area using a mobile app. This offered them seamless, convenient journeys during timings with low or unpredictable ridership.
 
-Curious to know how the trial went? Find out the outcome <a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2019/5/2/conclusion-of-trial-for-on-demand-public-buses.html" target="_blank"> here</a>.
+Curious to know how the trial went? Click on the link to find out more about the <a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2019/5/2/conclusion-of-trial-for-on-demand-public-buses.html" target="_blank"> trial outcome</a>.
