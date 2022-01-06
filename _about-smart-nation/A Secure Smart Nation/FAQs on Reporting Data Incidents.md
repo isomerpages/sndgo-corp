@@ -6,9 +6,6 @@ description: Got a question or need more help on reporting a government data
   incident? Check out our FAQs.
 image: /images/og-image/Data-Incident-Reporting-Platform-OG-Image.jpg
 ---
-
-
-
 # Frequently Asked Questions
 
 Got a question or need more help on reporting a government data incident? Check out our FAQs below.
@@ -153,6 +150,8 @@ Please refer to [Q1](#q1-what-is-government-data) above for the detailed definit
 
 A cybersecurity incident is different from a data security incident. Cybersecurity incidents refer to attacks on IT systems or websites that affect the confidentiality, integrity and availability of systems or websites. Data security incidents, or government data incidents, refer to the unauthorised access to, collection of, use of, disclosure of, copying of, modification to, or disposal of, government data.
 
-You may report a cybersecurity incident under the Government Technology Agency’s Vulnerability Disclosure Programme (VDP). VDP encourages responsible reporting of suspected vulnerabilities or weaknesses in IT services, systems, resources and/or processes that may affect Government internet-accessible applications. Please <a href="https://www.tech.gov.sg/report_vulnerability" target="_blank">click on this link</a> to find out more about the VDP and report suspected vulnerabilities.
+You may report a cybersecurity incident under the Government Technology Agency’s Vulnerability Disclosure Programme (VDP). VDP encourages responsible reporting of suspected vulnerabilities or weaknesses in IT services, systems, resources and/or processes that may affect Government internet-accessible applications. 
+
+Click on the link to find out more about the Vulnerability Disclosure Programme and [report suspected vulnerabilities](https://www.tech.gov.sg/report_vulnerability).
 
 [Return to top](#frequently-asked-questions)
