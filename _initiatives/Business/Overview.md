@@ -12,7 +12,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg"></a><br>
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
 		<div class="header"><b>GoBusiness*</b></div><br>
 		<div class="para">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources.
 </div>
@@ -20,7 +20,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/business/corppass"><img src="/images/initiatives/overview-pages/corppass.png"></a><br>
+<a href="/initiatives/business/corppass"><img src="/images/initiatives/overview-pages/corppass.png" alt="Croppass"></a><br>
     <div class="header"><b>Corppass</b></div><br>
     <div class="para">A secure log-in method for business to transact with the Government online. 
 </div>
@@ -28,7 +28,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/business/dipo"><img src="/images/initiatives/dipo2.jpeg"></a><br>
+<a href="/initiatives/business/dipo"><img src="/images/initiatives/dipo2.jpeg" alt="Data Innovation Programme Office"></a><br>
      <div class="header"><b>Data Innovation Programme Office</b></div><br>
     <div class="para">Provides flexibility to work with and share data to encourage innovation among private sector organisations. 
 </div>
@@ -36,7 +36,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 
 <div class="row">
 	<div class="col">
-<a href="/initiatives/business/fintech"><img src="/images/initiatives/overview-pages/fintech-sandbox.png"></a><br>
+<a href="/initiatives/business/fintech"><img src="/images/initiatives/overview-pages/fintech-sandbox.png" alt="FinTech Sandbox"></a><br>
     <div class="header"><b>FinTech Sandbox</b></div><br>
     <div class="para">A regulatory sandbox providing a secure space for companies to test out their FinTech-related innovations.
 </div>
@@ -44,7 +44,7 @@ Learn how our business initiatives are helping companies here stay vibrant and c
 
 </div>
 <div class="col">
-<a href="/initiatives/business/networked-trade-platform"><img src="/images/initiatives/overview-pages/networked-trade-platform.png"></a><br>
+<a href="/initiatives/business/networked-trade-platform"><img src="/images/initiatives/overview-pages/networked-trade-platform.png" alt="Networked Trade Plarform"></a><br>
     <div class="header"><b>Networked Trade Platform</b></div><br>
     <div class="para">The national trade information management platform positions Singapore as the world’s leading trade, supply chain and trade financing hub.
 </div>
