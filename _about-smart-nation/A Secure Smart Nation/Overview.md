@@ -29,27 +29,27 @@ Find out more about how the Government protects your data and safeguards its sys
 ### Cybersecurity in the Public Sector
 Three-pronged approach to secure our systems.
 
-<a href="/about-smart-nation/secure-smart-nation/cybersecurity-public-sector"><img src="/images/abt-smart-nation/cybersecurity.png"></a>
+<a href="/about-smart-nation/secure-smart-nation/cybersecurity-public-sector"><img src="/images/abt-smart-nation/cybersecurity.png" alt="Cybersecurity in the Public Sector"></a>
 
 Three-pronged approach to secure our systems.
 
 ### Government's Personal Data Protection Laws and Policies
 Data management by public sector agencies and third-parties working with public agencies. 
 
-<a href="/about-smart-nation/secure-smart-nation/personal-data-protection-laws-and-policies"><img src="/images/abt-smart-nation/govt-personal-data-protection.png"></a>
+<a href="/about-smart-nation/secure-smart-nation/personal-data-protection-laws-and-policies"><img src="/images/abt-smart-nation/govt-personal-data-protection.png" alt="Personal Data Protection Laws and Policies"></a>
 
 
 
 ### Government’s Personal Data Protection Initiatives
 Recommendations and initiatives to strengthen the Government’s data security regime.
 
-<a href="/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives"><img src="/images/abt-smart-nation/govt-pdp-initiativies.png"></a>
+<a href="/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives"><img src="/images/abt-smart-nation/govt-pdp-initiativies.png" alt="Personal Data Protection Initiatives"></a>
 
 
 <br>
 
 ----------
 
-#### Report data incident [here](/about-smart-nation/secure-smart-nation/report-data-incident)...
+#### Click on the link to [report a data incident](/about-smart-nation/secure-smart-nation/report-data-incident).
 
-<a href="/about-smart-nation/secure-smart-nation/report-data-incident"><img src="/images/abt-smart-nation/report-data-incident.png"></a>
+<a href="/about-smart-nation/secure-smart-nation/report-data-incident"><img src="/images/abt-smart-nation/report-data-incident.png" alt="Report Data Incident"></a>
