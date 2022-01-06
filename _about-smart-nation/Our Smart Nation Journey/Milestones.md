@@ -5,7 +5,6 @@ third_nav_title: Our Smart Nation Journey
 description: ""
 image: /images/og-image/Milsestones-OG-Image.jpg
 ---
-
 # Milestones of Singapore’s Smart Nation story
 
 ![Our Smart Nation Milestones](/images/abt-smart-nation/Milestones.jpg)
@@ -24,7 +23,7 @@ Jump to...
 ## 1963
 The first mainframe computer was installed in the Central Provident Fund Board (CPFB) to automate the manual ledger accounting system that kept track of 1.6 million CPF members’ accounts. With the IBM 1401 system, CPF employees filled out punch cards with information on CPF members’ latest contributions and fed these to the mainframe computer to update the accounts.
 
-<div style="width:50%"><img src="/images/abt-smart-nation/CPF_Mainframe_1.png"></div> 
+<div style="width:50%"><img src="/images/abt-smart-nation/CPF_Mainframe_1.png" alt="CPF Mainframe"></div> 
 	
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
@@ -41,7 +40,7 @@ National IT Plan: Electronic data exchange networks were extended from governmen
 ## 1989
 The Trade Development Board introduced TradeNet to hasten the speed of commerce by cutting down the processing time of trade documents from 4 days to 15 minutes.
 
-<div style="width:75%"><img src="/images/abt-smart-nation/tradenet_1989.jpeg"></div>
+<div style="width:75%"><img src="/images/abt-smart-nation/tradenet_1989.jpeg" alt="TradeNet"></div>
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
@@ -73,21 +72,21 @@ The Infocomm 21 Master Plan was launched to develop Singapore into a leading inf
 ## 2003
 Singpass was introduced to offer Singapore residents convenient and secure access to government digital services. Today, it is the trusted digital identity of over 4 million residents for everyday transactions with the government and private sector organisations, online and in person. 
 
-<div style="width:75%"><img src="/images/abt-smart-nation/singapass_introduced_2011.jpg"></div>
+<div style="width:75%"><img src="/images/abt-smart-nation/singapass_introduced_2011.jpg" alt="SingPass Mobile"></div>
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
 ## 2006
 Wireless@SG was deployed to offer free Wi-Fi island-wide, providing citizens with free internet connectivity across thousands of hotspots.
 
-<div style="width:75%"><img src="/images/abt-smart-nation/wirelesssg_2006.jpeg"></div>
+<div style="width:75%"><img src="/images/abt-smart-nation/wirelesssg_2006.jpeg" alt="Wireless@SG"></div>
 	
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
 ## 2007
 The Inland Revenue Authority of Singapore (IRAS) launched the No-Filing Service (NFS) making tax filing a non-event for eligible taxpayers. The integration of data across platforms has simplified tax filing from an eight-page form, to a pre-filled electronic form. Today, the NFS initiative benefits 2 in 3 taxpayers, and those who are eligible will not need to file a tax return, unless they have changes to make.
 
-<div style="width:50%"><img src="/images/abt-smart-nation/Smartphone%20NFS_2007.jpeg"></div>
+<div style="width:50%"><img src="/images/abt-smart-nation/Smartphone%20NFS_2007.jpeg" alt="No-Filing Service"></div>
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
@@ -99,7 +98,7 @@ Singapore unveiled eGov2015 Masterplan to develop next generation whole-of-gover
 ## 2014
 Prime Minister Lee Hsien Loong outlined plans to turn Singapore into the world’s first Smart Nation, and launched the Smart Nation Programme Office to drive the national effort to transform Singapore into a Smart Nation.
 
-<div style="width:75%"><img src="/images/abt-smart-nation/smart_nation_programme_office_2014.jpg"></div>
+<div style="width:75%"><img src="/images/abt-smart-nation/smart_nation_programme_office_2014.jpg" alt="Launch of Smart Nation Programme Office"></div>
 	
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
@@ -111,7 +110,7 @@ The National Steps ChallengeTM was launched by the Health Promotion Board to enc
 ## 2016
 The Government Technology Agency was formed. It is responsible for the delivery of government digital services to the public, and the development of infrastructure to support the Smart Nation initiative.
 
-<div style="width:75%"><img src="/images/abt-smart-nation/govtech_formed_2016.jpeg"></div>
+<div style="width:75%"><img src="/images/abt-smart-nation/govtech_formed_2016.jpeg" alt="Formation of GovTech"></div>
 	
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
