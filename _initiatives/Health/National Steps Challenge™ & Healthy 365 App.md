@@ -5,10 +5,6 @@ third_nav_title: Health
 description: ""
 image: /images/initiatives/Healthy365_App_Screenshot.png
 ---
-
-
-
-
 # National Steps Challenge™ & Healthy 365 App
 
 ![Alt text for image on Isomer site](/images/initiatives/Healthy-365.jpg)
@@ -31,4 +27,4 @@ The National Steps Challenge™ has been well received and these are some of its
 
 Eligible participants can collect a HPB Fitness Tracker or use compatible fitness devices and pair these with the Healthy 365 app. Once done, users can clock steps and moderate-to-vigorous physical activity minutes to earn rewards. 
 
-Click [here](https://www.healthhub.sg/programmes/37/nsc) for more information.
+Click on the link for more information on the [National Steps Challenge™](https://www.healthhub.sg/programmes/37/nsc).
