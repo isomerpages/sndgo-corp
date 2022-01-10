@@ -19,6 +19,12 @@ Built on Meta’s Spark AR platform, children get to experience the story in a f
 
 Young readers will get to stretch their imagination on the possibilities offered by technology, and marvel at how it changes everything from the way we conduct play, to how our food is served. 
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9_Ifxd_QoIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### The making  of 'My Favourite Days'
+
+<br>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/VaK-uBHM-0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
