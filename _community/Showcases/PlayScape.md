@@ -8,7 +8,6 @@ description: Smart Nation PlayScape is jointly developed by the Smart Nation and
   life.
 image: /images/community/Playscape_Rubik.jpg
 ---
-
 # Smart Nation PlayScape
 
 Smart Nation PlayScape is jointly developed by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/). It features a wide variety of digital technologies powering Singapore’s Smart Nation journey. 
@@ -19,17 +18,21 @@ The exhibition consists of eight zones: Sensors, Geospatial, Biometrics, Blockch
 
 ### Check out these activities and more! 
 
-Compete with friends to see how fast the computer can recognise your doodles.
+Programme a robot to dance. 
 
-![Smart Nation PlayScape - Doodles](/images/community/Playscape_Drawing.jpg)
+![Smart Nation PlayScape - Robot](/images/community/PlayScape_04.jpeg)
 
 Scramble a Rubik’s cube and watch how our robot solves it.
 
 ![Smart Nation PlayScape - Rubik's Cube](/images/community/Playscape_Rubik.jpg)
 
-Programme a robot to dance. 
+Add blocks representing different elements such as schools, houses, parks to the city, and observe how the quality-of-life changes.
 
-![Smart Nation PlayScape - Robot](/images/community/Playscape_Robot.jpg)
+![Smart Nation PlayScape - Build a City](/images/community/PlayScape_01.jpeg)
+
+Compete with friends to see how fast the computer can recognise your doodles.
+
+![Smart Nation PlayScape - Doodles](/images/community/PlayScape_02.jpeg)
 
 
 ### Visit the exhibition 
