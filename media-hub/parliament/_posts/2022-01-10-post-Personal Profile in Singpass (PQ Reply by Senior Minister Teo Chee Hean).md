@@ -12,7 +12,7 @@ description: ""
 
 ### Question
 
-**Ms Joan Pereira asked the Prime Minister** with regard to one’s personal profile in SingPass, what are the reasons for (i) the inclusion of only children but not spouses or parents under the Family section, as details of spouses or parents can also be used to prove family relationships in emergencies and (ii) reflecting only the details of GCE "O" and "A" level results under the Education section but not the highest level of formal education achievement.
+**Ms Joan Pereira asked the Prime Minister** with regard to one’s personal profile in Singpass, what are the reasons for (i) the inclusion of only children but not spouses or parents under the Family section, as details of spouses or parents can also be used to prove family relationships in emergencies and (ii) reflecting only the details of GCE "O" and "A" level results under the Education section but not the highest level of formal education achievement.
 
 ### Answer
 
