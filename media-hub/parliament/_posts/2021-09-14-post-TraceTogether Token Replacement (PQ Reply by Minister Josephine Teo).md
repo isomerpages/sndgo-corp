@@ -11,7 +11,7 @@ description: ""
 
 ### Question
 
-Mr Gerald Giam Yean Song asked the Prime Minister (a) to date, how many TraceTogether tokens have been replaced; and (b) what is the average battery lifespan of the tokens.
+**Mr Gerald Giam Yean Song asked the Prime Minister** (a) to date, how many TraceTogether tokens have been replaced; and (b) what is the average battery lifespan of the tokens.
 
 ### Answer
 
