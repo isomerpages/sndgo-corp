@@ -14,9 +14,7 @@ description: ""
 
 ### Question
 
-**Question by Mr Gan Thiam Poh, MP for Ang Mo Kio GRC**
-
-To ask the Prime Minister in view of the increasing use of TraceTogether at many locations (a) what are the risks of all the personal information being hacked and appropriated at various data collection centres; and (b) what measures are in place to prevent such attacks.
+**Mr Gan Thiam Poh asked the Prime Minister** in view of the increasing use of TraceTogether at many locations (a) what are the risks of all the personal information being hacked and appropriated at various data collection centres; and (b) what measures are in place to prevent such attacks.
 
 ### Answer
 
