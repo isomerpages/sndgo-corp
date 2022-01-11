@@ -5,9 +5,7 @@ permalink: /media-hub/parliament/20190228
 layout: post
 description: ""
 ---
-
-
-## Committee of Supply Debates 2019<br>(28 Feb 2019)
+## Committee of Supply Debate 2019<br>(28 Feb 2019)
 
 **Speech By Dr Janil Puthucheary, Minister-in-Charge Of GovTech**
 
