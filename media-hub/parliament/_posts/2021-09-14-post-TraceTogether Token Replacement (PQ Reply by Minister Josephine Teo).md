@@ -5,10 +5,6 @@ permalink: /media-hub/parliament/20210914-c
 layout: post
 description: ""
 ---
-
-
-
-
 ## Replacement of TraceTogether Tokens and battery lifespan
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 14 September 2021**
@@ -19,7 +15,7 @@ Mr Gerald Giam Yean Song asked the Prime Minister (a) to date, how many TraceTog
 
 ### Answer
 
-**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity**
+**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
 
 As at September 2021, 2.9 million TraceTogether tokens have been replaced. The average battery lifespan is four to six months.
 
