@@ -5,9 +5,6 @@ permalink: /media-hub/parliament/20210913
 layout: post
 description: ""
 ---
-
-
-
 ## COVID-19 vaccination status check via SafeEntry (Business) App
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 13 September 2021**
@@ -18,7 +15,7 @@ description: ""
 
 ### Answer
 
-**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity**
+**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
 
 Businesses can use the SafeEntry (Business) App to check on the vaccination and test status of their visitors. Members of the public can use either their TT App or Token to tap against the mobile device uploaded with the SafeEntry (Business) App, for the business to verify their status from the display.
 
