@@ -1,8 +1,9 @@
 ---
-title: Digital Vaccination Certificate - Minister Josephine Teo
+title: Digital Vaccination Certificate (PQ Reply by Minister Josephine Teo)
 date: 2021-07-26
 permalink: /media-hub/parliament/20210726
 layout: post
+description: ""
 ---
 ## Incorporating vaccination status information into the SingPass record
 
@@ -15,7 +16,7 @@ layout: post
 
 ### Answer
 
-**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity**
+**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
 
 The digital vaccination certificate which is issued to eligible individuals can be viewed in the Singpass app’s Inbox. The Ministry of Health (MOH) issues this digital vaccination certificate to individuals who have been fully-vaccinated through Singapore’s COVID-19 vaccination programme, to facilitate recognition abroad. Eligible individuals can request for the certificate by logging in to the Notαrise website ([https://www.notarise.gov.sg](https://www.notarise.gov.sg/)) with Singpass. Besides being available in the Singpass app’s Inbox, the certificate is also sent to the user’s email.
 

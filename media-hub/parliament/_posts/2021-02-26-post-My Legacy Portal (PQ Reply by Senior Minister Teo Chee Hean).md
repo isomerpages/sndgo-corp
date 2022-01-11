@@ -1,8 +1,9 @@
 ---
-title: My Legacy Portal - Senior Minister Teo Chee Hean
+title: My Legacy Portal (PQ Reply by Senior Minister Teo Chee Hean)
 date: 2021-02-26
 permalink: /media-hub/parliament/20210226-b
 layout: post
+description: ""
 ---
 ## One-stop platform for family members of legal representatives of deceased persons to obtain legal documents 
 
@@ -15,7 +16,7 @@ layout: post
  
 
 ### Answer
-**Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security**
+**Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (for the Prime Minister)**
 
 A range of private and public sector service providers are involved in post-death administrative matters. The Ministry of Health, Public Service Division and the Smart Nation and Digital Government Group launched the My Legacy portal in January 2020. The portal, currently in beta testing, aims to be a one-stop platform for end-of-life, palliative care and post-death matters, and to make planning easy and convenient. This is part of the LifeSG initiative to integrate and bundle Government and private sector services, to help citizens access services and information that are relevant to them.
 

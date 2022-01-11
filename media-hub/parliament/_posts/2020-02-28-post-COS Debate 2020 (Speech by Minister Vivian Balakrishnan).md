@@ -1,12 +1,13 @@
 ---
-title: Committee of Supply (COS) Debates 2020 - Minister Vivian Balakrishnan
+title: COS Debate 2020 (Speech by Minister Vivian Balakrishnan)
 date: 2020-02-28
 permalink: /media-hub/parliament/20200228-b
 layout: post
+description: ""
 ---
 
 
-## Committee of Supply Debates 2020<br>(28 Feb 2020)
+## Committee of Supply Debate 2020<br>(28 Feb 2020)
 
 **Speech By Minister Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative**
 

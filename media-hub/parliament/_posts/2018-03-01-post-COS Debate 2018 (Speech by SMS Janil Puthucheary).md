@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Committee of Supply (COS) Debates 2018 - Senior Minister of State Janil
-  Puthucheary
-permalink: /media-hub/parliament-replies-&-speeches/cos-2018-debates-sms-janil-puthucheary
+title: COS Debate 2018 (Speech by SMS Janil Puthucheary)
+permalink: /media-hub/parliament/20180301
+date: 2018-03-01
+description: ""
 ---
+
 ## Committee of Supply Debates 2018<br>(1 Mar 2018)
 
 **Transcript Of Speech By Dr Janil Puthucheary, Minister-in-Charge Of GovTech**

@@ -1,10 +1,14 @@
 ---
-title: Public Sector's IT Systems Weaknesses (As Flagged by AGO Report) - Senior
-  Minister Teo Chee Hean
+title: Public Sector's IT Systems Weaknesses As Flagged by AGO (PQ Reply by
+  Senior Minister Teo Chee Hean)
 date: 2021-09-14
 permalink: /media-hub/parliament/20210914-a
 layout: post
+description: ""
 ---
+
+
+
 ## Managing user access and controls and using AI (Artificial Intelligence) and analytics to monitor and flag irregularities and derive insights
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 14 September 2021**

@@ -1,9 +1,13 @@
 ---
-title: Smart Nation Addendum 2020 - Minister Vivian Balakrishnan
+title: Smart Nation Addendum 2020 (Speech by Minister Vivian Balakrishnan)
 date: 2020-08-28
 permalink: /media-hub/parliament/20200828
 layout: post
+description: ""
 ---
+
+
+
 
 ## Smart Nation Addendum 2020
 

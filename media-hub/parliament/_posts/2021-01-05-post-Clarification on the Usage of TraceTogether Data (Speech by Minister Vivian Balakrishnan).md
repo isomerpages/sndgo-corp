@@ -1,9 +1,13 @@
 ---
-title: Clarification on the Usage of TraceTogether Data
+title: Clarification on the Usage of TraceTogether Data (Speech by Minister
+  Vivian Balakrishnan)
 date: 2021-01-05
 permalink: /media-hub/parliament/20210105
 layout: post
+description: ""
 ---
+
+
 
 ## Clarification On The Usage Of Tracetogether Data
 

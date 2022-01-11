@@ -1,9 +1,13 @@
 ---
-title: TraceTogether Programme - Minister Vivian Balakrishnan
+title: TraceTogether Programme (PQ Reply by Minister Vivian Balakrishnan)
 date: 2020-06-05
 permalink: /media-hub/parliament/20200605
 layout: post
+description: ""
 ---
+
+
+
 
 ## Thirteenth Parliament Of Singapore - Second Session For The Sitting On 5 June 2020
 
