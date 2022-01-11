@@ -6,9 +6,6 @@ permalink: /media-hub/parliament/20210510
 layout: post
 description: ""
 ---
-
-
-
 ## Tracetogether Programme Data Deregistration
 
 **Fourteenth Parliament Of Singapore – First Session For The Sitting On 10 May 2021**
@@ -20,7 +17,7 @@ description: ""
 
 ## Answer
 
-**Written Answer by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs**
+**Written Answer by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs (for the Prime Minister)**
 
 As of the 30th  of April 2021, there were 4,923,054 individuals on board the TraceTogether (TT) programme, or approximately 92% of the population above the age of 6 years. As of the same date, only 1,155 users (or 0.021% of the population above the age of 6 years) had requested deregistration from the TT programme.
 
