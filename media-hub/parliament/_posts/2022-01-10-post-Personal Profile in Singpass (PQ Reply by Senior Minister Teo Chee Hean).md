@@ -17,7 +17,7 @@ description: ""
 ### Answer
 
 
-**Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (For the Prime Minister)**
+**Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (for the Prime Minister)**
 
 The Singpass profile allows users to view their personal information and provides a trusted digital identity for secure transactions. We will add data to the user profile if there is demand for such data fields, where such data has accurate and complete digitalised records, and where there are fewer concerns over data privacy.
 
