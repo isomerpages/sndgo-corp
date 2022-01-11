@@ -5,9 +5,6 @@ permalink: /media-hub/parliament/20210104
 layout: post
 description: ""
 ---
-
-
-
 ## Increasing need to use SingPass and the discontinuation of the OneKey token
 
 **Fourteenth Parliament Of Singapore – First Session For The Sitting On 4 January 2021**
@@ -24,7 +21,7 @@ description: ""
 
 ## Answer
 
-**Oral Reply by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs**
+**Oral Reply by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs (for the Prime Minister)**
 
 We  are committed to building an inclusive Smart Nation, one where nobody is digitally excluded.
 
