@@ -20,10 +20,12 @@ You can indicate or rank your preference of the three agencies. When offered, yo
 
 ![Smart Nation Scholarship Pathways](/images/careers/Smart_Nation_Scholarship_Pathways.jpg)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y_bk9YFZvSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**We are looking for applicants who are:**
+## We are looking for applicants who are:
 
+<br>
 
 -	Singapore Citizens[^1]
 - GCE A-Level (or equivalent) or polytechnic diploma graduates with an outstanding co-curricular activities record
@@ -36,7 +38,6 @@ Applicants who have prior experience in technology or ICT-related events or have
 [^1]: Includes Singapore Permanent Residents who are taking up citizenship.
 [^2]: If you are currently not in an ICT-related course but interested to take up a double degree in ICT, you will also be considered. 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y_bk9YFZvSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Opportunities Abound in Government 
 
@@ -45,6 +46,10 @@ The Smart Nation Scholarship gives talented individuals the opportunity to start
 ![Multi-Faceted Tech Career Opportunities](/images/careers/multi-faceted-tech-career-opportunities.jpg)
 
 ## What the Smart Nation Scholarship covers:
+
+<br>
+
+
 -	Tuition and other compulsory fees
 -	Option to backdate: Mid-term scholars[^3] (overseas or local) may opt to backdate the scholarship
 -	Living allowance: Allowance for day-to-day expenses such as bills and living costs
