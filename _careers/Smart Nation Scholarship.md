@@ -42,6 +42,8 @@ Applicants who have prior experience in technology or ICT-related events or have
 
 The Smart Nation Scholarship gives talented individuals the opportunity to start a dynamic career in technology to contribute towards the public good. You can look forward to a multifaceted career, specializing in a variety of tech domains and opportunities for job rotations across the different public agencies: 
 
+![Multi-Faceted Tech Career Opportunities](/images/careers/multi-faceted-tech-career-opportunities.jpg)
+
 ## What the Smart Nation Scholarship covers:
 -	Tuition and other compulsory fees
 -	Option to backdate: Mid-term scholars[^3] (overseas or local) may opt to backdate the scholarship
