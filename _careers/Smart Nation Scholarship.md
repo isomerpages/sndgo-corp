@@ -22,11 +22,15 @@ You can indicate or rank your preference of the three agencies. When offered, yo
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Y_bk9YFZvSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Opportunities Abound in Government 
 
-## We are looking for applicants who are:
+The Smart Nation Scholarship gives talented individuals the opportunity to start a dynamic career in technology to contribute towards the public good. You can look forward to a multifaceted career, specializing in a variety of tech domains and opportunities for job rotations across the different public agencies: 
 
-<br>
+![Multi-Faceted Tech Career Opportunities](/images/careers/multi-faceted-tech-career-opportunities.jpg)
 
+## Eligibility Criteria
+ 
+We are looking for applicants who are:
 -	Singapore Citizens[^1]
 - GCE A-Level (or equivalent) or polytechnic diploma graduates with an outstanding co-curricular activities record
 - Passionate about having a career in tech for public good
@@ -38,17 +42,9 @@ Applicants who have prior experience in technology or ICT-related events or have
 [^1]: Includes Singapore Permanent Residents who are taking up citizenship.
 [^2]: If you are currently not in an ICT-related course but interested to take up a double degree in ICT, you will also be considered. 
 
+## Scholarship Benefits
 
-## Opportunities Abound in Government 
-
-The Smart Nation Scholarship gives talented individuals the opportunity to start a dynamic career in technology to contribute towards the public good. You can look forward to a multifaceted career, specializing in a variety of tech domains and opportunities for job rotations across the different public agencies: 
-
-![Multi-Faceted Tech Career Opportunities](/images/careers/multi-faceted-tech-career-opportunities.jpg)
-
-## What the Smart Nation Scholarship covers:
-
-<br>
-
+What the Smart Nation Scholarship covers:
 
 -	Tuition and other compulsory fees
 -	Option to backdate: Mid-term scholars[^3] (overseas or local) may opt to backdate the scholarship
@@ -58,9 +54,9 @@ The Smart Nation Scholarship gives talented individuals the opportunity to start
 
 [^3]: Mid-term scholarship applicants must have at least one semester of university results at the point of application and have not embarked on their final year of study.
 
-## How to Apply:
+## How to apply
 
-The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="http://Go.gov.sg/smartnationscholarship" target="_blank">Go.gov.sg/smartnationscholarship</a> for the full details or email scholarship@smartnation.gov.sg.
+The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="http://go.gov.sg/smartnationscholarship" target="_blank">go.gov.sg/smartnationscholarship</a> for the full details or email scholarship@smartnation.gov.sg.
 
 
 
