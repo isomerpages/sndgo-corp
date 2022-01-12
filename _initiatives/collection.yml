@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Strategic National Projects/.keep
-      - Strategic National Projects/Overview.md
+      - Strategic National Projects/Strategic National Projects (Overview).md
       - Strategic National Projects/GoBusiness.md
       - Strategic National Projects/CODEX.md
       - Strategic National Projects/E Payments.md
