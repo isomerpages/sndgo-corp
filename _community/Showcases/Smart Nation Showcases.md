@@ -1,10 +1,11 @@
 ---
-title: Overview
+title: Smart Nation Showcases
 permalink: /community/showcases/overview
 third_nav_title: Showcases
 description: Check out our Smart Nation Showcases!
 image: /images/community/Cityscape-06.jpg
 ---
+
 # Smart Nation Showcases
 
 <br>

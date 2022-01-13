@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Responding to COVID 19 With Tech
 permalink: /covid-19/covid-19-tech
 description: In Singapore, the Smart Nation and Digital Government Group used
   technology to respond swiftly and effectively to the pandemic and keep our
@@ -7,6 +7,8 @@ description: In Singapore, the Smart Nation and Digital Government Group used
   our public health response with technology.
 image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
 ---
+
+
 #  Singapore Harnesses Tech for COVID-19 Pandemic Measures
 
  ![SafeEntry Gateway](/images/covid-19/SafeEntryGatwayCheckOutBox.jpg)

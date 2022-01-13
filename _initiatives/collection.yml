@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Strategic National Projects/.keep
-      - Strategic National Projects/Overview.md
+      - Strategic National Projects/Our Strategic National Projects.md
       - Strategic National Projects/GoBusiness.md
       - Strategic National Projects/CODEX.md
       - Strategic National Projects/E Payments.md
@@ -14,33 +14,33 @@ collections:
       - Strategic National Projects/Smart Urban Mobility.md
       - National AI Strategy.md
       - Business/.keep
-      - Business/Overview.md
+      - Business/Smart Business Initiatives.md
       - Business/Corppass.md
       - Business/Data Innovation Programme Office.md
       - Business/FinTech Sandbox.md
       - Business/Networked Trade Platform.md
       - Digital Government Services/.keep
-      - Digital Government Services/Overview.md
+      - Digital Government Services/Our Digital Government Services.md
       - Digital Government Services/CentEx.md
       - Digital Government Services/HDB Resale Portal.md
       - Digital Government Services/Multilingual Digital Services.md
       - Digital Government Services/OpenCerts.md
       - Digital Government Services/Parents Gateway.md
       - Health/.keep
-      - Health/Overview.md
+      - Health/Smart Health Initiatives.md
       - Health/Assistive Technology and Robotics In Healthcare.md
       - Health/HealthHub.md
       - Health/National Steps Challenge™ & Healthy 365 App.md
       - Health/Telehealth.md
       - Transport/.keep
-      - Transport/Overview.md
+      - Transport/Smart Transport Initiatives.md
       - Transport/Autonomous Vehicles.md
       - Transport/CETRAN.md
       - Transport/Contactless Fare Payment For Public Transport.md
       - Transport/On Demand Shuttle.md
       - Transport/Open Data & Analytics For Urban Transportation.md
       - Urban Living/.keep
-      - Urban Living/Overview.md
+      - Urban Living/Smart Urban Initiatives.md
       - Urban Living/Automated Meter Reading.md
       - Urban Living/Dengue Hotspots Survey Drones.md
       - Urban Living/Elderly Monitoring System.md

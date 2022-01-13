@@ -1,10 +1,13 @@
 ---
-title: Overview
+title: Our Strategic National Projects
 permalink: /initiatives/strategic-national-projects
 third_nav_title: Strategic National Projects
 description: ""
 image: /images/og-image/Strategic-National-Project-OG-Image.jpg
 ---
+
+
+
 # Strategic National Projects
 
 Singapore is engineering its transformation into a Smart Nation – byte by byte, system by system. These Strategic National Projects are the foundation for turning this vision into reality.  
