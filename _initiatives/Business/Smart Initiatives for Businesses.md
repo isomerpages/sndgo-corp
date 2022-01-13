@@ -5,7 +5,7 @@ third_nav_title: Business
 description: ""
 image: /images/initiatives/business-grant-portal-overview.jpeg
 ---
-
+# Business Initiatives
 
 Businesses have a unique opportunity to grow and thrive in Singapore’s Digital Economy due to our competitive advantages. Not only are we well-connected to other major Asian economies, we have also built up an excellent infrastructure and access to technology, on top of a well-educated workforce. Beyond this, we’re looking to solve real-world problems and companies can use Singapore as a testbed, before bringing these to other markets.
 
