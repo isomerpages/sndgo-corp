@@ -2,7 +2,7 @@ collections:
   combating-covid-19:
     output: true
     order:
-      - Tech for COVID 19.md
+      - Responding to COVID 19 With Tech.md
       - Digital Contact Tracing.md
       - Community Preparedness.md
       - Flow of Verified Information.md
