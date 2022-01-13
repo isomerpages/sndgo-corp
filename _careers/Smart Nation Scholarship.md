@@ -16,15 +16,19 @@ Are you passionate about technology and Smart Nation? Are you driven by the desi
 
 If your answer is yes and yes, come apply for the Smart Nation Scholarship. Offered by the Cyber Security Agency of Singapore (<a href="https://www.csa.gov.sg/" target="_blank">CSA</a>), Government Technology Agency (<a href="https://www.tech.gov.sg/" target="_blank">GovTech</a>) and Infocomm Media Development Authority (<a href="https://www.imda.gov.sg/" target="_blank">IMDA</a>), the scholarship is an opportunity for you to carve out a career in tech, while making meaningful contributions to improve the lives around you.
 
-You can indicate or rank your preference of the three agencies. When offered, you can only accept one scholarship offer from the agency of your choice. During the course of your study, you will have internship opportunities with your sponsoring agency and possibly other organisations to experience the work culture and be exposed to challenging tech projects. Upon graduation, you will gain direct admission into a talent programme within your sponsoring agency for fast-tracked career development, where you will be groomed for leadership positions and take on key roles in national projects.
-
-![Smart Nation Scholarship Pathways](/images/careers/Smart_Nation_Scholarship_Pathways.jpg)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Y_bk9YFZvSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Opportunities Abound in Government 
 
-The Smart Nation Scholarship gives talented individuals the opportunity to start a dynamic career in technology to contribute towards the public good. You can look forward to a multifaceted career, specializing in a variety of tech domains and opportunities for job rotations across the different public agencies: 
+
+The Smart Nation Scholarship gives talented individuals the opportunity to start a dynamic career in technology to contribute towards the public good. 
+
+![Smart Nation Scholarship Pathways](/images/careers/Smart_Nation_Scholarship_Pathways.jpg)
+
+At the point of application, you can indicate or rank your preference of the three agencies. When offered, you can only accept one scholarship offer from the agency of your choice. During the course of your study, you will have internship opportunities with your sponsoring agency and possibly other organisations to experience the work culture and be exposed to challenging tech projects. Upon graduation, you will gain direct admission into a talent programme within your sponsoring agency for fast-tracked career development, where you will be groomed for leadership positions and take on key roles in national projects.
+
+You can look forward to a multifaceted career, specializing in a variety of tech domains and opportunities for job rotations across the different public agencies:
 
 ![Multi-Faceted Tech Career Opportunities](/images/careers/multi-faceted-tech-career-opportunities.jpg)
 
