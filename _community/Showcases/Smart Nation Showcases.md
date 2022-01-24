@@ -25,7 +25,6 @@ image: /images/community/Cityscape-06.jpg
 	    <a href="/community/showcases/builder"><img src="/images/community/coming-soon.jpg"></a><br>
      <div class="header"><b>Smart Nation Builder</b></div><br>
   </div>
-  	<div class="col"> 
-     </b></div>  <br>
+  	<div class="col"><br>
   </div>
  </div>
