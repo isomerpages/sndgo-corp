@@ -23,11 +23,9 @@ image: /images/community/Cityscape-06.jpg
  <div class="row">  
   <div class="col"> 
 	    <a href="/community/Community-Projects/Smart-Nation-Builder"><img src="/images/community/coming-soon.jpg"></a><br>
-     <div class="header"><b>Smart Nation Builder (Coming Soon)</b></div><br>
+     <div class="header"><b>Smart Nation Builder</b></div><br>
   </div>
   	<div class="col"> 
      </b></div>  <br>
   </div>
  </div>
- 
-
