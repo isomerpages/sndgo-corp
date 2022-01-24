@@ -16,6 +16,8 @@ Through gamified interactives, complex technological concepts are broken down an
  
 The exhibition consists of eight zones: Sensors, Geospatial, Biometrics, Blockchain, Artificial Intelligence (AI)/ Data Analytics, Robotics, User Experience (UX) & Services, and Augmented/Virtual Reality/Mixed Reality (AR/VR/MR). Each zone includes key game interactives for guests to explore and experience these technologies in a fun and engaging way. 
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CId3K2e2dmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Check out these activities and more! 
 
 Programme a robot to dance. 
