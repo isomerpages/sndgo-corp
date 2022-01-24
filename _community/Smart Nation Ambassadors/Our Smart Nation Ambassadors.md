@@ -16,7 +16,7 @@ Are you interested to help others improve their quality of life with the use of 
 
 Since the Smart Nation Ambassadors programme was launched in January 2019, we’ve had more than1,600 volunteers helping people in the community to access Smart Nation and digital government services and initiatives at roadshows, engagement activities and digital clinics. 
 
-Hear from our ambassadors -Alice, Jamberi, Pearlie and Saiful - on why they decided to serve the community in this way.
+Hear from our ambassadors - Alice, Jamberi, Pearlie and Saiful - on why they decided to serve the community in this way.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/sY__ajCgMnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
