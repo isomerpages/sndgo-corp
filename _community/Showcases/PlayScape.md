@@ -9,6 +9,9 @@ description: Smart Nation PlayScape is jointly developed by the Smart Nation and
 image: /images/community/Playscape_Rubik.jpg
 ---
 # Smart Nation PlayScape
+<br>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CId3K2e2dmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Smart Nation PlayScape is jointly developed by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/). It features a wide variety of digital technologies powering Singapore’s Smart Nation journey. 
 
@@ -16,7 +19,6 @@ Through gamified interactives, complex technological concepts are broken down an
  
 The exhibition consists of eight zones: Sensors, Geospatial, Biometrics, Blockchain, Artificial Intelligence (AI)/ Data Analytics, Robotics, User Experience (UX) & Services, and Augmented/Virtual Reality/Mixed Reality (AR/VR/MR). Each zone includes key game interactives for guests to explore and experience these technologies in a fun and engaging way. 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/CId3K2e2dmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Check out these activities and more! 
 
