@@ -9,7 +9,7 @@ image: /images/community/AR-Storybook-03.jpeg
 ---
 # My Favourite Days
 
-![Alt text for image on Isomer site](/images/community/AR-Storybook-02.jpeg)
+![Alt text for image on Isomer site](/images/community/arstorybook/AR-Storybook-02.jpeg)
 
 ‘My Favourite Days' is a 35-page Augmented Reality (AR) storybook put together by  [TOUCH Community Services](https://www.touch.org.sg/), [Meta](https://about.facebook.com/meta/), and [MeshMinds](https://www.meshminds.com/), together with Smart Nation and Digital Government Office (SNDGO). 
 
@@ -35,7 +35,7 @@ My Favourite Days is available for loan at all [National Library Board](https:/
 You can also download a softcopy of the book below.
 
 <div style="width:30%"> 
- <a href="/files/publications/My-Favourite-Days-E-copy.pdf">My Favourite Days E-copy.pdf(3.6mb):<img src="/images/community/My-Favourite-Days-Cover.jpg" alt="My Favourite Days AR Storybook"></a>
+ <a href="/files/publications/My-Favourite-Days-E-copy.pdf">My Favourite Days E-copy.pdf(3.6mb):<img src="/images/community/arstorybook/My-Favourite-Days-Cover.jpg" alt="My Favourite Days AR Storybook"></a>
 </div>
 
 
