@@ -13,7 +13,7 @@ As we move towards greater digitalisation, more efforts must be made to make our
 
 ### Participate in these activities!
 
-The Smart Nation Builder consists of three zones:
+The Smart Nation Builder consists of the following three zones:
 
 
 #### Explore
