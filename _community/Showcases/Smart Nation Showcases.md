@@ -7,7 +7,7 @@ image: /images/community/playscape/PlayScape_04.jpeg
 ---
 # Smart Nation Showcases
 
-<div class="row" style="padding: 10px 0px 10px 0px;">
+<div class="row" style="padding: 20px 0px 10px 0px;">
   <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 0px 20px;"> 
     <a href="/community/showcases/cityscape"><img src="/images/community/cityscape/Cityscape-01.jpeg" alt="CityScape"></a><br>
     <div class="header" style="font-size:18px"><b>Smart Nation CityScape</b></div><br>
