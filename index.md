@@ -39,13 +39,13 @@ sections:
       button: FIND OUT MORE
       url: https://together.smartnation.gov.sg/
       alt: Smart Nation Together
-      image: /images/community/SNT-webinars.jpg
+      image: /images/community/snt/SNT-webinars.jpg
   - infopic:
       title: Co-create With Us
       description: Share your feedback on digital Government services via SCOPE
       button: Find out more
       url: /community/scope
-      image: /images/community/SmartNationAmbassador01.jpg
+      image: /images/community/sna/SmartNationAmbassador01.jpg
       alt: SCOPE - Co-create with us
 notification: ""
 ---
