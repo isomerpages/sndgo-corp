@@ -13,13 +13,12 @@ The Smart Nation Builder is a 12m-long truck fitted with interactive game statio
 
 As we move towards greater digitalisation, more efforts must be made to make our digital services inclusive and accessible for everyone. The Smart Nation Builder will provide a continuing platform to take in citizens’ input and feedback for better digital government products.
 
-
-### Explore, Engage & Enjoy
+The Smart Nation Builder consist of three zones - "Explore", "Engage" and "Enjoy".
 
 ![Alt text for image on Isomer site](/images/community/builder/Smart_Nation_Builder_02.jpeg)
 
 
-#### Explore
+### Explore
 
 In the "Explore" zone, visitors will get to learn about technological initiatives and digital tools that are helping to transform the way we live, work and play.
 
@@ -39,7 +38,7 @@ In the "Explore" zone, visitors will get to learn about technological initiative
  </div>
 </div>
 
-#### Engage
+### Engage
 
 In the "Engage" zone, members of the public will be invited to share their feedback on existing and upcoming digital initiatives.
 
@@ -59,7 +58,7 @@ In the "Engage" zone, members of the public will be invited to share their feedb
 
 </div></div>
 
-#### Enjoy
+### Enjoy
 
 <br>
 
