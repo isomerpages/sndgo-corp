@@ -24,19 +24,19 @@ The exhibition consists of eight zones: Sensors, Geospatial, Biometrics, Blockch
 
 Programme a robot to dance. 
 
-![Smart Nation PlayScape - Robot](/images/community/PlayScape_04.jpeg)
+![Smart Nation PlayScape - Robot](/images/community/playscape/PlayScape_04.jpeg)
 
 Scramble a Rubik’s cube and watch how our robot solves it.
 
-![Smart Nation PlayScape - Rubik's Cube](/images/community/Playscape_Rubik.jpg)
+![Smart Nation PlayScape - Rubik's Cube](/images/community/playscape/Playscape_Rubik.jpg)
 
 Add blocks representing different elements such as schools, houses, parks to the city, and observe how the quality-of-life changes.
 
-![Smart Nation PlayScape - Build a City](/images/community/PlayScape_01.jpeg)
+![Smart Nation PlayScape - Build a City](/images/community/playscape/PlayScape_01.jpeg)
 
 Compete with friends to see how fast the computer can recognise your doodles.
 
-![Smart Nation PlayScape - Doodles](/images/community/PlayScape_02.jpeg)
+![Smart Nation PlayScape - Doodles](/images/community/playscape/PlayScape_02.jpeg)
 
 
 ### Visit the exhibition 
