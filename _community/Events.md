@@ -6,7 +6,9 @@ image: /images/community/SmartNationAmbassador01.jpg
 ---
 # Events
 
-![Smart Nation Events](/images/community/Smart_Nation_Events.jpg)
+![Smart Nation Events](/images/community/headerimages/Smart_Nation_Events.jpg)
+
+
 
 ### Smart Nation & U 2021 
 <br>
@@ -17,9 +19,9 @@ Themed “Reclaiming our Lives with Tech”, Smart Nation & U 2021 put together 
 
 Find out more about the event [here](/media-hub/press-releases/Smart-Nation-&-U-2021).
 
-![Smart Nation & U 2021 - Panel](/images/community/snu-02.jpeg)
+![Smart Nation & U 2021 - Panel](/images/community/events/snu-02.jpeg)
 
-![Smart Nation & U 2021 - Roadshow](/images/community/snu-01.jpeg)
+![Smart Nation & U 2021 - Roadshow](/images/community/events/snu-01.jpeg)
 
 
 ### SkillsFuture Month X Smart Nation 2021
@@ -35,12 +37,12 @@ The hybrid SkillsFuture Month X Smart Nation 2021 event comprises two physical r
 
 Find out more about the event [here](/media-hub/press-releases/skillsfuture-month-smart).
 
-![SkillsFuture Month X Smart Nation 2021 - Roadshow](/images/community/sn-skillsfuture-01.jpeg)
+![SkillsFuture Month X Smart Nation 2021 - Roadshow](/images/community/events/sn-skillsfuture-01.jpeg)
 
-![SkillsFuture Month X Smart Nation 2021 - Roadshow](/images/community/sn-skillsfuture-02.jpeg)
+![SkillsFuture Month X Smart Nation 2021 - Roadshow](/images/community/events/sn-skillsfuture-02.jpeg)
 
 ### #SmartNationTogether
 
 Visit the [#SmartNationTogether website](https://together.smartnation.gov.sg/ ) to check out tech-related talks and workshops for kids & young parents, working adults, and seniors.
 
-![#SmartNationTogether Website](/images/community/SNT-webinars.jpg)
+![#SmartNationTogether Website](/images/community/snt/SNT-webinars.jpg)
