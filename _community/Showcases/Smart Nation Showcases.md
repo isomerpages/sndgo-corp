@@ -13,7 +13,7 @@ image: /images/community/playscape/PlayScape_04.jpeg
     <a href="/community/showcases/cityscape"><img src="/images/community/cityscape/Cityscape-01.jpeg" alt="CityScape"></a><br>
     <div class="header" style="font-size:18px"><b>Smart Nation CityScape</b></div><br>
   </div> <> 
-  	<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 0px 20px;"> 
+  	<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 0px 20px;"> &nbsp &nbsp &nbsp &nbsp
       <a href="/community/showcases/playscape"><img src="/images/community/playscape/Playscape_Rubik.jpg" alt="PlayScape"></a><br>
       <div class="header" style="font-size:18px"><b>Smart Nation PlayScape</b></div>  <br>
   </div>
