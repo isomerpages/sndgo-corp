@@ -26,18 +26,18 @@ In the "Explore" zone, visitors will get to learn about technological initiative
 <br>
 
 <div class="row">
-<div class="col"> 
-<img src="/images/community/builder/Smart_Nation_Builder_03.jpeg" alt="Smart Nation Builder Explore Zone"><br>
-<div class="para" style="font-size:18px">Learn about the digital tools and services available to help you in key areas of your life.
-</div>
+	<div class="col" style="font-size:18px">
+		<img src="/images/community/builder/Smart_Nation_Builder_03.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+		<div class="para" style="font-size:18px">Learn about the digital tools and services available to help you in key areas of your life.
+		</div>
+	</div>
 
-</div>
-	<div class="col"> 
+<div class="col"> 
 <img src="images/community/builder/Smart_Nation_Builder_04.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 	<div class="para" style="font-size:18px">Find out about the revamped LifeSG app and how easy it is to access various digital services.
+	</div>
+ </div>
 </div>
-
-</div></div>
 
 #### Engage
 
