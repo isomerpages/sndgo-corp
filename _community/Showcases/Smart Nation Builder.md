@@ -13,7 +13,10 @@ The Smart Nation Builder is a 12m-long truck fitted with interactive game statio
 
 As we move towards greater digitalisation, more efforts must be made to make our digital services inclusive and accessible for everyone. The Smart Nation Builder will provide a continuing platform to take in citizens’ input and feedback for better digital government products.
 
-The Smart Nation Builder consist of three zones - "Explore", "Engage" and "Enjoy".
+The Smart Nation Builder consist of three zones:
+* Explore
+* Engage
+* Enjoy
 
 ![Alt text for image on Isomer site](/images/community/builder/Smart_Nation_Builder_02.jpeg)
 
@@ -24,7 +27,7 @@ In the "Explore" zone, visitors will get to learn about technological initiative
 
 <br>
 
-<div class="row">
+<div class="row" style="background-color: #f3f3f3;">
 	<div class="col" style="font-size:18px">
 		<img src="/images/community/builder/Smart_Nation_Builder_03.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 		<div class="para" style="font-size:18px">Learn about the digital tools and services available to help you in key areas of your life.
@@ -44,7 +47,7 @@ In the "Engage" zone, members of the public will be invited to share their feedb
 
 <br>
 
-<div class="row">
+<div class="row" style="background-color: #f3f3f3;">
 <div class="col"> 
 <img src="images/community/builder/Smart_Nation_Builder_05.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div class="para" style="font-size:18px">Vote for your favourite tech ideas or initiative.
@@ -64,7 +67,9 @@ In the "Engage" zone, members of the public will be invited to share their feedb
 
 In the "Enjoy" zone, participants can have fun and create memories at the photobooth and claw machine, as a reward for their efforts!
 
-<div class="row">
+<br>
+
+<div class="row" style="background-color: #f3f3f3;">
 <div class="col"> 
 <img src="images/community/builder/Smart_Nation_Builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div class="para" style="font-size:18px">Capture your favourite moments at our photobooth and share it with your friends. 
