@@ -6,7 +6,79 @@ description: ""
 ---
 # Smart Nation Builder 
 
-## Participate in thes
+The Smart Nation Builder is a 12m-long truck fitted with interactive game stations for members of the public to learn more about Singapore’s tech initiatives and digital Government services. 
 
-### Learn
+As we move towards greater digitalisation, more efforts must be made to make our digital services inclusive and accessible for everyone. The Smart Nation Builder will provide a continuing platform to take in citizens’ input and feedback for better digital government products.
 
+
+### Participate in these activities!
+
+The Smart Nation Builder consists of three zones:
+
+
+#### Explore
+
+In the "Explore" zone, visitors will get to learn about technological initiatives and digital tools that are helping to transform the way we live, work and play.
+
+<br>
+<div class="row">
+<div class="col"> 
+<img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
+<div class="para">Learn about the digital tools and services available to help you in key areas of your life.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
+	<div class="para">Find out about the revamped LifeSG app and how easy it is to access various digital services.
+</div>
+<br>
+
+</div></div>
+
+#### Engage
+
+In the "Engage" zone, members of the public will be invited to share their feedback on existing and upcoming digital initiatives.
+
+<br>
+<div class="row">
+<div class="col"> 
+<img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
+<div class="para">Vote for your favourite tech ideas or initiative.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
+	<div class="para">Share on how we can better improve our digital government services. 
+</div>
+<br>
+
+</div></div>
+
+#### Enjoy
+
+In the "Enjoy" zone, participants can have fun and create memories at the photobooth and claw machine, as a reward for their efforts!
+
+<br>
+<div class="row">
+<div class="col"> 
+<img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
+<div class="para">Capture your favourite moments at our photobooth and share it with your friends. 
+</div>
+<br>
+
+</div>
+	<div class="col"> 
+<img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
+	<div class="para">Redeem the points you’ve collected from the different activities at the draw machine to win cool prizes.
+</div>
+<br>
+
+</div></div>
+
+### Where can you find the Smart Nation Builder?
+
+The roving Smart Nation Builder will be travelling to the heartlands, community spaces, shopping malls and public libraries from the second half of 2022.
