@@ -24,14 +24,14 @@ In the "Explore" zone, visitors will get to learn about technological initiative
 <div class="row">
 <div class="col"> 
 <img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
-<div class="para">Learn about the digital tools and services available to help you in key areas of your life.
+<div class="para" style="font-size:18px">Learn about the digital tools and services available to help you in key areas of your life.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
 <img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
-	<div class="para">Find out about the revamped LifeSG app and how easy it is to access various digital services.
+	<div class="para" style="font-size:18px">Find out about the revamped LifeSG app and how easy it is to access various digital services.
 </div>
 <br>
 
@@ -45,14 +45,14 @@ In the "Engage" zone, members of the public will be invited to share their feedb
 <div class="row">
 <div class="col"> 
 <img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
-<div class="para">Vote for your favourite tech ideas or initiative.
+<div class="para" style="font-size:18px">Vote for your favourite tech ideas or initiative.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
 <img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
-	<div class="para">Share on how we can better improve our digital government services. 
+	<div class="para" style="font-size:18px">Share on how we can better improve our digital government services. 
 </div>
 <br>
 
@@ -66,14 +66,14 @@ In the "Enjoy" zone, participants can have fun and create memories at the photob
 <div class="row">
 <div class="col"> 
 <img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
-<div class="para">Capture your favourite moments at our photobooth and share it with your friends. 
+<div class="para" style="font-size:18px">Capture your favourite moments at our photobooth and share it with your friends. 
 </div>
 <br>
 
 </div>
 	<div class="col"> 
 <img src="/images/community/coming-soon.jpg" alt="Smart Nation Builder Explore Zone"></a><br>
-	<div class="para">Redeem the points you’ve collected from the different activities at the draw machine to win cool prizes.
+	<div class="para" style="font-size:18px">Redeem the points you’ve collected from the different activities at the draw machine to win cool prizes.
 </div>
 <br>
 
