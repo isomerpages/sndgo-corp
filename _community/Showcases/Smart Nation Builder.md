@@ -9,14 +9,11 @@ image: /images/community/builder/Smart_Nation_Builder_00.jpeg
 
 ![Smart Nation Builder](/images/community/builder/Smart_Nation_Builder_00.jpeg)
 
-The Smart Nation Builder is a 12m-long truck fitted with interactive game stations for members of the public to learn more about Singapore’s tech initiatives and digital Government services. 
+The Smart Nation Builder is a 12m-long truck fitted with interactive game stations for members of the public to learn more about Singapore’s tech initiatives and digital Government services. It is also platform for citizens to provide inputs and feedback to improve our products and services.
 
-As we move towards greater digitalisation, more efforts must be made to make our digital services inclusive and accessible for everyone. The Smart Nation Builder will provide a continuing platform to take in citizens’ input and feedback for better digital government products.
+That's not all. The Smart Nation Builder also provides an opportunity for our product teams to present prototypes of new projects for testing and invite members of the public to suggest improvements to the user interface, accessibility and overall user experience. This is part of our co-creation process to make digital services and digital government products inclusive and accessible for everyone.
 
-The Smart Nation Builder consist of three zones:
-* Explore
-* Engage
-* Enjoy
+The Smart Nation Builder consist of three zones where visitors get to "Explore", "Engage" and "Enjoy"
 
 ![Three Zones - Smart Nation Builder](/images/community/builder/Smart_Nation_Builder_02.jpeg)
 
@@ -60,22 +57,50 @@ In the "Engage" zone, members of the public will be invited to share their feedb
 
 </div></div>
 
+ <div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">
+<img src="images/community/builder/Smart_Nation_Builder_11.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<div style="font-size:18px">Test prototypes of products and services when there are new products and services in development.
+</div>
+</div>
+	
+&nbsp; &nbsp; &nbsp; 
+
+<div class="col" style="padding: 20px 20px 20px 20px;"><br>
+</div>
+
+</div></div>
+
 ### Enjoy
 
 In the "Enjoy" zone, participants can have fun and create memories at the photobooth and claw machine, as a reward for their efforts!
 
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
-<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 0px 20px;"> 
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
 <img src="images/community/builder/Smart_Nation_Builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Capture your favourite moments at our photobooth and share it with your friends. 
-</div><br>
+</div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
-<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 0px 20px;">  
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
+<img src="images/community/builder/Smart_Nation_Builder_10.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	<div style="font-size:18px">Keep your young ones entertained at the interative Kids Wall where they get to play games.
+</div>
+
+</div></div>
+
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">
 <img src="images/community/builder/Smart_Nation_Builder_09.jpeg" alt="Smart Nation Builder Explore Zone"><br>
-	<div style="font-size:18px">Redeem the points you’ve collected from the different activities at the draw machine to win cool prizes.
+<div style="font-size:18px">Redeem the points you’ve collected from the different activities at the draw machine to win cool prizes.
+</div>
+</div>
+	
+&nbsp; &nbsp; &nbsp; 
+
+<div class="col" style="padding: 20px 20px 20px 20px;"><br>
 </div>
 
 </div></div>
