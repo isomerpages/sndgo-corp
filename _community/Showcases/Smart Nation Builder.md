@@ -106,4 +106,4 @@ Participants can have fun and create memories at the photobooth and claw machine
 
 ### Where can you visit the Smart Nation Builder?
 
-The roving Smart Nation Builder will be travelling to the heartlands, community spaces, shopping malls and public libraries from the second half of 2022. 
+The roving Smart Nation Builder will be travelling to the heartlands, community spaces, shopping malls and public libraries from the second half of 2022.
