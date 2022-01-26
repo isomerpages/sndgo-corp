@@ -8,7 +8,6 @@ description: Smart Nation PlayScape is jointly developed by the Smart Nation and
   life.
 image: /images/community/playscape/PlayScape_04.jpeg
 ---
-
 # Smart Nation PlayScape
 <br>
 
@@ -44,8 +43,8 @@ Compete with friends to see how fast the computer can recognise your doodles.
 
  Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore. 
 
-**Address** <br>
+#### Address
 15 Science Centre Road (Singapore 609081). 
 
-**Opening Hours**<br>
+#### Opening Hours
 Visit [www.science.edu.sg/visit-us/opening-hours](www.science.edu.sg/visit-us/opening-hours) to view opening hours.
