@@ -69,7 +69,7 @@ Here, members of the public will be invited to share their thoughts and suggesti
 <div class="col" style="padding: 20px 20px 20px 20px;"><br>
 </div>
 
-</div></div>
+</div>
 
 ### Enjoy
 
@@ -102,7 +102,7 @@ Participants can have fun and create memories at the photobooth and claw machine
 <div class="col" style="padding: 20px 20px 20px 20px;"><br>
 </div>
 
-</div></div>
+</div>
 
 ### Where can you visit the Smart Nation Builder?
 
