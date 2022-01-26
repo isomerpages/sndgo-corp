@@ -6,7 +6,6 @@ description: Volunteer as a Smart Nation Ambassador and help us help fellow
   Singaporeans get involved in the Smart Nation journey.
 image: /images/community/sna/SmartNationAmbassador01.jpg
 ---
-
 # Transform Lives with Technology
 
 ![Smart Nation Ambassdors](/images/community/sna/SNA-smart-Nation-U.jpg)
@@ -15,9 +14,13 @@ Are you interested to help others improve their quality of life with the use of 
 
 ## Meet our Smart Nation Ambassadors
 
-Since the Smart Nation Ambassadors programme was launched in January 2019, we’ve had more than1,600 volunteers helping people in the community to access Smart Nation and digital government services and initiatives at roadshows, engagement activities and digital clinics. 
+Since the Smart Nation Ambassadors programme was launched in January 2019, we’ve had about 4,000 volunteers helping the community embrace digital technologies to improve their lives.
 
-Hear from our ambassadors - Alice, Jamberi, Pearlie and Saiful - on why they decided to serve the community in this way.
+Our Smart Nation Ambassadors bring different skills, expertise and experience that adds to our Smart Nation efforts. This meant sharing user tips with the public on digital government tools and services, curating lessons to help workers pick up tech skills, to helping project teams gather feedback to improve our offerings at roadshows, digital clinics and various engagement activities.
+
+Each year, at every Smart Nation Ambassadors (SNAs) Appreciation Event, we take the opportunity to honour Star SNAs who have gone above and beyond in their roles as SNAs. Hear from our Star SNAs on what motivates them to volunteer.
+
+#### Star Smart Nation Ambassadors 2020
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/sY__ajCgMnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
