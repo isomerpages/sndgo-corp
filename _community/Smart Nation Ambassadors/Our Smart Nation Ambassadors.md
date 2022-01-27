@@ -39,4 +39,6 @@ For more updates on Smart Nation events, follow us on Telegram:
 
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:10%;height:10%;"><a href="https://t.me/SmartNationAmbassadors" target="_blank"><img src="/images/community/icons/telegram.png"></a></div></div>
 
-[^1]: As of Jan 2022.
+***
+
+[^1]: *As of Jan 2022.*
