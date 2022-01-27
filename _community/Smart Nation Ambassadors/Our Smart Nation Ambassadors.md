@@ -14,11 +14,12 @@ Are you interested to help others improve their quality of life with the use of 
 
 ## Meet our Smart Nation Ambassadors
 
-Since the Smart Nation Ambassadors programme was launched in January 2019, we’ve had about 4,000 volunteers helping the community embrace digital technologies to improve their lives.
+Since the Smart Nation Ambassadors (SNAs) programme was launched in January 2019, about 4,000 volunteers[^1] have joined us to help the community embrace digital technologies to improve their lives.
 
-Our Smart Nation Ambassadors bring different skills, expertise and experience that adds to our Smart Nation efforts. This meant sharing user tips with the public on digital government tools and services, curating lessons to help workers pick up tech skills, to helping project teams gather feedback to improve our offerings at roadshows, digital clinics and various engagement activities.
+Our Ambassadors are the ‘special sauce’ that make Smart Nation special. From poly students to retirees, from academics to techies – they are bound by a desire to bring their skills, expertise and experience to add to our Smart Nation effort. Their contributions can take many different shapes: sharing user tips with the public on digital government tools and services at roadshows; facilitating webinars on everyday apps; helping project teams gather user feedback.
 
-Each year, at every Smart Nation Ambassadors (SNAs) Appreciation Event, we take the opportunity to honour Star SNAs who have gone above and beyond in their roles as SNAs. Hear from our Star SNAs on what motivates them to volunteer.
+ 
+Every year, we organise an event  to thank our wonderful Ambassadors, and also to give special mention to our Star SNAs, recognised for being our super volunteers. Find out what motivates them in the videos below:
 
 #### Star Smart Nation Ambassadors 2020
 
@@ -37,3 +38,5 @@ Be sure to read our [FAQs](/community/smart-nation-ambassadors/faq) to clear up 
 For more updates on Smart Nation events, follow us on Telegram:
 
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:10%;height:10%;"><a href="https://t.me/SmartNationAmbassadors" target="_blank"><img src="/images/community/icons/telegram.png"></a></div></div>
+
+[^1]: As of Jan 2022.
