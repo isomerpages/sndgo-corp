@@ -21,6 +21,10 @@ Our Ambassadors are the ‘special sauce’ that make Smart Nation special. From
  
 Every year, we organise an event  to thank our wonderful Ambassadors, and also to give special mention to our Star SNAs, recognised for being our super volunteers. Find out what motivates them in the videos below:
 
+#### Star Smart Nation Ambassadors 2021
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/OBlYqjp8aJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Star Smart Nation Ambassadors 2020
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/sY__ajCgMnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
