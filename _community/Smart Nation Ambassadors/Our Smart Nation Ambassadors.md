@@ -4,19 +4,28 @@ permalink: /community/smart-nation-ambassadors
 third_nav_title: Smart Nation Ambassadors
 description: Volunteer as a Smart Nation Ambassador and help us help fellow
   Singaporeans get involved in the Smart Nation journey.
-image: /images/community/SmartNationAmbassador01.jpg
+image: /images/community/sna/SmartNationAmbassador01.jpg
 ---
 # Transform Lives with Technology
 
-![Smart Nation Ambassdors](/images/community/SNA-smart-Nation-U.jpg)
+![Smart Nation Ambassdors](/images/community/sna/SNA-smart-Nation-U.jpg)
 
 Are you interested to help others improve their quality of life with the use of tech?  Volunteer as a Smart Nation Ambassador and help us help fellow Singaporeans get involved in the Smart Nation journey.
 
 ## Meet our Smart Nation Ambassadors
 
-Since the Smart Nation Ambassadors programme was launched in January 2019, we’ve had more than1,600 volunteers helping people in the community to access Smart Nation and digital government services and initiatives at roadshows, engagement activities and digital clinics. 
+Since the Smart Nation Ambassadors (SNAs) programme was launched in January 2019, about 4,000[^1] volunteers have joined us to help the community embrace digital technologies to improve their lives.
 
-Hear from our ambassadors -Alice, Jamberi, Pearlie and Saiful - on why they decided to serve the community in this way.
+Our Ambassadors are the ‘special sauce’ that make Smart Nation special. From poly students to retirees, from academics to techies – they are bound by a desire to bring their skills, expertise and experience to add to our Smart Nation effort. Their contributions can take many different shapes: sharing user tips with the public on digital government tools and services at roadshows; facilitating webinars on everyday apps; helping project teams gather user feedback.
+
+ 
+Every year, we organise an event  to thank our wonderful Ambassadors, and also to give special mention to our Star SNAs, recognised for being our super volunteers. Find out what motivates them in the videos below:
+
+#### Star Smart Nation Ambassadors of 2021
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/-V8zlVy499o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Star Smart Nation Ambassadors of 2020
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/sY__ajCgMnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -26,10 +35,14 @@ You don’t need to be a digital whiz or have deep technical skills to volunteer
 
 To volunteer, sign up for your preferred activity here: <a href="https://www.volunteer.gov.sg/volunteer/agencies/agency_details/?code=SmartNation" target="_blank">Volunteer.gov.sg</a>  
 
-![Smart Nation Ambassdors](/images/community/SNA-Grp.jpg)
+![Smart Nation Ambassdors](/images/community/sna/SNA-Grp.jpg)
 
 Be sure to read our [FAQs](/community/smart-nation-ambassadors/faq) to clear up any questions or concerns you may have. If you have an exciting idea on how we can help each other in this digital journey, please write to us at [ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg). We want to hear from you!
 
 For more updates on Smart Nation events, follow us on Telegram:
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:10%;height:10%;"><a href="https://t.me/SmartNationAmbassadors" target="_blank"><img src="/images/community/telegram.png"></a></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:10%;height:10%;"><a href="https://t.me/SmartNationAmbassadors" target="_blank"><img src="/images/community/icons/telegram.png"></a></div></div>
+
+***
+
+[^1]: *As of Jan 2022.*
