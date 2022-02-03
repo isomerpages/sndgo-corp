@@ -24,7 +24,7 @@ The new Programmes were selected based on their potential for wide-ranging impac
 
 	* Central AI Products will be developed for common AI applications that can be used across the Government.
 	
-		* GovTech has developed a **Video Analytics System (VAS)** to support public agencies in the development and deployment of video analytics models. Using the VAS, NParks and GovTech developed the [Safe Distance @ Parks](https://safedistparks.nparks.gov.sg/) portal in just 3.5 days. The portal provides the public with live crowd density data in our parks, gardens, and nature reserves, for public to make informed decisions about where to go.
+		* GovTech has developed a **Video Analytics System (VAS)** to support public agencies in the development and deployment of video analytics models. Using the VAS, NParks and GovTech developed the [Safe Distance @ Parks] portal in just 3.5 days. The portal provides the public with live crowd density data in our parks, gardens, and nature reserves, for public to make informed decisions about where to go.
 
 		* Another area of focus is AI text analytics. By leveraging techniques such as natural language processing, we aim to better sense-make information such as the feedback that our frontline agencies receive each year. This will allow us to better understand the pain points and serve citizens better.
 
