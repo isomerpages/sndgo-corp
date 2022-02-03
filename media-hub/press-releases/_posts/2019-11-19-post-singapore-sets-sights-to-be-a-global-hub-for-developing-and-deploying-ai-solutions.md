@@ -34,7 +34,7 @@ We will work closely with key international organisations and standard-setting o
 
 Singapore has established a National AI Office to drive the national AI agenda and to catalyse efforts across research, industry and government stakeholders to work on identified areas of priorities.
 
-For more information on Singapore’s [National AI Strategy, please visit this page](/abt-smart-nation/artificial-intelligence).
+Click on the link for more information on [Singapore’s National AI Strategy](/initiatives/artificial-intelligence).
 
 ---
 
