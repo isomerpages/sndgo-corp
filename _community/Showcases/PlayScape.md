@@ -47,4 +47,4 @@ Compete with friends to see how fast the computer can recognise your doodles.
 15 Science Centre Road (Singapore 609081). 
 
 #### Opening Hours
-Visit [www.science.edu.sg/visit-us/opening-hours](www.science.edu.sg/visit-us/opening-hours) to view opening hours.
+Visit [www.science.edu.sg/visit-us/opening-hours](https://www.science.edu.sg/visit-us/opening-hours) to view opening hours.
