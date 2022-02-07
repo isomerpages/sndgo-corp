@@ -18,7 +18,7 @@ This [COVID-19 Situatuional Report Dashboard](https://covidsitrep.moh.gov.sg/) p
 
 # FluGoWhere
 
-This [FluGoWher website](https://flu.gowhere.gov.sg/) allows the public to find a PHPC clinic closest to them should they need to see a doctor if they have any respiratory infections.
+This [FluGoWhere website](https://flu.gowhere.gov.sg/) allows the public to find a PHPC clinic closest to them should they need to see a doctor if they have any respiratory infections.
 
 PHPC clinics are equipped to handle cases with respiratory infections and provide subsidised treatment, investigations and medications during outbreaks. They play an essential role during public health outbreaks such as the COVID-19 pandemic. 
 
