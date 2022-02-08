@@ -4,8 +4,6 @@ permalink: /resources/business
 description: ""
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
-
 Venturing into a new business or running an existing one can be fraught with challenges, especially in an economic landscape marked by uncertainties caused by the COVID-19 pandemic. However, there are also opportunities to be had as Singapore and the world undergoes a digital transformation.
 
 So whether you’re just starting out or looking to expand your operations, we want to help you along this entrepreneurial journey. 
@@ -83,7 +81,7 @@ The programme will cover business needs including productivity tools such as acc
 
 ## <a href="https://www.imda.gov.sg/StartDigital">Start Digital</a>
 
-With the Start Digital Pack, you can gain an advantage to better capture business opportunities, without being constrained by day-to-day operations.. As a new business, you can approach any of the partners to take up your Start Digital Pack, with costs waived for a minimum of 6 months.
+With the Start Digital Pack, you can gain an advantage to better capture business opportunities, without being constrained by day-to-day operations. As a new business, you can approach any of the partners to take up your Start Digital Pack, with costs waived for a minimum of 6 months.
 
 Start Digital, start Right.
 
