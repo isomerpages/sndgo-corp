@@ -9,20 +9,16 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 third_nav_title: Our Key Pillars
 ---
 # Pillars of a Smart Nation
-
-Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a Smart Nation, harnessing technology to transform how its people and businesses live, work and play.  
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/DJmoy41mWDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-The digital revolution is upon us, and Singapore must adapt and use technology to harvest the benefits of digitalisation.
-
-Building a Smart Nation is a whole-of-nation effort which comprises three pillars: 
-
-
-
 ![Three Pillars of a Smart Nation](/images/abt-smart-nation/Smart_Nation_Pillars.jpg)
 
 | |  |  |
 | - | - | - |
 | <a href="/about-smart-nation/digital-society"><img src="/images/abt-smart-nation/Digital_Society_Button.jpg" alt="Digital Society"> | <a href="/about-smart-nation/digital-economy"><img src="/images/abt-smart-nation/Digital_Economy_Button.jpg" alt="Digital Economy"> |<a href="/about-smart-nation/digital-government"><img src="/images/abt-smart-nation/Digital_Government_Button.jpg" alt="Digital Government"></a> |
 |  |  |  |
+
+	
+Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a Smart Nation, harnessing technology to transform how its people and businesses live, work and play.  
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/DJmoy41mWDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+The digital revolution is upon us, and Singapore must adapt and use technology to harvest the benefits of digitalisation.
