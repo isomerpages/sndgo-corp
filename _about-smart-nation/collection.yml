@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Transforming SG Through Technology.md
-      - Building a Smart Nation/Digital Government.md
       - Building a Smart Nation/.keep
       - Building a Smart Nation/Pillars of a Smart Nation .md
-      - Building a Smart Nation/Digital Economy.md
       - Building a Smart Nation/Digital Society.md
+      - Building a Smart Nation/Digital Economy.md
+      - Building a Smart Nation/Digital Government.md
       - A Secure Smart Nation/.keep
       - A Secure Smart Nation/Protecting Data & Safeguarding Systems.md
       - A Secure Smart Nation/Cybersecurity in the Public Sector.md
