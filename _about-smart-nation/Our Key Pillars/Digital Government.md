@@ -5,7 +5,6 @@ description: ""
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 third_nav_title: Our Key Pillars
 ---
-
 ## Digital Government
 
 Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
@@ -70,3 +69,12 @@ We’ve also set our targets for 2023 and beyond:
 * No more than 7 working days to share data for cross-agency projects
 
 Read the latest DGB here: [DGB - 30 December 2020 (277kb)](/files/publications/dgb-public-document_30dec20.pdf)
+
+<br>
+
+___
+		 		 
+**Related Links:**
+
+* <a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy & Digital Governement</a>
+* <a href="/about-smart-nation/our-journey/milestones">Milestones of Singapore’s Smart Nation story</a>
