@@ -7,8 +7,6 @@ description: Digital technologies and solutions need to be made secure to ensure
   to the Government is protected.
 image: /images/abt-smart-nation/cybersecurity.png
 ---
-
-
 # Cybersecurity In The Public Sector
 ![Cybersecurity](/images/abt-smart-nation/cybersecurity.png)
 
@@ -32,4 +30,4 @@ Digital defence is the 6th pillar of our national defence, and the Government wo
 
 The public sector’s cybersecurity defence is led by the Cyber Security Group (CSG) at GovTech. Click on the link for more information on the <a href="https://www.tech.gov.sg/digital-government-blueprint/" >role of cybersecurity in the Digital Government Blueprint</a>.
 
-To learn more about the latest developments in cybersecurity, please visit the <a href="https://medium.com/csg-govtech" target="_blank">CSG Medium homepage.</a>
+To learn more about the latest developments in cybersecurity, please visit the <a href="https://medium.com/csg-govtech" target="_blank">CSG Medium homepage</a>.
