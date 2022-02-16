@@ -8,7 +8,7 @@ description: Our vision for a digital-first Singapore is one where a Digital
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 third_nav_title: Our Key Pillars
 ---
-# Pillars of a Smart Nation
+# Three Pillars of a Smart Nation
 ![Three Pillars of a Smart Nation](/images/abt-smart-nation/Smart_Nation_Pillars.jpg)
 
 <div class="row">
