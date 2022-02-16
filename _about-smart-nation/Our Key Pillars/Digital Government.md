@@ -5,7 +5,7 @@ description: ""
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 third_nav_title: Our Key Pillars
 ---
-## Digital Government
+# Digital Government
 
 Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
 
@@ -36,7 +36,7 @@ The blueprint’s strategies have been updated to place more emphasis on users�
 The pandemic has given renewed impetus for government agencies to digitalise, including making deeper changes in organisational policy, structure and culture. 
 
 
-### The progress so far
+## The progress so far
 Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2020.
 
 * **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
