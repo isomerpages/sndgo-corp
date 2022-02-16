@@ -6,7 +6,6 @@ description: The Smart Nation initiative is our way forward. Technology will be
   play.
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
-
 # Transforming Singapore Through Technology
 
 ![Transforming Singapore Through Technology](/images/abt-smart-nation/Singapore-Tech.jpg)
@@ -17,7 +16,7 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
 <div style="width:100%">
- <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"> Transforming Singapore Through Technology Infographic (3.1mb):<img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg" alt="Transforming Singapore Through Technology Infographic"></a>
+ <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"> <img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg" alt="Transforming Singapore Through Technology Infographic">Transforming Singapore Through Technology Infographic (3.1mb)</a>
 </div>
 
 Our vision for a digital-first Singapore is one where a Digital Government, Digital Economy and Digital Society harness technology to effect transformation in  health, transport, urban living, government services and businesses.
@@ -54,7 +53,7 @@ You can read about the initiatives we have to facilitate this culture of innovat
 
 Data sets collected by public agencies are now available and accessible to the public through online portals, making it easy for developers to co-create digital solutions to benefit society. 
 
-Click on the link to access the [open data sets](/resources/open-data) available.
+Click on the link to access the available [open data sets](/resources/open-data).
 
 ### Living Laboratory
 
