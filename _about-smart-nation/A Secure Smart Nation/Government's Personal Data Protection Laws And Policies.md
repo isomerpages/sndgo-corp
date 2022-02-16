@@ -6,8 +6,6 @@ description: The Government has put in place strong personal data protection
   laws and policies to safeguard sensitive data.
 image: /images/abt-smart-nation/govt-personal-data-protection.png
 ---
-
-
 # Government's Personal Data Protection Laws And Policies
 ![Personal Data Protection Laws and Policies](/images/abt-smart-nation/govt-personal-data-protection.png)
 
@@ -26,13 +24,13 @@ As part of the PSDSRC recommendation to provide the public with more information
 **Find out more about the Government’s key personal data protection policies in the document below:**
 
 <div style="width:40%"> 
- <a href="/files/publications/government-personal-data-protection-policies-jul21.pdf" target="_blank"> Government’s Key Personal Data Protection Policies (5.8mb):<img src="/images/abt-smart-nation/government-personal-data-protection-policies-apr2020.jpeg" alt="Government’s Key Personal Data Protection Policies"></a>
+ <a href="/files/publications/government-personal-data-protection-policies-jul21.pdf" target="_blank"><img src="/images/abt-smart-nation/government-personal-data-protection-policies-apr2020.jpeg" alt="Government’s Key Personal Data Protection Policies">Government’s Key Personal Data Protection Policies (5.8mb)</a>
 </div>
 
 **Find out more about the Government’s key data security policies in the document below:**
 
 <div style="width:40%"> 
- <a href="/files/publications/government-data-security-policies.pdf" target="_blank"> Government’s Key Data Security Policies (606kb):<img src="/images/abt-smart-nation/government-data-security-policies.jpeg" alt="Government’s Key Personal Data Security Policies"></a>
+ <a href="/files/publications/government-data-security-policies.pdf" target="_blank"> <img src="/images/abt-smart-nation/government-data-security-policies.jpeg" alt="Government’s Key Personal Data Security Policies">Government’s Key Data Security Policies (606kb)</a>
 </div>
 
 Click on the link to find out more about the data-related provisions in Sections 6 to 8 of the  <a href="https://sso.agc.gov.sg/Act/PSGA2018" target="_blank">Public Sector (Governance) Act</a>. 
@@ -63,5 +61,5 @@ A **Third Party** is defined as a party (other than a **data subject[^1]** or an
 **Find out more about the key policies that govern how agencies work with its third parties to safeguard data in the document below:**
 
 <div style="width:40%"> 
- <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"> Key Policies of the Government's Third-Party Management Framework (1.2mb):<img src="/images/abt-smart-nation/key-policies-third-party-framework.jpeg" alt="Key Policies of the Government's Third-Party Management Framework"></a>
+ <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"> <img src="/images/abt-smart-nation/key-policies-third-party-framework.jpeg" alt="Key Policies of the Government's Third-Party Management Framework">Key Policies of the Government's Third-Party Management Framework (1.2mb)</a>
 </div>
