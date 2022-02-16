@@ -21,13 +21,13 @@ The National AI Strategy outlines our plans to deepen the use of AI to transform
  - Address areas where attention is needed to manage change and/or manage new forms of risks that emerge when AI becomes more pervasive
 
 <div style="width:40%"> 
- <a href="/files/publications/national-ai-strategy.pdf">National AI Strategy (9.2mb):<img src="/images/initiatives/national-ai-strategy-cover.jpg" alt="National AI Strategy"></a>
+ <a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/national-ai-strategy-cover.jpg" alt="National AI Strategy">National AI Strategy (9.2mb)</a>
 </div>
 
 <br>
 
 <div style="width:40%"> 
- <a href="/files/publications/national-ai-strategy-summary.pdf"> National AI Strategy - Summary (2.6mb):<img src="/images/initiatives/national-ai-strategy-summary-cover.jpg" alt="National AI Strategy Summary"></a>
+ <a href="/files/publications/national-ai-strategy-summary.pdf"><img style="border:1px solid black;" src="/images/initiatives/national-ai-strategy-summary-cover.jpg" alt="National AI Strategy Summary">National AI Strategy - Summary (2.6mb)</a>
 </div>
 
 

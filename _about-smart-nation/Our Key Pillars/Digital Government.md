@@ -1,64 +1,13 @@
 ---
-title: "Pillars of a Smart Nation "
-permalink: /about-smart-nation/pillars-of-smart-nation
-description: Our vision for a digital-first Singapore is one where a Digital
-  Government, Digital Economy and Digital Society harness technology to effect
-  transformation in health, transport, urban living, government services and
-  businesses.
+title: Digital Government
+permalink: /about-smart-nation/digital-government
+description: Our vision of a Digital Government is “digital to the core, and
+  serves with heart”.
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
+third_nav_title: Our Key Pillars
 ---
-# Three Pillars of a Smart Nation
 
-![Three Pillars of a Smart Nation](/images/abt-smart-nation/Smart_Nation_Pillars.jpg)
-
-| |  |  |
-| - | - | - |
-| <a href="/about-smart-nation/pillars-of-smart-nation#digital-society"><img src="/images/abt-smart-nation/Digital_Society_Button.jpg" alt="Digital Society"> | <a href="/about-smart-nation/pillars-of-smart-nation#digital-economy"><img src="/images/abt-smart-nation/Digital_Economy_Button.jpg" alt="Digital Economy"> |<a href="/about-smart-nation/pillars-of-smart-nation#digital-government"><img src="/images/abt-smart-nation/Digital_Government_Button.jpg" alt="Digital Government"></a> |
-|  |  |  |
-
-	
-Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a Smart Nation, harnessing technology to transform how its people and businesses live, work and play.  
-  
-The digital revolution is upon us, and Singapore must adapt and use technology to harvest the benefits of digitalisation.
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/DJmoy41mWDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-## Digital Society
-
-A Digital Society empowers everyone  with a fair chance of succeeding despite their differences or circumstances. It inspires us to dream bigger, as we get more interconnected with the world through technology.
-
-Whether you’re young or old, tech-savvy or not, the aim is for every Singaporean to benefit from tech as part of a Digital Society. The <a href="https://www.mci.gov.sg/portfolios/digital-readiness/digital-readiness-blueprint">Digital Readiness Blueprint</a> explains how the Singapore Government is  making this happen:
-
-* By making technology more accessible to every Singaporean
-* By improving Singaporeans’ digital literacy
-* By helping the local community and businesses drive widespread adoption of technology
-* By designing inclusive digital services
-
-![Digital Society](/images/covid-19/Smart-Nation-Ambassador_TraceTogether-01.jpg)
-
-<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Digital Readiness Blueprint:</a><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png" alt="Digital Readiness Blueprint"></div>
-
-[Return to top](#three-pillars-of-a-smart-nation)
-
-## Digital Economy
-
-A Digital Economy takes advantage of the latest technology to digitalise processes and drive business growth. This attracts foreign investments which, in turn, creates new jobs and opportunities for those in Singapore.
-
-Singapore’s pro-business environment, excellent tech infrastructure, close connectivity to major Asian economies as well as the availability of investment puts us in a good position to develop a strong Digital Economy.
-
-Three key strategies have been identified in the <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action">Digital Economy Framework for Action</a> to take advantage of our strengths:
-* Accelerate our economic growth by digitalising industries and businesses
-* Develop an ecosystem to help businesses stay vibrant and competitive
-* Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
-
-<div style="width:50%"> 
- <a href="/files/abt-smart-nation/SGD Framework For Action.pdf">Digital Economy Framework for Action (4.31mb):<img src="/images/abt-smart-nation/Digital-Economy-Framework2.png" alt="Digital Economy Framework for Action"></a>
-</div>
-
-[Return to top](#three-pillars-of-a-smart-nation)
-
-## Digital Government
+# Digital Government
 
 Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
 
@@ -89,7 +38,7 @@ The blueprint’s strategies have been updated to place more emphasis on users�
 The pandemic has given renewed impetus for government agencies to digitalise, including making deeper changes in organisational policy, structure and culture. 
 
 
-### The progress so far
+## The progress so far
 Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2020.
 
 * **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
@@ -123,4 +72,11 @@ We’ve also set our targets for 2023 and beyond:
 
 Read the latest DGB here: [DGB - 30 December 2020 (277kb)](/files/publications/dgb-public-document_30dec20.pdf)
 
-[Return to top](#three-pillars-of-a-smart-nation)
+<br>
+
+___
+		 		 
+**Related Links:**
+
+* <a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy & Digital Governement</a>
+* <a href="/about-smart-nation/our-journey/milestones">Milestones of Singapore’s Smart Nation story</a>

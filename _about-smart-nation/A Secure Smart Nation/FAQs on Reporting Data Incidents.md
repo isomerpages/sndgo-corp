@@ -6,6 +6,8 @@ description: Got a question or need more help on reporting a government data
   incident? Check out our FAQs.
 image: /images/og-image/Data-Incident-Reporting-Platform-OG-Image.jpg
 ---
+
+
 # Frequently Asked Questions
 
 Got a question or need more help on reporting a government data incident? Check out our FAQs below.

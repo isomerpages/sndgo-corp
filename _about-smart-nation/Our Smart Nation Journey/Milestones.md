@@ -149,3 +149,11 @@ Deputy Prime Minister and Minister for Finance, Heng Swee Keat, announced that S
 The Monetary Authority of Singapore (MAS) and the Smart Nation and Digital Government Group (SNDGG) today launched the Singapore Financial Data Exchange (<a href="https://www.mas.gov.sg/development/fintech/sgfindex" target="_blank">SGFinDex</a>), which will enable Singaporeans to consolidate their financial information for more effective financial planning.
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
+
+<br>
+
+___
+		 		 
+**Related Links:**
+
+* <a href="/about-smart-nation/digital-government#the-progress-so-far">Digital Government: The progress so far</a>
