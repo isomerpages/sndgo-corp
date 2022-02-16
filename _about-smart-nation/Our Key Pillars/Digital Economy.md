@@ -6,7 +6,6 @@ description: A Digital Economy takes advantage of the latest technology to
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 third_nav_title: Our Key Pillars
 ---
-
 # Digital Economy
 
 A Digital Economy takes advantage of the latest technology to digitalise processes and drive business growth. This attracts foreign investments which, in turn, creates new jobs and opportunities for those in Singapore.
@@ -19,7 +18,7 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
 * Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
 
 <div style="width:50%"> 
- <a href="/files/abt-smart-nation/SGD Framework For Action.pdf">Digital Economy Framework for Action (4.31mb):<img src="/images/abt-smart-nation/Digital-Economy-Framework2.png" alt="Digital Economy Framework for Action"></a>
+ <a href="/files/abt-smart-nation/SGD Framework For Action.pdf"><img src="/images/abt-smart-nation/Digital-Economy-Framework2.png" alt="Digital Economy Framework for Action">Digital Economy Framework for Action (4.31mb)</a>
 </div>
 
 <br>
