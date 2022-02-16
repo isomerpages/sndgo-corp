@@ -6,7 +6,6 @@ description: A Digital Society empowers everyone with a fair chance of
 third_nav_title: Our Key Pillars
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
-
 # Digital Society
 ![Digital Society](/images/covid-19/Smart-Nation-Ambassador_TraceTogether-01.jpg)
 
@@ -21,7 +20,7 @@ Whether you’re young or old, tech-savvy or not, the aim is for every Singapore
 
 
 
-<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Digital Readiness Blueprint:</a><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png" alt="Digital Readiness Blueprint"></div>
+<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png" alt="Digital Readiness Blueprint">Digital Readiness Blueprint</a></div>
 
 <br>
 
