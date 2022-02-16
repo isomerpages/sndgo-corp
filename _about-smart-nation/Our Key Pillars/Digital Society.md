@@ -8,7 +8,7 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 # Digital Society
 ![Digital Society](/images/covid-19/Smart-Nation-Ambassador_TraceTogether-01.jpg)
 
-A Digital Society empowers everyone  with a fair chance of succeeding despite their differences or circumstances. It inspires us to dream bigger, as we get more interconnected with the world through technology.
+A Digital Society empowers everyone with a fair chance of succeeding despite their differences or circumstances. It inspires us to dream bigger, as we get more interconnected with the world through technology.
 
 Whether you’re young or old, tech-savvy or not, the aim is for every Singaporean to benefit from tech as part of a Digital Society. The <a href="https://www.mci.gov.sg/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank">Digital Readiness Blueprint</a> explains how the Singapore Government is  making this happen:
 
