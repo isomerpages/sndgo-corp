@@ -8,8 +8,7 @@ description: Our vision for a digital-first Singapore is one where a Digital
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 third_nav_title: Our Key Pillars
 ---
-
-# Three Pillars of a Smart Nation
+# Pillars of a Smart Nation
 
 Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a Smart Nation, harnessing technology to transform how its people and businesses live, work and play.  
 
@@ -27,12 +26,3 @@ Building a Smart Nation is a whole-of-nation effort which comprises three pillar
 | - | - | - |
 | <a href="/about-smart-nation/digital-society"><img src="/images/abt-smart-nation/Digital_Society_Button.jpg" alt="Digital Society"> | <a href="/about-smart-nation/digital-economy"><img src="/images/abt-smart-nation/Digital_Economy_Button.jpg" alt="Digital Economy"> |<a href="/about-smart-nation/digital-government"><img src="/images/abt-smart-nation/Digital_Government_Button.jpg" alt="Digital Government"></a> |
 |  |  |  |
-
-	
-
-
-
-
-
-
-
