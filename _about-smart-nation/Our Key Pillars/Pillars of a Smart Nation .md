@@ -31,9 +31,9 @@ third_nav_title: Our Key Pillars
 
 
 <div class="row">
-	<div class="col" style="background-color: #e70d2e; margin: 10px; text-align: center; padding: 20px; font-size:20px; font-weight: 800; color: #FFFFFF;"><a href="/about-smart-nation/digital-society">DIGITAL SOCIETY</a></div>
-	<div class="col" style="background-color: #e70d2e; margin: 10px; text-align: center; padding: 20px; font-size:20px; font-weight: 800; color: #FFFFFF;"><a href="/about-smart-nation/digital-society">DIGITAL SOCIETY</a></div>
-	<div class="col" style="background-color: #e70d2e; margin: 10px; text-align: center; padding: 20px; font-size:20px; font-weight: 800; color: #FFFFFF;"><a href="/about-smart-nation/digital-society">DIGITAL SOCIETY</a></div>
+	<div class="col" style="background-color: #e70d2e; margin: 10px; text-align: center; padding: 20px; font-size:20px; font-weight: 700; color: #FFFFFF;"><a href="/about-smart-nation/digital-society">DIGITAL<br>SOCIETY</a></div>
+	<div class="col" style="background-color: #e70d2e; margin: 10px; text-align: center; padding: 20px; font-size:20px; font-weight: 700; color: #FFFFFF;"><a href="/about-smart-nation/digital-economy">DIGITAL<br>ECONOMY</a></div>
+	<div class="col" style="background-color: #e70d2e; margin: 10px; text-align: center; padding: 20px; font-size:20px; font-weight: 700; color: #FFFFFF;"><a href="/about-smart-nation/digital-government">DIGITAL<br>GOVERNMENT</a></div>
 		
 
 Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a Smart Nation, harnessing technology to transform how its people and businesses live, work and play.  
