@@ -23,7 +23,7 @@ sections:
       title: 94% of Government services are digital from end to end
       description: Learn about our progress as a Digital Government
       button: Find out more
-      url: /about-smart-nation/digital-government
+      url: /about-smart-nation/digital-government#the-progress-so-far
       image: /images/initiatives/Singpass-05.jpeg
       alt: Singpass
   - infopic:
