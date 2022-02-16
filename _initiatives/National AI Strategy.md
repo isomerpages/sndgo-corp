@@ -27,7 +27,7 @@ The National AI Strategy outlines our plans to deepen the use of AI to transform
 <br>
 
 <div style="width:40%"> 
- <a href="/files/publications/national-ai-strategy-summary.pdf"><img style="border:1px solid black;"src="/images/initiatives/national-ai-strategy-summary-cover.jpg" alt="National AI Strategy Summary">National AI Strategy - Summary (2.6mb)</a>
+ <a href="/files/publications/national-ai-strategy-summary.pdf"><img style="border:1px solid black;" src="/images/initiatives/national-ai-strategy-summary-cover.jpg" alt="National AI Strategy Summary">National AI Strategy - Summary (2.6mb)</a>
 </div>
 
 
