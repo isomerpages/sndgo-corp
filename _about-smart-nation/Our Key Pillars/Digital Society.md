@@ -20,7 +20,7 @@ Whether you’re young or old, tech-savvy or not, the aim is for every Singapore
 
 
 
-<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png" alt="Digital Readiness Blueprint">Digital Readiness Blueprint</a></div>
+<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png" alt="Digital Readiness Blueprint">Digital Readiness Blueprint</a></div>
 
 <br>
 
