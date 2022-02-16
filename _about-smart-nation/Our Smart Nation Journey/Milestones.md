@@ -156,4 +156,4 @@ ___
 		 		 
 **Related Links:**
 
-* <a href="/about-smart-nation/digital-government#The-progress-so-far">Digital Government: The progress so far</a>
+* <a href="/about-smart-nation/digital-government#the-progress-so-far">Digital Government: The progress so far</a>
