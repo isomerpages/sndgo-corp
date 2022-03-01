@@ -18,7 +18,7 @@ description: ""
 ### Answer
 
 
-**Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (for the Prime Minister)**
+**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
 
 The Government conducts and commissions surveys across a range of issues. Survey findings are used to improve policy formulation, service delivery and communications. We strike a balance between putting out sufficient data to inform and enable robust policy discussions against considerations such as personal data protection, the sensitivity of the survey findings, and whether the data could be used adversely by hostile actors
 
@@ -26,4 +26,4 @@ Many survey findings are published. Examples include the annual Labour Force Sur
 
 However, specific datasets may not be suitable for publication. Survey respondents often give their consent on the understanding that their responses will be kept confidential. They entrust their personal data in confidence, and we take this seriously. Removing personal identifiable information is not enough. Parts of a dataset can involve very small samples which heightens the risk of re-identifying survey respondents significantly.  This is especially so for longitudinal panel surveys. Instead, we may share more sensitive data directly with researchers looking into relevant topics, with additional safeguards.
 
-The Health for Life in Singapore (HELIOS) study which the Member raised is a longitudinal panel health study led by the Lee Kong Chian School of Medicine, in partnership with National Healthcare Group and Imperial College London. A summary of the research results will be made widely available to the public via the HELIOS website. There are also plans to make relevant datasets available to the wider research community, to enable impactful health research collaborations. Academics interested in diving deeper with the data may contact MOH to find out more about this. 
+The Health for Life in Singapore (HELIOS) study which the Member raised is a longitudinal panel health study led by the Lee Kong Chian School of Medicine, in partnership with National Healthcare Group and Imperial College London. A summary of the research results will be made widely available to the public via the HELIOS website. There are also plans to make relevant datasets available to the wider research community, to enable impactful health research collaborations. Academics interested in diving deeper with the data may contact MOH to find out more about this.
