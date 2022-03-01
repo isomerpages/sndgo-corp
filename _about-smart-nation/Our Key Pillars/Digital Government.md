@@ -6,7 +6,6 @@ description: Our vision of a Digital Government is “digital to the core, and
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 third_nav_title: Our Key Pillars
 ---
-
 # Digital Government
 
 Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
@@ -42,10 +41,10 @@ The pandemic has given renewed impetus for government agencies to digitalise, in
 Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2020.
 
 * **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
-![Citizen Satisfaction with Government Digital Services](/images/abt-smart-nation/citizen-satisfaction-2020.jpeg)
+![Citizen Satisfaction with Government Digital Services](/images/abt-smart-nation/citizen-satisfaction-2021.jpeg)
 
 * **Business Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
-![Business Satisfaction with Government Digital Services](/images/abt-smart-nation/business-satisfaction-2020.jpeg)
+![Business Satisfaction with Government Digital Services](/images/abt-smart-nation/business-satisfaction-2021.jpeg)
 
 * **Government services that can be completed digitally from end-to-end**
 ![Government services that can be completed digitally from end-to-end](/images/abt-smart-nation/end-to-end-digital-services-2020.jpeg)
