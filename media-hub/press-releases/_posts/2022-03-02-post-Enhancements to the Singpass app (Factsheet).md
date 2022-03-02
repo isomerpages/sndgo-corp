@@ -9,13 +9,13 @@ description: ""
 
 **2 Mar 2022**
 
-#### Overview
+### Overview
 
 As of February 2022, there are more than 3.5 million Singpass app users. The Singpass app provides users with convenient and secure access to government and private sector services, online and in-person.
 
 With the Singpass app, users can check their CPF balance, apply for HDB flats, perform internet banking or manage their insurance policies with ease, without having to remember passwords. Other key features include the Digital IC, login shortcuts to popular and last-used digital services and a customisable profile for users to view personal information at a glance. Users can also access government-issued documents like the Vaccination HealthCerts in their Document Wallet or digitally sign electronic documents when applying for insurance policies.
 
-#### New Features on the Singpass app 
+### New Features on the Singpass app 
 
 **Multi-language Feature**
 
