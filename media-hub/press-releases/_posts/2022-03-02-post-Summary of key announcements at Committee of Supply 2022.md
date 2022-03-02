@@ -8,7 +8,6 @@ description: Over the past 5 years, Smart Nation initiatives have resulted in
   businesses.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
 ## Summary of key announcements at Committee of Supply 2022 - Smart Nation
 
 **2 Mar 2022**
@@ -63,9 +62,9 @@ _______
 
 #### Annexes
 
-<div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Building%20Our%20Smart%20Nation%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Building-Our-Smart-Nation-(COS-2022).jpg" alt="COS 2022 Infographics: Building Our Smart Nation">COS 2022 Infographics:<br> Building Our Smart Nation</a></div><br>
+<div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Building%20Our%20Smart%20Nation%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Building-Our-Smart-Nation-(COS-2022).jpg" alt="COS 2022 Infographics: Building Our Smart Nation">COS 2022 Infographics:<br> Building Our Smart Nation</a></div>
 
-<div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Transforming%20Lives%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Transforming-Lives-(COS-2022).jpg" alt="COS 2022 Infographics: Transforming Lives">COS 2022 Infographics:<br> Transforming Lives</a></div><br>
+<div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Transforming%20Lives%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Transforming-Lives-(COS-2022).jpg" alt="COS 2022 Infographics: Transforming Lives">COS 2022 Infographics:<br> Transforming Lives</a></div>
 
 <div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Helping%20Businesses%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Helping-Businesses-(COS-2022).jpg" alt="COS 2022 Infographics: Helping Businesses">COS 2022 Infographics:<br> Helping Businesses</a></div>
 
