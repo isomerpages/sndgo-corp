@@ -34,13 +34,13 @@ PassGoWhere: allow workers to apply for Dormitory Exit Passes to leave their dor
 
 * **TestCentreGoWhere:** locate Quick Test Centres (QTCs) and Combined Test Centres (CTCs) nearest to you.
 
-#### Why GoWhere?
+### Why GoWhere?
 
 The COVID-19 pandemic was, and continues to be, volatile and rapidly evolving. This meant that the guidelines and measures in response to the pandemic are also constantly being updated. As a result, individuals and businesses have found it difficult to keep up with the latest information from multiple agencies. As a one-stop resource hub for all COVID-19 related information, the GoWhere Directory facilitates citizens’ and businesses’ access to quick and reliable information during the pandemic.
 
 The pandemic also necessitated unprecedented nationwide distribution efforts. GoWhere’s suite of websites, such as ARTGoWhere and TokenGoWhere, facilitates these nationwide distribution efforts using location-based information queries/discoveries.
 
-#### What’s next?
+### What’s next?
 
 Beyond the Covid-19 pandemic, GovTech will continue to work with Government agencies to leverage the GoWhere application stack where suitable. For example, we are working with the Ministry of Social and Family Development (MSF), National Council of Social Service (NCSS), SG Enable (SGE), and Agency for Integrated Care (AIC) to explore the expansion of SupportGoWhere as a one-stop social assistance portal. SupportGoWhere has also been updated to reflect the latest Budget 2022 support schemes.
 
