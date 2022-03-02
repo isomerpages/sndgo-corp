@@ -52,7 +52,7 @@ _______
 Communications & Marketing Group<br>
 Government Technology Agency<br>
 Tel: 6977 5008<br>
-Email: [elizabeth_lee@tech.gov.sg](elizabeth_lee@tech.gov.sg)
+Email: [elizabeth_lee@tech.gov.sg](mailto:elizabeth_lee@tech.gov.sg)
 
 (Ms) Joyce Lee<br>
 Communications & Marketing Group<br>
