@@ -5,7 +5,6 @@ date: 2022-03-02
 layout: post
 description: ""
 ---
-
 ## Factsheet - Enhancements to the Singpass app
 
 **3 Mar 2022**
@@ -61,7 +60,7 @@ My Corporate Profile allows authorised individuals of businesses and other entit
 
 ##### 2. What information would business users be able to view in the Singpass app?
 
-Users can view corporate data retrieved across participating Government agencies via the Myinfo business service, such as business registration, shareholder, capital, and appointment holder details. The full list of data items can be found here. (Grants and licences information will not be included).
+Users can view corporate data retrieved across participating Government agencies via the Myinfo business service, such as business registration, shareholder, capital, and appointment holder details. [The full list of data items can be found here](https://www.singpass.gov.sg/myinfobusiness/data-items). (Grants and licences information will not be included).
 
 These data items are official records retrieved from verified government sources (e.g. ACRA, MTI) that businesses have registered with the Government.
 
