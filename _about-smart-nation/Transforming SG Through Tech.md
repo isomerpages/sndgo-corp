@@ -81,3 +81,13 @@ The <a href="https://asean.org/asean/asean-smart-cities-network/" target="_blank
 The goal is to improve the lives of people in the region, using technology as an enabler. ASCN provides us with the unique opportunity to quickly leverage opportunities from rapid urbanisation, as well as build a strong defence against cyber threats and trade friction that the region faces.
 
 [Return to top](#transforming-singapore-through-technology)
+
+___
+		 		 
+**Related Links:**
+
+* [COS 2022 Infographics - Building Our Smart Nation](/files/press-releases/2022/Infographic%20-%20Building%20Our%20Smart%20Nation%20(COS%202022).pdf)
+* [COS 2022 Infographics: Transforming Lives](/files/press-releases/2022/Infographic%20-%20Transforming%20Lives%20(COS%202022).pdf)
+* [COS 2022 Infographics: Helping Businesses](/files/press-releases/2022/Infographic%20-%20Helping%20Businesses%20(COS%202022).pdf)
+* [COS 2021 Infographics: Transforming Singapore Through Technology](/files/press-releases/2021/transforming-sg-through-tech.pdf)
+* [COS 2021 Infographics: Building Partnerships and Capabilities for Smart Nation](/files/press-releases/2021/building-partnerships-and-capabilities-for-smart-nation.pdf)
