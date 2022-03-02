@@ -15,13 +15,13 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
-Our vision for a digital-first Singapore is one where a Digital Government, Digital Economy and Digital Society harness technology to effect transformation in  health, transport, urban living, government services and businesses.
+Our vision for a digital-first Singapore is one where a [Digital Government](/about-smart-nation/digital-government), [Digital Economy](/about-smart-nation/digital-economy) and [Digital Society](/about-smart-nation/digital-society) harness technology to effect transformation in  health, transport, urban living, government services and businesses.
 
-Our [Digital Government](/about-smart-nation/digital-government) continues to invest in infrastructure and create shared open platforms for our businesses and citizens to learn and develop. 
+**Our Digital Government** continues to invest in infrastructure and create shared open platforms for our businesses and citizens to learn and develop. 
 
-Our [Digital Economy](/about-smart-nation/digital-economy) spurs businesses to invest in technology and talent to encourage growth beyond our shores.
+**Our Digital Economy** spurs businesses to invest in technology and talent to encourage growth beyond our shores.
 
-Our [Digital Society](/about-smart-nation/digital-society) empowers individuals to cultivate their talents and arm themselves with the latest digital technologies to realise their biggest inspirations, and live better lives together.
+**Our Digital Society** empowers individuals to cultivate their talents and arm themselves with the latest digital technologies to realise their biggest inspirations, and live better lives together.
 
 The Smart Nation initiative is our way forward. Technology will be so seamlessly integrated that it will transform the way we work, live and play.
 
