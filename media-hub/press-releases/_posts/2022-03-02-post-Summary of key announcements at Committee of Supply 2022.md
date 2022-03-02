@@ -13,7 +13,7 @@ This year marks the 5th year since the founding of the Smart Nation and Digital 
 
 At this year’s Committee of Supply Debate, Minister-in-charge of Smart Nation and Cybersecurity Josephine Teo will share on (a) the **progress we have made as a Smart Nation**, (b) how the strong foundations laid have **helped our fight against COVID-19**, and (c) the need to **remain inclusive, collaborative and adaptable as we continue to build our Smart Nation**.
 
-#### A. Using tech effectively to benefit citizens and businesses
+### Using tech effectively to benefit citizens and businesses
 
 Over the past 5 years, Smart Nation initiatives **have resulted in greater convenience, accessibility and benefits to our citizens and businesses**. This is reflected in our international rankings, and annual surveys conducted with our end-users:
 
@@ -37,7 +37,7 @@ One of our key focus areas is to continue building up capabilities to support Wh
 
 * Existing products are continually being refined to provide better, more personalised services and information to citizens. For example, Singpass and LifeSG are being tapped as additional means of disseminating Budget 2022 information, and highlight relevant schemes to users based on their profile.
 
-#### B. Strong digital foundation bedrock of Singapore’s response to COVID-19
+### Strong digital foundation bedrock of Singapore’s response to COVID-19
 
 Both the **private and public sector have leveraged digital technologies to support our whole-of-nation response to COVID-19**:
 
@@ -45,7 +45,7 @@ Both the **private and public sector have leveraged digital technologies to supp
 
 * From the national vaccine appointment system, which took just 2 weeks to develop, to the clinic administration system that helped keep vaccination centres well-stocked, tech has helped Singapore achieve one of the highest vaccination rates in the world
 
-#### C. Collaboration key in tackling challenges and seizing new opportunities
+### Collaboration key in tackling challenges and seizing new opportunities
 
 Promoting digital inclusion and enhancing cybersecurity remain priorities as we continue to push ahead in our digitalisation efforts. **Our partnership with citizens and businesses will help us proactively identify areas for improvement, co-create solutions, and work towards a more inclusive digital nation**.
 
@@ -59,13 +59,11 @@ _______
 
 #### Annexes
 
-<br>
-
 <div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Building%20Our%20Smart%20Nation%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Building-Our-Smart-Nation-(COS-2022).jpg" alt="COS 2022 Infographics: Building Our Smart Nation">COS 2022 Infographics:<br> Building Our Smart Nation</a></div><br>
 
 <div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Transforming%20Lives%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Transforming-Lives-(COS-2022).jpg" alt="COS 2022 Infographics: Transforming Lives">COS 2022 Infographics:<br> Transforming Lives</a></div><br>
 
-<div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Helping%20Businesses%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Helping-Businesses-(COS-2022).jpg" alt="COS 2022 Infographics: Helping Businesses">COS 2022 Infographics:<br> Helping Businesses</a></div><br>
+<div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Helping%20Businesses%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Helping-Businesses-(COS-2022).jpg" alt="COS 2022 Infographics: Helping Businesses">COS 2022 Infographics:<br> Helping Businesses</a></div>
 
 * Factsheet - [Enhancements to the Singpass App](/media-hub/press-releases/singpass-enhancements-factsheet-02032022)
 * Factsheet - [GovWallet](/media-hub/press-releases/govwallet-factsheet-02032022)
