@@ -89,3 +89,23 @@ Users are also advised to secure their device and its contents with a strong pas
 The inclusion of corporate features on the Singpass app is to provide more convenient and secure access to pertinent corporate data on-the-go.
 
 At the moment, Corppass continues to be the single authorisation system for businesses and entities to manage digital service access of employees who need to perform corporate transactions with the Government. GovTech will progressively announce and roll out more enhancements to improve and facilitate more secure and seamless corporate transactions.
+
+_______
+
+**For media enquiries, please contact:**
+
+(Mr) Kevin Kwang<br>
+Senior Manager,<br>
+Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, <br>
+Prime Minister’s Office<br>
+Tel: 9734 1230<br>
+Email: [kevin_kwang@pmo.gov.sg](mailto:kevin_kwang@pmo.gov.sg)
+
+(Mr) Cristiano Peswani<br>
+Manager, <br>
+Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, <br>
+Prime Minister’s Office<br>
+Tel: 9674 5524<br>
+Email: [cristiano_peswani@pmo.gov.sg](mailto:cristiano_peswani@pmo.gov.sg)
