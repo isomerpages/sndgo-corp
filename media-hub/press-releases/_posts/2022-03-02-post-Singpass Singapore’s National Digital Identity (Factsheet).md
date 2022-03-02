@@ -7,7 +7,7 @@ description: ""
 ---
 ## Factsheet – Singpass (Singapore’s National Digital Identity)
 
-**3 Mar 2022**
+**2 Mar 2022**
 
 Singpass, Singapore’s national digital identity, is one of the Smart Nation strategic national projects. As a foundational digital infrastructure, the national digital identity is critical to achieving our vision of improving the lives of citizens, creating opportunities for businesses, and transforming the capabilities of government agencies.
 
