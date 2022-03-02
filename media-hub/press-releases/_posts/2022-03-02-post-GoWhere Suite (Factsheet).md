@@ -7,7 +7,7 @@ description: ""
 ---
 ## Factsheet – GoWhere Suite
 
-**3 Mar 2022**
+**2 Mar 2022**
 
 The GoWhere suite of websites was created by GovTech’s Government Digital Services (GDS) team to address the need for rapid and reliable sources of information during the COVID-19 pandemic. It supports location/eligibility-based information queries, serves as a portal to disseminate information to the public, and as a tech interface for government distribution operations.
 
