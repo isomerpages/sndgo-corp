@@ -15,10 +15,6 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
-<div style="width:100%">
- <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"> <img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg" alt="Transforming Singapore Through Technology Infographic">Transforming Singapore Through Technology Infographic (3.1mb)</a>
-</div>
-
 Our vision for a digital-first Singapore is one where a Digital Government, Digital Economy and Digital Society harness technology to effect transformation in  health, transport, urban living, government services and businesses.
 
 Our Digital Government continues to invest in infrastructure and create shared open platforms for our businesses and citizens to learn and develop. 
