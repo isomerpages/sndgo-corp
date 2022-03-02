@@ -7,7 +7,7 @@ description: ""
 ---
 ## Factsheet – GovWallet
 
-**3 Mar 2022**
+**2 Mar 2022**
 
 GovWallet is an e-wallet feature that Government agencies can use to disburse monies and credits to citizens in a secure and convenient way. GovWallet can be integrated with mobile apps such as LifeSG app, and the monies and credits can then be used at 164,000 registered merchants by scanning an SGQR code with PayNow. GovWallet can also be integrated with ATMs to facilitate cash disbursement to the unbanked.
 
