@@ -34,7 +34,7 @@ _______
 
 #### Annex A: Screenshot of the GovWallet feature
 
-![Screenshot of the GovWallet feature.](/images/media-hub/press-release/2022/Screenshot-of-the-GovWallet-feature.jpg)
+<div style="width:50%;height:50%;"><img src="/images/media-hub/press-release/2022/Screenshot-of-the-GovWallet-feature.jpg" alt="Screenshot of the GovWallet feature."></div>
 
 _______
 
@@ -48,6 +48,6 @@ Email: [elizabeth_lee@tech.gov.sg](elizabeth_lee@tech.gov.sg)
 
 (Ms) Joyce Lee<br>
 Communications & Marketing Group<br>
-Government Technology Agency<br.
+Government Technology Agency<br>
 Tel: 9692 0909<br>
 Email: [joyce_lee@tech.gov.sg](mailto:joyce_lee@tech.gov.sg)
