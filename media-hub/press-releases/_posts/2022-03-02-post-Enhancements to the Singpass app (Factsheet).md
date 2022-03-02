@@ -7,7 +7,7 @@ description: ""
 ---
 ## Factsheet - Enhancements to the Singpass app
 
-**3 Mar 2022**
+**2 Mar 2022**
 
 #### Overview
 
