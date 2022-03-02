@@ -3,8 +3,13 @@ title: My Favourite Days (New AR Storybook)
 permalink: /media-hub/press-releases/my-favourite-days
 date: 2021-12-17
 layout: post
-description: ""
+description: To expose children to the benefits of technology in an innovative
+  and engaging way, TOUCH Community Services, together with partners, Smart
+  Nation and Digital Government Office (SNDGO); Meta; and MeshMinds; launched
+  ‘My Favourite Days’, a 35-page AR storybook.
+image: /images/community/arstorybook/AR-Storybook-03.jpeg
 ---
+
 ## 'My Favourite Days' - New Augmented Reality Storybook To Help Children Imagine A Tech-Enabled Future 
 
 **17 Dec 2021**

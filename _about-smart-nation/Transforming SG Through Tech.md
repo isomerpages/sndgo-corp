@@ -15,17 +15,13 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
-<div style="width:100%">
- <a href="/files/abt-smart-nation/transforming-sg-through-tech-26feb21.pdf"> <img src="/images/abt-smart-nation/transforming-sg-through-tech-2021-low-res.jpg" alt="Transforming Singapore Through Technology Infographic">Transforming Singapore Through Technology Infographic (3.1mb)</a>
-</div>
+Our vision for a digital-first Singapore is one where a [Digital Government](/about-smart-nation/digital-government), [Digital Economy](/about-smart-nation/digital-economy) and [Digital Society](/about-smart-nation/digital-society) harness technology to effect transformation in  health, transport, urban living, government services and businesses.
 
-Our vision for a digital-first Singapore is one where a Digital Government, Digital Economy and Digital Society harness technology to effect transformation in  health, transport, urban living, government services and businesses.
+**Our Digital Government** continues to invest in infrastructure and create shared open platforms for our businesses and citizens to learn and develop. 
 
-Our Digital Government continues to invest in infrastructure and create shared open platforms for our businesses and citizens to learn and develop. 
+**Our Digital Economy** spurs businesses to invest in technology and talent to encourage growth beyond our shores.
 
-Our Digital Economy spurs businesses to invest in technology and talent to encourage growth beyond our shores.
-
-Our Digital Society empowers individuals to cultivate their talents and arm themselves with the latest digital technologies to realise their biggest inspirations, and live better lives together.
+**Our Digital Society** empowers individuals to cultivate their talents and arm themselves with the latest digital technologies to realise their biggest inspirations, and live better lives together.
 
 The Smart Nation initiative is our way forward. Technology will be so seamlessly integrated that it will transform the way we work, live and play.
 
@@ -85,3 +81,13 @@ The <a href="https://asean.org/asean/asean-smart-cities-network/" target="_blank
 The goal is to improve the lives of people in the region, using technology as an enabler. ASCN provides us with the unique opportunity to quickly leverage opportunities from rapid urbanisation, as well as build a strong defence against cyber threats and trade friction that the region faces.
 
 [Return to top](#transforming-singapore-through-technology)
+
+___
+		 		 
+**Related Links:**
+
+* [COS 2022 Infographics - Building Our Smart Nation](/files/press-releases/2022/Infographic%20-%20Building%20Our%20Smart%20Nation%20(COS%202022).pdf)
+* [COS 2022 Infographics: Transforming Lives](/files/press-releases/2022/Infographic%20-%20Transforming%20Lives%20(COS%202022).pdf)
+* [COS 2022 Infographics: Helping Businesses](/files/press-releases/2022/Infographic%20-%20Helping%20Businesses%20(COS%202022).pdf)
+* [COS 2021 Infographics: Transforming Singapore Through Technology](/files/press-releases/2021/transforming-sg-through-tech.pdf)
+* [COS 2021 Infographics: Building Partnerships and Capabilities for Smart Nation](/files/press-releases/2021/building-partnerships-and-capabilities-for-smart-nation.pdf)

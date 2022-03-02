@@ -3,8 +3,13 @@ title: SNA Citizen Co Creation Group (Factsheet)
 permalink: /media-hub/press-releases/SNA-Citizen-Co-Creation-Group-Factsheet
 date: 2022-01-28
 layout: post
-description: ""
+description: The SNA Citizen Co-Creation Group will be made up of Smart Nation
+  Ambassadors who are community leaders representing diverse groups, including
+  persons with disabilities, low-income families, seniors, clan associations and
+  SMEs.
+image: /images/community/sna/SmartNationAmbassador01.jpg
 ---
+
 ## Factsheet - Smart Nation Ambassadors Citizen Co-Creation Group
 
 **28 Jan 2022**
@@ -23,9 +28,7 @@ To date, 15 community groups such as Lions Befrienders and Society for the Physi
 
 _______
 
-##### Annex A
-
-**List of Community Groups**
+#### Annex A: List of Community Groups
 
 1. Association of Small Medium Enterprises
 2. AMK Family Services Centre

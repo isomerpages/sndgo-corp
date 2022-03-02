@@ -52,7 +52,7 @@ NParks has developed an urban biodiversity conservation model, which aims to con
 
 NParks is working closely with partners in the landscape, horticulture, veterinary and animal sectors to increase productivity, and provide training for all levels of the workforce. Enhancing competencies of the industry will support Singapore’s vision of being a City in Nature.
 
-For more information, visit [**www.nparks.gov.sg**](http://www.nparks.gov.sg/) and [**www.facebook.com/nparksbuzz**](http://www.facebook.com/nparksbuzz).
+For more information, visit www.nparks.gov.sg and www.facebook.com/nparksbuzz.
 
 ---
 
