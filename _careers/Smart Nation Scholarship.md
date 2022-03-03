@@ -30,7 +30,7 @@ At the point of application, you can indicate or rank your preference of the thr
 
 You can look forward to a multifaceted career, specializing in a variety of tech domains and opportunities for job rotations across the different public agencies:
 
-Smart Nation Scholarship: Multi-faceted Tech Career Opportunities
+![Smart Nation Scholarship: Multi-faceted Tech Career Opportunities]
 
 
 
