@@ -30,7 +30,9 @@ At the point of application, you can indicate or rank your preference of the thr
 
 You can look forward to a multifaceted career, specializing in a variety of tech domains and opportunities for job rotations across the different public agencies:
 
-![Multi-Faceted Tech Career Opportunities](/images/careers/multi-faceted-tech-career-opportunities.jpg)
+![Smart Nation Scholarship](/images/careers/Smart-Nation-Scholarship-Multi-faceted-Tech-Career-Opportunities.jpg)
+
+
 
 ## Eligibility Criteria
  
@@ -61,8 +63,6 @@ What the Smart Nation Scholarship covers:
 ## How to apply
 
 The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="http://go.gov.sg/smartnationscholarship" target="_blank">go.gov.sg/smartnationscholarship</a> for the full details or email scholarship@smartnation.gov.sg.
-
-
 
 ![Smart Nation Scholarship](/images/careers/smart-nation-scholarship-2021.jpg) <br>
 
