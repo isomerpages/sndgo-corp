@@ -30,7 +30,6 @@ sections:
       url: https://together.smartnation.gov.sg/
       alt: Smart Nation Together
       image: /images/community/snt/SNT-webinars.jpg
-      subtitle: IMD-SUTD Start City Index
   - infopic:
       title: Combating COVID-19 with technology
       description: Learn how Singapore managed the pandemic effectively with technology
