@@ -13,6 +13,9 @@ sections:
         - title: Be a Smart Nation Ambassadors
           description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
+        - title: Pick Up New Skills
+          description: Check out our webinars
+          url: https://together.smartnation.gov.sg/
   - infopic:
       title: 94% of Government services are digital from end to end
       description: Learn about our progress as a Digital Government
