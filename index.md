@@ -17,8 +17,8 @@ sections:
           description: Help safeguard our ICT systems
           url: /about-smart-nation/secure-smart-nation/report-data-incident
   - infopic:
-      title: 94% of Government services are digital from end to end
-      description: Learn about our progress as a Digital Government
+      title: 94% of our Government services are digital from end to end
+      description: Learn how we have progressed as a Digital Government
       button: Find out more
       url: /about-smart-nation/digital-government#the-progress-so-far
       image: /images/initiatives/Singpass-05.jpeg
