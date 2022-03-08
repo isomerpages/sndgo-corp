@@ -10,7 +10,7 @@ sections:
         - title: Report a Government Data Incident
           description: Help safeguard our ICT systems
           url: /about-smart-nation/secure-smart-nation/report-data-incident
-        - title: Smart Nation Ambassadors
+        - title: Be a Smart Nation Ambassadors
           description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
   - infopic:
