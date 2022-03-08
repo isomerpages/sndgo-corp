@@ -23,7 +23,6 @@ sections:
       url: /about-smart-nation/digital-government#the-progress-so-far
       image: /images/initiatives/Singpass-05.jpeg
       alt: Singpass
-      subtitle: OUR DIGITAL GOVERNMENT
   - infopic:
       title: We have been named smartest global city for the third year
       description: "Learn something new  at our #SmartNationTogether webinars and workshops"
