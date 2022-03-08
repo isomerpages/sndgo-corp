@@ -7,14 +7,8 @@ sections:
   - hero:
       background: /images/Homepage_Transforming_SG_through_technology.jpg
       key_highlights:
-        - title: Strategic National Projects
-          description: Discover the building blocks for our Smart Nation
-          url: /initiatives/strategic-national-projects
-        - title: Milestones & Achievements
-          description: Follow our journey
-          url: /about-smart-nation/our-journey/milestones
-        - title: A Secure Smart Nation
-          description: Report a Government Data Incident
+        - title: Report a Government Data Incident
+          description: Help safeguard our ICT systems
           url: /about-smart-nation/secure-smart-nation/report-data-incident
         - title: Smart Nation Ambassadors
           description: Join us on our transformative journey
