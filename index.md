@@ -25,6 +25,14 @@ sections:
       alt: Singpass
       subtitle: OUR DIGITAL GOVERNMENT
   - infopic:
+      title: We have been named smartest global city for the third year
+      description: "Learn something new  at our #SmartNationTogether webinars and workshops"
+      button: FIND OUT MORE
+      url: https://together.smartnation.gov.sg/
+      alt: Smart Nation Together
+      image: /images/community/snt/SNT-webinars.jpg
+      subtitle: IMD-SUTD Start City Index
+  - infopic:
       title: Combating COVID-19 with technology
       description: Learn how Singapore managed the pandemic effectively with technology
       button: Read more about it
@@ -32,19 +40,5 @@ sections:
       image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
       alt: "Covid-19 Technology "
       subtitle: Responding to COVID-19
-  - infopic:
-      title: Pick Up New Skills
-      description: "Learn something new  at our #SmartNationTogether webinars and workshops"
-      button: FIND OUT MORE
-      url: https://together.smartnation.gov.sg/
-      alt: Smart Nation Together
-      image: /images/community/snt/SNT-webinars.jpg
-  - infopic:
-      title: Co-create With Us
-      description: Share your feedback on digital Government services via SCOPE
-      button: Find out more
-      url: /community/scope
-      image: /images/community/sna/SmartNationAmbassador01.jpg
-      alt: SCOPE - Co-create with us
 notification: ""
 ---
