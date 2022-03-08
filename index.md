@@ -24,10 +24,10 @@ sections:
       image: /images/initiatives/Singpass-05.jpeg
       alt: Singpass
   - infopic:
-      title: We have been named smartest global city for the third year
-      description: "Learn something new  at our #SmartNationTogether webinars and workshops"
-      button: FIND OUT MORE
-      url: https://together.smartnation.gov.sg/
+      title: Singapore named smartest global city for third year running
+      description: Check out our milestones and achievements
+      button: Follow Our Journey
+      url: /about-smart-nation/our-journey/milestones
       alt: Smart Nation Together
       image: /images/community/snt/SNT-webinars.jpg
   - infopic:
@@ -37,6 +37,5 @@ sections:
       url: /covid-19/covid-19-tech
       image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
       alt: "Covid-19 Technology "
-      subtitle: Responding to COVID-19
 notification: ""
 ---
