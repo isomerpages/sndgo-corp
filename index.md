@@ -25,12 +25,13 @@ sections:
       alt: Singpass
       subtitle: OUR DIGITAL GOVERNMENT
   - infopic:
-      title: Combating COVID-19
+      title: Combating COVID-19 with technology
       description: Learn how Singapore managed the pandemic effectively with technology
       button: Read more about it
       url: /covid-19/covid-19-tech
       image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
       alt: "Covid-19 Technology "
+      subtitle: Responding to COVID-19
   - infopic:
       title: Pick Up New Skills
       description: "Learn something new  at our #SmartNationTogether webinars and workshops"
