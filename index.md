@@ -29,7 +29,7 @@ sections:
       button: Follow Our Journey
       url: /about-smart-nation/our-journey/milestones
       alt: Smart Nation Together
-      image: /images/community/snt/SNT-webinars.jpg
+      image: /images/abt-smart-nation/Singapore-Tech.jpg
   - infopic:
       title: Combating COVID-19 with technology
       description: Learn how Singapore managed the pandemic effectively with technology
