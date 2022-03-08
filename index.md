@@ -23,6 +23,7 @@ sections:
       url: /about-smart-nation/digital-government#the-progress-so-far
       image: /images/initiatives/Singpass-05.jpeg
       alt: Singpass
+      subtitle: OUR DIGITAL GOVERNMENT
   - infopic:
       title: Combating COVID-19
       description: Learn how Singapore managed the pandemic effectively with technology
