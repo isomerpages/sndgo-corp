@@ -27,7 +27,7 @@ sections:
       title: Singapore named smartest global city for third year running
       description: Check out our milestones and achievements
       button: Follow Our Journey
-      url: /about-smart-nation/our-journey/milestones
+      url: /about-smart-nation/our-journey/achievements
       alt: Smart Nation Together
       image: /images/abt-smart-nation/Singapore-Tech.jpg
   - infopic:
