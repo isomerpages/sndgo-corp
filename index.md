@@ -34,8 +34,8 @@ sections:
       title: Want to learn more? Check out our Smart Nation showcases!
       description: Discover the benefits of digital technology
       button: Find Out More
-      url: /covid-19/covid-19-tech
+      url: /community/showcases/overview
       image: /images/community/playscape/PlayScape_04.jpeg
-      alt: "Covid-19 Technology "
+      alt: PlayScape
 notification: ""
 ---
