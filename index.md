@@ -17,7 +17,7 @@ sections:
           description: Help safeguard our ICT systems
           url: /about-smart-nation/secure-smart-nation/report-data-incident
   - infopic:
-      title: 94% of our Government services are digital from end to end!
+      title: 94% of our government services are digital from end to end!
       description: See how we have progressed as a Digital Government
       button: READ MORE ABOUT IT
       url: /about-smart-nation/digital-government#the-progress-so-far
