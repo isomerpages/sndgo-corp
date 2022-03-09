@@ -16,6 +16,7 @@ sections:
         - title: Report a Government Data Incident
           description: Help safeguard our ICT systems
           url: /about-smart-nation/secure-smart-nation/report-data-incident
+      title: "#SmartNationSG"
   - infopic:
       title: 94% of our government services are digital from end to end!
       description: See how we have progressed as a Digital Government
