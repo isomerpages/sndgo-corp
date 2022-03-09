@@ -7,45 +7,35 @@ sections:
   - hero:
       background: /images/Homepage_Transforming_SG_through_technology.jpg
       key_highlights:
-        - title: Strategic National Projects
-          description: Discover the building blocks for our Smart Nation
-          url: /initiatives/strategic-national-projects
-        - title: Milestones & Achievements
-          description: Follow our journey
-          url: /about-smart-nation/our-journey/milestones
-        - title: A Secure Smart Nation
-          description: Report a Government Data Incident
-          url: /about-smart-nation/secure-smart-nation/report-data-incident
-        - title: Smart Nation Ambassadors
+        - title: Become a Smart Nation Ambassador
           description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
+        - title: Pick Up New Tech Skills
+          description: Check out our webinars
+          url: https://together.smartnation.gov.sg/
+        - title: Report a Government Data Incident
+          description: Help safeguard our ICT systems
+          url: /about-smart-nation/secure-smart-nation/report-data-incident
   - infopic:
-      title: 94% of Government services are digital from end to end
-      description: Learn about our progress as a Digital Government
-      button: Find out more
+      title: 94% of our government services are digital from end to end!
+      description: See how we have progressed as a Digital Government
+      button: READ MORE ABOUT IT
       url: /about-smart-nation/digital-government#the-progress-so-far
       image: /images/initiatives/Singpass-05.jpeg
       alt: Singpass
   - infopic:
-      title: Combating COVID-19
-      description: Learn how Singapore managed the pandemic effectively with technology
-      button: Read more about it
-      url: /covid-19/covid-19-tech
-      image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
-      alt: "Covid-19 Technology "
+      title: We're the world's smartest city for the third year running!
+      description: Here are our milestones and achievements
+      button: Follow Our Journey
+      url: /about-smart-nation/our-journey/achievements
+      alt: IMD-SUTD Smart City Index 2021
+      image: /images/abt-smart-nation/IMDSUTD2021_HomePageBanner.jpg
   - infopic:
-      title: Pick Up New Skills
-      description: "Learn something new  at our #SmartNationTogether webinars and workshops"
-      button: FIND OUT MORE
-      url: https://together.smartnation.gov.sg/
-      alt: Smart Nation Together
-      image: /images/community/snt/SNT-webinars.jpg
-  - infopic:
-      title: Co-create With Us
-      description: Share your feedback on digital Government services via SCOPE
-      button: Find out more
-      url: /community/scope
-      image: /images/community/sna/SmartNationAmbassador01.jpg
-      alt: SCOPE - Co-create with us
+      title: Want to learn more? Check out our Smart Nation showcases!
+      description: Discover the benefits of digital technology
+      button: Find Out More
+      url: /community/showcases/overview
+      image: /images/community/playscape/PlayScape_04.jpeg
+      alt: PlayScape
 notification: ""
 ---
