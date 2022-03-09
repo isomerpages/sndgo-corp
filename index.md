@@ -17,13 +17,6 @@ sections:
           description: Help safeguard our ICT systems
           url: /about-smart-nation/secure-smart-nation/report-data-incident
   - infopic:
-      title: 94% of our Government services are digital from end to end!
-      description: See how we have progressed as a Digital Government
-      button: READ MORE ABOUT IT
-      url: /about-smart-nation/digital-government#the-progress-so-far
-      image: /images/initiatives/Singpass-05.jpeg
-      alt: Singpass
-  - infopic:
       title: We're the world's smartest city for the third year running!
       description: Here are our milestones and achievements
       button: Follow Our Journey
@@ -31,11 +24,18 @@ sections:
       alt: Smart Nation Together
       image: /images/abt-smart-nation/Singapore-Tech.jpg
   - infopic:
+      title: 94% of our Government services are digital from end to end!
+      description: See how we have progressed as a Digital Government
+      button: READ MORE ABOUT IT
+      url: /about-smart-nation/digital-government#the-progress-so-far
+      image: /images/initiatives/Singpass-05.jpeg
+      alt: Singpass
+  - infopic:
       title: Want to learn more? Check out our Smart Nation showcases!
       description: Discover the benefits of digital technology
       button: Find Out More
       url: /covid-19/covid-19-tech
-      image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
+      image: /images/community/playscape/PlayScape_04.jpeg
       alt: "Covid-19 Technology "
 notification: ""
 ---
