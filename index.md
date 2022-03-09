@@ -10,7 +10,7 @@ sections:
         - title: Become a Smart Nation Ambassador
           description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
-        - title: Pick Up New Skills
+        - title: Pick Up New Tech Skills
           description: Check out our webinars
           url: https://together.smartnation.gov.sg/
         - title: Report a Government Data Incident
