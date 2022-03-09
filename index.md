@@ -21,8 +21,8 @@ sections:
       description: Here are our milestones and achievements
       button: Follow Our Journey
       url: /about-smart-nation/our-journey/achievements
-      alt: Smart Nation Together
-      image: /images/abt-smart-nation/Singapore-Tech.jpg
+      alt: IMD-SUTD Smart City Index 2021
+      image: /images/abt-smart-nation/IMDSUTD2021_HomePageBanner.jpg
   - infopic:
       title: 94% of our Government services are digital from end to end!
       description: See how we have progressed as a Digital Government
