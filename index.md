@@ -7,12 +7,12 @@ sections:
   - hero:
       background: /images/Homepage_Transforming_SG_through_technology.jpg
       key_highlights:
-        - title: Pick Up New Skills
-          description: Check out our webinars
-          url: https://together.smartnation.gov.sg/
         - title: Become a Smart Nation Ambassador
           description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
+        - title: Pick Up New Skills
+          description: Check out our webinars
+          url: https://together.smartnation.gov.sg/
         - title: Report a Government Data Incident
           description: Help safeguard our ICT systems
           url: /about-smart-nation/secure-smart-nation/report-data-incident
