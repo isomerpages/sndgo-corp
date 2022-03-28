@@ -8,7 +8,35 @@ image: /images/initiatives/overview-pages/amr-trial.png
 # Tracking Water Data from Tap to App
 <br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/-DR_q5WlUcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/-DR_q5WlUcs" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 Collecting and analysing data on how we use water can go a long way towards helping us become more efficient with the precious resource. PUB, our national water agency, is progressively rolling out <a href="https://www.pub.gov.sg/smartwatermeterprogramme/about" target="_blank">smart water meters</a> to replace our current mechanical meters.
 
@@ -17,8 +45,35 @@ The smart water meters are designed to monitor, collect and make data on the use
 ## Automated Meter Reading (AMR) Trial
 <br>
 
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Jfy-T0uggCg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/Jfy-T0uggCg" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 The AMR trial is part of the <a href="https://www.pub.gov.sg/news/pressreleases/transformingpubintothesmartutilityofthefuture" target="_blank">SMART PUB roadmap</a> to digitalise Singapore’s entire water system. The roadmap allows PUB to improve its operations through smarter water quality management, network improvements, integrated customer engagements and smarter work processes.
 
@@ -43,4 +98,3 @@ ___
 
 * <a href="https://www.pub.gov.sg/news/pressreleases/PUBTakesFirstStepsTowardsInstallingSmartWaterMeters" target="_blank">PUB Takes First Steps Towards Installing Smart Water Meters</a>
 * <a href="https://www.pub.gov.sg/news/pressreleases/2021pr005" target="_blank">PUB appoints SP Services to install Singapore’s first 300,000 Smart Water Meters</a>
-
