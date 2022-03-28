@@ -8,7 +8,35 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 #  A Smarter Way to Trade
 <br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/IqsHu3rK7p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/IqsHu3rK7p8" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 When COVID-19 hit in 2020, many businesses had to shift their operations online. This transformed the way we buy our goods and services. Our supply chains had to be quickly reconfigured to make sure our people had what they needed, and it shone a spotlight on how continued effort is needed to make sure our trade links remain resilient. 
 
