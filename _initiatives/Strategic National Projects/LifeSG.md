@@ -13,6 +13,36 @@ Originally known as Moments of Life, the <a href="http://www.life.gov.sg" target
 
 Today, LifeSG allows you to easily access Government services, keep up with the latest news and updates, track your applications and more.
 
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/cqy9LF2jw7M"
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
+
 Below are some of LifeSG’s key features:
 
 ## Navigate Various Services
@@ -31,6 +61,36 @@ LifeSG complies with the Public Sector Governance Act (PSGA), which governs data
 * Mandating Singpass log-in as a requirement to access services
 * Checking for unauthorised logins
 * Running the platform through regular industry standard tests
+
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/rBZVBNzhIqI" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 Have suggestions on how we can make LifeSG better? Share your feedback in the ongoing [Smart Nation Co-creating with our People Everywhere (SCOPE)](/community/scope) sessions, so we can enhance the app’s design and effectiveness.
 
