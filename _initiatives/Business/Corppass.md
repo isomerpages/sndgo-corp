@@ -48,3 +48,13 @@ If you are a business owner, take advantage of Corppass today by:
 2. Using Corppass to grant and manage authorisations given to different employees within your organisation
 
 Click on the link to learn more about [Corppass](https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login).
+
+<br><br>
+
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="/media-hub/press-releases/singpass-enhancements-factsheet-02032022">From end March 2022, individuals with valid Corppass accounts will be able to view their business entity information on the Singpass app</a></li>
+	</ul>
+</div>
