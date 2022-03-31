@@ -43,3 +43,13 @@ The HDB Resale Portal makes the buying and selling of resale flats a breeze. Buy
 By utilising the portal, buyers and sellers only need to attend one appointment with HDB to sign the necessary documents – down from two previously – thus halving the time needed to complete the transaction. 
 
 Learn how the [HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp) can help homeowners and buyers do more with less time needed.
+
+<br><br>
+
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="https://www.channelnewsasia.com/singapore/hdb-flat-portal-buy-sell-bto-property-public-housing-home-404661">CNA: HDB launches one-stop portal for flat purchases</a></li>
+	</ul>
+</div>
