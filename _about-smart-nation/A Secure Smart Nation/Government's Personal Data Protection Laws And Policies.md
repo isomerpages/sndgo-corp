@@ -63,3 +63,7 @@ A **Third Party** is defined as a party (other than a **data subject[^1]** or an
 <div style="width:40%"> 
  <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"> <img style="border:1px solid black;" src="/images/abt-smart-nation/key-policies-third-party-framework.jpeg" alt="Key Policies of the Government's Third-Party Management Framework">Key Policies of the Government's Third-Party Management Framework (1.2mb)</a>
 </div>
+
+<br>
+
+***
