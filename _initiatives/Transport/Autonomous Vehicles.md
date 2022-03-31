@@ -107,9 +107,14 @@ Driverless trucks have gone on trial on Jurong Island since September 2017. Thes
 
 For the next phase, they will be guided by satellite. The aim is to have them eventually ply public roads autonomously.
 
-----------
-**Related Links:**
-	
-* <a href="https://www.mot.gov.sg/Transport-Matters/motoring/detail/driverless-vehicles-a-vision-for-singapore-s-transport" target="_blank">Driverless Vehicles: A Vision for Singapore’s Transport</a>
+<br><br>
 
-* <a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/3/2/factsheet-leveraging-technology-for-a-smarter-and-greener-transport-system.html" target="_blank">Factsheet: Leveraging Technology for a Smarter and Greener Transport System</a>
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="https://www.mot.gov.sg/Transport-Matters/motoring/detail/driverless-vehicles-a-vision-for-singapore-s-transport" target="_blank">Driverless Vehicles: A Vision for Singapore’s Transport</a></li>
+		<li><a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/3/2/factsheet-leveraging-technology-for-a-smarter-and-greener-transport-system.html" target="_blank">Factsheet: Leveraging Technology for a Smarter and Greener Transport System</a></li>
+	</ul>
+</div>
+
