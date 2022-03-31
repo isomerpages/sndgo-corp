@@ -71,11 +71,13 @@ We’ve also set our targets for 2023 and beyond:
 
 Read the latest DGB here: [DGB - 30 December 2020 (277kb)](/files/publications/dgb-public-document_30dec20.pdf)
 
-<br>
+<br><br>
 
-___
-		 		 
-**Related Links:**
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
 
-* <a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy & Digital Government</a>
-* <a href="/about-smart-nation/our-journey/milestones">Milestones of Singapore’s Smart Nation story</a>
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy & Digital Government</a></li>
+	<li><a href="/about-smart-nation/our-journey/milestones">Milestones of Singapore’s Smart Nation story</a></li>
+	</ul>
+</div>
