@@ -119,6 +119,8 @@ What the Smart Nation Scholarship covers:
 
 The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="http://go.gov.sg/smartnationscholarship" target="_blank">go.gov.sg/smartnationscholarship</a> for the full details or email scholarship@smartnation.gov.sg.
 
-![Smart Nation Scholarship](/images/careers/smart-nation-scholarship-2021.jpg) <br>
+![Smart Nation Scholarship](/images/careers/smart-nation-scholarship-2021.jpg)
+
+<br>
 
 ***
