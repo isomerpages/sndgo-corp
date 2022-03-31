@@ -5,8 +5,6 @@ third_nav_title: Urban Living
 description: ""
 image: /images/initiatives/drone-with-camera-for-dengue-survey.jpg
 ---
-
-
 # Survey Drones to Tackle Dengue
 
 ![Alt text for image on Isomer site](/images/initiatives/drone-with-camera-for-dengue-survey.jpg)
@@ -23,7 +21,12 @@ Our tech solution: Drones.
 
 Drones not only allow us to survey roof gutters easily, they can also be equipped to dispense larvicide to effectively eradicate mosquito breeding habitats.
 
-----------
-**Related Links:**
-* <a href="https://www.straitstimes.com/singapore/drones-join-nea-battle-against-dengue" target="_blank">Drones join NEA battle against dengue</a>
+<br><br>
 
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="https://www.straitstimes.com/singapore/drones-join-nea-battle-against-dengue" target="_blank">Drones join NEA battle against dengue</a></li>
+	</ul>
+</div>
