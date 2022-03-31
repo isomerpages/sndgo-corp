@@ -95,9 +95,9 @@ To volunteer, sign up for your preferred activity here: <a href="https://www.vol
 
 Be sure to read our [FAQs](/community/smart-nation-ambassadors/faq) to clear up any questions or concerns you may have. If you have an exciting idea on how we can help each other in this digital journey, please write to us at [ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg). We want to hear from you!
 
-For more updates on Smart Nation events, follow us on Telegram:
+For more updates on Smart Nation events, [follow us on Telegram](https://t.me/SmartNationAmbassadors):
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:10%;height:10%;"><a href="https://t.me/SmartNationAmbassadors" target="_blank"><img src="/images/community/icons/telegram.png"></a></div></div>
+<br><br>
 
 ***
 
