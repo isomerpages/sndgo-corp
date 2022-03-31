@@ -5,11 +5,38 @@ third_nav_title: Transport
 description: ""
 image: /images/initiatives/overview-pages/on-demand-shuttle.png
 ---
-
 # Can Public Transport Be On Demand?
 <br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1bCUGp4rlQI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/1bCUGp4rlQI" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 Imagine booking a self-driving vehicle on your smartphone. In just a few taps, you’ve arranged to be picked up at your doorstep and driven to the train station or bus stop you indicated. Sounds appealing?
 

@@ -10,14 +10,69 @@ image: /images/og-image/Smart-Nation-OG-Image.jpg
 # Do You Have What It Takes?
 <br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/tER0COx2WxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/tER0COx2WxM"
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 Are you passionate about technology and Smart Nation? Are you driven by the desire to create digital solutions that can transform our society, economy and government?
 
 If your answer is yes and yes, come apply for the Smart Nation Scholarship. Offered by the Cyber Security Agency of Singapore (<a href="https://www.csa.gov.sg/" target="_blank">CSA</a>), Government Technology Agency (<a href="https://www.tech.gov.sg/" target="_blank">GovTech</a>) and Infocomm Media Development Authority (<a href="https://www.imda.gov.sg/" target="_blank">IMDA</a>), the scholarship is an opportunity for you to carve out a career in tech, while making meaningful contributions to improve the lives around you.
 
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y_bk9YFZvSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/Y_bk9YFZvSQ" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 ## Opportunities Abound in Government 
 
@@ -64,6 +119,8 @@ What the Smart Nation Scholarship covers:
 
 The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="http://go.gov.sg/smartnationscholarship" target="_blank">go.gov.sg/smartnationscholarship</a> for the full details or email scholarship@smartnation.gov.sg.
 
-![Smart Nation Scholarship](/images/careers/smart-nation-scholarship-2021.jpg) <br>
+![Smart Nation Scholarship](/images/careers/smart-nation-scholarship-2021.jpg)
+
+<br>
 
 ***

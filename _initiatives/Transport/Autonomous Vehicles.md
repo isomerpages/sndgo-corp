@@ -5,8 +5,6 @@ third_nav_title: Transport
 description: ""
 image: /images/initiatives/gbtb-auto-rider-night.jpeg
 ---
-
-
 # Driving Into the Future
 ![Self driving illustration](/images/initiatives/self-driving-vehicle-lta.jpg)
 *(Image: Land Transport Authority)*
@@ -27,12 +25,39 @@ Ongoing trials allow us to study the potential of autonomous vehicles, and you c
 #### A*STAR’s Institute for Infocomm Research (I2R)
 
 ![Prime Minister Lee Hsien Loong in a self driving vehicle](/images/initiatives/smart-nation-pm-sdv.jpg)
-*Image: ASTAR*
+*(Image: ASTAR)*
   
-<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/cUDgTRxP4ks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 A* STAR’s self-driving vehicle was the first autonomous vehicle approved for public road testing at one-north in July 2015. This iconic vehicle has ferried Prime Minister Lee Hsien Loong and Cabinet ministers such as S. Iswaran, Vivian Balakrishnan as well as ministers from other countries.
+
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/cUDgTRxP4ks" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 #### National University of Singapore (NUS) and the Singapore-MIT Alliance for Research and Technology (SMART)
 ![SMART electric passenger car](/images/initiatives/smart-nus.jpg)
@@ -82,9 +107,14 @@ Driverless trucks have gone on trial on Jurong Island since September 2017. Thes
 
 For the next phase, they will be guided by satellite. The aim is to have them eventually ply public roads autonomously.
 
-----------
-**Related Links:**
-	
-* <a href="https://www.mot.gov.sg/Transport-Matters/motoring/detail/driverless-vehicles-a-vision-for-singapore-s-transport" target="_blank">Driverless Vehicles: A Vision for Singapore’s Transport</a>
+<br><br>
 
-* <a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/3/2/factsheet-leveraging-technology-for-a-smarter-and-greener-transport-system.html" target="_blank">Factsheet: Leveraging Technology for a Smarter and Greener Transport System</a>
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="https://www.mot.gov.sg/Transport-Matters/motoring/detail/driverless-vehicles-a-vision-for-singapore-s-transport" target="_blank">Driverless Vehicles: A Vision for Singapore’s Transport</a></li>
+		<li><a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/3/2/factsheet-leveraging-technology-for-a-smarter-and-greener-transport-system.html" target="_blank">Factsheet: Leveraging Technology for a Smarter and Greener Transport System</a></li>
+	</ul>
+</div>
+

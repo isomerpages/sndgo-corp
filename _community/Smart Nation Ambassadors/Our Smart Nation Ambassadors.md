@@ -23,11 +23,67 @@ Every year, we organise an event  to thank our wonderful Ambassadors, and also t
 
 #### Star Smart Nation Ambassadors of 2021
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/-V8zlVy499o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/-V8zlVy499o" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 #### Star Smart Nation Ambassadors of 2020
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/sY__ajCgMnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/sY__ajCgMnk" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 ## Volunteer as a Smart Nation Ambassador
 
@@ -39,9 +95,9 @@ To volunteer, sign up for your preferred activity here: <a href="https://www.vol
 
 Be sure to read our [FAQs](/community/smart-nation-ambassadors/faq) to clear up any questions or concerns you may have. If you have an exciting idea on how we can help each other in this digital journey, please write to us at [ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg). We want to hear from you!
 
-For more updates on Smart Nation events, follow us on Telegram:
+For more updates on Smart Nation events, [follow us on Telegram](https://t.me/SmartNationAmbassadors):
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:10%;height:10%;"><a href="https://t.me/SmartNationAmbassadors" target="_blank"><img src="/images/community/icons/telegram.png"></a></div></div>
+<br>
 
 ***
 

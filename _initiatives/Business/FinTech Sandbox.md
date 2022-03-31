@@ -5,8 +5,6 @@ third_nav_title: Business
 description: ""
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
-
-
 # Pushing Boundaries with Singapore’s Very Own FinTech Sandbox
 ![Singapore's central business district](/images/initiatives/Fintech-sandbox.jpg)
 
@@ -33,10 +31,14 @@ A one-stop virtual entity for all FinTech-related matters that offers a seamless
 
 MAS, Economic Development Board of Singapore, Infocomm Investments Pte Ltd, Info-communications Media Development Authority, National Research Foundation, and SPRING Singapore are just some of the organisations looking to make this a reality. 
 
+<br><br>
 
-----------
-**Related Links:**
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
 
-* [MAS Proposes a "Regulatory Sandbox" for FinTech Experiments](https://www.mas.gov.sg/news/media-releases/2016/mas-proposes-a-regulatory-sandbox-for-fintech-experiments)
-* [Speech Transcript: "Singapore's FinTech Journey - Where We Are, What Is Next"](https://www.mas.gov.sg/news/speeches/2016/singapore-fintech-journey)
-* [MAS establishes FinTech Innovation Lab](https://www.mas.gov.sg/news/media-releases/2016/mas-establishes-fintech-innovation-lab)
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="https://www.mas.gov.sg/news/media-releases/2016/mas-proposes-a-regulatory-sandbox-for-fintech-experiments">MAS Proposes a "Regulatory Sandbox" for FinTech Experiments</a></li>
+	<li><a href="https://www.mas.gov.sg/news/speeches/2016/singapore-fintech-journey">Speech Transcript: "Singapore's FinTech Journey - Where We Are, What Is Next"</a></li>
+	<li><a href="https://www.mas.gov.sg/news/media-releases/2016/mas-establishes-fintech-innovation-lab">MAS establishes FinTech Innovation Lab</a></li>
+	</ul>
+</div>

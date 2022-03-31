@@ -5,8 +5,6 @@ third_nav_title: Urban Living
 description: ""
 image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
 ---
-
-
 # The Smart Town Framework
 <br>
 
@@ -89,8 +87,14 @@ For instance, the amount of sunlight falling into homes and factoring in of shad
 
 Completed in 2020, these are the first HDB flats equipped with smart distribution boards and smart sockets in every room to easily support smart home solutions. The smart distribution board replaces the conventional distribution board in HDB flats, enabling residents to monitor electricity usage across their household appliances.
 
-----------
-**Related Links:**
-* <a href="http://www20.hdb.gov.sg/fi10/fi10296p.nsf/PressReleases/F93B15F80588397748257D500009CE6C?OpenDocument" target="_blank">Smart HDB Homes of the Future</a>
-* <a href="http://www.hdb.gov.sg/cs/infoweb/press-release/yuhua-the-first-existing-hdb-estate-to-go-smart" target="_blank">Yuhua the First Existing HDB Estate to Go Smart</a>
-* <a href="http://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page/hdb-smart-home-exhibition" target="_blank">My Smart HDB Home @ Yuhua</a>
+<br><br>
+
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="http://www20.hdb.gov.sg/fi10/fi10296p.nsf/PressReleases/F93B15F80588397748257D500009CE6C?OpenDocument" target="_blank">Smart HDB Homes of the Future</a></li>
+		<li><a href="http://www.hdb.gov.sg/cs/infoweb/press-release/yuhua-the-first-existing-hdb-estate-to-go-smart" target="_blank">Yuhua the First Existing HDB Estate to Go Smart</a></li>
+		<li><a href="http://www.hdb.gov.sg/cs/infoweb/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page/hdb-smart-home-exhibition" target="_blank">My Smart HDB Home @ Yuhua</a></li>
+	</ul>
+</div>

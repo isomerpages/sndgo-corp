@@ -10,7 +10,35 @@ image: /images/og-image/Smart-Nation-OG-Image.jpg
 # Help Build Our Smart Nation, Together
 <br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ThfGBUqwzyA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/ThfGBUqwzyA" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 Our journey to build a Smart Nation would not be possible without talented, creative and visionary individuals. 
 

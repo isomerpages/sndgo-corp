@@ -5,8 +5,6 @@ third_nav_title: Campaigns
 description: ""
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
-
 # My Smart Ahma
 
 ![My Smart Ahma](/images/media-hub/smart-nation-archives/my-smart-ahma-logo.png)
@@ -23,7 +21,35 @@ If you missed My Smart Ahma, enjoy the six episodes below as Benjamin and his Ah
 ### Episode 1
 Ahma shows up at Benjamin's meeting with a cute colleague. What will Benjamin do?
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/yiYyvxTHnps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/yiYyvxTHnps" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 **Smart Nation initiatives featured:**
 - [HDB Smart Towns](/initiatives/urban-living/smart-towns) 
@@ -34,7 +60,35 @@ Ahma shows up at Benjamin's meeting with a cute colleague. What will Benjamin do
 
 Ben is afraid to ask Rachel out. Ahma tries to help. Will he do it?
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/gRFEhl5Ujtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/gRFEhl5Ujtg" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
  
 **Smart Nation initiatives featured:**
 
@@ -48,7 +102,35 @@ Ben is afraid to ask Rachel out. Ahma tries to help. Will he do it?
 
 Is this Ben's chance to give flowers to Rachel? Will he succeed?
  
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/HuNGadjRHlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/HuNGadjRHlI" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 **Smart Nation initiatives featured:**
 * [Smart Lighting](/initiatives/urban-living/smart-towns) 
@@ -60,7 +142,35 @@ Is this Ben's chance to give flowers to Rachel? Will he succeed?
 
 Ahma goes missing! How will Ben and Rachel find her?
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/O-r7xzRRqes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/O-r7xzRRqes" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
  
 **Smart Nation initiatives featured:**
 * [myENV App](/initiatives/urban-living/myenv-app)
@@ -75,7 +185,35 @@ Ahma goes missing! How will Ben and Rachel find her?
 
 With Ahma’s help, Ben cooks a meal for Rachel. Will sparks fly?
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/hkUvOOXPlpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/hkUvOOXPlpM" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
  
 **Smart Nation initiatives featured:**
 * [PayNow and SGQR](/initiatives/strategic-national-projects/e-payments) 
@@ -85,7 +223,35 @@ With Ahma’s help, Ben cooks a meal for Rachel. Will sparks fly?
 
 Ben may never see Rachel again. Will he go after her?
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XIhdrAy-x6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/XIhdrAy-x6w"
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
  
 **Smart Nation initiatives featured:**
 * Parking.sg - Download from the <a href="https://apps.apple.com/vn/app/parking-sg/id1286602494" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en" target="_blank">Google Play Store</a>

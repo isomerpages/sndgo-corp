@@ -9,7 +9,35 @@ image: /images/community/builder/Smart_Nation_Builder_12.jpeg
 
 <br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1IPIU5OH-fA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/1IPIU5OH-fA"
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
 
 The Smart Nation Builder is a 12m-long truck fitted with interactive game stations for members of the public to learn more about Singapore’s tech initiatives and digital Government services. It is also a platform for citizens to provide inputs and feedback on how to improve our products and services. 
 

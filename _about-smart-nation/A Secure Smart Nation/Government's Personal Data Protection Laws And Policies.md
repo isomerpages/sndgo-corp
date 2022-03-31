@@ -44,22 +44,23 @@ With this in mind, the Government has introduced policies to guide Agencies in e
 
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:75%;height:75%;"><img src="/images/abt-smart-nation/pdp-third-party-framework.png" alt="Third Party Management Framework"></div></div>
 
-
-<hr>
-
 A **Third Party** is defined as a party (other than a **data subject[^1]** or an **Agency[^2]**) which
 
-1. delivers, develops, implements, operates, provides or otherwise supplies ICT systems or services to an Agency, or
+*  delivers, develops, implements, operates, provides or otherwise supplies ICT systems or services to an Agency, or
 
-2. collects, stores or otherwise processes data for an Agency.
+*  collects, stores or otherwise processes data for an Agency.
 
 [^1]: Data subject refers to the individual or entity to which the data relates.
 
 [^2]: Agency refers to Organs of State, Ministries, Departments and Statutory Boards
-<hr>
+
 
 **Find out more about the key policies that govern how agencies work with its third parties to safeguard data in the document below:**
 
 <div style="width:40%"> 
  <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"> <img style="border:1px solid black;" src="/images/abt-smart-nation/key-policies-third-party-framework.jpeg" alt="Key Policies of the Government's Third-Party Management Framework">Key Policies of the Government's Third-Party Management Framework (1.2mb)</a>
 </div>
+
+<br>
+
+***

@@ -150,10 +150,12 @@ The Monetary Authority of Singapore (MAS) and the Smart Nation and Digital Gover
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
-<br>
+<br><br>
 
-___
-		 		 
-**Related Links:**
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
 
-* <a href="/about-smart-nation/digital-government#the-progress-so-far">Digital Government: The progress so far</a>
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="/about-smart-nation/digital-government#the-progress-so-far">Digital Government: The progress so far</a></li>
+	</ul>
+</div>
