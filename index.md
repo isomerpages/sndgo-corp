@@ -5,7 +5,7 @@ description: Transforming Singapore Through Technology
 permalink: /
 sections:
   - hero:
-      background: /images/Homepage_Transforming_SG_through_technology.jpg
+      background: /images/testbanner.jpeg
       key_highlights:
         - title: Become a Smart Nation Ambassador
           description: Join us on our transformative journey
