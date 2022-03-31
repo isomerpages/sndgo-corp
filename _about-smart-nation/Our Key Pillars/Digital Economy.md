@@ -21,11 +21,13 @@ Three key strategies have been identified in the <a href="https://www.imda.gov.s
  <a href="/files/abt-smart-nation/SGD Framework For Action.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/Digital-Economy-Framework2.png" alt="Digital Economy Framework for Action">Digital Economy Framework for Action (4.31mb)</a>
 </div>
 
-<br>
+<br><br>
 
-___
-		 		 
-**Related Links:**
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
 
-* <a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy & Digital Government</a>
-* <a href="/initiatives/business">Business Initiatives</a>
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy & Digital Government</a></li>
+	<li><a href="/initiatives/business">Business Initiatives</a></li>
+	</ul>
+</div>
