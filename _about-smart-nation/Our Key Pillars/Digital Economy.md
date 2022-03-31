@@ -27,5 +27,5 @@ ___
 		 		 
 **Related Links:**
 
-* <a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy & Digital Governement</a>
+* <a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy & Digital Government</a>
 * <a href="/initiatives/business">Business Initiatives</a>
