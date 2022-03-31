@@ -97,7 +97,7 @@ Be sure to read our [FAQs](/community/smart-nation-ambassadors/faq) to clear up 
 
 For more updates on Smart Nation events, [follow us on Telegram](https://t.me/SmartNationAmbassadors):
 
-<br><br>
+<br>
 
 ***
 
