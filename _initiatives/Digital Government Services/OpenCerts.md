@@ -29,6 +29,10 @@ When an OpenCerts certificate is issued by an educational institute, a unique co
 
 Click on the link to learn more about the [OpenCerts platform](https://opencerts.io).
 
+<br>
+
+***
+
 [^1]: Blockchain is a tool for digitally recording transactions, be it between a buyer and seller, or in this case, an educational institution and its graduates. A public blockchain is neither owned nor maintained by an individual and instead decentralised. This ensures that records made on it cannot be altered or destroyed by a single person.
 
 [^2]: A cryptographic proof is a method by which one party can prove to another party that they know a value of the proof without being aware of any other details within the documentation.
