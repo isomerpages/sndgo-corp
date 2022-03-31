@@ -90,11 +90,14 @@ Based on the success of the AMR trials, PUB has launched the Smart Water Meter P
 
 The first phase of this programme will see the installation of 300,000 smart water meters in new and existing residential, commercial and industrial premises by 2023. It empowers water efficiency, allows for the early detection of leaks, and goes a long way towards saving water and money.
 
-<br>
 
-___
-		 		 
-**Related Links:**
+<br><br>
 
-* <a href="https://www.pub.gov.sg/news/pressreleases/PUBTakesFirstStepsTowardsInstallingSmartWaterMeters" target="_blank">PUB Takes First Steps Towards Installing Smart Water Meters</a>
-* <a href="https://www.pub.gov.sg/news/pressreleases/2021pr005" target="_blank">PUB appoints SP Services to install Singapore’s first 300,000 Smart Water Meters</a>
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="https://www.pub.gov.sg/news/pressreleases/PUBTakesFirstStepsTowardsInstallingSmartWaterMeters" target="_blank">PUB Takes First Steps Towards Installing Smart Water Meters</a></li>
+		<li><a href="https://www.pub.gov.sg/news/pressreleases/2021pr005" target="_blank">PUB appoints SP Services to install Singapore’s first 300,000 Smart Water Meters</a></li>
+	</ul>
+</div>
