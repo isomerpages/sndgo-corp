@@ -82,12 +82,17 @@ The goal is to improve the lives of people in the region, using technology as an
 
 [Return to top](#transforming-singapore-through-technology)
 
-___
-		 		 
-**Related Links:**
 
-* [COS 2022 Infographics - Building Our Smart Nation](/files/press-releases/2022/Infographic%20-%20Building%20Our%20Smart%20Nation%20(COS%202022).pdf)
-* [COS 2022 Infographics: Transforming Lives](/files/press-releases/2022/Infographic%20-%20Transforming%20Lives%20(COS%202022).pdf)
-* [COS 2022 Infographics: Helping Businesses](/files/press-releases/2022/Infographic%20-%20Helping%20Businesses%20(COS%202022).pdf)
-* [COS 2021 Infographics: Transforming Singapore Through Technology](/files/press-releases/2021/transforming-sg-through-tech.pdf)
-* [COS 2021 Infographics: Building Partnerships and Capabilities for Smart Nation](/files/press-releases/2021/building-partnerships-and-capabilities-for-smart-nation.pdf)
+<br><br>
+
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 0px 0px 20px;">
+	<ul>
+		<li><a href="/files/press-releases/2022/Infographic%20-%20Building%20Our%20Smart%20Nation%20(COS%202022).pdf">COS 2022 Infographics - Building Our Smart Nation</a></li>
+			<li><a href="/files/press-releases/2022/Infographic%20-%20Transforming%20Lives%20(COS%202022).pdf">COS 2022 Infographics: Transforming Lives</a></li>
+			<li><a href="/files/press-releases/2022/Infographic%20-%20Helping%20Businesses%20(COS%202022).pdf">COS 2022 Infographics: Helping Businesses</a></li>
+			<li><a href="/files/press-releases/2021/transforming-sg-through-tech.pdf">COS 2021 Infographics: Transforming Singapore Through Technology</a></li>
+			<li><a href="/files/press-releases/2021/building-partnerships-and-capabilities-for-smart-nation.pdf">COS 2021 Infographics: Building Partnerships and Capabilities</a></li>
+	</ul>
+</div>
