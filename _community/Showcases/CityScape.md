@@ -58,8 +58,8 @@ Visitors to CityScape will learn about how technology:
 
 #### Address
 
-5 Maxwell Road
-The URA Centre 
+45 Maxwell Road<br>
+The URA Centre <br>
 Singapore 069118
 
 #### Opening Hours
