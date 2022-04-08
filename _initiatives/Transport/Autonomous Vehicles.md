@@ -92,7 +92,7 @@ NTU’s driverless shuttle bus travels a 500m route that connects up to 300 pass
 #### LTA and ST Kinetics
 ST Kinetics has launched autonomous buses to ply Sentosa’s popular destinations, including the Beach Station, Palawan Beach and Siloso Point. These buses will be tested in various locations, scenarios and environments, such as in heavy rain conditions, to ensure passengers’ safety at all times.
 
-To learn more about the trial, head over to <a href="https://www.stengg.com/en/innovation/driving-into-the-future-with-autonomous-buses/" target="_blank">ST Engineering’s website</a>.
+To learn more about the trial, head over to <a href="https://www.stengg.com/en/newsroom/news-releases/first-on-demand-autonomous-shuttle-trial-opens-to-public/" target="_blank">ST Engineering’s website</a>.
 
 #### MOT and PSA collaborate with Scania, Toyota
 This collaboration aims to develop technologies to enable heavy vehicles to move in leader-follower formation, fully automating the processes for precise docking and undocking of cargo.
@@ -113,8 +113,10 @@ For the next phase, they will be guided by satellite. The aim is to have them ev
 
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
 	<ul>
-		<li><a href="https://www.mot.gov.sg/Transport-Matters/motoring/detail/driverless-vehicles-a-vision-for-singapore-s-transport" target="_blank">Driverless Vehicles: A Vision for Singapore’s Transport</a></li>
+		<li><a href="https://www.edb.gov.sg/en/business-insights/insights/singapore-and-autonomous-vehicles-interesting-lessons-in-governance-planning-and-safety.html" target="_blank">EDB Singapore: Singapore And Autonomous Vehicles - Interesting Lessons In Governance, Planning, And Safety</a></li>
 		<li><a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/3/2/factsheet-leveraging-technology-for-a-smarter-and-greener-transport-system.html" target="_blank">Factsheet: Leveraging Technology for a Smarter and Greener Transport System</a></li>
+			<li><a href="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/autonomous_vehicles.html" target="_blank">LTA: Autonomous Vehicles</a></li>
 	</ul>
-</div>
 
+
+</div>
