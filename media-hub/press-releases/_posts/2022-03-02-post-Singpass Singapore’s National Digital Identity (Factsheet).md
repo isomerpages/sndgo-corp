@@ -9,7 +9,6 @@ description: As a foundational digital infrastructure, the national digital
   capabilities of government agencies.
 image: /images/initiatives/Singpass-05.jpeg
 ---
-
 ## Factsheet – Singpass (Singapore’s National Digital Identity)
 
 **2 Mar 2022**
@@ -30,7 +29,7 @@ As of February 2022, there are more than 3.5 million Singpass app users. About 8
 
 #### Digital IC
 
-Besides facilitating digital transactions, the Singpass app features the user’s Digital Identity Card (Digital IC) on the homepage. Users can present their Digital IC at government service counters for identity verification or scan the Digital IC barcode at kiosks, such as in public libraries or polyclinics. There are some exceptions where physical identification cards are required by law, such as for marriage registrations and hotel check-ins. The complete list of services that currently require the physical IC can be found on the [Singpass FAQ site](https://www.ifaq.gov.sg/singpass/apps/fcd_faqmain.aspx#FAQ_1112653).
+Besides facilitating digital transactions, the Singpass app features the user’s Digital Identity Card (Digital IC) on the homepage. Users can present their Digital IC at government service counters for identity verification or scan the Digital IC barcode at kiosks, such as in public libraries or polyclinics. There are some exceptions where physical identification cards are required by law, such as for marriage registrations and hotel check-ins. The complete list of services that currently require the physical IC can be found on the [Singpass FAQ site](https://www.singpass.gov.sg/main/html/faq.html).
 
 The Digital IC has an animated and holographic lion crest at the corner of the user’s photograph to deter image tampering and screenshot spoofing. For privacy, the NRIC number or FIN is masked by default; user authentication is required to view the full personal details on the Digital IC.
 
