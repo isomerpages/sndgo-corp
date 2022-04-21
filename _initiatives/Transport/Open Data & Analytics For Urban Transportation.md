@@ -5,8 +5,6 @@ third_nav_title: Transport
 description: ""
 image: /images/initiatives/smart-urban-mobility.jpg
 ---
-
-
 # Enhancing Public Transport Using Data
 ![SG Traffic Watch screenshot](/images/initiatives/SG-Traffic-watch.jpeg) 
 
@@ -25,7 +23,7 @@ This is just one example of how insights from data can help LTA improve policy p
 
 ## Singapore Traffic Watch
 
-<a href="https://sgtrafficwatch.org/" target="_blank">SG Traffic Watch</a>  uses a combination of real-time data and historical analysis to provide insights to help manage our road traffic.
+SG Traffic Watch uses a combination of real-time data and historical analysis to provide insights to help manage our road traffic.
 
 It pulls data from LTA’s Land Transport DataMall and NEA weather service, providing analytical charts that plot current traffic conditions against past trends. Their real-time map lets users explore how the different data sources can help to explain congestion and other traffic situations.
 

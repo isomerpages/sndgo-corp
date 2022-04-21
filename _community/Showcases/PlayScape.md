@@ -52,7 +52,7 @@ The exhibition consists of eight zones: Sensors, Geospatial, Biometrics, Blockch
 
 Programme a robot to dance. 
 
-![Smart Nation PlayScape - Robot](/images/community/playscape/PlayScape_04.jpeg)
+![Smart Nation PlayScape - Robot](/images/community/playscape/PlayScape_06.jpg)
 
 Scramble a Rubik’s cube and watch how our robot solves it.
 

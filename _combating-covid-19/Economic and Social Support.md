@@ -15,7 +15,7 @@ As such, platforms were quickly set up to assist with the various changes – su
 
 # COVID-19 GoBusiness portal
 
-The [GoBusiness platform](https://covid.gobusiness.gov.sg/) for business was used as a one-stop portal to provide businesses with information on safe management requirements and to apply to resume operations.
+The [GoBusiness platform](https://gobusiness.gov.sg/) for business was used as a one-stop portal to provide businesses with information on safe management requirements and to apply to resume operations.
 
 # COVID-19 Support Grant (CSG) application portal
 

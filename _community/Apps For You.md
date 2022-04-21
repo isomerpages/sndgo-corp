@@ -312,7 +312,7 @@ Want to register your child’s birth, check on the weather, report municipal is
             <img src="/images/community/apps/SingStat.jpg" alt="SingStat mobile app">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.singstat.gov.sg/our-services-and-tools/singstat-mobile-app" target="_blank">SingStat</a><br>
+      	<a href="https://www.singstat.gov.sg" target="_blank">SingStat</a><br>
    <br>
 	The Singpass app provides a secure, convenient way for users to log into Government digital services with their fingerprint, facial recognition or six-digit passcode. Access your digital IC, driving licence and more via MyInfo using the app.  <br>
 	<br>
