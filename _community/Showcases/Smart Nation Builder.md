@@ -144,9 +144,9 @@ Catch the Smart Nation Builder at these locations:
 
 | Date| Venue
 | -------- | -------- | 
-| 21 - 22 May <br>  | **Suntec City** |
-| 28 - 29 May | **Heartbeat@Bedok** <br>(near the walkway to <br>Blk 216 Bedok Food Centre & Market) | 
-| 3 - 5 Jun | **Pasir Ris Elias Community Club** | 
+| 21 - 22 May <br> *Sat - Sun*  | **Suntec City** |
+| 28 - 29 May <br> *Sat - Sun* | **Heartbeat@Bedok** <br> *Near the walkway to* <br>*Blk 216 Bedok Food Centre & Market* | 
+| 3 - 5 Jun <br> *Fri - Sun*| **Pasir Ris Elias Community Club** | 
 
 Watch this space for more updates on the Smart Nation Builder! 
 
