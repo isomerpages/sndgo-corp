@@ -136,8 +136,20 @@ Participants can have fun and create memories at the photo booth and claw machin
 
 </div>
 
-### Where can you visit the Smart Nation Builder?
+### Where can you visit the Smart Nation Builder? 
 
-The roving Smart Nation Builder will be travelling to the heartlands, community spaces, shopping malls and public libraries from the second half of 2022.
+Catch the Smart Nation Builder at these locations: 
+
+
+
+| Date| Venue
+| -------- | -------- | 
+| 21 - 22 May <br>  | Suntec City |
+| 28 - 29 May | Heartbeat@Bedok <br>*Near the walkway to <br>Blk 216 Bedok Food Centre & Market* | 
+| 3 - 5 Jun <br>Fri - Sun | Pasir Ris Elias Community Club | 
+
+Watch this space for more updates on the Smart Nation Builder! 
+
+
 
 ![Smart Nation Builder](/images/community/builder/Smart_Nation_Builder_15.jpeg)
