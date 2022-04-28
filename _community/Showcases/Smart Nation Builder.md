@@ -43,19 +43,6 @@ The Smart Nation Builder is a 12m-long truck fitted with interactive game statio
 
 That’s not all. At the Smart Nation Builder, you can be the first to test prototypes of our new products and services. We're looking for feedback on the user interface, accessibility and overall experience. 
 
-### Where can you find the Smart Nation Builder? 
-
-Catch the Smart Nation Builder at these locations: 
-
-
-
-| Date| Venue
-| -------- | -------- | 
-| **21 - 22 May**<br> Sat - Sun  | **Suntec City** |
-| **28 - 29 May** <br> Sat - Sun | **Heartbeat@Bedok** <br> Near the walkway to <br> Blk 216 Bedok Food Centre & Market | 
-| **3 - 5 Jun** <br> Fri - Sun| **Pasir Ris Elias Community Club** | 
-
-
 ### About the Smart Nation Builder 
 
 ![Smart Nation Builder](/images/community/builder/Smart_Nation_Builder_16.jpeg)
@@ -151,7 +138,17 @@ Participants can have fun and create memories at the photo booth and claw machin
 
 </div>
 
+### Where can you find the Smart Nation Builder? 
 
+Catch the Smart Nation Builder at these locations: 
+
+
+
+| Date| Venue
+| -------- | -------- | 
+| **21 - 22 May**<br> Sat - Sun  | **Suntec City** |
+| **28 - 29 May** <br> Sat - Sun | **Heartbeat@Bedok** <br> Near the walkway to <br> Blk 216 Bedok Food Centre & Market | 
+| **3 - 5 Jun** <br> Fri - Sun| **Pasir Ris Elias Community Club** | 
 
 Watch this space for more updates on the Smart Nation Builder! 
 
