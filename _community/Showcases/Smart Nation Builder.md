@@ -144,11 +144,11 @@ Catch the Smart Nation Builder at these locations:
 
 
 
-| Date| Venue
-| -------- | -------- | 
-| **21 - 22 May**<br> Sat - Sun  | **Suntec City** |
-| **28 - 29 May** <br> Sat - Sun | **Heartbeat@Bedok** <br> Near the walkway to <br> Blk 216 Bedok Food Centre & Market | 
-| **3 - 5 Jun** <br> Fri - Sun| **Pasir Ris Elias Community Club** | 
+| Date | Time| Venue 
+| -------- | -------- | -------- | 
+| **21 - 22 May**<br> Sat - Sun  | 10am - 7pm | **Suntec Singapore Convention & Exhibition Centre**<br>Under Marina Link bridge |
+| **28 - 29 May** <br> Sat - Sun | 10am - 7pm |**Heartbeat@Bedok** <br> Near the walkway to <br> Blk 216 Bedok Food Centre & Market | 
+| **3 - 5 Jun** <br> Fri - Sun| 10am - 7pm | **Pasir Ris Elias Community Club** | 
 
 Watch this space for more updates on the Smart Nation Builder! 
 
