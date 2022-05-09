@@ -5,7 +5,7 @@ description: From 29 May 2022, you may download digital birth and death certific
 third_nav_title: Digital Government Services
 image: /images/initiatives/digital-death-birth-cert.jpeg
 ---
-
+![](/images/initiatives/digital-death-birth-cert.jpeg)
 
 # Digital Birth Certificate
 
