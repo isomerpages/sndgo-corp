@@ -5,7 +5,6 @@ third_nav_title: Digital Government Services
 description: ""
 image: /images/initiatives/Singpass-05.jpeg
 ---
-
 # Digital Government Services
 
 To empower citizens to live, work, play, interact and transact better with each other and the Government, we have built tech-enabled solutions that meet these needs. Find out more about these services:
@@ -35,9 +34,16 @@ To empower citizens to live, work, play, interact and transact better with each 
 </div>
 <br></div></div>
 
-
 <br>
 <div class="row">
+<div class="col"> 
+<a href="/initiatives/Digital-Government-Services/digital-birth-and-death-certs"><img src="/images/initiatives/digital-death-birth-cert.jpeg" alt="Digital Birth and Death Certificates"></a><br>
+    <div class="header"><b>Digital Birth and Death Certificates</b></div><br>
+    <div class="para">Parents of newborns and next-of-kin of the deceased can download and store digital certificates on their personal mobile devices and laptops.  
+</div>
+<br>
+
+</div>
 <div class="col"> 
 <a href="/initiatives/digital-government-services/hdb-resale-portal"><img src="/images/initiatives/overview-pages/hdb-resale-portal.png" alt="HDB Resale Portal"></a><br>
     <div class="header"><b>HDB Resale Portal</b></div><br>
@@ -51,34 +57,25 @@ To empower citizens to live, work, play, interact and transact better with each 
     <div class="header"><b>Multilingual Digital Services</b></div><br>
     <div class="para">Making digital Government services more inclusive and accessible by having these in our 4 national languages.
 </div>
-<br>
+<br></div></div>
 
-</div>
+<div class="row">
 	<div class="col"> 
 <a href="/initiatives/digital-government-services/opencerts"><img src="/images/initiatives/overview-pages/opencerts.png" alt="OpenCerts"></a><br>
     <div class="header"><b>OpenCerts</b></div><br>
     <div class="para">An innovative blockchain-based platform that allows education institutions to issue and validate tamper-resistant digital academic certificates.
 </div>
-<br></div></div>
+<br>
 
-<div class="row">
-	<div class="col">
+</div>
+<div class="col">
 <a href="/initiatives/digital-government-services/parents-gateway"><img src="/images/initiatives/overview-pages/parents-gateway.png" alt="Parents Gateway"></a><br>
     <div class="header"><b>Parents Gateway</b></div><br>
     <div class="para">A platform for schools to quickly seek consent or update parents on administrative matters.
 </div>
-<br>
-
-</div>
-<div class="col"> 
-</div>
-<br>
-
-<div class="col">
-</div>
-<br>
-</div>
-
+	<br>
+	</div><div class="col"></div></div>	
+	
 **Strategic National Project*
 
 Click on the link to view [list of Apps from various government agencies](/community/apps-for-you) .
