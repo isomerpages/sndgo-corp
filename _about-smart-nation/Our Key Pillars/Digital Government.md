@@ -38,7 +38,7 @@ The pandemic has given renewed impetus for government agencies to digitalise, in
 
 
 ## The progress so far
-Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2020.
+Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2021.
 
 * **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
 ![Citizen Satisfaction with Government Digital Services](/images/abt-smart-nation/citizen-satisfaction-2021.jpeg)
