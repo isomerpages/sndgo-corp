@@ -67,4 +67,5 @@ Singapore 069118
 Mondays to Saturdays - 9am to 5pm
 
 CityScape tours will commence in August 2022. (Do look out for it!)<br>
+
 In the meantime, you may visit <a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery" target="_blank">URA's website</a> to sign up for the Singapore City Gallery community tours.
