@@ -64,6 +64,7 @@ Singapore 069118
 
 #### Opening Hours
 
-As part of measures to minimise the risk of further spread of COVID-19, the Singapore City Gallery will be closed from 17 May 2021 until further notice.
+Mondays to Saturdays - 9am to 5pm
 
-Visit <a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery" target="_blank">URA's website</a> for latest updates.
+CityScape tours will commence in August 2022. (Do look out for it!)<br>
+In the meantime, you may visit <a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery" target="_blank">URA's website</a> to sign up for the Singapore City Gallery community tours.
