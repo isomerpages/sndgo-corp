@@ -12,9 +12,9 @@ With the rapidly changing situation at the start of the pandemic, there was a cr
 
 Below is the list of sources where people can get verified information at any time, day or night.
 
-# COVID-19 Situation Report Dashboard
+# COVID-19 Situation Report
 
-This [COVID-19 Situatuional Report Dashboard](https://covidsitrep.moh.gov.sg/) presents the key statistics and figures on the current pandemic situation in Singapore.
+The [COVID-19 Situatuional Report](https://www.moh.gov.sg/covid-19/testing/situation-report-pdf) presents the key statistics and figures on the current pandemic situation in Singapore.
 
 # FluGoWhere
 
