@@ -52,7 +52,7 @@ GovTech will also be testing new solutions that can help increase the convenienc
 
 MOH currently publishes a list of public locations visited by COVID-19 cases during their infectious period.
 
-Responding to public feedback, we will introduce a SafeEntry Location Matching Self-Check service for individuals to check whether they have been in close proximity to COVID-19 cases, based on their own SafeEntry records. This Self-Check service will be available on an updated version of the TT App that is available from 10 September. Individuals can also access the Self-Check service via SingPass Mobile, or at [https://wereyouthere.safeentry.gov.sg](https://wereyouthere.safeentry.gov.sg/) (with SingPass login).
+Responding to public feedback, we will introduce a SafeEntry Location Matching Self-Check service for individuals to check whether they have been in close proximity to COVID-19 cases, based on their own SafeEntry records. This Self-Check service will be available on an updated version of the TT App that is available from 10 September. Individuals can also access the Self-Check service via SingPass Mobile, or at [https://wereyouthere.safeentry.gov.sg](https://wereyouthere.safeentry.gov.sg) (with SingPass login).
 
 In addition, SMS notification alerts will be sent to a smaller group of individuals who were at locations that are assessed to pose a higher risk of transmission, such as dining places and gyms where people do not wear masks for extended periods of time. Those whose SafeEntry check-in and check-out timings overlap with the COVID-19 case in such locations will receive an SMS alert. The SMS notification service will begin from 10 September.
 
