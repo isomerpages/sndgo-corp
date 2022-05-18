@@ -14,7 +14,7 @@ Below is the list of sources where people can get verified information at any ti
 
 # COVID-19 Situation Report
 
-The [COVID-19 Situatuional Report](https://www.moh.gov.sg/covid-19/testing/situation-report-pdf) presents the key statistics and figures on the current pandemic situation in Singapore.
+The [COVID-19 Situation Report](https://www.moh.gov.sg/covid-19/testing/situation-report-pdf) presents the key statistics and figures on the pandemic situation in Singapore.
 
 # FluGoWhere
 
