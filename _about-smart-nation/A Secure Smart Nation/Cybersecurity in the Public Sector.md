@@ -5,10 +5,10 @@ third_nav_title: A Secure Smart Nation
 description: Digital technologies and solutions need to be made secure to ensure
   that there is no disruption to citizen services, and citizens’ data entrusted
   to the Government is protected.
-image: /images/abt-smart-nation/cybersecurity.png
+image: /images/og-image/Cybersecurity-OG-Image.jpg
 ---
 # Cybersecurity In The Public Sector
-![Cybersecurity](/images/abt-smart-nation/cybersecurity.png)
+![Cybersecurity in the Public Sector](/images/abt-smart-nation/Cybersecurity_in_the_Public_Sector_1920px.jpeg)
 
 Digital technologies and solutions need to be made secure to ensure that there is no disruption to citizen services, and citizens’ data entrusted to the Government is protected.
 

@@ -3,8 +3,9 @@ title: Report Data Incident
 permalink: /about-smart-nation/secure-smart-nation/report-data-incident
 third_nav_title: A Secure Smart Nation
 description: ""
-image: /images/abt-smart-nation/report-data-incident.png
+image: /images/og-image/Data-Incident-Reporting-Platform-OG-Image.jpg
 ---
+
 
 
 # Government Data Incident Reporting Platform
