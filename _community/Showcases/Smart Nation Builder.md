@@ -142,13 +142,11 @@ Participants can have fun and create memories at the photo booth and claw machin
 
 Catch the Smart Nation Builder at these locations: 
 
-
-
 | Date | Time| Venue 
 | -------- | -------- | -------- | 
-| **21 - 22 May**<br> Sat - Sun  | 10am - 7pm | **Suntec Singapore Convention & Exhibition Centre**<br>Under Marina Link bridge |
-| **28 - 29 May** <br> Sat - Sun | 10am - 7pm |**Heartbeat@Bedok** <br> Near the walkway to <br> Blk 216 Bedok Food Centre & Market | 
-| **3 - 5 Jun** <br> Fri - Sun| 10am - 7pm | **Pasir Ris Elias Community Club** | 
+| **3 - 5 Jun**<br> Fri - Sun  | 10am - 7pm | **Pasir Ris Elias Community Club**<br>Under the Marquee |
+| **10 - 12 Jun** <br> Fri - Sun | 10am - 7pm |**Our Tampines Hub** <br> Between Central Plaza and Hawker Centre | 
+| **24- 26 Jun** <br> Fri - Sun| 10am - 7pm | **Singapore Sports Hub**<br>OCBC Square | 
 
 Watch this space for more updates on the Smart Nation Builder! 
 
