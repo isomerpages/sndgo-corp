@@ -149,20 +149,21 @@ Catch the Smart Nation Builder at these locations:
 | **24- 26 Jun** <br> Fri - Sun| 10am - 7pm | **Singapore Sports Hub**<br>OCBC Square | 
 
 <br>
+
 <div class="row">
+
 <div class="col"> 
-<img src="/images/community/Builder%20Partners/Singapore_Sports_Hub_Logo.jpeg" alt="Singapore Sports Hub"><br>	
-
+<img src="/images/community/Builder%20Partners/Our_Tampines_Hub_Logo.jpeg" alt="Our Tampines Hub">	
 </div>
-	<div class="col"> 
-<img src="/images/community/Builder%20Partners/Our_Tampines_Hub_Logo.jpeg" alt="Our Tampines Hub"><br>
 	
+<div class="col"> 
+<img src="/images/community/Builder%20Partners/Singapore_Sports_Hub_Logo.jpeg" alt="Singapore Sports Hub">
+</div>
+	
+<div class="col"> 
+</div>
 
 </div>
-	<div class="col"> 
-<br>
-		
-</div></div>
 
 
 
