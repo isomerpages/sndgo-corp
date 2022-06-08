@@ -147,6 +147,8 @@ Catch the Smart Nation Builder at these locations:
 | **10 - 12 Jun** <br> Fri - Sun | 10am - 7pm |**Our Tampines Hub** <br> Between Central Plaza and Hawker Centre | 
 | **24- 26 Jun** <br> Fri - Sun| 10am - 7pm | **Singapore Sports Hub**<br>OCBC Square | 
 
+**Venue partners:**
+
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col"> 
