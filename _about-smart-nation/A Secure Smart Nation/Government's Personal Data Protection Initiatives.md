@@ -9,7 +9,7 @@ description: Data security is a critical safeguard towards building a Smart
 image: /images/og-image/Cybersecurity-OG-Image.jpg
 ---
 # Government's Personal Data Protection Initiatives
-![Government's Personal Data Protection Initiatives](/images/abt-smart-nation/Government’s_Personal_Data_Protection_Laws_and_Policies_1920px.jpeg)
+![Government's Personal Data Protection Initiatives](/images/abt-smart-nation/Government’s_PDPI_1920px.jpeg)
 
 Data security is a critical safeguard towards building a Smart Nation. Secure and effective use of data and digital solutions are important in policy-making, and in enabling the Government to deliver services to the citizens. The Government has been actively strengthening its data security regime to ensure that data entrusted to the Government is handled and protected with utmost care.
 

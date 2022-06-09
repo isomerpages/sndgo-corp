@@ -144,11 +144,29 @@ Catch the Smart Nation Builder at these locations:
 
 | Date | Time| Venue 
 | -------- | -------- | -------- | 
-| **3 - 5 Jun**<br> Fri - Sun  | 10am - 7pm | **Pasir Ris Elias Community Club**<br>Under the Marquee |
 | **10 - 12 Jun** <br> Fri - Sun | 10am - 7pm |**Our Tampines Hub** <br> Between Central Plaza and Hawker Centre | 
 | **24- 26 Jun** <br> Fri - Sun| 10am - 7pm | **Singapore Sports Hub**<br>OCBC Square | 
 
-Watch this space for more updates on the Smart Nation Builder! 
+**Venue partners:**
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col"> 
+<img src="/images/community/Builder%20Partners/Our_Tampines_Hub_Logo.jpeg" alt="Our Tampines Hub">	
+</div>
+	
+<div class="col"> 
+<img src="/images/community/Builder%20Partners/Singapore_Sports_Hub_Logo.jpeg" alt="Singapore Sports Hub">
+</div>
+	
+<div class="col"> 
+</div>
+
+</div>
+
+
+
+#### Watch this space for more updates on the Smart Nation Builder! 
 
 
 
