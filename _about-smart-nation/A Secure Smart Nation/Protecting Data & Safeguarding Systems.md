@@ -36,7 +36,7 @@ Find out more about how the Government protects your data and safeguards its sys
 <div class="row" style="padding: 15px 0px 0px 0px;">
 	<div class="col" style="padding: 20px 20px 20px 20px;">
 <a href="/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives"><img src="/images/abt-smart-nation/Government’s_PDPI_1000px.jpeg" alt="Government's Personal Data Protection Initiatives"><br>
-	<span style="font-size:20px;"><b>Government's Personal Data Protection Initiatives</b></a></span><br><br>
+	<span style="font-size:20px;"><b>Government's Personal Data Protection Initiatives</b></span></a><br><br>
 	<span style="font-size:18px;">Recommendations and initiatives to strengthen the Government’s data security regime.</span><br><br>
 	</div>&nbsp; &nbsp; &nbsp; &nbsp;
 
