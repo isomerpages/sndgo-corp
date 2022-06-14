@@ -6,9 +6,9 @@ description: The Government has put in place strong personal data protection
   laws and policies to safeguard sensitive data.
 image: /images/og-image/Cybersecurity-OG-Image.jpg
 ---
-![Government's Personal Data Protection Laws And Policies](/images/abt-smart-nation/Government’s_PDPLP_1920px.jpeg)
-
 # Government's Personal Data Protection Laws And Policies
+
+![Government's Personal Data Protection Laws And Policies](/images/abt-smart-nation/Government’s_PDPLP_1920px.jpeg)
 
 The Government has put in place strong personal data protection laws and policies to safeguard sensitive data.
 
