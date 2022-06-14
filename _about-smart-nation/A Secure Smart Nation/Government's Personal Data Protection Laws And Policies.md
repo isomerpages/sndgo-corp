@@ -68,7 +68,7 @@ A **Third Party** is defined as a party (other than a **data subject[^1]** or an
 
 The Data Protection Trustmark (DPTM) certification is a voluntary, enterprise-wide certification that validates an organisation’s data protection practices through a robust third-party assessment.
 
-<div align="center"><div style="width:50%; padding: 20px 20px 0px 20px;">
+<div align="center"><div style="width:50%; padding: 20px 20px 20px 20px;">
 <img src="/images/abt-smart-nation/Data%20Protection%20Trustmark%20Logo.png" alt="Data Protection Trustmark"></div></div>
 
 Jointly developed by the [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) and the [Infocomm Media Development Authority (IMDA)](https://www.imda.gov.sg/), the DPTM would allow Third Parties providing services to the Government to demonstrate that they have robust data protection practices to comply with the PDPA and the IM8 Personal Data Protection Policies & Standards to meet their obligations under the Government’s Third-Party Management Framework.
