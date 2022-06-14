@@ -12,6 +12,10 @@ image: /images/og-image/Cybersecurity-OG-Image.jpg
 
 The Government has put in place strong personal data protection laws and policies to safeguard sensitive data.
 
+* [Data Management in the Public Sector](#data-management-in-the-public-sector)
+* [Data Management by Third Parties of Public Agencies](#data-management-by-third-parties-of-public-agencies)
+* [Data Protection Trustmark Certification](#data-protection-trustmark-certification)
+
 ## Data Management in the Public Sector
 
 Data management in the public sector is governed by the  <a href="https://sso.agc.gov.sg/Act/PSGA2018" target="_blank">Public Sector (Governance) Act (“PSGA”)</a> and the  **Government Instruction Manual on Infocomm Technology & Smart Systems Management (“IM on ICT&SS Management”)**. The Personal Data Protection Act (“PDPA”) applies to the private sector. Two different legal frameworks governing data management in the public and private sectors are needed because the public has different expectations of the services provided by the Government and the private sector. The Government is expected to deliver services in an integrated manner across agencies. In contrast, each private sector organisation is expected to be individually accountable for the personal data in its possession, and there is no expectation of a similarly integrated delivery of services across different private sector organisations.
@@ -36,7 +40,8 @@ As part of the PSDSRC recommendation to provide the public with more information
 
 Click on the link to find out more about the data-related provisions in Sections 6 to 8 of the <a href="https://sso.agc.gov.sg/Act/PSGA2018" target="_blank">Public Sector (Governance) Act</a>. 
 
- 
+[Return to top](#governments-personal-data-protection-laws-and-policies)
+
 ## Data Management by Third Parties of Public Agencies
 
 The Government recognises that Agencies work extensively with Third Parties to deliver services to citizens, carry out operational functions, and plan and analyse policies. When doing so, these Third Parties may handle large volumes of data from the Government. Hence, the high standards of data protection that the Government places on itself must also extend to these Third Parties.
@@ -61,6 +66,8 @@ A **Third Party** is defined as a party (other than a **data subject[^1]** or an
 <div style="width:40%"> 
  <a href="/files/publications/key-policies-third-party-framework.pdf" target="_blank"> <img style="border:1px solid black;" src="/images/abt-smart-nation/key-policies-third-party-framework.jpeg" alt="Key Policies of the Government's Third-Party Management Framework">Key Policies of the Government's Third-Party Management Framework (1.2mb)</a>
 </div>
+
+[Return to top](#governments-personal-data-protection-laws-and-policies)
 
 ## Data Protection Trustmark Certification
 
@@ -105,7 +112,8 @@ The Government has introduced guidelines for agencies to incorporate the DPTM in
 
 Click on the link to find out more about [IMDA’s Data Protection Trustmark certification](http://www.imda.gov.sg/dptm).
 
-<br>
+[Return to top](#governments-personal-data-protection-laws-and-policies)
 
+<br>
 
 ***
