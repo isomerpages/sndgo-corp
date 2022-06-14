@@ -64,4 +64,47 @@ A **Third Party** is defined as a party (other than a **data subject[^1]** or an
 
 <br>
 
+## Data Protection Trustmark Certification
+
+The Data Protection Trustmark (DPTM) certification is a voluntary, enterprise-wide certification that validates an organisation’s data protection practices through a robust third-party assessment.
+
+<div align="center"><div style="width:50%; padding: 20px 20px 0px 20px;">
+<img src="/images/abt-smart-nation/Data%20Protection%20Trustmark%20Logo.png" alt="Data Protection Trustmark"></div></div>
+
+Jointly developed by the [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) and the [Infocomm Media Development Authority (IMDA)](https://www.imda.gov.sg/), the DPTM would allow Third Parties providing services to the Government to demonstrate that they have robust data protection practices to comply with the PDPA and the IM8 Personal Data Protection Policies & Standards to meet their obligations under the Government’s Third-Party Management Framework.
+
+The Government has introduced guidelines for agencies to incorporate the DPTM in their third-party management framework to engage certified vendors to ensure our citizens’ personal data are adequately safeguarded.
+
+<div style="max-width: 1280px">
+    <div
+        style="
+            height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;
+        "
+    >
+        <iframe
+            src="https://www.youtube.com/embed/1vLsCUz8XSI" 
+            height="720"
+            width="1280"
+            frameborder="0"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            style="
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;
+            "
+        ></iframe>
+    </div>
+</div>
+
+Click on the link to find out more about [IMDA’s Data Protection Trustmark certification](http://www.imda.gov.sg/dptm).
+
 ***
