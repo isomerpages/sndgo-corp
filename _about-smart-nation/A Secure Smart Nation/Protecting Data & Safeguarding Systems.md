@@ -7,8 +7,9 @@ description: "Cybersecurity and data security are key enablers of a Smart
   and the data that is entrusted to it by the public. "
 image: /images/og-image/Cybersecurity-OG-Image.jpg
 ---
-# A Secure Smart Nation
 ![A Secure Smart Nation](/images/abt-smart-nation/A_Secure_Smart_Nation%20_1920px.jpeg)
+
+# A Secure Smart Nation
 
 > Data is the lifeblood of a digital economy and a digital government. As the custodian of a vast amount of data, the Government takes its responsibility of securing the data and preserving individuals’ privacy very seriously.”
 *- Prime Minister Lee Hsien Loong,*
