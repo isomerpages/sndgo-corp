@@ -14,8 +14,6 @@ image: /images/og-image/Cybersecurity-OG-Image.jpg
 > Data is the lifeblood of a digital economy and a digital government. As the custodian of a vast amount of data, the Government takes its responsibility of securing the data and preserving individuals’ privacy very seriously.”
 *- Prime Minister Lee Hsien Loong,*
 
-
-
 Cybersecurity and data security are key enablers of a Smart Nation. The Government is committed to ensuring the security of its systems, and the data that is entrusted to it by the public. Secure design principles are adopted to safeguard Government systems against cybersecurity threats. 
 
 We will also ensure that citizens’ data is handled with care, and protect the data in accordance with the high standards imposed on the public sector and third-party vendors.
