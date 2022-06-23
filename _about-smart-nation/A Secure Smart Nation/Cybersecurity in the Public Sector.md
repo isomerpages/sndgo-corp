@@ -8,11 +8,16 @@ description: Digital technologies and solutions need to be made secure to ensure
 image: /images/og-image/Cybersecurity-OG-Image.jpg
 ---
 # Cybersecurity In The Public Sector
+
 ![Cybersecurity in the Public Sector](/images/abt-smart-nation/Cybersecurity_in_the_Public_Sector_1920px.jpeg)
 
 Digital technologies and solutions need to be made secure to ensure that there is no disruption to citizen services, and citizens’ data entrusted to the Government is protected.
 
 As cybersecurity threats become more sophisticated, we have adopted a three-pronged approach to secure our systems:
+
+* [Ensuring Whole-of-Government Cybersecurity Readiness](#ensuring-whole-of-government-cybersecurity-readiness)
+* [Enabling Decisive Operational Response](#enabling-decisive-operational-response)
+* [Collaboration with the Community](#collaboration-with-the-community)
  
 ## Ensuring Whole-of-Government Cybersecurity Readiness
 
