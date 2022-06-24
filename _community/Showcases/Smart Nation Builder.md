@@ -144,7 +144,7 @@ Catch the Smart Nation Builder at these locations:
 
 | Date | Time| Venue 
 | -------- | -------- | -------- | 
-| **24- 26 Jun** <br> Fri - Sun| 10am - 7pm | **Singapore Sports Hub**<br>OCBC Square | 
+| **24- 26 Jun** <br> Fri - Sun| 10am - 6pm | **Singapore Sports Hub**<br>OCBC Square | 
 
 #### Venue partners
 
