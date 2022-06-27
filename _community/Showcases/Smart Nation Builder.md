@@ -144,7 +144,8 @@ Catch the Smart Nation Builder at these locations:
 
 | Date | Time| Venue 
 | -------- | -------- | -------- | 
-| **23-24 Jul** <br> Fri - Sun| 8:30am - 4:30pm | **West Coast Community Club** | 
+| **23-24 Jul** <br> Sat - Sun| 8:30am - 4:30pm | **West Coast Community Club** |
+| **30-31 Jul** <br> Sat - Sun| 11am - 7pm| **National Library Board**<br> Bugis 
 
 #### Venue partners
 
@@ -153,6 +154,11 @@ Catch the Smart Nation Builder at these locations:
 <div class="col"> 
 <img src="/images/community/Builder%20Partners/Peoples_Association_Logo.jpeg" alt="People's Association">
 </div>
+	
+<div class="col">
+<img
+src="/images/community/Builder%20Partners/NLB_Logo.jpeg" alt="National Library Board">
+	</div>
 	
 <div class="col"> 
 </div>
