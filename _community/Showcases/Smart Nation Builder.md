@@ -162,9 +162,6 @@ src="/images/community/Builder%20Partners/NLB_Logo.jpeg" alt="National Library B
 	
 <div class="col"> 
 </div>
-	
-<div class="col"> 
-</div>
 
 </div>
 
