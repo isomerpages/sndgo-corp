@@ -144,25 +144,26 @@ Catch the Smart Nation Builder at these locations:
 
 | Date | Time| Venue 
 | -------- | -------- | -------- | 
-| **24- 26 Jun** <br> Fri - Sun| 10am - 6pm | **Singapore Sports Hub**<br>OCBC Square | 
+| **23 - 24 Jul** <br> Sat - Sun| 8:30am - 4:30pm | **West Coast Community Club** |
+| **30 - 31 Jul** <br> Sat - Sun| 11am - 7pm| **National Library Board**<br> Bugis 
 
 #### Venue partners
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
 <div class="col"> 
-<img src="/images/community/Builder%20Partners/Singapore_Sports_Hub_Logo.jpeg" alt="Singapore Sports Hub">
+<img src="/images/community/Builder%20Partners/Peoples_Association_Logo.jpeg" alt="People's Association">
 </div>
+	
+<div class="col">
+<img
+src="/images/community/Builder%20Partners/NLB_Logo.jpeg" alt="National Library Board">
+	</div>
 	
 <div class="col"> 
 </div>
-	
-<div class="col"> 
-</div>
 
 </div>
-
-
 
 ### Watch this space for more updates on the Smart Nation Builder! 
 
