@@ -144,8 +144,8 @@ Catch the Smart Nation Builder at these locations:
 
 | Date | Time| Venue 
 | -------- | -------- | -------- | 
-| **23 - 24 Jul** <br> Sat - Sun| 8:30am - 4:30pm | **West Coast Community Club** |
-| **30 - 31 Jul** <br> Sat - Sun| 11am - 7pm| **National Library Board**<br> Bugis 
+| **23 - 24 Jul** <br> Sat - Sun| 8:30am - 4:30pm | **West Coast Community Centre** <br> 2 Clementi West Street 2, <br>Singapore 129605|
+| **30 - 31 Jul** <br> Sat - Sun| 11am - 7pm| **National Library Building**<br> The Plaza, Level 1, 100 Victoria Street, <br>Singapore 188064 
 
 #### Venue partners
 
