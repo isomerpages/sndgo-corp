@@ -22,21 +22,31 @@ legitimate Government websites and URL links sent by agencies.
 Here are three quick steps to remember each time you come across a
 webpage or URL that says it comes from the Singapore Government.
 
+![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/Trusted%20Sites%2001.jpeg)
+
 #### Stop
+
+Before you enter a website or click on a website link that appears to be sent by the Government, don’t click on it straightaway. Look carefully at the URL first.
+
+![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/Trusted%20Sites%2002.jpeg)
 
 #### Check
 
+Make sure the domain of the URL ends with “.gov.sg”.
+
+![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/Trusted%20Sites%2003.jpeg)
+
 #### Go
 
-### Asking for your credentials
+If the website or URL link checks out, proceed.
 
-Similarly, any log-ins to Government services should only be done at websites with domains ending with “.gov.sg”.
+If it does not, you should be careful, and check the website’s domain here: [www.gov.sg/trusted-sites](https://www.gov.sg/trusted-sites.)
 
-There are exceptions to the rule. Some websites are collaborations between Government agencies and non-government organisations, and are not using the “.gov.sg” domain. There are also other Government-associated websites such as the National Dental Centre Singapore’s e-services page that are exceptions. These exceptions are listed on [www.gov.sg/trusted-sites](https://www.gov.sg/trusted-sites.).
+All the websites listed are legitimate, even if they don’t have the “.gov.sg” domain.
 
-**Example of website without “.gov.sg” in URL requesting for user log-ins:**
+![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/Trusted%20Sites%2004.jpeg)
 
-Be wary of sites that claim to be Government websites and request that you log in, yet do not have domains ending with “.gov.sg”. Always err on the side of caution when in doubt.
+<br>
 
 _______
 
