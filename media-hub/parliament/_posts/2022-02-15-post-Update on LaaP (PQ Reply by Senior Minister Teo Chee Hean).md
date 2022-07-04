@@ -5,8 +5,6 @@ date: 2022-02-15
 layout: post
 description: ""
 ---
-
-
 ## Update on Lamppost-as-a-Platform (LaaP) project
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 14 February 2022**
@@ -17,17 +15,32 @@ description: ""
 
 ### Answer
 
-
 **Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (for the Prime Minister)**
 
-The [Lamppost-as-a-Platform (LaaP)](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/lamppost-as-a-platform) project was started in late 2017 to explore the technical and business feasibility of using lampposts to mount sensors. The project is organised into two trials to cover brownfield and greenfield sites use cases in commercial, industrial and residential environments. 
+The SNDGG has reviewed the use of links by Government agencies. Removal of links in SMSes, emails or other messaging platforms does not eliminate the risks of users falling prey to phishing attempts, e.g. phone numbers that members of the public are asked to call or continued attempts by scammers to use phishing links. Instead, we will implement prevention, detection and mitigation measures at the backend, and continue with user education to better protect citizens from scams perpetrated through the use of links.
 
-Later this month, GovTech will complete the first trial of the LaaP, which covers commercial and industrial brownfield sites in Geylang and One-North. The second trial, in the residential greenfield site in Punggol Northshore estates, will start in Apr 2022. 
+SMS is a core text messaging component of most mobile devices. Because SMS is based on open standards, its main advantage is its widespread reach. SMS can reach anyone with a mobile phone, even if they do not use a smart phone or email, with nearly 100% coverage. Hence, SMS is widely used for many services, including communications and marketing. For example, the Government has attached links in SMSes to mobilise citizens to get vaccinated during COVID-19.
 
-With the near completion of the first trial, GovTech has assessed that the mounting of sensors on lamp posts is technically feasible and has also established the various cost components and drivers. GovTech has developed a lamppost infrastructure design that converts a normal lamppost into a shareable LaaP that can accommodate multiple sensors. This is important as agencies deploying sensors in the same locations can share the same LaaP infrastructure and avoid duplicating the resources and time to set up their own infrastructure. However, we will start to retrofit all lampposts only when suitable large-scale use cases with cost-effective benefits can be identified. These use cases can then form the anchor demand to roll out LaaP more widely.
+However, there are deficiencies in the open SMS standards that allow spoofing. Scammers can impersonate legitimate senders, such as Government agencies, to send SMSes with links to illegitimate websites to trick users to give up their user credentials and transfer monies.
 
-The second trial in Punggol Northshore, a greenfield site, will give GovTech more information on the business and technical feasibility of LaaP. Greenfield sites without any pre-existing lampposts present the opportunity to design and build a new integrated LaaP that is more compact and durable by having the cables and equipment housed inside the lamppost casing, as opposed to being on the exterior under the retrofitted design. We are also testing other use cases in residential areas, such as monitoring playground activities within housing estates so that residents may feel more assured of playground safety. 
+Given the above tradeoffs between reach and vulnerability to spoofing, the Government will implement a number of measures in order to have safeguards and give users confidence when interacting with SMSes.
 
-The approach for LaaP will be decided after GovTech completes the evaluation in 2023 together with the completion of the trial. Internationally, other cities are also still testing smart lampposts or deploying them on very limited scale. We have not seen any city-wide implementation of smart lampposts that can mount multiple types of sensors yet.
+When sending SMSes with links, the Government will only use domains1 ending with ".[gov.sg](http://gov.sg/)". Any logins to Government services (e.g. keying in Singpass credentials or scanning the Singpass QR code) should only be done at genuine Government websites with domains ending with ".[gov.sg](http://gov.sg/)". There are some exceptions such as websites that are collaborations between Government agencies and non-government entities. Such legitimate websites are listed on [www.gov.sg/trusted-sites](http://www.gov.sg/trusted-sites) which users are encouraged to check if they are asked to transact on unfamiliar website domains.
 
-Sensor data collected in public spaces under the LaaP project may be shared across public agencies. Such sharing of data is governed under the Public Sector (Governance) Act (PSGA) and the Government Instruction Manual on Infocomm Technology and Smart Systems Management. The PSGA sets out the purposes which public agencies may share data with each other. The PSGA criminalises the unauthorised disclosure and improper use of information. Individuals who are found guilty of doing so are liable to a fine not exceeding $5,000, or imprisonment of up to two years, or both. The Instruction Manual sets out how public agencies and officers should manage and protect data, including personal data. 
+The Government will also regularly remind the public that its links will always have domains[^1] ending with ".[gov.sg](http://gov.sg/)", which users should confirm before clicking to transact with public agencies. For messages delivered to citizens through SMSes, the Government will also only use links where it is important to mobilise large numbers quickly and where we assess other channels to be less effective. We will not ask users to provide their credentials, such as passwords, through websites directly accessed through SMS links.
+
+In addition to these preventive and protective measures by the Government and users when interacting via SMS, the Government is implementing backend prevention, detection and mitigation measures to address attempts to conduct scams by impersonating legitimate senders.
+
+First, we are reducing the possibility of SMS sender IDs from being spoofed. The Singapore SMS Sender ID Registry (SSIR) was established in March 2022 to block SMSes that spoof the sender IDs of participants, which includes Government agencies and banks. To date, more than 50 organisations have onboarded the SSIR, with all Government agencies progressively onboarding. We are also studying the requirement for all users of alphanumeric sender IDs to be onboarded to prevent scammers from sending SMSes using alphanumeric sender IDs.
+
+Second, we will implement measures to screen out scam messages and calls upstream. We are working with the telcos to build up in-network capabilities to block scam messages and calls, including robocalls and those spoofing numbers of local Government agencies and emergency services. We have developed the ScamShield mobile application to filter out scam SMSes and calls. We are also running various public education campaigns to alert citizens to different types of emerging scams.
+
+Third, we are strengthening our detection of scams in our Government transactions with citizens. For Government services, we have implemented multi-factor authentication on Singpass, including use of biometrics, to provide added layers of protection to Singpass accounts and to prevent them from being easily taken over by scammers. Like other major technology companies, we are also using and continuously improving our fraud analytics to detect and notify users of suspicious logins, such as logins from a new device or browser. For major transactions with citizens, Government agencies also conduct checks to ensure that payments are made to bank accounts owned by the correct person. This will complement similar measures that the banks are taking to mitigate the risk of fraudulent transactions, such as enhancing fraud monitoring systems to facilitate timely detection and blocking of suspicious transactions and alerting customers of outgoing transactions that exceed established risk thresholds so that they can report unauthorised transactions as soon as possible.
+
+Fourth, we are speeding up our response to scams. The National Crime Prevention Council (NCPC) will be launching a WhatsApp channel by 3Q2022 for citizens to quickly and conveniently report suspected scams, so that we can rapidly crowdsource information and respond to scam websites and messages. The Infocomm Media Development Authority (IMDA) and the Singapore Police Force (SPF) also work together to identify and block suspected scam websites. In 2021, 12,000 suspected scam websites were blocked. In addition, the SPF works with financial institutions to swiftly freeze bank accounts suspected to be involved in scams.
+
+Combating scams will be a constant battle as scammers' tactics will keep changing.
+
+***
+
+[^1]: A domain is a unique address used to access websites such as ‘[www.smartnation.gov.sg](http://www.smartnation.gov.sg/)’.
