@@ -9,7 +9,7 @@ description: The Government will implement prevention, detection and mitigation
   citizens from scams perpetrated through the use of links.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-## Completion of Review of Use of SMS and Clickable Links for Government Agencies by Smart Nation Digital Government Group
+## Completion of review of use of SMS and clickable links for Government agencies by Smart Nation Digital Government Group
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 4 July 2022**
 
