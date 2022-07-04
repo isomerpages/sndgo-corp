@@ -8,7 +8,7 @@ description: An important line of defence against scams is a vigilant public
   sent by agencies.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-## Factsheet – Fight Scams. Be Aware.
+## Fight Scams. Be Aware.
 
 **4 Jul 2022**
 
