@@ -146,6 +146,9 @@ Catch the Smart Nation Builder at these locations:
 | -------- | -------- | -------- | 
 | **23 - 24 Jul** <br> Sat - Sun| 8:30am - 4:30pm | **West Coast Community Centre** <br> 2 Clementi West Street 2, <br>Singapore 129605|
 | **30 - 31 Jul** <br> Sat - Sun| 11am - 7pm| **The Plaza, Level 1, National Library Building**<br> 100 Victoria Street, Singapore 188064 
+|**5 - 7 Aug** <br> Fri - Sun | 11am - 7pm| **Bayfront Event Square, Marina Bay Sands** <br> 12A Bayfront Ave, Singapore 018970
+| **9 Aug** <br> Tue | 11am - 7pm| **Marina Barrage** <br> 8 Marina Gardens Drive, Singapore 018951
+| **26 - 28 Aug** <br> Fri - Sun | 10am - 6pm| **Pasir Ris East Community Centre** <br> 1 Pasir Ris Drive 4, Singapore 519457
 
 #### Venue partners
 
@@ -160,9 +163,24 @@ Catch the Smart Nation Builder at these locations:
 src="/images/community/Builder%20Partners/NLB_Logo.jpeg" alt="National Library Board">
 	</div>
 	
+<div class="col">
+<img src="/images/community/Builder%20Partners/URA%20Logo.jpeg" alt="Urban Development Authority"> 
+	</div>
+	
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
 <div class="col"> 
-</div>
+<img src="/images/community/Builder%20Partners/Marina_Bay_Sands_Logo.jpeg" alt="MBS">
+	</div>
 
+<div class="col">
+<img src="/images/community/Builder%20Partners/Marina_Barrage_Logo.jpeg" alt="Marina Barrage">
+ </div>
+	
+<div class="col">
+<img src="/images/community/Builder%20Partners/Sustainable_SG_Logo.jpeg" alt="SSG">
+ </div>
+	
 </div>
 
 ### Watch this space for more updates on the Smart Nation Builder! 
