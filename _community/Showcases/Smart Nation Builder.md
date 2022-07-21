@@ -181,6 +181,8 @@ src="/images/community/Builder%20Partners/NLB_Logo.jpeg" alt="National Library B
 <img src="/images/community/Builder%20Partners/Sustainable_SG_Logo.jpeg" alt="SSG">
  </div>
 	
+</div>	
+	
 ### Watch this space for more updates on the Smart Nation Builder! 
 
 
