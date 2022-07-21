@@ -66,6 +66,6 @@ Singapore 069118
 
 Mondays to Saturdays - 9am to 5pm
 
-CityScape tours will commence in August 2022. (Do look out for it!)<br>
+Sign up for a guided tour of the Smart Nation Cityscape at <a href="https://go.gov.sg/cityscapetour" target="_blank">go.gov.sg/cityscapetour</a>.
 
-In the meantime, you may visit <a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery" target="_blank">URA's website</a> to sign up for the Singapore City Gallery community tours.
+You can also sign up for the Singapore City Gallery community tours at <a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery" target="_blank">URA's website</a>.
