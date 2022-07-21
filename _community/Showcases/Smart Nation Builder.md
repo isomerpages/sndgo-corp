@@ -167,6 +167,8 @@ src="/images/community/Builder%20Partners/NLB_Logo.jpeg" alt="National Library B
 <img src="/images/community/Builder%20Partners/URA%20Logo.jpeg" alt="Urban Development Authority"> 
 	</div>
 	
+</div>	
+	
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
 <div class="col"> 
