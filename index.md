@@ -7,15 +7,18 @@ sections:
   - hero:
       background: /images/Transforming-SG-Through-Technology-Website-Cover-HDB.jpg
       key_highlights:
+        - title: Report a Government Data Incident
+          description: Help safeguard our ICT systems
+          url: /about-smart-nation/secure-smart-nation/report-data-incident
         - title: Become a Smart Nation Ambassador
           description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
         - title: Pick Up New Tech Skills
           description: Check out our webinars
           url: https://together.smartnation.gov.sg/
-        - title: Report a Government Data Incident
-          description: Help safeguard our ICT systems
-          url: /about-smart-nation/secure-smart-nation/report-data-incident
+        - title: Book a guided tour of the Smart Nation CityScape Exhibition
+          description: Register for a slot here
+          url: https://go.gov.sg/cityscapetour
   - infopic:
       title: 94% of our government services are digital from end to end!
       description: See how we have progressed as a Digital Government
