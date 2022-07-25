@@ -16,7 +16,7 @@ sections:
         - title: Pick Up New Tech Skills
           description: Check out our webinars
           url: https://together.smartnation.gov.sg/
-        - title: Book a guided tour of SMART NATION CITYSCAPE
+        - title: Book a guided tour of SMART NATION CITYSCAPE EXHIBITION
           description: Register for a slot here
           url: https://go.gov.sg/cityscapetour
   - infopic:
