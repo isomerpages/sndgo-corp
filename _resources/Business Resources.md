@@ -38,7 +38,7 @@ Calling all Singapore companies looking to build their capabilities, innovate an
 Whether you’re a start-up or a high-growth business, ESG will lend its support according to your company’s growth stage, the industry and the overseas market you’re looking to expand to.
 
 
-## <a href="https://govassist.gobusiness.gov.sg/">GoBusiness Gov Assist</a>
+## <a href="https://www.gobusiness.gov.sg/gov-assist/">GoBusiness Gov Assist</a>
 
 With more than 100 Government schemes available to support local companies, it can be mind-boggling for businesses to navigate and find what’s applicable to them. 
 
