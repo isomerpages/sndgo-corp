@@ -25,7 +25,7 @@ To support the roll-out of nation-wide vaccinations, we created a [the National 
 
 # Space Out
 
-Launched in April 2020, [Space Out](https://www.spaceout.gov.sg/) enabled people to check crowd levels at various locations during the circuit breaker to promote safe distancing.
+Launched in April 2020, Space Out enabled people to check crowd levels at various locations during the circuit breaker to promote safe distancing.
 
 # SPOTON Smart Thermal Scanner
 
