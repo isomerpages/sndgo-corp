@@ -46,7 +46,17 @@ The Government publishes annual updates to highlight efforts and initiatives tak
 
 *Find a copy of the annual updates below.*
 
-#### 2021:Second Update on the Government's Personal Data Protection Efforts
+#### 2022: Third Update on the Government's Personal Data Protection Efforts
+
+<br>
+
+<div style="width:40%"> 
+ <a href="/files/publications/Third-Update-on-the-Government's-Personal-Data-Protection-Efforts.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/2022-third-update-on-data-protection-efforts.jpg" alt="Second Update on the Government's Personal Data Protection Efforts - Summary (2021)">2022: Third Update on the Government's Personal Data Protection Efforts – Summary (932KB)</a>
+</div>
+
+<br>
+
+#### 2021: Second Update on the Government's Personal Data Protection Efforts
 
 <br>
 
