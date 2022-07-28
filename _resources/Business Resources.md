@@ -10,7 +10,7 @@ So whether you’re just starting out or looking to expand your operations, we w
 
 Below are some resources you should check out.
 
-<div style="width:100%;display:flex;justify-content:center;"><a href="https://gaeadviser.gobusiness.gov.sg"><img src="/images/resources/e-Adviser.jpg" alt="e-adviser banner"></a></div>
+<div style="width:100%;display:flex;justify-content:center;"><a href="https://www.gobusiness.gov.sg/e-services/guides-for-biz/"><img src="/images/resources/e-Adviser.jpg" alt="e-adviser banner"></a></div>
 
 ## <a href="https://www.imda.gov.sg/programme-listing/accreditation-at-sgd">Accreditation@SGD</a>
 
@@ -38,7 +38,7 @@ Calling all Singapore companies looking to build their capabilities, innovate an
 Whether you’re a start-up or a high-growth business, ESG will lend its support according to your company’s growth stage, the industry and the overseas market you’re looking to expand to.
 
 
-## <a href="https://govassist.gobusiness.gov.sg/">GoBusiness Gov Assist</a>
+## <a href="https://www.gobusiness.gov.sg/gov-assist/">GoBusiness Gov Assist</a>
 
 With more than 100 Government schemes available to support local companies, it can be mind-boggling for businesses to navigate and find what’s applicable to them. 
 

@@ -5,7 +5,6 @@ permalink: /media-hub/parliament/20170302
 date: 2017-03-02
 description: ""
 ---
-
 ## Committee of Supply Debates 2017<br>(2 Mar 2017)
 
 **Transcript Of Speech By Dr Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative**

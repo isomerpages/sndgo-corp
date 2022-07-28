@@ -57,7 +57,7 @@ We have been progressively adding useful features to the Singpass app for simple
 * Timely notifications from Government agencies for alerts such as NRIC re-registration or passport renewal via the inbox feature
 * Digital signing of documents by scanning a QR code. This removes the need for users to be physically present to sign documents and agreements
 
-Click on the link to download the [Singpass app](https://singpassmobile.sg/).
+Click on the link to download the [Singpass app](https://www.singpass.gov.sg/main).
 
 ![Singpass App](/images/initiatives/Singpass-Face-Verification.jpeg)
 

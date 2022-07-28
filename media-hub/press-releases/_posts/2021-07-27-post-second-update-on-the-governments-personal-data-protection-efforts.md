@@ -47,7 +47,7 @@ It is not possible to eliminate data incidents altogether and we will need to re
 
 The Government has also implemented several initiatives to ensure that public officers are well-equipped to manage and safeguard data to mitigate security risks. In February 2021, the Data Security e-learning module was refreshed to include new content on how to work from home securely, and how to safeguard data when using the new Secure Internet Surfing technology implemented in November 2020. In addition, the Government will be conducting a series of specialised workshops from July 2021 for Key Appointment Holders, as well as ICT and data teams, to equip them with the necessary skillsets to fulfil their roles.
 
-The second update on the Government’s personal data protection efforts can be found on the “A Secure Smart Nation” microsite (Go.gov.sg/SecureSmartNation).
+The second update on the Government’s personal data protection efforts can be found on the “A Secure Smart Nation” microsite ([go.gov.sg/public-sector-data-security-review](https://go.gov.sg/public-sector-data-security-review)).
 
 ----------
 

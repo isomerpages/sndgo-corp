@@ -48,7 +48,7 @@ The foundation laid by the PSDSRC’s recommendations has provided the Governmen
 
 The COVID-19 pandemic has accelerated the pace of digitalisation. The Government will continue its journey to become digital to the core and drive Singapore to become a Smart Nation. The Government is committed to protecting personal data that is entrusted to it by the citizens, and will continue our efforts to ensure that our data security regime remains resilient against emerging threats. As we can never completely eliminate data incidents, we will continue to improve our processes so that we can respond effectively and rapidly to minimise the impact on our citizens.
 
-The full annual update on the Government’s personal data protection efforts for 2020 can be found on the [“A Secure Smart Nation” microsite](http://go.gov.sg/SecureSmartNation). Going forward, the Government will continue to publish the annual updates every July.
+The full annual update on the Government’s personal data protection efforts for 2020 can be found on the [“A Secure Smart Nation” microsite](https://go.gov.sg/public-sector-data-security-review). Going forward, the Government will continue to publish the annual updates every July.
 
 ----------
 
