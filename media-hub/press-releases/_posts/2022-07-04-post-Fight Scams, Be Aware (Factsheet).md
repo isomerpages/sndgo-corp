@@ -52,13 +52,13 @@ _______
 
 **For media enquiries, please contact:**
 
-Chia Suat Ning (Ms)<br>
+**Chia Suat Ning (Ms)**<br>
 Manager, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 8182 8052<br>
 Email: [chia_suat_ning@pmo.gov.sg](mailto:chia_suat_ning@pmo.gov.sg)
 
-Goh Yu Chong (Mr)<br>
+**Goh Yu Chong (Mr)**<br>
 Assistant Director, Public and International Communications<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 9644 1674<br>
