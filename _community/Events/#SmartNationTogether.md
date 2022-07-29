@@ -4,7 +4,7 @@ permalink: /community/Events/snt
 description: ""
 third_nav_title: Events
 ---
-# SmartNationTogether 
+# #SmartNationTogether 
 ![#SmartNationTogether](/images/community/events/SNT%20Image.jpg)
 
 #SmartNationTogether is an online channel featuring tech-related talks and workshops for kids, working adults, and seniors.
