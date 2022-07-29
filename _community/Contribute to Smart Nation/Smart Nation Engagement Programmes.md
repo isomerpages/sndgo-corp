@@ -25,5 +25,3 @@ third_nav_title: Contribute to Smart Nation
   	<div class="col" style="padding: 0px 20px 0px 20px;" ><br>
   </div>
  </div>
-
-![](/images/community/sna/SmartNationAmbassador02.jpeg)![](/images/community/sna/SmartNationAmbassador01.jpg)
