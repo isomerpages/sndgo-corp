@@ -13,7 +13,7 @@ image: /images/og-image/Smart-Nation-OG-Image.jpg
     <div class="header" style="font-size:18px"><b>Smart Nation & U</b></div><br>
   </div> &nbsp; &nbsp; &nbsp; &nbsp; 
   	<div class="col" style="padding: 20px 20px 0px 20px;"> 
-      <a href="/community/Events/snt"><img src="/images/community/events/SNT%20Image.jpg" alt="#SmartNationTogether"></a><br>
+      <a href="/community/events/snt"><img src="/images/community/events/SNT%20Image.jpg" alt="#SmartNationTogether"></a><br>
       <div class="header" style="font-size:18px"><b>#SmartNationTogether</b></div><br>
   </div>
  </div>
