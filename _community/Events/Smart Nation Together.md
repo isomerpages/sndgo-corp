@@ -1,11 +1,13 @@
 ---
-title: "#SmartNationTogether"
-permalink: /community/Events/snt
+title: Smart Nation Together
+permalink: /community/events/snt
 description: "#SmartNationTogether is an online channel featuring tech-related
   talks and workshops for kids, working adults, and seniors."
 third_nav_title: Events
 image: /images/og-image/SNT-Website-OG-Image-b.jpg
 ---
+
+
 
 # #SmartNationTogether 
 ![#SmartNationTogether](/images/community/events/SNT%20Image.jpg)
