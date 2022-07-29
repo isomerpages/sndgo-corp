@@ -1,10 +1,12 @@
 ---
-title: Our Community Projects
+title: Smart Nation Community Projects
 permalink: /community/Community-Projects/Overview
-description: ""
+description: Check this out.
 third_nav_title: Community Projects
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
+
+
 # Community Projects
 
 <div class="row" style="padding: 40px 0px 10px 0px;"> 

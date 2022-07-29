@@ -2,9 +2,10 @@
 title: Past Campaigns
 permalink: /community/campaigns/past
 third_nav_title: Campaigns
-description: ""
+description: Check out our past campaigns.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
+
 # My Smart Ahma
 
 ![My Smart Ahma](/images/media-hub/smart-nation-archives/my-smart-ahma-logo.png)

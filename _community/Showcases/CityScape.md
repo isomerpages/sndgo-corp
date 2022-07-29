@@ -7,7 +7,7 @@ description: Interact with a series of exhibits and displays to discover the
   way we live, work and play!
 image: /images/community/cityscape/Cityscape-06.jpg
 ---
-# Smart Nation CityScape
+# Come visit the Smart Nation CityScape
 <br>
 
 <div style="max-width: 1280px">

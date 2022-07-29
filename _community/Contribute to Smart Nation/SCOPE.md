@@ -1,15 +1,17 @@
 ---
-title: Contribute To Smart Nation
+title: SCOPE
 permalink: /community/SCOPE
-description: ""
+description: SCOPE is our co-creation platform designed to let you test the
+  latest digital government initiatives and products that are still in
+  development.
 image: /images/community/sna/SmartNationAmbassador01.jpg
+third_nav_title: Contribute to Smart Nation
 ---
 # Take Part in a Smart Nation Survey
 
 ![Smart Nation Co-creating with Our People Everywhere (SCOPE)](/images/community/sna/SmartNationAmbassador03.jpeg)
 
-Interested in testing new digital government services before these are launched? Have an observation or suggestion that you think might help us with our Smart Nation goals?
-Take part in our surveys on our Smart Nation Co-creating with Our People Everywhere (SCOPE) platform.
+Interested in testing new digital government services before these are launched? Have an observation or suggestion that you think might help us with our Smart Nation goals? Take part in our surveys on our Smart Nation Co-creating with Our People Everywhere (SCOPE) platform.
 
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:300px;"><img src="/images/community/scope/scope-logo.png" alt="SCOPE"></div></div>
 

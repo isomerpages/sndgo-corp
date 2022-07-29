@@ -1,9 +1,15 @@
 ---
-title: Opportunities & Help For The Community
+title: Opportunities & Help for the Community
 permalink: /community/opportunities
-description: ""
-image: /images/community/events/snu-01.jpeg
+description: As Singapore moves towards becoming a Smart Nation, we want to make
+  sure that everyone in our society joins us in this journey. Find out more
+  about the Government initiatives available to assist the different groups of
+  people.
+image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
+
+
+
 
 ![Opportunities & help for the community](/images/community/headerimages/opportunities-help.png)
 

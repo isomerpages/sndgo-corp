@@ -4,29 +4,8 @@ links:
     collection: about-smart-nation
   - title: Initiatives
     collection: initiatives
-  - title: Combating COVID-19
-    collection: combating-covid-19
   - title: A Smart Community
-    url: /community/smart-nation-ambassadors
-    sublinks:
-      - title: "#SmartNationTogether"
-        url: https://together.smartnation.gov.sg/
-      - title: Smart Nation Ambassadors
-        url: /community/smart-nation-ambassadors
-      - title: Showcases
-        url: /community/showcases/overview
-      - title: Community Projects
-        url: /community/community-projects/overview
-      - title: Events
-        url: /community/events
-      - title: Campaigns
-        url: /community/campaigns/past
-      - title: Apps For You
-        url: /community/apps-for-you
-      - title: Opportunities & Help
-        url: /community/opportunities
-      - title: Contribute To Smart Nation
-        url: /community/SCOPE
+    collection: community
   - title: Careers
     url: /careers/join-sndgo
     sublinks:
@@ -42,3 +21,5 @@ links:
     resource_room: true
   - title: Resources
     collection: resources
+  - title: Combating COVID-19
+    collection: combating-covid-19

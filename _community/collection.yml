@@ -2,20 +2,24 @@ collections:
   community:
     output: true
     order:
-      - Smart Nation Ambassadors/.keep
-      - Smart Nation Ambassadors/Our Smart Nation Ambassadors.md
-      - Smart Nation Ambassadors/FAQs on Smart Nation Ambassadors.md
+      - Contribute to Smart Nation/Smart Nation Engagement Programmes.md
+      - Contribute to Smart Nation/.keep
+      - Contribute to Smart Nation/Smart Nation Ambassadors.md
+      - Contribute to Smart Nation/SCOPE.md
       - Showcases/.keep
       - Showcases/Smart Nation Showcases.md
       - Showcases/CityScape.md
       - Showcases/PlayScape.md
       - Showcases/Smart Nation Builder.md
-      - Events.md
-      - Community Projects/.keep
-      - Community Projects/Our Community Projects.md
-      - Community Projects/AR Storybook.md
+      - Events/.keep
+      - Events/Smart Nation Events.md
+      - Events/Smart Nation & U.md
+      - Events/#SmartNationTogether.md
+      - Events/SkillsFuture X Smart Nation.md
+      - Opportunities & Help for the Community.md
+      - Apps For You.md
       - Campaigns/.keep
       - Campaigns/Past Campaigns.md
-      - Apps For You.md
-      - Opportunities & Help For The Community.md
-      - Contribute To Smart Nation.md
+      - Community Projects/.keep
+      - Community Projects/Smart Nation Community Projects.md
+      - Community Projects/AR Storybook.md

@@ -1,11 +1,13 @@
 ---
-title: Our Smart Nation Ambassadors
+title: Smart Nation Ambassadors
 permalink: /community/smart-nation-ambassadors
-third_nav_title: Smart Nation Ambassadors
+third_nav_title: Contribute to Smart Nation
 description: Volunteer as a Smart Nation Ambassador and help us help fellow
   Singaporeans get involved in the Smart Nation journey.
 image: /images/community/sna/SmartNationAmbassador01.jpg
 ---
+
+
 # Transform Lives with Technology
 
 ![Smart Nation Ambassdors](/images/community/sna/SNA-smart-Nation-U.jpg)

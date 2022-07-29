@@ -5,7 +5,7 @@ third_nav_title: Showcases
 description: ""
 image: /images/community/builder/Smart_Nation_Builder_12.jpeg
 ---
-# Smart Nation Builder 
+# Hop on the Smart Nation Builder 
 
 <br>
 
