@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Events/Example Title.md
-      - Events/Events.md
+      - Events/Smart Nation & U.md
       - Events/.keep
       - Contribute to Smart Nation/.keep
       - Contribute to Smart Nation/Smart Nation Ambassadors.md
