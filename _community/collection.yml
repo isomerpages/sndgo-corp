@@ -2,7 +2,7 @@ collections:
   community:
     output: true
     order:
-      - Events/Example Title.md
+      - Events/SkillsFuture X Smart Nation.md
       - Events/Smart Nation & U.md
       - Events/.keep
       - Contribute to Smart Nation/.keep
