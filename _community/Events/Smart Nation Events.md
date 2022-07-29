@@ -5,7 +5,6 @@ description: Check out our Smart Nation events.
 third_nav_title: Events
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
 # Smart Nation Events
 
 <div class="row" style="padding: 40px 0px 10px 0px;">
