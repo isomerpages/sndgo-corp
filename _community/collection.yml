@@ -2,9 +2,6 @@ collections:
   community:
     output: true
     order:
-      - Events/SkillsFuture X Smart Nation.md
-      - Events/Smart Nation & U.md
-      - Events/.keep
       - Contribute to Smart Nation/.keep
       - Contribute to Smart Nation/Smart Nation Ambassadors.md
       - Contribute to Smart Nation/SCOPE.md
@@ -13,6 +10,9 @@ collections:
       - Showcases/CityScape.md
       - Showcases/PlayScape.md
       - Showcases/Smart Nation Builder.md
+      - Events/.keep
+      - Events/SkillsFuture X Smart Nation.md
+      - Events/Smart Nation & U.md
       - Opportunities & Help For The Community.md
       - Apps For You.md
       - Campaigns/.keep
