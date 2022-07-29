@@ -8,7 +8,7 @@ description: Smart Nation PlayScape is jointly developed by the Smart Nation and
   life.
 image: /images/community/playscape/PlayScape_04.jpeg
 ---
-# Smart Nation PlayScape
+# Come visit the Smart Nation PlayScape
 <br>
 
 <div style="max-width: 1280px">
