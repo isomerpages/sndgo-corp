@@ -2,9 +2,9 @@ collections:
   community:
     output: true
     order:
-      - Contribute to Smart Nation/SCOPE.md
-      - Contribute to Smart Nation/Smart Nation Ambassadors.md
       - Contribute to Smart Nation/.keep
+      - Contribute to Smart Nation/Smart Nation Ambassadors.md
+      - Contribute to Smart Nation/SCOPE.md
       - Showcases/.keep
       - Showcases/Smart Nation Showcases.md
       - Showcases/CityScape.md
