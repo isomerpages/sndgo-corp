@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Contribute to Smart Nation/.keep
       - Smart Nation Ambassadors/.keep
       - Smart Nation Ambassadors/Our Smart Nation Ambassadors.md
       - Smart Nation Ambassadors/FAQs on Smart Nation Ambassadors.md
