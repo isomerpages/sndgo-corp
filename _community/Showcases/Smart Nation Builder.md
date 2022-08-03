@@ -145,7 +145,7 @@ Catch the Smart Nation Builder at these locations:
 | Date | Time| Venue 
 | -------- | -------- | -------- |  
 |**5 - 7 Aug** <br> Fri - Sun | 11am - 7pm| **Bayfront Event Square, Marina Bay Sands** <br> 12A Bayfront Ave, Singapore 018970
-| **9 Aug** <br> Tue<br> **10 Aug**<br> Wed | 12pm - 8pm<br> 10am - 6pm| **Marina Barrage** <br> 8 Marina Gardens Drive, Singapore 018951
+| **9 Aug** <br> Tue<br> **10 Aug**<br> Wed | 12pm - 8pm<br><br> 10am - 6pm| **Marina Barrage** <br> 8 Marina Gardens Drive, Singapore 018951
 | **26 - 28 Aug** <br> Fri - Sun | 10am - 6pm| **Pasir Ris East Community Centre** <br> 1 Pasir Ris Drive 4, Singapore 519457
 
 #### Venue partners
