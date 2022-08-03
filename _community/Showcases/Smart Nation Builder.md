@@ -143,11 +143,9 @@ Participants can have fun and create memories at the photo booth and claw machin
 Catch the Smart Nation Builder at these locations: 
 
 | Date | Time| Venue 
-| -------- | -------- | -------- | 
-| **23 - 24 Jul** <br> Sat - Sun| 8:30am - 4:30pm | **West Coast Community Centre** <br> 2 Clementi West Street 2, <br>Singapore 129605|
-| **30 - 31 Jul** <br> Sat - Sun| 11am - 7pm| **The Plaza, Level 1, National Library Building**<br> 100 Victoria Street, Singapore 188064 
+| -------- | -------- | -------- |  
 |**5 - 7 Aug** <br> Fri - Sun | 11am - 7pm| **Bayfront Event Square, Marina Bay Sands** <br> 12A Bayfront Ave, Singapore 018970
-| **9 Aug** <br> Tue | 12pm - 8pm| **Marina Barrage** <br> 8 Marina Gardens Drive, Singapore 018951
+| **9 Aug** <br> Tue<br> **10 Aug**<br> Wed | 12pm - 8pm<br> 10am - 6pm| **Marina Barrage** <br> 8 Marina Gardens Drive, Singapore 018951
 | **26 - 28 Aug** <br> Fri - Sun | 10am - 6pm| **Pasir Ris East Community Centre** <br> 1 Pasir Ris Drive 4, Singapore 519457
 
 #### Venue partners
