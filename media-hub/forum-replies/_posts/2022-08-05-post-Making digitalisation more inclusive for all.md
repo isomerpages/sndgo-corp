@@ -5,7 +5,8 @@ date: 2022-08-05
 layout: post
 description: ""
 ---
-## Forum Reply: Making digitalisation more inclusive for all
+## Forum Reply: A multi-pronged approach to make digital more inclusive
+
 
 We refer to recent forum letters and the Zaobao editor’s notes on 22 and 27 July on the impact of digitalisation on seniors. We agree we need to strike a balance between digitalisation, and being inclusive to all segments of society. This has always been our approach in bringing the benefits of technology to as many as possible, including seniors.
 
