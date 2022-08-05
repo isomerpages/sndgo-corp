@@ -5,11 +5,10 @@ date: 2022-08-05
 layout: post
 description: ""
 ---
-
 ## Forum Reply: A multi-pronged approach to make digital more inclusive
 
 
-We refer to recent forum letters and the Zaobao editor’s notes on 22 and 27 July on the impact of digitalisation on seniors. We agree we need to strike a balance between digitalisation, and being inclusive to all segments of society. This has always been our approach in bringing the benefits of technology to as many as possible, including seniors.
+We refer to recent [forum letters and the Zaobao editor’s notes on 22 and 27 July](https://www.zaobao.com.sg/forum/talk/story20220722-1295255) on the impact of digitalisation on seniors. We agree we need to strike a balance between digitalisation, and being inclusive to all segments of society. This has always been our approach in bringing the benefits of technology to as many as possible, including seniors.
 
 Digitalisation has made government services more accessible, convenient and safe. This has brought benefits to many seniors, including those who are less mobile. To support Singaporeans in using digital services, we have invested in digital readiness programmes such as Seniors Go Digital, providing one-on-one training to more than 150,000 seniors in basic digital skills such as making e-payments. Seniors requiring help to use digital services may visit the SG Digital community hubs in libraries and community centres across Singapore to get one-on-one guidance. The ServiceSG Centres islandwide also offer assistance to access frequently used Government services and schemes across 20 agencies.
 
