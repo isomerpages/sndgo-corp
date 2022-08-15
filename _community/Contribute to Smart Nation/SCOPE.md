@@ -11,7 +11,6 @@ third_nav_title: Contribute to Smart Nation
 ![Smart Nation Co-creating with Our People Everywhere (SCOPE)](/images/community/sna/SmartNationAmbassador03.jpeg)
 
 SCOPE is a survey platform that helps the government gather feedback from citizens. SCOPE drives co-creation and helps developers and service providers get insights on tech solutions to better meet users’ needs.  
-  
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:300px;"><img src="/images/community/scope/scope-logo.png" alt="SCOPE"></div></div>
 
 Since 2018, 29 SCOPE surveys have been done, and more than 83,000 citizens have provided feedback on 26 digital government projects.
