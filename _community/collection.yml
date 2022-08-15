@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Contribute to Smart Nation/OGP Open Jio.md
       - Contribute to Smart Nation/.keep
       - Contribute to Smart Nation/Smart Nation Engagement Programmes.md
       - Contribute to Smart Nation/Smart Nation Ambassadors.md
