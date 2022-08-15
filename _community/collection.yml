@@ -2,12 +2,12 @@ collections:
   community:
     output: true
     order:
-      - Contribute to Smart Nation/GovTech Tech Kaki.md
       - Contribute to Smart Nation/.keep
       - Contribute to Smart Nation/Smart Nation Engagement Programmes.md
       - Contribute to Smart Nation/Smart Nation Ambassadors.md
       - Contribute to Smart Nation/SNA CCG.md
       - Contribute to Smart Nation/SCOPE.md
+      - Contribute to Smart Nation/GovTech Tech Kaki.md
       - Showcases/.keep
       - Showcases/Smart Nation Showcases.md
       - Showcases/CityScape.md
