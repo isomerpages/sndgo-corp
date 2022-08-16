@@ -5,8 +5,6 @@ third_nav_title: Urban Living
 description: ""
 image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
 ---
-
-
 # Smart Urban Living
 
 Singapore’s limited land requires us to constantly find innovative solutions to improve our urban environment. This includes making our homes and estates cleaner, greener, safer and more sustainable.
@@ -41,7 +39,6 @@ The initiatives below outline how we aim to achieve this.
 <br></div></div>
 
 
-<br>
 <div class="row">
 <div class="col"> 
 <a href="/initiatives/urban-living/dengue-hotspots-survey-drones"><img src="images/initiatives/drone-with-camera-for-dengue-survey.jpg" alt="Dengue Hotspots Survey Drones"></a><br>
