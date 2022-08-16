@@ -22,38 +22,35 @@ Find out more about how the Government protects your data and safeguards its sys
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 10px 0px 10px;"><a href="/about-smart-nation/secure-smart-nation/cybersecurity-public-sector"><img src="/images/abt-smart-nation/Cybersecurity_in_the_Public_Sector_1000px.jpeg" alt="Cybersecurity in the Public Sector"></a></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/about-smart-nation/secure-smart-nation/cybersecurity-public-sector"><img src="/images/abt-smart-nation/Cybersecurity_in_the_Public_Sector_1000px.jpeg" alt="Cybersecurity in the Public Sector"></a></div>
 		
-<div class="col" style="padding: 10px 10px 0px 10px;"><a href="/about-smart-nation/secure-smart-nation/personal-data-protection-laws-and-policies"><img src="/images/abt-smart-nation/Government’s_PDPLP_1000px.jpeg" alt="Government's Personal Data Protection Laws and Policies"></a></div>	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/about-smart-nation/secure-smart-nation/personal-data-protection-laws-and-policies"><img src="/images/abt-smart-nation/Government’s_PDPLP_1000px.jpeg" alt="Government's Personal Data Protection Laws and Policies"></a></div>	
 	
-<div class="col" style="padding: 10px 10px 0px 10px;">
+<div class="col" style="padding: 10px 20px 0px 20px;">
 <a href="/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives"><img src="/images/abt-smart-nation/Government’s_PDPI_1000px.jpeg" alt="Government's Personal Data Protection Initiatives"></a></div>
 	
 </div>
 	
 <div class="row" style="padding: 0px 0px 0px 0px;">
 
-<div class="col" style="padding: 0px 10px 0px 10px;"><span style="font-size:20px;"><center><b>Cybersecurity in the Public Sector</b></center></span></div>
+<div class="col" style="padding: 0px 20px 0px 20px;"><span style="font-size:20px;"><center><b>Cybersecurity in the Public Sector</b></center></span></div>
 
-<div class="col" style="padding: 0px 10px 0px 10px;"><span style="font-size:20px;"><center><b>Government's Personal Data Protection Laws and Policies</b></center></span></div>
+<div class="col" style="padding: 0px 20px 0px 20px;"><span style="font-size:20px;"><center><b>Government's Personal Data Protection Laws and Policies</b></center></span></div>
 	
-<div class="col" style="padding: 0px 10px 0px 10px;"><span style="font-size:20px;"><center><b>Government's Personal Data Protection Initiatives</b></center></span></div>
+<div class="col" style="padding: 0px 20px 0px 20px;"><span style="font-size:20px;"><center><b>Government's Personal Data Protection Initiatives</b></center></span></div>
 	
 </div>
 	
 <div class="row" style="padding: 0px 0px 0px 0px;">
 
-<div class="col" style="padding: 0px 10px 10px 10px;">Three-pronged approach to secure our systems.<br></div>
+<div class="col" style="padding: 0px 40px 10px 40px;">Three-pronged approach to secure our systems.<br></div>
 
-<div class="col" style="padding: 0px 10px 10px 10px;">Data management by public sector agencies and third-parties working with public agencies.<br></div>
+<div class="col" style="padding: 0px 40px 10px 40px;">Data management by public sector agencies and third-parties working with public agencies.<br></div>
 	
-<div class="col" style="padding: 0px 10px 10px 10px;">Data management by public sector agencies and third-parties working with public agencies.<br></div>
+<div class="col" style="padding: 0px 40px 10px 40px;">Data management by public sector agencies and third-parties working with public agencies.<br></div>
 
 </div>
 
 <a href="/about-smart-nation/secure-smart-nation/report-data-incident"><img src="/images/abt-smart-nation/report-data-incident.png" alt="Report Data Incident"></a>
 
 #### Click on the link to [report a data incident](/about-smart-nation/secure-smart-nation/report-data-incident).
-
-
-
