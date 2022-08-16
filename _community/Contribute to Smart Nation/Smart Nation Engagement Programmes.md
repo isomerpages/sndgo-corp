@@ -15,17 +15,17 @@ Come join us through the following programmes and platforms.
 
 <div class="col" style="padding: 10px 10px 10px 10px;">
 <a href="/community/smart-nation-ambassadors"><img src="/images/community/sna/SmartNationAmbassador07.jpeg" alt="Smart Nation Ambassadors (SNAs"></a><br>
-		<span style="font-size:20px;"><b>Smart Nation Ambassadors (SNAs)</b></span><br><br><span style="font-size:18px;">Our SNAs get involved in a variety of activities – from helping others learn how to use digital tools, to collecting feedback on how we can  improve our digital government services. They are also a constant presence at our roadshows and showcases.<br></span><br><br>
+		<span style="font-size:20px;"><b>Smart Nation Ambassadors (SNAs)</b></span><br><br>Our SNAs get involved in a variety of activities – from helping others learn how to use digital tools, to collecting feedback on how we can  improve our digital government services. They are also a constant presence at our roadshows and showcases.<br><br><br>
 </div>&nbsp; &nbsp; &nbsp; &nbsp;
 	
 <div class="col" style="padding: 10px 10px 10px 10px;">
-<a href="/community/snaccg"><img src="/images/community/CCG/SNACCG_01.jpeg" alt="Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)" alt="Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)"></a><br><span style="font-size:20px;"><b>Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)</b></span><br><br><span style="font-size:18px;">The SNA CCG is a network of community leaders representing diverse groups, including persons with disabilities, low-income families, seniors, and race-based community groups. SNA CCG enables public agencies to connect with specific communities to engage everyone, not just for the “digital-able”.
-</span><br><br>
+<a href="/community/snaccg"><img src="/images/community/CCG/SNACCG_01.jpeg" alt="Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)" alt="Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)"></a><br><span style="font-size:20px;"><b>Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)</b></span><br><br>The SNA CCG is a network of community leaders representing diverse groups, including persons with disabilities, low-income families, seniors, and race-based community groups. SNA CCG enables public agencies to connect with specific communities to engage everyone, not just for the “digital-able”.
+<br><br>
 </div>&nbsp; &nbsp; &nbsp; &nbsp;
 
 <div class="col" style="padding: 10px 10px 10px 10px;">
-<a href="/community/showcases/builder"><img src="/images/community/builder/Smart_Nation_Builder_25.jpeg" alt="Smart Nation Builder" alt="Smart Nation Builder"></a><br><span style="font-size:20px;"><b>Smart Nation Builder</b></span><br><br><span style="font-size:18px;">The Smart Nation Builder is a roving truck fitted with interactive game stations for everyone to learn more about Singapore’s tech initiatives and digital government services. It is also a co-creation platform for citizens to provide quick inputs and feedback on existing and upcoming digital government products and services.
-</span><br><br>
+<a href="/community/showcases/builder"><img src="/images/community/builder/Smart_Nation_Builder_25.jpeg" alt="Smart Nation Builder" alt="Smart Nation Builder"></a><br><span style="font-size:20px;"><b>Smart Nation Builder</b></span><br><br>The Smart Nation Builder is a roving truck fitted with interactive game stations for everyone to learn more about Singapore’s tech initiatives and digital government services. It is also a co-creation platform for citizens to provide quick inputs and feedback on existing and upcoming digital government products and services.
+<br><br>
 </div>&nbsp; &nbsp; &nbsp; &nbsp;
 
 </div>
@@ -33,16 +33,18 @@ Come join us through the following programmes and platforms.
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 10px 10px 10px;">
-<a href="/community/SCOPE"><img src="/images/community/sna/SmartNationAmbassador01.jpg" alt="Smart Nation Co-creating with Our People Everywhere (SCOPE)"></a><br><span style="font-size:20px;"><b>Smart Nation Co-creating with Our People Everywhere (SCOPE)</b></span><br><br><span style="font-size:18px;">The SCOPE survey tool gathers feedback from the public on test prototypes and new digital services. This gives the engineering teams direct feedback on user needs and preferences, so that we can make digital government more accessible and convenient for citizens.</span><br><br>
+<a href="/community/SCOPE"><img src="/images/community/sna/SmartNationAmbassador01.jpg" alt="Smart Nation Co-creating with Our People Everywhere (SCOPE)"></a><br><span style="font-size:20px;"><b>Smart Nation Co-creating with Our People Everywhere (SCOPE)</b></span><br><br>The SCOPE survey tool gathers feedback from the public on test prototypes and new digital services. This gives the engineering teams direct feedback on user needs and preferences, so that we can make digital government more accessible and convenient for citizens.<br><br>
 </div>&nbsp; &nbsp; &nbsp; &nbsp;
 
 <div class="col" style="padding: 10px 10px 10px 10px;">
-<a href="/community/techkaki"><img src="/images/community/TechKaki/TechKaki_01.jpeg" alt="GovTech Tech Kaki"></a><br><span style="font-size:20px;"><b>GovTech Tech Kaki</b></span><br><br><span style="font-size:18px;">Tech Kaki was set up by GovTech to engage a citizen community in the development process of their digital products and services, to meet the needs of citizens and businesses and enhance the end-user experience.</span><br><br>
+<a href="/community/techkaki"><img src="/images/community/TechKaki/TechKaki_01.jpeg" alt="GovTech Tech Kaki"></a><br><span style="font-size:20px;"><b>GovTech Tech Kaki</b></span><br><br>Tech Kaki was set up by GovTech to engage a citizen community in the development process of their digital products and services, to meet the needs of citizens and businesses and enhance the end-user experience.<br><br>
 </div>&nbsp; &nbsp; &nbsp; &nbsp;
 
 <div class="col" style="padding: 10px 10px 10px 10px;">
-<a href="/community/openjio"><img src="/images/community/OpenJio/OpenJio_01.jpeg" alt="OGP Open Jio Programme" alt="OGP Open Jio Programme"></a><br><span style="font-size:20px;"><b>OGP Open Jio Programme</b></span><br><br><span style="font-size:18px;">This pool of proactive citizens helps designers and researchers from OGP test our prototypes and experimental products so that we can improve the experience of our digital products for the benefit of all Singaporeans.
-</span><br><br>
+<a href="/community/openjio"><img src="/images/community/OpenJio/OpenJio_01.jpeg" alt="OGP Open Jio Programme" alt="OGP Open Jio Programme"></a><br><span style="font-size:20px;"><b>OGP Open Jio Programme</b></span><br><br>This pool of proactive citizens helps designers and researchers from OGP test our prototypes and experimental products so that we can improve the experience of our digital products for the benefit of all Singaporeans.
+<br><br>
 </div>&nbsp; &nbsp; &nbsp; &nbsp;
 	
 </div>
+
+542
