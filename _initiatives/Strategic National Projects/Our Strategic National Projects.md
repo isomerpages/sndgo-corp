@@ -37,8 +37,6 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 </div>
 <br></div></div>
 
-
-<br>
 <div class="row">
 <div class="col"> 
 <a href="/initiatives/strategic-national-projects/lifesg"><img src="/images/initiatives/lifesg.jpeg" alt="LifeSG"></a><br>
@@ -63,7 +61,6 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 </div>
 <br></div></div>
 
-<br>
 <div class="row">
 <div class="col"> 
 <a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/smart-nation-sensor-platform-snp.jpeg" alt="Smart Nation Sensor Platform"></a><br>
