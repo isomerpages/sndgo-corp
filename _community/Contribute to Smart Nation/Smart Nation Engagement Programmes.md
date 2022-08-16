@@ -26,7 +26,7 @@ Come join us through the following programmes and platforms.
 </div>
 	<br></div>
 
-</div>
+</div><br>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
