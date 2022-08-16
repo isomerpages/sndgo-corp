@@ -43,11 +43,11 @@ Find out more about how the Government protects your data and safeguards its sys
 	
 <div class="row" style="padding: 0px 0px 0px 0px;">
 
-<div class="col" style="padding: 0px 40px 10px 40px;">Three-pronged approach to secure our systems.<br></div>
+<div class="col" style="padding: 0px 20px 10px 20px;">Three-pronged approach to secure our systems.<br></div>
 
-<div class="col" style="padding: 0px 40px 10px 40px;">Data management by public sector agencies and third-parties working with public agencies.<br></div>
+<div class="col" style="padding: 0px 20px 10px 20px;">Data management by public sector agencies and third-parties working with public agencies.<br></div>
 	
-<div class="col" style="padding: 0px 40px 10px 40px;">Data management by public sector agencies and third-parties working with public agencies.<br></div>
+<div class="col" style="padding: 0px 20px 10px 20px;">Data management by public sector agencies and third-parties working with public agencies.<br></div>
 
 </div>
 
