@@ -41,8 +41,7 @@ Come join us through the following programmes and platforms.
 </div>&nbsp; &nbsp; &nbsp; &nbsp;
 
 <div class="col" style="padding: 10px 10px 10px 10px;">
-<a href="/community/openjio"><img src="/images/community/OpenJio/OpenJio_01.jpeg" alt="OGP Open Jio Programme" alt="OGP Open Jio Programme"></a><br><span style="font-size:20px;"><b>OGP Open Jio Programme</b></span><br><br><span style="font-size:18px;">
-    <div class="para">This pool of proactive citizens helps designers and researchers from OGP test our prototypes and experimental products so that we can improve the experience of our digital products for the benefit of all Singaporeans.
+<a href="/community/openjio"><img src="/images/community/OpenJio/OpenJio_01.jpeg" alt="OGP Open Jio Programme" alt="OGP Open Jio Programme"></a><br><span style="font-size:20px;"><b>OGP Open Jio Programme</b></span><br><br><span style="font-size:18px;">This pool of proactive citizens helps designers and researchers from OGP test our prototypes and experimental products so that we can improve the experience of our digital products for the benefit of all Singaporeans.
 </span><br><br>
 </div>&nbsp; &nbsp; &nbsp; &nbsp;
 	
