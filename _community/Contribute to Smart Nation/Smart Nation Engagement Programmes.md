@@ -43,5 +43,3 @@ Come join us through the following programmes and platforms.
 	<br></div>
 	
 </div>
-
-605
