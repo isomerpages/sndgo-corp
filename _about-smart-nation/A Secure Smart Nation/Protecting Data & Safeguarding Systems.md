@@ -40,8 +40,6 @@ Find out more about how the Government protects your data and safeguards its sys
 
 </div>
 
-532
-
 <a href="/about-smart-nation/secure-smart-nation/report-data-incident"><img src="/images/abt-smart-nation/report-data-incident.png" alt="Report Data Incident"></a>
 
 #### Click on the link to [report a data incident](/about-smart-nation/secure-smart-nation/report-data-incident).
