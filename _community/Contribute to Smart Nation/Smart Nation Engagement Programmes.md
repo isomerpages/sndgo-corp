@@ -18,7 +18,7 @@ Come join us through the following programmes and platforms.
 		<div class="header"><b>Smart Nation Ambassadors (SNAs)</b></div><br>
 		<div class="para">Our SNAs get involved in a variety of activities – from helping others learn how to use digital tools, to collecting feedback on how we can  improve our digital government services. They are also a constant presence at our roadshows and showcases.
 </div>
-<br><br>
+<br>
 
 </div>
 	<div class="col"> 
@@ -26,7 +26,7 @@ Come join us through the following programmes and platforms.
     <div class="header"><b>Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)</b></div><br>
     <div class="para">The SNA CCG is a network of community leaders representing diverse groups, including persons with disabilities, low-income families, seniors, and race-based community groups. SNA CCG enables public agencies to connect with specific communities to engage everyone, not just for the “digital-able”.
 </div>
-<br><br>
+<br>
 
 </div>
 	<div class="col"> 
@@ -34,9 +34,9 @@ Come join us through the following programmes and platforms.
      <div class="header"><b>Smart Nation Builder</b></div><br>
     <div class="para">The Smart Nation Builder is a roving truck fitted with interactive game stations for everyone to learn more about Singapore’s tech initiatives and digital government services. It is also a co-creation platform for citizens to provide quick inputs and feedback on existing and upcoming digital government products and services.
 </div>
-<br><br></div></div>
+<br></div></div>
 
-
+</div>
 <div class="row">
 	<div class="col">
 <a href="/community/SCOPE"><img src="/images/community/sna/SmartNationAmbassador01.jpg" alt="Smart Nation Co-creating with Our People Everywhere (SCOPE)"></a><br>
