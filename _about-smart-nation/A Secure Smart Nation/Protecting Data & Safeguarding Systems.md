@@ -33,11 +33,11 @@ Find out more about how the Government protects your data and safeguards its sys
 	
 <div class="row" style="padding: 0px 0px 0px 0px;">
 
-<div class="col" style="padding: 0px 20px 0px 20px;"><span style="font-size:20px;"><center><b>Cybersecurity in the Public Sector</b></center></span></div>
+<div class="col" style="padding: 0px 20px 0px 20px;"><center><b>Cybersecurity in the Public Sector</b></center></div>
 
-<div class="col" style="padding: 0px 20px 0px 20px;"><span style="font-size:20px;"><center><b>Government's Personal Data Protection Laws and Policies</b></center></span></div>
+<div class="col" style="padding: 0px 20px 0px 20px;"><center><b>Government's Personal Data Protection Laws and Policies</b></center></div>
 	
-<div class="col" style="padding: 0px 20px 0px 20px;"><span style="font-size:20px;"><center><b>Government's Personal Data Protection Initiatives</b></center></span></div>
+<div class="col" style="padding: 0px 20px 0px 20px;"><center><b>Government's Personal Data Protection Initiatives</b></center></div>
 	
 </div>
 	
