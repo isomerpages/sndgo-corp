@@ -34,7 +34,6 @@ To empower citizens to live, work, play, interact and transact better with each 
 </div>
 <br></div></div>
 
-<br>
 <div class="row">
 <div class="col"> 
 <a href="/initiatives/Digital-Government-Services/digital-birth-and-death-certs"><img src="/images/initiatives/digital-death-birth-cert.jpeg" alt="Digital Birth and Death Certificates"></a><br>
