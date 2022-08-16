@@ -21,21 +21,20 @@ We will also ensure that citizens’ data is handled with care, and protect the 
 Find out more about how the Government protects your data and safeguards its systems:
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
-	<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/about-smart-nation/secure-smart-nation/cybersecurity-public-sector"><img src="/images/abt-smart-nation/Cybersecurity_in_the_Public_Sector_1000px.jpeg" alt="Cybersecurity in the Public Sector"></a><br>
-		<span style="font-size:20px;"><b>Cybersecurity in the Public Sector</b></span><br><br>
-		<span style="font-size:18px;">Three-pronged approach to secure our systems.
+	<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/about-smart-nation/secure-smart-nation/cybersecurity-public-sector"><img src="/images/abt-smart-nation/Cybersecurity_in_the_Public_Sector_1000px.jpeg" alt="Cybersecurity in the Public Sector"></a>
+		<span style="font-size:20px;"><center><b>Cybersecurity in the Public Sector</b></center></span>
+		<span style="font-size:16px;">Three-pronged approach to secure our systems.
 </span><br><br>
 </div>&nbsp; &nbsp; &nbsp; &nbsp;
 
-<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/about-smart-nation/secure-smart-nation/personal-data-protection-laws-and-policies"><img src="/images/abt-smart-nation/Government’s_PDPLP_1000px.jpeg" alt="Government's Personal Data Protection Laws and Policies"></a><br>
-	<span style="font-size:20px;"><b>Government's Personal Data Protection Laws and Policies</b></span><br><br>
-	<span style="font-size:18px;">Data management by public sector agencies and third-parties working with public agencies.</span><br><br>
+<div class="col" style="padding: 10px 10px 10px 10px;"><a href="/about-smart-nation/secure-smart-nation/personal-data-protection-laws-and-policies"><img src="/images/abt-smart-nation/Government’s_PDPLP_1000px.jpeg" alt="Government's Personal Data Protection Laws and Policies"></a><span style="font-size:20px;"><center><b>Government's Personal Data Protection Laws and Policies</b></center></span>
+	<span style="font-size:16px;">Data management by public sector agencies and third-parties working with public agencies.</span><br><br>
 </div>&nbsp; &nbsp; &nbsp; &nbsp;
 
 <div class="col" style="padding: 10px 10px 10px 10px;">
-<a href="/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives"><img src="/images/abt-smart-nation/Government’s_PDPI_1000px.jpeg" alt="Government's Personal Data Protection Initiatives"></a><br>
-	<span style="font-size:20px;"><b>Government's Personal Data Protection Initiatives</b></span><br><br>
-	<span style="font-size:18px;">Recommendations and initiatives to strengthen the Government’s data security regime.</span><br><br>
+<a href="/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives"><img src="/images/abt-smart-nation/Government’s_PDPI_1000px.jpeg" alt="Government's Personal Data Protection Initiatives"></a>
+	<span style="font-size:20px;"><center><b>Government's Personal Data Protection Initiatives</b></center></span>
+	<span style="font-size:16px;">Recommendations and initiatives to strengthen the Government’s data security regime.</span><br><br>
 	</div>&nbsp; &nbsp; &nbsp; &nbsp;
 
 </div>
