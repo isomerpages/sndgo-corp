@@ -36,6 +36,7 @@ Come join us through the following programmes and platforms.
 </div>
 <br></div></div>
 
+<br>
 <div class="row">
 	<div class="col">
 <a href="/community/SCOPE"><img src="/images/community/sna/SmartNationAmbassador01.jpg" alt="Smart Nation Co-creating with Our People Everywhere (SCOPE)"></a><br>
