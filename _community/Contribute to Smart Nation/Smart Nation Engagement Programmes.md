@@ -14,7 +14,7 @@ Come join us through the following programmes and platforms.
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="/community/smart-nation-ambassadors"><img src="/images/community/sna/SmartNationAmbassador07.jpeg" alt="Smart Nation Ambassadors (SNAs"></a><br><div class="header"><b>Smart Nation Ambassadors (SNAs)</b></div><br><br>Our SNAs get involved in a variety of activities – from helping others learn how to use digital tools, to collecting feedback on how we can  improve our digital government services. They are also a constant presence at our roadshows and showcases.
+<a href="/community/smart-nation-ambassadors"><img src="/images/community/sna/SmartNationAmbassador07.jpeg" alt="Smart Nation Ambassadors (SNAs)"></a><br><div class="header"><b>Smart Nation Ambassadors</b></div><br><br>Our Smart Nation Ambassadors (SNAs) get involved in a variety of activities – from helping others learn how to use digital tools, to collecting feedback on how we can  improve our digital government services. They are also a constant presence at our roadshows and showcases.
 	<br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
