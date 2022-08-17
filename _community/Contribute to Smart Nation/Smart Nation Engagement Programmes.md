@@ -25,7 +25,7 @@ Come join us through the following programmes and platforms.
 <a href="/community/showcases/builder"><img src="/images/community/builder/Smart_Nation_Builder_25.jpeg" alt="Smart Nation Builder" alt="Smart Nation Builder"></a><br><div class="header"><b>Smart Nation Builder</b></div><br><br>The Smart Nation Builder is a roving truck fitted with interactive game stations for everyone to learn more about Singapore’s tech initiatives and digital government services. It is also a co-creation platform for citizens to provide quick inputs and feedback on existing and upcoming digital government products and services.
 <br></div>
 
-</div>
+</div><br>
 
 <div class="row" style="padding: 10px 20px 10px 20px;">
 
