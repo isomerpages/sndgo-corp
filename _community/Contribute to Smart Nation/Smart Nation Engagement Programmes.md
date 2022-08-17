@@ -18,19 +18,17 @@ Come join us through the following programmes and platforms.
 	<br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="/community/snaccg"><img src="/images/community/CCG/SNACCG_01.jpeg" alt="Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)" alt="Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)"></a><br><div class="header"><b>Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)</b></div><br><br>The SNA CCG is a network of community leaders representing diverse groups, including persons with disabilities, low-income families, seniors, and race-based community groups. SNA CCG enables public agencies to connect with specific communities to engage everyone, not just for the “digital-able”.
+<a href="/community/snaccg"><img src="/images/community/CCG/SNACCG_01.jpeg" alt="Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)"></a><br><div class="header"><b>Smart Nation Ambassador Citizen Co-Creation Group</b></div><br><br>The Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG) is a network of community leaders representing diverse groups, including persons with disabilities, low-income families, seniors, and race-based community groups. SNA CCG enables public agencies to connect with specific communities to engage everyone, not just for the “digital-able”.
 	<br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
 <a href="/community/showcases/builder"><img src="/images/community/builder/Smart_Nation_Builder_25.jpeg" alt="Smart Nation Builder" alt="Smart Nation Builder"></a><br><div class="header"><b>Smart Nation Builder</b></div><br><br>The Smart Nation Builder is a roving truck fitted with interactive game stations for everyone to learn more about Singapore’s tech initiatives and digital government services. It is also a co-creation platform for citizens to provide quick inputs and feedback on existing and upcoming digital government products and services.
 <br></div>
 
-</div>&nbsp; &nbsp; &nbsp; &nbsp;
-
 <div class="row" style="padding: 10px 20px 10px 20px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="/community/SCOPE"><img src="/images/community/sna/SmartNationAmbassador01.jpg" alt="Smart Nation Co-creating with Our People Everywhere (SCOPE)"></a><br><div class="header"><b>Smart Nation Co-creating with Our People Everywhere (SCOPE)</b></div><br><br>The SCOPE survey tool gathers feedback from the public on test prototypes and new digital services. This gives the engineering teams direct feedback on user needs and preferences, so that we can make digital government more accessible and convenient for citizens.
+<a href="/community/SCOPE"><img src="/images/community/sna/SmartNationAmbassador01.jpg" alt="Smart Nation Co-creating with Our People Everywhere (SCOPE)"></a><br><div class="header"><b>SCOPE</b></div><br><br>The SCOPE survey tool gathers feedback from the public on test prototypes and new digital services. This gives the engineering teams direct feedback on user needs and preferences, so that we can make digital government more accessible and convenient for citizens.
 	<br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
