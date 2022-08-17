@@ -18,7 +18,7 @@ Come join us through the following programmes and platforms.
 	<br><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="/community/snaccg"><img src="/images/community/CCG/SNACCG_01.jpeg" alt="Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)"></a><br><div class="header"><b>Smart Nation Ambassador Citizen Co-Creation Group</b></div><br><br>The Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG) is a network of community leaders representing diverse groups, including persons with disabilities, low-income families, seniors, and race-based community groups. SNA CCG enables public agencies to connect with specific communities to engage everyone, not just for the “digital-able”.
+<a href="/community/snaccg"><img src="/images/community/CCG/SNACCG_01.jpeg" alt="Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)"></a><br><div class="header"><b>SNA Citizen Co-Creation Group</b></div><br><br>The Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG) is a network of community leaders representing diverse groups, including persons with disabilities, low-income families, seniors, and race-based community groups. SNA CCG enables public agencies to connect with specific communities to engage everyone, not just for the “digital-able”.
 	<br><br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
