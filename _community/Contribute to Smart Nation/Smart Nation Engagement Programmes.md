@@ -27,15 +27,15 @@ Come join us through the following programmes and platforms.
 	
 </div><div class="row">
 
-<div class="col">
+<div class="col" style="padding: 10px 20px 10px 20px;">
 <a href="/community/SCOPE"><img src="/images/community/sna/SmartNationAmbassador01.jpg" alt="Smart Nation Co-creating with Our People Everywhere (SCOPE)"></a><br><div class="header"><b>SCOPE</b></div><br><br>The SCOPE survey tool gathers feedback from the public on test prototypes and new digital services. This gives the engineering teams direct feedback on user needs and preferences, so that we can make digital government more accessible and convenient for citizens.
 	<br><br></div>
 
-<div class="col">
+<div class="col" style="padding: 10px 20px 10px 20px;">
 <a href="/community/techkaki"><img src="/images/community/TechKaki/TechKaki_01.jpeg" alt="GovTech Tech Kaki"></a><br><div class="header"><b>GovTech Tech Kaki</b></div><br><div class="para"><br>Tech Kaki was set up by GovTech to engage a citizen community in the development process of their digital products and services, to meet the needs of citizens and businesses and enhance the end-user experience.</div>
 	<br><br></div>
 	
-<div class="col">
+<div class="col" style="padding: 10px 20px 10px 20px;">
 <a href="/community/openjio"><img src="/images/community/OpenJio/OpenJio_01.jpeg" alt="OGP Open Jio Programme" alt="OGP Open Jio Programme"></a><br><div class="header"><b>OGP Open Jio Programme</b></div><br><br>This pool of proactive citizens helps designers and researchers from OGP test our prototypes and experimental products so that we can improve the experience of our digital products for the benefit of all Singaporeans.
 	<br><br></div>
 	
