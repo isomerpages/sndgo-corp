@@ -22,12 +22,12 @@ Find out more about how the Government protects your data and safeguards its sys
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/about-smart-nation/secure-smart-nation/cybersecurity-public-sector"><img src="/images/abt-smart-nation/Cybersecurity_in_the_Public_Sector_1000px.jpeg" alt="Cybersecurity in the Public Sector"></a><center><b>Cybersecurity in the Public Sector</b></center>Three-pronged approach to secure our systems.<br></div>
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/about-smart-nation/secure-smart-nation/cybersecurity-public-sector"><img src="/images/abt-smart-nation/Cybersecurity_in_the_Public_Sector_1000px.jpeg" alt="Cybersecurity in the Public Sector"></a><br><div class="header"><b>Cybersecurity in the Public Sector</b></div><br><br>Three-pronged approach to secure our systems.<br><br></div>
 		
-<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/about-smart-nation/secure-smart-nation/personal-data-protection-laws-and-policies"><img src="/images/abt-smart-nation/Government’s_PDPLP_1000px.jpeg" alt="Government's Personal Data Protection Laws and Policies"></a><center><b>Government's Personal Data Protection Laws and Policies</b></center>Data management by public sector agencies and third-parties working with public agencies.<br></div>	
+<div class="col" style="padding: 10px 20px 0px 20px;"><a href="/about-smart-nation/secure-smart-nation/personal-data-protection-laws-and-policies"><img src="/images/abt-smart-nation/Government’s_PDPLP_1000px.jpeg" alt="Government's Personal Data Protection Laws and Policies"></a><br><div class="header"><b>Government's Personal Data Protection Laws and Policies</b></div><br><br>Data management by public sector agencies and third-parties working with public agencies.<br><br></div>	
 	
 <div class="col" style="padding: 10px 20px 0px 20px;">
-<a href="/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives"><img src="/images/abt-smart-nation/Government’s_PDPI_1000px.jpeg" alt="Government's Personal Data Protection Initiatives"></a><center><b>Government's Personal Data Protection Initiatives</b></center>Data management by public sector agencies and third-parties working with public agencies.<br></div>
+<a href="/about-smart-nation/secure-smart-nation/personal-data-protection-initiatives"><img src="/images/abt-smart-nation/Government’s_PDPI_1000px.jpeg" alt="Government's Personal Data Protection Initiatives"></a><br><div class="header"><b>Government's Personal Data Protection Initiatives</b></div><br><br>Data management by public sector agencies and third-parties working with public agencies.<br><br></div>
 	
 </div>
 
