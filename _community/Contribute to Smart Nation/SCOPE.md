@@ -1,23 +1,21 @@
 ---
 title: SCOPE
 permalink: /community/SCOPE
-description: SCOPE is our co-creation platform designed to let you test the
-  latest digital government initiatives and products that are still in
-  development.
+description: The SCOPE survey tool gathers feedback from the public on test
+  prototypes and new digital services.
 image: /images/community/sna/SmartNationAmbassador01.jpg
 third_nav_title: Contribute to Smart Nation
 ---
-# Take Part in a Smart Nation Survey
+# Smart Nation Co-Creating with Our People Everywhere (SCOPE)
 
 ![Smart Nation Co-creating with Our People Everywhere (SCOPE)](/images/community/sna/SmartNationAmbassador03.jpeg)
 
-Interested in testing new digital government services before these are launched? Have an observation or suggestion that you think might help us with our Smart Nation goals? Take part in our surveys on our Smart Nation Co-creating with Our People Everywhere (SCOPE) platform.
-
+SCOPE is a survey platform that helps the government gather feedback from citizens. SCOPE drives co-creation and helps developers and service providers get insights on tech solutions to better meet users’ needs.  
 <div style="width:100%;display:flex;justify-content:center;"><div style="width:300px;"><img src="/images/community/scope/scope-logo.png" alt="SCOPE"></div></div>
 
-SCOPE is our co-creation platform designed to let you test the latest digital government initiatives and products that are still in development. Your feedback will help us make services more accessible and convenient for all Singaporeans. 
+Since 2018, 29 SCOPE surveys have been done, and more than 83,000 citizens have provided feedback on 26 digital government projects.
 
-### Take part in the following surveys today!
+## Take part in our SCOPE surveys
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	<div class="col" style="padding: 20px 20px 20px 20px;">
@@ -46,3 +44,7 @@ SCOPE is our co-creation platform designed to let you test the latest digital go
 <div class="col" style="padding: 20px 20px 20px 20px;">
 </div>
 <br></div>
+
+## Tap on our SCOPE platform to gather feedback
+
+Public agencies who need help to gather feedback on digital product and services, can register your interest to tap on our SCOPE platform here: [https://go.gov.sg/register-scope-ccg](https://go.gov.sg/register-scope-ccg).

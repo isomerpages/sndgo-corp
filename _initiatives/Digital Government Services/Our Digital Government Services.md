@@ -34,10 +34,9 @@ To empower citizens to live, work, play, interact and transact better with each 
 </div>
 <br></div></div>
 
-<br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/Digital-Government-Services/digital-birth-and-death-certs"><img src="/images/initiatives/digital-death-birth-cert.jpeg" alt="Digital Birth and Death Certificates"></a><br>
+<a href="/initiatives/Digital-Government-Services/digital-birth-and-death-certs"><img src="/images/initiatives/overview-pages/digital-birth-death-cert.jpg" alt="Digital Birth and Death Certificates"></a><br>
     <div class="header"><b>Digital Birth and Death Certificates</b></div><br>
     <div class="para">Parents of newborns and next-of-kin of the deceased can download and store digital certificates on their personal mobile devices and laptops.  
 </div>
