@@ -10,6 +10,7 @@ image: /images/initiatives/overview-pages/healthhub.png
 The number of elderly citizens in Singapore is projected to reach 900,000 by 2030. Combined with our low birth rates, the burden of caring for our seniors will get heavier, which makes our healthcare needs a priority. As we move towards being a Smart Nation, we’re constantly exploring technology to create healthcare solutions to proactively meet these needs. 
 
 Currently, our health initiatives focus on equipping Singaporeans with the information and tools to better take control of their health and healthcare needs, so that they are prepared for the future. 
+
 These are some of the Smart Nation health initiatives we’re working on right now:
 
 <br>
