@@ -10,7 +10,7 @@ image: /images/community/playscape/PlayScape_04.jpeg
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;"><a href="/community/showcases/cityscape"><img src="/images/community/cityscape/Cityscape-01.jpeg" alt="CityScape"></a><br>
-	<div class="header" style="font-size:18px"><b>Smart Nation CityScape</b></div><br><br>Smart Nation CityScape is an informational exhibition on how Smart Nation initiatives are embedded in our city. Located at the URA Cente the exhibition has been integrated with the Singapore City Gallery.
+	<div class="header" style="font-size:18px"><b>Smart Nation CityScape</b></div><br><br>Smart Nation CityScape is an informational exhibition on how Smart Nation initiatives are embedded in our city. Visitors get to learn about Singapore's digital transformation journey through a series of interactive stations and displays.
 	<br><br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"><a href="/community/showcases/playscape"><img src="/images/community/playscape/Playscape_Rubik.jpg" alt="PlayScape"></a><br>
