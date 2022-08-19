@@ -2,9 +2,12 @@
 title: Smart Urban Initiatives
 permalink: /initiatives/urban-living
 third_nav_title: Urban Living
-description: ""
+description: Singapore’s limited land requires us to constantly find innovative
+  solutions to improve our urban environment. This includes making our homes and
+  estates cleaner, greener, safer and more sustainable.
 image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
 ---
+
 # Smart Urban Living
 
 Singapore’s limited land requires us to constantly find innovative solutions to improve our urban environment. This includes making our homes and estates cleaner, greener, safer and more sustainable.

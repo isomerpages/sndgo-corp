@@ -2,9 +2,13 @@
 title: Parents Gateway
 permalink: /initiatives/digital-government-services/parents-gateway
 third_nav_title: Digital Government Services
-description: ""
+description: Parents Gateway is an app for schools to disseminate information,
+  and seek parents’ consent on admin matters, in a consolidated digital form. It
+  gives you greater access and control over your child’s participation in school
+  activities and for you to better manage school-related administrative tasks.
 image: /images/initiatives/Parent-gateway-screenshots.jpeg
 ---
+
 
 
 # Gateway to Better Parent–School Communication

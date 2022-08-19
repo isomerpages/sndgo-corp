@@ -2,9 +2,11 @@
 title: CentEx
 permalink: /initiatives/digital-government-services/centex
 third_nav_title: Digital Government Services
-description: ""
+description: Centre of Excellence (or CentEx) for ICT and Smart Systems is where
+  specialist engineering expertise will be grown to support the government.
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
+
 # CentEx
 ![CentEx](/images/initiatives/centex.jpg)
 

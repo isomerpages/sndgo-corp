@@ -2,9 +2,14 @@
 title: GoBusiness
 permalink: /initiatives/strategic-national-projects/gobusiness
 third_nav_title: Strategic National Projects
-description: ""
+description: For a business, it can be costly and time-consuming – not to
+  mention mind-boggling - to trawl through different Government websites to
+  apply for grants and licenses. To make such transactions easier, the
+  Government has consolidated applications for grants and licenses and made
+  these available on two websites.
 image: /images/initiatives/business-grants-gobusiness.png
 ---
+
 
 # Business Grants and Licenses At Your Fingertips
 ![business grants portal](/images/initiatives/business-grants-gobusiness.png)

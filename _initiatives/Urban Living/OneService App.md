@@ -2,9 +2,12 @@
 title: OneService App
 permalink: /initiatives/urban-living/oneservice-app
 third_nav_title: Urban Living
-description: ""
+description: "The OneService App is a one-stop platform that lets citizens
+  feedback on municipal issues without having to figure out which Government
+  agency or town council to contact. "
 image: /images/initiatives/overview-pages/oneservice-app.png
 ---
+
 # OneService App
 <br>
 

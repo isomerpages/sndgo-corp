@@ -1,9 +1,10 @@
 ---
 title: Open Data Resources
 permalink: /resources/open-data
-description: ""
+description: Data is the new currency, and with open data, the possibilities are endless!
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
+
 
 ![Open data resources for government data](/images/resources/open-government-data.jpeg)
 

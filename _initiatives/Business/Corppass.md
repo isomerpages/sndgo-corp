@@ -2,9 +2,11 @@
 title: Corppass
 permalink: /initiatives/business/corppass
 third_nav_title: Business
-description: ""
+description: In our Digital Economy, businesses need a secure, convenient way to
+  transact with the Government’s online services.
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
+
 # One Corppass to Transact It All 
 <br>
 

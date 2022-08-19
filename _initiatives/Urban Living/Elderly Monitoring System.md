@@ -1,10 +1,13 @@
 ---
 title: Elderly Monitoring System
 permalink: /initiatives/urban-living/ems
-description: ""
+description: The Elderly Monitoring System provides families with greater peace
+  of mind over the well-being and safety of elderly relatives, especially if
+  they are living alone at home.
 third_nav_title: Urban Living
 image: /images/initiatives/overview-pages/smart-elderly-alert-system.png
 ---
+
 # Elderly Monitoring System
 
 The Elderly Monitoring System provides families with greater peace of mind over the well-being and safety of elderly relatives, especially if they are living alone at home. 

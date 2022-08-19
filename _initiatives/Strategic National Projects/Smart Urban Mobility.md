@@ -2,9 +2,12 @@
 title: Smart Urban Mobility
 permalink: /initiatives/strategic-national-projects/smart-urban-mobility
 third_nav_title: Strategic National Projects
-description: ""
+description: As a land-scarce city with a growing population, Singapore needs an
+  efficient transportation infrastructure to run smoothly. This is why we’ve
+  identified Smart Urban Mobility as one of our strategic national projects.
 image: /images/initiatives/smart-urban-mobility.jpg
 ---
+
 # Remaking Our Transportation Roadmap 
  
 As a land-scarce city with a growing population, Singapore needs an efficient transportation infrastructure to run smoothly. This is why we’ve identified Smart Urban Mobility as one of our strategic national projects.

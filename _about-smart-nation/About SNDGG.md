@@ -1,9 +1,17 @@
 ---
 title: About SNDGG
 permalink: /about-smart-nation/sndgg
-description: ""
+description: The Smart Nation and Digital Government Office (SNDGO), under the
+  Prime Minister’s Office, plans and prioritises key Smart Nation projects and
+  drives the digital transformation of our Government. It also builds long-term
+  capabilities for the public sector, and promotes adoption and participation
+  from the public and industry, to take a collective approach in building a
+  Smart Nation. With the Government Technology Agency, the implementing arm of
+  SNDGO, both entities are collectively known as the Smart Nation and Digital
+  Government Group (SNDGG).
 image: /images/og-image/About-SNDGG-OG-Image.jpg
 ---
+
 # About Smart Nation Digital Government Group
 
 ![Smart Nation and Digital Government Office (SNDGO)](/images/abt-smart-nation/SNDGO_Office_01.jpg)

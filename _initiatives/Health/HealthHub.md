@@ -2,9 +2,13 @@
 title: HealthHub
 permalink: /initiatives/health/healthhub
 third_nav_title: Health
-description: ""
+description: "HealthHub is a Singaporeans’ “digital healthcare companion”,
+  providing one-stop access to their personal medical records, links to
+  healthcare services and institutions and related information and tools so they
+  can take control of their health. "
 image: /images/initiatives/overview-pages/healthhub.png
 ---
+
 # Your Health at Your Fingertips
 <br>
 

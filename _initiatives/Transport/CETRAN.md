@@ -2,9 +2,12 @@
 title: CETRAN
 permalink: /initiatives/transport/cetran-test-circuit
 third_nav_title: Transport
-description: ""
+description: CETRAN places Singapore at the global forefront to develop
+  international SDV standards as we test, certify, trial and deploy these
+  vehicles on a large scale.
 image: /images/initiatives/CETRAN-test-circuit.jpg
 ---
+
 
 
 # Cetran

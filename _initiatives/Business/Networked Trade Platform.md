@@ -2,9 +2,11 @@
 title: Networked Trade Platform
 permalink: /initiatives/business/networked-trade-platform
 third_nav_title: Business
-description: ""
+description: Networked Trade Platform (NTP) allows for a seamless way to manage
+  trade documents digitally.
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
+
 #  A Smarter Way to Trade
 <br>
 

@@ -2,9 +2,11 @@
 title: Automated Meter Reading
 permalink: /initiatives/urban-living/amr
 third_nav_title: Urban Living
-description: ""
+description: Collecting and analysing data on how we use water can go a long way
+  towards helping us become more efficient with the precious resource.
 image: /images/initiatives/overview-pages/amr-trial.png
 ---
+
 # Tracking Water Data from Tap to App
 <br>
 

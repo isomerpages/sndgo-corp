@@ -2,9 +2,12 @@
 title: Our Digital Government Services
 permalink: /initiatives/digital-government-services
 third_nav_title: Digital Government Services
-description: ""
+description: To empower citizens to live, work, play, interact and transact
+  better with each other and the Government, we have built tech-enabled
+  solutions that meet these needs.
 image: /images/initiatives/Singpass-05.jpeg
 ---
+
 # Digital Government Services
 
 To empower citizens to live, work, play, interact and transact better with each other and the Government, we have built tech-enabled solutions that meet these needs. Find out more about these services:

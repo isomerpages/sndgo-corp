@@ -2,9 +2,11 @@
 title: Smart Business Initiatives
 permalink: /initiatives/business
 third_nav_title: Business
-description: ""
+description: Learn how our business initiatives are helping companies here stay
+  vibrant and competitive.
 image: /images/initiatives/business-grant-portal-overview.jpeg
 ---
+
 
 # Business Initiatives
 

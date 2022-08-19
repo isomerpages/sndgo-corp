@@ -2,9 +2,12 @@
 title: Smart Transport Initiatives
 permalink: /initiatives/transport
 third_nav_title: Transport
-description: ""
+description: "With more than 1 million vehicles on the road and counting, we
+  face the ongoing challenge of designing more efficient, safe and reliable
+  transportation systems for Singapore. "
 image: /images/initiatives/smart-urban-mobility.jpg
 ---
+
 
 # Transport in a Smart Nation 
 Currently, our Government has set aside 12% of our land area for roads and infrastructure. Considering our small land size, this is a significant percentage.

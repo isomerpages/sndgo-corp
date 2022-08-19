@@ -2,9 +2,14 @@
 title: Autonomous Vehicles
 permalink: /initiatives/transport/autonomous-vehicles
 third_nav_title: Transport
-description: ""
+description: Imagine a day when your family car drives your children to school,
+  takes you to work and brings your elderly parents out to lunch—all by itself.
+  Your job is just to schedule the various trips. Sounds too good to be true? It
+  may not be as farfetched as you think, thanks to self-driving autonomous
+  vehicles (AVs)!
 image: /images/initiatives/gbtb-auto-rider-night.jpeg
 ---
+
 # Driving Into the Future
 ![Self driving illustration](/images/initiatives/self-driving-vehicle-lta.jpg)
 *(Image: Land Transport Authority)*

@@ -2,9 +2,13 @@
 title: Multilingual Digital Services
 permalink: /initiatives/digital-government-services/multilingual-digital-services
 third_nav_title: Digital Government Services
-description: ""
+description: "To ensure that our Government digital services are accessible by a
+  wide segment of society, we have been rolling out multilingual options since
+  October 2018, mainly for digital services that are widely and commonly used by
+  citizens. "
 image: /images/initiatives/multilingual-digital-services.jpeg
 ---
+
 
 
 # Tech that Speaks Your Language

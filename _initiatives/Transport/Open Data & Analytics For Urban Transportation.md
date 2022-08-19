@@ -2,9 +2,14 @@
 title: Open Data & Analytics For Urban Transportation
 permalink: /initiatives/transport/open-data-analytics
 third_nav_title: Transport
-description: ""
+description: The Land Transport Authority (LTA) has been using these sensors to
+  gather information on buses’ real-time location and arrival times at various
+  stops to improve their transport planning. LTA has also been collecting
+  anonymised data from commuters’ fare cards to help identify commuter hotspots,
+  which enables them to better manage bus fleets and commuter demand.
 image: /images/initiatives/smart-urban-mobility.jpg
 ---
+
 # Enhancing Public Transport Using Data
 ![SG Traffic Watch screenshot](/images/initiatives/SG-Traffic-watch.jpeg) 
 

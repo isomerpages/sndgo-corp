@@ -2,9 +2,10 @@
 title: Milestones
 permalink: /about-smart-nation/our-journey/milestones
 third_nav_title: Our Smart Nation Journey
-description: ""
+description: See how we have progressed as a Smart Nation.
 image: /images/og-image/Milsestones-OG-Image.jpg
 ---
+
 # Milestones of Singapore’s Smart Nation story
 
 ![Our Smart Nation Milestones](/images/abt-smart-nation/Milestones.jpg)
