@@ -194,8 +194,6 @@ src="/images/community/Builder%20Partners/NLB_Logo.jpeg" alt="National Library B
 
 <br>
 
----
-<br>
 <div style="width:50%;height:50%;"><img src="/images/Banners/sgt-logo.jpeg" alt="Singapore Together Movement"></div>
 
 *This initiative is organised in support of [Singapore Together](www.sg) movement.*
