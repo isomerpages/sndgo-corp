@@ -7,7 +7,6 @@ description: The Smart Nation Builder is a 12m-long truck fitted with
   Singapore’s tech initiatives and digital Government services.
 image: /images/community/builder/Smart_Nation_Builder_12.jpeg
 ---
-
 # Hop on the Smart Nation Builder 
 
 <br>
@@ -192,3 +191,11 @@ src="/images/community/Builder%20Partners/NLB_Logo.jpeg" alt="National Library B
 
 
 ![Smart Nation Builder](/images/community/builder/Smart_Nation_Builder_15.jpeg)
+
+<br>
+
+---
+<br>
+<div style="width:50%;height:50%;"><img src="/images/Banners/sgt-logo.jpeg" alt="Singapore Together Movement"></div>
+
+*This initiative is organised in support of [Singapore Together](www.sg) movement.*
