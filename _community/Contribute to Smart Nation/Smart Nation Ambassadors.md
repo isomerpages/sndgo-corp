@@ -98,6 +98,16 @@ For more updates on Smart Nation events, [follow us on Telegram](https://t.me/S
 
 <br>
 
+----
+
+<br>
+*In support of *
+<div style="width:33%;height:33%;"><a href="https://www.sg"><img src="/images/Banners/sgt-logo.jpeg" alt="Singapore Together Movement"></a> </div>
+
+<br>
+
+<br>
+
 ***
 
 [^1]: *As of Jan 2022.*
