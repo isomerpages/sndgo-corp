@@ -8,7 +8,6 @@ description: GovWallet is an e-wallet feature that Government agencies can use
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
 
-
 ## Factsheet – GovWallet
 
 **2 Mar 2022**
@@ -34,13 +33,14 @@ Another collaboration is the creation of GovCash with the Central Provident Fund
 ### What’s next?
 
 To provide even more spending options for citizens, the GovWallet team is looking to tap on the NETs payment ecosystem which has over 120,000 acceptance points across 42,000 merchants in Singapore.
-_______
+
+---
 
 #### Annex A: Screenshot of the GovWallet feature
 
-<div style="width:50%;height:50%;"><img src="/images/media-hub/press-release/2022/Screenshot-of-the-GovWallet-feature.jpg" alt="Screenshot of the GovWallet feature."></div>
+<div style="width:50%;"><img src="/images/media-hub/press-release/2022/Screenshot-of-the-GovWallet-feature.jpg" alt="Screenshot of the GovWallet feature."></div>
 
-_______
+---
 
 **For media enquiries, please contact:**
 
