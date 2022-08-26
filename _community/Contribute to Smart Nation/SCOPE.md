@@ -48,3 +48,10 @@ Since 2018, 29 SCOPE surveys have been done, and more than 83,000 citizens have 
 ## Tap on our SCOPE platform to gather feedback
 
 Public agencies who need help to gather feedback on digital product and services, can register your interest to tap on our SCOPE platform here: [https://go.gov.sg/register-scope-ccg](https://go.gov.sg/register-scope-ccg).
+
+<br>
+
+<em>In support of</em> 
+<div style="width:33%;height:33%;"><a href="https://www.sg"><img src="/images/Banners/sgt-logo.jpeg" alt="Singapore Together Movement"></a> </div>
+
+<br>

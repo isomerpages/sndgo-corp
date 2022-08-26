@@ -6,7 +6,6 @@ description: SNA CCG enables public agencies to connect with specific
 image: /images/community/CCG/SNACCG_01.jpeg
 third_nav_title: Contribute to Smart Nation
 ---
-
 # Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)
 
 ![SNA CCG](/images/community/CCG/SNACCG_01.jpeg)
@@ -50,3 +49,10 @@ If you are interested in participating in our focus group discussions with the c
 ## Tap on SNA CCG to engage community groups
 
 Public agencies who are keen to tap on SNA CCG, can register your interest here: [https://go.gov.sg/register-scope-ccg](https://go.gov.sg/register-scope-ccg).
+
+<br>
+
+<em>In support of</em> 
+<div style="width:33%;height:33%;"><a href="https://www.sg"><img src="/images/Banners/sgt-logo.jpeg" alt="Singapore Together Movement"></a> </div>
+
+<br>
