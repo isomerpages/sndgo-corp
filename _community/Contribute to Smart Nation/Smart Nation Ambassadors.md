@@ -101,12 +101,11 @@ For more updates on Smart Nation events, [follow us on Telegram](https://t.me/S
 ----
 
 <br>
-*In support of *
+<em>In support of</em> 
 <div style="width:33%;height:33%;"><a href="https://www.sg"><img src="/images/Banners/sgt-logo.jpeg" alt="Singapore Together Movement"></a> </div>
 
 <br>
 
-<br>
 
 ***
 
