@@ -163,6 +163,7 @@ src="/images/community/Builder%20Partners/Science_Centre_Singapore_Logo.jpeg" al
 	</div>
 	
 <div class="col">
+</div>
 	
 </div>	
 	
