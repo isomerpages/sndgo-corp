@@ -146,10 +146,8 @@ Catch the Smart Nation Builder at these locations:
 
 | Date | Time| Venue 
 | -------- | -------- | -------- |  
-|**5 - 7 Aug** <br> Fri - Sun | 11am - 7pm| **Bayfront Event Square, Marina Bay Sands** <br> 12A Bayfront Ave, Singapore 018970
-| **9 Aug** <br> Tue<br> **10 Aug**<br> Wed | 12pm - 8pm<br><br> 10am - 6pm| **Marina Barrage** <br> 8 Marina Gardens Drive, Singapore 018951
-| **12 - 14 Aug** <br> Fri - Sun | 11am - 7pm| **Plaza Singapura** <br> 68 Orchard Road, Singapore 238839
-| **26 - 28 Aug** <br> Fri - Sun | 10am - 6pm| **Pasir Ris East Community Centre** <br> 1 Pasir Ris Drive 4, Singapore 519457
+|**3 - 4 Sep** <br> Sat - Sun | 10am - 5pm| **Science Centre Singapore** <br> 15 Science Centre Road, Singapore 609081
+| **9 - 11 Sep** <br> Fri - Sun | 10am - 6pm| **Bukit Panjang Community Centre** <br> 8 Pending Road, Singapore 678295
 
 #### Venue partners
 
@@ -160,29 +158,12 @@ Catch the Smart Nation Builder at these locations:
 </div>
 	
 <div class="col">
-<img
-src="/images/community/Builder%20Partners/NLB_Logo.jpeg" alt="National Library Board">
+	<img
+src="/images/community/Builder%20Partners/Science_Centre_Singapore_Logo.jpeg" alt="Science Centre Singapore"> 
 	</div>
 	
 <div class="col">
-<img src="/images/community/Builder%20Partners/URA%20Logo.jpeg" alt="Urban Development Authority"> 
-	</div>
-	
-</div>	
-	
-<div class="row" style="padding: 20px 0px 0px 0px;">
-	
-<div class="col"> 
-<img src="/images/community/Builder%20Partners/Marina_Bay_Sands_Logo.jpeg" alt="MBS">
-	</div>
-
-<div class="col">
-<img src="/images/community/Builder%20Partners/Marina_Barrage_Logo.jpeg" alt="Marina Barrage">
- </div>
-	
-<div class="col">
-<img src="/images/community/Builder%20Partners/Sustainable_SG_Logo.jpeg" alt="SSG">
- </div>
+</div>
 	
 </div>	
 	
