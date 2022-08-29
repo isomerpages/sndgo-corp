@@ -162,6 +162,8 @@ Catch the Smart Nation Builder at these locations:
 src="/images/community/Builder%20Partners/Science_Centre_Singapore_Logo.jpeg" alt="Science Centre Singapore"> 
 	</div>
 	
+<div class="col">
+	
 </div>	
 	
 ### Watch this space for more updates on the Smart Nation Builder! 
