@@ -158,29 +158,9 @@ Catch the Smart Nation Builder at these locations:
 </div>
 	
 <div class="col">
-<img
-src="/images/community/Builder%20Partners/NLB_Logo.jpeg" alt="National Library Board">
+	<img
+src="/images/community/Builder%20Partners/Science_Centre_Singapore_Logo.jpeg" alt="Science Centre Singapore"> 
 	</div>
-	
-<div class="col">
-<img src="/images/community/Builder%20Partners/URA%20Logo.jpeg" alt="Urban Development Authority"> 
-	</div>
-	
-</div>	
-	
-<div class="row" style="padding: 20px 0px 0px 0px;">
-	
-<div class="col"> 
-<img src="/images/community/Builder%20Partners/Marina_Bay_Sands_Logo.jpeg" alt="MBS">
-	</div>
-
-<div class="col">
-<img src="/images/community/Builder%20Partners/Marina_Barrage_Logo.jpeg" alt="Marina Barrage">
- </div>
-	
-<div class="col">
-<img src="/images/community/Builder%20Partners/Sustainable_SG_Logo.jpeg" alt="SSG">
- </div>
 	
 </div>	
 	
