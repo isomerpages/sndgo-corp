@@ -1,12 +1,11 @@
 ---
 title: Apps For You
-permalink: /community/apps-for-you
+permalink: /community/apps-for-you/
 description: Want to register your child’s birth, check on the weather, report
   municipal issues or borrow an audio book? There’s an app for that. Check them
   out here.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
 ![Apps for you](/images/community/headerimages/apps-for-you.png)
 
 
@@ -79,7 +78,7 @@ Want to register your child’s birth, check on the weather, report municipal is
       <img src="/images/community/apps/Healthy-365.jpg" alt="Healthy 365">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.healthhub.sg/rewards" target="_blank">Healthy 365</a><br>
+      	<a href="https://hpb.gov.sg/healthy-living/healthy-365" target="_blank">Healthy 365</a><br>
    <br>
 	The must-have app for the National Steps Challenge, an initiative encouraging Singaporeans to adopt a more active lifestyle. Healthy 365 also tracks one’s health and diet. <br>
 	<br>
