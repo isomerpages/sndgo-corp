@@ -1,6 +1,6 @@
 ---
 title: Smart Nation Builder
-permalink: /community/showcases/builder
+permalink: /community/showcases/builder/
 third_nav_title: Showcases
 description: The Smart Nation Builder is a 12m-long truck fitted with
   interactive game stations for members of the public to learn more about
@@ -147,7 +147,7 @@ Catch the Smart Nation Builder at these locations:
 | Date | Time| Venue 
 | -------- | -------- | -------- |  
 |**3 - 4 Sep** <br> Sat - Sun | 10am - 5pm| **Science Centre Singapore** <br> 15 Science Centre Road, Singapore 609081
-| **9 - 11 Sep** <br> Fri - Sun | 10am - 6pm| **Bukit Panjang Community Centre** <br> 8 Pending Road, Singapore 678295
+| **9 - 11 Sep** <br> Fri - Sun | 10am - 6pm| **Bukit Panjang Community Club** <br> 8 Pending Road, Singapore 678295
 
 #### Venue partners
 
