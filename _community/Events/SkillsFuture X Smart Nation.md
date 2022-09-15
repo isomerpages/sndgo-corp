@@ -1,19 +1,19 @@
 ---
 title: SkillsFuture X Smart Nation
-permalink: /community/Events/sfxsn
+permalink: /community/Events/sfxsn/
 description: SkillsFuture X Smart Nation is jointly organised by the Smart
   Nation & Digital Government Office (SNDGO) and SkillsFuture Singapore (SSG).
 third_nav_title: Events
 image: /images/community/events/sn-skillsfuture-02.jpeg
 ---
-
 # SkillsFuture Festival X Smart Nation 2022 
 
 ![SkillsFuture Festival X Smart Nation 2022](/images/community/events/SkillsFutureXSmartNation2022.jpg)
 
-Keen on a career in tech? SkillsFuture Festival X Smart Nation features an exciting line-up of roadshow activities for you to discover upskilling and job opportunities as well as free webinars to equip you with digital skills.
+Close to 7,000 people visited the SkillsFuture Festival X Smart Nation 2022 roadshow to learn about in-demand tech skills and discover upskilling opportunities for themselves. 
 
-Click on the link to find out more about [SkillsFuture Festival X Smart Nation 2022](https://skillsfuturefestival.sg/).
+![SkillsFuture Festival 2022](/images/community/events/SFXSN2022_05.jpeg)
+
 # SkillsFuture Month X Smart Nation 2021
 <br>
 
