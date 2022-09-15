@@ -8,11 +8,9 @@ image: /images/community/events/sn-skillsfuture-02.jpeg
 ---
 # SkillsFuture Festival X Smart Nation 2022 
 
-![SkillsFuture Festival X Smart Nation 2022](/images/community/events/SkillsFutureXSmartNation2022.jpg)
+![SkillsFuture Festival 2022](/images/community/events/SFXSN2022_05.jpeg)
 
 Close to 7,000 people visited the SkillsFuture Festival X Smart Nation 2022 roadshow to learn about in-demand tech skills and discover upskilling opportunities for themselves. 
-
-![SkillsFuture Festival 2022](/images/community/events/SFXSN2022_05.jpeg)
 
 # SkillsFuture Month X Smart Nation 2021
 <br>
