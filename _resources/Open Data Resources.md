@@ -1,11 +1,9 @@
 ---
 title: Open Data Resources
-permalink: /resources/open-data
+permalink: /resources/open-data/
 description: Data is the new currency, and with open data, the possibilities are endless!
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
-
 ![Open data resources for government data](/images/resources/open-government-data.jpeg)
 
 Data is the new currency, and with open data, the possibilities are endless!
@@ -40,16 +38,15 @@ A variety of transport-related datasets and APIs for members of the public and t
 
 The Monetary Authority of Singapore’s APIs provide financial institutions and application service providers more opportunities to serve their customers better. Users can also automate the extraction of data and illustrate trends easily and quickly with these APIs.
 
-### <a href="https://www.ndi-api.gov.sg/" target="_blank">NDI Developer and Partner Portal</a>
-<div style="width:50%"><img src="/images/resources/ndi-api-logo.png"></div>
-
-Allowing businesses and developers access to the information and tools to experiment, build and test solutions quickly and securely. Access NDI API specifications, use the online tutorials to guide development of applications or use the sandbox to visualise new customer journeys. The portal also allows businesses with a valid Corppass account to submit link-up requests for selected APIs, and on-board your business use cases.
-
 ### <a href="http://www.onemap.sg/" target="_blank">OneMap</a>
 <div style="width:50%"><img src="/images/resources/onemaplogo.jpeg"></div>
 
 A one-stop integrated geospatial data sharing platform where government agencies share location-based services and information. OneMap APIs allow users to embed an interactive Map on websites. And with the extensive set of JavaScript APIs available, users will also be able to mashup their own data or the Themes available in OneMap's repository on the basemap.
 
+### <a href="https://api.singpass.gov.sg/" target="_blank">Singpass API</a>
+<div style="width:50%"><img src="/images/resources/Singpass%20API.jpg"></div>
+
+Integrate with our Singpass APIs. Create a trusted digital ecosystem where data and services can transcend the boundaries of organisations.
 
 ### <a href="https://www.singstat.gov.sg/find-data" target="_blank">SingStat Website</a>
 <div style="width:50%"><img src="/images/resources/singstat.jpeg"></div>
