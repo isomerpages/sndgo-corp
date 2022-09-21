@@ -14,4 +14,7 @@ third_nav_title: Digital Government Services
 
 For every task completed, participants can earn virtual Coins that can be used to redeem rewards, such as vouchers.
 
-![CrowdTaskSG](/images/initiatives/Crowdtasksg-03.jpg)
+<div style="width:50%"> <img src="/images/initiatives/Crowdtasksg-03.jpg"></div>
+
+
+
