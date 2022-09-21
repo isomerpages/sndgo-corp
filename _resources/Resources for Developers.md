@@ -3,7 +3,7 @@ title: Resources for Developers
 permalink: /resources/for-developers/
 description: ""
 ---
-# Singapore Government Developer Portal</a>
+# Singapore Government Developer Portal
 
 ![Singapore Government Developer Portal](/images/initiatives/sgdeveloperportal-01.jpg)
 
