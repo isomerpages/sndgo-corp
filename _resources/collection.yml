@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Business Resources.md
-      - Open Data Resources.md
+      - Data Resources & APIs.md
+      - Resources for Developers.md
