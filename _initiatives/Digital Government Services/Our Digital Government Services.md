@@ -96,14 +96,14 @@ To empower citizens to live, work, play, interact and transact better with each 
 <div class="row">
 
 <div class="col">
-<a href="/initiatives/digital-government-services/parents-gateway"><img src="/images/initiatives/overview-pages/parents-gateway.png" alt="Parents Gateway"></a><br>
+<a href="/initiatives/digital-government-services/parents-gateway"><img src="/images/initiatives/sgtranslate-01.jpg" alt="Parents Gateway"></a><br>
     <div class="header"><b>SG Translate Together</b></div><br>
     <div class="para">A platform for schools to quickly seek consent or update parents on administrative matters.
 </div>
 	<br></div>
 	
 <div class="col">
-<a href="/initiatives/digital-government-services/parents-gateway"><img src="/images/initiatives/overview-pages/parents-gateway.png" alt="Parents Gateway"></a><br>
+<a href="/initiatives/digital-government-services/parents-gateway"><img src="/images/initiatives/sgdeveloperportal-01.jpg" alt="Parents Gateway"></a><br>
     <div class="header"><b>Singapore Government Developer Portal</b></div><br>
     <div class="para">A one-stop resource hub for government digital products and services for developers.
 </div>
