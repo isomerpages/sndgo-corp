@@ -43,7 +43,7 @@ To empower citizens to live, work, play, interact and transact better with each 
 <div class="row">
 
 <div class="col"> 
-<a href="/initiatives/digital-government-services/multilingual-digital-services"><img src="/images/initiatives/Crowdtasksg-01.jpg" alt="Multilingual Digital Services"></a><br>
+<a href="/initiatives/digital-government-services/multilingual-digital-services"><img src="/images/initiatives/Crowdtasksg-01.jpg" alt="CrowdTaskSG"></a><br>
     <div class="header"><b>CrowdTaskSG</b></div><br>
     <div class="para">CrowdTaskSG is a web portal for government agencies in Singapore to engage citizens and gather insights through crowdsourcing tasks.
 </div>
@@ -96,14 +96,14 @@ To empower citizens to live, work, play, interact and transact better with each 
 <div class="row">
 
 <div class="col">
-<a href="/initiatives/digital-government-services/parents-gateway"><img src="/images/initiatives/sgtranslate-01.jpg" alt="Parents Gateway"></a><br>
+<a href="/initiatives/digital-government-services/parents-gateway"><img src="/images/initiatives/sgtranslate-01.jpg" alt="SG Translate Together"></a><br>
     <div class="header"><b>SG Translate Together</b></div><br>
-    <div class="para">A platform for schools to quickly seek consent or update parents on administrative matters.
+    <div class="para">SG Translate Together is a web portal that allows users to generate localised translations
 </div>
 	<br></div>
 	
 <div class="col">
-<a href="/initiatives/digital-government-services/parents-gateway"><img src="/images/initiatives/sgdeveloperportal-01.jpg" alt="Parents Gateway"></a><br>
+<a href="/initiatives/digital-government-services/parents-gateway"><img src="/images/initiatives/sgdeveloperportal-01.jpg" alt="Singapore Government Developer Porta"></a><br>
     <div class="header"><b>Singapore Government Developer Portal</b></div><br>
     <div class="para">A one-stop resource hub for government digital products and services for developers.
 </div>
