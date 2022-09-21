@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Business Resources.md
-      - Data Resources & APIs.md
+      - Data Resources.md
