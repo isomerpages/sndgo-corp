@@ -105,7 +105,7 @@ To empower citizens to live, work, play, interact and transact better with each 
 <div class="col">
 <a href="/initiatives/digital-government-services/parents-gateway"><img src="/images/initiatives/sgdeveloperportal-01.jpg" alt="Singapore Government Developer Porta"></a><br>
     <div class="header"><b>Singapore Government Developer Portal</b></div><br>
-    <div class="para">A one-stop resource hub for government digital products and services for developers.
+    <div class="para">A one-stop resource hub for government digital products and services.
 </div>
 	<br></div>
 
