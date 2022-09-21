@@ -108,6 +108,10 @@ To empower citizens to live, work, play, interact and transact better with each 
     <div class="para">A one-stop resource hub for government digital products and services for developers.
 </div>
 	<br></div>
+
+<div class="col"></div>	
+	
+</div>
 	
 **Strategic National Project*
 
