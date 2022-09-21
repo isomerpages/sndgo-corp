@@ -2,6 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - APIs.md
       - Business Resources.md
       - Data Resources & APIs.md
