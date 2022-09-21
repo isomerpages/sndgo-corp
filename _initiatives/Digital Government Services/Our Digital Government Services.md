@@ -43,7 +43,7 @@ To empower citizens to live, work, play, interact and transact better with each 
 <div class="row">
 
 <div class="col"> 
-<a href="/initiatives/digital-government-services/multilingual-digital-services"><img src="/images/initiatives/Crowdtasksg-01.jpg" alt="CrowdTaskSG"></a><br>
+<a href="/initiatives/Digital-Government-Services/CrowdTaskSG/"><img src="/images/initiatives/Crowdtasksg-01.jpg" alt="CrowdTaskSG"></a><br>
     <div class="header"><b>CrowdTaskSG</b></div><br>
     <div class="para">CrowdTaskSG is a web portal for government agencies in Singapore to engage citizens and gather insights through crowdsourcing tasks.
 </div>
