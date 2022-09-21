@@ -96,7 +96,7 @@ To empower citizens to live, work, play, interact and transact better with each 
 <div class="row">
 
 <div class="col">
-<a href="/initiatives/digital-government-services/parents-gateway"><img src="/images/initiatives/sgtranslate-01.jpg" alt="SG Translate Together"></a><br>
+<a href="/initiatives/Digital-Government-Services/sg-translate-together/"><img src="/images/initiatives/sgtranslate-01.jpg" alt="SG Translate Together"></a><br>
     <div class="header"><b>SG Translate Together</b></div><br>
     <div class="para">SG Translate Together is a web portal that allows users to generate localised translations
 </div>
