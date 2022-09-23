@@ -1,6 +1,6 @@
 ---
 title: National AI Strategy
-permalink: /initiatives/artificial-intelligence
+permalink: /initiatives/artificial-intelligence/
 description: By 2030, we see Singapore as a leader in developing and deploying
   scalable, impactful artificial intelligence (AI) solutions, in key sectors of
   high value and relevance to our citizens and businesses.
@@ -103,10 +103,13 @@ The Government supports your participation in our AI ecosystem with the followin
 
 It’s crucial for every Singaporean to upgrade and improve our skills so that we can keep up with the advances of AI and be ready to take on the exciting jobs that are created.
 
+The business and research communities should also have a good understanding of worldwide technology trends in AI to stay ahead of the innovation curve.
+
 Learn and gain access to AI technology through these programmes:
 
 - [AI Singapore Talent Development Programmes](https://www.aisingapore.org/talentdevelopment/) offer learning opportunities for all with courses such as the AI Apprenticeship Programme, AI for Everyone, AI for Industry, AI for Students, and AI for Kids.  
 - [TechSkills Accelerator (TeSA)](https://www.imda.gov.sg/imtalent/about-us/national-talent-development-initiatives/techskills-accelerator--tesa) works with industry partners and employers to offer various programmes for both  ICT and non-ICT professionals to upgrade or develop new skills to meet growing demand.  
 - [SkillsFuture for Digital Workplace program](https://www.skillsfuture.gov.sg/digitalworkplace) is a course designed to help Singaporeans understand the fundamentals of AI and how it can be applied in their workplaces and daily lives. The curriculum includes content developed by SSG and IBM.
+- [Tech Insights through Patents (TIP) tool](https://lnkd.in/gihq5zJ4) developed by IPOS International helps innovators understand patenting trends through an easy-to-navigate interface, making patent data more accessible. Leverage the power of this interactive tool to uncover hidden intelligence and keep abreast of technological advances.
 
 [Return to top](#the-next-frontier-of-singapores-smart-nation-journey)
