@@ -1,7 +1,7 @@
 ---
 title: FinTech Sandbox
-permalink: /initiatives/business/fintech
-third_nav_title: Business
+permalink: /initiatives/business/fintech/
+third_nav_title: Business & Finance
 description: Financial technology, or FinTech, is evolving quickly and changing
   the way business is and will be done. As one of the world’s financial hubs,
   Singapore will have to keep pace with these changes, and the Monetary
@@ -9,6 +9,7 @@ description: Financial technology, or FinTech, is evolving quickly and changing
   Centre.
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
+
 
 # Pushing Boundaries with Singapore’s Very Own FinTech Sandbox
 ![Singapore's central business district](/images/initiatives/Fintech-sandbox.jpg)
