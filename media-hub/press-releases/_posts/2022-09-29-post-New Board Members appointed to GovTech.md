@@ -82,20 +82,22 @@ Mr Shonn Mills is Global Director at Ramboll. He has over 30 years of experienc
 
 **Mr Noah Pepper** *(Member)*<br><br>
 Mr Noah Pepper is currently working on a new venture headquartered in Singapore, returning to his startup roots. He was most recently Head of APAC at Stripe overseeing business strategy and execution in the region, product and engineering teams across Singapore, Japan, and India. Before moving to Singapore, he managed Stripe's Applications group including creation of products like Stripe Invoicing, Stripe Billing, and Stripe Capital. Prior to Stripe, Mr Pepper held product and engineering leadership roles at Twitter, which acquired the company Lucky Sort where he was co-founder and CEO.
+
+**Ms Vaishali Rastogi** *(Member)*<br><br>
+Ms Vaishali Rastogi is the Head of BCG’s Global Technology, Media, and Telecommunications business. Previously, Ms Rastogi led BCG’s Southeast Asia business as Managing Partner, where she steered its expansion into digital, analytics and transformation practices, and doubled the size of the overall team. She has held several leadership positions at BCG, and was part of BCG's Global Executive Committee responsible for the firm’s strategy and governance. She has served on the Asia management team, and was the co-leader for BCG’s sales work globally. She was also the Asia-Pacific leader for BCG’s Marketing, Sales & Pricing business.
 																																													
 _______
 
 **For media enquiries, please contact:**
 
-**Cristiano Peswani (Mr)**<br>
-Manager, Adoption and Engagement Directorate<br>
-Smart Nation and Digital Government Office, Prime Minister’s Office<br>
-Tel: 9674 5524<br>
-Email: [cristiano_peswani@pmo.gov.sg](mailto:cristiano_peswani@pmo.gov.sg)
+**Lester Wong (Mr)**<br>
+Manager, Communications and Marketing Group<br>
+Government Technology Agency of Singapore<br>
+Tel: 9190 5932<br>
+Email: [lester_wong@tech.gov.sg](mailto:lester_wong@tech.gov.sg)
 
-**Goh Yu Chong (Mr**)<br>
-Assistant Director, Public and International Communications<br>
+**Chia Suat Ning (Ms)**<br>
+Manager, Adoption and Engagement Directorate <br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
-Tel: 9644 1674<br>
-Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
-
+Tel: 8182 8052<br>
+Email: [chia_suat_ning@pmo.gov.sg](mailto:Chia_Suat_Ning@pmo.gov.sg)
