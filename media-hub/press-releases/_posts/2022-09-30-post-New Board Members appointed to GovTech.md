@@ -29,6 +29,8 @@ These are the key changes:
 
 #### Re-appointment of Board Members
 
+<br>
+
 *   Mr Joseph Leong (Chairman), Permanent Secretary, Smart Nation and Digital Government
 
 *   Mr Chng Kai Fong, Second Permanent Secretary, Smart Nation and Digital Government
