@@ -7,7 +7,6 @@ description: Changes to the Board of the Government Technology Agency (GovTech)
   will come into effect from 1 October 2022.
 image: ""
 ---
-
 ## New Board Members appointed to the Government Technology Agency
 
 **30 Sep 2022**
@@ -16,7 +15,7 @@ The Smart Nation and Digital Government Group (SNDGG) today announced changes to
 
 These are the key changes:
 
-#### Appointment of New Board Members
+**Appointment of New Board Members**
 
 *   Ms Stacey N. Lacy, Asia Pacific Chief Information Officer and Head of Operations & Technology, Citi
 
