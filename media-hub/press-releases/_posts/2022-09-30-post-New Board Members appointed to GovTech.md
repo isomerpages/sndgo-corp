@@ -53,7 +53,7 @@ These are the key changes:
 
 *   Mr Mervyn Tan, Chief Executive, Defence Science and Technology Agency
 
-#### Board Members stepping down
+##### Board Members stepping down
 
 *   Ms Mariam Jaafar, Partner and Managing Director, Boston Consulting Group
 
