@@ -27,9 +27,7 @@ These are the key changes:
 
 *   Ms Vaishali Rastogi, Global Leader of Technology, Media and Telecommunications Business, BCG
 
-#### Re-appointment of Board Members
-
-<br>
+**Re-appointment of Board Members**
 
 *   Mr Joseph Leong (Chairman), Permanent Secretary, Smart Nation and Digital Government
 
@@ -53,7 +51,7 @@ These are the key changes:
 
 *   Mr Mervyn Tan, Chief Executive, Defence Science and Technology Agency
 
-##### Board Members stepping down
+**Board Members stepping down**
 
 *   Ms Mariam Jaafar, Partner and Managing Director, Boston Consulting Group
 
