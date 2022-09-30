@@ -70,11 +70,11 @@ _______
 #### Annex A: Bios of GovTech’s New Board Members
 
 
-**Ms Stacey Lacy | 利吴诗韵** *(Member)*<br><br>
+**Ms Stacey Lacy** | 利吴诗韵 *(Member)*<br><br>
 Ms Stacey Lacy is the Asia Pacific Chief Information Officer and Head of Operations & Technology at Citi. She is responsible for the delivery of client-focused initiatives, operations and technology, and shared services deployment for the bank across the institutional clients group, personal banking and wealth management businesses in the region. She has been in Citi for over 25 years, and has previously held various operations and tech roles within the bank.
 
 
-**Mr Liew Nam Soon | 刘南顺** *(Member)*<br><br>
+**Mr Liew Nam Soon** | 刘南顺 *(Member)*<br><br>
 Mr Liew Nam Soon is responsible for business performance and client services in assurance, consulting, tax, strategy and transactions across 14 geographic markets. He has extensive consulting and industry experience in business strategy, technology transformation, governance, compliance and managed services, across Financial Services and Technology sectors. He works with organizations to create value through business and digital transformation, building ecosystems across industries and is also an advisor to boards.
 
 **Mr Shonn Mills** *(Member)*<br><br>
