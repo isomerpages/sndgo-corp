@@ -146,21 +146,18 @@ Catch the Smart Nation Builder at these locations:
 
 | Date | Time| Venue 
 | -------- | -------- | -------- |  
-|**3 - 4 Sep** <br> Sat - Sun | 10am - 5pm| **Science Centre Singapore** <br> 15 Science Centre Road, Singapore 609081
-| **9 - 11 Sep** <br> Fri - Sun | 10am - 6pm| **Bukit Panjang Community Club** <br> 8 Pending Road, Singapore 678295
+|**7 Oct** <br> Fri <br> **8 - 9 Oct** <br> Sat - Sun | 12pm - 6pm <br> 10am - 6pm| **National Museum of Singapore** <br> 93 Stamford Road, Singapore 178897
 
 #### Venue partners
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
 <div class="col"> 
-<img src="/images/community/Builder%20Partners/Peoples_Association_Logo.jpeg" alt="People's Association">
+<img src="/images/community/Builder%20Partners/NMS%20Logo.jpeg" alt="National Museum of Singapore">
 </div>
 	
 <div class="col">
-	<img
-src="/images/community/Builder%20Partners/Science_Centre_Singapore_Logo.jpeg" alt="Science Centre Singapore"> 
-	</div>
+</div>
 	
 <div class="col">
 </div>
