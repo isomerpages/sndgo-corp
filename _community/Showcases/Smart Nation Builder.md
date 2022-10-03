@@ -146,7 +146,7 @@ Catch the Smart Nation Builder at these locations:
 
 | Date | Time| Venue 
 | -------- | -------- | -------- |  
-|**7 Oct** <br> Fri <br> **8 - 9 Oct** <br> Sat - Sun | 12pm - 6pm <br> 10am - 6pm| **National Museum of Singapore** <br> 93 Stamford Road, Singapore 178897
+|**7 Oct** <br> Fri <br> **8 - 9 Oct** <br> Sat - Sun | 12pm - 6pm <br><br> 10am - 6pm| **National Museum of Singapore** <br> 93 Stamford Road, Singapore 178897
 
 #### Venue partners
 
