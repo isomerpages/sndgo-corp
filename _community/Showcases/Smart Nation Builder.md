@@ -146,14 +146,14 @@ Catch the Smart Nation Builder at these locations:
 
 | Date | Time| Venue 
 | -------- | -------- | -------- |  
-|**7 Oct** <br> Fri <br> **8 - 9 Oct** <br> Sat - Sun | 12pm - 6pm <br><br> 10am - 6pm| **National Museum of Singapore** <br> 93 Stamford Road, Singapore 178897
+|**26 Nov** <br> Sat <br> **27 Nov** <br> Sun | 11am - 7pm <br><br> 9am - 5pm| **Marymount Community Club** <br> 191 Sin Ming Ave, Singapore 575738
 
 #### Venue partners
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col"> 
-<img src="/images/community/Builder%20Partners/NMS%20Logo.jpeg" alt="National Museum of Singapore">
+<div class="col">
+<img src="/images/community/Builder%20Partners/Peoples_Association_Logo.jpeg" alt="People's Association">
 </div>
 	
 <div class="col">
