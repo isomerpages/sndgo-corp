@@ -146,7 +146,9 @@ Catch the Smart Nation Builder at these locations:
 
 | Date | Time| Venue 
 | -------- | -------- | -------- |  
-|**26 Nov** <br> Sat <br> **27 Nov** <br> Sun | 11am - 7pm <br><br> 9am - 5pm| **Marymount Community Club** <br> 191 Sin Ming Ave, Singapore 575738
+|**12 - 13 Nov** <br> Sat - Sun | 10:30am - 6:30pm| **Jurong Regional Library** <br> 21 Jurong East Central 1, Singapore 609732
+|**19 - 20 Nov** <br> Sat - Sun | 10:30am - 6:30pm| **Jurong Regional Library** <br> 21 Jurong East Central 1, Singapore 609732
+**26 Nov** <br> Sat <br> **27 Nov** <br> Sun | 11am - 7pm <br><br> 9am - 5pm| **Marymount Community Club** <br> 191 Sin Ming Ave, Singapore 575738
 
 #### Venue partners
 
@@ -157,6 +159,9 @@ Catch the Smart Nation Builder at these locations:
 </div>
 	
 <div class="col">
+<img 
+src="/images/community/Builder%20Partners/NLB_Logo.jpeg"
+alt="National Library Board">
 </div>
 	
 <div class="col">
