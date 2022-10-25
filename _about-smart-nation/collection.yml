@@ -2,6 +2,7 @@ collections:
   about-smart-nation:
     output: true
     order:
+      - About Us/About SNDGG.md
       - About Us/.keep
       - Transforming SG Through Tech.md
       - Our Key Pillars/.keep
