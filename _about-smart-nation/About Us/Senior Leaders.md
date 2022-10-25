@@ -4,7 +4,7 @@ permalink: /about-smart-nation/senior-leaders/
 description: ""
 third_nav_title: About Us
 ---
-# Our Senior Leaders
+# SNDGO Senior Leaders
 
 |  | **Title** |
 | -------- | -------- |
