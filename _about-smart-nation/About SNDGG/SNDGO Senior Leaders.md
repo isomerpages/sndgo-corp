@@ -10,11 +10,11 @@ third_nav_title: About SNDGG
 
 <div class="col" style="padding: 10px 20px 10px 20px;"><a href="/community/showcases/cityscape"><img src="/images/abt-smart-nation/WXsndgo.jpg" alt="CityScape"></a><br>
 	
-<div style="font-size:18px"><b>Huang Weixian</b></div>Director,<br>Adoption & Engagement Directorate<br></div>
+<div style="font-size:18px"><b>Huang Weixian</b></div>Director,<br>Adoption & Engagement Directorate<br><br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"><a href="/community/showcases/cityscape"><img src="/images/abt-smart-nation/WXsndgo.jpg" alt="CityScape"></a><br>
 	
-<div style="font-size:18px"><b>Huang Weixian</b></div>Director,<br>Adoption & Engagement Directorate<br></div>
+<div style="font-size:18px"><b>Huang Weixian</b></div>Director,<br>Adoption & Engagement Directorate<br><br></div>
 	
 </div>
 
@@ -22,10 +22,10 @@ third_nav_title: About SNDGG
 
 <div class="col" style="padding: 10px 20px 10px 20px;"><a href="/community/showcases/cityscape"><img src="/images/abt-smart-nation/WXsndgo.jpg" alt="CityScape"></a><br>
 	
-<div style="font-size:18px"><b>Huang Weixian</b></div>Director,<br>Adoption & Engagement Directorate<br></div>
+<div style="font-size:18px"><b>Huang Weixian</b></div>Director,<br>Adoption & Engagement Directorate<br><br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"><a href="/community/showcases/cityscape"><img src="/images/abt-smart-nation/WXsndgo.jpg" alt="CityScape"></a><br>
 	
-<div style="font-size:18px"><b>Huang Weixian</b></div>Director,<br>Adoption & Engagement Directorate<br></div>
+<div style="font-size:18px"><b>Huang Weixian</b></div>Director,<br>Adoption & Engagement Directorate<br><br></div>
 	
 </div>
