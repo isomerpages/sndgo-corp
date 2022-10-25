@@ -12,7 +12,7 @@ description: The Smart Nation and Digital Government Office (SNDGO), under the
 image: /images/og-image/About-SNDGG-OG-Image.jpg
 third_nav_title: About Us
 ---
-# About Smart Nation Digital Government Group
+# Smart Nation Digital Government Group
 
 ![Smart Nation and Digital Government Office (SNDGO)](/images/abt-smart-nation/SNDGO_Office_01.jpg)
 
