@@ -10,11 +10,11 @@ Say hello to  leaders at the Smart Nation and Digital Government Office (SNDGO)!
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/WXsndgo.jpg" alt="Joseph Leong"><br>
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/Leaders/Joseph-Leong.jpg" alt="Joseph Leong"><br>
 	
 <div style="font-size:18px"><b>Joseph Leong</b></div>Permanent Secretary<br></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/WXsndgo.jpg" alt="Chng Kai Fong"><br>
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/Leaders/Chng-Kai-Fong.jpg" alt="Chng Kai Fong"><br>
 	
 <div style="font-size:18px"><b>Chng Kai Fong</b></div>Second Permanent Secretary<br></div>
 	
@@ -22,7 +22,7 @@ Say hello to  leaders at the Smart Nation and Digital Government Office (SNDGO)!
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/WXsndgo.jpg" alt="Sim Feng-Ji"><br>
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/Leaders/Sim-Feng-Ji.jpg" alt="Sim Feng-Ji"><br>
 	
 <div style="font-size:18px"><b>Sim Feng-Ji</b></div>Deputy Secretary<br></div>
 
