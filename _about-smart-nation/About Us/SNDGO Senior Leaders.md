@@ -10,7 +10,7 @@ image: /images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg
 
 Say hello to our leaders at the Smart Nation and Digital Government Office (SNDGO)!
 
-<div style="width:500px; justify-content:left;"><img alt="Joseph Leong" src="/images/abt-smart-nation/Leaders/Joseph-Leong.jpg"></div>
+<div style="width:500px; display:flex;justify-content:left;"><img alt="Joseph Leong" src="/images/abt-smart-nation/Leaders/Joseph-Leong.jpg"></div>
 
 <div style="width:500px; display:flex;justify-content:left;"><img alt="Chng Kai Fong" src="/images/abt-smart-nation/Leaders/Chng-Kai-Fong.jpg"></div>
 
