@@ -12,17 +12,10 @@ Say hello to our leaders at the Smart Nation and Digital Government Office (SNDG
 
 <div style="width:500px; justify-content:left;"><img alt="Joseph Leong" src="/images/abt-smart-nation/Leaders/Joseph-Leong.jpg"></div>
 
-<div style="font-size:18px;padding: 10px 0px 0px 0px"><b>Teo Chee Hean</b></div>Chairman<br>
-
-<br>
-
 <div style="width:500px; display:flex;justify-content:left;"><img alt="Chng Kai Fong" src="/images/abt-smart-nation/Leaders/Chng-Kai-Fong.jpg"></div>
-
-<div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Senior Minister<br>Teo Chee Hean</b></div>Chairman<br>
 
 <div style="width:500px; display:flex;justify-content:left;"><img alt="Sim Feng-Ji" src="/images/abt-smart-nation/Leaders/Sim-Feng-Ji.jpg"></div>
 
-<div style="font-size:18px"><b>Wang Jiun Haur</b></div>Director<br>Planning and Prioritisation<br>
 
 
 ## Directors
