@@ -4,11 +4,28 @@ permalink: /about-smart-nation/ministerial-committee/
 description: ""
 third_nav_title: About SNDGG
 ---
-
 ## Ministerial Committee
 
 SNDGG is overseen by a Ministerial Committee made up of the following members:
 <br>
+
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/Mr-TEO-Chee-Hean.jpg" alt="CityScape"><br>
+	
+<div style="font-size:18px"><b>Senior Minister Teo Chee Hean</b></div>Chairman<br></div>
+
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/Mrs-Josephine-TEO.jpg" alt="CityScape"><br>
+	
+<div style="font-size:18px"><b>Minister Josephine Teo</b></div>Second Permanent Secretary<br></div>
+
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/Mr-CHAN-Chun-Sing.jpg" alt="CityScape"><br>
+	
+<div style="font-size:18px"><b>Minister Chan Chun Sing</b></div>Second Permanent Secretary<br></div>
+	
+</div>
+
 
 |  | **Minister** | **Title** |
 | -------- | -------- | -------- |
