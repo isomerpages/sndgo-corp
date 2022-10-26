@@ -12,20 +12,36 @@ SNDGG is overseen by a Ministerial Committee made up of the following members:
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px; max-width: 150px"><img src="/images/abt-smart-nation/Mr-TEO-Chee-Hean.jpg" alt="CityScape"><br>
+<div class="col" style="padding: 10px 20px 10px 20px"><img src="/images/abt-smart-nation/Mr-TEO-Chee-Hean.jpg" alt="CityScape" style="max-width: 160px"><br>
 	
-<div style="font-size:18px; max-width: 100%"><b>Senior Minister Teo Chee Hean</b></div>Chairman<br></div>
+<div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Senior Minister<br>Teo Chee Hean</b></div>Chairman<br></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px; max-width: 150px"><img src="/images/abt-smart-nation/Mrs-Josephine-TEO.jpg" alt="CityScape"><br>
+<div class="col" style="padding: 10px 20px 10px 20px"><img src="/images/abt-smart-nation/Mrs-Josephine-TEO.jpg" alt="CityScape" style="max-width: 160px"><br>
 	
-<div style="font-size:18px; max-width: 100%"><b>Minister Josephine Teo</b></div>Second Permanent Secretary<br></div>
+<div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Minister<br>Josephine Teo</b></div>Member & Minister-in-charge of Smart Nation and Cybersecurity<br></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px; max-width: 150px"><img src="/images/abt-smart-nation/Mr-CHAN-Chun-Sing.jpg" alt="CityScape"><br>
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/Mr-CHAN-Chun-Sing.jpg" alt="CityScape" style="max-width: 160px"><br>
 	
-<div style="font-size:18px; max-width: 100%"><b>Minister Chan Chun Sing</b></div>Second Permanent Secretary<br></div>
+<div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Minister<br>Chan Chun Sing</b></div>Member & Minister-in-Charge of Public Service<br></div>
+
+</div>
+	
+<div class="row" style="padding: 20px 0px 0px 0px;">	
+	
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/Dr%20Vivian%20BALAKRISHNAN.png" alt="CityScape" style="max-width: 160px"><br>
+	
+<div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Minister<br>Vivian Balakrishnan</b></div>Member<br></div>
+	
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/Dr-Janil.jpg" alt="CityScape" style="max-width: 160px"><br>
+	
+<div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Senior Minister of State<br>Janil Puthucheary</b></div>Member & Minister-in-charge of GovTech Singapore<br></div>
+	
+<div class="col"></div>
 	
 </div>
 
+
+<br><br>
 
 |  | **Minister** | **Title** |
 | -------- | -------- | -------- |
