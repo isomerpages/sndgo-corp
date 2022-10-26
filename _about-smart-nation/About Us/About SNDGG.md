@@ -22,6 +22,6 @@ With the <a href="https://www.tech.gov.sg/" target="_blank">Government Technolog
 
 SNDGG is led by Permanent Secretary Mr Leong Weng Keong Joseph, Second Permanent Secretary Mr Chng Kai Fong and Deputy Secretary Mr Sim Feng-Ji.  
 
-![From left: Mr Chng Kai Fong, Mr Leong Weng Keong Joseph & Mr Sim Feng-Ji](/images/abt-smart-nation/SNDGO_2PS_PS_DS.jpeg)
+![Second Permanent Secretary Mr Chng Kai Fong, Permanent Secretary Mr Leong Weng Keong Joseph, and Deputy Secretary Mr Sim Feng-Ji.](/images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg)
 
 <div style="font-size:14px">From left: Second Permanent Secretary Mr Chng Kai Fong, Permanent Secretary Mr Leong Weng Keong Joseph, and Deputy Secretary Mr Sim Feng-Ji.
