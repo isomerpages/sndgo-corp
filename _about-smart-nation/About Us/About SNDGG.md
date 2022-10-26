@@ -24,4 +24,4 @@ SNDGG is led by Permanent Secretary Mr Leong Weng Keong Joseph, Second Permanent
 
 ![From left: Mr Chng Kai Fong, Mr Leong Weng Keong Joseph & Mr Sim Feng-Ji](/images/abt-smart-nation/SNDGO_2PS_PS_DS.jpeg)
 
-From left: Mr Chng Kai Fong, Mr Leong Weng Keong Joseph and Mr Sim Feng-Ji
+<div style="font-size:14px">From left: Second Permanent Secretary Mr Chng Kai Fong, Permanent Secretary Mr Leong Weng Keong Joseph, and Deputy Secretary Mr Sim Feng-Ji.
