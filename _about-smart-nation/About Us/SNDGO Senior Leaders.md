@@ -12,7 +12,7 @@ Say hello to our leaders at the Smart Nation and Digital Government Office (SNDG
 
 <div style="width:500px; display:flex;justify-content:left;"><img alt="Joseph Leong" src="/images/abt-smart-nation/Leaders/Joseph-Leong.jpg"></div>
 
-<div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Senior Minister<br>Teo Chee Hean</b></div>Chairman<br>
+<div style="font-size:18px;padding: 10px 0px 0px 0px"><b>Senior Minister</b><br></div>Teo Chee Hean</b>
 
 <div style="width:500px; display:flex;justify-content:left;"><img alt="Chng Kai Fong" src="/images/abt-smart-nation/Leaders/Chng-Kai-Fong.jpg"></div>
 
