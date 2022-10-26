@@ -20,7 +20,7 @@ The Smart Nation and Digital Government Group (SNDGG) is overseen by a Ministeri
 
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:160px;"><a href="https://www.pmo.gov.sg/cabinet/mr-chan-chun-sing"><img src="/images/abt-smart-nation/Mr-CHAN-Chun-Sing.jpg" alt="Teo Chee Hean"></a></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Minister<br>Chan Chun Sing</b></div>Member & Minister-in-Charge of Public Service<br></div>
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:160px;"><a href="https://www.pmo.gov.sg/cabinet/mr-chan-chun-sing"><img src="/images/abt-smart-nation/mr-chan-chun-sing-2.jpg" alt="Chan Chun Sing"></a></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Minister<br>Chan Chun Sing</b></div>Member & Minister-in-Charge of Public Service<br></div>
 
 </div>
 	
@@ -32,7 +32,7 @@ The Smart Nation and Digital Government Group (SNDGG) is overseen by a Ministeri
 
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:160px;"><a href="https://www.parliament.gov.sg/mps/list-of-current-mps/mp/details/janil-puthucheary"><img src="/images/abt-smart-nation/Dr-Janil.jpg"></a></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Senior Minister of State<br>Janil Puthucheary</b></div>Member & Minister-in-charge of GovTech Singapore<br></div>
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:160px;"><a href="https://www.parliament.gov.sg/mps/list-of-current-mps/mp/details/janil-puthucheary"><img src="/images/abt-smart-nation/Dr-Janil.jpg" alt="Janil Puthucheary"></a></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Senior Minister of State<br>Janil Puthucheary</b></div>Member & Minister-in-charge of GovTech Singapore<br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px"></div>
 
