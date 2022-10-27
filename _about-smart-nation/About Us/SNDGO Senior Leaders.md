@@ -91,7 +91,7 @@ third_nav_title: About Us
 
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Zhong-Ren-2.jpg" alt="Ang Zhongren"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Ang Zhongren</b></div>Director<br>Policy and Governance Office<br></div>	
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Zhong-Ren-2.jpg" alt="Ang Zhongren"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Ang Zhongren</b></div>Director<br>Policy and Governance<br></div>	
 	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
