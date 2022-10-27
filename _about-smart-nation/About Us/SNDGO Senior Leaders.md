@@ -8,7 +8,11 @@ image: /images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg
 ---
 # Our Senior Leaders
 
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Chan-Cheow-Hoe-2.jpg" alt="Chan Cheow Hoe"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Chan Cheow Hoe</b></div>Government Chief Digital Technology Officer<br></div>
 
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Chan-Cheow-Hoe-2.jpg" alt="Chan Cheow Hoe"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Chan Cheow Hoe</b></div>Government Chief Digital Technology Officer<br></div>
+
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Chan-Cheow-Hoe-2.jpg" alt="Chan Cheow Hoe"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Chan Cheow Hoe</b></div>Government Chief Digital Technology Officer<br></div>
 
 <div style="width:100%;display:flex;justify-content:left; "><div style="max-width:400px"><img src="/images/abt-smart-nation/Leaders/Joseph-Leong.jpg" alt="Ang Zhongren"></div></div>
 
