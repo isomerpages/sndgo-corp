@@ -22,4 +22,4 @@ With the <a href="https://www.tech.gov.sg/" target="_blank">Government Technolog
 
 ![Second Permanent Secretary Mr Chng Kai Fong, Permanent Secretary Mr Leong Weng Keong Joseph, and Deputy Secretary Mr Sim Feng-Ji.](/images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg)
 
-<div style="font-size:14px">From left: Second Permanent Secretary Mr Chng Kai Fong, Permanent Secretary Mr Leong Weng Keong Joseph, and Deputy Secretary Mr Sim Feng-Ji.
+<div style="font-size:14px">From left: Second Permanent Secretary Mr Chng Kai Fong, Permanent Secretary Mr Joseph Leong, and Deputy Secretary Mr Sim Feng-Ji.
