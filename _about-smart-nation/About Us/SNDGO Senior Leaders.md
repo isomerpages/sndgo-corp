@@ -6,11 +6,9 @@ description: Say hello to our leaders at the Smart Nation and Digital Government
 third_nav_title: About Us
 image: /images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg
 ---
-# SNDGO Senior Leaders
+# Our Senior Leaders
 
-Say hello to our leaders at the Smart Nation and Digital Government Office (SNDGO)!
-
-<div style="width:100%;display:flex;justify-content:left;"><div style="max-width:400px"><img src="/images/abt-smart-nation/Leaders/Joseph-Leong.jpg" alt="Ang Zhongren"></div></div>
+<div style="width:100%;display:flex;justify-content:left; "><div style="max-width:400px"><img src="/images/abt-smart-nation/Leaders/Joseph-Leong.jpg" alt="Ang Zhongren"></div></div>
 
 <div style="font-size:18px; padding: 10px 00px 10px 00px;"><b>Mr Joseph Leong</b></div>Permanent Secretary<br></div>
 
