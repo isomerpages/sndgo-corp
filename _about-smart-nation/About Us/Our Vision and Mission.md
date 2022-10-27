@@ -1,5 +1,5 @@
 ---
-title: Vision and Mission
+title: Our Vision and Mission
 permalink: /about-smart-nation/vision-mission/
 description: "Mission: A Singapore where people are more empowered to live
   meaningful and fulfilled lives, enabled seamlessly by technology, offering
@@ -7,6 +7,7 @@ description: "Mission: A Singapore where people are more empowered to live
 third_nav_title: About Us
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
+
 ![Vision and Mission](/images/abt-smart-nation/Milestones.jpg)
 
 # Our Vision
