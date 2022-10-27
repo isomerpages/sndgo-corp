@@ -10,7 +10,9 @@ image: /images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg
 
 Say hello to our leaders at the Smart Nation and Digital Government Office (SNDGO)!
 
+<div style="width:100%;display:flex;justify-content:left;"><div style="max-width:600px"><img src="/images/abt-smart-nation/ASEAN-Smart-Cities-Network.jpg" alt="ASEAN Smart Cities Network"></div></div>
 
+<div style="font-size:18px; padding: 10px 00px 00px 00px;"><b>Wang Jiun Haur</b></div>Director<br>Planning and Prioritisation<br></div>
 
 ## Directors
 
