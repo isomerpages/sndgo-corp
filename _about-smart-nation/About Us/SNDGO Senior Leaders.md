@@ -8,7 +8,7 @@ third_nav_title: About Us
 ---
 # Our Senior Leaders
 
-<div class="row" style="padding: 20px 0px 0px 0px;">
+<div class="row" style="padding: 40px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px">
 
