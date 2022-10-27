@@ -63,12 +63,16 @@ image: /images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg
 
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Weixian-2.jpg" alt="Huang Weixian"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Huang Weixian</b></div>Director<br>Adoption and Engagement</div>
-
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Li-Hong-Yi-2.jpg" alt="Li Hongyi"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Li Hongyi</b></div>Director<br>Open Government Products, GovTech Singapore</div>	
+	
 </div>
 	
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
+<div class="col" style="padding: 10px 20px 10px 20px">
+
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Weixian-2.jpg" alt="Huang Weixian"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Huang Weixian</b></div>Director<br>Adoption and Engagement</div>	
+	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
 <div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Cher-Maine-2.jpg" alt="Lim Cher Maine"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Lim Cher Maine</b></div>Director<br>Finance and Resourcing<br></div>
@@ -77,14 +81,14 @@ image: /images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg
 
 <div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Weng-Wanyi-2.jpg" alt="Weng Wanyi"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Weng Wanyi</b></div>Director<br>Government Data Office<br></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px">
-
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Patrick-Yee-2.jpg" alt="Patrick Yee"></a></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Patrick Yee</b></div>Director<br>Human Capital and Development<br></div>
-
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
+<div class="col" style="padding: 10px 20px 10px 20px">
+
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Patrick-Yee-2.jpg" alt="Patrick Yee"></a></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Patrick Yee</b></div>Director<br>Human Capital and Development<br></div>	
+	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
 <div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Chng-Zhen-Zhi-2.jpg" alt="Chan Cheow Hoe"></a></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Dr Chng Zhenzhi</b></div>Director<br>National AI Office<br></div>
@@ -93,19 +97,17 @@ image: /images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg
 
 <div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Wang-Jiun-Haur-2.jpg" alt="Wang Jiun Haur"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Wang Jiun Haur</b></div>Director<br>Planning and Prioritisation<br></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px">
-
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Zhong-Ren-2.jpg" alt="Chan Cheow Hoe"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Ang Zhongren</b></div>Director<br>Policy and Governance Officer<br></div>
-
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Zhong-Wen-2.jpg" alt="Huang Zhongwen"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Huang Zhongwen</b></div>Director<br>Smart City Projects Office<br></div>
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Zhong-Ren-2.jpg" alt="Chan Cheow Hoe"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Ang Zhongren</b></div>Director<br>Policy and Governance Officer<br></div>	
+	
+<div class="col" style="padding: 10px 20px 10px 20px">
 
-<div class="col" style="padding: 10px 20px 10px 20px"></div>
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:220px;"><img src="/images/abt-smart-nation/Leaders/Zhong-Wen-2.jpg" alt="Huang Zhongwen"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Huang Zhongwen</b></div>Director<br>Smart City Projects Office<br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px"></div>
 
