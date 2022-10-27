@@ -12,9 +12,19 @@ Say hello to our leaders at the Smart Nation and Digital Government Office (SNDG
 
 <div style="width:100%;display:flex;justify-content:left;"><div style="max-width:400px"><img src="/images/abt-smart-nation/Leaders/Joseph-Leong.jpg" alt="Ang Zhongren"></div></div>
 
-<div style="font-size:18px; padding: 10px 00px 0px 00px;"><b>Mr Joseph Leong</b></div>Permanent Secretary<br></div>
+<div style="font-size:18px; padding: 10px 00px 10px 00px;"><b>Mr Joseph Leong</b></div>Permanent Secretary<br></div>
 
+<br>
 
+<div style="width:100%;display:flex;justify-content:left;"><div style="max-width:400px"><img src="/images/abt-smart-nation/Leaders/Joseph-Leong.jpg" alt="Ang Zhongren"></div></div>
+
+<div style="font-size:18px; padding: 10px 00px 10px 00px;"><b>Mr Joseph Leong</b></div>Permanent Secretary<br></div>
+
+<br>
+
+<div style="width:100%;display:flex;justify-content:left;"><div style="max-width:400px"><img src="/images/abt-smart-nation/Leaders/Joseph-Leong.jpg" alt="Ang Zhongren"></div></div>
+
+<div style="font-size:18px; padding: 10px 00px 10px 00px;"><b>Mr Joseph Leong</b></div>Permanent Secretary<br></div>
 
 
 ## SNDGO Directors
