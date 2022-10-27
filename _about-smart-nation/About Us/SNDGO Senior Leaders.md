@@ -28,7 +28,7 @@ image: /images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg
 	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:500px;"><img src="/images/abt-smart-nation/Leaders/Sim-Feng-Ji.jpg" alt="HSim Feng-Ji"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Mr Sim Feng-Ji</b></div>Deputy Secretary</div>
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:500px;"><img src="/images/abt-smart-nation/Leaders/Sim-Feng-Ji.jpg" alt="Sim Feng-Ji"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Mr Sim Feng-Ji</b></div>Deputy Secretary</div>
 
 </div>
 
