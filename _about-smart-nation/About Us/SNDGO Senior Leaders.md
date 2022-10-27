@@ -74,7 +74,7 @@ image: /images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg
 	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Chng-Zhen-Zhi-2.jpg" alt="Chan Cheow Hoe"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Dr Chng Zhenzhi</b></div>Director<br>National AI Office<br></div>
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Chng-Zhen-Zhi-2.jpg" alt="Dr Chng Zhenzhi"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Dr Chng Zhenzhi</b></div>Director<br>National AI Office<br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
@@ -86,7 +86,7 @@ image: /images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg
 
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Zhong-Ren-2.jpg" alt="Chan Cheow Hoe"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Ang Zhongren</b></div>Director<br>Policy and Governance Officer<br></div>	
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Zhong-Ren-2.jpg" alt="Ang Zhongren"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Ang Zhongren</b></div>Director<br>Policy and Governance Officer<br></div>	
 	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
