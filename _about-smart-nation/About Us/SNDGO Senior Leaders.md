@@ -4,7 +4,9 @@ permalink: /about-smart-nation/senior-leaders/
 description: Say hello to our leaders at the Smart Nation and Digital Government
   Office (SNDGO)!
 image: /images/og-image/About-SNDGG-OG-Image.jpg
+third_nav_title: About Us
 ---
+
 
 
 # Our Senior Leaders
