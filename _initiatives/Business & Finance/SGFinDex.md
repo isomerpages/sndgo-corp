@@ -9,7 +9,6 @@ description: SGFinDex is the world's first public digital infrastructure to use
 image: /images/initiatives/SGFINDEX.jpg
 third_nav_title: Business & Finance
 ---
-
 # Singapore Financial Data Exchange (SGFinDex)
 
 <br>
@@ -44,9 +43,9 @@ third_nav_title: Business & Finance
     </div>
 </div>
 
-[SGFinDex](https://www.mas.gov.sg/development/fintech/sgfindex), which stands for Singapore Financial Data Exchange, is a joint initiative by the [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) and the Smart Nation and Digital Government Group (SNDGG), with the support of the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/). It is built on Singapore's National Digital Identity (Singpass), and developed by the public sector in collaboration with The Association of Banks in Singapore, 7 participating banks and SGX Central Depository (CDP).
+[SGFinDex](https://www.mas.gov.sg/development/fintech/sgfindex), which stands for Singapore Financial Data Exchange, is a joint initiative by the [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) and the Smart Nation and Digital Government Group (SNDGG), with the support of the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/). It is built on Singapore's National Digital Identity (Singpass), and developed by the public sector in collaboration with The Association of Banks in Singapore, SGX Central Depository (CDP), and the Life Insurance Association, Singapore (LIA Singapore).
 
-With SGFinDex, individuals can use their Singpass to retrieve their personal financial information (such as deposits, credit cards, loans, and investments) from the participating banks and CDP, and their financial information (such as HDB loans and CPF balances) from the relevant government agencies. This will help individuals better understand their overall financial health and plan their finances holistically.
+With SGFinDex, individuals can use their Singpass to retrieve their personal financial information (such as deposits, credit cards, loans, and investments) from the participating banks and CDP, their financial information (such as HDB loans and CPF balances) from the relevant government agencies, and information on their life, accident and health insurance policies held across different participating insurers. This will help individuals better understand their overall financial health and plan their finances holistically.
 
 ### Benefits of SGFinDex
 
@@ -55,4 +54,3 @@ With SGFinDex, individuals can use their Singpass to retrieve their personal fin
 2. **Secure Infrastructure** - A government owned and operated infrastructure that uses National Digital Identity (Singpass) authentication and consent framework
 
 3. **Drives Digital Transformation** - Enables data-driven innovations
-
