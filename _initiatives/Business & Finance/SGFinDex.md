@@ -54,3 +54,11 @@ With SGFinDex, individuals can use their Singpass to retrieve their personal fin
 2. **Secure Infrastructure** - A government owned and operated infrastructure that uses National Digital Identity (Singpass) authentication and consent framework
 
 3. **Drives Digital Transformation** - Enables data-driven innovations
+
+### Why should you use SGFinDex?
+
+![SGFinDex](/images/initiatives/SGFinDex-why.jpg)
+
+### What are the financial data that can be consolidated on SGFinDex?
+
+![SGFinDex](/images/initiatives/SGFinDex-what.jpg)
