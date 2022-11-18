@@ -102,6 +102,6 @@ And we look forward to many more opportunities for collaboration and for exchang
 Thank you all very, very much for your continued support and for being part of the STACK community. I hope you will enjoy the sessions and activities lined up for today and I wish you all a very meaningful conference ahead! Thank you very much.
 
 
-**Mrs Josephine Teo**<br>
-Minister for Communications and Information, <br>
-and Minister-in-charge of Smart Nation and Cybersecurity
+**Dr Janil Puthucheary**<br>
+Senior Minister of State, <br>
+Ministry of Communications and Information <br> & Ministry of Health<br>
