@@ -10,48 +10,37 @@ image: ""
 
 **28 Nov 2022**
 
-Hello, everyone. I am delighted to join you today at this event to launch Dr Anton Ravindran’s book ‘Will AI Dictate the Future’. Looking through the book, I think you will find many parallels between its contents and Singapore’s approach to Artificial Intelligence (AI). 
+### Welcome remarks
 
-### The transformative and pervasive nature of AI
+Good morning. Thank you for joining me at the Smart Nation's Grandparents' Day 2022. It’s great to see the turnout this morning.
 
-AI has huge potential to fundamentally change industries, drive economic growth and transform all areas of life. As the book illustrates, while initial momentum in AI started in the 1950s, its transformative potential is only starting to be felt. The impact of AI has been pervasive, it’s reshaped sectors as diverse as government, healthcare, law, and manufacturing. Over the next decade and more, we can expect to see AI being used to enable applications from individual use-cases, such as consumer experiences, to global use-cases, such as space exploration and addressing climate change. 
+This event has been put together with direct feedback from seniors and younger folks, to help our seniors benefit from technology, stay connected and enjoy their digital journey with their families.
 
-Singapore recognises AI’s potential, and we launched our National AI Strategy in 2019. This focuses our attention and resources at the national level to develop and deploy AI in key sectors to deliver strong social and economic impact. 
+### 'My Smart Grandparents' contest
+  
+Smart Nation also ran a social media contest calling for nominations for 'My Smart Grandparent'. Members of the public were invited to share stories of how their grandparents are ‘cool techies’.
 
-We first identified five national AI programmes in healthcare, logistics, education, smart estates, and border security. In 2021, we launched two more national AI programmes in finance and government. 
+We’re pleased to have received many nominations. There are grandparents who have a stronger social media game than some of us, and those who are savvy with all the useful apps, and never stop learning. Rachel told us about her cool Grandma who loves editing photos and sharing with her family. She’s so creative that she often cracks her family up with her funny edits. And Grandma is in her late 70s! And we have Gabriel who is in awe of his Grandpa who is totally up-to-date with good cybersecurity practices, so much so that he looks to Grandpa for cybersecurity tips! And of course there are the grandparents who totally beat the grandchildren at Roblox and Zooba.
 
-These programmes have achieved good progress in delivering real-life benefits to people. For instance, one project from our AI programme in healthcare is SELENA+, an AI system that analyses eye scans to detect diabetic retinopathy. It produces results in seconds, with accuracy levels of 90%, and the system has been deployed today in 20 clinics, improving healthcare access and outcomes for Singaporeans.
+I hope our seniors here today can take inspiration from our winners, and also find out about the digital tools we have on display here today, to bond with their families, and to improve their daily lives.  
 
-Building on this momentum, we will continue to proactively explore and pursue opportunities in new sectors where AI can significantly improve our lives and livelihoods. We look forward to active participation from the community, especially in the development and, most importantly, deployment of AI solutions. 
+### Family support is critical in seniors' digital journey
 
-### The importance of AI governance
+With increasing use of smartphones and social media, it changes the way we maintain personal relationships.  It’s easy to lose touch with family members who haven’t kept up with the changes. So for some, the analog world can become an increasingly lonely place.
 
-As AI is becoming more pervasive, the big question is whether AI will ‘dictate’ the future, as Dr Ravindran asks in the title of his book. 
+This is why we are building a digitally-inclusive society, and it starts from home. Family support is critical for seniors as they adapt to digitalisation in their daily lives. So let us all be a little more patient in helping our grandparents and seniors who are trying to navigate the digital space. Let us also find opportunities to use tech to bring families together, rather than create divides.
 
-It is a rapidly evolving technology with significant benefits, but significant risks.  For example, if the datasets of which AI is trained is not representative, you may have unintended biases, and this can cause real harm. This is why AI governance is important. As mentioned in the book, ethics and governance of the responsible practice of AI is key to prevent the misuse and abuse of technology, so that the technology can be directed towards improving outcomes.
+While some seniors have adapted to digital tools, others may still find the journey ahead daunting, especially with the rise of online scams. Families offer the first line of defence and support in creating a safe space for seniors to be curious, ask questions and learn. We must continue to empower seniors with skills and knowledge to use digital tools at hand so that they can lead a more convenient way of life.
 
-In Singapore, we have taken a balanced approach towards the governance of AI. Right now, we think it is more important to support understanding of AI risks and good governance practices, than to impose strict regulations that might stifle innovation, and not allow us to understand the benefits. But we are watching this closely.
+### Closing remarks
 
-To this end, we released the second iteration of our Model AI Governance Framework. It serves as a reference document for businesses to deploy AI at scale. We are also publishing sector-specific AI governance guidelines to address the unique challenges in each sector and guide them in the responsible use of AI.
+What we have planned for this event cannot be achieved without our partners here today. So let me extend our thanks to them, and our volunteers as well.
 
-Beyond sectorial guidelines, we are also investing in technical tools to help businesses and their stakeholders ensure that their AI systems are fair and ethical. For instance, we are developing an AI governance testing framework to help users develop a better understanding of the AI systems they interact with. We hope that all these will build confidence in our stakeholders in the use of AI and accelerate the use of the technology to transform our society for the better.
+Please give a round of applause for our partners. Thank you for working with us to create a digitally-inclusive society for all.
 
-### Putting people at the heart of AI
-
-In the book, Dr Ravindran also makes the point that the potential downside with the proliferation of AI will be most felt by individuals who are less inclined to embrace technology, and by workers who are not AI-enabled. The concern ‘Will I be replaced by AI?’ is not an unfounded one. 
-
-In Singapore, we are preparing our people to interact effectively with AI. To support general digital and AI literacy, the Ministry of Education has launched the National Digital Literacy Programme in 2020 to help our students acquire various digital skills throughout their education journey. In addition, AI Singapore (AISG) offers a range of free and paid courses on basic programming for AI and data applications through its AI for Industry programme, which is targeted at working professionals. 
-
-### Conclusion
-
-Dr Ravindran’s book has raised many issues for all stakeholders to think about as we are on the cusp of entering a new way of life enabled by AI. Given that AI technology is constantly evolving, Singapore will also have to keep pace and refine its strategies – we have much to learn from each other and the rest of the world. 
-
-I hope that this book will inspire and challenge readers, and inform how we look at the unique opportunities and challenges that AI can bring us. 
-
-Thank you.
+I wish everyone a very pleasant day ahead.
 
 
-**Dr Janil Puthucheary**<br>
+**Tan Kiat How**<br>
 Senior Minister of State, <br>
-Ministry of Communications and Information & Ministry of Health<br>
-Minister-in-charge of GovTech Singapore
+Ministry of Communications and Information & Ministry of National Development<br>
