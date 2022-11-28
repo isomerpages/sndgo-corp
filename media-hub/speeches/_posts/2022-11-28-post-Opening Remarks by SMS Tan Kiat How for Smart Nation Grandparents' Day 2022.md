@@ -41,6 +41,6 @@ Please give a round of applause for our partners. Thank you for working with us 
 I wish everyone a very pleasant day ahead.
 
 
-**Tan Kiat How**<br>
+**Mr Tan Kiat How**<br>
 Senior Minister of State, <br>
 Ministry of Communications and Information & Ministry of National Development<br>
