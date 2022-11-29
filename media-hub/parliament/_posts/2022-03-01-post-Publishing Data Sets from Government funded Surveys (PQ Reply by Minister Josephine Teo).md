@@ -1,7 +1,7 @@
 ---
 title: Publishing Data Sets from Government funded Surveys (PQ Reply by Minister
   Josephine Teo)
-permalink: /media-hub/parliament/01032022
+permalink: /media-hub/parliament/01032022/
 date: 2022-03-01
 layout: post
 description: ""
@@ -18,7 +18,7 @@ description: ""
 ### Answer
 
 
-**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
+**Written answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
 
 The Government conducts and commissions surveys across a range of issues. Survey findings are used to improve policy formulation, service delivery and communications. We strike a balance between putting out sufficient data to inform and enable robust policy discussions against considerations such as personal data protection, the sensitivity of the survey findings, and whether the data could be used adversely by hostile actors
 

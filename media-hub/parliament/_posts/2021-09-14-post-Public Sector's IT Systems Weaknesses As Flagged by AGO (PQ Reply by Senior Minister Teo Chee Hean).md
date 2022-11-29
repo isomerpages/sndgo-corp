@@ -2,13 +2,10 @@
 title: Public Sector's IT Systems Weaknesses As Flagged by AGO (PQ Reply by
   Senior Minister Teo Chee Hean)
 date: 2021-09-14
-permalink: /media-hub/parliament/20210914-a
+permalink: /media-hub/parliament/20210914-a/
 layout: post
 description: ""
 ---
-
-
-
 ## Managing user access and controls and using AI (Artificial Intelligence) and analytics to monitor and flag irregularities and derive insights
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 14 September 2021**
@@ -19,7 +16,7 @@ description: ""
 
 ### Answer
 
-**Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security**
+**Written answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security**
 
 The Report of the Auditor-General for FY 2020/21 highlighted observations of weaknesses in IT controls, including the management of account and user access rights.
 

@@ -1,6 +1,6 @@
 ---
 title: Update on LaaP (PQ Reply by Senior Minister Teo Chee Hean)
-permalink: /media-hub/parliament/14022022
+permalink: /media-hub/parliament/14022022/
 date: 2022-02-15
 layout: post
 description: ""
@@ -15,7 +15,7 @@ description: ""
 
 ### Answer
 
-**Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (for the Prime Minister)**
+**Written answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (for the Prime Minister)**
 
 The [Lamppost-as-a-Platform (LaaP)](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/lamppost-as-a-platform) project was started in late 2017 to explore the technical and business feasibility of using lampposts to mount sensors. The project is organised into two trials to cover brownfield and greenfield sites use cases in commercial, industrial and residential environments.
 

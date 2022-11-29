@@ -1,7 +1,7 @@
 ---
 title: Time Taken to Roll Out Govt Tech Projects (PQ Reply by Senior Minister
   Teo Chee Hean)
-permalink: /media-hub/parliament/20220112
+permalink: /media-hub/parliament/20220112/
 date: 2022-01-12
 layout: post
 description: ""
@@ -18,7 +18,7 @@ description: ""
 ### Answer
 
 
-**Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (for the Prime Minister)**
+**Written answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (for the Prime Minister)**
 
 Development times tend to be short for simpler systems, especially those that can reuse existing infrastructure and components from [GovTech’s tech stack](https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html?gclid=CjwKCAiAlfqOBhAeEiwAYi43F4POTnul2badfUVLAUhpauPYrOKCaxPO6o-WQZZfSpMgqBZysgFJ-hoCvfoQAvD_BwE). For example, SafeEntry was developed within weeks because it was able to tap on components within the National Digital Identity platform. For larger, more complex projects, development times are longer. The average time taken to develop the initial product release for larger projects was between one and two years over the past five years.
 

@@ -1,7 +1,7 @@
 ---
 title: TraceTogether Token Replacement (PQ Reply by Minister Josephine Teo)
 date: 2021-09-14
-permalink: /media-hub/parliament/20210914-c
+permalink: /media-hub/parliament/20210914-c/
 layout: post
 description: ""
 ---
@@ -15,7 +15,7 @@ description: ""
 
 ### Answer
 
-**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
+**Written answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
 
 As at September 2021, 2.9 million TraceTogether tokens have been replaced. The average battery lifespan is four to six months.
 

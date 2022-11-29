@@ -1,15 +1,13 @@
 ---
 title: COS Debate 2020 (Speech by SMS Janil Puthucheary)
 date: 2020-02-28
-permalink: /media-hub/parliament/20200228-a
+permalink: /media-hub/parliament/20200228-a/
 layout: post
 description: ""
 ---
-
-
 ## Committee of Supply Debate 2020<br>(28 Feb 2020)
 
-**Speech By Dr Janil Puthucheary, Minister-in-Charge Of Govtech**
+**Speech By Dr Janil Puthucheary, Minister-in-Charge of Govtech**
 
 
 

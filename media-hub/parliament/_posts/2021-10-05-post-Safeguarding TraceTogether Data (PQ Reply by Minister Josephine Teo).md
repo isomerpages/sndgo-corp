@@ -1,7 +1,7 @@
 ---
 title: Safeguarding TraceTogether Data (PQ Reply by Minister Josephine Teo)
 date: 2021-10-05
-permalink: /media-hub/parliament/20211005
+permalink: /media-hub/parliament/20211005/
 layout: post
 description: ""
 ---
@@ -19,7 +19,7 @@ description: ""
 ### Answer
 
 
-**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
+**Written answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
 
 Bluetooth proximity data recorded by TraceTogether is encrypted, stored locally on the user’s phone or token, and automatically deleted after 25 days. The data remains on the personal device unless required by the relevant authorities for contact tracing or other legally permitted purposes. In such instances, the data is uploaded to and stored on Government servers, where it is safeguarded in accordance with the public sector cybersecurity and data security requirements, including the recommendations made by the Public Sector Data Security Review Committee. In particular:
 

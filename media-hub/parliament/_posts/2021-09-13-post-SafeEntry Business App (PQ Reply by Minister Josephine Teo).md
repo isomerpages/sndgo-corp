@@ -1,7 +1,7 @@
 ---
 title: SafeEntry Business App (PQ Reply by Minister Josephine Teo)
 date: 2021-09-13
-permalink: /media-hub/parliament/20210913
+permalink: /media-hub/parliament/20210913/
 layout: post
 description: ""
 ---
@@ -15,7 +15,7 @@ description: ""
 
 ### Answer
 
-**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
+**Written answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
 
 Businesses can use the SafeEntry (Business) App to check on the vaccination and test status of their visitors. Members of the public can use either their TT App or Token to tap against the mobile device uploaded with the SafeEntry (Business) App, for the business to verify their status from the display.
 

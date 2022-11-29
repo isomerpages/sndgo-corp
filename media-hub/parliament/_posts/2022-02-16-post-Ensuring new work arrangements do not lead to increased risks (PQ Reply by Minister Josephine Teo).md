@@ -1,7 +1,7 @@
 ---
 title: Ensuring new work arrangements do not lead to increased risks (PQ Reply
   by Minister Josephine Teo)
-permalink: /media-hub/parliament/15022022b
+permalink: /media-hub/parliament/15022022b/
 date: 2022-02-16
 layout: post
 description: ""
@@ -19,7 +19,7 @@ description: ""
 ### Answer
 
 
-**Written Answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
+**Written answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
 
 The Government remains committed to upholding high standards of cyber and data security regardless of the mode of working. Due to COVID-19, hybrid work arrangements have been adopted extensively by Public Service officers since 2020. Despite this, there have been no reported data lapses arising from work-from-home arrangements from January 2020 to December 2021. 
 
