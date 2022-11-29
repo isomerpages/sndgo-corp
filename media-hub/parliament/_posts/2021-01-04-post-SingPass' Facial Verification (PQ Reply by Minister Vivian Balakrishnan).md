@@ -1,7 +1,7 @@
 ---
 title: SingPass' Facial Verification (PQ Reply by Minister Vivian Balakrishnan)
 date: 2021-01-04
-permalink: /media-hub/parliament/20210104
+permalink: /media-hub/parliament/20210104/
 layout: post
 description: ""
 ---
@@ -21,7 +21,7 @@ description: ""
 
 ## Answer
 
-**Oral Reply by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs (for the Prime Minister)**
+**Oral reply by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative and Minister for Foreign Affairs (for the Prime Minister)**
 
 We  are committed to building an inclusive Smart Nation, one where nobody is digitally excluded.
 
