@@ -1,7 +1,7 @@
 ---
 title: Review of use of SMS and Clickable Links (PQ Reply by Senior Minister Teo
   Chee Hean)
-permalink: /media-hub/parliament/04072022
+permalink: /media-hub/parliament/04072022/
 date: 2022-07-04
 layout: post
 description: The Government will implement prevention, detection and mitigation
@@ -20,7 +20,7 @@ image: /images/og-image/Smart-Nation-OG-Image.jpg
 
 ### Answer
 
-**Written Answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (for the Prime Minister)**
+**Written answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (for the Prime Minister)**
 
 The SNDGG has reviewed the use of links by Government agencies. Removal of links in SMSes, emails or other messaging platforms does not eliminate the risks of users falling prey to phishing attempts, e.g. phone numbers that members of the public are asked to call or continued attempts by scammers to use phishing links. Instead, we will implement prevention, detection and mitigation measures at the backend, and continue with user education to better protect citizens from scams perpetrated through the use of links.
 
