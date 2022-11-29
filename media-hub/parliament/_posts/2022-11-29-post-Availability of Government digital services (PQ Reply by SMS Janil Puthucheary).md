@@ -8,9 +8,6 @@ description: "Unscheduled downtime of Government digital services occurs
   2021. "
 image: ""
 ---
-
-
-
 ## Measures to ensure the availability of Government digital services 
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 29 November 2022**
