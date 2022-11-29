@@ -171,6 +171,8 @@ src="/images/community/Builder%20Partners/Marina_Barrage_Logo.jpeg"
 alt="Marina Barrage">
 </div>
 	
+</div>
+	
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
 <div class="col">
@@ -184,6 +186,8 @@ alt="Sustainable Singapore Gallery">
 
 <div class="col">
 </div>	
+	
+</div>
 	
 ### Watch this space for more updates on the Smart Nation Builder! 
 
