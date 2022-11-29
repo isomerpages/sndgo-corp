@@ -146,9 +146,10 @@ Catch the Smart Nation Builder at these locations:
 
 | Date | Time| Venue 
 | -------- | -------- | -------- |  
-|**12 - 13 Nov** <br> Sat - Sun | 10:30am - 6:30pm| **Jurong Regional Library** <br> 21 Jurong East Central 1, Singapore 609732
-|**19 - 20 Nov** <br> Sat - Sun | 10:30am - 6:30pm| **Jurong Regional Library** <br> 21 Jurong East Central 1, Singapore 609732
-**26 Nov** <br> Sat <br> **27 Nov** <br> Sun | 11am - 7pm <br><br> 9am - 5pm| **Marymount Community Club** <br> 191 Sin Ming Ave, Singapore 575738
+|**28 - 29 Nov** <br> Sat - Sun | 10:00am - 6:00pm| **National Library Building** <br> 100 Victoria Street, Singapore 188064
+|**10 Dec** <br> Sat <br> **11 Dec** <br> Sun | 1:00pm - 7:30pm <br><br> 10:00am - 6:00pm| **Marina Barrage** <br> 8 Marina Gardens Drive, Singapore 018951
+|**16 Dec** <br> Fri <br> **17 Dec** <br> Sat | 11:00am - 6:00pm <br><br> 10:00am - 6:00pm| **Taman Jurong Community Club** <br> 1 Yung Sheng Road, Singapore 618495
+|**18 - 19 Dec** <br> Sun - Mon <br> | 10:00am - 6:00pm| **Whampoa Community Club** <br> 300 Whampoa Drive, Singapore 327737
 
 #### Venue partners
 
@@ -165,8 +166,23 @@ alt="National Library Board">
 </div>
 	
 <div class="col">
+<img 
+src="/images/community/Builder%20Partners/Marina_Barrage_Logo.jpeg"
+alt="Marina Barrage">
 </div>
 	
+<div class="row" style="padding: 20px 0px 0px 0px;">
+	
+<div class="col">
+<img 
+src="/images/community/Builder%20Partners/Sustainable_SG_Logo.jpeg"
+alt="Sustainable Singapore Gallery">
+</div>
+	
+<div class="col">
+</div>
+
+<div class="col">
 </div>	
 	
 ### Watch this space for more updates on the Smart Nation Builder! 
