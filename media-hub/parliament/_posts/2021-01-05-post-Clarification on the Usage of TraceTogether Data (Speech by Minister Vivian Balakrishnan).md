@@ -2,16 +2,13 @@
 title: Clarification on the Usage of TraceTogether Data (Speech by Minister
   Vivian Balakrishnan)
 date: 2021-01-05
-permalink: /media-hub/parliament/20210105
+permalink: /media-hub/parliament/20210105/
 layout: post
 description: ""
 ---
-
-
-
 ## Clarification On The Usage Of Tracetogether Data
 
-**Clarifications By Minister Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative**
+**Clarifications by Minister Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative**
 
 I wish to clarify three points on the TraceTogether (TT) programme. First, on the purpose of the programme; second, the built-in protection for privacy; and third, the legal provisions governing the use of TraceTogether data.
 
