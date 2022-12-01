@@ -1,6 +1,6 @@
 ---
 title: Digital Government
-permalink: /about-smart-nation/digital-government
+permalink: /about-smart-nation/digital-government/
 description: Our vision of a Digital Government is “digital to the core, and
   serves with heart”.
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
@@ -46,14 +46,14 @@ Reviewing KPIs regularly allows us to assess our performance and identify areas 
 * **Business Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
 ![Business Satisfaction with Government Digital Services](/images/abt-smart-nation/business-satisfaction-2021.jpeg)
 
-* **Government services that can be completed digitally from end-to-end**
-![Government services that can be completed digitally from end-to-end](/images/abt-smart-nation/end-to-end-digital-services-2020.jpeg)
+* **Government services that are completed digitally from end-to-end**
+![Government services that can be completed digitally from end-to-end](/images/abt-smart-nation/end-to-end-digital-services-2021.jpeg)
 
 * **Services that provide E-payment options**
-![Services that provide E-payment options](/images/abt-smart-nation/services-offering-e-payment-2020.jpeg)
+![Services that provide E-payment options](/images/abt-smart-nation/services-offering-e-payment-2021.jpeg)
 
 * **E-payments transactions**
-![E-payments transactions](/images/abt-smart-nation/e-payment-transactions-2020.jpeg)
+![E-payments transactions](/images/abt-smart-nation/e-payment-transactions-2021.jpeg)
 
 * **Other Statistics:**
   * 20,000 officers have been trained in data analytics and data science, meeting the initial target set  and a new KPI is being reviewed.
