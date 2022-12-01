@@ -20,7 +20,7 @@ sections:
           description: Register for a slot here
           url: https://go.gov.sg/cityscapetour
   - infopic:
-      title: 94% of our government services are digital from end to end!
+      title: 99% of our government services are digital from end to end!
       description: See how we have progressed as a Digital Government
       button: READ MORE ABOUT IT
       url: /about-smart-nation/digital-government#the-progress-so-far
