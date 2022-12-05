@@ -52,8 +52,6 @@ Reviewing KPIs regularly allows us to assess our performance and identify areas 
 * **Services that provide E-payment options**
 ![Services that provide E-payment options](/images/abt-smart-nation/services-offering-e-payment-2021.jpeg)
 
-* **E-payments transactions**
-![E-payments transactions](/images/abt-smart-nation/e-payment-transactions-2021.jpeg)
 
 * **Other Statistics:**
   * 20,000 officers have been trained in data analytics and data science, meeting the initial target set  and a new KPI is being reviewed.
