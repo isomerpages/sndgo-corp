@@ -1,6 +1,6 @@
 ---
 title: CityScape
-permalink: /community/showcases/cityscape
+permalink: /community/showcases/cityscape/
 third_nav_title: Showcases
 description: Interact with a series of exhibits and displays to discover the
   various ways digital technology powers our city and daily lives, improving the
@@ -66,6 +66,14 @@ Singapore 069118
 
 Mondays to Saturdays - 9am to 5pm
 
-Sign up for a guided tour of the Smart Nation Cityscape at <a href="https://go.gov.sg/cityscapetour" target="_blank">go.gov.sg/cityscapetour</a>.
+Sign up for a guided tour of the Smart Nation CityScape at <a href="https://go.gov.sg/cityscapetour" target="_blank">go.gov.sg/cityscapetour</a>.
 
 You can also sign up for the Singapore City Gallery community tours at <a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery" target="_blank">URA's website</a>.
+
+#### Visitor's Guide
+
+Download the Smart Nation CityScape Visitor's Guide for more information on the exhibition.
+
+<div style="width:50%"> 
+ <a href="/files/publications/Smart_Nation_CityScape_Visitor's_Guide.pdf"><img style="border:1px solid black;" src="/images/community/cityscape/Smart-Nation-CityScape-Visitor's-Guide-TN.jpg" alt="Digital Economy Framework for Action">Smart Nation CityScape Visitor's Guide (1.9mb)</a>
+</div>
