@@ -72,7 +72,7 @@ You can also sign up for the Singapore City Gallery community tours at <a href="
 
 #### Visitor's Guide
 
-Download the visitor's guide for more information on the Smart Nation CityScape.
+Download the Smart Nation CityScape Visitor's Guide for more information on the exhibition.
 
 <div style="width:50%"> 
  <a href="/files/publications/Smart_Nation_CityScape_Visitor's_Guide.pdf"><img style="border:1px solid black;" src="/images/community/cityscape/Smart-Nation-CityScape-Visitor's-Guide-TN.jpg" alt="Digital Economy Framework for Action">Smart Nation CityScape Visitor's Guide (1.9mb)</a>
