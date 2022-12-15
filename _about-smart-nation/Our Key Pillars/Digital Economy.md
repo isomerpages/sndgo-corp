@@ -1,6 +1,6 @@
 ---
 title: Digital Economy
-permalink: /about-smart-nation/digital-economy
+permalink: /about-smart-nation/digital-economy/
 description: A Digital Economy takes advantage of the latest technology to
   digitalise processes and drive business growth.
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
@@ -12,7 +12,7 @@ A Digital Economy takes advantage of the latest technology to digitalise process
 
 Singapore’s pro-business environment, excellent tech infrastructure, close connectivity to major Asian economies as well as the availability of investment puts us in a good position to develop a strong Digital Economy.
 
-Three key strategies have been identified in the <a href="https://www.imda.gov.sg/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action">Digital Economy Framework for Action</a> to take advantage of our strengths:
+Three key strategies have been identified in the <a href="https://www.imda.gov.sg/About-IMDA/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action">Digital Economy Framework for Action</a> to take advantage of our strengths:
 * Accelerate our economic growth by digitalising industries and businesses
 * Develop an ecosystem to help businesses stay vibrant and competitive
 * Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
