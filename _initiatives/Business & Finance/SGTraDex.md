@@ -7,7 +7,6 @@ description: SGTraDex, which stands for Singapore Trade Data Exchange, is a
 image: /images/initiatives/SGTRADEX.jpg
 third_nav_title: Business & Finance
 ---
-
 # Singapore Trade Data Exchange (SGTraDex)
 
 <br>
@@ -44,7 +43,7 @@ third_nav_title: Business & Finance
 
 [SGTraDex](https://sgtradex.com/), which stands for Singapore Trade Data Exchange, is a digital infrastructure that facilitates trusted and secure sharing of data between supply chain ecosystem partners.
 
-SGTraDex, created as a result of the [Singapore Together Alliance for Action (AfA) on Supply Chain Digitalisation](https://emergingstronger.sg/afa), aims to streamline information flows across the fragmented global ecosystem through a common data highway.
+SGTraDex, created as a result of the [Singapore Together Alliance for Action (AfA) on Supply Chain Digitalisation](https://www.mti.gov.sg/FutureEconomy/Emerging-Stronger-Taskforce/Press-Releases/Articles/General/2020/AfA-on-Supply-Chain-Digitalisation), aims to streamline information flows across the fragmented global ecosystem through a common data highway.
 
 ### How it Works?
 
@@ -67,4 +66,3 @@ This is to ensure legitimate and valuable interactions between contributors and 
 SGTraDex seeks to enhance connectivity between both local supply chains stakeholder groups and existing systems while also enabling connectivity with global supply chains. It is meant to be trusted, secure, easy-to use – this enables trusted and secure data sharing through an infrastructure that allows data producers and consumers to share data effortlessly, prioritising connectivity ease.
 
 SGTraDex creates new value for all ecosystem participants – shippers (Importers and Exporters), Asset Operators (Carriers, Port & Terminal Operators, Hauliers, Depots, Air & Rail transport), Service Providers (Financial Institutions, Freight Forwarders, Technology Solutions) and Government (authorities) through productivity and transparency whilst improving trust and resilience.
-
