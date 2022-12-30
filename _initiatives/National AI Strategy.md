@@ -107,7 +107,7 @@ The business and research communities should also have a good understanding of 
 
 Learn and gain access to AI technology through these programmes:
 
-- [AI Singapore Talent Development Programmes](https://www.aisingapore.org/talentdevelopment/) offer learning opportunities for all with courses such as the AI Apprenticeship Programme, AI for Everyone, AI for Industry, AI for Students, and AI for Kids.  
+- [AI Singapore Talent Development Programmes](https://learn.aisingapore.org/) offer learning opportunities for all with courses such as the AI Apprenticeship Programme, AI for Everyone, AI for Industry, AI for Students, and AI for Kids.  
 - [TechSkills Accelerator (TeSA)](https://www.imda.gov.sg/imtalent/about-us/national-talent-development-initiatives/techskills-accelerator--tesa) works with industry partners and employers to offer various programmes for both  ICT and non-ICT professionals to upgrade or develop new skills to meet growing demand.  
 - [SkillsFuture for Digital Workplace program](https://www.skillsfuture.gov.sg/digitalworkplace) is a course designed to help Singaporeans understand the fundamentals of AI and how it can be applied in their workplaces and daily lives. The curriculum includes content developed by SSG and IBM.
 - [Tech Insights through Patents (TIP) tool](https://www.iposinternational.com/en/resources/tech-insights-through-patents) developed by IPOS International helps innovators understand patenting trends through an easy-to-navigate interface, making patent data more accessible. Leverage the power of this interactive tool to uncover hidden intelligence and keep abreast of technological advances.
