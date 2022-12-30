@@ -19,7 +19,7 @@ The provision of government-verified digital data also ensures greater accuracy 
 
 “We are very excited to use MyInfo to deliver frictionless, cashless transactions for both consumers and merchants. The MyInfo platform will optimise the onboarding process of our hawker partners by streamlining KYC documentation and verification, enabling them to quickly and easily accept e-money. This is in line with Smart Nation and we are pleased to be part of the rapidly evolving cashless payments ecosystem,” said Jeremy Tan, founder and CEO of Liquid Group.
 
-The portal will also benefit developers as it offers a sandbox environment for them to build solutions faster. Developers can access the sandbox at https://www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction to find out how to prototype their services. Locally-registered businesses can log in with their CorpPass credentials from December 2017 onwards.  
+The portal will also benefit developers as it offers a sandbox environment for them to build solutions faster. Developers can access the sandbox at www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction to find out how to prototype their services. Locally-registered businesses can log in with their CorpPass credentials from December 2017 onwards.  
 
 [Annex - Quotes from participating banks and users (350kb)](/files/press-releases/2017/Annex–Quotes-from-participating-banks-and-users.pdf)
 
