@@ -1,13 +1,12 @@
 ---
 title: Smart Urban Initiatives
-permalink: /initiatives/urban-living
+permalink: /initiatives/urban-living/
 third_nav_title: Urban Living
 description: Singapore’s limited land requires us to constantly find innovative
   solutions to improve our urban environment. This includes making our homes and
   estates cleaner, greener, safer and more sustainable.
 image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
 ---
-
 # Smart Urban Living
 
 Singapore’s limited land requires us to constantly find innovative solutions to improve our urban environment. This includes making our homes and estates cleaner, greener, safer and more sustainable.
@@ -37,7 +36,7 @@ The initiatives below outline how we aim to achieve this.
 	<div class="col"> 
 <a href="/initiatives/urban-living/amr"><img src="/images/initiatives/overview-pages/amr-trial.png" alt="Automated Meter Reading"></a><br>
 		<div class="header"><b>Automated Meter Reading</b></div><br>
-		<div class="para">From tap to app, we’re making water usage data readily accessible for our residents so they can better manage their water consumption and bills.
+		<div class="para">We’re making water usage data readily accessible for our residents so they can better manage their water consumption and bills.
 </div>
 <br></div></div>
 
