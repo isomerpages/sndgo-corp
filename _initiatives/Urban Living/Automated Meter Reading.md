@@ -10,7 +10,7 @@ image: /images/initiatives/overview-pages/amr-trial.png
 
 Collecting and analysing data on how we use water can go a long way towards helping us become more efficient with the precious resource. PUB, our national water agency, is progressively rolling out <a href="https://www.pub.gov.sg/smartwatermeter/resources.html" target="_blank">smart water meters</a> to replace our current mechanical meters.
 
-The smart water meters are designed to monitor, collect and make data on the use of water readily accessible for consumers via a mobile app.
+The smart water meters are designed to monitor, collect and make data on the use of water readily accessible for consumers via a web portal.
 
 <div style="width:100%"> <a href="https://www.pub.gov.sg/smartwatermeter/clientlib/resources/images/pdfs/How_Smart_Water_Meter_Works.pdf" target="_blank"><img style="border:1px solid black;" src="/images/initiatives/How_Smart_Water_Meter_Works.jpg">How the smart water meter works</a></div>
 
