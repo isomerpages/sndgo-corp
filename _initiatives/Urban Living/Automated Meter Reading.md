@@ -6,7 +6,7 @@ description: Collecting and analysing data on how we use water can go a long way
   towards helping us become more efficient with the precious resource.
 image: /images/initiatives/overview-pages/amr-trial.png
 ---
-# Tracking Water Data from Tap to App
+# Tracking Water Data
 
 Collecting and analysing data on how we use water can go a long way towards helping us become more efficient with the precious resource. PUB, our national water agency, is progressively rolling out <a href="https://www.pub.gov.sg/smartwatermeter/resources.html" target="_blank">smart water meters</a> to replace our current mechanical meters.
 
