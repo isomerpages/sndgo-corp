@@ -34,8 +34,8 @@ The initiatives below outline how we aim to achieve this.
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/urban-living/amr"><img src="/images/initiatives/overview-pages/amr-trial.png" alt="Automated Meter Reading"></a><br>
-		<div class="header"><b>Automated Meter Reading</b></div><br>
+<a href="/initiatives/urban-living/smartwatermeter/"><img src="/images/initiatives/overview-pages/amr-trial.png" alt="Smart Water Meter"></a><br>
+		<div class="header"><b>Smart Water Meter</b></div><br>
 		<div class="para">We’re making water usage data readily accessible for our residents so they can better manage their water consumption and bills.
 </div>
 <br></div></div>
