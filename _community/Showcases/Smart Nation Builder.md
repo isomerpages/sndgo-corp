@@ -142,7 +142,7 @@ Participants can have fun and create memories at the photo booth and claw machin
 
 ### Where can you find the Smart Nation Builder? 
 
-Check out where the Smart Nation Builder is heading to next at [go.gov.sg/sn-builder](go.gov.sg/sn-builder)!
+Check out where the Smart Nation Builder is heading to next at [go.gov.sg/sn-builder](https://go.gov.sg/sn-builder)!
 
 ![Smart Nation Builder](/images/community/builder/Smart_Nation_Builder_15.jpeg)
 
