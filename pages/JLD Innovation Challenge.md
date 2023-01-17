@@ -56,7 +56,7 @@ Submit your proposal at [insert.url.here](https://www.smartnation.gov.sg) by **2
 
 
 
-#### Organised by
+## Organised by
 
 <div class="row">
 
@@ -68,7 +68,7 @@ Submit your proposal at [insert.url.here](https://www.smartnation.gov.sg) by **2
 
 </div>
 
-#### In partnership with
+## In partnership with
 
 <div class="row">
 
@@ -90,7 +90,7 @@ Submit your proposal at [insert.url.here](https://www.smartnation.gov.sg) by **2
 	
 </div>
 
-#### With support from
+## With support from
 
 <div class="row">
 
