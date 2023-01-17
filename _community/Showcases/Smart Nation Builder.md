@@ -142,56 +142,7 @@ Participants can have fun and create memories at the photo booth and claw machin
 
 ### Where can you find the Smart Nation Builder? 
 
-Catch the Smart Nation Builder at these locations: 
-
-| Date | Time| Venue 
-| -------- | -------- | -------- |  
-|**28 - 29 Nov** <br> Sat - Sun | 10:00am - 6:00pm| **National Library Building** <br> 100 Victoria Street, Singapore 188064
-|**10 Dec** <br> Sat <br> **11 Dec** <br> Sun | 1:00pm - 7:30pm <br><br> 10:00am - 6:00pm| **Marina Barrage** <br> 8 Marina Gardens Drive, Singapore 018951
-|**16 Dec** <br> Fri <br> **17 Dec** <br> Sat | 11:00am - 6:00pm <br><br> 10:00am - 6:00pm| **Taman Jurong Community Club** <br> 1 Yung Sheng Road, Singapore 618495
-|**18 - 19 Dec** <br> Sun - Mon <br> | 10:00am - 6:00pm| **Whampoa Community Club** <br> 300 Whampoa Drive, Singapore 327737
-
-#### Venue partners
-
-<div class="row" style="padding: 20px 0px 0px 0px;">
-	
-<div class="col">
-<img src="/images/community/Builder%20Partners/Peoples_Association_Logo.jpeg" alt="People's Association">
-</div>
-	
-<div class="col">
-<img 
-src="/images/community/Builder%20Partners/NLB_Logo.jpeg"
-alt="National Library Board">
-</div>
-	
-<div class="col">
-<img 
-src="/images/community/Builder%20Partners/Marina_Barrage_Logo.jpeg"
-alt="Marina Barrage">
-</div>
-	
-</div>
-	
-<div class="row" style="padding: 20px 0px 0px 0px;">
-	
-<div class="col">
-<img 
-src="/images/community/Builder%20Partners/Sustainable_SG_Logo.jpeg"
-alt="Sustainable Singapore Gallery">
-</div>
-	
-<div class="col">
-</div>
-
-<div class="col">
-</div>	
-	
-</div>
-	
-### Watch this space for more updates on the Smart Nation Builder! 
-
-
+Check out where the Smart Nation Builder is heading to next at [go.gov.sg/sn-builder](https://go.gov.sg/sn-builder)!
 
 ![Smart Nation Builder](/images/community/builder/Smart_Nation_Builder_15.jpeg)
 
