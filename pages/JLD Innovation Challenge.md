@@ -58,48 +58,56 @@ Submit your proposal at [insert.url.here](https://www.smartnation.gov.sg) by **2
 
 #### Organised by
 
-<div class="row-agencies">
+<div class="row">
 
-<div class="column-agencies"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-SNDGO.jpeg" alt="SNDGO" title="SNDGO"/></a></div>
+<div class="col"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-SNDGO.jpeg" alt="SNDGO" title="SNDGO"/></a></div>
 
-<div class="column-agencies"><a href="https://www.imda.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-Capitaland.jpeg" alt="IMDA" title="IMDA"/></a></div>
+<div class="col"><a href="https://www.imda.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-IMDA.jpeg" alt="IMDA" title="IMDA"/></a></div>
 	
-<div class="column-agencies"><a href="https://www.ura.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-URA.jpeg" alt="URA" title="URA"/></a></div>
-
-<div class="column-agencies"></div>
-
-<div class="column-agencies"></div>
+<div class="col"><a href="https://www.ura.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-URA.jpeg" alt="URA" title="URA"/></a></div>
 
 </div>
 
 #### In partnership with
 
-<div class="row-agencies">
+<div class="row">
 
-<div class="column-agencies"><a href="https://www.temasekfoundation.org.sg/" target="new"><img src="/images/JLD/JLD-Logos-Temasek.jpeg" alt="Temasek Foundation" title="Temasek Foundation"/></a></div>
+<div class="col"><a href="https://www.temasekfoundation.org.sg/" target="new"><img src="/images/JLD/JLD-Logos-Temasek.jpeg" alt="Temasek Foundation" title="Temasek Foundation"/></a></div>
 	
-<div class="column-agencies"><a href="https://www.capitaland.com/" target="new"><img src="/images/JLD/JLD-Logos-Capitaland.jpeg" alt="CapitaLand" title="CapitaLand"/></a></div>
+<div class="col"><a href="https://www.capitaland.com/" target="new"><img src="/images/JLD/JLD-Logos-Capitaland.jpeg" alt="CapitaLand" title="CapitaLand"/></a></div>
 
-<div class="column-agencies"><a href="https://www.smrt.com.sg/" target="new"><img src="/images/JLD/JLD-Logos-SMRT.jpeg" alt="SMRT Corporation" title="SMRT Corporation"/></a></div>
+<div class="col"><a href="https://www.smrt.com.sg/" target="new"><img src="/images/JLD/JLD-Logos-SMRT.jpeg" alt="SMRT Corporation" title="SMRT Corporation"/></a></div>
 
-<div class="column-agencies"><a href="https://www.lendlease.com/sg/" target="new"><img src="/images/JLD/JLD-Logos-Lendlease.jpeg" alt="Lendlease" title="Lendlease"/></a></div>
+</div>
 	
-<div class="column-agencies"><a href="https://www.science.edu.sg/" target="new"><img src="/images/JLD/JLD-Logos-SC.jpeg" alt="Science Centre Singapore" title="Science Centre Singapore"/></a></div>
+<div class="row">	
 
+<div class="col"><a href="https://www.lendlease.com/sg/" target="new"><img src="/images/JLD/JLD-Logos-Lendlease.jpeg" alt="Lendlease" title="Lendlease"/></a></div>
+	
+<div class="col"><a href="https://www.science.edu.sg/" target="new"><img src="/images/JLD/JLD-Logos-SC.jpeg" alt="Science Centre Singapore" title="Science Centre Singapore"/></a></div>
+
+<div class="col"></div>
+	
 </div>
 
 #### With support from
 
-<div class="row-agencies">
+<div class="row">
 
-<div class="column-agencies"><a href="https://www.ema.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-EMA.jpeg" alt="Energy Market Authority" title="Energy Market Authority"/></a></div>
+<div class="col"><a href="https://www.ema.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-EMA.jpeg" alt="Energy Market Authority" title="Energy Market Authority"/></a></div>
 	
-<div class="column-agencies"><a href="https://www.lta.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-LTA.jpeg" alt="Land Transport Authority" title="Land Transport Authority"/></a></div>
+<div class="col"><a href="https://www.lta.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-LTA.jpeg" alt="Land Transport Authority" title="Land Transport Authority"/></a></div>
 
-<div class="column-agencies"><a href="https://www.nea.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-NEA.jpeg" alt="National Environment Agency" title="National Environment Agency"/></a></div>
+<div class="col"><a href="https://www.nea.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-NEA.jpeg" alt="National Environment Agency" title="National Environment Agency"/></a></div>
 
-<div class="column-agencies"><a href="https://www.jtc.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-JTC.jpeg" alt="JTC" title="JTC"/></a></div>
+</div>
+
+<div class="row">
+
+<div class="col"><a href="https://www.jtc.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-JTC.jpeg" alt="JTC" title="JTC"/></a></div>
 	
-<div class="column-agencies"></div>
+<div class="col"></div>
 
+<div class="col"></div>
+	
 </div>
