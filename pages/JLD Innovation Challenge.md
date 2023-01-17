@@ -53,3 +53,39 @@ The prizes for the JLD Innovation challenge is as follows:
 ## How to participate
 
 Submit your proposal at [insert.url.here](https://www.smartnation.gov.sg) by **24 Apr 2023**.
+
+
+
+#### Organised by
+
+<div class="row-agencies">
+
+<div class="column-agencies"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-SNDGO.jpeg" alt="SNDGO" title="SNDGO"/></a></div>
+
+<div class="column-agencies"><a href="https://www.imda.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-Capitaland.jpeg" alt="IMDA" title="IMDA"/></a></div>
+	
+<div class="column-agencies"><a href="https://www.ura.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-URA.jpeg" alt="URA" title="URA"/></a></div>
+
+<div class="column-agencies"></div>
+
+<div class="column-agencies"></div>
+
+</div>
+
+#### In partnership with
+
+<div class="row-agencies">
+
+<div class="column-agencies"><a href="https://www.temasekfoundation.org.sg/" target="new"><img src="/images/JLD/JLD-Logos-Temasek.jpeg" alt="Temasek Foundation" title="Temasek Foundation"/></a></div>
+	
+<div class="column-agencies"><a href="https://www.capitaland.com/" target="new"><img src="/images/JLD/JLD-Logos-Capitaland.jpeg" alt="CapitaLand" title="CapitaLand"/></a></div>
+
+<div class="column-agencies"><a href="https://www.smrt.com.sg/" target="new"><img src="/images/JLD/JLD-Logos-SMRT.jpeg" alt="SMRT Corporation" title="SMRT Corporation"/></a></div>
+
+<div class="column-agencies"><a href="https://www.lendlease.com/sg/" target="new"><img src="/images/JLD/JLD-Logos-Lendlease.jpeg" alt="Lendlease" title="Lendlease"/></a></div>
+	
+<div class="column-agencies"><a href="https://www.science.edu.sg/" target="new"><img src="/images/JLD/JLD-Logos-SC.jpeg" alt="Science Centre Singapore" title="Science Centre Singapore"/></a></div>
+
+</div>
+
+#### With support from
