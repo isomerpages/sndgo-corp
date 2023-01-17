@@ -52,7 +52,7 @@ The prizes for the JLD Innovation challenge is as follows:
 
 ## How to participate
 
-Submit your proposal at [insert.url.here](https://www.smartnation.gov.sg) by **24 Apr 2023**.
+Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnovation.sg/imda) by 24 Apr 2023.
 
 
 
