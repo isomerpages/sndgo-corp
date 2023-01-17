@@ -48,9 +48,8 @@ The prizes for the JLD Innovation challenge is as follows:
 
 * Prize money of $50,000 will be awarded to each winning team.
 * Each winning team will also be presented with an opportunity to collaborate with partners in JLD to test-bed prototypes at their premises.
-* A Temasek Foundation Liveability Solution Prize will also be awarded to the most impactful solution.
+* A [Temasek Foundation](https://www.temasekfoundation.org.sg/) Liveability Solution Prize will also be awarded to the most impactful solution.
 
 ## How to participate
 
 Submit your proposal at [insert.url.here](https://www.smartnation.gov.sg) by **24 Apr 2023**.
-
