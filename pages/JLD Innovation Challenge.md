@@ -89,3 +89,17 @@ Submit your proposal at [insert.url.here](https://www.smartnation.gov.sg) by **2
 </div>
 
 #### With support from
+
+<div class="row-agencies">
+
+<div class="column-agencies"><a href="https://www.ema.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-EMA.jpeg" alt="Energy Market Authority" title="Energy Market Authority"/></a></div>
+	
+<div class="column-agencies"><a href="https://www.lta.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-LTA.jpeg" alt="Land Transport Authority" title="Land Transport Authority"/></a></div>
+
+<div class="column-agencies"><a href="https://www.nea.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-NEA.jpeg" alt="National Environment Agency" title="National Environment Agency"/></a></div>
+
+<div class="column-agencies"><a href="https://www.jtc.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-JTC.jpeg" alt="JTC" title="JTC"/></a></div>
+	
+<div class="column-agencies"></div>
+
+</div>
