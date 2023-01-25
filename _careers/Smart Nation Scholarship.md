@@ -88,7 +88,6 @@ You can look forward to a multifaceted career, specializing in a variety of tech
 ![Smart Nation Scholarship](/images/careers/sn-multi-faceted-tech-career-opportunities.jpg)
 
 
-
 ## Eligibility Criteria
  
 We are looking for applicants who are:
