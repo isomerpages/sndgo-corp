@@ -1,6 +1,6 @@
 ---
 title: Smart Nation Scholarship
-permalink: /careers/smart-nation-scholarship
+permalink: /careers/smart-nation-scholarship/
 description: Are you passionate about technology? Are you driven by the desire
   to create digital solutions that can transform our society, economy and
   government? If your answer is yes and yes, come apply for the Smart Nation
@@ -85,8 +85,7 @@ At the point of application, you can indicate or rank your preference of the thr
 
 You can look forward to a multifaceted career, specializing in a variety of tech domains and opportunities for job rotations across the different public agencies:
 
-![Smart Nation Scholarship](/images/careers/Smart-Nation-Scholarship-Multi-faceted-Tech-Career-Opportunities.jpg)
-
+![Smart Nation Scholarship](/images/careers/sn-multi-faceted-tech-career-opportunities.jpg)
 
 
 ## Eligibility Criteria
