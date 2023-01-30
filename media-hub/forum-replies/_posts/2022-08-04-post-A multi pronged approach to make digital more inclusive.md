@@ -1,11 +1,10 @@
 ---
 title: A multi pronged approach to make digital more inclusive
-permalink: /media-hub/forum-replies/making-digitalisation-more-inclusive-for-all
+permalink: /media-hub/forum-replies/making-digitalisation-more-inclusive-for-all/
 date: 2022-08-04
 layout: post
 description: ""
 ---
-
 ## Forum Reply: A multi-pronged approach to make digital more inclusive
 
 
