@@ -1,20 +1,18 @@
 ---
 title: Much emphasis placed on inclusivity in Smart Nation push
-permalink: /media-hub/forum-replies/inclusivity-in-smart-nation-push
+permalink: /media-hub/forum-replies/inclusivity-in-smart-nation-push/
 date: 2022-08-16
 layout: post
 description: ""
 ---
-## Forum Reply: Much emphasis placed on inclusivity in Smart Nation pus
+## Forum Reply: Much emphasis placed on inclusivity in Smart Nation push
 
 
 We thank Mr Chen Wencong for his letter, ["Has Singapore become a smart nation or smart device nation?"](https://www.straitstimes.com/opinion/forum/forum-has-singapore-become-a-smart-nation-or-smart-device-nation) (Aug 13).
 
 We agree that in becoming a Smart Nation, we must continue to be inclusive and ensure all citizens and residents are able to access government services. The Government has invested in digitalising services to make them more accessible, convenient and safe. This has brought benefits to many seniors, including those who are less mobile.
 
-Concurrently, we have also placed great emphasis on digital inclusivity. To support Singaporeans in going digital, the Seniors Go Digital programme
-
-was set up in June 2020 and has since helped more than 150,000 seniors learn how to communicate, transact and access government and other services digitally.
+Concurrently, we have also placed great emphasis on digital inclusivity. To support Singaporeans in going digital, the Seniors Go Digital programme was set up in June 2020 and has since helped more than 150,000 seniors learn how to communicate, transact and access government and other services digitally.
 
 Smart Nation's platform also runs frequent courses for seniors on navigating common mobile applications and learning about new technologies. Government agencies, including the Central Provident Fund Board, continue to help those who are unable to transact digitally through service centres and phone services.
 
