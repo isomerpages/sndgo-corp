@@ -8,7 +8,7 @@ description: The adoption of e-government services has increased significantly
   of government transactions were completed digitally, up from 87% in 2018.
 image: ""
 ---
-## Update on Lamppost-as-a-Platform (LaaP) project
+## Take up of e-Government services by persons in different age groups
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 10 January 2023**
 
