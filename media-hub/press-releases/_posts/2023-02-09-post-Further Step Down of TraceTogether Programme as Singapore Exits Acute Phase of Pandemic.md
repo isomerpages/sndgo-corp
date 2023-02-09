@@ -17,7 +17,7 @@ With the stepdown to DORSCON Green and lifting of community measures, the Govern
 
 a. We will stop the issuance and replacement of Tokens at the Community Clubs/Centres (CCs) on 13 February 2023. TT Token vending machines have also ceased operations.
 
-b. We will collect back TT Tokens for refurbishment and recycling. We will commence a TT Token return exercise from 13 February to 12 March 2023. Members of the public can drop off their Tokens at the TT counters found at all 108 CCs. They can also do so on behalf of their family members and friends. The list of CCs and their opening hours can be found on the TokenGoWhere website ([https://www.token.gowhere.gov.sg](www.token.gowhere.gov.sg)). We encourage everyone to return the Tokens, to ensure that they are ready for distribution should TT operations be reactivated.
+b. We will collect back TT Tokens for refurbishment and recycling. We will commence a TT Token return exercise from 13 February to 12 March 2023. Members of the public can drop off their Tokens at the TT counters found at all 108 CCs. They can also do so on behalf of their family members and friends. The list of CCs and their opening hours can be found on the TokenGoWhere website (<a href="https://www.token.gowhere.gov.sg">https://www.token.gowhere.gov.sg</a>). We encourage everyone to return the Tokens, to ensure that they are ready for distribution should TT operations be reactivated.
 
 c. TT App users can uninstall the mobile application.
 
