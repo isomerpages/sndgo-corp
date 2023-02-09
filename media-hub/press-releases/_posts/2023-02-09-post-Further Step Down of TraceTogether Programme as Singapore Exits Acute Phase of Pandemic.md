@@ -24,17 +24,19 @@ c. TT App users can uninstall the mobile application.
 
 Reactivation of TT Programme in the Event of a New Variant of Concern
 
-2. However, we must remain prepared to reactivate Vaccination Differentiated Safe Management Measures (VDS) and contact tracing. Should TT operations be reactivated, we encourage those who can use the TT App to do so instead of collecting a Token, as the App allows for swifter updates and quicker contact tracing. The TT App will remain available on the App Store, Google Play and Huawei AppGallery and we will prioritise distributing TT Tokens to those who cannot use the TT App, such as seniors, children, and those without smart phones.<p>
+2. However, we must remain prepared to reactivate Vaccination Differentiated Safe Management Measures (VDS) and contact tracing. Should TT operations be reactivated, we encourage those who can use the TT App to do so instead of collecting a Token, as the App allows for swifter updates and quicker contact tracing. The TT App will remain available on the App Store, Google Play and Huawei AppGallery and we will prioritise distributing TT Tokens to those who cannot use the TT App, such as seniors, children, and those without smart phones.
 
 ------
 
-**For media enquiries, please contact:**<p>
+**For media enquiries, please contact:**
+
 **Chia Suat Ning (Ms)**<br>
 Manager, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 8182 8052<br>
-**Email: CHIA_Suat_Ning@pmo.gov.sg<p>
-Lee Zhengyi (Ms)**<br>
+Email: CHIA_Suat_Ning@pmo.gov.sg
+	
+**Lee Zhengyi (Ms)**<br>
 Manager, Communications and Marketing Group<br>
 Government Technology Agency<br>
 Tel: 8282 9393<br>
