@@ -8,8 +8,7 @@ description: ""
 image: ""
 ---
 **Further Step Down of TraceTogether Programme as Singapore Exits Acute Phase of Pandemic**
-===========================================================================================
-
+====
 *TT Token return exercise to begin on 13 February 2023*
 
 **9 Feb 2023**
@@ -23,7 +22,7 @@ b. We will collect back TT Tokens for refurbishment and recycling. We will comme
 c. TT App users can uninstall the mobile application.
 
 **<u>Reactivation of TT Programme in the Event of a New Variant of Concern</u>**
- 
+
 2. However, we must remain prepared to reactivate Vaccination Differentiated Safe Management Measures (VDS) and contact tracing. Should TT operations be reactivated, we encourage those who can use the TT App to do so instead of collecting a Token, as the App allows for swifter updates and quicker contact tracing. The TT App will remain available on the App Store, Google Play and Huawei AppGallery and we will prioritise distributing TT Tokens to those who cannot use the TT App, such as seniors, children, and those without smart phones.
 
 ------
