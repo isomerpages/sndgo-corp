@@ -14,7 +14,7 @@ image: ""
 
 **9 Feb 2023**
 
-1. With the stepdown to DORSCON Green and lifting of community measures, the Government will step down the TraceTogether (TT) programme in the following three ways:
+1.  With the stepdown to DORSCON Green and lifting of community measures, the Government will step down the TraceTogether (TT) programme in the following three ways:
 
 a. We will stop the issuance and replacement of Tokens at the Community Clubs/Centres (CCs) on 13 February 2023. TT Token vending machines have also ceased operations.
 
