@@ -14,7 +14,7 @@ image: ""
 
 **9 Feb 2023**
 
-With the stepdown to DORSCON Green and lifting of community measures, the Government will step down the TraceTogether (TT) programme in the following three ways:
+1. With the stepdown to DORSCON Green and lifting of community measures, the Government will step down the TraceTogether (TT) programme in the following three ways:
 
 a. We will stop the issuance and replacement of Tokens at the Community Clubs/Centres (CCs) on 13 February 2023. TT Token vending machines have also ceased operations.
 
@@ -24,7 +24,7 @@ c. TT App users can uninstall the mobile application.
 
 **<u>Reactivation of TT Programme in the Event of a New Variant of Concern</u>**
  
-However, we must remain prepared to reactivate Vaccination Differentiated Safe Management Measures (VDS) and contact tracing. Should TT operations be reactivated, we encourage those who can use the TT App to do so instead of collecting a Token, as the App allows for swifter updates and quicker contact tracing. The TT App will remain available on the App Store, Google Play and Huawei AppGallery and we will prioritise distributing TT Tokens to those who cannot use the TT App, such as seniors, children, and those without smart phones.
+2. However, we must remain prepared to reactivate Vaccination Differentiated Safe Management Measures (VDS) and contact tracing. Should TT operations be reactivated, we encourage those who can use the TT App to do so instead of collecting a Token, as the App allows for swifter updates and quicker contact tracing. The TT App will remain available on the App Store, Google Play and Huawei AppGallery and we will prioritise distributing TT Tokens to those who cannot use the TT App, such as seniors, children, and those without smart phones.
 
 ------
 
