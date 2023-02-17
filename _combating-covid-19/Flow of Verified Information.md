@@ -1,6 +1,6 @@
 ---
 title: Flow of Verified Information
-permalink: /combating-covid-19/flow-of-verified-information
+permalink: /combating-covid-19/flow-of-verified-information/
 description: With the rapidly changing situation at the start of the pandemic,
   there was a critical need to ensure that the members of the public receive
   verified information to ensure that citizens are well-informed.
@@ -14,7 +14,7 @@ Below is the list of sources where people can get verified information at any ti
 
 # COVID-19 Situation Report
 
-The [COVID-19 Situation Report](https://www.moh.gov.sg/covid-19/testing/situation-report-pdf) presents the key statistics and figures on the pandemic situation in Singapore.
+In line with the transition to DORSCON Green, key COVID-19 statistics will be consolidated on [MOH's website](https://www.moh.gov.sg/covid-19/statistics) and updated on a weekly basis from 13 February 2023, to align with reporting for other endemic infectious diseases in their Weekly Infectious Diseases Bulletin.
 
 # FluGoWhere
 
