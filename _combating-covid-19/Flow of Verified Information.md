@@ -14,8 +14,7 @@ Below is the list of sources where people can get verified information at any ti
 
 # COVID-19 Situation Report
 
-In line with the transition to DORSCON Green, key COVID-19 statistics will be consolidated on [MOH's website](https://www.moh.gov.sg/covid-19/statistics) and updated on a weekly basis from 13 February 2023, to align with reporting for other endemic infectious diseases in their Weekly Infectious Diseases Bulletin.
-
+In line with the transition to DORSCON Green, key COVID-19 statistics will be consolidated on [MOH's website](https://www.moh.gov.sg/covid-19/statistics) and updated on a weekly basis from 13 February 2023.
 # FluGoWhere
 
 This [FluGoWhere website](https://flu.gowhere.gov.sg/) allows the public to find a PHPC clinic closest to them should they need to see a doctor if they have any respiratory infections.
