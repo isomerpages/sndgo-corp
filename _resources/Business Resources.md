@@ -1,11 +1,10 @@
 ---
 title: Business Resources
-permalink: /resources/business
+permalink: /resources/business/
 description: "Whether you’re just starting out or looking to expand your
   operations, we want to help you along this entrepreneurial journey. "
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
 Venturing into a new business or running an existing one can be fraught with challenges, especially in an economic landscape marked by uncertainties caused by the COVID-19 pandemic. However, there are also opportunities to be had as Singapore and the world undergoes a digital transformation.
 
 So whether you’re just starting out or looking to expand your operations, we want to help you along this entrepreneurial journey. 
@@ -46,10 +45,12 @@ With more than 100 Government schemes available to support local companies, it c
 
 GoBusiness Gov Assist provides information on the various assistance options available as you grow your business –  all in one place!. Have more queries? An e-Adviser is on hand to help too. 
 
-## <a href="https://www.ihis.com.sg/HealthLab">HealthLab</a>
-Have a promising idea or solution that harnesses tech  to transform Singapore’s healthcare or improve public health? 
+## <a href="https://www.ihis.com.sg/HealthX/Pages/home.aspx">HealthX</a>
+Have a promising idea or solution that harnesses tech to transform Singapore’s healthcare or improve public health? 
 
-HealthLab seeks partners to take ideas from the drawing board to the real world by conducting trials, proof-of-concept and proof-of-value in a healthcare environment.
+An innovation hub to bring HealthTech ideas to reality, HealthX provides multiple pathways to support you (public healthcare institutions/agencies, and industry partners), no matter which stage you are at in your smart health innovation journey.
+Whether you have an idea on paper, are looking to develop or test your prototype, or seeking support to scale your innovation, HealthX provides the innovation platforms and enablers to help inspire health through innovation.
+
 
 ## <a href="https://www.tech.gov.sg/files/media/media-releases/2017/02/Annex%20B%20InnoLeap%20Factsheet.pdf">InnoLeap  (160kb)</a>
 
