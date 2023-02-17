@@ -2,7 +2,7 @@
 title: Call for Industry to Co-create Smart Health Solutions to Transform
   Healthcare & Improve Population Health
 date: 2017-05-24
-permalink: /media-hub/press-releases/call-for-industry-to-co-create-smart-health-solutions-to-transform-healthcare-and-improve-population-health
+permalink: /media-hub/press-releases/call-for-industry-to-co-create-smart-health-solutions-to-transform-healthcare-and-improve-population-health/
 ---
 ## Call For Industry To Co Create Smart Health Solutions To Transform Healthcare And Improve Population Health
 
@@ -16,7 +16,7 @@ Smart Health contributes to Singapore’s Smart Nation initiative to improve cit
 
 Co-creation opportunities highlighted by IHiS at the Smart Nation Industry Briefing include nudging through behavioural science to improve population health, disease prevention and management programmes, home diagnostic toolsets for self-triage, non-invasive, non-intrusive and ubiquitous monitoring, assistive robots, predictive models and near real-time surveillance of diseases and services, and more.
 
-Interested parties who are keen to join IHiS in its mission can visit [www.ihis.com.sg/healthlab](https://www.ihis.com.sg/healthlab) to apply.
+Interested parties who are keen to join IHiS in its mission can visit [their website](https://www.ihis.com.sg/HealthX/Pages/home.aspx) to apply.
 
 **About Integrated Health Information Systems (IHiS)**  
 IHiS is a multi-award-winning healthcare IT leader that digitises, connects, and analyses Singapore’s health ecosystem. Its ultimate aim is to improve the Singapore population’s health and health administration by integrating intelligent, highly resilient, and cost effective technologies with process and people.
