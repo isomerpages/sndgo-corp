@@ -64,7 +64,7 @@ Jurong Lake District also supports the movement towards zero waste. More can be 
 
 CapitaLand is sponsoring the following challenge statement to find a way to collect and manage waste data at their premises:
 
-*   **How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties?**
+> How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties?
 
 #### Car-Lite
 
@@ -72,7 +72,7 @@ Today, getting to Jurong Lake District is convenient using the established publi
 
 SMRT is sponsoring the following challenge statement to explore solutions in encouraging drivers to go car-lite and adopting Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District:
 
-* **How might we encourage drivers to go car-lite and promote more Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District?**
+> How might we encourage drivers to go car-lite and promote more Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District?
 
 #### Water System Optimisation
 
@@ -80,7 +80,7 @@ Smart technologies and automation will support a more efficient and connected wa
 
 CapitaLand and Lendlease Global Commercial REIT are co-sponsoring the following challenge statement on using pre-emptive and predictive systems to improve the safety and productivity in maintenance work, while reducing the wastage of water resources in the process:
 
-* **How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work?**
+> How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work?
 
 ## Prizes
 
