@@ -80,11 +80,9 @@ Our partners from Jurong Lake District have come together to share their challen
 
 #### Water System Optimisation
 
-Smart technologies and automation will support a more efficient and connected way to live and work and has the potential to conserve and optimise water resources. In the long run, it could also reduce reliance on manpower for repetitive tasks and enhance the well-being of employees.
+[CapitaLand]() and [Lendlease Global Commercial REIT]() are co-sponsoring the following challenge statement on using pre-emptive and predictive systems to improve the safety and productivity in maintenance work, while reducing the wastage of water resources in the process:
 
-CapitaLand and Lendlease Global Commercial REIT are co-sponsoring the following challenge statement on using pre-emptive and predictive systems to improve the safety and productivity in maintenance work, while reducing the wastage of water resources in the process:
-
-> How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work?
+* How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work?
 
 [Return to top](#transforming-singapore-through-technology)
 
