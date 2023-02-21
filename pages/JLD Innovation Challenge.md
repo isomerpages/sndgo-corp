@@ -70,13 +70,13 @@ Our partners from Jurong Lake District have come together to share their challen
 
 [SMRT]() is sponsoring the following challenge statement to explore solutions in encouraging drivers to go car-lite and adopting Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District:
 
-<div class="row" style="font-size:22px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we encourage drivers to go car-lite and promote more Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District?</div>
+<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we encourage drivers to go car-lite and promote more Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District?</div>
 
 #### Water System Optimisation
 
 [CapitaLand]() and [Lendlease Global Commercial REIT]() are co-sponsoring the following challenge statement on using pre-emptive and predictive systems to improve the safety and productivity in maintenance work, while reducing the wastage of water resources in the process:
 
-<div class="row" style="font-size:22px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work</div>
+<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work</div>
 
 [Return to top](#transforming-singapore-through-technology)
 
