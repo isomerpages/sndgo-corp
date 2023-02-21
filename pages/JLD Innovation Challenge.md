@@ -62,15 +62,15 @@ Ng Teng Fong General Hospital and Jurong Community Hospital are co-sponsoring th
 
 The Science Centre Singapore is sponsoring the following challenge statement on gamifying sustainability:
 
-> **How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?**
+> How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?
 
 Lendlease Global Commercial REIT is sponsoring the following challenge statement on optimising energy usage: 
 
-> **How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?**
+> How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?
 
 Ng Teng Fong General Hospital and Jurong Community Hospital are co-sponsoring the following challenge statement on reducing energy consumption in hospitals:
 
-> **How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?**
+> How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?
 
 #### Waste Management
 
