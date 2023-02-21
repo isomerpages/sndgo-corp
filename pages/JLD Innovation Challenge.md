@@ -54,7 +54,7 @@ The prizes for the JLD Innovation challenge are as follows:
 
 ## How to participate
 
-Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnovation.sg/imda) by 24 Apr 2023.
+Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnovation.sg/imda) by 21 Apr 2023.
 
 
 
