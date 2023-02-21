@@ -25,18 +25,6 @@ Our partners from Jurong Lake District have come together to share their challen
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<img src="/images/JLD/JLD-Low-Carbon.jpg" alt="Low Carbon"><br><div class="header"></div><b>Low Carbon</b><br><br>All new buildings in Jurong Lake District will be required to minimally achieve Green Mark Platinum (Super Low Energy) certification. Existing businesses are also actively seeking ways to reduce energy consumption in their buildings. Reducing the carbon footprint of the district will be a combined effort by residents, businesses and visitors; and should be made fun, educational and hassle-free.<br><br>The Science Centre Singapore is sponsoring the following challenge statement on gamifying sustainability:<br><br><b>How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?</b><br><br>Lendlease Global Commercial REIT is sponsoring the following challenge statement on optimising energy usage:<br><br><b>How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?</b><br><br>Ng Teng Fong General Hospital and Jurong Community Hospital are co-sponsoring the following challenge statement on reducing energy consumption in hospitals:<br><br><b>How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?</b></div>
-
-<div class="col" style="padding: 10px 20px 10px 20px;">
-<img src="/images/JLD/JLD-Waste-Management.jpg" alt="Waste Management"><br><div class="header"></div><b>Waste Management</b><br><br>Jurong Lake District also supports the movement towards zero waste. More can be done to increase recycling rates by strengthening the effectiveness of strategies through the help of digitalisation.<br><br>CapitaLand is sponsoring the following challenge statement to find a way to collect and manage waste data at their premises:<br><br><b>How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties?</b></div>
-	
-</div>
-
-
-
-<div class="row" style="padding: 20px 0px 0px 0px;">
-
-<div class="col" style="padding: 10px 20px 10px 20px;">
 <img src="/images/JLD/JLD-Low-Carbon.jpg" alt="Low Carbon"><br><div class="header"><b>Low Carbon</b></div></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
@@ -60,15 +48,29 @@ Our partners from Jurong Lake District have come together to share their challen
 
 The Science Centre Singapore is sponsoring the following challenge statement on gamifying sustainability:
 
-* **How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?**
+<div style="font-size:22px; color: #a6221c;">How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?</div>
 
 Lendlease Global Commercial REIT is sponsoring the following challenge statement on optimising energy usage: 
 
-* **How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?**
+<div style="font-size:22px; color: #a6221c;">How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?</div>
 
 Ng Teng Fong General Hospital and Jurong Community Hospital are co-sponsoring the following challenge statement on reducing energy consumption in hospitals:
 
-* **How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?**
+<div style="font-size:22px; color: #a6221c;">How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?</div>
+
+#### Low Carbon
+
+The Science Centre Singapore is sponsoring the following challenge statement on gamifying sustainability:
+
+> How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?
+
+Lendlease Global Commercial REIT is sponsoring the following challenge statement on optimising energy usage: 
+
+> How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?
+
+Ng Teng Fong General Hospital and Jurong Community Hospital are co-sponsoring the following challenge statement on reducing energy consumption in hospitals:
+
+> How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?
 
 #### Waste Management
 
