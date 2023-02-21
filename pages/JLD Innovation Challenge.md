@@ -3,20 +3,20 @@ title: JLD Innovation Challenge
 permalink: /jldchallenge2023/
 description: ""
 ---
-# Jurong Lake District (JLD) Innovation Challenge
+# Jurong Lake District Innovation Challenge
 ![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)
 
 * [Challenge Statements](#challenge-statements)
 *  [Prizes](#prizes)
 *  [How to participate](#how-to-participate)
 
-## About JLD
+## About Jurong Lake District
 
 [Jurong Lake District (JLD)](https://www.jld.gov.sg/) is a 410ha new growth area in western Singapore and is planned to be the largest mixed-use business district outside the city centre to support our decentralisation efforts and to grow our economy. It will be a model district that promotes urban sustainability and a healthy living environment for residents, workers, and visitors.  
   
 Jurong Lake District aims to achieve net zero emissions for new developments around 2045. This is part of [Singapore's national climate target to achieve net zero emissions by 2050](https://www.nccs.gov.sg/media/press-releases/singapore-commits-to-achieve-net-zero/). 
 
-## About the JLD Innovation challenge
+## About the Jurong Lake District Innovation challenge
 
 To realise our sustainability ambition, we believe in collaborating with relevant stakeholders in the district such as landlords, businesses, residents, and urban solution providers, and experimenting with new ideas and novel solutions to collectively shape a sustainable future.
 
@@ -82,7 +82,7 @@ Our partners from Jurong Lake District have come together to share their challen
 
 ## Prizes
 
-The prizes for the JLD Innovation challenge are as follows:
+The prizes for the Jurong Lake District Innovation challenge are as follows:
 
 * Prize money of $50,000 will be awarded to each winning team
 * Each winning team will also be presented with an opportunity to collaborate with partners in Jurong Lake District to test-bed prototypes at their premises
