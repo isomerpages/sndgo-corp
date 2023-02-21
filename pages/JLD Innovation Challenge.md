@@ -6,7 +6,9 @@ description: ""
 # Jurong Lake District (JLD) Innovation Challenge
 ![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)
 
-[Challenge Statements](/jldchallenge2023/#about_the_JLD_innovation_challenge) | Prizes | How to participate
+* [Challenge Statements](/jldchallenge2023/#about_the_JLD_innovation_challenge)
+*  [Prizes]()
+*  [How to participate]()
 
 ## About JLD
 
