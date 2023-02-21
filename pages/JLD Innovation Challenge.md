@@ -50,15 +50,15 @@ Our partners from Jurong Lake District have come together to share their challen
 
 [The Science Centre Singapore]() is sponsoring the following challenge statement on gamifying sustainability:
 
-> How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?
+* How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?
 
 [Lendlease Global Commercial REIT]() is sponsoring the following challenge statement on optimising energy usage: 
 
-> How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?
+* How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?
 
 [Ng Teng Fong General Hospital]() and [Jurong Community Hospital]() are co-sponsoring the following challenge statement on reducing energy consumption in hospitals:
 
-> How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?
+* How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?
 
 [Return to top](#transforming-singapore-through-technology)
 
@@ -66,7 +66,7 @@ Our partners from Jurong Lake District have come together to share their challen
 
 [CapitaLand]() is sponsoring the following challenge statement to find a way to collect and manage waste data at their premises:
 
-> How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties?
+* How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties?
 
 [Return to top](#transforming-singapore-through-technology)
 
@@ -74,7 +74,7 @@ Our partners from Jurong Lake District have come together to share their challen
 
 [SMRT]() is sponsoring the following challenge statement to explore solutions in encouraging drivers to go car-lite and adopting Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District:
 
-> How might we encourage drivers to go car-lite and promote more Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District?
+* How might we encourage drivers to go car-lite and promote more Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District?
 
 [Return to top](#transforming-singapore-through-technology)
 
