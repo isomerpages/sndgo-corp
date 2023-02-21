@@ -6,6 +6,8 @@ description: ""
 # Jurong Lake District (JLD) Innovation Challenge
 ![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)
 
+[Challenge Statements](/jldchallenge2023/#about_the_JLD_innovation_challenge) | Prizes | How to participate
+
 ## About JLD
 
 [Jurong Lake District (JLD)](https://www.jld.gov.sg/) is a 410ha new growth area in western Singapore and is planned to be the largest mixed-use business district outside the city centre to support our decentralisation efforts and to grow our economy. It will be a model district that promotes urban sustainability and a healthy living environment for residents, workers, and visitors.  
