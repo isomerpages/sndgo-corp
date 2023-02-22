@@ -6,16 +6,16 @@ layout: post
 description: ""
 image: ""
 ---
-  ## Availability, data security and procurement policy of Government web services and data 
+## Availability, data security and procurement policy of Government web services and data 
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 22 February 2023**
 
-#### Question
+### Question
   
 
 **Ms Poh Li San asked the Prime Minister** in view of the recent disruption caused by the power outage at Microsoft Azure on 8 February 2023 (a) how can Government web services and data hosted on commercial data centres be assured of availability and data security; and (b) what is the Government’s procurement policy in terms of web services and data hosted in data centres owned by Singapore companies compared to foreign companies.
 
-#### Answer
+### Answer
 
 **Oral reply by Dr Janil Puthucheary, Minister-in-Charge of GovTech (for the Prime Minister)**
 
