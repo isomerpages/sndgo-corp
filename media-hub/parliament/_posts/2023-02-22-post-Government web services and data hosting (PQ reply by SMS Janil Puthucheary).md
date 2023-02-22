@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Availability, data security and procurement policy of Government web services and data 
+Availability, data security and procurement policy of Government web services and data hosted on commercial data centres
 --------
 
 
