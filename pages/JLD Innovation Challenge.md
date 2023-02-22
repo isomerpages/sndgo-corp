@@ -48,33 +48,33 @@ Our partners from Jurong Lake District have come together to share their challen
 
 #### Low Carbon
 
-[The Science Centre Singapore]() is sponsoring the following challenge statement on gamifying sustainability:
+[The Science Centre Singapore](https://www.science.edu.sg/) is sponsoring the following challenge statement on gamifying sustainability:
 
 <div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?</div>
 
-[Lendlease Global Commercial REIT]() is sponsoring the following challenge statement on optimising energy usage: 
+[Lendlease Global Commercial REIT](https://www.lendleaseglobalcommercialreit.com/) is sponsoring the following challenge statement on optimising energy usage: 
 
 <div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?</div>
 
-[Ng Teng Fong General Hospital]() and [Jurong Community Hospital]() are co-sponsoring the following challenge statement on reducing energy consumption in hospitals:
+[Ng Teng Fong General Hospital](https://www.ntfgh.com.sg/) and [Jurong Community Hospital](https://www.jch.com.sg/) are co-sponsoring the following challenge statement on reducing energy consumption in hospitals:
 
 <div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?</div>
 
 #### Waste Management
 
-[CapitaLand]() is sponsoring the following challenge statement to find a way to collect and manage waste data at their premises:
+[CapitaLand](https://www.capitaland.com/) is sponsoring the following challenge statement to find a way to collect and manage waste data at their premises:
 
 <div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties?</div>
 
 #### Car-Lite
 
-[SMRT]() is sponsoring the following challenge statement to explore solutions in encouraging drivers to go car-lite and adopting Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District:
+[SMRT](https://www.smrt.com.sg/) is sponsoring the following challenge statement to explore solutions in encouraging drivers to go car-lite and adopting Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District:
 
 <div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we encourage drivers to go car-lite and promote more Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District?</div>
 
 #### Water System Optimisation
 
-[CapitaLand]() and [Lendlease Global Commercial REIT]() are co-sponsoring the following challenge statement on using pre-emptive and predictive systems to improve the safety and productivity in maintenance work, while reducing the wastage of water resources in the process:
+[CapitaLand](https://www.capitaland.com/) and [Lendlease Global Commercial REIT](https://www.lendleaseglobalcommercialreit.com/) are co-sponsoring the following challenge statement on using pre-emptive and predictive systems to improve the safety and productivity in maintenance work, while reducing the wastage of water resources in the process:
 
 <div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work?</div>
 
