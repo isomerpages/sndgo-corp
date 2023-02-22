@@ -128,11 +128,19 @@ Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnov
 
 <div class="col"><a href="https://www.science.edu.sg/" target="new"><img src="/images/JLD/JLD-sc.jpeg" alt="Science Centre Singapore" title="Science Centre Singapore"/></a></div>	
 	
-<div class="col"><a href="https://www.smrt.com.sg/" target="new"><img src="/images/JLD/JLD-Logos-SMRT.jpeg" alt="SMRT Corporation" title="SMRT Corporation"/></a></div>
+<div class="col"><a href="https://www.smrt.com.sg/" target="new"><img src="/images/JLD/JLD-smrt.jpeg" alt="SMRT Corporation" title="SMRT Corporation"/></a></div>
+
+<div class="col"><a href="https://www.jch.com.sg/" target="new"><img src="/images/JLD/JLD-juronghospital.jpeg" alt="Jurong Community Hospital" title="Jurong Community Hospital"/></a></div>
+	
+</div>
+
+<div class="row">	
 
 <div class="col"><a href="https://www.temasekfoundation.org.sg/" target="new"><img src="/images/JLD/JLD-temasek.jpeg" alt="Temasek Foundation" title="Temasek Foundation"/></a></div>
-	
 
+<div class="col"></div>
+
+<div class="col"></div>		
 	
 </div>
 
@@ -140,20 +148,28 @@ Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnov
 
 <div class="row">
 
-<div class="col"><a href="https://www.ema.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-EMA.jpeg" alt="Energy Market Authority" title="Energy Market Authority"/></a></div>
+<div class="col"><a href="https://www.bca.gov.sg/" target="new"><img src="/images/JLD/JLD-bca.jpeg" alt="Building and Construction Authority" title="Building and Construction Authority"/></a></div>	
 	
-<div class="col"><a href="https://www.lta.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-LTA.jpeg" alt="Land Transport Authority" title="Land Transport Authority"/></a></div>
-
-<div class="col"><a href="https://www.nea.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-NEA.jpeg" alt="National Environment Agency" title="National Environment Agency"/></a></div>
+<div class="col"><a href="https://www.ema.gov.sg/" target="new"><img src="/images/JLD/JLD-ema.jpeg" alt="Energy Market Authority" title="Energy Market Authority"/></a></div>
+	
+<div class="col"><a href="https://www.lta.gov.sg/" target="new"><img src="/images/JLD/JLD-lta.jpeg" alt="Land Transport Authority" title="Land Transport Authority"/></a></div>
 
 </div>
 
 <div class="row">
 
-<div class="col"><a href="https://www.jtc.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-JTC.jpeg" alt="JTC" title="JTC"/></a></div>
-	
-<div class="col"></div>
+<div class="col"><a href="https://www.pub.gov.sg/" target="new"><img src="/images/JLD/JLD-pub.jpeg" alt="PUB Singapore's National Water Agency" title="PUB Singapore's National Water Agency"/></a></div>	
 
-<div class="col"></div>
+<div class="col"><a href="https://www.nea.gov.sg/" target="new"><img src="/images/JLD/JLD-nea.jpeg" alt="JTC" title="National Environment Agency"/></a></div>
+	
+<div class="col"><a href="https://www.jtc.gov.sg/" target="new"><img src="/images/JLD/JLD-jtc.jpeg" alt="JTC" title="JTC"/></a></div>
+	
+</div>
+
+## Powered by
+
+<div class="row">
+
+<div class="col"><a href="https://www.openinnovation.sg/imda" target="new"><img src="/images/JLD/jld_imda_oip.jpeg" alt="Open Innovation Platform" title="Open Innovation Platform"/></a></div>
 	
 </div>
