@@ -176,5 +176,7 @@ Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnov
 <div class="row">
 
 <div class="col"><a href="https://www.openinnovation.sg/imda" target="new"><img src="/images/JLD/jld_imda_oip.jpeg" alt="Open Innovation Platform" title="Open Innovation Platform"/></a></div>
+
+<div class="col"></div>
 	
 </div>
