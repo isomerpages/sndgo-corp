@@ -102,11 +102,11 @@ Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnov
 
 <div class="row">
 
-<div class="col"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-SNDGO.jpeg" alt="SNDGO" title="SNDGO"/></a></div>
-
-<div class="col"><a href="https://www.imda.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-IMDA.jpeg" alt="IMDA" title="IMDA"/></a></div>
+<div class="col"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/JLD/JLD-sndgo.jpeg" alt="SNDGO" title="SNDGO"/></a></div>
 	
-<div class="col"><a href="https://www.ura.gov.sg/" target="new"><img src="/images/JLD/JLD-Logos-URA.jpeg" alt="URA" title="URA"/></a></div>
+<div class="col"><a href="https://www.ura.gov.sg/" target="new"><img src="/images/JLD/JLD-ura.jpeg" alt="URA" title="URA"/></a></div>
+
+<div class="col"></div>
 
 </div>
 
@@ -114,21 +114,25 @@ Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnov
 
 <div class="row">
 
-<div class="col"><a href="https://www.temasekfoundation.org.sg/" target="new"><img src="/images/JLD/JLD-Logos-Temasek.jpeg" alt="Temasek Foundation" title="Temasek Foundation"/></a></div>
-	
-<div class="col"><a href="https://www.capitaland.com/" target="new"><img src="/images/JLD/JLD-Logos-Capitaland.jpeg" alt="CapitaLand" title="CapitaLand"/></a></div>
+<div class="col"><a href="https://www.capitaland.com/" target="new"><img src="/images/JLD/JLD-capitaland.jpeg" alt="CapitaLand" title="CapitaLand"/></a></div>
 
-<div class="col"><a href="https://www.smrt.com.sg/" target="new"><img src="/images/JLD/JLD-Logos-SMRT.jpeg" alt="SMRT Corporation" title="SMRT Corporation"/></a></div>
+<div class="col"><a href="https://www.lendleaseglobalcommercialreit.com/" target="new"><img src="/images/JLD/JLD-lendlease.jpeg" alt="Lendlease Global Commercial REIT" title="Lendlease Global Commercial REIT"/></a></div>	
+	
+<div class="col"><a href="https://www.ntfgh.com.sg/" target="new"><img src="/images/JLD/JLD-ngtengfong.jpeg" alt="Ng Teng Fong Hospital" title="Ng Teng Fong Hospital"/></a></div>
+	
+
 
 </div>
 	
 <div class="row">	
 
-<div class="col"><a href="https://www.lendlease.com/sg/" target="new"><img src="/images/JLD/JLD-Logos-Lendlease.jpeg" alt="Lendlease" title="Lendlease"/></a></div>
+<div class="col"><a href="https://www.science.edu.sg/" target="new"><img src="/images/JLD/JLD-sc.jpeg" alt="Science Centre Singapore" title="Science Centre Singapore"/></a></div>	
 	
-<div class="col"><a href="https://www.science.edu.sg/" target="new"><img src="/images/JLD/JLD-Logos-SC.jpeg" alt="Science Centre Singapore" title="Science Centre Singapore"/></a></div>
+<div class="col"><a href="https://www.smrt.com.sg/" target="new"><img src="/images/JLD/JLD-Logos-SMRT.jpeg" alt="SMRT Corporation" title="SMRT Corporation"/></a></div>
 
-<div class="col"></div>
+<div class="col"><a href="https://www.temasekfoundation.org.sg/" target="new"><img src="/images/JLD/JLD-temasek.jpeg" alt="Temasek Foundation" title="Temasek Foundation"/></a></div>
+	
+
 	
 </div>
 
