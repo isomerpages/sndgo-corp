@@ -6,7 +6,6 @@ description: We are calling for all start-ups, private companies, institutes of
   address the sustainability challenges facing the Jurong Lake District
 image: /images/JLD/JLD-challenge-ogimage.jpeg
 ---
-
 # Jurong Lake District Innovation Challenge
 ![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)
 
@@ -24,6 +23,8 @@ Jurong Lake District aims to achieve net zero emissions for new developments aro
 
 To realise our sustainability ambition, we believe in collaborating with relevant stakeholders in the district such as landlords, businesses, residents, and urban solution providers, and experimenting with new ideas and novel solutions to collectively shape a sustainable future.
 
+![Jurong Lake Innovation Challenge](/images/JLD/jld_challenge_logo.jpeg)
+
 We are calling for all start-ups, private companies, institutes of higher learning, and research institutes to propose innovative solutions to address the sustainability challenges facing the district.
 
 Our partners from Jurong Lake District have come together to share their challenge statements, under the key themes below:
@@ -31,20 +32,20 @@ Our partners from Jurong Lake District have come together to share their challen
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<img src="/images/JLD/JLD-Low-Carbon.jpg" alt="Low Carbon"><br><div class="header"><b>Low Carbon</b></div><br>All new buildings in Jurong Lake District will be required to minimally achieve Green Mark Platinum (Super Low Energy) certification. Existing businesses are also actively seeking ways to reduce energy consumption in their buildings. Reducing the carbon footprint of the district will be a combined effort by residents, businesses and visitors; and should be made fun, educational and hassle-free.<br><br><a href="/jldchallenge2023/#low-carbon">Challenge Statements</a></div>
+<img src="/images/JLD/jld-low-carbon.jpg" alt="Low Carbon"><br><div class="header"><b>Low Carbon</b></div><br>All new buildings in Jurong Lake District will be required to minimally achieve Green Mark Platinum (Super Low Energy) certification. Existing businesses are also actively seeking ways to reduce energy consumption in their buildings. Reducing the carbon footprint of the district will be a combined effort by residents, businesses and visitors; and should be made fun, educational and hassle-free.<br><br><a href="/jldchallenge2023/#low-carbon">Challenge Statements</a></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<img src="/images/JLD/JLD-Waste-Management.jpg" alt="Waste Management"><br><div class="header"><b>Waste Management</b></div><br>Jurong Lake District also supports the movement towards zero waste. More can be done to increase recycling rates by strengthening the effectiveness of strategies through the help of digitalisation.<br><br><a href="/jldchallenge2023/#waste-management">Challenge Statements</a></div>
+<img src="/images/JLD/jld-waste-management.jpg" alt="Waste Management"><br><div class="header"><b>Waste Management</b></div><br>Jurong Lake District also supports the movement towards zero waste. More can be done to increase recycling rates by strengthening the effectiveness of strategies through the help of digitalisation.<br><br><a href="/jldchallenge2023/#waste-management">Challenge Statements</a></div>
 
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<img src="/images/JLD/JLD-Car-Lite.jpg" alt="Car-lite"><br><div class="header"><b>Car-lite</b></div><br>Today, getting to Jurong Lake District is convenient using the established public transport network. By the 2030s, Jurong Lake District will be even more connected with four MRT lines serving it and at least 85% of all trips targeted to be made by Walk-Cycle-Ride modes of transport in 2035. We are seeking to implement a mix of strategies from infrastructural enhancements to behavioural nudges to make car-lite an integral part of everyone’s lifestyle choices in Jurong Lake District.<br><br><a href="/jldchallenge2023/#car-lite">Challenge Statements</a></div>
+<img src="/images/JLD/jld-car-lite.jpg" alt="Car-lite"><br><div class="header"><b>Car-lite</b></div><br>Today, getting to Jurong Lake District is convenient using the established public transport network. By the 2030s, Jurong Lake District will be even more connected with four MRT lines serving it and at least 85% of all trips targeted to be made by Walk-Cycle-Ride modes of transport in 2035. We are seeking to implement a mix of strategies from infrastructural enhancements to behavioural nudges to make car-lite an integral part of everyone’s lifestyle choices in Jurong Lake District.<br><br><a href="/jldchallenge2023/#car-lite">Challenge Statements</a></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<img src="/images/JLD/JLD-Automated-Mobility.jpg" alt="Automated Mobility"><br><div class="header"><b>Water System Optimisation</b></div><br>Smart technologies and automation will support a more efficient and connected way to live and work and has the potential to conserve and optimise water resources. In the long run, it could also reduce reliance on manpower for repetitive tasks and enhance the well-being of employees.<br><br><a href="/jldchallenge2023/#water-system-optimisation">Challenge Statements</a></div>
+<img src="/images/JLD/jld-water-system.jpg" alt="Water System Optimisation"><br><div class="header"><b>Water System Optimisation</b></div><br>Smart technologies and automation will support a more efficient and connected way to live and work and has the potential to conserve and optimise water resources. In the long run, it could also reduce reliance on manpower for repetitive tasks and enhance the well-being of employees.<br><br><a href="/jldchallenge2023/#water-system-optimisation">Challenge Statements</a></div>
 
 </div>
 
