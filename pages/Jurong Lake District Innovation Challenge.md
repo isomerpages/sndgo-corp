@@ -25,7 +25,7 @@ Jurong Lake District aims to achieve net zero emissions for new developments aro
 
 ![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)  
 
-<div style="font-size:14px">From left: Second Permanent Secretary Mr Chng Kai Fong, Permanent Secretary Mr Joseph Leong, and Deputy Secretary Mr Sim Feng-Ji.</div>
+<div style="font-size:14px">Image credits: KCAP Architects & Planners, SAA Architects, Arup, S333 & Lekker</div>
 
 
 
