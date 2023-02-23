@@ -8,16 +8,26 @@ image: /images/JLD/JLD-challenge-ogimage.jpeg
 ---
 ![Jurong Lake Innovation Challenge](/images/JLD/jld_challenge_logo.jpeg)
 
+
+---
+
 * [Challenge Statements](#challenge-statements)
 *  [Prizes](#prizes)
 *  [How to participate](#how-to-participate)
+
+---
 
 ## About Jurong Lake District
 
 [Jurong Lake District (JLD)](https://www.jld.gov.sg/) is a 410ha new growth area in western Singapore. It is the largest mixed-use business district outside Singapore’s city centre and is developed to support our decentralisation efforts and to grow our economy. It is envisioned to be a model district that promotes urban sustainability and a healthy living environment for residents, workers, and visitors.
 
-![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)  
 Jurong Lake District aims to achieve net zero emissions for new developments around 2045. This is part of [Singapore's national climate target to achieve net zero emissions by 2050](https://www.nccs.gov.sg/media/press-releases/singapore-commits-to-achieve-net-zero/). 
+
+![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)  
+
+<div style="font-size:14px">From left: Second Permanent Secretary Mr Chng Kai Fong, Permanent Secretary Mr Joseph Leong, and Deputy Secretary Mr Sim Feng-Ji.</div>
+
+
 
 
 
