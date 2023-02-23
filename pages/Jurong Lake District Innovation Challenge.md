@@ -6,7 +6,6 @@ description: We are calling for all start-ups, private companies, institutes of
   address the sustainability challenges facing the Jurong Lake District
 image: /images/JLD/JLD-challenge-ogimage.jpeg
 ---
-
 ![Jurong Lake Innovation Challenge](/images/JLD/jld_challenge_logo.jpeg)
 
 * [Challenge Statements](#challenge-statements)
@@ -17,15 +16,13 @@ image: /images/JLD/JLD-challenge-ogimage.jpeg
 
 ## About Jurong Lake District
 
-[Jurong Lake District (JLD)](https://www.jld.gov.sg/) is a 410ha new growth area in western Singapore. It is the largest mixed-use business district outside Singapore’s city centre and is developed to support our decentralisation efforts and to grow our economy. It is envisioned to be a model district that promotes urban sustainability and a healthy living environment for residents, workers, and visitors.
+[Jurong Lake District (JLD)](https://www.jld.gov.sg/) is a 410ha new growth area in western Singapore. It  is the largest mixed-use business district outside Singapore’s city centre, and is developed to support our decentralisation efforts and to grow our economy. It is envisioned to be a model district that promotes urban sustainability and a healthy living environment for residents, workers, and visitors.
 
 Jurong Lake District aims to achieve net zero emissions for new developments around 2045. This is part of [Singapore's national climate target to achieve net zero emissions by 2050](https://www.nccs.gov.sg/media/press-releases/singapore-commits-to-achieve-net-zero/). 
 
 ![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)  
 
 <div style="font-size:14px">Image credits: KCAP Architects & Planners, SAA Architects, Arup, S333 & Lekker</div>
-
-
 
 
 
@@ -98,7 +95,7 @@ Our partners in Jurong Lake District have come together to share their challenge
 The prizes for the Jurong Lake District Innovation challenge are as follows:
 
 *   The winning team for each challenge statement will be awarded a prize money of $50,000
-*   Each winning team will also be presented with an opportunity to collaborate with partners in Jurong Lake District to test-bed prototypes at their premises, and to scale up to rest of Jurong Lake District and beyond if suitable
+*   Winning teams will also be given the opportunity to collaborate with the stakeholders to pilot their solutions at the stakeholders’ premises in and around the Jurong Lake District. Should these pilots prove to be effective, they may be scaled up to be deployed in the rest of the district and beyond, to benefit more developments and the wider public.
 *   An additional [Temasek Foundation](https://www.temasekfoundation.org.sg/) Liveability Solutions Prize of $50,000 will be awarded to the team with the most impactful solution
 
 [Return to top](#jurong-lake-district-jld-innovation-challenge)
