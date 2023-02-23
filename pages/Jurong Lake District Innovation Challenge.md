@@ -8,9 +8,6 @@ image: /images/JLD/JLD-challenge-ogimage.jpeg
 ---
 ![Jurong Lake Innovation Challenge](/images/JLD/jld_challenge_logo.jpeg)
 
-
----
-
 * [Challenge Statements](#challenge-statements)
 *  [Prizes](#prizes)
 *  [How to participate](#how-to-participate)
