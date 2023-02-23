@@ -6,8 +6,7 @@ description: We are calling for all start-ups, private companies, institutes of
   address the sustainability challenges facing the Jurong Lake District
 image: /images/JLD/JLD-challenge-ogimage.jpeg
 ---
-# Jurong Lake District Innovation Challenge
-![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)
+![Jurong Lake Innovation Challenge](/images/JLD/jld_challenge_logo.jpeg)
 
 * [Challenge Statements](#challenge-statements)
 *  [Prizes](#prizes)
@@ -15,27 +14,28 @@ image: /images/JLD/JLD-challenge-ogimage.jpeg
 
 ## About Jurong Lake District
 
-[Jurong Lake District (JLD)](https://www.jld.gov.sg/) is a 410ha new growth area in western Singapore and is planned to be the largest mixed-use business district outside the city centre to support our decentralisation efforts and to grow our economy. It will be a model district that promotes urban sustainability and a healthy living environment for residents, workers, and visitors.  
-  
+[Jurong Lake District (JLD)](https://www.jld.gov.sg/) is a 410ha new growth area in western Singapore. It is the largest mixed-use business district outside Singapore’s city centre and is developed to support our decentralisation efforts and to grow our economy. It is envisioned to be a model district that promotes urban sustainability and a healthy living environment for residents, workers, and visitors.
+
+![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)  
 Jurong Lake District aims to achieve net zero emissions for new developments around 2045. This is part of [Singapore's national climate target to achieve net zero emissions by 2050](https://www.nccs.gov.sg/media/press-releases/singapore-commits-to-achieve-net-zero/). 
+
+
 
 ## About the Jurong Lake District Innovation challenge
 
-To realise our sustainability ambition, we believe in collaborating with relevant stakeholders in the district such as landlords, businesses, residents, and urban solution providers, and experimenting with new ideas and novel solutions to collectively shape a sustainable future.
+To realise our sustainability ambition, we must work with relevant stakeholders such as landlords, businesses, residents, and urban solution providers to innovate and experiment with new ideas and solutions to shape our collective, sustainable future.
 
-![Jurong Lake Innovation Challenge](/images/JLD/jld_challenge_logo.jpeg)
+We are calling for all start-ups, companies, institutes of higher learning, and research institutes to propose novel solutions to address the sustainability challenges facing the district.
 
-We are calling for all start-ups, private companies, institutes of higher learning, and research institutes to propose innovative solutions to address the sustainability challenges facing the district.
-
-Our partners from Jurong Lake District have come together to share their challenge statements, under the key themes below:
+Our partners in Jurong Lake District have come together to share their challenge statements, under the key themes below:
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<img src="/images/JLD/jld-low-carbon.jpg" alt="Low Carbon"><br><div class="header"><b>Low Carbon</b></div><br>All new buildings in Jurong Lake District will be required to minimally achieve Green Mark Platinum (Super Low Energy) certification. Existing businesses are also actively seeking ways to reduce energy consumption in their buildings. Reducing the carbon footprint of the district will be a combined effort by residents, businesses and visitors; and should be made fun, educational and hassle-free.<br><br><a href="/jldchallenge2023/#low-carbon">Challenge Statements</a></div>
+<img src="/images/JLD/jld-low-carbon.jpg" alt="Low Carbon"><br><div class="header"><b>Low Carbon</b></div><br>All new buildings in Jurong Lake District will be required to minimally achieve <a href="https://www1.bca.gov.sg/buildsg/sustainability/green-mark-certification-scheme" target="new">Green Mark Platinum (Super Low Energy) certification.</a> Existing building owners are also actively seeking ways to reduce their energy consumption. Reducing the carbon footprint of the district will be a combined effort by residents, businesses and visitors; and should be made fun, educational and hassle-free.<br><br><a href="/jldchallenge2023/#low-carbon">Challenge Statements</a></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<img src="/images/JLD/jld-waste-management.jpg" alt="Waste Management"><br><div class="header"><b>Waste Management</b></div><br>Jurong Lake District also supports the movement towards zero waste. More can be done to increase recycling rates by strengthening the effectiveness of strategies through the help of digitalisation.<br><br><a href="/jldchallenge2023/#waste-management">Challenge Statements</a></div>
+<img src="/images/JLD/jld-waste-management.jpg" alt="Waste Management"><br><div class="header"><b>Waste Management</b></div><br>Jurong Lake District supports the movement towards zero waste. More can be done to increase recycling rates by strengthening the effectiveness of strategies through the help of digitalisation.<br><br><a href="/jldchallenge2023/#waste-management">Challenge Statements</a></div>
 
 </div>
 
@@ -57,7 +57,7 @@ Our partners from Jurong Lake District have come together to share their challen
 
 <div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?</div>
 
-[Lendlease Global Commercial REIT](https://www.lendleaseglobalcommercialreit.com/) is sponsoring the following challenge statement on optimising energy usage: 
+[Lendlease Global Commercial REIT](https://www.lendleaseglobalcommercialreit.com/) is sponsoring the following challenge statement on optimising energy usage:
 
 <div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?</div>
 
@@ -89,9 +89,9 @@ Our partners from Jurong Lake District have come together to share their challen
 
 The prizes for the Jurong Lake District Innovation challenge are as follows:
 
-* Prize money of $50,000 will be awarded to each winning team
-* Each winning team will also be presented with an opportunity to collaborate with partners in Jurong Lake District to test-bed prototypes at their premises
-* An additional [Temasek Foundation](https://www.temasekfoundation.org.sg/) Liveability Solutions Prize will also be awarded to one impactful winner from the competition to pilot its solution in Jurong Lake District
+*   The winning team for each challenge statement will be awarded a prize money of $50,000
+*   Each winning team will also be presented with an opportunity to collaborate with partners in Jurong Lake District to test-bed prototypes at their premises, and to scale up to rest of Jurong Lake District and beyond if suitable
+*   An additional [Temasek Foundation](https://www.temasekfoundation.org.sg/) Liveability Solutions Prize of $50,000 will be awarded to the team with the most impactful solution
 
 [Return to top](#jurong-lake-district-jld-innovation-challenge)
 
