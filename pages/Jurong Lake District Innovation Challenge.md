@@ -95,8 +95,8 @@ Our partners in Jurong Lake District have come together to share their challenge
 The prizes for the Jurong Lake District Innovation challenge are as follows:
 
 *   The winning team for each challenge statement will be awarded a prize money of $50,000
-*   Winning teams will also be given the opportunity to collaborate with the stakeholders to pilot their solutions at the stakeholders’ premises in and around the Jurong Lake District. Should these pilots prove to be effective, they may be scaled up to be deployed in the rest of the district and beyond, to benefit more developments and the wider public.
-*   An additional [Temasek Foundation](https://www.temasekfoundation.org.sg/) Liveability Solutions Prize of $50,000 will be awarded to the team with the most impactful solution
+*   Winning teams will also be given the opportunity to collaborate with the stakeholders to pilot their solutions at the stakeholders’ premises in and around the Jurong Lake District. Should these pilots prove to be effective, they may be scaled up to be deployed in the rest of the district and beyond, to benefit more developments and the wider public
+*   An additional [Temasek Foundation](https://www.temasekfoundation.org.sg/) Liveability Solutions Prize of $50,000 will be awarded to the team with the most impactful solution to pilot their solution in Jurong Lake District
 
 [Return to top](#jurong-lake-district-jld-innovation-challenge)
 
