@@ -22,7 +22,7 @@ At this year’s Committee of Supply Debate, Minister-in-charge of Smart Nation 
 
 In becoming a Smart Nation, we leverage technology to improve and transform the way we live, and the way business is conducted. There have been significant shifts in the last few years, as well as continued enhancements.
 
-*  There are five million Singpass users today, and 4.2 million use the **Singpass app**. About 90 per cent of all **Singpass** transactions are conducted through the app.
+*  There are five million Singpass users today, and 4.2 million use the **Singpass app**. About 90 per cent of all Singpass transactions are conducted through the app.
 
 *  More than 1,000 digital services offered by government agencies and businesses are onboard **Myinfo**, which helps pre-fill digital forms for online transactions. Currently, about 300,000 Myinfo transactions are performed every day.
 
