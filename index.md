@@ -32,7 +32,7 @@ sections:
         solutions at Jurong Lake District!
       button: Find Out More
       url: /jldchallenge2023/
-      image: /images/JLD/JLD-challenge-ogimage.jpeg
+      image: /images/JLD/JLD-Homepage-Banner.jpg
       alt: JLD Innovation Challenge
   - infopic:
       title: We're the world's smartest city for the third year running!
