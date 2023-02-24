@@ -65,4 +65,4 @@ Email: [Zoe_XU@tech.gov.sg](mailto:Zoe_XU@tech.gov.sg)
 
 [^1]: The Cyber-Watch Centre was established by the then-Infocomm Development Authority of Singapore in 2007 to provide round-the clock monitoring of cyber threats to critical installations in the public sector. More information at: [https://www.tech.gov.sg/files/media/media-releases/2013/05/AnnexDpdf.pdf](https://www.tech.gov.sg/files/media/media-releases/2013/05/AnnexDpdf.pdf)
 
-[^2]: The Government IT Security Incident Response (GITSIR) was established in 1997 to perform and coordinate incident investigations, digital forensics and malware analysis. More information at: www.tech.gov.sg/products-and-services/gitsir/
+[^2]: The Government IT Security Incident Response (GITSIR) was established in 1997 to perform and coordinate incident investigations, digital forensics and malware analysis. More information at: [www.tech.gov.sg/products-and-services/gitsir/](www.tech.gov.sg/products-and-services/gitsir/)
