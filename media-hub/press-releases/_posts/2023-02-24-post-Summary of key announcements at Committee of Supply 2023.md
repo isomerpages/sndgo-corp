@@ -57,11 +57,11 @@ As we continue to advance in our digitalisation efforts, partnerships with citiz
 
 The task of building a Smart Nation is never complete. As we embark on the next bound, we strive to:
 
-* Create opportunities for our people and businesses to flourish;
+* **Create opportunities for our people and businesses to flourish;**
 
-* Ensure that everyone can continue to transact safely and confidently in our digital spaces and;
+* **Ensure that everyone can continue to transact safely and confidently in our digital spaces and;**
 
-* Strengthen resilience and build stronger relationships in our community with the use of technology.
+* **Strengthen resilience and build stronger relationships in our community with the use of technology.**
 
 ---
 
