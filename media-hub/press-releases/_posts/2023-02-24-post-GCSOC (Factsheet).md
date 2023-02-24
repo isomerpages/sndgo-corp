@@ -49,13 +49,13 @@ analytics.
 
 **For media clarifications, please contact:**
 
-Leonard Lui (Mr)<br>
+**Leonard Lui (Mr)**<br>
 Communications & Marketing Group<br>
 Government Technology Agency<br>
 Tel: 9673 8285<br>
 Email: [Leonard_LUI@tech.gov.sg](mailto:Leonard_LUI@tech.gov.sg)
 
-Zoe Xu (Ms)<br>
+**Zoe Xu (Ms)**<br>
 Communications & Marketing Group<br>
 Government Technology Agency<br>
 Tel: 8189 1682<br>
