@@ -1,6 +1,6 @@
 ---
 title: GoWhere Suite (Factsheet)
-permalink: /media-hub/press-releases/gowhere-suite-factsheet-02032022
+permalink: /media-hub/press-releases/gowhere-suite-factsheet-02032022/
 date: 2022-03-02
 layout: post
 description: The GoWhere suite of websites supports location/eligibility-based
@@ -8,7 +8,6 @@ description: The GoWhere suite of websites supports location/eligibility-based
   public, and as a tech interface for government distribution operations.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
 ## Factsheet – GoWhere Suite
 
 **2 Mar 2022**
@@ -52,13 +51,13 @@ _______
 
 **For media enquiries, please contact:**
 
-(Ms) Elizabeth Lee<br>
+**(Ms) Elizabeth Lee**<br>
 Communications & Marketing Group<br>
 Government Technology Agency<br>
 Tel: 6977 5008<br>
 Email: [elizabeth_lee@tech.gov.sg](mailto:elizabeth_lee@tech.gov.sg)
 
-(Ms) Joyce Lee<br>
+**(Ms) Joyce Lee**<br>
 Communications & Marketing Group<br>
 Government Technology Agency<br>
 Tel: 9692 0909<br>
