@@ -65,6 +65,9 @@ The task of building a Smart Nation is never complete. As we embark on the next 
 
 ---
 
+
+---
+
 **For media enquiries, please contact:**
 
 **Chia Suat Ning (Ms)**<br>
