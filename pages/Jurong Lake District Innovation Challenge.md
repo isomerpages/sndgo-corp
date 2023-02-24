@@ -6,7 +6,6 @@ description: We are calling for all start-ups, private companies, institutes of
   address the sustainability challenges facing the Jurong Lake District
 image: /images/JLD/JLD-challenge-ogimage.jpeg
 ---
-
 ![Jurong Lake Innovation Challenge](/images/JLD/jld_challenge_logo.jpeg)
 
 * [Challenge Statements](#challenge-statements)
@@ -17,15 +16,13 @@ image: /images/JLD/JLD-challenge-ogimage.jpeg
 
 ## About Jurong Lake District
 
-[Jurong Lake District (JLD)](https://www.jld.gov.sg/) is a 410ha new growth area in western Singapore. It is the largest mixed-use business district outside Singapore’s city centre and is developed to support our decentralisation efforts and to grow our economy. It is envisioned to be a model district that promotes urban sustainability and a healthy living environment for residents, workers, and visitors.
+[Jurong Lake District](https://www.jld.gov.sg/) is a 410ha new growth area in western Singapore. It  is the largest mixed-use business district outside Singapore’s city centre, and is developed to support our decentralisation efforts and to grow our economy. It is envisioned to be a model district that promotes urban sustainability and a healthy living environment for residents, workers, and visitors.
 
 Jurong Lake District aims to achieve net zero emissions for new developments around 2045. This is part of [Singapore's national climate target to achieve net zero emissions by 2050](https://www.nccs.gov.sg/media/press-releases/singapore-commits-to-achieve-net-zero/). 
 
 ![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)  
 
 <div style="font-size:14px">Image credits: KCAP Architects & Planners, SAA Architects, Arup, S333 & Lekker</div>
-
-
 
 
 
@@ -63,33 +60,33 @@ Our partners in Jurong Lake District have come together to share their challenge
 
 [The Science Centre Singapore](https://www.science.edu.sg/) is sponsoring the following challenge statement on gamifying sustainability:
 
-<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?</div>
+<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices?</div><div class="row" style="font-size:18px; background-color: #f3f3f3; padding: 0px 20px 0px 20px;"><a href="https://go.gov.sg/jld-challenge-brief-lowcarbon-sciencecentre" target="new">Challenge brief</a></div>
 
 [Lendlease Global Commercial REIT](https://www.lendleaseglobalcommercialreit.com/) is sponsoring the following challenge statement on optimising energy usage:
 
-<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?</div>
+<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants?</div><div class="row" style="font-size:18px; background-color: #f3f3f3; padding: 0px 20px 0px 20px;"><a href="https://go.gov.sg/jld-challenge-brief-lowcarbon-lendlease" target="new">Challenge brief</a></div>
 
 [Ng Teng Fong General Hospital](https://www.ntfgh.com.sg/) and [Jurong Community Hospital](https://www.jch.com.sg/) are co-sponsoring the following challenge statement on reducing energy consumption in hospitals:
 
-<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?</div>
+<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements?</div><div class="row" style="font-size:18px; background-color: #f3f3f3; padding: 0px 20px 0px 20px;"><a href="https://go.gov.sg/jld-challenge-brief-lowcarbon-hospital" target="new">Challenge brief</a></div>
 
 #### Waste Management
 
 [CapitaLand](https://www.capitaland.com/) is sponsoring the following challenge statement to find a way to collect and manage waste data at their premises:
 
-<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties?</div>
+<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties?</div><div class="row" style="font-size:18px; background-color: #f3f3f3; padding: 0px 20px 0px 20px;"><a href="https://go.gov.sg/jld-challenge-brief-wastemanagement" target="new">Challenge brief</a></div>
 
 #### Car-Lite
 
 [SMRT](https://www.smrt.com.sg/) is sponsoring the following challenge statement to explore solutions in encouraging drivers to go car-lite and adopting Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District:
 
-<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we encourage drivers to go car-lite and promote more Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District?</div>
+<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we encourage drivers to go car-lite and promote more Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District?</div><div class="row" style="font-size:18px; background-color: #f3f3f3; padding: 0px 20px 0px 20px;"><a href="https://go.gov.sg/jld-challenge-brief-carlite" target="new">Challenge brief</a></div>
 
 #### Water System Optimisation
 
 [CapitaLand](https://www.capitaland.com/) and [Lendlease Global Commercial REIT](https://www.lendleaseglobalcommercialreit.com/) are co-sponsoring the following challenge statement on using pre-emptive and predictive systems to improve the safety and productivity in maintenance work, while reducing the wastage of water resources in the process:
 
-<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work?</div>
+<div class="row" style="font-size:22px; color: #a6221c; background-color: #f3f3f3; padding: 20px 20px 20px 20px;">How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work?</div><div class="row" style="font-size:18px; background-color: #f3f3f3; padding: 0px 20px 0px 20px;"><a href="https://go.gov.sg/jld-challenge-brief-watersystem" target="new">Challenge brief</a></div>
 
 [Return to top](#jurong-lake-district-jld-innovation-challenge)
 
@@ -98,14 +95,14 @@ Our partners in Jurong Lake District have come together to share their challenge
 The prizes for the Jurong Lake District Innovation challenge are as follows:
 
 *   The winning team for each challenge statement will be awarded a prize money of $50,000
-*   Each winning team will also be presented with an opportunity to collaborate with partners in Jurong Lake District to test-bed prototypes at their premises, and to scale up to rest of Jurong Lake District and beyond if suitable
-*   An additional [Temasek Foundation](https://www.temasekfoundation.org.sg/) Liveability Solutions Prize of $50,000 will be awarded to the team with the most impactful solution
+*   Winning teams will also be given the opportunity to collaborate with the stakeholders to pilot their solutions at the stakeholders’ premises in and around the Jurong Lake District. Should these pilots prove to be effective, they may be scaled up to be deployed in the rest of the district and beyond, to benefit more developments and the wider public
+*   An additional [Temasek Foundation](https://www.temasekfoundation.org.sg/) Liveability Solutions Prize of $50,000 will be awarded to the team with the most impactful solution to pilot their solution in Jurong Lake District
 
 [Return to top](#jurong-lake-district-jld-innovation-challenge)
 
 ## How to participate
 
-Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnovation.sg/imda) by 21 Apr 2023.
+Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnovation.sg/challenges) by 21 Apr 2023.
 
 [Return to top](#jurong-lake-district-jld-innovation-challenge)
 

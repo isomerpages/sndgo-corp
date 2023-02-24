@@ -27,6 +27,14 @@ sections:
       image: /images/initiatives/Singpass-05.jpeg
       alt: Singpass
   - infopic:
+      title: Jurong Lake District Innovation Challenge
+      description: Stand to win $50,000 in prize money and a chance to pilot your
+        solutions at Jurong Lake District!
+      button: Find Out More
+      url: /jldchallenge2023/
+      image: /images/JLD/JLD-Homepage-Banner.jpg
+      alt: JLD Innovation Challenge
+  - infopic:
       title: We're the world's smartest city for the third year running!
       description: Here are our milestones and achievements
       button: Follow Our Journey
