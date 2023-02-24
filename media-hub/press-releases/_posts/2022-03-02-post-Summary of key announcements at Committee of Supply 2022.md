@@ -1,6 +1,6 @@
 ---
 title: Summary of key announcements at Committee of Supply 2022
-permalink: /media-hub/press-releases/cos-2022
+permalink: /media-hub/press-releases/cos-2022/
 date: 2022-03-02
 layout: post
 description: Over the past 5 years, Smart Nation initiatives have resulted in
@@ -84,7 +84,7 @@ _______
 
 **For media enquiries, please contact:**
 
-(Mr) Kevin Kwang<br>
+**(Mr) Kevin Kwang**<br>
 Senior Manager,<br>
 Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, <br>
@@ -92,7 +92,7 @@ Prime Minister’s Office<br>
 Tel: 9734 1230<br>
 Email: [kevin_kwang@pmo.gov.sg](mailto:kevin_kwang@pmo.gov.sg)
 
-(Mr) Cristiano Peswani<br>
+**(Mr) Cristiano Peswani**<br>
 Manager, <br>
 Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, <br>

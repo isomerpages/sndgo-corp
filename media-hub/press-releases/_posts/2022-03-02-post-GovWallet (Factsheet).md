@@ -1,13 +1,12 @@
 ---
 title: GovWallet (Factsheet)
-permalink: /media-hub/press-releases/govwallet-factsheet-02032022
+permalink: /media-hub/press-releases/govwallet-factsheet-02032022/
 date: 2022-03-02
 layout: post
 description: GovWallet is an e-wallet feature that Government agencies can use
   to disburse monies and credits to citizens in a secure and convenient way.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
 ## Factsheet – GovWallet
 
 **2 Mar 2022**
@@ -44,13 +43,13 @@ To provide even more spending options for citizens, the GovWallet team is lookin
 
 **For media enquiries, please contact:**
 
-(Ms) Elizabeth Lee<br>
+**(Ms) Elizabeth Lee**<br>
 Communications & Marketing Group<br>
 Government Technology Agency<br>
 Tel: 6977 5008<br>
 Email: [elizabeth_lee@tech.gov.sg](mailto:elizabeth_lee@tech.gov.sg)
 
-(Ms) Joyce Lee<br>
+**(Ms) Joyce Lee**<br>
 Communications & Marketing Group<br>
 Government Technology Agency<br>
 Tel: 9692 0909<br>

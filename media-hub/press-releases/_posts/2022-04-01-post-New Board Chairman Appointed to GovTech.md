@@ -1,6 +1,6 @@
 ---
 title: New Board Chairman Appointed to GovTech
-permalink: /media-hub/press-releases/01042022
+permalink: /media-hub/press-releases/01042022/
 date: 2022-04-01
 layout: post
 description: The Smart Nation and Digital Government Group (SNDGG) announced
@@ -27,13 +27,13 @@ _______
 
 **For media enquiries, please contact:**
 
-(Mr) Adrian Chan<br>
+**(Mr) Adrian Chan**<br>
 Senior Manager, Communications and Marketing Group<br>
 Government Technology Agency <br>
 Tel: 6955 0525 <br>
 Email: [adrian_chan@tech.gov.sg](mailto:adrian_chan@tech.gov.sg)
 
-(Ms) Chia Suat Ning<br>
+**(Ms) Chia Suat Ning**<br>
 Manager, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 8182 8052<br>

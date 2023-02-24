@@ -1,6 +1,6 @@
 ---
 title: Singpass Singapore’s National Digital Identity (Factsheet)
-permalink: /media-hub/press-releases/singpass-factsheet-02032022
+permalink: /media-hub/press-releases/singpass-factsheet-02032022/
 date: 2022-03-02
 layout: post
 description: As a foundational digital infrastructure, the national digital
@@ -101,17 +101,17 @@ _______
 
 **For media enquiries, please contact:**
 
-(Ms) Juliana Ong<br>
+**(Ms) Juliana Ong**<br>
 Senior Manager, Communications and Marketing Group<br>
 Government Technology Agency<br>
 Email: [Juliana_ONG@tech.gov.sg](mailto:Juliana_ONG@tech.gov.sg)
 
-(Ms) Serene Chan<br>
+**(Ms) Serene Chan**<br>
 Manager, Communications and Marketing Group<br>
 Government Technology Agency<br>
 Email: [Serene_CHAN@tech.gov.sg](mailto:Serene_CHAN@tech.gov.sg)
 
-(Mr) Andre He<br>
+**(Mr) Andre He**<br>
 Manager, Communications and Marketing Group<br>
 Government Technology Agency<br>
 Email: [Andre_HE@tech.gov.sg](mailto:Andre_HE@tech.gov.sg)
