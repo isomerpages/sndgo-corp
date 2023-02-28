@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-Availability, data security and procurement policy of Government web services and data hosted on commercial data centres
---------
+## Availability, data security and procurement policy of Government web services and data hosted on commercial data centres
+
 
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 22 February 2023**
@@ -21,10 +21,10 @@ Availability, data security and procurement policy of Government web services an
 
 **Oral reply by Dr Janil Puthucheary, Minister-in-Charge of GovTech (for the Prime Minister)**
 
-1.              Mr. Speaker, outages and disruptions can happen to any digital service, including those hosted on cloud services. The recent service degradation at a Microsoft data centre had limited impact on government services. Nonetheless, GovTech has been working with Microsoft to fully restore affected services and to prevent similar occurrences in future.
+Mr. Speaker, outages and disruptions can happen to any digital service, including those hosted on cloud services. The recent service degradation at a Microsoft data centre had limited impact on government services. Nonetheless, GovTech has been working with Microsoft to fully restore affected services and to prevent similar occurrences in future.
 
-2.              In general, cloud service providers offer improved availability, scalability and cost efficiency. These advantages were most evident during the COVID-19 pandemic, when we could quickly deploy services to support national efforts such as contact tracing, proximity tracking, and the distribution of face masks.
+In general, cloud service providers offer improved availability, scalability and cost efficiency. These advantages were most evident during the COVID-19 pandemic, when we could quickly deploy services to support national efforts such as contact tracing, proximity tracking, and the distribution of face masks.
 
-3.              To qualify for government procurement, cloud service providers must meet our criteria for availability, resilience and security. The same criteria apply regardless of the service provider’s ownership and the location of the data centres. The services are regularly monitored to ensure compliance with the agreed service levels and stringent security standards. Prior to this incident, cloud service providers had been able to meet our requirements to be available at least 99.9% of the time.
+To qualify for government procurement, cloud service providers must meet our criteria for availability, resilience and security. The same criteria apply regardless of the service provider’s ownership and the location of the data centres. The services are regularly monitored to ensure compliance with the agreed service levels and stringent security standards. Prior to this incident, cloud service providers had been able to meet our requirements to be available at least 99.9% of the time.
 
-4.              Thank you very much.
+Thank you very much.
