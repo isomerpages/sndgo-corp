@@ -6,10 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+## Availability, data security and procurement policy of Government web services and data hosted on commercial data centres
 
-
-Availability, data security and procurement policy of Government web services and data hosted on commercial data centres
---------
 
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 22 February 2023**
