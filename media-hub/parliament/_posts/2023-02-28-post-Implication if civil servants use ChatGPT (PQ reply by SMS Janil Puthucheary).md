@@ -9,8 +9,6 @@ description: "As part of our efforts to utilise technology to encourage
   do their work more effectively. "
 image: ""
 ---
-
-
 ## Implication if civil servants use ChatGPT to write reports and speeches
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 28 February 2023**
@@ -31,15 +29,3 @@ Pair is still being developed. The Government aims to pilot this with a number o
 As suggested by the name “Pair”, the intent is for it to serve as an assistive tool that civil servants can leverage to improve their productivity, rather than entirely automating the writing process. Ultimately, civil servants using the tool are still directly responsible for making policy decisions, as well as crafting, refining, and customising the content of documents to ensure that they are relevant, accurate and appropriate.
 
 The Government is committed to ensuring that we are well-positioned to benefit from innovations such as ChatGPT, while managing the associated risks.
-
-### Transcript for supplementary questions and answers
-
-**Mr Yip Hon Weng**: 
-
-Thank you, Mr Speaker. I thank the Senior Minister of State for his reply. I have two supplementary questions. First is, how much productivity gain is expected to be achieved as a result of this initiative; and two, will the affected civil servants be redeployed to other portfolios or take on other forms of work.
-
-**Dr Janil Puthucheary**: 
-
-Sir, it is a little bit too early to calculate the expected gain in productivity. The tool is still being developed. The second question about redeployment – our experience in other parts of Government, with the use of productivity enhancement tools or automation, has resulted not in redeployment of personnel, so much as redevelopment of job roles and the tasks that officers are engaged in.
-
-This has been our experience for a number of years across the number of Ministries and agencies. It remains to be seen what the effect will be of this tool, as I said, it is early days yet.
