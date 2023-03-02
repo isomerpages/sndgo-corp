@@ -11,7 +11,7 @@ image: ""
 
 **01 Mar 2023**
 
-Mrs Josephine Teo, Minister for Smart Nation and Cybersecurity
+Mrs Josephine Teo,<br> Minister for Smart Nation and Cybersecurity
 <br>Smart Nation Ambassadors 
 <br> Ladies and Gentlemen
 
