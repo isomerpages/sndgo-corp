@@ -6,14 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-
 ## Opening Remarks by Dr Janil Puthucheary at Smart Nation Ambassadors Appreciation
 
 **01 Mar 2023**
-
-Mrs Josephine Teo,<br> Minister for Smart Nation and Cybersecurity,
-<br>Smart Nation Ambassadors, 
-<br> Ladies and Gentlemen
 
 ### Introduction
   
