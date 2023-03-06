@@ -9,7 +9,7 @@ description: ""
 
 **2 Mar 2017**
 
-**Transcript Of Speech By Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative**
+**Transcript of speech by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative**
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/gzRxey9XkYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
