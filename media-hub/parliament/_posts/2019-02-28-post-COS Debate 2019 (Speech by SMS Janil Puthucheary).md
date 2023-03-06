@@ -6,9 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-## Committee of Supply Debate 2019<br>(28 Feb 2019)
+## Committee of Supply Debate 2019
 
-**Speech By Dr Janil Puthucheary, Minister-in-Charge of GovTech**
+**28 Feb 2019**
+
+**Speech by Dr Janil Puthucheary, Minister-in-Charge of GovTech**
 
 Mr Chairman, I’ll make no assumptions about which derivative geek I am. But if I may follow on from Minister Vivian’s rallying cry for all of us to become involved in Singapore’s Smart Nation ambition, the Government cannot make this happen alone, cannot make this happen through force of will, by wishing it, by making speeches. We need the ideas and the capabilities of our people and businesses. As a nation, everyone needs to be part of our Smart Nation journey.
 
