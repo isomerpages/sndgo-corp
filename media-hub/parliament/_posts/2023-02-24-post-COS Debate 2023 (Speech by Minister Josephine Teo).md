@@ -6,5 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+## Committee of Supply Debate 2023<br>
 
+**24 Feb 2023**
 
+**Speech by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity**
