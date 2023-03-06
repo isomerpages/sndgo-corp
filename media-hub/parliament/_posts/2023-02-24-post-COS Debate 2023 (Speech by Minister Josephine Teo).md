@@ -10,7 +10,13 @@ image: ""
 
 **24 Feb 2023**
 
+[Click here to view recording of the Parliament proceedings.](https://www.youtube.com/live/QUBVvxBeZ7M?feature=share&t=21688)
+
+
 **Speech by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity**
+
+
+### Introduction
 
 Good afternoon, Mr Chairman. I thank Members for your questions and comments. In the interest of time, let me jump straight to the lessons we’ve learned since we started our Smart Nation journey in 2014. 
 
