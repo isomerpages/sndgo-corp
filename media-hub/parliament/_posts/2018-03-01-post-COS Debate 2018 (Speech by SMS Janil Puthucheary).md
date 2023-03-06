@@ -1,14 +1,15 @@
 ---
 layout: post
 title: COS Debate 2018 (Speech by SMS Janil Puthucheary)
-permalink: /media-hub/parliament/20180301
+permalink: /media-hub/parliament/20180301/
 date: 2018-03-01
 description: ""
 ---
+## Committee of Supply Debates 2018
 
-## Committee of Supply Debates 2018<br>(1 Mar 2018)
+**1 Mar 2018**
 
-**Transcript Of Speech By Dr Janil Puthucheary, Minister-in-Charge Of GovTech**
+**Transcript of speech by Dr Janil Puthucheary, Minister-in-Charge Of GovTech**
 
 Mr Chairman, many members have spoken about the unprecedented pace of technological innovation we are experiencing today. Singapore’s Smart Nation effort seeks to seize the opportunities presented by these changes, to create jobs and improve the lives of our people.
 
