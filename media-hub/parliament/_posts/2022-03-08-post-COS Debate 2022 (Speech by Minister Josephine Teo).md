@@ -5,7 +5,7 @@ date: 2022-03-08
 layout: post
 description: ""
 ---
-## Committee of Supply 2022
+## Committee of Supply Debate 2022
 
 **2 March 2022**
 
