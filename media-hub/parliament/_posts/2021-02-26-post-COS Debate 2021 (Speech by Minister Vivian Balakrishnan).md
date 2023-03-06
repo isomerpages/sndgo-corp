@@ -1,16 +1,13 @@
 ---
 title: COS Debate 2021 (Speech by Minister Vivian Balakrishnan)
 date: 2021-02-26
-permalink: /media-hub/parliament/20210226-a
+permalink: /media-hub/parliament/20210226-a/
 layout: post
 description: ""
 ---
+## Committee of Supply Debate 2021
 
-
-
-
-
-## Committee of Supply 2021<br> (26 February 2021)
+**26 February 2021**
 
 **Speech by Minister Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative**
 

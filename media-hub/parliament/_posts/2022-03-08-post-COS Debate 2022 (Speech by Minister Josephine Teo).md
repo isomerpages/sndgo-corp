@@ -1,11 +1,13 @@
 ---
 title: COS Debate 2022 (Speech by Minister Josephine Teo)
-permalink: /media-hub/parliament/COS-2022-speech
+permalink: /media-hub/parliament/COS-2022-speech/
 date: 2022-03-08
 layout: post
 description: ""
 ---
-## Committee of Supply 2022<br>(2 March 2022)
+## Committee of Supply Debate 2022
+
+**2 March 2022**
 
 **Speech by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity**
 
