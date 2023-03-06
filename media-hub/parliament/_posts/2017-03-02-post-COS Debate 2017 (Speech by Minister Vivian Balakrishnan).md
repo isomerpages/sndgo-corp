@@ -5,7 +5,7 @@ permalink: /media-hub/parliament/20170302/
 date: 2017-03-02
 description: ""
 ---
-## Committee of Supply Debates 2017
+## Committee of Supply Debate 2017
 
 **2 Mar 2017**
 
