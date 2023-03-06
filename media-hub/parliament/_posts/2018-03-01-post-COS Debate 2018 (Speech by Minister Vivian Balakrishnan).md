@@ -7,7 +7,7 @@ description: ""
 ---
 ## Committee of Supply Debate 2018
 
-(1 Mar 2018)
+**1 Mar 2018**
 
 **Transcript of speech by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative**
 
