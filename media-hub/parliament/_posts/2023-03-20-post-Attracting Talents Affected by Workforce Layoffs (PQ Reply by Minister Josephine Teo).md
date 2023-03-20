@@ -7,16 +7,15 @@ layout: post
 description: ""
 image: ""
 ---
-Attracting Talents Affected by Recent Workforce Lay-offs and Hiring Freezes into Civil Service
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Attracting Talents Affected by Recent Workforce Lay-offs and Hiring Freezes into Civil Service
 
 **Fourteenth Parliament of Singapore – First Session for the Sitting on 20 March 2023**
 
-#### Question
+### Question
 
 **Mr Yip Hon Weng asked the Prime Minister** how does the Civil Service intend to attract talents to join the public service that have been affected by the recent workforce lay-offs and hiring freezes by big global technology companies.
 
-#### Answer
+### Answer
 
 **Written answer by Mrs Josephine Teo, Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity (for the Prime Minister)**
 
