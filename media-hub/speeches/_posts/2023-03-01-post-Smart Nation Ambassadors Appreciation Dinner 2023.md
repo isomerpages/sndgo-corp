@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-## Opening Remarks by Dr Janil Puthucheary at Smart Nation Ambassadors Appreciation Dinner
+## Opening Remarks by Dr Janil Puthucheary at Smart Nation Ambassadors Appreciation Dinner 2023
 
 **01 Mar 2023**
 
