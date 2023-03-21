@@ -1,13 +1,12 @@
 ---
-title: Opening Remarks by Dr Janil Puthucheary at Smart Nation Ambassadors
-  Appreciation
+title: Smart Nation Ambassadors Appreciation Dinner 2023
 permalink: /media-hub/speeches/sn-appreciation-dinner-2023/
 date: 2023-03-01
 layout: post
 description: ""
 image: ""
 ---
-## Opening Remarks by Dr Janil Puthucheary at Smart Nation Ambassadors Appreciation Dinner
+## Opening Remarks by Dr Janil Puthucheary at Smart Nation Ambassadors Appreciation Dinner 2023
 
 **01 Mar 2023**
 
