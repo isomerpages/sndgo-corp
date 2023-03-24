@@ -117,9 +117,8 @@ For the next phase, they will be guided by satellite. The aim is to have them ev
 
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
 	<ul>
-		<li><a href="https://www.edb.gov.sg/en/business-insights/insights/singapore-and-autonomous-vehicles-interesting-lessons-in-governance-planning-and-safety.html" target="_blank">EDB Singapore: Singapore And Autonomous Vehicles - Interesting Lessons In Governance, Planning, And Safety</a></li>
 		<li><a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/3/2/factsheet-leveraging-technology-for-a-smarter-and-greener-transport-system.html" target="_blank">Factsheet: Leveraging Technology for a Smarter and Greener Transport System</a></li>
-			<li><a href="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/autonomous_vehicles.html" target="_blank">LTA: Autonomous Vehicles</a></li>
+		<li><a href="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/autonomous_vehicles.html" target="_blank">LTA: Autonomous Vehicles</a></li>
 	</ul>
 
 
