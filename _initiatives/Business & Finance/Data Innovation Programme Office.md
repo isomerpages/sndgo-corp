@@ -7,10 +7,6 @@ description: In Singapore, the Data Innovation Programme Office (DIPO) helps to
   offer a stable, well-regulated sandbox to support innovation in the industry.
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
-
-
-
-
 # Innovation at the Heart of our Economy
 ![Data innovation programme office](/images/initiatives/DIPO.jpg)
 
@@ -22,7 +18,7 @@ In Singapore, the Data Innovation Programme Office (DIPO) helps to facilitate th
 
 IMDA, PricewaterhouseCoopers (PwC) and DEX, a Singapore-based startup, participated in the first Data Collaborative pilot in April 2018. The shared aim was to build a decentralised, well-regulated and audited platform that data owners can trust.
 
-Based off this six-month pilot, IMDA has since set up the [Data Collaboratives Programme](https://www.imda.gov.sg/programme-listing/data-collaborative-programme) in consultation with Personal Data Protection Commission (PDPC). The programme includes a [Trusted Data Sharing Framework](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2019/Enabling-Data-Driven-Innovation-Through-Trusted-Data-Sharing-In-A-Digital-Economy) and data regulatory sandbox to help businesses share data in a safe, meaningful way.
+Based off this six-month pilot, IMDA has since set up the Data Collaboratives Programme in consultation with Personal Data Protection Commission (PDPC). The programme includes a [Trusted Data Sharing Framework](https://www.imda.gov.sg/How-We-Can-Help/Data-Innovation/Trusted-Data-Sharing-Framework) and [Data Regulatory Sandbox](https://www.imda.gov.sg/How-We-Can-Help/Data-Innovation/Data-Regulatory-Sandbox) to help businesses share data in a safe, meaningful way.
 
 If your business is looking to make use of the regulatory sandbox, key considerations include:
 

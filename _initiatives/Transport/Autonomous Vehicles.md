@@ -1,6 +1,6 @@
 ---
 title: Autonomous Vehicles
-permalink: /initiatives/transport/autonomous-vehicles
+permalink: /initiatives/transport/autonomous-vehicles/
 third_nav_title: Transport
 description: Imagine a day when your family car drives your children to school,
   takes you to work and brings your elderly parents out to lunch—all by itself.
@@ -9,7 +9,6 @@ description: Imagine a day when your family car drives your children to school,
   vehicles (AVs)!
 image: /images/initiatives/gbtb-auto-rider-night.jpeg
 ---
-
 # Driving Into the Future
 ![Self driving illustration](/images/initiatives/self-driving-vehicle-lta.jpg)
 *(Image: Land Transport Authority)*
@@ -70,7 +69,7 @@ A* STAR’s self-driving vehicle was the first autonomous vehicle approved for p
 
 In collaboration with SMART, the team at NUS has designed working research prototypes that have been making the rounds around the campus. Riders can book them and select their desired pick-up and drop-off locations using their smartphones, much like an on-demand shuttle service.
 
-The team also conducted its first public trials of self-driving vehicles at the Chinese and Japanese Gardens in October 2014. The team has retrofitted an electric passenger car- the second vehicle to be approved for more complex testing on our public roads -. that has been tested at one-north since September 2015.
+The team also conducted its first public trials of self-driving vehicles at the Chinese and Japanese Gardens in October 2014. The team has retrofitted an electric passenger car- the second vehicle to be approved for more complex testing on our public roads - that has been tested at one-north since September 2015.
 
 #### nuTonomy
 ![nuTonomy's self driving car](/images/initiatives/nuTonomy.jpg)
@@ -118,9 +117,8 @@ For the next phase, they will be guided by satellite. The aim is to have them ev
 
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
 	<ul>
-		<li><a href="https://www.edb.gov.sg/en/business-insights/insights/singapore-and-autonomous-vehicles-interesting-lessons-in-governance-planning-and-safety.html" target="_blank">EDB Singapore: Singapore And Autonomous Vehicles - Interesting Lessons In Governance, Planning, And Safety</a></li>
 		<li><a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/3/2/factsheet-leveraging-technology-for-a-smarter-and-greener-transport-system.html" target="_blank">Factsheet: Leveraging Technology for a Smarter and Greener Transport System</a></li>
-			<li><a href="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/autonomous_vehicles.html" target="_blank">LTA: Autonomous Vehicles</a></li>
+		<li><a href="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/autonomous_vehicles.html" target="_blank">LTA: Autonomous Vehicles</a></li>
 	</ul>
 
 
