@@ -20,7 +20,7 @@ From 2018 to 2020, our push towards deeper and more extensive digitalisation led
 
 **1. Going deeper into what “digital to the core” and “serves with a heart” mean**
 
-There will be greater efforts to use digitalisation to create policies that are more personalised, and which can be easily adjusted in response to user behaviour. This will allow the Government to respond to citizens’ needs more effectively. We have already begun this with new digital platforms such as LifeSG.
+There will be greater efforts to use digitalisation to create policies that are more personalised, and which can be easily adjusted in response to user behaviour. This will allow the Government to respond to citizens’ needs more effectively. We have already begun this with digital platforms such as LifeSG.
 
 **2. Putting the citizen’s needs first**
 
@@ -56,7 +56,7 @@ Reviewing KPIs regularly allows us to assess our performance and identify areas 
 * **Other Statistics:**
   * 20,000 officers have been trained in data analytics and data science, meeting the initial target set  and a new KPI is being reviewed.
 
-  * All 20 ministries have submitted plans to use artificial intelligence, meeting the target of broadening digitalisation within the Government
+  * All 20 ministries have submitted plans to use artificial intelligence, meeting the target of broadening digitalisation within the Government.
 
 #### Other Goals for 2023
 
