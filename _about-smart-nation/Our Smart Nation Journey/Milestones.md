@@ -1,11 +1,10 @@
 ---
 title: Milestones
-permalink: /about-smart-nation/our-journey/milestones
+permalink: /about-smart-nation/our-journey/milestones/
 third_nav_title: Our Smart Nation Journey
 description: See how we have progressed as a Smart Nation.
 image: /images/og-image/Milsestones-OG-Image.jpg
 ---
-
 # Milestones of Singapore’s Smart Nation story
 
 ![Our Smart Nation Milestones](/images/abt-smart-nation/Milestones.jpg)
@@ -104,7 +103,7 @@ Prime Minister Lee Hsien Loong outlined plans to turn Singapore into the world�
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
 ## 2015
-The National Steps ChallengeTM was launched by the Health Promotion Board to encourage Singapore residents to be physically active. When participants sync their steps through a pedometer with the Healthy 365 app, they earn rewards for the steps they clock. The initiative has successfully galvanised an active lifestyle movement in Singapore with about 2 million participants across five seasons.
+The National Steps Challenge™ was launched by the Health Promotion Board to encourage Singapore residents to be physically active. When participants sync their steps through a pedometer with the Healthy 365 app, they earn rewards for the steps they clock. The initiative has successfully galvanised an active lifestyle movement in Singapore with about 2 million participants across five seasons.
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
@@ -142,7 +141,7 @@ The government identified key [Strategic National Projects](/initiatives/strateg
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
 ## 2019
-Deputy Prime Minister and Minister for Finance, Heng Swee Keat, announced that Singapore will embark on a plan to develop and use Artificial Intelligence (AI) to transform Singapore’s economy and improve the lives of citizens. This plan is outlined in the [National AI Strategy](/initiatives/artificial-intelligence) document that was unveiled at the SFF X SWITCH (Singapore FinTech Festival and Singapore Week of Innovation and TeCHnology) Conference.
+Deputy Prime Minister and then Minister for Finance, Heng Swee Keat, announced that Singapore will embark on a plan to develop and use Artificial Intelligence (AI) to transform Singapore’s economy and improve the lives of citizens. This plan is outlined in the [National AI Strategy](/initiatives/artificial-intelligence) document that was unveiled at the SFF X SWITCH (Singapore FinTech Festival and Singapore Week of Innovation and TeCHnology) Conference.
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
