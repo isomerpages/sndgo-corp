@@ -94,5 +94,4 @@ Completed in 2020, these are the first HDB flats equipped with smart distributio
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
 	<ul>
 		<li><a href="https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page/hdb-smart-home-exhibition" target="_blank">HDB Smart Enabled Home</a></li>
-		<li><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/yuhua-the-first-existing-hdb-estate-to-go-smart" target="_blank">Yuhua the First Existing HDB Estate to Go Smart</a></li>
-</div>
+		<li><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/yuhua-the-first-existing-hdb-estate-to-go-smart" target="_blank">Yuhua the First Existing HDB Estate to Go Smart</a></li></div>
