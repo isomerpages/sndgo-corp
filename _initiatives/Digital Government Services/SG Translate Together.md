@@ -21,23 +21,8 @@ third_nav_title: Digital Government Services
             padding-bottom: 56.25%;
         "
     >
-        <iframe
-            src="https://www.youtube.com/embed/OYRSf0Kx_Y"
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
-                left: 0;
-                right: 0;
-                bottom: 0;
-                height: 100%;
-                border: none;
-                max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
-    </div>
+
+<iframe width="1080" height="720" src="https://www.youtube.com/embed/-OYRSf0Kx_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     
+
+</div>
 </div>
