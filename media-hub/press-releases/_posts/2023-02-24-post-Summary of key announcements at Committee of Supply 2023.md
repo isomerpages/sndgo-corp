@@ -10,7 +10,7 @@ description: The Smart Nation and Digital Government Group (SNDGG) has made
   with Singaporeans at the heart of our efforts.
 image: ""
 ---
-## **Summary of key announcements at Committee of Supply 2023**
+## Summary of key announcements at Committee of Supply 2023
 
 **24 Feb 2023**
 
