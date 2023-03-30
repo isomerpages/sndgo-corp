@@ -28,7 +28,9 @@ _______
 
 #### Annex 
 
-<br><div style="width:75%"><img src="/images/media-hub/press-release/2023/Outgoing_CE_GovTech_2023.jpg" alt="Mr Kok Ping Soon"></div>
+<br>
+
+<div style="width:75%"><img src="/images/media-hub/press-release/2023/Outgoing_CE_GovTech_2023.jpg" alt="Mr Kok Ping Soon"></div>
 
 **Mr Kok Ping Soon (郭柄汛)**<br>
 Outgoing CE,<br>
