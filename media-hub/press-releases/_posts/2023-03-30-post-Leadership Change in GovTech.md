@@ -23,3 +23,32 @@ Mr Kok was appointed CE, GovTech on 1 May 2018. He spearheaded the implementatio
 “The Board of GovTech would like to thank Ping Soon for his steady and capable leadership of GovTech in a critical time of change and growth. He moulded GovTech into an organisation with people centricity and service at its core, delivering impact with an intentional focus on human capital, culture and organisation development. Under Ping Soon’s leadership, GovTech not only furthered the Digital Government mandate, but also played a critical part in our digital response during the COVID-19 pandemic,” said Mr Joseph Leong, Permanent Secretary (Smart Nation and Digital Government) and Chairman of GovTech.
 
 “GovTech welcomes Wei Boon, who will build on the good work by Ping Soon. Wei Boon is deeply passionate about technology and its impact for public good. I expect he will continue to strengthen GovTech as an organisation and the digital capabilities that GovTech enables across government, to enable us in the next bound of Digital Government and Smart Nation,” added Mr Leong.
+
+_______
+
+#### Annex 
+
+**Mr Kok Ping Soon (郭柄汛)**<br>
+Outgoing CE,<br>
+Government Technology Agency of Singapore
+
+**Mr Goh Wei Boon (吴伟文)**<br>
+Incoming CE,<br>
+Government Technology Agency of Singapore
+																																											
+_______
+
+**For media enquiries, please contact:**
+
+**Adrian Chan (Mr)**<br>
+Senior Manager, Communications and Marketing Group<br>
+Government Technology Agency of Singapore<br>
+Tel: 9100 4477<br>
+Email: [adrian_chan@tech.gov.sg](mailto:adrian_chan@tech.gov.sg)
+
+
+**Cristiano Peswani (Mr)**<br>
+Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office<br>
+Tel: 9674 552<br>
+Email: [cristiano_peswani@pmo.gov.sg](mailto:cristiano_peswani@pmo.gov.sg)
