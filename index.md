@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: 99% of our government services are digital from end to end!
       description: See how we have progressed as a Digital Government
-      button: READ MORE ABOUT IT
+      button: READ MORE ABOUT IT HERE
       url: /about-smart-nation/digital-government#the-progress-so-far
       image: /images/initiatives/Singpass-05.jpeg
       alt: Singpass
@@ -30,21 +30,21 @@ sections:
       title: Jurong Lake District Innovation Challenge
       description: Stand to win $50,000 in prize money and a chance to pilot your
         solutions at Jurong Lake District!
-      button: Find Out More
+      button: Find Out More Here
       url: /jldchallenge2023/
       image: /images/JLD/JLD-Homepage-Banner.jpg
       alt: JLD Innovation Challenge
   - infopic:
-      title: We're the world's smartest city for the third year running!
-      description: Here are our milestones and achievements
-      button: Follow Our Journey
+      title: We're the smartest Asian city!
+      description: Take a glimpse of our remarkable achievements and milestones
+      button: Find out more here
       url: /about-smart-nation/our-journey/achievements
       alt: IMD-SUTD Smart City Index 2021
-      image: /images/abt-smart-nation/IMDSUTD2021_HomePageBanner.jpg
+      image: /images/abt-smart-nation/imd2023_homepagebanner.jpg
   - infopic:
       title: Want to learn more? Check out our Smart Nation showcases!
       description: Discover the benefits of digital technology
-      button: Find Out More
+      button: Find Out More Here
       url: /community/showcases/overview
       image: /images/community/playscape/PlayScape_04.jpeg
       alt: PlayScape
