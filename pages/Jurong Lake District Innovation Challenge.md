@@ -16,13 +16,13 @@ image: /images/JLD/JLD-challenge-ogimage.jpeg
 
 ## About Jurong Lake District
 
-[Jurong Lake District](https://www.jld.gov.sg/) is a 410ha new growth area in western Singapore. It  is the largest mixed-use business district outside Singapore’s city centre, and is developed to support our decentralisation efforts and to grow our economy. It is envisioned to be a model district that promotes urban sustainability and a healthy living environment for residents, workers, and visitors.
+[Jurong Lake District](https://www.jld.gov.sg/) is a 410ha new growth area in western Singapore. It&nbsp; is the largest mixed-use business district outside Singapore’s city centre, and is developed to support our decentralisation efforts and to grow our economy. It is envisioned to&nbsp;be a model district that promotes urban sustainability and a healthy living environment for residents, workers, and visitors.
 
 Jurong Lake District aims to achieve net zero emissions for new developments around 2045. This is part of [Singapore's national climate target to achieve net zero emissions by 2050](https://www.nccs.gov.sg/media/press-releases/singapore-commits-to-achieve-net-zero/). 
 
 ![Jurong Lake District](/images/JLD/Jurong%20Lake%20District.jpeg)  
 
-<div style="font-size:14px">Image credits: KCAP Architects & Planners, SAA Architects, Arup, S333 & Lekker</div>
+<div style="font-size:14px">Image credits: KCAP Architects &amp; Planners, SAA Architects, Arup, S333 &amp; Lekker</div>
 
 
 
@@ -102,7 +102,14 @@ The prizes for the Jurong Lake District Innovation challenge are as follows:
 
 ## How to participate
 
-Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnovation.sg/challenges?utm\_medium=website&utm\_source=jldwebsite&utm\_campaign=jldcall) by 21 Apr 2023, 4pm SGT.
+Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnovation.sg/challenges?utm\_medium=website&amp;utm\_source=jldwebsite&amp;utm\_campaign=jldcall) by 21 Apr 2023, 4pm SGT.
+
+For any enquiries, please contact:
+
+**Victoria Song**<br>
+Senior Manager, Policy &amp; Governance Directorate<br>
+Smart Nation and Digital Government Office<br>
+Email:&nbsp;[victoria\_song@pmo.gov.sg](mailto:victoria_song@pmo.gov.sg)
 
 [Return to top](#jurong-lake-district-jld-innovation-challenge)
 
@@ -112,9 +119,9 @@ Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnov
 
 <div class="row">
 
-<div class="col"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/JLD/JLD-sndgo.jpeg" alt="SNDGO" title="SNDGO"/></a></div>
+<div class="col"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/JLD/JLD-sndgo.jpeg" alt="SNDGO" title="SNDGO"></a></div>
 	
-<div class="col"><a href="https://www.ura.gov.sg/" target="new"><img src="/images/JLD/JLD-ura.jpeg" alt="URA" title="URA"/></a></div>
+<div class="col"><a href="https://www.ura.gov.sg/" target="new"><img src="/images/JLD/JLD-ura.jpeg" alt="URA" title="URA"></a></div>
 
 <div class="col"></div>
 
@@ -124,11 +131,11 @@ Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnov
 
 <div class="row">
 
-<div class="col"><a href="https://www.capitaland.com/" target="new"><img src="/images/JLD/JLD-capitaland.jpeg" alt="CapitaLand" title="CapitaLand"/></a></div>
+<div class="col"><a href="https://www.capitaland.com/" target="new"><img src="/images/JLD/JLD-capitaland.jpeg" alt="CapitaLand" title="CapitaLand"></a></div>
 
-<div class="col"><a href="https://www.lendleaseglobalcommercialreit.com/" target="new"><img src="/images/JLD/JLD-lendlease.jpeg" alt="Lendlease Global Commercial REIT" title="Lendlease Global Commercial REIT"/></a></div>	
+<div class="col"><a href="https://www.lendleaseglobalcommercialreit.com/" target="new"><img src="/images/JLD/JLD-lendlease.jpeg" alt="Lendlease Global Commercial REIT" title="Lendlease Global Commercial REIT"></a></div>	
 	
-<div class="col"><a href="https://www.ntfgh.com.sg/" target="new"><img src="/images/JLD/JLD-ngtengfong.jpeg" alt="Ng Teng Fong Hospital" title="Ng Teng Fong Hospital"/></a></div>
+<div class="col"><a href="https://www.ntfgh.com.sg/" target="new"><img src="/images/JLD/JLD-ngtengfong.jpeg" alt="Ng Teng Fong Hospital" title="Ng Teng Fong Hospital"></a></div>
 	
 
 
@@ -136,17 +143,17 @@ Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnov
 	
 <div class="row">	
 
-<div class="col"><a href="https://www.science.edu.sg/" target="new"><img src="/images/JLD/JLD-sc.jpeg" alt="Science Centre Singapore" title="Science Centre Singapore"/></a></div>	
+<div class="col"><a href="https://www.science.edu.sg/" target="new"><img src="/images/JLD/JLD-sc.jpeg" alt="Science Centre Singapore" title="Science Centre Singapore"></a></div>	
 	
-<div class="col"><a href="https://www.smrt.com.sg/" target="new"><img src="/images/JLD/JLD-smrt.jpeg" alt="SMRT Corporation" title="SMRT Corporation"/></a></div>
+<div class="col"><a href="https://www.smrt.com.sg/" target="new"><img src="/images/JLD/JLD-smrt.jpeg" alt="SMRT Corporation" title="SMRT Corporation"></a></div>
 
-<div class="col"><a href="https://www.jch.com.sg/" target="new"><img src="/images/JLD/JLD-juronghospital.jpeg" alt="Jurong Community Hospital" title="Jurong Community Hospital"/></a></div>
+<div class="col"><a href="https://www.jch.com.sg/" target="new"><img src="/images/JLD/JLD-juronghospital.jpeg" alt="Jurong Community Hospital" title="Jurong Community Hospital"></a></div>
 	
 </div>
 
 <div class="row">	
 
-<div class="col"><a href="https://www.temasekfoundation.org.sg/" target="new"><img src="/images/JLD/JLD-temasek.jpeg" alt="Temasek Foundation" title="Temasek Foundation"/></a></div>
+<div class="col"><a href="https://www.temasekfoundation.org.sg/" target="new"><img src="/images/JLD/JLD-temasek.jpeg" alt="Temasek Foundation" title="Temasek Foundation"></a></div>
 
 <div class="col"></div>
 
@@ -158,21 +165,21 @@ Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnov
 
 <div class="row">
 
-<div class="col"><a href="https://www.bca.gov.sg/" target="new"><img src="/images/JLD/JLD-bca.jpeg" alt="Building and Construction Authority" title="Building and Construction Authority"/></a></div>	
+<div class="col"><a href="https://www.bca.gov.sg/" target="new"><img src="/images/JLD/JLD-bca.jpeg" alt="Building and Construction Authority" title="Building and Construction Authority"></a></div>	
 	
-<div class="col"><a href="https://www.ema.gov.sg/" target="new"><img src="/images/JLD/JLD-ema.jpeg" alt="Energy Market Authority" title="Energy Market Authority"/></a></div>
+<div class="col"><a href="https://www.ema.gov.sg/" target="new"><img src="/images/JLD/JLD-ema.jpeg" alt="Energy Market Authority" title="Energy Market Authority"></a></div>
 	
-<div class="col"><a href="https://www.lta.gov.sg/" target="new"><img src="/images/JLD/JLD-lta.jpeg" alt="Land Transport Authority" title="Land Transport Authority"/></a></div>
+<div class="col"><a href="https://www.lta.gov.sg/" target="new"><img src="/images/JLD/JLD-lta.jpeg" alt="Land Transport Authority" title="Land Transport Authority"></a></div>
 
 </div>
 
 <div class="row">
 
-<div class="col"><a href="https://www.pub.gov.sg/" target="new"><img src="/images/JLD/JLD-pub.jpeg" alt="PUB Singapore's National Water Agency" title="PUB Singapore's National Water Agency"/></a></div>	
+<div class="col"><a href="https://www.pub.gov.sg/" target="new"><img src="/images/JLD/JLD-pub.jpeg" alt="PUB Singapore's National Water Agency" title="PUB Singapore's National Water Agency"></a></div>	
 
-<div class="col"><a href="https://www.nea.gov.sg/" target="new"><img src="/images/JLD/JLD-nea.jpeg" alt="JTC" title="National Environment Agency"/></a></div>
+<div class="col"><a href="https://www.nea.gov.sg/" target="new"><img src="/images/JLD/JLD-nea.jpeg" alt="JTC" title="National Environment Agency"></a></div>
 	
-<div class="col"><a href="https://www.jtc.gov.sg/" target="new"><img src="/images/JLD/JLD-jtc.jpeg" alt="JTC" title="JTC"/></a></div>
+<div class="col"><a href="https://www.jtc.gov.sg/" target="new"><img src="/images/JLD/JLD-jtc.jpeg" alt="JTC" title="JTC"></a></div>
 	
 </div>
 
@@ -180,7 +187,7 @@ Submit your proposals at [IMDA's Open Innovation Platform](https://www.openinnov
 
 <div class="row">
 
-<div class="col"><a href="https://www.openinnovation.sg/imda" target="new"><img src="/images/JLD/jld_imda_oip.jpeg" alt="Open Innovation Platform" title="Open Innovation Platform"/></a></div>
+<div class="col"><a href="https://www.openinnovation.sg/imda" target="new"><img src="/images/JLD/jld_imda_oip.jpeg" alt="Open Innovation Platform" title="Open Innovation Platform"></a></div>
 
 <div class="col"></div>
 	
