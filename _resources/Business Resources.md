@@ -1,8 +1,8 @@
 ---
 title: Business Resources
 permalink: /resources/business/
-description: "Whether you’re just starting out or looking to expand your
-  operations, we want to help you along this entrepreneurial journey. "
+description: Whether you’re just starting out or looking to expand your
+  operations, we want to help you along this entrepreneurial journey.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
 Venturing into a new business or running an existing one can be fraught with challenges, especially in an economic landscape marked by uncertainties caused by the COVID-19 pandemic. However, there are also opportunities to be had as Singapore and the world undergoes a digital transformation.
@@ -13,7 +13,7 @@ Below are some resources you should check out.
 
 <div style="width:100%;display:flex;justify-content:center;"><a href="https://www.gobusiness.gov.sg/e-services/guides-for-biz/"><img src="/images/resources/e-Adviser.jpg" alt="e-adviser banner"></a></div>
 
-## <a href="https://www.imda.gov.sg/programme-listing/accreditation-at-sgd">Accreditation@SGD</a>
+## <a href="https://www.imda.gov.sg/accreditation">Accreditation@SGD</a>
 
 Are you a Singapore-based, high-growth infocomm media company or start-up with a promising and innovative solution? If so, this is for you. Accreditation@SGD seeks to help open up more opportunities for your products and solutions to be showcased to a wider audience – at home and abroad.   
 
