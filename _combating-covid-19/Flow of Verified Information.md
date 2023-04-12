@@ -33,11 +33,11 @@ As of December 2020, this tireless [Gov.sg Info Bot](https://www.gov.sg/infobot)
 
 # TokenGoWhere
 
-As the TraceTogether Token collection was launched in batches, [TokenGoWhere website](https://token.gowhere.gov.sg/) allowed citizens to check when the Community Centres (CC) closest to them would begin distribution and operating hours. The public can also check the Token stock levels at each CC to ensure that they would make a wasted trip down.
+As the TraceTogether Token collection was launched in batches, the [TokenGoWhere website](https://token.gowhere.gov.sg/) allowed citizens to check when the Community Centres (CC) closest to them would begin distribution and operating hours. The public can also check the Token stock levels at each CC to ensure that they would not make a wasted trip down.
 
 # MaskGoWhere
 
-When the outbreak hit Singapore's shores, there was a surge in demand for facemasks, and many stores ran out of stocks. On 30 January 2020, it was announced that each household would receive four surgical masks from specific distribution centres between 1 – 9 February 2020.
+When the outbreak hit Singapore's shores, there was a surge in demand for face masks, and many stores ran out of stocks. On 30 January 2020, it was announced that each household would receive four surgical masks from specific distribution centres between 1 – 9 February 2020.
 
 GovTech created the [MaskGoWhere website](https://mask.gowhere.gov.sg/) for citizens to find the nearest centre to collect their masks based on their postal code within 48 hours. 
 

@@ -15,7 +15,7 @@ image: /images/og-image/Smart-Nation-OG-Image.jpg
 Want to register your child’s birth, check on the weather, report municipal issues or borrow an audio book? There’s an app for that. Check them out here.
 
 <table style="width:100%">
-  <tr>
+  <tbody><tr>
     <td style="width:30%">
       <img src="/images/community/apps/ActiveWallet.jpg" alt="Active Wallet">
     </td>	
@@ -41,9 +41,9 @@ Want to register your child’s birth, check on the weather, report municipal is
 	Declare and pay taxes on your overseas purchases before you even hit  the airport, or provide tip-offs on customs offences – all via this nifty app. <br>
 	<br>
 
-  <tr>  <tr>
+  </td></tr><tr>  </tr><tr>
   
-  <tr>  <tr>
+  </tr><tr>  </tr><tr>
     <td style="width:30%">
       <img src="/images/community/apps/HealthHub.jpg" alt="HealthHub">
     </td>	
@@ -59,14 +59,14 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-  <tr>
+  </tr><tr>
 		 <td style="width:30%">
       <img src="/images/community/apps/Healthy 365 app 2022.png" alt="Healthy 365">
     </td>	
     <td style="width:70%">
       	<a href="https://hpb.gov.sg/healthy-living/healthy-365" target="_blank">Healthy 365</a><br>
    <br>
-	The must-have app for the National Steps Challenge, an initiative that encourages residents in Singapore to adopt a more active lifestyle, Healthy 365 also tracks one’s health and diet.<br>
+	The must-have app for the National Steps Challenge, an initiative&nbsp;that encourages residents in Singapore&nbsp;to adopt a more active lifestyle, Healthy 365 also tracks one’s health and diet.<br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
@@ -75,8 +75,8 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-  <tr>
-<tr>    
+  </tr><tr>
+</tr><tr>    
 <td style="width:30%">
       <img src="/images/community/apps/LifeSG-Banner.png" alt="Life SG banner">
     </td>	
@@ -92,13 +92,13 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-  <tr> 
-  <tr>    
+  </tr><tr> 
+  </tr><tr>    
 <td style="width:30%">
       <img src="/images/community/apps/myenv.png" alt="my env banner">
     </td>	
     <td style="width:70%">
-     <a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app " target="_blank">myENV</a><br>
+     <a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app" target="_blank">myENV</a><br>
    <br>
 	Hungry and looking for a nearby hawker centre? Want to be updated on dengue outbreaks in your neighbourhood or when the air quality turns bad? myENV is your go-to app. <br>
 	<br>
@@ -109,7 +109,7 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
+</tr><tr>
 		<td style="width:30%">
         <img src="/images/community/apps/myresponder.jpg" alt="My responder banner">
     </td>	
@@ -125,7 +125,7 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-    <tr>
+    </tr><tr>
 <td style="width:30%">
         <img src="/images/community/apps/Mytransport.jpg" alt="MyTransport.SG">
     </td>	
@@ -141,8 +141,8 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
-	<tr>
+</tr><tr>
+	</tr><tr>
 <td style="width:30%">
         <img src="/images/community/apps/NLB-Mobile.jpg" alt="NLB Mobile">
     </td>	
@@ -158,8 +158,8 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
-    <tr>
+</tr><tr>
+    </tr><tr>
 <td style="width:30%">
         <img src="/images/community/apps/OneMap.jpg" alt="One Map Banner">
     </td>	
@@ -175,8 +175,8 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
-	<tr>
+</tr><tr>
+	</tr><tr>
 <td style="width:30%">
         <img src="/images/community/apps/OneService.jpg" alt="One Service">
     </td>	
@@ -192,8 +192,8 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
-    <tr>
+</tr><tr>
+    </tr><tr>
 <td style="width:30%">
         <img src="/images/community/apps/Parents-Gateway.jpg" alt="Parents Gateway">
     </td>	
@@ -209,8 +209,8 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
-    <tr>
+</tr><tr>
+    </tr><tr>
 <td style="width:30%">
         <img src="/images/community/apps/Police.jpg" alt="Police@SG">
     </td>	
@@ -226,8 +226,8 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
-    <tr>
+</tr><tr>
+    </tr><tr>
 <td style="width:30%">
         <img src="/images/community/apps/ParkingSG.jpg" alt="Parking.sg">
     </td>	
@@ -243,8 +243,8 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
-	    <tr>
+</tr><tr>
+	    </tr><tr>
 <td style="width:30%">
         <img src="/images/community/apps/SGBioAtlas.jpg" alt="SG Bio Altas">
     </td>	
@@ -260,8 +260,8 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
-	    <tr>
+</tr><tr>
+	    </tr><tr>
 <td style="width:30%">
         <img src="/images/community/apps/SGSecure.jpg" alt="SG Secure">
     </td>	
@@ -277,8 +277,8 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
-    <tr>
+</tr><tr>
+    </tr><tr>
 <td style="width:30%">
             <img src="/images/initiatives/Singpass-website.jpeg" alt="Singpass Mobile">
     </td>	
@@ -294,15 +294,15 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
-    <tr>
+</tr><tr>
+    </tr><tr>
 <td style="width:30%">
             <img src="/images/community/apps/SingStat.jpg" alt="SingStat mobile app">
     </td>	
     <td style="width:70%">
       	<a href="https://www.singstat.gov.sg" target="_blank">SingStat</a><br>
    <br>
-	The Singpass app provides a secure, convenient way for users to log into Government digital services with their fingerprint, facial recognition or six-digit passcode. Access your digital IC, driving licence and more via MyInfo using the app.  <br>
+	Download the SingStat Mobile App for fast, free and easy access to Singapore official statistics and key ASEAN statistics. Over 250 frequently requested statistics spanning across 30 data categories, including GDP and Population, are available for access via this mobile app. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://apps.apple.com/sg/app/singstat/id935197005" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
@@ -311,4 +311,4 @@ Want to register your child’s birth, check on the weather, report municipal is
           </div>
       </div>  
     </td>
-<tr>
+</tr><tr></tr></tbody></table>

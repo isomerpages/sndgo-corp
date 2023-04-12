@@ -1,8 +1,8 @@
 ---
 title: Business Resources
 permalink: /resources/business/
-description: "Whether you’re just starting out or looking to expand your
-  operations, we want to help you along this entrepreneurial journey. "
+description: Whether you’re just starting out or looking to expand your
+  operations, we want to help you along this entrepreneurial journey.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
 Venturing into a new business or running an existing one can be fraught with challenges, especially in an economic landscape marked by uncertainties caused by the COVID-19 pandemic. However, there are also opportunities to be had as Singapore and the world undergoes a digital transformation.
@@ -13,7 +13,7 @@ Below are some resources you should check out.
 
 <div style="width:100%;display:flex;justify-content:center;"><a href="https://www.gobusiness.gov.sg/e-services/guides-for-biz/"><img src="/images/resources/e-Adviser.jpg" alt="e-adviser banner"></a></div>
 
-## <a href="https://www.imda.gov.sg/programme-listing/accreditation-at-sgd">Accreditation@SGD</a>
+## <a href="https://www.imda.gov.sg/accreditation">Accreditation@SGD</a>
 
 Are you a Singapore-based, high-growth infocomm media company or start-up with a promising and innovative solution? If so, this is for you. Accreditation@SGD seeks to help open up more opportunities for your products and solutions to be showcased to a wider audience – at home and abroad.   
 
@@ -23,7 +23,7 @@ Are you a Singapore-based, high-growth infocomm media company or start-up with a
 Do you aspire to become an engineer, developer or consultant in the artificial intelligence (AI) sector? Join this 9-month, full-time training programme designed by industry practitioners focusing on AI and machine-learning systems. More details can be found on AI.SG’s website.
 
 
-## <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/innovation-and-productivity/automation">Automation Support Package (ASP)</a>
+## <a href="https://www.imda.gov.sg/disg/Programmes/2021/03/Enterprise-Development-Grant---Automation">Automation Support Package (ASP)</a>
 
 Want to invest in automation solutions to improve your business’ efficiency and productivity? You may tap on the ASP for tax and loan incentives to defray the costs of deployment.
 
@@ -43,7 +43,7 @@ Whether you’re a start-up or a high-growth business, ESG will lend its support
 
 With more than 100 Government schemes available to support local companies, it can be mind-boggling for businesses to navigate and find what’s applicable to them. 
 
-GoBusiness Gov Assist provides information on the various assistance options available as you grow your business –  all in one place!. Have more queries? An e-Adviser is on hand to help too. 
+GoBusiness Gov Assist provides information on the various assistance options available as you grow your business –  all in one place! Have more queries? An e-Adviser is on hand to help too. 
 
 ## <a href="https://www.ihis.com.sg/HealthX/Pages/home.aspx">HealthX</a>
 Have a promising idea or solution that harnesses tech to transform Singapore’s healthcare or improve public health? 
