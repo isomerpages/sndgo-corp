@@ -55,7 +55,7 @@ Compete with friends to see how fast the computer can recognise your doodles.
 
 ### Visit the exhibition 
 
-Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore. Admission charges apply, and tickets can be purchased online via [Science Centre Singapore's website](https://www.science.edu.sg/visit-us/opening-hours) 
+Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore. Admission charges apply, and tickets can be purchased online via [Science Centre Singapore's website](https://www.science.edu.sg/visit-us/opening-hours). 
 
 #### Address
 15 Science Centre Road<br>
