@@ -33,7 +33,7 @@ As of December 2020, this tireless [Gov.sg Info Bot](https://www.gov.sg/infobot)
 
 # TokenGoWhere
 
-As the TraceTogether Token collection was launched in batches, [TokenGoWhere website](https://token.gowhere.gov.sg/) allowed citizens to check when the Community Centres (CC) closest to them would begin distribution and operating hours. The public can also check the Token stock levels at each CC to ensure that they would make a wasted trip down.
+As the TraceTogether Token collection was launched in batches, the [TokenGoWhere website](https://token.gowhere.gov.sg/) allowed citizens to check when the Community Centres (CC) closest to them would begin distribution and operating hours. The public can also check the Token stock levels at each CC to ensure that they would not make a wasted trip down.
 
 # MaskGoWhere
 
