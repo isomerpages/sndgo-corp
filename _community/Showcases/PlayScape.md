@@ -1,6 +1,6 @@
 ---
 title: PlayScape
-permalink: /community/showcases/playscape
+permalink: /community/showcases/playscape/
 third_nav_title: Showcases
 description: Smart Nation PlayScape is jointly developed by the Smart Nation and
   Digital Government Group and Science Centre Singapore. Through gamified
@@ -12,32 +12,18 @@ image: /images/community/playscape/PlayScape_04.jpeg
 <br>
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/CId3K2e2dmk" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/CId3K2e2dmk" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
@@ -45,7 +31,7 @@ Smart Nation PlayScape is jointly developed by the Smart Nation and Digital Gove
 
 Through gamified interactives, complex technological concepts are broken down and brought to life. People of all ages can experience and see the benefits that digitalisation has to offer.  
  
-The exhibition consists of eight zones: Sensors, Geospatial, Biometrics, Blockchain, Artificial Intelligence (AI)/ Data Analytics, Robotics, User Experience (UX) & Services, and Augmented/Virtual Reality/Mixed Reality (AR/VR/MR). Each zone includes key game interactives for guests to explore and experience these technologies in a fun and engaging way. 
+The exhibition consists of eight zones: Sensors, Geospatial, Biometrics, Blockchain, Artificial Intelligence (AI)/ Data Analytics, Robotics, User Experience (UX) &amp; Services, and Augmented/Virtual Reality/Mixed Reality (AR/VR/MR). Each zone includes key game interactives for guests to explore and experience these technologies in a fun and engaging way. 
 
 
 ### Check out these activities and more! 
@@ -69,10 +55,11 @@ Compete with friends to see how fast the computer can recognise your doodles.
 
 ### Visit the exhibition 
 
- Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore. 
+Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore. Admission charges apply, and tickets can be purchased online via [Science Centre Singapore's website](https://www.science.edu.sg/visit-us/opening-hours). 
 
 #### Address
-15 Science Centre Road (Singapore 609081). 
+15 Science Centre Road<br>
+Singapore 609081
 
 #### Opening Hours
-Visit [www.science.edu.sg/visit-us/opening-hours](https://www.science.edu.sg/visit-us/opening-hours) to view opening hours.
+Tuesdays to Sundays - 10am to 5pm
