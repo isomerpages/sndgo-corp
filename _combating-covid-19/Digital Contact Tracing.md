@@ -35,7 +35,7 @@ TraceTogether helps the contact tracers identify the close contacts of a COVID-1
 
 We have also open-sourced TraceTogether's source code so that other organisations and countries are able to create their contact tracing solution based on their individual needs.
 
-For information on the recycling of TraceTogether Tokens, visit https://token.gowhere.gov.sg/
+For information on the recycling of TraceTogether Tokens, visit <a href="https://token.gowhere.gov.sg/"> token.gowhere.gov.sg</a>.
 
 # Homer
 
