@@ -1,14 +1,14 @@
 ---
 title: Digital Contact Tracing
-permalink: /combating-covid-19/digital-contact-tracing
-description: "With the help of the digital contact tracing tools – TraceTogether
+permalink: /combating-covid-19/digital-contact-tracing/
+description: With the help of the digital contact tracing tools – TraceTogether
   (TT) and SafeEntry, - we managed to reduce the average time to identify and
-  quarantine close contacts. "
+  quarantine close contacts.
 image: /images/covid-19/Covid-Contact-Tracing.jpg
 ---
 ![Digital Contact Tracing](/images/covid-19/Covid-Contact-Tracing.jpg)
 
-Digital contact tracing solutions had to be swiftly conceptualised and implement as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
+Digital contact tracing solutions had to be swiftly conceptualised and implemented as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
 
 With the help of the digital contact tracing tools – TraceTogether (TT) and SafeEntry, - we managed to reduce the average time to identify and quarantine close contacts from 4 days to less than 1.5 days.
 
@@ -35,7 +35,7 @@ TraceTogether helps the contact tracers identify the close contacts of a COVID-1
 
 We have also open-sourced TraceTogether's source code so that other organisations and countries are able to create their contact tracing solution based on their individual needs.
 
-For information on TraceTogether Token collection and replacement, visit https://token.gowhere.gov.sg/
+For information on the recycling of TraceTogether Tokens, visit https://token.gowhere.gov.sg/
 
 # Homer
 
