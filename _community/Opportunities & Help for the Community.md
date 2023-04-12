@@ -1,16 +1,12 @@
 ---
 title: Opportunities & Help for the Community
-permalink: /community/opportunities
+permalink: /community/opportunities/
 description: As Singapore moves towards becoming a Smart Nation, we want to make
   sure that everyone in our society joins us in this journey. Find out more
   about the Government initiatives available to assist the different groups of
   people.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
-
-
-
 ![Opportunities & help for the community](/images/community/headerimages/opportunities-help.png)
 
 As Singapore moves towards becoming a Smart Nation, we want to make sure that everyone in our society joins us in this journey. Find out more about the Government initiatives available to assist the different groups of people.
@@ -33,7 +29,7 @@ Head over to the [SkillsFuture website ](https://www.skillsfuture.gov.sg/tesa/) 
 
 ## Tech Talent Assembly (TTAB)
 
-ICT professionals can join TTAB, which caters to this group of professional. TTAB provides a platform for lifelong employability, learning and sharing. TTAB's affiliation with NTUC allows ICT professionals access to more resources and social benefits.
+ICT professionals can join TTAB, which provides a platform for lifelong employability, learning and sharing. TTAB's affiliation with NTUC allows ICT professionals access to more resources and social benefits.
 
 Develop skills and build up an Infocomm-related portfolio with [Tech Talent Assembly](https://www.ttab.org.sg/Pages/index.aspx) now.
 
