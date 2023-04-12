@@ -23,7 +23,7 @@ Are you a Singapore-based, high-growth infocomm media company or start-up with a
 Do you aspire to become an engineer, developer or consultant in the artificial intelligence (AI) sector? Join this 9-month, full-time training programme designed by industry practitioners focusing on AI and machine-learning systems. More details can be found on AI.SG’s website.
 
 
-## <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/innovation-and-productivity/automation">Automation Support Package (ASP)</a>
+## <a href="https://www.imda.gov.sg/disg/Programmes/2021/03/Enterprise-Development-Grant---Automation">Automation Support Package (ASP)</a>
 
 Want to invest in automation solutions to improve your business’ efficiency and productivity? You may tap on the ASP for tax and loan incentives to defray the costs of deployment.
 
