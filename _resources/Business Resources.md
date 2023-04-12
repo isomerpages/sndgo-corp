@@ -43,7 +43,7 @@ Whether you’re a start-up or a high-growth business, ESG will lend its support
 
 With more than 100 Government schemes available to support local companies, it can be mind-boggling for businesses to navigate and find what’s applicable to them. 
 
-GoBusiness Gov Assist provides information on the various assistance options available as you grow your business –  all in one place!. Have more queries? An e-Adviser is on hand to help too. 
+GoBusiness Gov Assist provides information on the various assistance options available as you grow your business –  all in one place! Have more queries? An e-Adviser is on hand to help too. 
 
 ## <a href="https://www.ihis.com.sg/HealthX/Pages/home.aspx">HealthX</a>
 Have a promising idea or solution that harnesses tech to transform Singapore’s healthcare or improve public health? 
