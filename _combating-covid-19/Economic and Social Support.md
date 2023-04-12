@@ -1,6 +1,6 @@
 ---
 title: Economic and Social Support
-permalink: /combating-covid-19/economic-social-support
+permalink: /combating-covid-19/economic-social-support/
 description: Many different issues and concerns arose as a result of the
   pandemic. Due to the economic crisis, jobs were lost or salaries reduced.
   Students had to settle for home-based learning. As such, platforms were
@@ -25,7 +25,7 @@ CSG was replaced with the COVID-19 Recovery Grant (CRG) with revised eligibility
 
 # COVID-19 Recovery Grant (CRG) application portal
 
-Launched in January 2021, [CRG](https://msf-csg.gov.sg/preinstruction/crg) is to continue the support to workers who need some temporary financial help. The Grant focuses on workers in lower- to middle-income households who are presently experiencing involuntary job loss and will be open for application until 31 December 2021.
+Launched in January 2021, [CRG](https://msf-csg.gov.sg/preinstruction/crg) is to continue the support to workers who need some temporary financial help. The Grant focuses on workers in lower- to middle-income households who were experiencing involuntary job loss. The application window ended on 31 December 2021.
 
 # SupportGoWhere 
 
