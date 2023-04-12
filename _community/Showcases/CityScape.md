@@ -11,32 +11,18 @@ image: /images/community/cityscape/Cityscape-06.jpg
 <br>
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/2QJqf0CZ4d4" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/2QJqf0CZ4d4" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
@@ -75,5 +61,5 @@ You can also sign up for the Singapore City Gallery community tours at <a href="
 Download the Smart Nation CityScape Visitor's Guide for more information on the exhibition.
 
 <div style="width:50%"> 
- <a href="/files/publications/Smart_Nation_CityScape_Visitor's_Guide.pdf"><img style="border:1px solid black;" src="/images/community/cityscape/Smart-Nation-CityScape-Visitor's-Guide-TN.jpg" alt="Digital Economy Framework for Action">Smart Nation CityScape Visitor's Guide (1.9mb)</a>
+ <a href="/files/publications/sn_cityscape_visitor's_guide.pdf"><img style="border:1px solid black;" src="/images/community/cityscape/sn_cityscape_visitor's_guide.jpg" alt="Smart Nation CityScape Visitor's Guide">Smart Nation CityScape Visitor's Guide (2.1mb)</a>
 </div>
