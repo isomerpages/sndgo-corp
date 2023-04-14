@@ -8,7 +8,7 @@ image: ""
 ---
 ## Smart Nation's Addendum to the President's Address
 
-**Aug 2020**
+**AUG 2020**
 
 **Prime Minister’s Office (Smart Nation And Digital Government Group)**
   
