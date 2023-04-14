@@ -8,15 +8,14 @@ image: ""
 ---
 ## Smart Nation's Addendum to the President's Address at the Opening of the Second Session of the 13th Parliament
 
-**May 2018**
+**MAY 2018**
 
 **PRIME MINISTER’S OFFICE (SMART NATION AND DIGITAL GOVERNMENT GROUP)**
 
 **ADDENDUM TO THE PRESIDENT’S ADDRESS**
 
 **DR VIVIAN BALAKRISHNAN**
-
-**MINISTER FOR FOREIGN AFFAIRS AND MINISTER-IN-CHARGE OF THE SMART NATION INITIATIVE**
+<br>MINISTER FOR FOREIGN AFFAIRS<br> AND MINISTER-IN-CHARGE OF THE SMART NATION INITIATIVE
 
 We will harness rapidly evolving digital technology to expand opportunities for jobs of the future, enhance the quality of life, and improve the delivery of government services. The Smart Nation Initiative is a partnership between the Government, citizens, and businesses.
 
