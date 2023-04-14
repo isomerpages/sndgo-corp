@@ -12,7 +12,7 @@ image: ""
 ---
 ## Smart Nation's Addendum to the President's Address at the Opening of the Second Session of the 14th Parliament
 
-**Apr 2023**
+**APR 2023**
 
 
 **PRIME MINISTER’S OFFICE (SMART NATION AND DIGITAL GOVERNMENT GROUP)**
