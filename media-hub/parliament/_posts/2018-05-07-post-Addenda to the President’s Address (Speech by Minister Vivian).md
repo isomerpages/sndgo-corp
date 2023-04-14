@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Addenda to the President’s Address (Speech by Minister Vivian)
-permalink: /media-hub/parliament/20180507
+permalink: /media-hub/parliament/20180507/
 date: 2018-05-07
 description: ""
 ---
+## Smart Nation's Addendum to the President's Address at the Opening of the Second Session of the 13th Parliament
 
-## Addenda to the Presidents Address at the Opening of the Second Session of the 13th Parliament
+**May 2018**
 
 **PRIME MINISTER’S OFFICE (SMART NATION AND DIGITAL GOVERNMENT GROUP)**
 
