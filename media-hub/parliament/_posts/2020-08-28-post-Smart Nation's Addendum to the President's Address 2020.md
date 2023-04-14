@@ -1,21 +1,23 @@
 ---
-title: Smart Nation Addendum 2020 (Speech by Minister Vivian Balakrishnan)
+title: Smart Nation's Addendum to the President's Address 2020
 date: 2020-08-28
-permalink: /media-hub/parliament/20200828
+permalink: /media-hub/parliament/20200828/
 layout: post
 description: ""
+image: ""
 ---
+## Smart Nation's Addendum to the President's Address
+
+**AUG 2020**
+
+**PRIME MINISTER’S OFFICE (SMART NATION AND DIGITAL GOVERNMENT GROUP)**
+
+**ADDENDUM TO THE PRESIDENT’S ADDRESS**  
+
+**DR VIVIAN BALAKRISHNAN**
+<br>MINISTER FOR FOREIGN AFFAIRS<br> AND MINISTER-IN-CHARGE OF THE SMART NATION INITIATIVE
 
 
-
-
-## Smart Nation Addendum 2020
-
-**Prime Minister’s Office (Smart Nation And Digital Government Group)**
-  
-**Addendum To The President’s Address**  
-
-**Dr Vivian Balakrishnan, Minister For Foreign Affairs And Minister-in-Charge of the Smart Nation Initiative**
 
 The Smart Nation and Digital Government Group (SNDGG) aims to build a Smart Nation where people acquire relevant skills for new jobs in a digital future and our enterprises become more competitive and productive by leveraging on technology. We will drive digital transformation nationwide, build long-term capabilities within Government and enhance services to the public.  
 

@@ -1,20 +1,23 @@
 ---
 layout: post
-title: Addenda to the President’s Address (Speech by Minister Vivian)
-permalink: /media-hub/parliament/20180507
+title: Smart Nation's Addendum to the President's Address 2018
+permalink: /media-hub/parliament/20180507/
 date: 2018-05-07
 description: ""
+image: ""
 ---
+## Smart Nation's Addendum to the President's Address at the Opening of the Second Session of the 13th Parliament
 
-## Addenda to the Presidents Address at the Opening of the Second Session of the 13th Parliament
+**MAY 2018**
 
 **PRIME MINISTER’S OFFICE (SMART NATION AND DIGITAL GOVERNMENT GROUP)**
 
 **ADDENDUM TO THE PRESIDENT’S ADDRESS**
 
 **DR VIVIAN BALAKRISHNAN**
+<br>MINISTER FOR FOREIGN AFFAIRS<br> AND MINISTER-IN-CHARGE OF THE SMART NATION INITIATIVE
 
-**MINISTER FOR FOREIGN AFFAIRS AND MINISTER-IN-CHARGE OF THE SMART NATION INITIATIVE**
+
 
 We will harness rapidly evolving digital technology to expand opportunities for jobs of the future, enhance the quality of life, and improve the delivery of government services. The Smart Nation Initiative is a partnership between the Government, citizens, and businesses.
 
