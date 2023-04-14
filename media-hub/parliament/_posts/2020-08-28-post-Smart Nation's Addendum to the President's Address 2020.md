@@ -10,9 +10,9 @@ image: ""
 
 **AUG 2020**
 
-**Prime Minister’s Office (Smart Nation And Digital Government Group)**
-  
-**Addendum To The President’s Address**  
+**PRIME MINISTER’S OFFICE (SMART NATION AND DIGITAL GOVERNMENT GROUP)**
+
+**ADDENDUM TO THE PRESIDENT’S ADDRESS**  
 
 **DR VIVIAN BALAKRISHNAN**
 <br>MINISTER FOR FOREIGN AFFAIRS<br> AND MINISTER-IN-CHARGE OF THE SMART NATION INITIATIVE
