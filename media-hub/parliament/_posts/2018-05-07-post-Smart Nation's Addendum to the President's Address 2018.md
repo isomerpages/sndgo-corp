@@ -17,6 +17,8 @@ image: ""
 **DR VIVIAN BALAKRISHNAN**
 <br>MINISTER FOR FOREIGN AFFAIRS<br> AND MINISTER-IN-CHARGE OF THE SMART NATION INITIATIVE
 
+
+
 We will harness rapidly evolving digital technology to expand opportunities for jobs of the future, enhance the quality of life, and improve the delivery of government services. The Smart Nation Initiative is a partnership between the Government, citizens, and businesses.
 
 ### Digital Government
