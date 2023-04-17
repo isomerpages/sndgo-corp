@@ -53,7 +53,7 @@ PA Senior Academy's key mission is to encourage seniors aged 50 years and above 
 
 As part of the programme, there is a range of popular IT-related courses (conducted in English and Mandarin) to prepare seniors to go digital, and be able to access community activities digitally.  
   
-Head over to [IMDA's website](https://www.imda.gov.sg/en/seniorsgodigital/Stories/PA-Senior-Academy) for the list of participating Community Centres (CCs).
+Head over to [IMDA's website](https://www.imda.gov.sg) for the list of participating Community Centres (CCs).
 
 ## Tech Connect
 
