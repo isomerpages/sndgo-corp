@@ -1,7 +1,7 @@
 ---
 title: Smart HDB Homes of the Future
 date: 2014-09-11
-permalink: /media-hub/press-releases/smart-hdb-homes-of-the-future
+permalink: /media-hub/press-releases/smart-hdb-homes-of-the-future/
 ---
 ## Smart HDB Homes Of The Future
 
@@ -85,4 +85,4 @@ Going forward, HDB will pilot selected Smart initiatives in Punggol Northshore s
 
 For more details of HDB’s new Smart initiatives and new public housing projects in Northshore, Bidadari and Tampines North, the public is invited to visit the exhibition at HDB Hub or visit [www.hdb.gov.sg/futurehomesbetterlives](http://www.hdb.gov.sg/fi10/fi10320p.nsf/w/futurehomesbetterlives?OpenDocument) from today.
 
-[Press release issued by Housing & Development Board](https://www20.hdb.gov.sg/fi10/fi10296p.nsf/PressReleases/F93B15F80588397748257D500009CE6C?OpenDocument)
+Press release issued by Housing & Development Board
