@@ -40,7 +40,7 @@ In order to drive AI innovation and adoption, we must build a vibrant and sustai
  1. **Triple helix partnerships** between the research community, industry and Government enables the rapid commercialisation of fundamental research and deployment of AI solutions.
  2. **Talent and education** addresses the need to develop homegrown talent across the entire range of AI-related job roles and helps Singaporeans prepare for the future AI economy.
  3. **Data architecture** enables quick and secure access to high-quality datasets across various sectors.
- 4. A **progressive & trusted environment** is important for test-bedding, developing and deploying AI solutions.
+ 4. A **progressive &amp; trusted environment** is important for test-bedding, developing and deploying AI solutions.
  5. **International collaborations** to drive and support sustainable development of AI with multi-nationals researchers, businesses and governments. 
 
 ## Seven National AI Programmes that Address Key Challenges
@@ -84,7 +84,7 @@ You can also take advantage of the following resources to kickstart or advance y
 - [AI Singapore’s 100 Experiments programme](https://aisingapore.org/industryinnovation/100e/) supports companies in deploying AI by using a co-investment model.
 -  [AI Makerspace](https://makerspace.aisingapore.org/) is a new national platform helping SMEs and startups kick off ]their AI journey.
 - [Digital Services Lab](https://www.imda.gov.sg/programme-listing/digital-services-lab) provides a suite of tools to help companies and developers build AI solutions and harness its benefits. 
-- [ASTAR’s T-UP programme](https://www.a-star.edu.sg/enterprise/innovation-offerings/programmes-for-smes/technology-for-enterprise-capability-upgrading) facilitates the secondment of A*STAR scientists and research engineers to work on SMEs’ R&D projects for up to two years, helping these businesses build their tech capabilities and develop innovative products and services.
+- [ASTAR’s T-UP programme](https://www.a-star.edu.sg/enterprise/innovation-offerings/programmes-for-smes/technology-for-enterprise-capability-upgrading) facilitates the secondment of A*STAR scientists and research engineers to work on SMEs’ R&amp;D projects for up to two years, helping these businesses build their tech capabilities and develop innovative products and services.
 - [Trusted Data Sharing Framework](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2019/Enabling-Data-Driven-Innovation-Through-Trusted-Data-Sharing-In-A-Digital-Economy) guides companies in establishing data sharing partnerships and practices.
 - [Model AI Governance Framework](https://www.imda.gov.sg/AI) provides private sector organisations with a detailed and readily-implementable guide to address critical ethical and governance issues when using AI.
 
@@ -103,13 +103,13 @@ The Government supports your participation in our AI ecosystem with the followin
 
 It’s crucial for every Singaporean to upgrade and improve our skills so that we can keep up with the advances of AI and be ready to take on the exciting jobs that are created.
 
-The business and research communities should also have a good understanding of worldwide technology trends in AI to stay ahead of the innovation curve.
+The business and research communities should also have a good understanding of&nbsp;worldwide technology trends in AI to stay ahead of the innovation curve.
 
 Learn and gain access to AI technology through these programmes:
 
 - [AI Singapore Talent Development Programmes](https://learn.aisingapore.org/) offer learning opportunities for all with courses such as the AI Apprenticeship Programme, AI for Everyone, AI for Industry, AI for Students, and AI for Kids.  
 - [TechSkills Accelerator (TeSA)](https://www.imda.gov.sg/imtalent/about-us/national-talent-development-initiatives/techskills-accelerator--tesa) works with industry partners and employers to offer various programmes for both  ICT and non-ICT professionals to upgrade or develop new skills to meet growing demand.  
-- [SkillsFuture for Digital Workplace program](https://www.skillsfuture.gov.sg/digitalworkplace) is a course designed to help Singaporeans understand the fundamentals of AI and how it can be applied in their workplaces and daily lives. The curriculum includes content developed by SSG and IBM.
-- [Tech Insights through Patents (TIP) tool](https://www.iposinternational.com/en/resources/tech-insights-through-patents) developed by IPOS International helps innovators understand patenting trends through an easy-to-navigate interface, making patent data more accessible. Leverage the power of this interactive tool to uncover hidden intelligence and keep abreast of technological advances.
+- [SkillsFuture for Digital Workplace program](https://www.skillsfuture.gov.sg) is a course designed to help Singaporeans understand the fundamentals of AI and how it can be applied in their workplaces and daily lives. The curriculum includes content developed by SSG and IBM.
+- [Tech Insights through Patents (TIP) tool](https://www.iposinternational.com/en/resources/tech-insights-through-patents)&nbsp;developed by IPOS International helps innovators understand patenting trends&nbsp;through an easy-to-navigate interface, making patent data more accessible. Leverage the power of this interactive tool to uncover hidden intelligence and keep abreast of technological advances.
 
 [Return to top](#the-next-frontier-of-singapores-smart-nation-journey)
