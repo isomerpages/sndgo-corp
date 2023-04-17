@@ -1,6 +1,6 @@
 ---
 title: Fight Scams, Be Aware (Factsheet)
-permalink: /media-hub/press-releases/04072022
+permalink: /media-hub/press-releases/04072022/
 date: 2022-07-04
 layout: post
 description: An important line of defence against scams is a vigilant public
@@ -40,7 +40,7 @@ Make sure the domain of the URL ends with “.gov.sg”.
 
 If the website or URL link checks out, proceed.
 
-If it does not, you should be careful, and check the website’s domain here: [www.gov.sg/trusted-sites](https://www.gov.sg/trusted-sites.)
+If it does not, you should be careful, and check the website’s domain here: [www.gov.sg/trusted-sites](https://www.gov.sg/trusted-sites)
 
 All the websites listed are legitimate, even if they don’t have the “.gov.sg” domain.
 

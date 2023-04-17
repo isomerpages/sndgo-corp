@@ -9,7 +9,6 @@ image: /images/og-image/Smart-Nation-OG-Image.jpg
 ![Apps for you](/images/community/headerimages/apps-for-you.png)
 
 
-
 ## App-solutely Essential
 
 Want to register your child’s birth, check on the weather, report municipal issues or borrow an audio book? There’s an app for that. Check them out here.
@@ -30,8 +29,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.iapps.ssc" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-  </tr> <tr>
+    <br></td>
+  </tr>
+		
+<tr>
     <td style="width:30%">
       <img src="/images/community/apps/Customs-SG.jpg" alt="Customs SG">
     </td>	
@@ -39,11 +40,10 @@ Want to register your child’s birth, check on the weather, report municipal is
       	<a href="https://m.customs.gov.sg/CustomsTravellerPortal" target="_blank">Customs@SG Web Application</a><br>
    <br>
 	Declare and pay taxes on your overseas purchases before you even hit  the airport, or provide tip-offs on customs offences – all via this nifty app. <br>
-	<br>
-
-  </td></tr><tr>  </tr><tr>
-  
-  </tr><tr>  </tr><tr>
+	<br></td>
+</tr>
+		
+<tr>
     <td style="width:30%">
       <img src="/images/community/apps/HealthHub.jpg" alt="HealthHub">
     </td>	
@@ -58,8 +58,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthhub" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-  </tr><tr>
+    <br></td>
+  </tr>
+		
+<tr>
 		 <td style="width:30%">
       <img src="/images/community/apps/Healthy 365 app 2022.png" alt="Healthy 365">
     </td>	
@@ -74,9 +76,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-  </tr><tr>
-</tr><tr>    
+    <br></td>
+  </tr>
+		
+<tr>    
 <td style="width:30%">
       <img src="/images/community/apps/LifeSG-Banner.png" alt="Life SG banner">
     </td>	
@@ -91,9 +94,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-  </tr><tr> 
-  </tr><tr>    
+    <br></td>
+  </tr>
+		
+<tr>    
 <td style="width:30%">
       <img src="/images/community/apps/myenv.png" alt="my env banner">
     </td>	
@@ -108,8 +112,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nea" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr>
+    <br></td>
+</tr>
+		
+<tr>
 		<td style="width:30%">
         <img src="/images/community/apps/myresponder.jpg" alt="My responder banner">
     </td>	
@@ -124,8 +130,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-    </tr><tr>
+    <br></td>
+    </tr>
+		
+<tr>
 <td style="width:30%">
         <img src="/images/community/apps/Mytransport.jpg" alt="MyTransport.SG">
     </td>	
@@ -140,9 +148,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr>
-	</tr><tr>
+    <br></td>
+</tr>
+
+<tr>
 <td style="width:30%">
         <img src="/images/community/apps/NLB-Mobile.jpg" alt="NLB Mobile">
     </td>	
@@ -157,9 +166,28 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr>
-    </tr><tr>
+    <br></td>
+</tr>
+		
+<tr>
+<td style="width:30%">
+        <img src="/images/community/apps/nparks_explore_a%20route.jpeg" alt="SG Bio Altas">
+    </td>	
+    <td style="width:70%">
+      	<a href="https://www.nparks.gov.sg/mobile-applications" target="_blank">NParks Explore A Route (NEAR)</a><br>
+   <br>
+The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented reality (AR)-enabled mobile application, designed to complement the Coast-to-Coast (C2C) Trail, the Round Island Route (RIR), as well as the Park Connector Network (PCN) for an interactive curated walking experience island-wide.<br>
+	<br>
+<div style="width:50%;display:flex;flex-wrap:wrap;">
+         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/nparks-explore-a-route-near/id6444256702" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+          </div>
+          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.nparks.near&amp;pli=1" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          </div>
+      </div>  
+    <br></td>
+</tr>				
+		
+<tr>
 <td style="width:30%">
         <img src="/images/community/apps/OneMap.jpg" alt="One Map Banner">
     </td>	
@@ -174,9 +202,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.onemap.android.onemap2" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr>
-	</tr><tr>
+    <br></td>
+</tr>
+		
+<tr>
 <td style="width:30%">
         <img src="/images/community/apps/OneService.jpg" alt="One Service">
     </td>	
@@ -191,9 +220,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr>
-    </tr><tr>
+    <br></td>
+</tr>
+		
+<tr>
 <td style="width:30%">
         <img src="/images/community/apps/Parents-Gateway.jpg" alt="Parents Gateway">
     </td>	
@@ -208,9 +238,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.moe.pgp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr>
-    </tr><tr>
+    <br></td>
+</tr>
+		
+<tr>
 <td style="width:30%">
         <img src="/images/community/apps/Police.jpg" alt="Police@SG">
     </td>	
@@ -225,10 +256,11 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.spf.policesg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr>
-    </tr><tr>
-<td style="width:30%">
+    <br></td>
+</tr>
+		
+<tr>
+	<td style="width:30%">
         <img src="/images/community/apps/ParkingSG.jpg" alt="Parking.sg">
     </td>	
     <td style="width:70%">
@@ -242,16 +274,17 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr>
-	    </tr><tr>
+    <br></td>
+</tr>
+		
+<tr>
 <td style="width:30%">
         <img src="/images/community/apps/SGBioAtlas.jpg" alt="SG Bio Altas">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.nparks.gov.sg/news/2015/4/nparks-biodiversity-databases" target="_blank">SGBioAltas</a><br>
+      	<a href="https://www.nparks.gov.sg/mobile-applications" target="_blank">SGBioAltas</a><br>
    <br>
-	Spotted an interesting bird species? Contribute to Singapore’s biodiversity database by sharing your sightings using the app. <br>
+Seen an interesting animal or plant? Share it using the SGBioAtlas app! The SGBioAtlas uses crowd-sourced information to map the distribution of flora and fauna throughout Singapore. It is a great way to learn more about the amazing diversity of animals and plants in our green city.<br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a href="https://apps.apple.com/sg/app/sgbioatlas/id975080923" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
@@ -259,9 +292,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nparks.BiodiversityApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr>
-	    </tr><tr>
+    <br></td>
+</tr>
+		
+<tr>
 <td style="width:30%">
         <img src="/images/community/apps/SGSecure.jpg" alt="SG Secure">
     </td>	
@@ -276,9 +310,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.ministryofhomeaffairs.sgsecure.mhasg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr>
-    </tr><tr>
+    <br></td>
+</tr>
+		
+<tr>
 <td style="width:30%">
             <img src="/images/initiatives/Singpass-website.jpeg" alt="Singpass Mobile">
     </td>	
@@ -293,9 +328,10 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr>
-    </tr><tr>
+    <br></td>
+</tr>
+		
+<tr>
 <td style="width:30%">
             <img src="/images/community/apps/SingStat.jpg" alt="SingStat mobile app">
     </td>	
@@ -310,5 +346,7 @@ Want to register your child’s birth, check on the weather, report municipal is
           <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.singstat" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
           </div>
       </div>  
-    </td>
-</tr><tr></tr></tbody></table>
+    <br></td>
+</tr>
+	
+</tbody></table>
