@@ -101,3 +101,9 @@ The offence of obtaining or dealing in Singpass credentials will carry a maximum
 ### Conclusion  
   
 Our payment accounts, including bank accounts, and Singpass accounts are for our own use. They should not be used by another person, especially if we do not know who the other party is or what the transactions are for. Everyone has a role to play in the fight against scams, and should exercise care and responsibility in the use of our payment accounts and Singpass.
+
+_______
+
+**Ministry of Home Affairs**
+
+**Smart Nation and Digital Government Office**
