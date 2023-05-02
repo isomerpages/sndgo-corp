@@ -15,7 +15,7 @@ image: /images/initiatives/pdd.jpeg
             overflow: hidden;
             position: relative;
             padding-bottom: 56.25%;">
-        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i4osPznQ5d0" height="315" width="560"></iframe>
+        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/i4osPznQ5d0" height="720" width="1280"></iframe>
     </div>
 </div>
 
