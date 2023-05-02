@@ -20,6 +20,6 @@ The Smart Nation and Digital Government Office (SNDGO), under the <a href="https
   
 With the <a href="https://www.tech.gov.sg/" target="_blank">Government Technology Agency (GovTech)</a>, the implementing arm of SNDGO, both entities are collectively known as the Smart Nation and Digital Government Group (SNDGG). 
 
-![Second Permanent Secretary Mr Chng Kai Fong, Permanent Secretary Mr Leong Weng Keong Joseph, and Deputy Secretary Mr Sim Feng-Ji.](/images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg)
+![Permanent Secretary (Development) Mr Chng Kai Fong, Permanent Secretary Mr Leong Weng Keong Joseph, and Deputy Secretary Mr Sim Feng-Ji.](/images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg)
 
-<div style="font-size:14px">From left: Second Permanent Secretary Mr Chng Kai Fong, Permanent Secretary Mr Joseph Leong, and Deputy Secretary Mr Sim Feng-Ji.
+<div style="font-size:14px">From left: Permanent Secretary (Development) Mr Chng Kai Fong, Permanent Secretary Mr Joseph Leong, and Deputy Secretary Mr Sim Feng-Ji.</div>
