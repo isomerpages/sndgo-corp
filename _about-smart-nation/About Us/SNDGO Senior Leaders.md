@@ -74,10 +74,9 @@ third_nav_title: About Us
 <div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Patrick-Yee-2.jpg" alt="Patrick Yee"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Patrick Yee</b></div>Director<br>Human Capital and Development<br></div>	
 
 
-
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/david-low.jpeg" alt="David Law"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Dr Chng Zhenzhi</b></div>Director<br>National AI Office<br></div>	
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/david-low.jpeg" alt="David Law"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>David Low</b></div>Director<br>Legal<br></div>	
 	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
