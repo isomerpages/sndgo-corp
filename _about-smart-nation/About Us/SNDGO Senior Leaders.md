@@ -6,9 +6,6 @@ description: Say hello to our leaders at the Smart Nation and Digital Government
 image: /images/og-image/About-SNDGG-OG-Image.jpg
 third_nav_title: About Us
 ---
-
-
-
 # Our Senior Leaders
 
 <div class="row" style="padding: 40px 0px 0px 0px;">
@@ -23,7 +20,7 @@ third_nav_title: About Us
 	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:500px;"><img src="/images/abt-smart-nation/Leaders/Chng-Kai-Fong.jpg" alt="Chng Kai Fong"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Mr Chng Kai Fong</b></div>Second Permanent Secretary<br></div>
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:500px;"><img src="/images/abt-smart-nation/Leaders/Chng-Kai-Fong.jpg" alt="Chng Kai Fong"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Mr Chng Kai Fong</b></div>Permanent Secretary (Development)<br></div>
 
 </div>	
 	
@@ -75,18 +72,24 @@ third_nav_title: About Us
 <div class="col" style="padding: 10px 20px 10px 20px">	
 	
 <div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Patrick-Yee-2.jpg" alt="Patrick Yee"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Patrick Yee</b></div>Director<br>Human Capital and Development<br></div>	
+
+
+
+<div class="col" style="padding: 10px 20px 10px 20px">
+
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/david-low.jpeg" alt="David Law"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Dr Chng Zhenzhi</b></div>Director<br>National AI Office<br></div>	
 	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
 <div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Chng-Zhen-Zhi-2.jpg" alt="Dr Chng Zhenzhi"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Dr Chng Zhenzhi</b></div>Director<br>National AI Office<br></div>
-
-<div class="col" style="padding: 10px 20px 10px 20px">
-
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Li-Hong-Yi-2.jpg" alt="Li Hongyi"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Li Hongyi</b></div>Director<br>Open Government Products</div>		
 	
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">	
+
+<div class="col" style="padding: 10px 20px 10px 20px">
+
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Li-Hong-Yi-2.jpg" alt="Li Hongyi"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Li Hongyi</b></div>Director<br>Open Government Products</div>		
 	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
@@ -95,9 +98,17 @@ third_nav_title: About Us
 <div class="col" style="padding: 10px 20px 10px 20px">
 
 <div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Zhong-Ren-2.jpg" alt="Ang Zhongren"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Ang Zhongren</b></div>Director<br>Policy and Governance<br></div>	
+
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">	
 	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
 <div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Zhong-Wen-2.jpg" alt="Huang Zhongwen"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Huang Zhongwen</b></div>Director<br>Smart City Projects Office<br></div>
 
-</div>
+<div class="col" style="padding: 10px 20px 10px 20px">
+
+<div class="col" style="padding: 10px 20px 10px 20px">
+
+</div></div></div>
