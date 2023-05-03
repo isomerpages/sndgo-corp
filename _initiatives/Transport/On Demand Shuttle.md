@@ -9,13 +9,12 @@ image: /images/initiatives/overview-pages/on-demand-shuttle.png
 ---
 # Can Public Transport Be On Demand?
 <br>
-
 <div style="max-width: 1280px">
     <div style="height: 0;
             overflow: hidden;
             position: relative;
             padding-bottom: 56.25%;">
-        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3Wq70ih3YQg" height="315" width="560"></iframe>
+        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3Wq70ih3YQg" height="720" width="1280"></iframe>
     </div>
 </div>
 
