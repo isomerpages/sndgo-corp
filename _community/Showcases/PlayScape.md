@@ -10,10 +10,10 @@ image: /images/community/playscape/PlayScape_04.jpeg
 ---
 # Come visit the Smart Nation PlayScape
 
-<br>
-
 <div style="width:50%"> 
  <a href="https://www.gevme.com/scsonlinetickets"><img src="/images/community/playscape/buy-tickets-playscape.png" alt="Buy Tickets - Smart Nation PlayScape"></a></div>
+
+<br>
 
 <div style="max-width: 1280px">
     <div style="height: 0;
