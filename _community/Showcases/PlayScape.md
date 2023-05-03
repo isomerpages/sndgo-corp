@@ -10,11 +10,7 @@ image: /images/community/playscape/PlayScape_04.jpeg
 ---
 # Come visit the Smart Nation PlayScape
 
-<div class="row">
-	<div class="col" style="margin: 0px;"> 
-		<a href="https://www.gevme.com/scsonlinetickets"><img src="/images/community/playscape/buy-tickets-button.svg" alt="Buy Tickets - Smart Nation PlayScape"></a></div>
-	<div class="col" style="margin: 0px;"></div>
-</div>
+<br>
 
 <div style="max-width: 1280px">
     <div style="height: 0;
@@ -30,6 +26,12 @@ image: /images/community/playscape/PlayScape_04.jpeg
                 max-width: 100%;
                 position: absolute;"></iframe>
     </div>
+</div>
+
+<div class="row">
+	<div class="col" style="margin: 0px;"> 
+		<a href="https://www.gevme.com/scsonlinetickets"><img src="/images/community/playscape/buy-tickets-button.svg" alt="Buy Tickets - Smart Nation PlayScape"></a></div>
+	<div class="col" style="margin: 0px;"></div>
 </div>
 
 Smart Nation PlayScape is jointly developed by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/). It features a wide variety of digital technologies powering Singapore’s Smart Nation journey. 
