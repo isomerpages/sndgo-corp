@@ -8,7 +8,8 @@ description: Smart Nation PlayScape is jointly developed by the Smart Nation and
   life.
 image: /images/community/playscape/PlayScape_04.jpeg
 ---
-# Come visit the Smart Nation PlayScape
+# Come visit the Smart Nation PlayScape at Science Centre Singapore
+
 
 
 <br>
@@ -31,7 +32,7 @@ image: /images/community/playscape/PlayScape_04.jpeg
 
 <br>
 <div style="width:50%"> 
- <a href="https://www.gevme.com/scsonlinetickets"><img src="/images/community/playscape/buy-tickets-playscape.png" alt="Buy Tickets - Smart Nation PlayScape"></a></div>
+ <a href="https://www.gevme.com/scsonlinetickets"><img src="/images/community/playscape/buy-tickets-sciece-centre.png" alt="Buy Tickets - Smart Nation PlayScape"></a></div>
 
 Smart Nation PlayScape is jointly developed by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/). It features a wide variety of digital technologies powering Singapore’s Smart Nation journey. 
 
