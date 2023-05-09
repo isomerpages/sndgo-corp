@@ -11,7 +11,7 @@ description: Recent developments in AI technologies, such as those powering
   service enhancements can be deployed for public use.
 image: ""
 ---
-## Leverage New Artificial Intelligence Technologies in Government Services
+## Leverage new Artificial Intelligence technologies in Government services
 
 **Fourteenth Parliament of Singapore – Second Session for the Sitting on 9 May 2023**
 
