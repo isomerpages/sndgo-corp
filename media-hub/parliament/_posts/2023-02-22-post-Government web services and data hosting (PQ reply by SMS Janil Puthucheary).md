@@ -19,7 +19,7 @@ image: ""
 
 ### Answer
 
-**Oral reply by Dr Janil Puthucheary, Minister-in-Charge of GovTech (for the Prime Minister)**
+**Oral reply by Dr Janil Puthucheary, Senior Minister of State for Communications and Information and Minister-in-Charge of GovTech (for the Prime Minister)**
 
 Mr. Speaker, outages and disruptions can happen to any digital service, including those hosted on cloud services. The recent service degradation at a Microsoft data centre had limited impact on government services. Nonetheless, GovTech has been working with Microsoft to fully restore affected services and to prevent similar occurrences in future.
 
