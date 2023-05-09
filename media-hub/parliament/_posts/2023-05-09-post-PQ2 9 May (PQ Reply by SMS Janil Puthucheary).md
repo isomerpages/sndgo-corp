@@ -7,7 +7,7 @@ description: Government-issued mobile devices are secured through technical
   controls and policies on appropriate use.
 image: ""
 ---
-## XXX
+## Security Protocols for Government-Issued Mobile Devices
 
 **Fourteenth Parliament of Singapore – Second Session for the Sitting on 9 May 2023**
 
