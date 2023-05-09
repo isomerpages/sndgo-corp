@@ -43,7 +43,7 @@ b. Each case has to be assessed on its own facts and circumstances.
 Mr Louis Ng asked about the “red flags” that individuals should watch out for. He and Mr Zhulkarnain also asked about the extent of verification needed to address suspicious behaviour.
 
 It begins with having a clear understanding of our payment accounts (including our bank accounts) and Singpass.<br>
-a. First, everyone must understand that these accounts are for our own use. They should not be used by another person, especially if we do not know who the other party is or what the transactions are for<br>.
+a. First, everyone must understand that these accounts are for our own use. They should not be used by another person, especially if we do not know who the other party is or what the transactions are for.<br>
 b. Second, as a rule, we do not share details about these accounts because they should only be operated by ourselves.<br>
 
 With this understanding in mind, the common tactics used by scammers to approach prospective victims become easier to recognise. I will outline three.<br>
