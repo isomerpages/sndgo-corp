@@ -76,7 +76,7 @@ b. The money mules’ bank accounts form a web of multiple accounts; scammed mon
 c. This process is repeated many times over so that the monies go through multiple layers of bank accounts, before being transferred out of Singapore, into the hands of the syndicate.<br>
 d. This tactic of “layering” is designed to make it difficult for the authorities to follow the money trail and get to the perpetrators.<br>
 
-Between 2020 and 2022, scammers exploited more than 38,000 bank accounts to launder their proceeds from local victims. Over the same period, more than 19,000 money mules were investigated by the Police.<br><br>
+Between 2020 and 2022, scammers exploited more than 38,000 bank accounts to launder their proceeds from local victims. Over the same period, more than 19,000 money mules were investigated by the Police.<br>
 
 One big problem for the Police is that with electronic transactions, all these actions that I described earlier happen quickly, often in a matter of hours. Another problem is that when interviewed by the Police, most of the money mules claimed they did not know that they were handling illegal funds.<br>
 a. They claimed not to have known the identity of the person who instructed them, nor the identity of the bank account holders whom they were receiving funds from or transferring funds to.<br>
@@ -96,7 +96,7 @@ Scam syndicates effectively assume the identity of a Singpass user for their cri
 
 Sir, we must do everything we can to prevent scams from harming Singaporeans.
 
-This includes recognising the limitations of current laws, which make it difficult to take the money mules to task.
+This includes recognising the limitations of current laws, which make it difficult to take the money mules to task.<br>
 a. It requires the Prosecution to prove that the money mule had knowledge or reasonable grounds to believe that the monies transacted through his bank account are linked to criminal activity.<br>
 b. As a result of these difficulties, of the 19,000 money mules investigated by Police from 2020 to 2022, fewer than 250 money mules were eventually prosecuted.<br>
 c. In the OCBC phishing scam which I mentioned earlier, out of the 120 suspected money mules, only 9 could be charged for money mule offences.<br>
@@ -196,7 +196,7 @@ These proposed provisions are based on actual situations Police have observed, w
 
 The offence of disclosing an individual’s own Singpass credentials will carry a fine of up to $10,000 or imprisonment of up to three years, or both.
 
-Again, to be abundantly clear, it is not our intent to criminalise situations where there is a genuine need to share credentials for legitimate transactions. For instance, seniors may in some situations need the help of their family members to make Singpass transactions. The new provisions are also not intended to capture persons who were genuinely tricked into giving up their Singpass credentials.
+Again, to be abundantly clear, it is** not our intent** to criminalise situations where there is a genuine need to share credentials for legitimate transactions. For instance, seniors may in some situations need the help of their family members to make Singpass transactions. The new provisions are also not intended to capture persons who were genuinely tricked into giving up their Singpass credentials.
 
 *Obtaining or dealing in Singpass credentials to facilitate criminal activities*
 
