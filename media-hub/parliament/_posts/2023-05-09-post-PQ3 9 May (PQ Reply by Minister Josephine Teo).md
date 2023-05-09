@@ -9,7 +9,8 @@ description: Public officers and political office holders are allowed to
   communicated using personal mobile devices.
 image: ""
 ---
-## XXX
+## Communications on official matters on personal mobile devices
+
 
 **Fourteenth Parliament of Singapore – Second Session for the Sitting on 9 May 2023**
 
