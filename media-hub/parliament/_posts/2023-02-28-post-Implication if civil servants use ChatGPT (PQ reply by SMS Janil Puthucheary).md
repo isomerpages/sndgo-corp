@@ -3,10 +3,10 @@ title: Implication if civil servants use ChatGPT (PQ reply by SMS Janil Puthuche
 permalink: /media-hub/parliament/28022023/
 date: 2023-02-28
 layout: post
-description: "As part of our efforts to utilise technology to encourage
+description: As part of our efforts to utilise technology to encourage
   innovation and productivity in the public sector, the Government is exploring
   how large language models such as those underlying ChatGPT can help officers
-  do their work more effectively. "
+  do their work more effectively.
 image: ""
 ---
 ## Implication if civil servants use ChatGPT to write reports and speeches
@@ -20,7 +20,7 @@ image: ""
 
 ### Answer
 
-**Oral reply by Dr Janil Puthucheary, Minister-in-Charge of GovTech (for the Prime Minister)**
+**Oral reply by Dr Janil Puthucheary, Senior Minister of State for Communications and Information and Minister-in-Charge of GovTech (for the Prime Minister)**
 
 Mr Speaker Sir, as part of our efforts to utilise technology to encourage innovation and productivity in the public sector, the Government is exploring how large language models such as those underlying ChatGPT can help officers do their work more effectively. One such effort is the development of Pair (spelt PAIR), in which we see potential in helping civil servants with parts of the writing process, such as summarising long reference material, exploring related ideas, or improving the clarity of writing.
 
