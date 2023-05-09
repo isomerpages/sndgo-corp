@@ -3,9 +3,9 @@ title: Availability of Government digital services (PQ Reply by SMS Janil Puthuc
 permalink: /media-hub/parliament/29112022-1/
 date: 2022-11-29
 layout: post
-description: "Unscheduled downtime of Government digital services occurs
+description: Unscheduled downtime of Government digital services occurs
   infrequently, affecting service availability less than 0.1% of the time in
-  2021. "
+  2021.
 image: ""
 ---
 ## Measures to ensure the availability of Government digital services 
@@ -19,7 +19,7 @@ image: ""
 
 ### Answer
 
-**Oral reply by Dr Janil Puthucheary, Minister-in-Charge of GovTech (for the Prime Minister)**
+**Oral reply by Dr Janil Puthucheary, Senior Minister of State for Communications and Information and Minister-in-Charge of GovTech (for the Prime Minister)**
 
 Mr Speaker, unscheduled downtime of Government digital services occurs infrequently, affecting service availability less than 0.1% of the time in 2021. Among services that experienced unscheduled downtime, the median cumulative downtime for the whole of 2021 was 4 hours. This is partly because the majority of Government systems providing services to the public have been moved to commercial cloud hosting platforms, which have high availability, and these platforms and the services that run on them are designed for better availability.
 
