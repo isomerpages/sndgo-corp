@@ -110,7 +110,7 @@ e. In line with Mr Murali’s suggestion, we will also continue to work with par
 Mr Yip and Ms Ang asked about Singpass security. The Smart Nation and Digital Government Group (SNDGG) has introduced the following measures to better protect Singpass users:<br><br>
 a. GovTech has put in place early detection mechanisms, and fraud analytics, to detect potential scams involving Singpass. For higher risk transactions, users may also be asked to further verify themselves with Singpass Face Verification. These measures allow GovTech to take prompt action to investigate, and where possible, prevent or stop the scams.<br><br>
 b. GovTech has also given users the option to block their Singpass from overseas access. This is a useful feature because most scammers operate outside of Singapore. So if you block your Singpass from overseas access, in essence, you are preventing it from being abused by overseas scammers.<br><br>
-c. Some of these measures can also help to protect the more vulnerable members of our society, which Mr Zhulkarnain had asked about. I thank him for his other suggestions to better protect individuals with special needs from being scammed. GovTech and the Police will study how best to implement them.<br><br>
+c. Some of these measures can also help to protect the more vulnerable members of our society, which Mr Zhulkarnain had asked about. I thank him for his other suggestions to better protect individuals with special needs from being scammed. GovTech and the Police will study how best to implement them.<br>
 
 ### Conclusion
 
