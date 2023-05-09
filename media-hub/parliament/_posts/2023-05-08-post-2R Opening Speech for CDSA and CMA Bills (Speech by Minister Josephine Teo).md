@@ -196,7 +196,7 @@ These proposed provisions are based on actual situations Police have observed, w
 
 The offence of disclosing an individual’s own Singpass credentials will carry a fine of up to $10,000 or imprisonment of up to three years, or both.
 
-Again, to be abundantly clear, it is** not our intent** to criminalise situations where there is a genuine need to share credentials for legitimate transactions. For instance, seniors may in some situations need the help of their family members to make Singpass transactions. The new provisions are also not intended to capture persons who were genuinely tricked into giving up their Singpass credentials.
+Again, to be abundantly clear, it is **not our intent** to criminalise situations where there is a genuine need to share credentials for legitimate transactions. For instance, seniors may in some situations need the help of their family members to make Singpass transactions. The new provisions are also not intended to capture persons who were genuinely tricked into giving up their Singpass credentials.
 
 *Obtaining or dealing in Singpass credentials to facilitate criminal activities*
 
