@@ -25,7 +25,7 @@ Published by Swiss business school Institute for Management Development (IMD), t
 
 In 2020 and 2021, Singapore was also ranked seventh in the world, three places up from its rank of 10th in 2019. It had been ranked first from 2019 to 2021, but these past rankings have been adjusted according to a new methodology used for the 2023 index.
 
-Click on the link to find out more about the <a href="https://www.imd.org/wp-content/uploads/2023/04/SmartCityIndexReport-2023-FINAL.pdf" target="_blank"> 2023 IMD Smart City Index</a>.
+Click on the link to find out more about the <a href="www.imd.org/smart-city-observatory/home/" target="_blank"> 2023 IMD Smart City Index</a>.
 
 ## 2021
 
