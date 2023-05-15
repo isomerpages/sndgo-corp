@@ -77,12 +77,12 @@ In line with Punggol Northshore’s vision to be “A Smart and Sustainable Dist
 
 The details of Smart HDB Town Framework were unveiled at the HDB PEAK (Professional Engagement And Knowledge-Sharing) Forum. The Forum is an annual gathering of building professionals and provides a platform for the sharing of new ideas and best practices in the building industry. It aims to raise the industry standards in design and construction excellence.
 
-The theme for this year’s Forum is “Road to Better Homes – Sustainability & Greenery”. Besides exploring how “Sustainability and Greenery” may be exemplified in public housing developments, the Forum will also explore the development of Smart Towns, as a new initiative for the next phase of public housing developments. The keynote speaker for the Forum is Mr Vicente Guallart, Chief Architect for the Barcelona City Council. Barcelona is recognised as one of the cities which has put in place a comprehensive strategy in developing a Smart City. Mr Vicente Guallart will speak on “Barcelona 5.0: The self-sufficient city”.
+The theme for this year’s Forum is “Road to Better Homes – Sustainability &amp; Greenery”. Besides exploring how “Sustainability and Greenery” may be exemplified in public housing developments, the Forum will also explore the development of Smart Towns, as a new initiative for the next phase of public housing developments. The keynote speaker for the Forum is Mr Vicente Guallart, Chief Architect for the Barcelona City Council. Barcelona is recognised as one of the cities which has put in place a comprehensive strategy in developing a Smart City. Mr Vicente Guallart will speak on “Barcelona 5.0: The self-sufficient city”.
 
 ### Moving Forward
 
 Going forward, HDB will pilot selected Smart initiatives in Punggol Northshore so as to assess their viability and suitability, before extending them to other HDB estates.
 
-For more details of HDB’s new Smart initiatives and new public housing projects in Northshore, Bidadari and Tampines North, the public is invited to visit the exhibition at HDB Hub or the [HDB website](www.hdb.gov.sg) from today.
+For more details of HDB’s new Smart initiatives and new public housing projects in Northshore, Bidadari and Tampines North, the public is invited to visit the exhibition at HDB Hub or the <a target="_blank" href="https://www.hdb.gov.sg">HDB website</a> from today.
 
-Press release issued by Housing & Development Board
+Press release issued by Housing &amp; Development Board
