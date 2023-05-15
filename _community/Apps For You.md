@@ -16,17 +16,17 @@ Want to register your child’s birth, check on the weather, report municipal is
 <table style="width:100%">
   <tbody><tr>
     <td style="width:30%">
-      <img src="/images/community/apps/ActiveWallet.jpg" alt="Active Wallet">
+      <img alt="Active Wallet" src="/images/community/apps/ActiveWallet.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App" target="_blank">ActiveSG</a><br>
+      	<a target="_blank" href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App">ActiveSG</a><br>
    <br>
 	Book workouts and sporting facilities as well as receive incentives through exciting fitness challenges and campaigns with the app. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/activesg/id827595244" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/activesg/id827595244"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.iapps.ssc" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=com.iapps.ssc"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -34,10 +34,10 @@ Want to register your child’s birth, check on the weather, report municipal is
 		
 <tr>
     <td style="width:30%">
-      <img src="/images/community/apps/Customs-SG.jpg" alt="Customs SG">
+      <img alt="Customs SG" src="/images/community/apps/Customs-SG.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="https://m.customs.gov.sg/CustomsTravellerPortal" target="_blank">Customs@SG Web Application</a><br>
+      	<a target="_blank" href="https://m.customs.gov.sg/CustomsTravellerPortal">Customs@SG Web Application</a><br>
    <br>
 	Declare and pay taxes on your overseas purchases before you even hit  the airport, or provide tip-offs on customs offences – all via this nifty app. <br>
 	<br></td>
@@ -45,17 +45,17 @@ Want to register your child’s birth, check on the weather, report municipal is
 		
 <tr>
     <td style="width:30%">
-      <img src="/images/community/apps/HealthHub.jpg" alt="HealthHub">
+      <img alt="HealthHub" src="/images/community/apps/HealthHub.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.healthhub.sg/" target="_blank">HealthHub</a><br>
+      	<a target="_blank" href="https://www.healthhub.sg/">HealthHub</a><br>
    <br>
 	Access your health records (including COVID-19 vaccination and test results), make medical appointments as well as track medication records with this handy app. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthhub-sg/id1034200875" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/healthhub-sg/id1034200875"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthhub" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthhub"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -63,17 +63,17 @@ Want to register your child’s birth, check on the weather, report municipal is
 		
 <tr>
 		 <td style="width:30%">
-      <img src="/images/community/apps/Healthy 365 app 2022.png" alt="Healthy 365">
+      <img alt="Healthy 365" src="/images/community/apps/Healthy 365 app 2022.png">
     </td>	
     <td style="width:70%">
-      	<a href="https://hpb.gov.sg/healthy-living/healthy-365" target="_blank">Healthy 365</a><br>
+      	<a target="_blank" href="https://hpb.gov.sg/healthy-living/healthy-365">Healthy 365</a><br>
    <br>
 	The must-have app for the National Steps Challenge, an initiative&nbsp;that encourages residents in Singapore&nbsp;to adopt a more active lifestyle, Healthy 365 also tracks one’s health and diet.<br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/healthy-365/id1040202154"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -81,17 +81,17 @@ Want to register your child’s birth, check on the weather, report municipal is
 		
 <tr>    
 <td style="width:30%">
-      <img src="/images/community/apps/LifeSG-Banner.png" alt="Life SG banner">
+      <img alt="Life SG banner" src="/images/community/apps/LifeSG-Banner.png">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.life.gov.sg/" target="_blank">LifeSG</a><br>
+      	<a target="_blank" href="https://www.life.gov.sg/">LifeSG</a><br>
    <br>
 	Whether you’re a new parent or an elderly citizen, get personalised Government services and information in a timely manner. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/moments-of-life/id1383218758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/moments-of-life/id1383218758"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.app.mol" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.gov.app.mol"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -99,17 +99,17 @@ Want to register your child’s birth, check on the weather, report municipal is
 		
 <tr>    
 <td style="width:30%">
-      <img src="/images/community/apps/myenv.png" alt="my env banner">
+      <img alt="my env banner" src="/images/community/apps/myenv.png">
     </td>	
     <td style="width:70%">
-     <a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app" target="_blank">myENV</a><br>
+     <a target="_blank" href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app">myENV</a><br>
    <br>
 	Hungry and looking for a nearby hawker centre? Want to be updated on dengue outbreaks in your neighbourhood or when the air quality turns bad? myENV is your go-to app. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/myenv/id444435182" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/myenv/id444435182"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nea" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.gov.nea"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -117,17 +117,17 @@ Want to register your child’s birth, check on the weather, report municipal is
 		
 <tr>
 		<td style="width:30%">
-        <img src="/images/community/apps/myresponder.jpg" alt="My responder banner">
+        <img alt="My responder banner" src="/images/community/apps/myresponder.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.scdf.gov.sg/home/community-volunteers/mobile-applications" target="_blank">MyResponder</a><br>
+      	<a target="_blank" href="https://www.scdf.gov.sg/home/community-volunteers/mobile-applications">MyResponder</a><br>
    <br>
 	Crowdsource for help during medical emergencies or report fires to the Singapore Civil Defence Force with the MyResponder app. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -135,7 +135,7 @@ Want to register your child’s birth, check on the weather, report municipal is
 		
 <tr>
 <td style="width:30%">
-        <img src="/images/community/apps/Mytransport.jpg" alt="MyTransport.SG">
+        <img alt="MyTransport.SG" src="/images/community/apps/Mytransport.jpg">
     </td>	
     <td style="width:70%">
       	<b>MyTransport.SG</b><br>
@@ -143,9 +143,9 @@ Want to register your child’s birth, check on the weather, report municipal is
 	Go places with more useful travel information on public transport, receive notifications on MRT or traffic situations and plan your journeys with the MyTransport.SG app. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/mytransport-singapore/id1306661188" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/mytransport-singapore/id1306661188"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -153,17 +153,17 @@ Want to register your child’s birth, check on the weather, report municipal is
 
 <tr>
 <td style="width:30%">
-        <img src="/images/community/apps/NLB-Mobile.jpg" alt="NLB Mobile">
+        <img alt="NLB Mobile" src="/images/community/apps/NLB-Mobile.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="https://mobileapp.nlb.gov.sg/" target="_blank">NLB Mobile</a><br>
+      	<a target="_blank" href="https://mobileapp.nlb.gov.sg/">NLB Mobile</a><br>
    <br>
 	Borrow books and renew existing loans, manage your children’s accounts or read digital materials – all at your fingertips. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/nlb-mobile/id1147053983" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/nlb-mobile/id1147053983"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.gov.nlb.nlbmobile"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -171,17 +171,17 @@ Want to register your child’s birth, check on the weather, report municipal is
 		
 <tr>
 <td style="width:30%">
-        <img src="/images/community/apps/nparks_near_app.jpeg" alt="SG Bio Altas">
+        <img alt="SG Bio Altas" src="/images/community/apps/nparks_near_app.jpeg">
     </td>	
     <td style="width:70%">
-      	<a href="https://pcn.nparks.gov.sg/the-pcn-experience/near/" target="_blank">NParks Explore A Route (NEAR)</a><br>
+      	<a target="_blank" href="https://pcn.nparks.gov.sg/the-pcn-experience/near/">NParks Explore A Route (NEAR)</a><br>
    <br>
 The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented reality (AR)-enabled mobile application, designed to complement the Coast-to-Coast (C2C) Trail, the Round Island Route (RIR), as well as the Park Connector Network (PCN) for an interactive curated walking experience island-wide.<br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/nparks-explore-a-route-near/id6444256702" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/nparks-explore-a-route-near/id6444256702"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.nparks.near&amp;pli=1" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=com.nparks.near&amp;pli=1"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -189,17 +189,17 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 		
 <tr>
 <td style="width:30%">
-        <img src="/images/community/apps/OneMap.jpg" alt="One Map Banner">
+        <img alt="One Map Banner" src="/images/community/apps/OneMap.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="www.onemap.gov.sg" target="_blank">OneMap</a><br>
+      	<a target="_blank" href="www.onemap.gov.sg">OneMap</a>
    <br>
 	The most detailed map of Singapore with information on COVID-19 vaccination centres and test providers, school locations and essential amenities, among others. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/us/app/onemap-sg/id1244720012?ls=1" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/us/app/onemap-sg/id1244720012?ls=1"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.onemap.android.onemap2" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.onemap.android.onemap2"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -207,17 +207,17 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 		
 <tr>
 <td style="width:30%">
-        <img src="/images/community/apps/OneService.jpg" alt="One Service">
+        <img alt="One Service" src="/images/community/apps/OneService.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.oneservice.gov.sg/" target="_blank">OneService</a><br>
+      	<a target="_blank" href="https://www.oneservice.gov.sg/">OneService</a><br>
    <br>
 	Find parking, book facilities or report issues in your neighbourhood with the convenience of this community platform. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/oneservice/id947274394" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/oneservice/id947274394"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -225,17 +225,17 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 		
 <tr>
 <td style="width:30%">
-        <img src="/images/community/apps/Parents-Gateway.jpg" alt="Parents Gateway">
+        <img alt="Parents Gateway" src="/images/community/apps/Parents-Gateway.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="https://pg.moe.edu.sg/faq" target="_blank">Parents Gateway</a><br>
+      	<a target="_blank" href="https://pg.moe.edu.sg/faq">Parents Gateway</a><br>
    <br>
 	A one-stop mobile app for parents and schools to better support their child's educational journey, with timely notifications and more convenient consent-giving for school activities. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/parents-gateway/id1267198708"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.moe.pgp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=com.moe.pgp"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -243,7 +243,7 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 		
 <tr>
 <td style="width:30%">
-        <img src="/images/community/apps/Police.jpg" alt="Police@SG">
+        <img alt="Police@SG" src="/images/community/apps/Police.jpg">
     </td>	
     <td style="width:70%">
       	<b>Police@SG</b><br>
@@ -251,9 +251,9 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 	Get access to information and online services offered by the Singapore Police Force as well as report suspected criminal activities with this app. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/police-sg/id472603758" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/police-sg/id472603758"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.spf.policesg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=com.spf.policesg"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -261,17 +261,17 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 		
 <tr>
 	<td style="width:30%">
-        <img src="/images/community/apps/ParkingSG.jpg" alt="Parking.sg">
+        <img alt="Parking.sg" src="/images/community/apps/ParkingSG.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.parking.sg/" target="_blank">Parking.sg</a><br>
+      	<a target="_blank" href="https://www.parking.sg/">Parking.sg</a><br>
    <br>
 	Parking coupons be gone with Parking.sg as motorists can pay for parking via the app – and be notified when parking sessions are about to end to avoid the dreaded summon. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/vn/app/parking-sg/id1286602494" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/vn/app/parking-sg/id1286602494"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -279,17 +279,17 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 		
 <tr>
 <td style="width:30%">
-        <img src="/images/community/apps/SGBioAtlas.jpg" alt="SG Bio Altas">
+        <img alt="SG Bio Altas" src="/images/community/apps/SGBioAtlas.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.nparks.gov.sg/mobile-applications" target="_blank">SGBioAltas</a><br>
+      	<a target="_blank" href="https://www.nparks.gov.sg/mobile-applications">SGBioAltas</a><br>
    <br>
 Seen an interesting animal or plant? Share it using the SGBioAtlas app! The SGBioAtlas uses crowd-sourced information to map the distribution of flora and fauna throughout Singapore. It is a great way to learn more about the amazing diversity of animals and plants in our green city.<br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/sgbioatlas/id975080923" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/sgbioatlas/id975080923"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.nparks.BiodiversityApp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.gov.nparks.BiodiversityApp"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -297,17 +297,17 @@ Seen an interesting animal or plant? Share it using the SGBioAtlas app! The SGBi
 		
 <tr>
 <td style="width:30%">
-        <img src="/images/community/apps/SGSecure.jpg" alt="SG Secure">
+        <img alt="SG Secure" src="/images/community/apps/SGSecure.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.sgsecure.gov.sg" target="_blank">SGSecure</a><br>
+      	<a target="_blank" href="https://www.sgsecure.gov.sg">SGSecure</a><br>
    <br>
 	Report suspicious sightings and get emergency alerts with SGSecure. Pick up tips on protecting yourself and others during terrorist attacks and other emergency situations. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/sgsecure/id1095191664" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/sgsecure/id1095191664"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=com.ministryofhomeaffairs.sgsecure.mhasg" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=com.ministryofhomeaffairs.sgsecure.mhasg"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -315,17 +315,17 @@ Seen an interesting animal or plant? Share it using the SGBioAtlas app! The SGBi
 		
 <tr>
 <td style="width:30%">
-            <img src="/images/initiatives/Singpass-website.jpeg" alt="Singpass Mobile">
+            <img alt="Singpass Mobile" src="/images/initiatives/Singpass-website.jpeg">
     </td>	
     <td style="width:70%">
-      	<a href="https://app.singpass.gov.sg/" target="_blank">Singpass</a><br>
+      	<a target="_blank" href="https://app.singpass.gov.sg/">Singpass</a><br>
    <br>
 	The Singpass app provides a secure, convenient way for users to log into Government digital services with their fingerprint, facial recognition or six-digit passcode. Access your digital IC, driving licence and more via MyInfo using the app.  <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/us/app/singpass-mobile/id1340660807" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/us/app/singpass-mobile/id1340660807"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.ndi.sp" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.ndi.sp"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
@@ -333,17 +333,17 @@ Seen an interesting animal or plant? Share it using the SGBioAtlas app! The SGBi
 		
 <tr>
 <td style="width:30%">
-            <img src="/images/community/apps/SingStat.jpg" alt="SingStat mobile app">
+            <img alt="SingStat mobile app" src="/images/community/apps/SingStat.jpg">
     </td>	
     <td style="width:70%">
-      	<a href="https://www.singstat.gov.sg" target="_blank">SingStat</a><br>
+      	<a target="_blank" href="https://www.singstat.gov.sg">SingStat</a><br>
    <br>
 	Download the SingStat Mobile App for fast, free and easy access to Singapore official statistics and key ASEAN statistics. Over 250 frequently requested statistics spanning across 30 data categories, including GDP and Population, are available for access via this mobile app. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a href="https://apps.apple.com/sg/app/singstat/id935197005" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/singstat/id935197005"><img src="/images/community/appstoreicon/Apple-Store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a href="https://play.google.com/store/apps/details?id=sg.gov.singstat" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.gov.singstat"><img src="/images/community/appstoreicon/Google-Play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
