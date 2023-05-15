@@ -191,9 +191,7 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
 <td style="width:30%">
         <img alt="One Map Banner" src="/images/community/apps/OneMap.jpg">
     </td>	
-    <td style="width:70%">
-      	<a target="_blank" href="www.onemap.gov.sg">OneMap</a>
-   <br>
+	<td style="width:70%"><a target="_blank" href="https://www.onemap.gov.sg">OneMap</a><br>
 	The most detailed map of Singapore with information on COVID-19 vaccination centres and test providers, school locations and essential amenities, among others. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
