@@ -83,6 +83,6 @@ The theme for this year’s Forum is “Road to Better Homes – Sustainability 
 
 Going forward, HDB will pilot selected Smart initiatives in Punggol Northshore so as to assess their viability and suitability, before extending them to other HDB estates.
 
-For more details of HDB’s new Smart initiatives and new public housing projects in Northshore, Bidadari and Tampines North, the public is invited to visit the exhibition at HDB Hub or visit [www.hdb.gov.sg/futurehomesbetterlives](http://www.hdb.gov.sg/fi10/fi10320p.nsf/w/futurehomesbetterlives?OpenDocument) from today.
+For more details of HDB’s new Smart initiatives and new public housing projects in Northshore, Bidadari and Tampines North, the public is invited to visit the exhibition at HDB Hub or the [HDB website](www.hdb.gov.sg) from today.
 
 Press release issued by Housing & Development Board
