@@ -174,7 +174,7 @@ Want to register your child’s birth, check on the weather, report municipal is
         <img alt="SG Bio Altas" src="/images/community/apps/nparks_near_app.jpeg">
     </td>	
     <td style="width:70%">
-      	<a target="_blank" href="https://pcn.nparks.gov.sg/the-pcn-experience/near/">NParks Explore A Route (NEAR)</a><br>
+      	<a target="_blank" href="https://pcn.nparks.gov.sg/the-pcn-experience/NEAR/">NParks Explore A Route (NEAR)</a><br>
    <br>
 The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented reality (AR)-enabled mobile application, designed to complement the Coast-to-Coast (C2C) Trail, the Round Island Route (RIR), as well as the Park Connector Network (PCN) for an interactive curated walking experience island-wide.<br>
 	<br>
