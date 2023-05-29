@@ -39,7 +39,7 @@ Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore, ac
 
 ---------
 <u><b>Annex</b></u><br>
-• Factsheet – Smart Nation PlayScape
+• Factsheet – <a href="https://www.smartnation.gov.sg/media-hub/press-releases/29052023a">Smart Nation PlayScape</a>
 
 -----
 
