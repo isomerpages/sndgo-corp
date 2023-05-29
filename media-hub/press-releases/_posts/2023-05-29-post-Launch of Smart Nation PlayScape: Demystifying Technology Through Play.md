@@ -11,8 +11,8 @@ Launch of Smart Nation PlayScape - Demystifying Technology Through Play
 
 **29 May 2023**
 
-* Permanent exhibition at Science Centre Singapore developed with ideas, feedback and contributions from more than 200 members of the community 
-* New ‘digital playground’ seeks to interest children and youths in emerging technology
+* <i>Permanent exhibition at Science Centre Singapore developed with ideas, feedback and contributions from more than 200 members of the community</i>
+* <i>New ‘digital playground’ seeks to interest children and youths in emerging technology</i>
 
 Want to learn about Artificial Intelligence (AI) and Machine Learning through games? Or “travel” to exotic places such as the Aurora Storms in Greenland or Coral Reefs in Philippines through Virtual Reality (VR) displays? You can do these and more at the Smart Nation PlayScape, co-created with ideas, feedback and contributions from more than 200 members of the community, including students, private companies and members of the public.
 
