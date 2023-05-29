@@ -39,4 +39,24 @@ Smart Nation PlayScape is accessible with a general admission ticket to Science 
 
 Ticketing is complimentary during off-peak periods (weekdays during the school term). Guests may book their tickets online. Please refer to the pricing guide below for more details.
 
+![Smart Nation PlayScape, Science Centre Ticket Pricing](/images/media-hub/press-release/2023/playscape_scs%20ticketing.png)
 
+[^1] Refers to weekdays during school term (excluding public holidays and school holidays) 
+
+[^2]  Includes weekends, public holidays and school holidays.<p>
+	
+
+-----
+
+For media enquiries, please contact: <br>
+Shadrina Mohamad (Ms) <br>
+Manager, Adoption and Engagement Directorate<br> 
+Smart Nation and Digital Government Office, Prime Minister’s Office <br>
+Tel: 96691856 <br>
+Email: shadrina_mohamad@pmo.gov.sg 
+	
+Ms Jyotika Thukral <br>
+Senior Manager, Branding &amp; Communications <br>
+Science Centre Singapore <br>
+Tel: 64252541 <br>
+Email: Jyotika_THUKRAL@science.edu.sg</p>
