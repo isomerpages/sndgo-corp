@@ -74,4 +74,4 @@ The Centre and its partners have played a pivotal role in transforming the way s
 	
 The Centre’s group of attractions include Omni-Theatre, Snow City and KidsSTOP™️. The Omni-Theatre, Southeast Asia’s first 8K 3D digital theatre with a 23m wide seamless dome screen, is an immersive destination like no other. Snow City is Singapore’s only permanent indoor snow centre offering an Arctic inspired experience at Singapore’s first ice gallery and snow chamber. KidsSTOP™️ - Where every child gets to Imagine, Experience, Discover and Dream - is Singapore’s first children’s science centre offering an enriching experience through purposeful play for children aged 18 months to 8 years old.
 	
-For more information, please visit www.science.edu.sg.<p></p>
+For more information, please visit www.science.edu.sg.
