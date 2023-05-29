@@ -41,9 +41,10 @@ Ticketing is complimentary during off-peak periods (weekdays during the school t
 
 ![Smart Nation PlayScape, Science Centre Ticket Pricing](/images/media-hub/press-release/2023/playscape_scs%20ticketing.png)
 
-[^1] Refers to weekdays during school term (excluding public holidays and school holidays) 
+1 Refers to weekdays during school term (excluding public holidays and school holidays) 
 
-[^2]  Includes weekends, public holidays and school holidays.<p>
+2 Includes weekends, public holidays and school holidays.
+
 	
 
 -----
@@ -59,4 +60,4 @@ Ms Jyotika Thukral <br>
 Senior Manager, Branding &amp; Communications <br>
 Science Centre Singapore <br>
 Tel: 64252541 <br>
-Email: Jyotika_THUKRAL@science.edu.sg</p>
+Email: Jyotika_THUKRAL@science.edu.sg
