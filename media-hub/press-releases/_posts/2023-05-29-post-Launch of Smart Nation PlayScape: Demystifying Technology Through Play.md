@@ -34,11 +34,11 @@ SNDGG is currently working together with Ngee Ann Polytechnic (NP) students to d
 
 To extend the reach of Smart Nation PlayScape, SNDGG is also partnering with National Library Board to bring selected exhibit interactives closer to youths at libraries in various neighbourhoods. Known as Smart Nation PlayScape ‘Lite’, the roving exhibition at the libraries will help to raise awareness and generate excitement about emerging technologies among many Singaporeans, and drive interested youths to explore other library programmes.
 
-Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore, accessible with a general admission ticket. Tickets can be purchased through the online ticketing platform at https://www.gevme.com/scsonlinetickets.<p>
+Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore, accessible with a general admission ticket. Tickets can be purchased through the online ticketing platform at <a href="https://www.gevme.com/scsonlinetickets">https://www.gevme.com/scsonlinetickets</a>.
 	
 
 ---------
-<u>**Annex**</u><br>
+<u><b>Annex</b></u><br>
 • Factsheet – Smart Nation PlayScape
 
 -----
@@ -74,4 +74,4 @@ The Centre and its partners have played a pivotal role in transforming the way s
 	
 The Centre’s group of attractions include Omni-Theatre, Snow City and KidsSTOP™️. The Omni-Theatre, Southeast Asia’s first 8K 3D digital theatre with a 23m wide seamless dome screen, is an immersive destination like no other. Snow City is Singapore’s only permanent indoor snow centre offering an Arctic inspired experience at Singapore’s first ice gallery and snow chamber. KidsSTOP™️ - Where every child gets to Imagine, Experience, Discover and Dream - is Singapore’s first children’s science centre offering an enriching experience through purposeful play for children aged 18 months to 8 years old.
 	
-For more information, please visit www.science.edu.sg.</p>
+For more information, please visit www.science.edu.sg.<p></p>
