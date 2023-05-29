@@ -39,3 +39,4 @@ Smart Nation PlayScape is accessible with a general admission ticket to Science 
 
 Ticketing is complimentary during off-peak periods (weekdays during the school term). Guests may book their tickets online. Please refer to the pricing guide below for more details.
 
+
