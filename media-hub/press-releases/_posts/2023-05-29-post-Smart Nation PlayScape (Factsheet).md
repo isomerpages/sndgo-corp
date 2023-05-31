@@ -49,15 +49,18 @@ Ticketing is complimentary during off-peak periods (weekdays during the school t
 
 -----
 
-For media enquiries, please contact: <br>
-Shadrina Mohamad (Ms) <br>
-Manager, Adoption and Engagement Directorate<br> 
-Smart Nation and Digital Government Office, Prime Minister’s Office <br>
-Tel: 96691856 <br>
-Email: shadrina_mohamad@pmo.gov.sg 
-	
-Ms Jyotika Thukral <br>
-Senior Manager, Branding &amp; Communications <br>
-Science Centre Singapore <br>
-Tel: 64252541 <br>
-Email: Jyotika_THUKRAL@science.edu.sg
+**For media enquiries, please contact:**
+
+**Shadrina Mohamad (Ms)**<br>
+Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office<br>
+Tel: 9669 1856<br>
+Email:&nbsp;[shadrina_mohamad@pmo.gov.sg](mailto:shadrina_mohamad@pmo.gov.sg )
+
+
+**Ms Jyotika Thukral**<br>
+Senior Manager, Branding &amp; Communications<br>
+Science Centre Singapore<br>
+Tel: 6425 2541<br>
+Email:&nbsp;[jyotika_thukral@science.edu.sg](mailto:Jyotika_THUKRAL@science.edu.sg)
+
