@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-Launch of Smart Nation PlayScape - Demystifying Technology Through Play 
-----------------------------
+## Launch of Smart Nation PlayScape - Demystifying Technology Through Play 
+
 
 **29 May 2023**
 
@@ -43,20 +43,22 @@ Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore, ac
 
 -----
 
-For media enquiries, please contact: 
-	
-Shadrina Mohamad (Ms) <br>
-Manager, Adoption and Engagement Directorate<br> 
-Smart Nation and Digital Government Office, Prime Minister’s Office <br>
-Tel: 96691856 <br>
-Email: shadrina_mohamad@pmo.gov.sg 
+**For media enquiries, please contact:**
+
+**Shadrina Mohamad (Ms)**<br>
+Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office<br>
+Tel: 9669 1856<br>
+Email:&nbsp;[shadrina_mohamad@pmo.gov.sg](mailto:shadrina_mohamad@pmo.gov.sg )
 
 
-Ms Jyotika Thukral <br>
-Senior Manager, Branding &amp; Communications <br>
-Science Centre Singapore <br>
-Tel: 64252541 <br>
-Email: Jyotika_THUKRAL@science.edu.sg
+**Ms Jyotika Thukral**<br>
+Senior Manager, Branding &amp; Communications<br>
+Science Centre Singapore<br>
+Tel: 6425 2541<br>
+Email:&nbsp;[jyotika_thukral@science.edu.sg](mailto:Jyotika_THUKRAL@science.edu.sg)
+
+-----
 
 #### About Smart Nation and Digital Government Group 
 
