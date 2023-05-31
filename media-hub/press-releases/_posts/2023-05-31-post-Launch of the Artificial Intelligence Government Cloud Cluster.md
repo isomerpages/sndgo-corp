@@ -8,11 +8,10 @@ image: ""
 ---
 ## Smart Nation and Digital Government Office Partners with Google Cloud to Launch Artificial Intelligence Government Cloud Cluster
 
-
-* Government agencies in Singapore can now tap Google Cloud’s generative AI capabilities and partner ecosystem to accelerate the development of next-generation citizen-centric services
-    
-*   Google Cloud will also support GovTech’s whole-of-government AI skilling initiatives
-    
+ 
+<div style="font-size:18px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 0px 0px 0px 40px; margin-left: 0; border-left: 2px solid red"><li>Government agencies in Singapore can now tap Google Cloud’s generative AI capabilities and partner ecosystem to accelerate the development of next-generation citizen-centric services</li><li>Google Cloud will also support GovTech’s whole-of-government AI skilling initiatives</li></div> 
+ 
+ 
 **31 May 2023**
   
 
@@ -41,7 +40,7 @@ From June 2023, government agencies in Singapore can access the AGCC and other a
 _______
 
 
-#### About the Smart Nation and Digital Government Group 
+#### About the Smart Nation and Digital Government Group&nbsp;
 
 The Smart Nation and Digital Government Group (SNDGG) was set up under the Singapore Prime Minister’s Office (PMO) in May 2017, to drive and coordinate Smart Nation and digitalization efforts across the Singapore Government.
 
