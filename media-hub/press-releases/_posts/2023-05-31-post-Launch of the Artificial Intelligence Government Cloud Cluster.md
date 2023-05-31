@@ -9,7 +9,7 @@ image: ""
 ## Smart Nation and Digital Government Office Partners with Google Cloud to Launch Artificial Intelligence Government Cloud Cluster
 
  
-<div style="font-size:18px; font-weight: 400; line-height: 1.75; color: #000000; padding: 0px 0px 0px 40px; margin-left: 0; border-left: 2px solid black"><li>Government agencies in Singapore can now tap Google Cloud’s generative AI capabilities and partner ecosystem to accelerate the development of next-generation citizen-centric services</li><li>Google Cloud will also support GovTech’s whole-of-government AI skilling initiatives</li></div> 
+<div style="font-size:18px; font-weight: 400; line-height: 1.75; color: #808080; padding: 0px 0px 0px 40px; margin-left: 0; border-left: 2px solid grey"><li>Government agencies in Singapore can now tap Google Cloud’s generative AI capabilities and partner ecosystem to accelerate the development of next-generation citizen-centric services</li><li>Google Cloud will also support GovTech’s whole-of-government AI skilling initiatives</li></div> 
  
  
 **31 May 2023**
