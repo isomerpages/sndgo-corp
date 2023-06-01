@@ -20,27 +20,19 @@ sections:
           description: Register for a slot here
           url: https://go.gov.sg/cityscapetour
   - infopic:
+      title: We're the smartest city in Asia!
+      description: Take a closer look at our noteworthy accomplishments and milestones
+      button: Learn more about it here
+      url: /about-smart-nation/our-journey/achievements
+      alt: IMD-SUTD Smart City Index 2021
+      image: /images/abt-smart-nation/imd2023_homepagebanner.jpg
+  - infopic:
       title: 99% of our government services are digital from end to end!
       description: See how we have progressed as a Digital Government
       button: READ MORE ABOUT IT HERE
       url: /about-smart-nation/digital-government#the-progress-so-far
       image: /images/initiatives/Singpass-05.jpeg
       alt: Singpass
-  - infopic:
-      title: Jurong Lake District Innovation Challenge
-      description: Stand to win $50,000 in prize money and a chance to pilot your
-        solutions at Jurong Lake District!
-      button: Find Out More Here
-      url: /jldchallenge2023/
-      image: /images/JLD/JLD-Homepage-Banner.jpg
-      alt: JLD Innovation Challenge
-  - infopic:
-      title: We're the smartest Asian city!
-      description: Take a glimpse of our remarkable achievements and milestones
-      button: Find out more here
-      url: /about-smart-nation/our-journey/achievements
-      alt: IMD-SUTD Smart City Index 2021
-      image: /images/abt-smart-nation/imd2023_homepagebanner.jpg
   - infopic:
       title: Want to learn more? Check out our Smart Nation showcases!
       description: Discover the benefits of digital technology
