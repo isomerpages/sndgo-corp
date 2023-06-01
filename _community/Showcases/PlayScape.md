@@ -54,14 +54,14 @@ Visitors are invited to explore the endless possibilities of technology through 
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/builder/Smart_Nation_Builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/PlayScape_06.jpg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Programme a robot to dance to your moves!
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="images/community/builder/Smart_Nation_Builder_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px">Transport yourself to various parts of the world through Virtual Reality.
 </div>
 
@@ -69,14 +69,14 @@ Visitors are invited to explore the endless possibilities of technology through 
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/builder/Smart_Nation_Builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Watch a robot solve the Rubik’s Cube puzzle!
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="images/community/builder/Smart_Nation_Builder_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px">Be a town planner for a day and build happy communities.
 </div>
 
@@ -84,14 +84,14 @@ Visitors are invited to explore the endless possibilities of technology through 
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/builder/Smart_Nation_Builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/PlayScape_02.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Compete with friends if the AI computer can recognise your doodles.
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="images/community/builder/Smart_Nation_Builder_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px">Check if the computer can recognise your facial expressions.
 </div>
 
@@ -99,14 +99,14 @@ Visitors are invited to explore the endless possibilities of technology through 
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/builder/Smart_Nation_Builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Grow your own virtual plant through Augmented Reality.
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="images/community/builder/Smart_Nation_Builder_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px">Train an AI computer to identify 3D printed animals.
 </div>
 
@@ -115,7 +115,7 @@ Visitors are invited to explore the endless possibilities of technology through 
 
 ### Visit the exhibition 
 
-Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore. Admission charges apply, and tickets can be purchased online via [Science Centre Singapore's website](https://www.science.edu.sg/visit-us/opening-hours). 
+Smart Nation PlayScape is a permanent exhibition at Science Centre Singapore. While admission for Singaporeans/Permanent Residents is complementary during off-peak period, admission charges apply during peak period (weekends, public holidays and school holidays). Tickets can be purchased online via [Science Centre Singapore's website](https://www.science.edu.sg/visit-us/opening-hours). 
 
 #### Address
 15 Science Centre Road<br>
