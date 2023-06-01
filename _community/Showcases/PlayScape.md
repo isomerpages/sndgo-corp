@@ -61,7 +61,7 @@ Visitors are invited to explore the endless possibilities of technology through 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_13.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px">Transport yourself to various parts of the world through Virtual Reality.
 </div>
 
@@ -76,7 +76,7 @@ Visitors are invited to explore the endless possibilities of technology through 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_11.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px">Be a town planner for a day and build happy communities.
 </div>
 
@@ -85,13 +85,13 @@ Visitors are invited to explore the endless possibilities of technology through 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
 <img src="images/community/playscape/PlayScape_02.jpeg" alt="Smart Nation Builder Explore Zone"><br>
-<div style="font-size:18px">Compete with friends if the AI computer can recognise your doodles.
+<div style="font-size:18px">Compete with friends to see if the AI computer can recognise your doodles.
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px">Check if the computer can recognise your facial expressions.
 </div>
 
@@ -99,14 +99,14 @@ Visitors are invited to explore the endless possibilities of technology through 
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_14.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Grow your own virtual plant through Augmented Reality.
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_15.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px">Train an AI computer to identify 3D printed animals.
 </div>
 
@@ -129,5 +129,5 @@ Tuesdays to Sundays - 10am to 5pm
 Enhance your visit by downloading the digital version of the&nbsp;PlayScape pamphlet.
 
 <div style="width:50%"> 
- <a href="/files/abt-smart-nation/SGD Framework For Action.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/Digital-Economy-Framework2.png" alt="Digital Economy Framework for Action">PlayScape Pamphlet (4.31mb)</a>
+ <a href="/files/publications/playscape_pamphlet.pdf"><img style="border:1px solid black;" src="images/community/playscape/playscape_pamphlet.jpg" alt="Digital Economy Framework for Action">PlayScape Pamphlet (3.3mb)</a>
 </div>
