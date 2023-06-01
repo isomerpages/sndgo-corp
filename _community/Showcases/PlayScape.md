@@ -52,21 +52,65 @@ Visitors are invited to explore the endless possibilities of technology through 
 
 ### Check out these activities and more! 
 
-Programme a robot to dance. 
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
+<img src="images/community/builder/Smart_Nation_Builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<div style="font-size:18px">Programme a robot to dance to your moves!
+</div>
 
-![Smart Nation PlayScape - Robot](/images/community/playscape/PlayScape_06.jpg)
+</div>&nbsp; &nbsp; &nbsp; 
+	
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
+<img src="images/community/builder/Smart_Nation_Builder_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	<div style="font-size:18px">Transport yourself to various parts of the world through Virtual Reality.
+</div>
 
-Scramble a Rubik’s cube and watch how our robot solves it.
+</div></div>
 
-![Smart Nation PlayScape - Rubik's Cube](/images/community/playscape/Playscape_Rubik.jpg)
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
+<img src="images/community/builder/Smart_Nation_Builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<div style="font-size:18px">Watch a robot solve the Rubik’s Cube puzzle!
+</div>
 
-Add blocks representing different elements such as schools, houses, parks to the city, and observe how the quality-of-life changes.
+</div>&nbsp; &nbsp; &nbsp; 
+	
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
+<img src="images/community/builder/Smart_Nation_Builder_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	<div style="font-size:18px">Be a town planner for a day and build happy communities.
+</div>
 
-![Smart Nation PlayScape - Build a City](/images/community/playscape/PlayScape_01.jpeg)
+</div></div>
 
-Compete with friends to see how fast the computer can recognise your doodles.
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
+<img src="images/community/builder/Smart_Nation_Builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<div style="font-size:18px">Compete with friends if the AI computer can recognise your doodles.
+</div>
 
-![Smart Nation PlayScape - Doodles](/images/community/playscape/PlayScape_02.jpeg)
+</div>&nbsp; &nbsp; &nbsp; 
+	
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
+<img src="images/community/builder/Smart_Nation_Builder_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	<div style="font-size:18px">Check if the computer can recognise your facial expressions.
+</div>
+
+</div></div>
+
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
+<img src="images/community/builder/Smart_Nation_Builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<div style="font-size:18px">Grow your own virtual plant through Augmented Reality.
+</div>
+
+</div>&nbsp; &nbsp; &nbsp; 
+	
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
+<img src="images/community/builder/Smart_Nation_Builder_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	<div style="font-size:18px">Train an AI computer to identify 3D printed animals.
+</div>
+
+</div></div>
 
 
 ### Visit the exhibition 
