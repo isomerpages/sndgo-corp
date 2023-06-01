@@ -34,11 +34,20 @@ image: /images/community/playscape/PlayScape_04.jpeg
 <div style="width:50%"> 
  <a href="https://www.gevme.com/scsonlinetickets"><img src="/images/community/playscape/buy-tickets-sciece-centre.png" alt="Buy Tickets - Smart Nation PlayScape"></a></div>
 
-Smart Nation PlayScape is jointly developed by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/). It features a wide variety of digital technologies powering Singapore’s Smart Nation journey. 
+Smart Nation PlayScape is jointly led by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/). It was developed with ideas, feedback and contributions from more than 200 members of the community,&nbsp;including students, private companies and members of the public.
 
-Through gamified interactives, complex technological concepts are broken down and brought to life. People of all ages can experience and see the benefits that digitalisation has to offer.  
+This exhibition is suitable for everyone, aged 10 and above. It features a wide variety of digital technologies powering Singapore’s Smart Nation journey. By using gamified interactive elements, this exhibition brings technological concepts to life and further simplifies them for better public understanding.
  
-The exhibition consists of eight zones: Sensors, Geospatial, Biometrics, Blockchain, Artificial Intelligence (AI)/ Data Analytics, Robotics, User Experience (UX) &amp; Services, and Augmented/Virtual Reality/Mixed Reality (AR/VR/MR). Each zone includes key game interactives for guests to explore and experience these technologies in a fun and engaging way. 
+Visitors are invited to explore the endless possibilities of technology through the immersive exhibits in eight zones:
+
+*   Artificial Intelligence (AI) / Data Analytics
+*   Augmented/Virtual Reality (AR/VR)
+*   Biometrics &amp; Cybersecurity
+*   Blockchain
+*   Geospatial
+*   Robotics
+*   Sensors
+*   User Experience (UX)
 
 
 ### Check out these activities and more! 
@@ -70,3 +79,7 @@ Singapore 609081
 
 #### Opening Hours
 Tuesdays to Sundays - 10am to 5pm
+
+#### PlayScape Pamphlet
+
+Enhance your visit by downloading the digital version of the&nbsp;PlayScape pamphlet.
