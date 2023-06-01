@@ -127,3 +127,7 @@ Tuesdays to Sundays - 10am to 5pm
 #### PlayScape Pamphlet
 
 Enhance your visit by downloading the digital version of the&nbsp;PlayScape pamphlet.
+
+<div style="width:50%"> 
+ <a href="/files/abt-smart-nation/SGD Framework For Action.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/Digital-Economy-Framework2.png" alt="Digital Economy Framework for Action">PlayScape Pamphlet (4.31mb)</a>
+</div>
