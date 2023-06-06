@@ -54,7 +54,7 @@ Visitors are invited to explore the endless possibilities of technology through 
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/playscape/PlayScape_06.jpg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_25.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Programme a robot to dance to your moves!
 </div>
 
@@ -69,7 +69,7 @@ Visitors are invited to explore the endless possibilities of technology through 
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_24.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Watch a robot solve the Rubik’s Cube puzzle!
 </div>
 
