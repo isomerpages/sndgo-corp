@@ -16,19 +16,33 @@ Smart Nation PlayScape consists of eight zones of exhibits:
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/playscape/PlayScape_06.jpg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_26.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px"><b>Exhibit 1A: Sensors I</b><br><br>This exhibit shows how different sensors can tell us important details about our bodies. <br><br>Guests can step into the booth and have their vitals (e.g. height, weight, breath rate) read using different sensors. They can even take a special thermal camera selfie that shows their body heat. <br>
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="images/community/playscape/playscape_13.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_30.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px"><b>Exhibit 1B: Sensors II</b><br><br>This exhibit showcases how sensor networks help collect and visualise different types of data, which guides operators to make better decisions. <br><br>Guests can learn how the network of sensors around Singapore provides important information such as weather, taxi, air and sea traffic in real-time.<br>
 </div>
 
 </div></div>
 
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
+<img src="images/community/playscape/playscape_11.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	<div style="font-size:18px"><b>Exhibit 2: Geospatial</b><br><br>This exhibit showcases how locational technology helps us to do better land planning and build well-designed and community-centric neighbourhoods. <br><br>Guests can play a game with the use of building blocks reflecting the different elements of a city (e.g. hospitals, parks, schools) to improve the quality of life in the city they are building.<br>
+</div>
+
+</div>&nbsp; &nbsp; &nbsp; 
+	
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
+<img src="images/community/playscape/playscape_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	<div style="font-size:18px"><b>Exhibit 3A: Biometrics I</b><br><br>This exhibit shows how biometric data – such as our facial features and fingerprints – is processed with a high degree of accuracy and speed, to recognise us as individuals.<br><br> This multi-player game will challenge players to express an emotion, which the machine will rate using facial recognition technology. The player rated with the ‘best’ matching expression wins.<br>
+</div>
+
+</div></div>
 
 
 
