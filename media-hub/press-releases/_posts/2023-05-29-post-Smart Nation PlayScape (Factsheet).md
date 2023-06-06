@@ -14,6 +14,22 @@ Smart Nation PlayScape aims to demystify technology and inspire young Singaporea
 
 Smart Nation PlayScape consists of eight zones of exhibits:
 
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
+<img src="images/community/playscape/PlayScape_06.jpg" alt="Smart Nation Builder Explore Zone"><br>
+	<div style="font-size:18px"><b>Exhibit 1A: Sensors I</b><br><br>This exhibit shows how different sensors can tell us important details about our bodies. <br><br>Guests can step into the booth and have their vitals (e.g. height, weight, breath rate) read using different sensors. They can even take a special thermal camera selfie that shows their body heat. <br>
+</div>
+
+</div>&nbsp; &nbsp; &nbsp; 
+	
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
+<img src="images/community/playscape/playscape_13.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+	<div style="font-size:18px"><b>Exhibit 1B: Sensors II</b><br><br>This exhibit showcases how sensor networks help collect and visualise different types of data, which guides operators to make better decisions. <br><br>Guests can learn how the network of sensors around Singapore provides important information such as weather, taxi, air and sea traffic in real-time.<br>
+</div>
+
+</div></div>
+
+
 
 
 | Exhibit | Featured Technology |   Description ||
