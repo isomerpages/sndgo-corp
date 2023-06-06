@@ -121,7 +121,7 @@ Smart Nation PlayScape consists of eight zones of exhibits:
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/playscape/playscape_13.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_31.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px"><b>Central Display: Everyday Tech</b><br><br>The central display called ‘Cabinet of Curiosities’, features a collection of objects that showcase how technology is already shaping our lives – from how we stay healthy, to how we shop, travel and play. <br><br>Guests can explore an assortment of objects, categorised into four themes, with each object telling a story about a specific technology.<br>
 </div>
 
