@@ -38,7 +38,7 @@ sections:
       description: Discover the benefits of digital technology
       button: Find Out More Here
       url: /community/showcases/overview
-      image: /images/community/playscape/PlayScape_04.jpeg
+      image: /images/community/playscape/playscape_23.jpeg
       alt: PlayScape
 notification: ""
 ---

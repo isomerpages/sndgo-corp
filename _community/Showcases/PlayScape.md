@@ -6,7 +6,7 @@ description: Located at the Science Centre, Smart Nation PlayScape aims to
   educate the public on tech trends in a simple, relatable and easy-to-digest
   manner.Through gamified interactives, complex technological concepts are
   broken down and brought to life.
-image: /images/community/playscape/PlayScape_04.jpeg
+image: /images/community/playscape/playscape_25.jpeg
 ---
 # Come visit the Smart Nation PlayScape at Science Centre Singapore
 
@@ -54,7 +54,7 @@ Visitors are invited to explore the endless possibilities of technology through 
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/playscape/PlayScape_06.jpg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_25.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Programme a robot to dance to your moves!
 </div>
 
@@ -69,7 +69,7 @@ Visitors are invited to explore the endless possibilities of technology through 
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/playscape/Playscape_Rubik.jpg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="images/community/playscape/playscape_24.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Watch a robot solve the Rubik’s Cube puzzle!
 </div>
 

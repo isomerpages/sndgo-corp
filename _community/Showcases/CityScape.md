@@ -58,6 +58,8 @@ Sign up for a guided tour of the Smart Nation CityScape at <a href="https://go.g
 
 You can also sign up for the Singapore City Gallery community tours at <a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery" target="_blank">URA's website</a>.
 
+![CityScape Guided Tours](/images/community/cityscape/cityscape-07.jpeg)
+
 #### Visitor's Guide
 
 Download the Smart Nation CityScape Visitor's Guide for more information on the exhibition.
