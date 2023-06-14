@@ -91,7 +91,7 @@ The initiatives below outline how we aim to achieve this.
 <div class="row">
 <div class="col"> 
 <a href="/initiatives/urban-living/smart-towns"><img src="/images/initiatives/overview-pages/smart-towns.png" alt="Smart Towns"></a><br>
-    <div class="header"><b>Smart Towns</b></div>
+    <div class="header"><b>Smart Towns</b></div><br>
     <div class="para">We’re using technology to plan, develop and manage HDB towns to create more efficient, sustainable and safe living environments for our people.
 </div>
 <br>
@@ -99,8 +99,8 @@ The initiatives below outline how we aim to achieve this.
 </div>
 	<div class="col"> 
 <a href="/initiatives/urban-living/integrated-environmental-modeller"><img src="/images/initiatives/iem thumbnail.png" alt="IEM"></a>
-		<div class="header"> <br><b>Integrated Environmental Modeller<br></b></div><br><br><br>
-		<div class="para"><br>Integrated Environmental Modeller (IEM) is a first-of-its-kind integrated and scalable tool to simulate the effects of environmental factors on the design of open spaces and building layouts, using the latest high performance computing technology.
+		<div class="header"> <br><b>Integrated Environmental Modeller<br></b></div><br><br>
+		<div class="para">Integrated Environmental Modeller (IEM) is a first-of-its-kind integrated and scalable tool to simulate the effects of environmental factors on the design of open spaces and building layouts, using the latest high performance computing technology.
 </div>
 </div>
 
