@@ -91,7 +91,7 @@ The initiatives below outline how we aim to achieve this.
 <div class="row">
 <div class="col"> 
 <a href="/initiatives/urban-living/smart-towns"><img src="/images/initiatives/overview-pages/smart-towns.png" alt="Smart Towns"></a><br>
-    <div class="header"><b>Smart Towns</b></div><br>
+    <div class="header"><b>Smart Towns</b></div>
     <div class="para">We’re using technology to plan, develop and manage HDB towns to create more efficient, sustainable and safe living environments for our people.
 </div>
 <br>
