@@ -47,13 +47,13 @@ There are also weekly online interactive classes where seniors can learn alongsi
 
 Sign up for learning sessions or explore the self-learning section at [IMDA's website](https://www.imda.gov.sg/en/seniorsgodigital/learn).
 
-## People's Association (PA) Senior Academy
+## People's Association (PA) Lifelong Learning Courses
 
-PA Senior Academy's key mission is to encourage seniors aged 50 years and above to pursue lifelong learning and lead an active lifestyle. It does so by providing accessible and affordable senior-friendly courses.
+Life is a journey of constant learning and improvement. People's Association offers endless opportunities to pick up new skills and have fun while making new friends.
 
-As part of the programme, there is a range of popular IT-related courses (conducted in English and Mandarin) to prepare seniors to go digital, and be able to access community activities digitally.  
-  
-Head over to [IMDA's website](https://www.imda.gov.sg) for the list of participating Community Centres (CCs).
+Improve your skills and develop yourself through the wide array of ‘Lifelong Learning’ courses offered at our CCs. Learn about technical know-how, fine tune essential job skills, or pick up a new language!
+
+Head over to [People's Association website](https://www.pa.gov.sg/our-programmes/cc-courses/courses/) to find out more.
 
 ## Tech Connect
 
