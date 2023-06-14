@@ -99,7 +99,7 @@ The initiatives below outline how we aim to achieve this.
 </div>
 	<div class="col"> 
 <a href="/initiatives/urban-living/integrated-environmental-modeller"><img src="/images/initiatives/iem thumbnail.png" alt="IEM"></a>
-		<div class="header"> <br><b>Integrated Environmental Modeller<br></b></div><br><br>
+		<div class="header"> <br><b>Integrated Environmental Modeller<br></b></div><br><br><br>
 		<div class="para"><br>Integrated Environmental Modeller (IEM) is a first-of-its-kind integrated and scalable tool to simulate the effects of environmental factors on the design of open spaces and building layouts, using the latest high performance computing technology.
 </div>
 </div>
