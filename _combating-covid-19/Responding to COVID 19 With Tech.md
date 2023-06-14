@@ -1,22 +1,20 @@
 ---
 title: Responding to COVID 19 With Tech
-permalink: /covid-19/covid-19-tech
+permalink: /covid-19/covid-19-tech/
 description: In Singapore, the Smart Nation and Digital Government Group used
   technology to respond swiftly and effectively to the pandemic and keep our
   people safe. As we continue to fight COVID-19, find out how we’ve supported
   our public health response with technology.
 image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
 ---
-
-
 #  Singapore Harnesses Tech for COVID-19 Pandemic Measures
 
  ![SafeEntry Gateway](/images/covid-19/SafeEntryGatwayCheckOutBox.jpg)
 
 
-COVID-19 is the crisis of our current generation. The pandemic has shut down entire cities, caused deficits in economies and put many lives on hold as people were ordered to mostly stay home to prevent the virus from spreading.
+COVID-19 was a crisis that swept our nation. The pandemic had shut down entire cities, caused deficits in economies and put many lives on hold as people were ordered to mostly stay home to prevent the virus from spreading.
 
-In Singapore, the Smart Nation and Digital Government Group used technology to respond swiftly and effectively to the pandemic and keep our people safe. As we continue to fight COVID-19, find out how we’ve supported our public health response with technology.
+In Singapore, the Smart Nation and Digital Government Group used technology to respond swiftly and effectively to the pandemic and keep our people safe. Find out how we’ve supported our public health response with technology.
 
 <br>
 <div class="row">  
@@ -37,4 +35,4 @@ In Singapore, the Smart Nation and Digital Government Group used technology to r
      <div class="col"> 
       <a href="/combating-covid-19/economic-social-support">  <img src="/images/covid-19/Covid-Social-and-Economic-Support.jpg" alt="Economic and Social Support"></a><br>
        <div class="header"><b>Economic and Social Support</b></div><br>
-  </div>
+  </div></div>
