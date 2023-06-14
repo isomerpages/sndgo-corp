@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /initiatives/digital-government-services/parents-gateway
+permalink: /initiatives/digital-government-services/parents-gateway/
 third_nav_title: Digital Government Services
 description: Parents Gateway is an app for schools to disseminate information,
   and seek parents’ consent on admin matters, in a consolidated digital form. It
@@ -8,9 +8,6 @@ description: Parents Gateway is an app for schools to disseminate information,
   activities and for you to better manage school-related administrative tasks.
 image: /images/initiatives/Parent-gateway-screenshots.jpeg
 ---
-
-
-
 # Gateway to Better Parent–School Communication
 ![Parents Gateway app screen shots](/images/initiatives/Parent-gateway-screenshots.jpeg)
 
@@ -30,20 +27,30 @@ User behaviour and needs were taken into consideration and applied to the final 
 
 It is also regularly reviewed and refined to take into account the changing needs in the education landscape. 
 
-#### How to Use the Parents Gateway App
+#### How to Use Parents Gateway
 
-The app gives parents direct access to administrative matters, allowing them to: 
+##### For Parents  
+  
+Get access to all your children’s school announcements and consent forms from one single app.  
+  
+*   Effortlessly give consent for their school activities anytime, anywhere.
+    
+*   Conveniently book your preferred slots for Parent-Teacher meetings.
+    
+*   Easily make travel declarations to inform schools of your children’s travel plans.
+    
+*   Discover curated parenting resources to better support your children in their education journey.
+    
+##### For Teachers
 
-* Provide consent for their child’s  participation in school activities
+Say goodbye to physical forms and hello to an easier way to communicate with parents.  
+  
 
-* Receive updates on programmes and activities their child is involved in
- 
-* Review changes in their child’s particulars when they change levels or schools
- 
-* Access administrative information for all their children even if they attend different schools
-
-Teachers benefit too. The app reduces the need to distribute, collect and collate hardcopy admin forms, freeing up time for them to focus on lesson preparation and student engagement. 
-
-#### In the Pipeline...
-
-Parents will soon be able to check the balance of their child’s Edusave account, making sure they have sufficient funds before giving consent to activities. Our developers are also working on an online reservation system  for parent-teacher meetings.
+*   Easily create and send announcements and consent forms.
+    
+*   Conveniently collect responses including travel declarations.
+    
+*   Track readership and response rate of parents at a glance.
+    
+*   Schedule Parent-Teacher meetings efficiently, reducing back-and-forth coordination with parents.
+    
