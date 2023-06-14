@@ -10,7 +10,7 @@ image: /images/covid-19/Covid-Contact-Tracing.jpg
 
 Digital contact tracing solutions had to be swiftly conceptualised and implemented as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
 
-With the help of the digital contact tracing tools – TraceTogether (TT) and SafeEntry, - we managed to reduce the average time to identify and quarantine close contacts from 4 days to less than 1.5 days.
+With the help of the digital contact tracing tools – TraceTogether (TT) and SafeEntry, we managed to reduce the average time to identify and quarantine close contacts from 4 days to less than 1.5 days.
 
 # SafeEntry Programme
 
