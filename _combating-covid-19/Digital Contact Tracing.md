@@ -18,9 +18,12 @@ SafeEntry is our national digital check-in system that logs the information of i
 
 Individuals who wish to enter a venue where SafeEntry is mandatory, will need to have either an active TT App or a working TT Token. They can only perform SafeEntry check-ins by:
 
-Using their TT App to scan the venue’s QR code;
-Displaying their TT Token for venue staff to scan the TT Token’s QR code;
-Tapping their TT App or TT Token at a SafeEntry Gateway device.
+* Using their TT App to scan the venue’s QR code
+
+* Displaying their TT Token for venue staff to scan the TT Token’s QR code
+
+* Tapping their TT App or TT Token at a SafeEntry Gateway device
+
 With SafeEntry, we can log the individuals' entry and exit times to a location to have a complete picture of how far the virus can spread and allow the health authorities to understand the virus transmission better.
 
 Click on the link for information on [SafeEntry at public transport nodes](/safeentrytransportnodes).
