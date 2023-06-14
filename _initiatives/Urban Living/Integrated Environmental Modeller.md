@@ -9,7 +9,7 @@ third_nav_title: Urban Living
             overflow: hidden;
             position: relative;
             padding-bottom: 56.25%;">
-        <iframe src="https://www.youtube.com/watch?v=SuoWWOQmTqo" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
+        <iframe src="https://www.youtube.com/embed/SuoWWOQmTqo" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
@@ -17,6 +17,7 @@ third_nav_title: Urban Living
                 border: none;
                 max-width: 100%;
                 position: absolute;"></iframe>
+
  </div>
 </div>
 
