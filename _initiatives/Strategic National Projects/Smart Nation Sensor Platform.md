@@ -1,6 +1,6 @@
 ---
 title: Smart Nation Sensor Platform
-permalink: /initiatives/strategic-national-projects/smart-nation-sensor-platform
+permalink: /initiatives/strategic-national-projects/smart-nation-sensor-platform/
 third_nav_title: Strategic National Projects
 description: ""
 image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
@@ -17,9 +17,11 @@ Read on to find out how.
 
 ## Tracking Water Usage and Leaks
 
-At the end of 2018, we completed a wireless sensor network trial to collect water data transmitted from smart meters from more than 500 sensors in Yuhua estate. The results showed that these smart meters can help homeowners save water by providing near real-time water usage data and detect water leaks via a mobile app.
+In 2020, we completed the third wireless sensor network trial to collect water data transmitted from smart meters in many homes across Hougang. The results from earlier trials in Yuhua (2018) and Punggol (2016) were encouraging, showing that smart meters can help homeowners save water by providing near real-time water usage data and detect water leaks via a mobile app.
 
- An earlier trial held in Punggol in 2016 showed similarly encouraging results. This time, households managed to achieve approximately 5% water savings from early leak detection and good water-saving habits.
+In January 2022, we began installing meters in Tampines and have since phased installation of smart water meters in 7 postal sectors in homes, commercial and industrial premises across Singapore.
+
+Read more about smart water meters [here](https://www.smartnation.gov.sg/initiatives/urban-living/smartwatermeter/).
  
 ## Drowning Detection System at Public Pools
 

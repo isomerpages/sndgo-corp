@@ -1,11 +1,10 @@
 ---
 title: Past Campaigns
-permalink: /community/campaigns/past
+permalink: /community/campaigns/past/
 third_nav_title: Campaigns
 description: Check out our past campaigns.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-
 # My Smart Ahma
 
 ![My Smart Ahma](/images/media-hub/smart-nation-archives/my-smart-ahma-logo.png)
@@ -23,32 +22,18 @@ If you missed My Smart Ahma, enjoy the six episodes below as Benjamin and his Ah
 Ahma shows up at Benjamin's meeting with a cute colleague. What will Benjamin do?
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/yiYyvxTHnps" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/yiYyvxTHnps" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
@@ -62,32 +47,18 @@ Ahma shows up at Benjamin's meeting with a cute colleague. What will Benjamin do
 Ben is afraid to ask Rachel out. Ahma tries to help. Will he do it?
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/gRFEhl5Ujtg" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/gRFEhl5Ujtg" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
  
@@ -97,39 +68,25 @@ Ben is afraid to ask Rachel out. Ahma tries to help. Will he do it?
 * [OneService App](/initiatives/urban-living/oneservice-app)
 * [HDB Elderly Monitoring System](/initiatives/urban-living/ems)
 * [Personal Alert Button trial](/initiatives/strategic-national-projects/smart-nation-sensor-platform)
-* myResponder App - Download from the <a href=" https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp " target="_blank">Google Play Store</a>
+* myResponder App - Download from the <a href="https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp" target="_blank">Google Play Store</a>
 
 ### Episode 3
 
 Is this Ben's chance to give flowers to Rachel? Will he succeed?
  
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/HuNGadjRHlI" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/HuNGadjRHlI" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
@@ -144,75 +101,47 @@ Is this Ben's chance to give flowers to Rachel? Will he succeed?
 Ahma goes missing! How will Ben and Rachel find her?
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/O-r7xzRRqes" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/O-r7xzRRqes" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
  
 **Smart Nation initiatives featured:**
 * [myENV App](/initiatives/urban-living/myenv-app)
-* MyTransport.SG App - Download from the <a href="https://apps.apple.com/sg/app/mytransport-singapore/id1306661188" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg " target="_blank">Google Play Store</a>
-* [Open Data & Analytics for Urban Transportation](/initiatives/transport/open-data-analytics)
+* MyTransport.SG App - Download from the <a href="https://apps.apple.com/sg/app/mytransport-singapore/id1306661188" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg" target="_blank">Google Play Store</a>
+* [Open Data &amp; Analytics for Urban Transportation](/initiatives/transport/open-data-analytics)
 * [On-Demand Shuttles](/initiatives/transport/on-demand-shuttle)
 * [Autonomous Vehicles](/initiatives/transport/autonomous-vehicles)
 * [National Steps Challenge](/initiatives/health/national-steps-challenge)
-* Healthy 365 App - Download from the <a href=" https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365 " target="_blank">Google Play Store</a>
+* Healthy 365 App - Download from the <a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blank">Google Play Store</a>
 
 ### Episode 5
 
 With Ahma’s help, Ben cooks a meal for Rachel. Will sparks fly?
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/hkUvOOXPlpM" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/hkUvOOXPlpM" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
  
@@ -225,38 +154,23 @@ With Ahma’s help, Ben cooks a meal for Rachel. Will sparks fly?
 Ben may never see Rachel again. Will he go after her?
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/XIhdrAy-x6w"
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/XIhdrAy-x6w" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
  
 **Smart Nation initiatives featured:**
-* Parking.sg - Download from the <a href="https://apps.apple.com/vn/app/parking-sg/id1286602494" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart&hl=en" target="_blank">Google Play Store</a>
+* Parking.sg - Download from the <a href="https://apps.apple.com/vn/app/parking-sg/id1286602494" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.parking.streetsmart&amp;hl=en" target="_blank">Google Play Store</a>
 * [Corppass](/initiatives/business/corppass)
 * [Start Digital, Startup SG Tech](/resources/business)
 * [Punggol Digital District](/initiatives/strategic-national-projects/punggolst)
-* [PA Senior Academy for Smart Nation, Silver Infocomm Initiative](/community/opportunities)

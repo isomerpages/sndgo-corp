@@ -10,7 +10,7 @@ image: /images/covid-19/Covid-Contact-Tracing.jpg
 
 Digital contact tracing solutions had to be swiftly conceptualised and implemented as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
 
-With the help of the digital contact tracing tools – TraceTogether (TT) and SafeEntry, - we managed to reduce the average time to identify and quarantine close contacts from 4 days to less than 1.5 days.
+With the help of the digital contact tracing tools – TraceTogether (TT) and SafeEntry, we managed to reduce the average time to identify and quarantine close contacts from 4 days to less than 1.5 days.
 
 # SafeEntry Programme
 
@@ -18,9 +18,12 @@ SafeEntry is our national digital check-in system that logs the information of i
 
 Individuals who wish to enter a venue where SafeEntry is mandatory, will need to have either an active TT App or a working TT Token. They can only perform SafeEntry check-ins by:
 
-Using their TT App to scan the venue’s QR code;
-Displaying their TT Token for venue staff to scan the TT Token’s QR code;
-Tapping their TT App or TT Token at a SafeEntry Gateway device.
+* Using their TT App to scan the venue’s QR code
+
+* Displaying their TT Token for venue staff to scan the TT Token’s QR code
+
+* Tapping their TT App or TT Token at a SafeEntry Gateway device
+
 With SafeEntry, we can log the individuals' entry and exit times to a location to have a complete picture of how far the virus can spread and allow the health authorities to understand the virus transmission better.
 
 Click on the link for information on [SafeEntry at public transport nodes](/safeentrytransportnodes).

@@ -25,8 +25,7 @@ The initiatives below outline how we aim to achieve this.
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/smart-nation-sensor-platform-snp.jpeg" alt="Smart Nation Sensor Platform"
-></a><br>
+<a href="/initiatives/strategic-national-projects/smart-nation-sensor-platform"><img src="/images/initiatives/smart-nation-sensor-platform-snp.jpeg" alt="Smart Nation Sensor Platform"></a><br>
 		<div class="header"><b>Smart Nation Sensor Platform*<br></b></div><br>
 		<div class="para">SNSP is an integrated, nationwide platform that uses sensors to collect essential data that can be analysed to create smart solutions.
 </div>
@@ -98,9 +97,12 @@ The initiatives below outline how we aim to achieve this.
 <br>
 
 </div>
-<div class="col"> 
+	<div class="col"> 
+<a href="/initiatives/urban-living/integrated-environmental-modeller"><img src="/images/initiatives/iem thumbnail.png" alt="IEM"></a>
+		<div class="header"> <br><b>Integrated Environmental Modeller<br></b></div><br><br>
+		<div class="para">Integrated Environmental Modeller (IEM) is a first-of-its-kind integrated and scalable tool to simulate the effects of environmental factors on the design of open spaces and building layouts, using the latest high performance computing technology.
 </div>
-<br>
+</div>
 
 <div class="col">
 </div>

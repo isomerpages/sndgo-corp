@@ -29,7 +29,7 @@ This platform is also used for other key Government announcements – such as th
 
 # Gov.sg Info Bot 
 
-As of December 2020, this tireless [Gov.sg Info Bot](https://www.gov.sg/infobot) addressed over 865k COVID-19 related queries to help the public stay updated on credible COVID-19-related news and information.
+During the COVID-19 pandemic, the Gov.sg Info Bot was developed to help the public stay updated on credible COVID-19-related news and information. As of December 2020, the tireless bot addressed over 865k COVID-19-related queries.
 
 # TokenGoWhere
 

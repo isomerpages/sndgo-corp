@@ -5,11 +5,9 @@ description: Whether you’re just starting out or looking to expand your
   operations, we want to help you along this entrepreneurial journey.
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
-Venturing into a new business or running an existing one can be fraught with challenges, especially in an economic landscape marked by uncertainties caused by the COVID-19 pandemic. However, there are also opportunities to be had as Singapore and the world undergoes a digital transformation.
+Venturing into a new business or running an existing one can be fraught with challenges. However, there are also opportunities as Singapore and the world undergoes a digital transformation. 
 
-So whether you’re just starting out or looking to expand your operations, we want to help you along this entrepreneurial journey. 
-
-Below are some resources you should check out.
+So whether you’re just starting out or looking to expand your operations, we want to help you along this entrepreneurial journey. Below are some resources you should check out.
 
 <div style="width:100%;display:flex;justify-content:center;"><a href="https://www.gobusiness.gov.sg/e-services/guides-for-biz/"><img src="/images/resources/e-Adviser.jpg" alt="e-adviser banner"></a></div>
 
