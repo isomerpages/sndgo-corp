@@ -14,7 +14,7 @@ image: /images/og-image/Achievements-OG-Image.jpg
 * [2021: Singapore topped the IMD-SUTD Smart City Index for 3rd year running](#singapore-topped-the-imd-sutd-smart-city-index-for-3rd-year-running)
 *   [2021: Singapore ranked first in Roland Berger's 2021 Digital Inclusion Index](#singapore-ranked-first-in-Roland-Berger's-2021-Digital-Inclusion-Index)
 *   [2020/2021: Singapore climbed to the top of the Smart City Governments ranking](#singapore-climbed-to-the-top-of-the-smart-city-governments-ranking)
-*   [2021: Singapore ranked first in KPMG’s Global Ranking of leading technology hubs outside of Silicon Valley/San Francisco](#singapore-ranked-first-in-kpmgs-global-ranking-of-leading-technology-hubs)
+*   [2021: Singapore ranked first in KPMG’s Global Ranking of leading technology hubs outside of Silicon Valley/San Francisco](#singapore-ranked-first-in-kpmgs-global-ranking-of-leading-technology-hubs-outside-of-Silicon-Valley/San-Francisco)
 *   [2020: Singapore topped the IMD-SUTD Smart City Index for 2nd year running](#singapore-topped-the-imd-sutd-smart-city-index-for-2nd-year-running)
 *    [2019: Singapore took top spot in the IMD-SUTD Smart City Index](#singapore-took-top-spot-in-the-imd-sutd-smart-city-index)
 *    [2018: Singapore named Smart City of 2018 at the Smart City Expo World Congress](#singapore-named-smart-city-of-2018-at-smart-city-expo-world-congress)
@@ -29,6 +29,8 @@ In 2020 and 2021, Singapore was also ranked seventh in the world, three places u
 
 Click on the link to find out more about the <a target="_blank" href="https://www.imd.org/smart-city-observatory/home/">2023 IMD Smart City Index</a>.
 
+[Return to top](#our-achievements)
+
 ## 2022
 
 ### Singapore ranked among Top 5 global economies in IMD World Digital Competitiveness Ranking 2022
@@ -39,6 +41,8 @@ Singapore was recognised for its enhancement in tertiary education (improvement 
 
 Click the link to find out more about the [IMD World Digital Competitiveness Ranking 2022](https://www.imd.org/centers/wcc/world-competitiveness-center/rankings/world-digital-competitiveness-ranking/).
 
+[Return to top](#our-achievements)
+
 ### Singapore clinched 12th place in the UN e-Government Survey 2022
 
 Published biennially, the United Nations E-Government Survey assesses the e-government development status of all United Nations Member States. The assessment measures the e-government performance of countries relative to one another, and recognises that each country should decide upon the level and extent of its e-government initiatives in keeping with its own national development priorities and achieving the Sustainable Development Goals (SDGs).
@@ -47,6 +51,7 @@ Singapore came in 12th position after United Kingdom of Great Britain and Northe
 
 Click the link to find out more about the [UN e-Government Survey 2022](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022).
 
+[Return to top](#our-achievements)
 
 ## 2021
 
@@ -72,17 +77,17 @@ Click on the link to find out more about <a href="https://www.rolandberger.com/e
 
 ### Singapore climbed to the top of the Smart City Governments ranking
 
-Singapore eclipsed London to take top spot in a biennial study that ranks the top 50 smart city governments in the world. The Republic took the honours due to factors such as its technology infrastructure, digital initiatives and its “sterling” response to the Covid-19 pandemic.
+In a biennial study that ranks the top 50 smart city governments in the world, Singapore eclipsed London to take the top spot. The Republic took the honours due to factors such as its technology infrastructure, digital initiatives and its “sterling” response to the Covid-19 pandemic.
 
 Click on the link to find out more about the <a href="https://www.todayonline.com/singapore/spore-takes-top-spot-ranking-smart-city-govts-praised-sterling-covid-19-response-digital" target="_blank"> 2021 Smart City Governments ranking</a>. 
 
 [Return to top](#our-achievements)
 
-### Singapore ranked first in KPMG's Global Ranking of Leading Technology Hubs
-
-Singapore clinched the top spot in KPMG’s global ranking of leading technology innovation hubs outside of Silicon Valley/San Francisco in 2021. Singapore pulled ahead of other cities like New York, Tel Aviv, Beijing, and London for the second year running.
+### Singapore ranked first in KPMG's Global Ranking of Leading Technology Hubs Outside of Silicon Valley/San Francisco
 
 The 2021 KPMG Technology Industry Survey surveyed more than 800 global leaders from various sub-sectors in the technology industry on the cities they see as leading technology innovation hubs over the next four years. Among the top factors seen as important in the ranking were an urban locale that attracts young professionals, a pipeline of skilled talent, and modern infrastructure (including high-speed bandwidth).
+
+Singapore clinched the top spot in KPMG’s global ranking of leading technology innovation hubs outside of Silicon Valley/San Francisco in 2021. Singapore pulled ahead of other cities like New York, Tel Aviv, Beijing, and London for the second year running.
 
 ![KPMG's Global Ranking of Leading Technology Hubs](/images/abt-smart-nation/leading-tech-hubs-2021.jpeg)
 
@@ -108,7 +113,7 @@ Click on the link to find out more about the <a href="https://www.imd.org/news/u
 
 The first edition of the Smart City Index 2019, created by the IMD World Competitiveness Center’s Smart City Observatory, in partnership with SUTD, ranked 102 cities worldwide. The ranking focuses on how citizens perceive the priorities and effectiveness of smart city initiatives.
 
-The top 10 cities in the IMD Smart City Index 2019 are Singapore, Zurich, Oslo, Geneva, Copenhagen, Auckland, Taipei Citiy, Helsinki, Bilbao and Dusseldorf.
+The top 10 cities in the IMD Smart City Index 2019 are Singapore, Zurich, Oslo, Geneva, Copenhagen, Auckland, Taipei City, Helsinki, Bilbao and Dusseldorf.
 
 Click on the link to find out more about the <a href="https://www.imd.org/research-knowledge/reports/imd-smart-city-index-2019/" target="_blank">2019 IMD-SUTD Smart City Index</a>.
 
@@ -118,9 +123,9 @@ Click on the link to find out more about the <a href="https://www.imd.org/resear
 
 ### Singapore named Smart City of 2018 at Smart City Expo World Congress
 
-Singapore was named the Smart City of 2018 at the Smart City Expo World Congress in Barcelona. 
+Singapore was named Smart City of 2018 at the Smart City Expo World Congress, the leading international summit on smart cities, in Barcelona.
 
-“Among the excellent finalists, Singapore came out strong for its clear strategy, its ability to implement digital initiatives nationwide, and its focus on placing citizens at the centre of its Smart Nation efforts,” said Dionosio González, Director of Advocacy &amp; Outreach at UITP, and a member of the World Smart City Awards 2018 honour jury, after the awards ceremony.
+Dionosio González, Director of Advocacy &amp; Outreach at UITP, and a member of the World Smart City Awards 2018 honour jury, highlighted that Singapore came out strong for its clear strategy, its ability to implement digital initiatives nationwide, and its focus on placing citizens at the centre of its Smart Nation efforts.  
 
 Click on the link to find out more about the [Smart City Expo World Congress 2018](/media-hub/press-releases/smart-city-2018).
 
