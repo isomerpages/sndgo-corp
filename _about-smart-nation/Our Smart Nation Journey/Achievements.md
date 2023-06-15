@@ -8,24 +8,44 @@ image: /images/og-image/Achievements-OG-Image.jpg
 # Our Achievements
 ![Our Smart Nation Achievements](/images/abt-smart-nation/Achievements.jpg)
 
-* [2023: The IMD Smart City Index ranked Singapore as the smartest Asian city](#singapore-named-top-asian-city-in-the-2023-smart-city-index)
-*   [2021: The IMD-SUTD Smart City Index ranked Singapore as the top smart city](#singapore-topped-the-imd-sutd-smart-city-index-for-3rd-year-running)
-*   [2021: Singapore ranked first in Roland Berger's Digital Inclusion Index (2021)](#singapore-came-up-tops-for-digital-inclusiveness)
-*   [2020/2021: Singapore came up tops in a biennial study that ranks the top 50 smart city governments in the world](#singapore-climbed-to-the-top-of-the-smart-city-governments-ranking)
+* [2023: Singapore named Top Asian City in the 2023 IMD Smart City Index](#singapore-named-top-asian-city-in-the-2023-smart-city-index)
+* [2022: Singapore ranked among Top 5 global economies in the IMD World Digital Competitiveness Ranking 2022](#Singapore-ranked-among-Top-5-global-economies-in-IMD-World-Digital-Competitiveness-Ranking-2022)
+* [2022: Singapore clinched 12th place in the UN e-Government Survey 2022](#Singapore-clinched-12th-place-in-the-UN-e-Government-Survey-2022)
+* [2021: Singapore topped the IMD-SUTD Smart City Index for 3rd year running](#singapore-topped-the-imd-sutd-smart-city-index-for-3rd-year-running)
+*   [2021: Singapore ranked first in Roland Berger's 2021 Digital Inclusion Index](#singapore-ranked-first-in-Roland-Berger's-2021-Digital-Inclusion-Index)
+*   [2020/2021: Singapore climbed to the top of the Smart City Governments ranking](#singapore-climbed-to-the-top-of-the-smart-city-governments-ranking)
 *   [2021: Singapore ranked first in KPMG’s Global Ranking of leading technology hubs outside of Silicon Valley/San Francisco](#singapore-ranked-first-in-kpmgs-global-ranking-of-leading-technology-hubs)
-*   [2020: The IMD-SUTD Smart City Index ranked Singapore as the top smart city](#singapore-topped-the-imd-sutd-smart-city-index-for-2nd-year-running)
-*    [2019: The IMD-SUTD Smart City Index ranked Singapore as the top smart city](#singapore-took-top-spot-in-the-imd-sutd-smart-city-index)
-*    [2018: Singapore awarded as Smart City of 2018 at Smart City Expo World Congress](#singapore-named-smart-city-of-2018-at-smart-city-expo-world-congress)
+*   [2020: Singapore topped the IMD-SUTD Smart City Index for 2nd year running](#singapore-topped-the-imd-sutd-smart-city-index-for-2nd-year-running)
+*    [2019: Singapore took top spot in the IMD-SUTD Smart City Index](#singapore-took-top-spot-in-the-imd-sutd-smart-city-index)
+*    [2018: Singapore named Smart City of 2018 at the Smart City Expo World Congress](#singapore-named-smart-city-of-2018-at-smart-city-expo-world-congress)
 
 ## 2023
 
-### Singapore named top Asian city in the 2023 Smart City Index
+### Singapore named top Asian city in the 2023 IMD Smart City Index
 
 Published by Swiss business school Institute for Management Development (IMD), the 2023 Smart City index ranks 141 cities by how they use technology to address the challenges they face to achieve a higher quality of life. Singapore was recognized as the leading smart city in Asia and the seventh-smartest in the world.
 
-In 2020 and 2021, Singapore was also ranked seventh in the world, three places up from its rank of 10th in 2019. It had been ranked first from 2019 to 2021, but these past rankings have been adjusted according to a new methodology used for the 2023 index.
+In 2020 and 2021, Singapore was also ranked seventh in the world, three places up from its rank of 10th in 2019. Singapore was previously ranked first from 2019 to 2021, but these past rankings have now been adjusted according to a new methodology used for the 2023 index.
 
 Click on the link to find out more about the <a target="_blank" href="https://www.imd.org/smart-city-observatory/home/">2023 IMD Smart City Index</a>.
+
+## 2022
+
+### Singapore ranked among Top 5 global economies in IMD World Digital Competitiveness Ranking 2022
+
+This annual ranking looks at how equipped global economies are at adopting new digital technologies in government practices, business models and society. In the 2022 edition of the IMD World Digital Competitiveness Ranking, Singapore surpasses Switzerland, clinching 4th place out of 63 global economies.
+
+Singapore was recognised for its enhancement in tertiary education (improvement in pupil-teacher ratio), an increase in its share of employees working in research and development (R&amp;D), and improvements in regulation conducive to overseas talent attraction and scientific research.
+
+Click the link to find out more about the [IMD World Digital Competitiveness Ranking 2022](https://www.imd.org/centers/wcc/world-competitiveness-center/rankings/world-digital-competitiveness-ranking/).
+
+### Singapore clinched 12th place in the UN e-Government Survey 2022
+
+Published biennially, the United Nations E-Government Survey assesses the e-government development status of all United Nations Member States. The assessment measures the e-government performance of countries relative to one another, and recognises that each country should decide upon the level and extent of its e-government initiatives in keeping with its own national development priorities and achieving the Sustainable Development Goals (SDGs).
+
+Singapore came in 12th position after United Kingdom of Great Britain and Northern Ireland, followed by United Arab Emirates, Japan and Malta.
+
+Click the link to find out more about the [UN e-Government Survey 2022](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022).
 
 
 ## 2021
@@ -40,7 +60,7 @@ Click on the link to find out more about the <a href="https://www.imd.org/news/u
 
 [Return to top](#our-achievements)
 
-### Singapore came up tops for Digital Inclusiveness
+### Singapore ranked first in Roland Berger’s 2021 Digital Inclusion Index
 
 Published by Roland Berger, the 2021 Digital Inclusion index ranks 82 countries. Singapore came up tops and was lauded for its inclusive measures such as free public WiFi and financial assistance schemes for digital skills training, which have been credited with supporting wider digital adoption, and narrowing the digital divide.
 
