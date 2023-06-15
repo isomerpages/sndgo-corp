@@ -14,7 +14,7 @@ image: /images/og-image/Achievements-OG-Image.jpg
 * [2021: Singapore topped the IMD-SUTD Smart City Index for 3rd year running](#singapore-topped-the-imd-sutd-smart-city-index-for-3rd-year-running)
 *   [2021: Singapore ranked first in Roland Berger's 2021 Digital Inclusion Index](#singapore-ranked-first-in-roland-bergers-2021-digital-inclusion-index)
 *   [2020/2021: Singapore climbed to the top of the Smart City Governments ranking](#singapore-climbed-to-the-top-of-the-smart-city-governments-ranking)
-*   [2021: Singapore ranked first in KPMG’s Global Ranking of leading technology hubs outside of Silicon Valley/San Francisco](#singapore-ranked-first-in-kpmgs-global-ranking-of-leading-technology-hubs-outside-of-silicon-valley/san-francisco)
+*   [2021: Singapore ranked first in KPMG’s Global Ranking of leading technology hubs outside of Silicon Valley/San Francisco](#singapore-ranked-first-in-kpmgs-global-ranking-of-leading-technology-hubs-outside-of-silicon-valleysan-francisco)
 *   [2020: Singapore topped the IMD-SUTD Smart City Index for 2nd year running](#singapore-topped-the-imd-sutd-smart-city-index-for-2nd-year-running)
 *    [2019: Singapore took top spot in the IMD-SUTD Smart City Index](#singapore-took-top-spot-in-the-imd-sutd-smart-city-index)
 *    [2018: Singapore named Smart City of 2018 at the Smart City Expo World Congress](#singapore-named-smart-city-of-2018-at-smart-city-expo-world-congress)
