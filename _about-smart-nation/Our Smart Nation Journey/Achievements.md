@@ -10,9 +10,9 @@ image: /images/og-image/Achievements-OG-Image.jpg
 
 * [2023: Singapore named Top Asian City in the 2023 IMD Smart City Index](#singapore-named-Top-Asian-City-in-the-2023-IMD-Smart-City-Index)
 * [2022: Singapore ranked among Top 5 global economies in the IMD World Digital Competitiveness Ranking 2022](#Singapore-ranked-among-Top-5-global-economies-in-IMD-World-Digital-Competitiveness-Ranking-2022)
-* [2022: Singapore clinched 12th place in the UN e-Government Survey 2022](#Singapore-clinched-12th-place-in-the-UN)
+* [2022: Singapore clinched 12th place in the UN e-Government Survey 2022](#Singapore-clinched-12th-place-in-the-UN-eGovernment-Survey-2022)
 * [2021: Singapore topped the IMD-SUTD Smart City Index for 3rd year running](#singapore-topped-the-imd-sutd-smart-city-index-for-3rd-year-running)
-*   [2021: Singapore ranked first in Roland Berger's 2021 Digital Inclusion Index](#singapore-ranked-first-in-Roland)
+*   [2021: Singapore ranked first in Roland Berger's 2021 Digital Inclusion Index](#singapore-ranked-first-in-Roland-Bergers-2021-Digital-Inclusion-Index)
 *   [2020/2021: Singapore climbed to the top of the Smart City Governments ranking](#singapore-climbed-to-the-top-of-the-smart-city-governments-ranking)
 *   [2021: Singapore ranked first in KPMG’s Global Ranking of leading technology hubs outside of Silicon Valley/San Francisco](#singapore-ranked-first-in-kpmgs-global-ranking-of-leading-technology-hubs-outside-of-Silicon-Valley/San-Francisco)
 *   [2020: Singapore topped the IMD-SUTD Smart City Index for 2nd year running](#singapore-topped-the-imd-sutd-smart-city-index-for-2nd-year-running)
