@@ -1,7 +1,7 @@
 ---
 title: More Support for Mid-career Jobseekers to Restart ICT Career
 date: 2017-10-25
-permalink: /media-hub/press-releases/more-support-for-mid-career-jobseekers-to-restart-ict-career
+permalink: /media-hub/press-releases/more-support-for-mid-career-jobseekers-to-restart-ict-career/
 ---
 ## More Support For Mid Career Jobseekers To Restart ICT Career
 
@@ -29,5 +29,3 @@ Related Resources
 [Annex B: Factsheet of the TeSA initiative (870kb)](/files/press-releases/2017/annex-b-more-support-for-mid-career-jobseekers-to-restart-ict-career.pdf)
 
 [Annex C: Profiles of the participating companies (380kb)](/files/press-releases/2017/annex-c-more-support-for-mid-career-jobseekers-to-restart-ict-career.pdf)
-
-[Press release issued by Infocomm Media Development Authority](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2018/more-support-for-mid-career-jobseekers-to-restart-ict-career)

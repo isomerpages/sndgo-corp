@@ -2,7 +2,7 @@
 title: Skills Framework for ICT for Singapore’s Budding Data Scientists, Cyber
   Risk Analysts, Companies and More
 date: 2017-11-10
-permalink: /media-hub/press-releases/skills-framework-for-ict-for-singapores-budding-data-scientists-cyber-risk-analysts-companies
+permalink: /media-hub/press-releases/skills-framework-for-ict-for-singapores-budding-data-scientists-cyber-risk-analysts-companies/
 ---
 Skills Framework For ICT For Singapores Budding Data Scientists Cyber Risk Analysts Companies And More
 
@@ -34,5 +34,3 @@ Organisations interested in adopting the SF for ICT as part of their workplace t
 As technology trends and skills continue to evolve, the SF for ICT can support Singapore’s companies and professionals in their pursuit of ICT skills and competencies for their desired job roles, and optimise career pathway mapping to meet the demands of Singapore’s fast-moving digital landscape.
 
 For more details of the framework, please visit [https://www.skillsfuture.gov.sg/skills-framework/ict](https://www.skillsfuture.gov.sg/skills-framework/ict).
-
-[Press release issued by Infocomm Media Development Authority](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2017/skills-framework-for-ict)
