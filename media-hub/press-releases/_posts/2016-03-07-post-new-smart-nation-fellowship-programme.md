@@ -1,7 +1,7 @@
 ---
 title: New Smart Nation Fellowship Programme
 date: 2016-03-07
-permalink: /media-hub/press-releases/new-smart-nation-fellowship-programme-to-foster-a-network-of-top-data-science-and-tech-talents-for-singapore
+permalink: /media-hub/press-releases/new-smart-nation-fellowship-programme-to-foster-a-network-of-top-data-science-and-tech-talents-for-singapore/
 layout: post
 ---
 ## New Smart Nation Fellowship Programme to Foster a Network of Top Data Scientists, Technologists and Engineers
@@ -23,5 +23,3 @@ Ms Jacqueline Poh, Managing Director, IDA, said, “Building a Smart Nation requ
 Mr Liu Feng-Yuan, Director, Data Science Division, IDA, said, “It is not just about crunching data and playing with the latest, coolest technologies. What’s meaningful is harnessing insights that can improve public policy and operations; innovating with technology and building products and platforms that can help make a difference in people’s lives. We look forward to working with these passionate technologists to tackle challenges in areas such as healthcare, transportation, Open Data and public service delivery.”
 
 For more information on the Smart Nation Fellowship Programme, please visit https://www.smartnation.gov.sg/careers/smart-nation-fellowship.
-
-[Press release issued by Infocomm Development Authority of Singapore](https://www.imda.gov.sg/news-and-events/Media-Room/archived/ida/Media-Releases/2016/ida-launches-smart-nation-fellowship-programme-to-foster-a-network-of-top-data-science-and-tech-talents-for-singapore)
