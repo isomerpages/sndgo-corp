@@ -1,7 +1,7 @@
 ---
 title: Infocomm Media Industry Transformation Map (ITM)
 date: 2017-11-03
-permalink: /media-hub/press-releases/infocomm-media-industry-transformation-map-itm
+permalink: /media-hub/press-releases/infocomm-media-industry-transformation-map-itm/
 ---
 ## Infocomm Media Industry Transformation Map (ITM)
 
@@ -46,5 +46,3 @@ IMDA will work with the various sector lead agencies to develop the Industry Dig
 -   Understand the training options available for their employees to build up a digital ready workforce.
 
 The Retail IDP announced today will provide step-by-step advice to SME retailers in their digitalisation journey. Taking reference from the Retail ITM, IMDA and SPRING will also work together on new initiatives to catalyse the transformation in the Retail industry. The agencies will pull together retailers and other industry stakeholders such as wholesalers, logistics companies and e-commerce marketplaces, to create omni-channel solutions to benefit traditional retailers. This will grant retailers the opportunity to both sell from their physical shops and be competitive online with the ability to transact and fulfil deliveries efficiently.
-
-[Press release issued by Infocomm Media Development Authority](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2017/infocomm-media-industry-transformation-map)
