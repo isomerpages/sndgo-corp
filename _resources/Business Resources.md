@@ -15,15 +15,14 @@ So whether you’re just starting out or looking to expand your operations, we w
 
 Are you a Singapore-based, high-growth infocomm media company or start-up with a promising and innovative solution? If so, this is for you. Accreditation@SGD seeks to help open up more opportunities for your products and solutions to be showcased to a wider audience – at home and abroad.   
 
+## <a href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital/advanced-digital-solutions">Advanced Digital Solutions (ADS)</a>
+
+The Advanced Digital Solutions (ADS) was announced as part of the Resilience Budget 2020 to help enterprises deepen their digital capabilities, strengthen business continuity measures, and build longer term resilience. ADS supports the adoption of advanced technologies (e.g., AI, Robotics, Blockchain and Internet of Things), and integrated digital solutions (e.g., B2B solutions that integrate inventory management, e-invoicing, and digital payments) that address common enterprise-level challenges at scale.
 
 ## <a href="https://www.aisingapore.org/aiap/">AI Apprenticeship Programme (AIAP)</a>
 
 Do you aspire to become an engineer, developer or consultant in the artificial intelligence (AI) sector? Join this 9-month, full-time training programme designed by industry practitioners focusing on AI and machine-learning systems. More details can be found on AI.SG’s website.
 
-
-## <a href="https://www.imda.gov.sg/disg/Programmes/2021/03/Enterprise-Development-Grant---Automation">Automation Support Package (ASP)</a>
-
-Want to invest in automation solutions to improve your business’ efficiency and productivity? You may tap on the ASP for tax and loan incentives to defray the costs of deployment.
 
 ## <a href="https://www.businessgrants.gov.sg/">Business Grants Portal</a>
 
