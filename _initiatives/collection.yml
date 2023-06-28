@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - Covid 19/Flow of Verified Information.md
       - Covid 19/Community Preparedness.md
       - Covid 19/Digital Contact Tracing.md
       - Covid 19/Responding to COVID 19 With Tech.md
