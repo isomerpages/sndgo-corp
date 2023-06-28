@@ -8,7 +8,7 @@ description: In Singapore, the Smart Nation and Digital Government Group used
 image: /images/covid-19/SafeEntryGatwayCheckOutBox.jpg
 third_nav_title: Covid 19
 ---
-#  Singapore Harnesses Tech for COVID-19 Pandemic Measures
+#  Singapore harnesses tech for COVID-19 pandemic measures
 
  ![SafeEntry Gateway](/images/covid-19/SafeEntryGatwayCheckOutBox.jpg)
 
