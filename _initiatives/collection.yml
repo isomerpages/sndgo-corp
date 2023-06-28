@@ -2,12 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - Covid 19/Economic and Social Support.md
-      - Covid 19/Flow of Verified Information.md
-      - Covid 19/Community Preparedness.md
-      - Covid 19/Digital Contact Tracing.md
-      - Covid 19/Responding to COVID 19 With Tech.md
-      - Covid 19/.keep
       - Strategic National Projects/.keep
       - Strategic National Projects/Our Strategic National Projects.md
       - Strategic National Projects/GoBusiness.md
@@ -62,4 +56,11 @@ collections:
       - Urban Living/Smart Towns.md
       - Urban Living/Smart Urban Planning.md
       - Urban Living/Integrated Environmental Modeller.md
+      - Strategic National Projects/.keep
       - Strategic National Projects/E Payments.md
+      - Covid 19/.keep
+      - Covid 19/Economic and Social Support.md
+      - Covid 19/Flow of Verified Information.md
+      - Covid 19/Community Preparedness.md
+      - Covid 19/Digital Contact Tracing.md
+      - Covid 19/Responding to COVID 19 With Tech.md
