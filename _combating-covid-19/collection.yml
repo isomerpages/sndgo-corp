@@ -2,6 +2,5 @@ collections:
   combating-covid-19:
     output: true
     order:
-      - Community Preparedness.md
       - Flow of Verified Information.md
       - Economic and Social Support.md
