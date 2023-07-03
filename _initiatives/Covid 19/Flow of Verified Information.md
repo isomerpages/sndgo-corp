@@ -5,6 +5,7 @@ description: With the rapidly changing situation at the start of the pandemic,
   there was a critical need to ensure that the members of the public receive
   verified information to ensure that citizens are well-informed.
 image: /images/covid-19/Covid-Providing-Information.jpg
+third_nav_title: Covid 19
 ---
 ![Flow of Verified Information](/images/covid-19/Covid-Providing-Information.jpg)
 

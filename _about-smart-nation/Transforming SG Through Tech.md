@@ -11,7 +11,7 @@ image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ![Transforming Singapore Through Technology](/images/abt-smart-nation/Singapore-Tech.jpg)
 <br>
 
-> Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” –  Prime Minister Lee Hsien Loong
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” –  Prime Minister Lee Hsien Loong</div>
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
@@ -57,7 +57,9 @@ Research and innovation initiatives such as <a href="https://www.nrf.gov.sg/abou
 
 ### Industry and Start-up Ecosystem
 
-Singapore’s start-up ecosystem is built on a strong network of venture capitalists, MNCs, start-up accelerators such as <a href="https://www.jtc.gov.sg/" target="_blank">JTC Launchpad</a> and the <a href="https://www.sginnovate.com/" target="_blank">SGInnovate</a> . Currently, we are developing the [Punggol Digital District (PDD)](/initiatives/strategic-national-projects/punggolst) as an attractive hotbed for the world’s best tech companies and talents to converge, innovate and create iconic solutions to boost our Digital Economy.
+Singapore’s start-up ecosystem thrives due to its robust network of venture capitalists, multinational corporations (MNCs), and start-up accelerators such as&nbsp;[SGInnovate](https://www.sginnovate.com/). Initiatives like&nbsp;[LaunchPad](https://www.jtc.gov.sg/find-land/land-for-long-term-development/launchpad)&nbsp;provide an ideal environment for startups and entrepreneurs to collaborate, innovate, and scale their businesses by offering a comprehensive range of tailored resources and facilities.  
+
+Currently, Singapore is actively developing the&nbsp;[Punggol Digital District (PDD)](https://estates.jtc.gov.sg/pdd), which is widely anticipated to become the country's premier smart district.&nbsp;Master planned and developed by&nbsp;[JTC](https://www.jtc.gov.sg/),&nbsp;PDD aims to be an innovative hub for work and life, fostering collaboration and interaction among innovators and the community to bring ideas to fruition.
 
 ### Cybersecurity and Data Privacy
 
@@ -70,7 +72,6 @@ Basic coding and computational thinking skills will help everyone benefit from o
 Check out the resources available for [individuals](/community/opportunities) and [businesses.](/resources/business)
 
 ### Cross-border Collaboration
-
 
 One way for us to grow is through sharing good ideas and best practices, exploring collaborations, and testing people-centric smart solutions within the region.
 

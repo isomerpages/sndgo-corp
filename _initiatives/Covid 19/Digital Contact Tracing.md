@@ -5,6 +5,7 @@ description: With the help of the digital contact tracing tools – TraceTogethe
   (TT) and SafeEntry, - we managed to reduce the average time to identify and
   quarantine close contacts.
 image: /images/covid-19/Covid-Contact-Tracing.jpg
+third_nav_title: Covid 19
 ---
 ![Digital Contact Tracing](/images/covid-19/Covid-Contact-Tracing.jpg)
 
