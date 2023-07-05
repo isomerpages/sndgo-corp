@@ -5,7 +5,7 @@ description: Transforming Singapore Through Technology
 permalink: /
 sections:
   - hero:
-      background: /images/Transforming-SG-Through-Technology-Website-Cover-Park-2.jpg
+      background: /images/transforming-sg-through-technology-website-cover-hospital.jpg
       key_highlights:
         - title: Report a Government Data Incident
           description: Help safeguard our ICT systems
