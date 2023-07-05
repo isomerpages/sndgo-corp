@@ -5,7 +5,7 @@ third_nav_title: Our Smart Nation Journey
 description: See how we have progressed as a Smart Nation.
 image: /images/og-image/Achievements-OG-Image.jpg
 ---
-# Our Achievements
+# Our Achievements 
 ![Our Smart Nation Achievements](/images/abt-smart-nation/Achievements.jpg)
 
 * [2023: Singapore named Top Asian City in the 2023 IMD Smart City Index](#singapore-named-top-asian-city-in-the-2023-imd-smart-city-index)
