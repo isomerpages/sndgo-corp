@@ -63,7 +63,7 @@ third_nav_title: About Us
 
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Weng-Wanyi-2.jpg" alt="Weng Wanyi"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Weng Wanyi</b></div>Director<br>Government Data Office / National AI Office<br></div>
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Weng-Wanyi-2.jpg" alt="Weng Wanyi"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Weng Wanyi</b></div>Director<br>Government Data Office<br> / National AI Office<br></div>
 
 	
 	
