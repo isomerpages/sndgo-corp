@@ -39,13 +39,15 @@ third_nav_title: About Us
 <div class="col" style="padding: 10px 20px 10px 20px">
 
 <div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Chan-Cheow-Hoe-2.jpg" alt="Chan Cheow Hoe"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Chan Cheow Hoe</b></div>Government Chief Digital Technology Officer<br></div>
+	
+	
+<div class="col" style="padding: 10px 20px 10px 20px">
+
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/profile-pic.jpg" alt="Darren Teo"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Dr He Ruimin</b></div>Deputy Government Chief Digital Technology Officer <br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Darren-Teo-2.jpg" alt="Darren Teo"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Darren Teo</b></div>Senior Advisor <br></div>
-
-
-<div class="col" style="padding: 10px 20px 10px 20px"></div>	
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/Darren-Teo-2.jpg" alt="Darren Teo"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Darren Teo</b></div>Senior Advisor<br></div>
 	
 </div>
 
