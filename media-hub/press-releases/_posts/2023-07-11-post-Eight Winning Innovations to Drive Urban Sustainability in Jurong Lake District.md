@@ -14,7 +14,6 @@ image: ""
 
 **11 July 2023**
 
-
 Imagine enjoying air temperatures that are regulated based on the number of occupants in the building and the weather forecast, tracking your consumption and waste habits through a gaming experience, and finding your way around indoor and outdoor barrier-free routes easily using a GIS-enabled guide. These are some innovative solutions from the winners of the Jurong Lake District (JLD) Innovation Challenge, which will be piloted in existing developments in the district to support the ambition to make JLD a model sustainable district and living lab to testbed sustainable innovations.
 
 Minister for National Development and Minister-in-charge of Social Services Integration, Mr Desmond Lee, presented awards to eight winning teams today. Organised by the Urban Redevelopment Authority (URA) and Smart Nation &amp; Digital Government Office (SNDGO), with the support of the Infocomm Media Development Authority (IMDA), the JLD Innovation Challenge was held from 24 February to 5 May 2023 for participating teams to propose novel urban solutions for challenge statements on various topics including reducing carbon emissions, energy usage, waste and resources as well as achieving a car-lite environment. A public-private collaboration effort, the challenge statements were identified by the district’s stakeholders, including CapitaLand, Ng Teng Fong General Hospital and Jurong Community Hospital, Lendlease Global Commercial REIT, Science Centre Singapore, SMRT and the Land Transport Authority.
@@ -48,7 +47,9 @@ _______
 #### Annex A - JLD Innovation Challenge Winners
 
 ##### Challenge Statement 1
-How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices? (Sponsored by Science Centre Singapore)
+How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices? 
+
+(Sponsored by Science Centre Singapore)
 
 **Winner:**<br>
 Gametize
@@ -61,7 +62,9 @@ By using gamification elements such as achievements, rewards and feedback, the s
 The application will be piloted with selective groups of visitors and school participants at the Science Centre to gather an initial data set and feedback for improvement, before being enhanced with more educational content and features that can be used by the larger JLD community.
 
 ##### Challenge Statement 2:
-How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants? (Sponsored by Lendlease Global Commercial Trust Management)
+How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants? 
+
+(Sponsored by Lendlease Global Commercial Trust Management)
 
 **Winner:**<br>
 Zuno Carbon
@@ -75,8 +78,10 @@ Building operators would also be able to visualise real time data of the buildin
 
 Lendlease intends to pilot the solution at a small scale in JEM. Should the solution be assessed to be effective, it could be scaled up to be applied to the rest of the development and subsequently modified to suit other Lendlease assets.
 
-**Challenge Statement 3:**<br>
-How might we optimise the performance and energy efficiency of existing Air Handling Units (AHUs) while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements? (Co-sponsored by Ng Teng Fong General Hospital and Jurong Community Hospital)
+##### Challenge Statement 3:
+How might we optimise the performance and energy efficiency of existing Air Handling Units (AHUs) while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements? 
+
+(Co-sponsored by Ng Teng Fong General Hospital and Jurong Community Hospital)
 
 **Winner:**<br>
 Ngee Ann Polytechnic Environmental &amp; Water Technology Centre of Innovation (EWTCOI)
@@ -90,8 +95,10 @@ The HTCC also uses a Passive Displace Ventilation (PDV) System that leverages na
 
 The solution could be potentially test-bedded at a rehabilitation clinic in Ng Teng Fong General Hospital to assess the performance of the AHU in meeting thermal comfort and energy efficiency outcomes.
 
-**Challenge Statement 4:**<br>
-How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties? (Sponsored by CapitaLand)
+##### Challenge Statement 4:
+How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties? 
+
+(Sponsored by CapitaLand)
 
 **Winner**<br>
 iZeeM and Otto
@@ -105,10 +112,12 @@ For more comprehensive waste tracking, the proposed system can also interface wi
 
 CapitaLand intends to pilot the Smart Recycling Centre at IMM and the Nordic European Centre in International Business Park. If the solution demonstrates improved productivity and is financially viable, larger scale implementation may be considered for the rest of CapitaLand’s portfolio.
 
-**Challenge Statement 5:**<br>
-How might we encourage drivers to go car-lite and promote more Walk Cycle Ride modes of transport for trips within the Jurong Lake District? (Sponsored by SMRT)
+##### Challenge Statement 5:
+How might we encourage drivers to go car-lite and promote more Walk Cycle Ride modes of transport for trips within the Jurong Lake District? 
 
-**Winner:**<br>
+(Sponsored by SMRT)
+
+**Winner 1:**<br>
 Mapxus
 
 **Proposed Solution:**<br>
@@ -120,10 +129,48 @@ To further engage users and support the local retail community, retail solutions
 
 Mapxus’ solution will be tested selectively within JLD to assess its effectiveness and receptiveness, and may be integrated with SMRT’s existing travel and lifestyle application, Wink+, to enhance convenience and mobility options for commuters.
 
-**Challenge Statement 6:**<br>
-How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work? (Sponsored by CapitaLand)
+##### Challenge Statement 5:
+How might we encourage drivers to go car-lite and promote more Walk Cycle Ride modes of transport for trips within the Jurong Lake District? (Sponsored by LTA)
+
+**Winner 2:**<br>
+Nippon Koei
+
+**Proposed Solution:**<br>
+The personalised journey planner application seeks to encourage the switch to public transport. With features such as cost comparison for various transport options, carbon footprint tracker, real-time movement tracker, e-wallet and rewards redemption, the application promotes benefits for choosing car-lite options, such as time savings, positive health outcomes and positive impact on the environment.
+
+Nippon Koei’s solution will be piloted for journeys to and from the Jurong Lake District to assess its efficacy in changing perceptions and encouraging usage of Walk Cycle Ride modes of transport. If effective, it could be expanded to other areas as well.
+
+##### Challenge Statement 6:
+How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work? 
+
+(Sponsored by CapitaLand)
 
 **Winner 1:**<br>
+AccuPredict
+
+**Proposed Solution:**<br>
+AccuPredict’s proposal taps on applying their experience in predicting failures in machine components and structures using vibration, to three components in water tank monitoring: 
+
+1.	Tank level monitoring: Wireless vibration sensors will be installed at key points on the tank to detect water level. As water level decreases, the frequency of vibration will increase based on the inverse proportionality of mass and frequency.
+
+2.	Water pump monitoring: Sensors will be installed on the bearings of the motor and pump. By analysing the vibration frequency spectrum, the type of emerging component failure can be identified months ahead of occurrence, with preemptive action taken to ensure failure-free operations. 
+
+3.	Pipe leakages: Using vibration resulting from dynamic interaction of the pump and the pipe geometry as water is pumped through the pipe, the location and cause (i.e. scaling, choking or resonance related excess vibration) of leakage can be identified.
+
+CapitaLand will pilot the sensors at IMM and Nordic European Centre in International Business Park. If the solution is effective and commercially viable, it may be deployed in other CapitaLand developments.
+
+##### Challenge Statement 6:
+How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work? 
+
+(Sponsored by Lendlease)
+
+**Winner 2:**<br>
+Teredo Analytics
+
+**Proposed Solution:**<br>
+Teredo takes a similar approach as what mechanics and plumbers do – by going after the source of noise and fixing it – but with an AI dimension. Teredo’s solution seeks to automate the traditional way of detecting anomalies through an AI algorithm that is capable of discerning environmental and man-made noise. The technology is also capable of detecting continuous leak and sychronising time between sensors to deliver accurate results.
+
+Lendlease intends to trial Teredo Analytics’ solution in one area of the water system in JEM by creating multiple leaks intentionally to test the effectiveness of the solution. If proven effective, the solution could be applied to the entire water system in JEM, including potable, NEWater, and rainwater pipes.
 
 _______
 
