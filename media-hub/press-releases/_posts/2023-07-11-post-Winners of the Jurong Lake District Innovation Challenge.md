@@ -6,7 +6,7 @@ layout: post
 description: Eight Winning Innovations to Drive Urban Sustainability in Jurong Lake District
 image: ""
 ---
-# Eight Winning Innovations to Drive Urban Sustainability in Jurong Lake District
+## Eight Winning Innovations to Drive Urban Sustainability in Jurong Lake District
 
 
 **11 July 2023**
