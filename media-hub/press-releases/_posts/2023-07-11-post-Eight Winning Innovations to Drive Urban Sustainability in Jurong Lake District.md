@@ -47,10 +47,48 @@ _______
 
 #### Annex A - JLD Innovation Challenge Winners
 
-###### Challenge statement 1:
+**Challenge Statement 1:**<br>
 How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices? (Sponsored by Science Centre Singapore)
 
+**Winner:**<br>
+Gametize
 
+**Proposed Solution:**<br>
+Gametize’s solution is a gamified application that allows players to monitor their sustainability efforts, such as their consumption and waste habits, and identify areas of improvement by completing various challenges and tasks.
+
+By using gamification elements such as achievements, rewards and feedback, the solution seeks to engage and motivate users in adopting more sustainable practices. Social gaming elements will not only allow users to share data and tips on sustainable practices, such as supporting sustainable businesses, transport options and other lifestyle behaviours, but also create a like-minded online community. Users can also download real time reports on their sustainability progress.
+
+The application will be piloted with selective groups of visitors and school participants at the Science Centre to gather an initial data set and feedback for improvement, before being enhanced with more educational content and features that can be used by the larger JLD community.
+
+**Challenge Statement 2:**<br>
+How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants? (Sponsored by Lendlease Global Commercial Trust Management)
+
+**Winner:**<br>
+Zuno Carbon
+
+**Proposed Solution:**<br>
+Zuno Carbon’s proposed solution is PEMS.ai, a thermal comfort predictive model that uses real-time and historical data (e.g. power consumption, ambient air conditions) of a building. With this data, PEMS.ai forecasts the building’s temperature and humidity requirements based on parameters such as ambient or outdoor temp, and relative air flow velocity. It then generates recommendations for optimal settings of the Heating, Ventilation, and Air Conditioning (HVAC) systems to balance energy efficiency and the building occupants’ thermal comfort.
+
+By integrating the data with weather forecast information, PEMS.ai can help building operators predict changes to cooling requirements and adjust the HVAC systems accordingly.
+
+Building operators would also be able to visualise real time data of the building including carbon emissions through Zuno Carbon’s Environment Social Governance management platform, Veridis.
+
+Lendlease intends to pilot the solution at a small scale in JEM. Should the solution be assessed to be effective, it could be scaled up to be applied to the rest of the development and subsequently modified to suit other Lendlease assets.
+
+**Challenge Statement 3:**<br>
+How might we optimise the performance and energy efficiency of existing Air Handling Units (AHUs) while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements? (Co-sponsored by Ng Teng Fong General Hospital and Jurong Community Hospital)
+
+**Winner:**<br>
+Ngee Ann Polytechnic Environmental &amp; Water Technology Centre of Innovation (EWTCOI)
+
+**Proposed Solution:**<br>
+Recognising the variety of room types, uses and layouts in hospitals, the team’s solution is a Human Thermal Comfort Controller (HTCC) that automatically adjusts air temperature, taking into account environmental factors such as convection, evaporation and radiation. Unlike a conventional room thermostat that only measures air temperature, the HTCC also uses an AI Occupancy Sensor to regulate the amount of outdoor air required in a room based on occupancy level, resulting in better indoor air quality and energy savings.
+
+An energy efficient solution, the HTCC uses a terminal box fan that responses promptly to room temperature changes and allows for smaller AHUs, as fan power can be shared with the terminal box fans.
+
+The HTCC also uses a Passive Displace Ventilation (PDV) System that leverages natural air buoyancy. Energy savings can be derived from a reduced cooling load where the upper part of rooms does not need to be cooled, and a further reduction in size of AHUs. The draft free system also provides better comfort for occupants whose activity levels are low.
+
+The solution could be potentially test-bedded at a rehabilitation clinic in Ng Teng Fong General Hospital to assess the performance of the AHU in meeting thermal comfort and energy efficiency outcomes.
 
 _______
 
