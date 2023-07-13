@@ -100,7 +100,7 @@ How might we design a digital solution that can collect, aggregate and report wa
 
 (Sponsored by CapitaLand)
 
-**Winner**<br>
+**Winner:**<br>
 iZeeM and Otto
 
 **Proposed Solution:**<br>
