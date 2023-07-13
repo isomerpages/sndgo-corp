@@ -130,7 +130,9 @@ To further engage users and support the local retail community, retail solutions
 Mapxus’ solution will be tested selectively within JLD to assess its effectiveness and receptiveness, and may be integrated with SMRT’s existing travel and lifestyle application, Wink+, to enhance convenience and mobility options for commuters.
 
 ##### Challenge Statement 5:
-How might we encourage drivers to go car-lite and promote more Walk Cycle Ride modes of transport for trips within the Jurong Lake District? (Sponsored by LTA)
+How might we encourage drivers to go car-lite and promote more Walk Cycle Ride modes of transport for trips within the Jurong Lake District?
+
+(Sponsored by LTA)
 
 **Winner 2:**<br>
 Nippon Koei
