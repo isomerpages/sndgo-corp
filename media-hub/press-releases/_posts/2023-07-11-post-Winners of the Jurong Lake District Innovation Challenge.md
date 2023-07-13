@@ -37,7 +37,7 @@ To enhance effectiveness and sustainability in hardware maintenance, *AccuPredic
 
 Each winning team was awarded a cash prize of $50,000 to support the production of prototypes that will be piloted at JLD stakeholders’ premises by July 2024. For a start, the winning physical solutions will be piloted at a small scale at JEM, IMM, Nordic European Centre in International Business Park as well as a rehabilitation clinic in Ng Teng Fong General Hospital. Agencies and stakeholders will review their effectiveness, with a view to potentially scale up the solutions and deploy them in other areas of JLD and beyond, to benefit more developments and the wider public. Digital solutions such as navigation applications and *Gametize*’s sustainability application will be test-bedded with small communities within JLD to assess their effectiveness and receptiveness, before being enhanced to benefit more users.
 
-See Annex A for more information on the winning solutions and stakeholders’ plans to pilot them at JLD. The winning solutions will be exhibited at the URA Centre until 12 August.
+See Annex A for more information on the winning solutions and stakeholders’ plans to pilot them at JLD. The winning solutions will be exhibited at the URA Centre until 12 August.<br><br>
 
 _______
 
@@ -159,7 +159,7 @@ Teredo Analytics
 **Proposed Solution:**<br>
 Teredo takes a similar approach as what mechanics and plumbers do – by going after the source of noise and fixing it – but with an AI dimension. Teredo’s solution seeks to automate the traditional way of detecting anomalies through an AI algorithm that is capable of discerning environmental and man-made noise. The technology is also capable of detecting continuous leak and sychronising time between sensors to deliver accurate results.
 
-Lendlease intends to trial Teredo Analytics’ solution in one area of the water system in JEM by creating multiple leaks intentionally to test the effectiveness of the solution. If proven effective, the solution could be applied to the entire water system in JEM, including potable, NEWater, and rainwater pipes.
+Lendlease intends to trial Teredo Analytics’ solution in one area of the water system in JEM by creating multiple leaks intentionally to test the effectiveness of the solution. If proven effective, the solution could be applied to the entire water system in JEM, including potable, NEWater, and rainwater pipes.<br><br>
 
 _______
 
