@@ -115,7 +115,7 @@ CapitaLand intends to pilot the Smart Recycling Centre at IMM and the Nordic Eur
 ##### Challenge Statement 5:
 How might we encourage drivers to go car-lite and promote more Walk Cycle Ride modes of transport for trips within the Jurong Lake District? 
 
-(Sponsored by SMRT)
+(Sponsored by SMRT and LTA)
 
 **Winner 1:**<br>
 Mapxus
@@ -129,11 +129,6 @@ To further engage users and support the local retail community, retail solutions
 
 Mapxus’ solution will be tested selectively within JLD to assess its effectiveness and receptiveness, and may be integrated with SMRT’s existing travel and lifestyle application, Wink+, to enhance convenience and mobility options for commuters.
 
-##### Challenge Statement 5:
-How might we encourage drivers to go car-lite and promote more Walk Cycle Ride modes of transport for trips within the Jurong Lake District?
-
-(Sponsored by LTA)
-
 **Winner 2:**<br>
 Nippon Koei
 
@@ -145,7 +140,7 @@ Nippon Koei’s solution will be piloted for journeys to and from the Jurong Lak
 ##### Challenge Statement 6:
 How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work? 
 
-(Sponsored by CapitaLand)
+(Sponsored by CapitaLand and Lendlease)
 
 **Winner 1:**<br>
 AccuPredict
@@ -153,18 +148,13 @@ AccuPredict
 **Proposed Solution:**<br>
 AccuPredict’s proposal taps on applying their experience in predicting failures in machine components and structures using vibration, to three components in water tank monitoring: 
 
-1.	Tank level monitoring: Wireless vibration sensors will be installed at key points on the tank to detect water level. As water level decreases, the frequency of vibration will increase based on the inverse proportionality of mass and frequency.
+* 	Tank level monitoring: Wireless vibration sensors will be installed at key points on the tank to detect water level. As water level decreases, the frequency of vibration will increase based on the inverse proportionality of mass and frequency.
 
-2.	Water pump monitoring: Sensors will be installed on the bearings of the motor and pump. By analysing the vibration frequency spectrum, the type of emerging component failure can be identified months ahead of occurrence, with preemptive action taken to ensure failure-free operations. 
+* 	Water pump monitoring: Sensors will be installed on the bearings of the motor and pump. By analysing the vibration frequency spectrum, the type of emerging component failure can be identified months ahead of occurrence, with preemptive action taken to ensure failure-free operations. 
 
-3.	Pipe leakages: Using vibration resulting from dynamic interaction of the pump and the pipe geometry as water is pumped through the pipe, the location and cause (i.e. scaling, choking or resonance related excess vibration) of leakage can be identified.
+* 	Pipe leakages: Using vibration resulting from dynamic interaction of the pump and the pipe geometry as water is pumped through the pipe, the location and cause (i.e. scaling, choking or resonance related excess vibration) of leakage can be identified.
 
 CapitaLand will pilot the sensors at IMM and Nordic European Centre in International Business Park. If the solution is effective and commercially viable, it may be deployed in other CapitaLand developments.
-
-##### Challenge Statement 6:
-How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work? 
-
-(Sponsored by Lendlease)
 
 **Winner 2:**<br>
 Teredo Analytics
