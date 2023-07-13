@@ -17,7 +17,7 @@ image: ""
 
 Imagine enjoying air temperatures that are regulated based on the number of occupants in the building and the weather forecast, tracking your consumption and waste habits through a gaming experience, and finding your way around indoor and outdoor barrier-free routes easily using a GIS-enabled guide. These are some innovative solutions from the winners of the Jurong Lake District (JLD) Innovation Challenge, which will be piloted in existing developments in the district to support the ambition to make JLD a model sustainable district and living lab to testbed sustainable innovations.
 
-Minister for National Development and Minister-in-charge of Social Services Integration, Mr Desmond Lee, presented awards to eight winning teams today. Organised by the Urban Redevelopment Authority (URA) and Smart Nation & Digital Government Office (SNDGO), with the support of the Infocomm Media Development Authority (IMDA), the JLD Innovation Challenge was held from 24 February to 5 May 2023 for participating teams to propose novel urban solutions for challenge statements on various topics including reducing carbon emissions, energy usage, waste and resources as well as achieving a car-lite environment. A public-private collaboration effort, the challenge statements were identified by the district’s stakeholders, including CapitaLand, Ng Teng Fong General Hospital and Jurong Community Hospital, Lendlease Global Commercial REIT, Science Centre Singapore, SMRT and the Land Transport Authority.
+Minister for National Development and Minister-in-charge of Social Services Integration, Mr Desmond Lee, presented awards to eight winning teams today. Organised by the Urban Redevelopment Authority (URA) and Smart Nation &amp; Digital Government Office (SNDGO), with the support of the Infocomm Media Development Authority (IMDA), the JLD Innovation Challenge was held from 24 February to 5 May 2023 for participating teams to propose novel urban solutions for challenge statements on various topics including reducing carbon emissions, energy usage, waste and resources as well as achieving a car-lite environment. A public-private collaboration effort, the challenge statements were identified by the district’s stakeholders, including CapitaLand, Ng Teng Fong General Hospital and Jurong Community Hospital, Lendlease Global Commercial REIT, Science Centre Singapore, SMRT and the Land Transport Authority.
 
 #### Winning innovations promote sustainable practices, enhance our living environment and foster a tight-knit community
 
@@ -29,7 +29,7 @@ For instance, the winning solution by Gametize motivates users to adopt sustaina
 
 #### Improving energy efficiency and creating a more comfortable environment
 
-To optimise energy consumption while ensuring thermal comfort, the winning solution by Zuno Carbon combines real-time and historical data such as building occupancy, ambient temperature and the weather forecast to recommend optimal temperature and humidity settings. Another winning solution is a Human Thermal Comfort Controller by Ngee Ann Polytechnic’s Environmental & Water Technology Centre of Innovation. The solution automatically adjusts air temperature and achieves thermal comfort based on concepts in convection, evaporation and radiation that are not typically measured by conventional room thermostats. These solutions seek to enhance the comfort of the living environment in JLD, and potentially complement heat-mitigating urban design measures such as multi-tiered tree planting, covered walkways and wind corridors which have been planned for the district.
+To optimise energy consumption while ensuring thermal comfort, the winning solution by Zuno Carbon combines real-time and historical data such as building occupancy, ambient temperature and the weather forecast to recommend optimal temperature and humidity settings. Another winning solution is a Human Thermal Comfort Controller by Ngee Ann Polytechnic’s Environmental &amp; Water Technology Centre of Innovation. The solution automatically adjusts air temperature and achieves thermal comfort based on concepts in convection, evaporation and radiation that are not typically measured by conventional room thermostats. These solutions seek to enhance the comfort of the living environment in JLD, and potentially complement heat-mitigating urban design measures such as multi-tiered tree planting, covered walkways and wind corridors which have been planned for the district.
 
 #### Driving a sustainable and car-lite JLD
 
@@ -47,13 +47,14 @@ _______
 
 **For media queries, please contact:**
 
-**Ng Jia Min (Ms)**
-Executive Manager, Media Relations
-DID: 9188 1885
+**Ng Jia Min (Ms)**<br>
+Executive Manager, Media Relations<br>
+Urban Redevelopment Authority <br>
+DID: 9188 1885<br>
 Email: ng_jia_min@ura.gov.sg
 
-**Cristiano Peswani (Mr)**
-Manager, Adoption and Engagement Directorate
-Smart Nation and Digital Government Office, Prime Minister’s Office
-Tel: 9674 5524
+**Cristiano Peswani (Mr)**<br>
+Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office, Prime Minister’s Office<br>
+Tel: 9674 5524<br>
 Email: cristiano_peswani@pmo.gov.sg
