@@ -60,7 +60,7 @@ By using gamification elements such as achievements, rewards and feedback, the s
 
 The application will be piloted with selective groups of visitors and school participants at the Science Centre to gather an initial data set and feedback for improvement, before being enhanced with more educational content and features that can be used by the larger JLD community.
 
-**Challenge Statement 2:**<br>
+##### Challenge Statement 2:
 How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants? (Sponsored by Lendlease Global Commercial Trust Management)
 
 **Winner:**<br>
