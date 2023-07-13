@@ -58,7 +58,7 @@ By using gamification elements such as achievements, rewards and feedback, the s
 
 The application will be piloted with selective groups of visitors and school participants at the Science Centre to gather an initial data set and feedback for improvement, before being enhanced with more educational content and features that can be used by the larger JLD community.
 
-##### Challenge Statement 2:
+##### Challenge Statement 2
 How might we design a smart building management system that can optimise energy consumption throughout the day while still delivering thermal comfort to building occupants? 
 
 (Sponsored by Lendlease Global Commercial Trust Management)
@@ -75,7 +75,7 @@ Building operators would also be able to visualise real time data of the buildin
 
 Lendlease intends to pilot the solution at a small scale in JEM. Should the solution be assessed to be effective, it could be scaled up to be applied to the rest of the development and subsequently modified to suit other Lendlease assets.
 
-##### Challenge Statement 3:
+##### Challenge Statement 3
 How might we optimise the performance and energy efficiency of existing Air Handling Units (AHUs) while ensuring good thermal comfort for patients and staff, and meeting hospital operational requirements? 
 
 (Co-sponsored by Ng Teng Fong General Hospital and Jurong Community Hospital)
@@ -92,7 +92,7 @@ The HTCC also uses a Passive Displace Ventilation (PDV) System that leverages na
 
 The solution could be potentially test-bedded at a rehabilitation clinic in Ng Teng Fong General Hospital to assess the performance of the AHU in meeting thermal comfort and energy efficiency outcomes.
 
-##### Challenge Statement 4:
+##### Challenge Statement 4
 How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties? 
 
 (Sponsored by CapitaLand)
@@ -109,7 +109,7 @@ For more comprehensive waste tracking, the proposed system can also interface wi
 
 CapitaLand intends to pilot the Smart Recycling Centre at IMM and the Nordic European Centre in International Business Park. If the solution demonstrates improved productivity and is financially viable, larger scale implementation may be considered for the rest of CapitaLand’s portfolio.
 
-##### Challenge Statement 5:
+##### Challenge Statement 5
 How might we encourage drivers to go car-lite and promote more Walk Cycle Ride modes of transport for trips within the Jurong Lake District? 
 
 (Sponsored by SMRT and LTA)
@@ -134,7 +134,7 @@ The personalised journey planner application seeks to encourage the switch to pu
 
 Nippon Koei’s solution will be piloted for journeys to and from the Jurong Lake District to assess its efficacy in changing perceptions and encouraging usage of Walk Cycle Ride modes of transport. If effective, it could be expanded to other areas as well.
 
-##### Challenge Statement 6:
+##### Challenge Statement 6
 How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work? 
 
 (Sponsored by CapitaLand and Lendlease)
