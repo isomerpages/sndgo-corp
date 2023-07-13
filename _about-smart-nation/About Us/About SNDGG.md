@@ -23,3 +23,15 @@ With the <a href="https://www.tech.gov.sg/" target="_blank">Government Technolog
 ![Permanent Secretary (Development) Mr Chng Kai Fong, Permanent Secretary Mr Leong Weng Keong Joseph, and Deputy Secretary Mr Sim Feng-Ji.](/images/abt-smart-nation/Leaders/SNDGO_2PS_PS_DS.jpeg)
 
 <div style="font-size:14px">From left: Permanent Secretary (Development) Mr Chng Kai Fong, Permanent Secretary Mr Joseph Leong, and Deputy Secretary Mr Sim Feng-Ji.</div>
+
+<br><br>
+
+<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+
+<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
+	<ul>
+		<li><a href="/about-smart-nation/vision-mission">Our Vision and Mission</a></li>
+		<li><a href="/about-smart-nation/ministerial-committee">SNDGG Ministerial Committee</a></li>
+			<li><a href="/about-smart-nation/senior-leaders">SNDGO Senior Leaders</a></li>
+	</ul>
+</div>
