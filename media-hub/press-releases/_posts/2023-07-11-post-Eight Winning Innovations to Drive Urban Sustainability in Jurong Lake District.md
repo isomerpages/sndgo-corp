@@ -45,6 +45,15 @@ See Annex A for more information on the winning solutions and stakeholders’ pl
 
 _______
 
+#### Annex A - JLD Innovation Challenge Winners
+
+###### Challenge statement 1:
+How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices? (Sponsored by Science Centre Singapore)
+
+
+
+_______
+
 **For media queries, please contact:**
 
 **Ng Jia Min (Ms)**<br>
