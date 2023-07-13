@@ -47,7 +47,7 @@ _______
 
 #### Annex A - JLD Innovation Challenge Winners
 
-**Challenge Statement 1:**<br>
+##### Challenge Statement 1
 How might we design a system that promotes interest to monitor and manage sustainability-related information from multiple sources for visualisation and to encourage sustainable practices? (Sponsored by Science Centre Singapore)
 
 **Winner:**<br>
@@ -89,6 +89,41 @@ An energy efficient solution, the HTCC uses a terminal box fan that responses pr
 The HTCC also uses a Passive Displace Ventilation (PDV) System that leverages natural air buoyancy. Energy savings can be derived from a reduced cooling load where the upper part of rooms does not need to be cooled, and a further reduction in size of AHUs. The draft free system also provides better comfort for occupants whose activity levels are low.
 
 The solution could be potentially test-bedded at a rehabilitation clinic in Ng Teng Fong General Hospital to assess the performance of the AHU in meeting thermal comfort and energy efficiency outcomes.
+
+**Challenge Statement 4:**<br>
+How might we design a digital solution that can collect, aggregate and report waste data from large commercial properties? (Sponsored by CapitaLand)
+
+**Winner**<br>
+iZeeM and Otto
+
+**Proposed Solution:**<br>
+iZeeM and Otto’s solution involves placing sensors at smart bins to gather data on fill levels, weight and equipment performance, with image recognition technology to capture types of waste and recyclables. Supported by user profiling data of tenants, the smart bin data will be analysed to identify patterns, optimise operations and encourage recycling.
+
+For instance, users may be notified of potential contamination in recyclables, or be rejected when they attempt to dispose potentially non-recyclable or hazardous items. Together with data collected from iZeeM and Otto’s Smart Recycling Center, building owners may be able to identify tenants with low recycling rates for further engagement.
+
+For more comprehensive waste tracking, the proposed system can also interface with other smart compactors and/or food waste digesters buildings’ premises.
+
+CapitaLand intends to pilot the Smart Recycling Centre at IMM and the Nordic European Centre in International Business Park. If the solution demonstrates improved productivity and is financially viable, larger scale implementation may be considered for the rest of CapitaLand’s portfolio.
+
+**Challenge Statement 5:**<br>
+How might we encourage drivers to go car-lite and promote more Walk Cycle Ride modes of transport for trips within the Jurong Lake District? (Sponsored by SMRT)
+
+**Winner:**<br>
+Mapxus
+
+**Proposed Solution:**<br>
+Mapxus proposes a comprehensive navigation experience via an application that seamlessly connects indoor and outdoor spaces, making it easier for people to get around using public transport and active mobility.&nbsp;By integrating the solution with real-time public transport datasets, Mapxus provides users with up-to-date information on bus and train schedules, routes and disruptions, enabling them to make informed decisions about their public transportation choices.
+
+Additionally, the application actively encourages active mobility, offering two indoor wayfinding options: the shortest route and the barrier-free route which avoids escalators and stairs. By promoting walking as a viable and enjoyable option, Mapxus motivates individuals to incorporate active mobility into their daily routines, promoting both physical well-being and social inclusiveness.
+  
+To further engage users and support the local retail community, retail solutions offered by other providers could be integrated into the navigation experience. This integration could involve implementing an online queue system and an online food ordering system for smaller F&amp;B and personal care service establishments, reducing waiting times and enhancing the overall retail experience. In addition, Mapxus can display available promotional coupons or discounts for nearby businesses on the digital map, incentivising users to patronise local establishments.
+
+Mapxus’ solution will be tested selectively within JLD to assess its effectiveness and receptiveness, and may be integrated with SMRT’s existing travel and lifestyle application, Wink+, to enhance convenience and mobility options for commuters.
+
+**Challenge Statement 6:**<br>
+How might we design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work? (Sponsored by CapitaLand)
+
+**Winner 1:**<br>
 
 _______
 
