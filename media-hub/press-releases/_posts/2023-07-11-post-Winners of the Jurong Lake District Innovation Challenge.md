@@ -145,11 +145,11 @@ AccuPredict
 **Proposed Solution:**<br>
 AccuPredict’s proposal taps on applying their experience in predicting failures in machine components and structures using vibration, to three components in water tank monitoring: 
 
-* 	Tank level monitoring: Wireless vibration sensors will be installed at key points on the tank to detect water level. As water level decreases, the frequency of vibration will increase based on the inverse proportionality of mass and frequency.
+* Tank level monitoring: Wireless vibration sensors will be installed at key points on the tank to detect water level. As water level decreases, the frequency of vibration will increase based on the inverse proportionality of mass and frequency.
 
-* 	Water pump monitoring: Sensors will be installed on the bearings of the motor and pump. By analysing the vibration frequency spectrum, the type of emerging component failure can be identified months ahead of occurrence, with preemptive action taken to ensure failure-free operations. 
+* Water pump monitoring: Sensors will be installed on the bearings of the motor and pump. By analysing the vibration frequency spectrum, the type of emerging component failure can be identified months ahead of occurrence, with preemptive action taken to ensure failure-free operations. 
 
-* 	Pipe leakages: Using vibration resulting from dynamic interaction of the pump and the pipe geometry as water is pumped through the pipe, the location and cause (i.e. scaling, choking or resonance related excess vibration) of leakage can be identified.
+* Pipe leakages: Using vibration resulting from dynamic interaction of the pump and the pipe geometry as water is pumped through the pipe, the location and cause (i.e. scaling, choking or resonance related excess vibration) of leakage can be identified.
 
 CapitaLand will pilot the sensors at IMM and Nordic European Centre in International Business Park. If the solution is effective and commercially viable, it may be deployed in other CapitaLand developments.
 
