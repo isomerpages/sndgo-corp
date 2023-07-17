@@ -91,8 +91,6 @@ Singapore clinched the top spot in KPMG’s global ranking of leading technology
 
 ![KPMG's Global Ranking of Leading Technology Hubs](/images/abt-smart-nation/leading-tech-hubs-2021.jpeg)
 
-Click on the link to find out more about <a href="https://home.kpmg/sg/en/home/media/press-releases/2021/07/singapore-tops-2021-ranking-for-leading-technology-innovation-hubs-kpmg-survey.html" target="_blank">KPMG's Global Ranking of Leading Technology Hubs (2021)</a>.
-
 [Return to top](#our-achievements)
 
 ## 2020
