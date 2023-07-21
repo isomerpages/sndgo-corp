@@ -1,5 +1,5 @@
 title: Smart Nation Singapore
-url: https://www.smartnation.gov.sg/
+url: https://www.smartnation.gov.sg
 favicon: /images/SNS-burst.ico
 colors:
   primary-color: "#e70d2e"
@@ -55,3 +55,6 @@ plugins:
 is_government: true
 shareicon: /images/og-image/Smart-Nation-OG-Image.jpg
 google_analytics: UA-77555444-1
+facebook-pixel: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
