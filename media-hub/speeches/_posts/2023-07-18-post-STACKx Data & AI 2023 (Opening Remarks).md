@@ -9,7 +9,7 @@ image: ""
 Opening Remarks by SMS Janil For STACKx Data & AI 2023
 -------------------------------------------
 
-**18 Jul 2023**
+**18 July 2023**
 
 ### Introduction
 
