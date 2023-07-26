@@ -169,10 +169,10 @@ _______
 Executive Manager, Media Relations<br>
 Urban Redevelopment Authority <br>
 DID: 9188 1885<br>
-Email: ng_jia_min@ura.gov.sg
+Email: [ng_jia_min@ura.gov.sg](mailto:ng_jia_min@ura.gov.sg)
 
 **Cristiano Peswani (Mr)**<br>
 Manager, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office, Prime Minister’s Office<br>
 Tel: 9674 5524<br>
-Email: cristiano_peswani@pmo.gov.sg
+Email: [cristiano_peswani@pmo.gov.sg](mailto:cristiano_peswani@pmo.gov.sg)
