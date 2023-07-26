@@ -78,28 +78,18 @@ Senior Manager, Communications and Engagement<br>
 Ministry of Communications and Information (MCI) <br>
 Adam_OSMAN@mci.gov.sg
 
-Theresa Ong
-	
-Manager, Brand, Marketing and Communications 
-	
-Singapore Economic Development Board (EDB)
-	
+Theresa Ong<br>
+Manager, Brand, Marketing and Communications <br>
+Singapore Economic Development Board (EDB)<br>
 Theresa_ONG@edb.gov.sg
 
-Cristiano Peswani 
-	
-Manager, Adoption and Engagement Directorate
-	
-Smart Nation and Digital Government Office (SNDGO), 
-	
-Prime Minister’s Office (PMO), Singapore
-	
+Cristiano Peswani <br>
+Manager, Adoption and Engagement Directorate<br>
+Smart Nation and Digital Government Office (SNDGO), <br>
+Prime Minister’s Office (PMO), Singapore<br>
 cristiano_peswani@pmo.gov.sg
 
-Nicholas Tan
-	
-Head of Communications, Southeast Asia
-	
-Google Cloud
-	
+Nicholas Tan<br>
+Head of Communications, Southeast Asia<br>
+Google Cloud<br>
 nicholastan@google.com / press@google.com
