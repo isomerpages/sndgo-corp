@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-MCI, DISG, SNDGO, and Google Cloud Launch AI Trailblazers Initiative to Accelerate the Development of Impactful Generative AI Solutions in Singapore
---------------------------------------------------------------------------------------------------------------------------------
+## MCI, DISG, SNDGO, and Google Cloud Launch AI Trailblazers Initiative to Accelerate the Development of Impactful Generative AI Solutions in Singapore
+
 
 **24 July 2023**
 
@@ -73,23 +73,23 @@ Google Cloud accelerates every organisation’s ability to digitally transform i
 	
 **For media queries, please contact:**
 
-Adam Osman<br> 
+**Adam Osman**<br> 
 Senior Manager, Communications and Engagement<br>
 Ministry of Communications and Information (MCI) <br>
-Adam_OSMAN@mci.gov.sg
+[adam_osman@mci.gov.sg](mailto:Adam_OSMAN@mci.gov.sg )
 
-Theresa Ong<br>
+**Theresa Ong**<br>
 Manager, Brand, Marketing and Communications <br>
 Singapore Economic Development Board (EDB)<br>
-Theresa_ONG@edb.gov.sg
+[theresa_ong@edb.gov.sg](mailto:Adam_OSMAN@mci.gov.sg )
 
-Cristiano Peswani <br>
+**Cristiano Peswani** <br>
 Manager, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office (SNDGO), <br>
 Prime Minister’s Office (PMO), Singapore<br>
-cristiano_peswani@pmo.gov.sg
+[cristiano_peswani@pmo.gov.sg](mailto:cristiano_peswani@pmo.gov.sg)
 
-Nicholas Tan<br>
+**Nicholas Tan**<br>
 Head of Communications, Southeast Asia<br>
 Google Cloud<br>
-nicholastan@google.com / press@google.com
+[nicholastan@google.com](mailto:nicholastan@google.com) / [press@google.com](mailto:press@google.com)
