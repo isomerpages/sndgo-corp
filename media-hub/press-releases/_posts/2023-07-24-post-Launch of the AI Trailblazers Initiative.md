@@ -54,7 +54,6 @@ The AI Trailblazers initiative falls under the first pillar of MCI and Google Cl
 **Ms Jacqueline Poh, Managing Director, Singapore Economic Development Board (EDB)**, said: "Generative AI is a transformative and yet accessible technology which presents a tremendous opportunity to boost our digital economy. The AI Trailblazers initiative will help Singapore-based companies experiment, uncover value, and create novel and meaningful generative AI solutions to deliver better products and services. We look forward to this partnership with Google Cloud, and the impactful applications created from this initiative.”
 
 **Mr Karan Bajwa, Vice President, Asia Pacific, Google Cloud,** said: “Early movers in Singapore are already leveraging generative AI to better serve and engage with their stakeholders. However, to drive awareness and adoption of this technology—at a scale that transforms an economy and delivers highimpact outcomes for citizens—requires the programmatic and intentional approach that we’re proud to be undertaking in partnership with the Singapore Government. With AI Trailblazers, we’re orchestrating a clear pathway for organisations to quickly, easily, and responsibly develop and deploy their own generative AI solutions with baked-in security and data governance. It is the first of a series of initiatives under our joint four-pronged strategy with MCI, as we look to establish a local AI ecosystem that fundamentally and sustainably positions Singapore as an open and trusted global AI hub.”
-<p>
 
 ***
 
@@ -74,22 +73,37 @@ Google Cloud accelerates every organisation’s ability to digitally transform i
 	
 **For media queries, please contact:**
 
-Adam Osman <br>
-Senior Manager, Communications and Engagement <br>
-Ministry of Communications and Information (MCI) <br>Adam_OSMAN@mci.gov.sg
+Adam Osman 
+	
+Senior Manager, Communications and Engagement
+	
+Ministry of Communications and Information (MCI) 
 
-Theresa Ong <br>
-Manager, Brand, Marketing and Communications <br>
-Singapore Economic Development Board (EDB) <br>
+Adam_OSMAN@mci.gov.sg
+
+Theresa Ong
+	
+Manager, Brand, Marketing and Communications 
+	
+Singapore Economic Development Board (EDB)
+	
 Theresa_ONG@edb.gov.sg
 
-Cristiano Peswani <br>
-Manager, Adoption and Engagement Directorate <br>
-Smart Nation and Digital Government Office (SNDGO), <br>
-Prime Minister’s Office (PMO), Singapore<br>
- cristiano_peswani@pmo.gov.sg
+Cristiano Peswani 
+	
+Manager, Adoption and Engagement Directorate
+	
+Smart Nation and Digital Government Office (SNDGO), 
+	
+Prime Minister’s Office (PMO), Singapore
+	
+cristiano_peswani@pmo.gov.sg
 
-Nicholas Tan <br>
-Head of Communications, Southeast Asia<br>
-Google Cloud <br>
-nicholastan@google.com / press@google.com</p>
+Nicholas Tan
+	
+Head of Communications, Southeast Asia
+	
+Google Cloud
+	
+nicholastan@google.com / press@google.com
+	
