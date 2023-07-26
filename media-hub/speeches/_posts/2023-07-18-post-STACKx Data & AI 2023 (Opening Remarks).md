@@ -6,12 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
-Opening Remarks by SMS Janil For STACKx Data & AI 2023
+Opening Remarks by SMS Janil Puthucheary For STACKx Data & AI 2023
 -------------------------------------------
 
 **18 July 2023**
 
 ### Introduction
+-----------
 
 Good morning everyone and welcome to STACKx 2023. This is our fourth year of this collective, coming together of a community of tech-minded individuals, who are passionate about technology within the Government.
 
