@@ -76,20 +76,20 @@ Google Cloud accelerates every organisation’s ability to digitally transform i
 **Adam Osman**<br> 
 Senior Manager, Communications and Engagement<br>
 Ministry of Communications and Information (MCI) <br>
-[adam_osman@mci.gov.sg](mailto:Adam_OSMAN@mci.gov.sg)
+Email: [adam_osman@mci.gov.sg](mailto:Adam_OSMAN@mci.gov.sg)
 
 **Theresa Ong**<br>
 Manager, Brand, Marketing and Communications <br>
 Singapore Economic Development Board (EDB)<br>
-[theresa_ong@edb.gov.sg](mailto:Adam_OSMAN@mci.gov.sg )
+Email: [theresa_ong@edb.gov.sg](mailto:Adam_OSMAN@mci.gov.sg )
 
 **Cristiano Peswani** <br>
 Manager, Adoption and Engagement Directorate<br>
 Smart Nation and Digital Government Office (SNDGO), <br>
 Prime Minister’s Office (PMO), Singapore<br>
-[cristiano_peswani@pmo.gov.sg](mailto:cristiano_peswani@pmo.gov.sg)
+Email: [cristiano_peswani@pmo.gov.sg](mailto:cristiano_peswani@pmo.gov.sg)
 
 **Nicholas Tan**<br>
 Head of Communications, Southeast Asia<br>
 Google Cloud<br>
-[nicholastan@google.com](mailto:nicholastan@google.com) / [press@google.com](mailto:press@google.com)
+Email: [nicholastan@google.com](mailto:nicholastan@google.com) / [press@google.com](mailto:press@google.com)
