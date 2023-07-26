@@ -7,7 +7,25 @@ image: /images/og-image/Milsestones-OG-Image.jpg
 ---
 # Milestones of Singapore’s Smart Nation story
 
-![Our Smart Nation Milestones](/images/abt-smart-nation/Milestones.jpg)
+<br>
+
+<div style="max-width: 1280px">
+    <div style="height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/prfMjtR2hb0" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;"></iframe>
+    </div>
+</div>
+
+
 
 Smart technology has made a difference to the way we live, work and play. But the changes didn’t happen overnight. Here, we trace the milestones of Singapore’s Smart Nation story. 
 
@@ -19,6 +37,7 @@ Jump to...
 * [2000s](#2000)
 *  [2010s](#2011)
 
+![Our Smart Nation Milestones](/images/abt-smart-nation/Milestones.jpg)
 
 ## 1963
 The first mainframe computer was installed in the Central Provident Fund Board (CPFB) to automate the manual ledger accounting system that kept track of 1.6 million CPF members’ accounts. With the IBM 1401 system, CPF employees filled out punch cards with information on CPF members’ latest contributions and fed these to the mainframe computer to update the accounts.
@@ -60,7 +79,7 @@ The National Library Board became the world’s first public library system to u
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
 ## 2000
-The Housing & Development Board (HDB) introduced an electronic application system for the public to submit online applications to buy their flat. This shortened the processing time, and saved applicants a trip to the HDB office to get the physical form.
+The Housing &amp; Development Board (HDB) introduced an electronic application system for the public to submit online applications to buy their flat. This shortened the processing time, and saved applicants a trip to the HDB office to get the physical form.
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
@@ -125,7 +144,7 @@ The Monetary Authority of Singapore (MAS) published the “<a href="https://www.
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
 ## 2017
-The Smart Nation & Digital Government Office (SNDGO) was formed. Sitting under the Prime Minister’s Office, it plans and prioritises key Smart Nation projects such as the National Digital Identity and Smart Nation Sensor Platform. SNDGO also drives digital transformation and builds long-term capabilities for the public sector, and promotes adoption and participation from the public and industry.
+The Smart Nation &amp; Digital Government Office (SNDGO) was formed. Sitting under the Prime Minister’s Office, it plans and prioritises key Smart Nation projects such as the National Digital Identity and Smart Nation Sensor Platform. SNDGO also drives digital transformation and builds long-term capabilities for the public sector, and promotes adoption and participation from the public and industry.
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
