@@ -74,11 +74,8 @@ Google Cloud accelerates every organisation’s ability to digitally transform i
 **For media queries, please contact:**
 
 Adam Osman 
-	
 Senior Manager, Communications and Engagement
-	
 Ministry of Communications and Information (MCI) 
-
 Adam_OSMAN@mci.gov.sg
 
 Theresa Ong
@@ -106,4 +103,3 @@ Head of Communications, Southeast Asia
 Google Cloud
 	
 nicholastan@google.com / press@google.com
-	
