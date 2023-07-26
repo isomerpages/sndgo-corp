@@ -6,6 +6,9 @@ description: See how we have progressed as a Smart Nation.
 image: /images/og-image/Milsestones-OG-Image.jpg
 ---
 # Milestones of Singapore’s Smart Nation story
+![Our Smart Nation Milestones](/images/abt-smart-nation/Milestones.jpg)
+
+Smart technology has made a difference to the way we live, work and play. But the changes didn’t happen overnight. Here, we trace the milestones of Singapore’s Smart Nation story. 
 
 <br>
 
@@ -25,10 +28,6 @@ image: /images/og-image/Milsestones-OG-Image.jpg
     </div>
 </div>
 
-
-
-Smart technology has made a difference to the way we live, work and play. But the changes didn’t happen overnight. Here, we trace the milestones of Singapore’s Smart Nation story. 
-
 Jump to...
 	
 * [1960s](#1963)
@@ -36,8 +35,6 @@ Jump to...
 * [1990s](#1991)
 * [2000s](#2000)
 *  [2010s](#2011)
-
-![Our Smart Nation Milestones](/images/abt-smart-nation/Milestones.jpg)
 
 ## 1963
 The first mainframe computer was installed in the Central Provident Fund Board (CPFB) to automate the manual ledger accounting system that kept track of 1.6 million CPF members’ accounts. With the IBM 1401 system, CPF employees filled out punch cards with information on CPF members’ latest contributions and fed these to the mainframe computer to update the accounts.
