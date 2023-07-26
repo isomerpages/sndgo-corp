@@ -6,8 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-Opening Remarks by SMS Janil Puthucheary For STACKx Data & AI 2023
--------------------------------------------
+## Opening Remarks by SMS Janil Puthucheary for STACKx Data &amp; AI 2023
+
 
 **18 July 2023**
 
@@ -96,3 +96,8 @@ We will have to continue to update these guidelines in a fairly agile manner to 
 I hope I leave you with the understanding that we get AI, maybe not quite exactly like the next guy, but fairly close. We believe that AI is the next big shift, and that includes how we engineer the Digital Government and use the technology for the public. But we know technology alone is not enough. All of the various elements – the products, the people, the partnership and the governance – must come together in the right relationship. Not exist, they must come together in the right relationship. As we do that, we have a conceptual stack of AI governance, which we build on, we iterate, and 11 we improve year-on-year every time we get this community together. Only then will we be able to realise the potential of AI as a technology for public good.
 
 Thank you all very much, and I hope you have a wonderful conference today. Thank you.
+
+**Dr Janil Puthucheary**<br>
+Senior Minister of State, <br>
+Ministry of Communications and Information &amp; Ministry of Health<br>
+Minister-in-charge of GovTech Singapore
