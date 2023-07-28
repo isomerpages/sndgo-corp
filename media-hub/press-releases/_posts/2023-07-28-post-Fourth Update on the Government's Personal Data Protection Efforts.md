@@ -38,7 +38,7 @@ The Government recognises that it is not possible to eliminate data incidents en
 
 Enhancing public officers’ instincts and instilling a culture of excellence in using data securely is an ongoing effort. In FY2022, the Government continued to conduct a series of engagement campaigns and workshops on data protection for public officers. In February 2023, the annual mandatory Data Security e-learning module was also refreshed to emphasise the importance of personal data and data loss protection, and classification of Whole-of-Government data.
 
-Overall, the Government’s initiatives have improved the public sector’s data security posture. The Government will continue to strengthen efforts to safeguard the data of both citizens and businesses. The full FY2022 report can be found on the “A Secure Smart Nation” microsite ([go.gov.sg/public-sector-data-security-review](go.gov.sg/public-sector-data-security-review)).
+Overall, the Government’s initiatives have improved the public sector’s data security posture. The Government will continue to strengthen efforts to safeguard the data of both citizens and businesses. The full FY2022 report can be found on the “A Secure Smart Nation” microsite ([go.gov.sg/public-sector-data-security-review](https://go.gov.sg/public-sector-data-security-review)).
 
 _______
 #### Annexes
