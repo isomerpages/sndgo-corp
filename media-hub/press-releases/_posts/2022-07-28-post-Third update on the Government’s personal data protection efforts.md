@@ -1,6 +1,6 @@
 ---
 title: Third update on the Government’s personal data protection efforts
-permalink: /media-hub/press-releases/28072022
+permalink: /media-hub/press-releases/28072022/
 date: 2022-07-28
 layout: post
 description: The Smart Nation and Digital Government Office (SNDGO) has
@@ -18,7 +18,7 @@ The Smart Nation and Digital Government Office (SNDGO) has published the third u
 
 #### No Serious Data Incidents Over Last Two Years
 
-The number of government data incidents rose from 108 in FY2020 to 178 in FY2021. While the number of data incidents reported has increased, none of these incidents were assessed to be of high severity or posed any significant impact on the agency or affected individuals. The overall increase in data incidents reported mirrors the trends seen in the private sector and globally, as the exchange and use of data continue to grow. The increase also reflects the improved awareness among public officers of the need to safeguard data, and to report every incident regardless of the severity. 
+The number of government data incidents rose from 108 in FY2020 to 178 in FY2021. While the number of data incidents reported has increased, none of these incidents were assessed to be of high severity or posed any significant impact on the agency or affected individuals. The overall increase in data incidents reported mirrors the trends seen in the private sector and globally, as the exchange and use of data continue to grow. The increase also reflects the improved awareness among public officers of the need to safeguard data, and to report every incident regardless of the severity.&nbsp;
 
 Out of the 178 government data incidents in FY2021, 14 were detected as a result of public reports made to the Government Data Security Contact Centre (GDSCC). The Centre was set up in April 2020 for members of the public to report data incidents involving government data or government agencies and seeks to strengthen the Government’s capabilities to detect data incidents.
 
