@@ -14,7 +14,7 @@ Are you interested to help others understand and use tech for better work, life 
 
 ## Meet our Smart Nation Ambassadors
 
-Since the Smart Nation Ambassadors (SNAs) programme was launched in January 2019, more than 4,800[^1] volunteers have joined us to help the community embrace digital technologies.
+Since the Smart Nation Ambassadors (SNAs) programme was launched in January 2019, more than 4,700[^1] volunteers have joined us to help the community embrace digital technologies.
 
 Our Ambassadors are the ‘special sauce’ that make Smart Nation tick. From poly students to retirees, from academics to techies – they are bound by a desire to bring their skills, expertise and experience to add to our Smart Nation effort. Their contributions can take many different shapes, be it sharing user tips on digital government tools and services at roadshows, facilitating webinars on everyday apps, or helping project teams gather user feedback on on-going or upcoming digital products and services.
 
@@ -97,4 +97,4 @@ For more updates on Smart Nation events,&nbsp;[follow us on Telegram](https://t.
 
 ***
 
-[^1]: *As of Feb 2023.*
+[^1]: *As of July 2023.*
