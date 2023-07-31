@@ -131,3 +131,16 @@ Enhance your visit by downloading the digital version of the&nbsp;PlayScape pamp
 <div style="width:50%"> 
  <a href="/files/publications/playscape_pamphlet.pdf"><img style="border:1px solid black;" src="images/community/playscape/playscape_pamphlet.jpg" alt="Digital Economy Framework for Action">PlayScape Pamphlet (3.3mb)</a>
 </div>
+
+### PlayScape Lite Roving Exhibition
+
+Can't make time for a trip to Science Centre Singapore? Check out the PlayScape Lite roving exhibition at the following venues and dates.
+
+
+
+| Venue | Date | 
+| -------- | -------- |
+| library@harbourfront | 4 Aug to 30 Aug | 
+| Woodland Regional Library | 1 Sep to 28 Sep |
+| Tampines Regional Library | 2 Oct to 31 Oct |
+
