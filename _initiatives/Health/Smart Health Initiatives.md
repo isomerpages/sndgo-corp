@@ -43,7 +43,7 @@ These are some of the Smart Nation health initiatives we’re working on right n
 
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/health/telehealth"><img src="/images/initiatives/overview-pages/telehealth.png" alt="TeleHealth"></a><br><div class="header"><b>TeleHealth</b></div><br><div class="para"><br>Bringing healthcare into the home not only makes it more convenient for patients, it also improves our efficiency to deliver these services.
+<a href="/initiatives/health/project-pensieve/"><img src="/images/initiatives/overview-pages/telehealth.png" alt="TeleHealth"></a><br><div class="header"><b>TeleHealth</b></div><br><div class="para"><br>Bringing healthcare into the home not only makes it more convenient for patients, it also improves our efficiency to deliver these services.
 </div>
 <br>
 
@@ -57,5 +57,3 @@ These are some of the Smart Nation health initiatives we’re working on right n
 	<div class="col"> 
 </div>
 <br></div>
-
-
