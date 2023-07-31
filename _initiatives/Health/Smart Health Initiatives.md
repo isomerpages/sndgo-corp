@@ -2,9 +2,9 @@
 title: Smart Health Initiatives
 permalink: /initiatives/health/
 third_nav_title: Health
-description: "Our health initiatives focus on equipping Singaporeans with the
+description: Our health initiatives focus on equipping Singaporeans with the
   information and tools to better take control of their health and healthcare
-  needs, so that they are prepared for the future. "
+  needs, so that they are prepared for the future.
 image: /images/initiatives/overview-pages/healthhub.png
 ---
 # Smart Inititaives to Improve Healthcare
@@ -35,24 +35,27 @@ These are some of the Smart Nation health initiatives we’re working on right n
 </div>
 	<div class="col"> 
 <a href="/initiatives/health/national-steps-challenge"><img src="/images/initiatives/overview-pages/national-steps-challenge.png" alt="Healthy365"></a><br>
-    <div class="header"><b>National Steps Challenge™ & Healthy 365 App</b></div><br>
+    <div class="header"><b>National Steps Challenge™ &amp; Healthy 365 App</b></div><br>
     <div class="para"><br>With the integration of wearable step-tracker tech with our National Steps Challenge™, we’re encouraging Singaporeans to lead a healthier, more active lifestyle.
 </div>
 <br></div></div>
 
+
 <div class="row">
-	<div class="col">
-<a href="/initiatives/health/telehealth"><img src="/images/initiatives/overview-pages/telehealth.png" alt="TeleHealth"></a><br>
-    <div class="header"><b>TeleHealth</b></div><br>
-    <div class="para"><br>Bringing healthcare into the home not only makes it more convenient for patients, it also improves our efficiency to deliver these services.
-</div>
-<br>
-	
-</div>
-<div class="col">
+<div class="col"> 
+<a href="/initiatives/health/telehealth"><img src="/images/initiatives/overview-pages/telehealth.png" alt="TeleHealth"></a><br><div class="header"><b>TeleHealth</b></div><br><div class="para"><br>Bringing healthcare into the home not only makes it more convenient for patients, it also improves our efficiency to deliver these services.
 </div>
 <br>
 
-<div class="col">
+</div>
+	<div class="col"> 
+<a href="/initiatives/health/telehealth"><img src="/images/initiatives/overview-pages/telehealth.png" alt="TeleHealth"></a><br><div class="header"><b>TeleHealth</b></div><br><div class="para"><br>Bringing healthcare into the home not only makes it more convenient for patients, it also improves our efficiency to deliver these services.
+</div>
+<br>
+
+</div>
+	<div class="col"> 
 </div>
 <br></div>
+
+
