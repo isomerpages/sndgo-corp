@@ -2,7 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - Safe Digital Space/.keep
       - Strategic National Projects/.keep
       - Strategic National Projects/Our Strategic National Projects.md
       - Strategic National Projects/GoBusiness.md
@@ -58,6 +57,7 @@ collections:
       - Urban Living/Smart Towns.md
       - Urban Living/Smart Urban Planning.md
       - Urban Living/Integrated Environmental Modeller.md
+      - Safe Digital Space/.keep
       - Strategic National Projects/.keep
       - Strategic National Projects/E Payments.md
       - Covid 19/.keep
