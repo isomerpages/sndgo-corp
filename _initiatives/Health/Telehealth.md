@@ -2,10 +2,10 @@
 title: Telehealth
 permalink: /initiatives/health/telehealth/
 third_nav_title: Health
-description: "TeleHealth offers integrated, seamless medical care in the form of
+description: TeleHealth offers integrated, seamless medical care in the form of
   online medical consultations without having to go down to the healthcare
   institution in person. It allows better use of resources, greater efficiency
-  and less stress for patients and healthcare providers alike. "
+  and less stress for patients and healthcare providers alike.
 image: /images/initiatives/overview-pages/telehealth.png
 ---
 # Medical Consultations in the Comfort of Your Own Home
@@ -23,4 +23,4 @@ Launched in April 2017, such video consultations allow patients to speak with th
 * Speech therapy for KK Women’s and Children’s Hospital patients
 * Post-stroke, infectious diseases and cancer patient care
 
-For more information, head over to the [Smart Health Video Consultation website.](https://www.ihis.com.sg/vc)
+For more information, head over to the [Synapxe's website.](https://www.synapxe.sg/healthtech/telehealth/video-consultation-platform/)

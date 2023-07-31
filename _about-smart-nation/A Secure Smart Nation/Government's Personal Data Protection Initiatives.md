@@ -41,22 +41,20 @@ The Government publishes annual updates to highlight efforts and initiatives tak
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/govt%20personal%20data%20protection%20efforts%202022.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/2022-third-update-on-data-protection-efforts-cover.jpg" alt="2022: Third Update on the Government's Personal Data Protection Efforts">2022: Third Update on the Government's Personal Data Protection Efforts (1MB)</a></div>
-	
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/government-personal-data-protection-efforts-2021.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/2021-report-update-on-pdprc.png" alt="2021: Second Update on the Government's Personal Data Protection Efforts">2021: Second Update on the Government's Personal Data Protection Efforts (269KB)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/2023:%20fourth%20update%20on%20the%20government's%20personal%20data%20protection%20efforts.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/2023-fourth-update-on-data-protection-efforts-cover.png" alt="2023 Fourth Update on the Government's Personal Data Protection Efforts">2023: Fourth Update on the Government's Personal Data Protection Efforts (891kb)</a></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/government-personal-data-protection-efforts-2021-summary.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/government-personal-data-protection-efforts-2021-summary-cover.jpg" alt="2021: Second Update on the Government's Personal Data Protection Efforts – Summary">2021: Second Update on the Government's Personal Data Protection Efforts – Summary (932KB)</a></div>	
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/govt%20personal%20data%20protection%20efforts%202022.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/2022-third-update-on-data-protection-efforts-cover.jpg" alt="2022: Third Update on the Government's Personal Data Protection Efforts">2022: Third Update on the Government's Personal Data Protection Efforts (1MB)</a></div>
+
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/government-personal-data-protection-efforts-2021.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/2021-report-update-on-pdprc.png" alt="2021: Second Update on the Government's Personal Data Protection Efforts">2021: Second Update on the Government's Personal Data Protection Efforts (269KB)</a></div>	
 
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-2020.pdf" target="_blank"><img style="border:1px solid black;" src="images/abt-smart-nation/annual-update-on-govt-personal-data-protection-efforts-2020-cover.jpg" alt="2020: First Update on the Government's Personal Data Protection Efforts">2020: First Update on the Government's Personal Data Protection Efforts (2.2MB)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/government-personal-data-protection-efforts-2021-summary.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/government-personal-data-protection-efforts-2021-summary-cover.jpg" alt="2021: Second Update on the Government's Personal Data Protection Efforts – Summary">2021: Second Update on the Government's Personal Data Protection Efforts – Summary (932KB)</a></div>
 	
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary_cover.jpg" alt="2020: First Update on the Government's Personal Data Protection Efforts - Summary">2020: First Update on the Government's Personal Data Protection Efforts - Summary (205KB)</a></div>
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-2020.pdf" target="_blank"><img style="border:1px solid black;" src="images/abt-smart-nation/annual-update-on-govt-personal-data-protection-efforts-2020-cover.jpg" alt="2020: First Update on the Government's Personal Data Protection Efforts">2020: First Update on the Government's Personal Data Protection Efforts (2.2MB)</a></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;"></div>	
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary_cover.jpg" alt="2020: First Update on the Government's Personal Data Protection Efforts - Summary">2020: First Update on the Government's Personal Data Protection Efforts - Summary (205KB)</a></div>	
 
 </div>
-
-[Return to top](#governments-personal-data-protection-initiatives)

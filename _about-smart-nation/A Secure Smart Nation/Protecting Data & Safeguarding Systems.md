@@ -11,7 +11,7 @@ image: /images/og-image/Cybersecurity-OG-Image.jpg
 
 ![A Secure Smart Nation](/images/abt-smart-nation/A_Secure_Smart_Nation%20_1920px.jpeg)
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">Data is the lifeblood of a digital economy and a digital government. As the custodian of a vast amount of data, the Government takes its responsibility of securing the data and preserving individuals’ privacy very seriously.”<br>- Prime Minister Lee Hsien Loong</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">"Data is the lifeblood of a digital economy and a digital government. As the custodian of a vast amount of data, the Government takes its responsibility of securing the data and preserving individuals’ privacy very seriously.”<br>- Prime Minister Lee Hsien Loong</div>
 
 
 Cybersecurity and data security are key enablers of a Smart Nation. The Government is committed to ensuring the security of its systems, and the data that is entrusted to it by the public. Secure design principles are adopted to safeguard Government systems against cybersecurity threats. 
