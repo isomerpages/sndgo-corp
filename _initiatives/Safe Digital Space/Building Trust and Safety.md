@@ -13,7 +13,7 @@ As more aspects of our lives and government services move to the digital space, 
 <br>
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/health/assistive-techonology-robotics"><img src="/images/initiatives/overview-pages/assistive-tech.png" alt="CheckWho"></a><br>
+<a href="/initiatives/safe-digital-space/checkwho"><img src="/images/initiatives/overview-pages/assistive-tech.png" alt="CheckWho"></a><br>
     <div class="header"><b>CheckWho</b></div><br>
     <div class="para"><br>CheckWho helps the public verify the legitimacy of calls from public officers.
 </div>
@@ -21,7 +21,7 @@ As more aspects of our lives and government services move to the digital space, 
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/health/healthhub"><img src="/images/initiatives/overview-pages/healthhubweb.png" alt="ScamShield"></a><br>
+<a href="/initiatives/safe-digital-space/scamshield"><img src="/images/initiatives/overview-pages/healthhubweb.png" alt="ScamShield"></a><br>
      <div class="header"><b>ScamShield</b></div><br>
     <div class="para"><br>ScamShield is a product suite that defends against scams, and was developed by Open Government Products in collaboration with the Singapore Police Force (SPF) and the National Crime Prevention Council (NCPC).
 </div>
@@ -29,7 +29,7 @@ As more aspects of our lives and government services move to the digital space, 
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/health/national-steps-challenge"><img src="/images/initiatives/overview-pages/national-steps-challenge.png" alt="SMS Sender ID Registry (SSIR)"></a><br>
+<a href="/initiatives/safe-digital-space/ssir"><img src="/images/initiatives/overview-pages/national-steps-challenge.png" alt="SMS Sender ID Registry (SSIR)"></a><br>
     <div class="header"><b>SMS Sender ID Registry (SSIR)</b></div><br>
     <div class="para"><br>To safeguard consumers from possible online scams, all organizations using alphanumeric Sender IDs for SMS are required to register with the Singapore SMS Sender ID Registry.
 </div>
