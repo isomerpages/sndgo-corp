@@ -58,5 +58,3 @@ The Government publishes annual updates to highlight efforts and initiatives tak
 <div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/annual-update-on-govt-personal-data-protection-efforts-Nov2020-summary_cover.jpg" alt="2020: First Update on the Government's Personal Data Protection Efforts - Summary">2020: First Update on the Government's Personal Data Protection Efforts - Summary (205KB)</a></div>	
 
 </div>
-
-[Return to top](#governments-personal-data-protection-initiatives)
