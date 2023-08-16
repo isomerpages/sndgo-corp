@@ -23,6 +23,14 @@ third_nav_title: About Us
 <div style="width:100%;display:flex;justify-content:left;"><div style="width:500px;"><img src="/images/abt-smart-nation/Leaders/Chng-Kai-Fong.jpg" alt="Chng Kai Fong"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Mr Chng Kai Fong</b></div>Permanent Secretary (Development)<br></div>
 
 </div>	
+
+<div class="row" style="padding: 20px 0px 0px 0px;">	
+	
+<div class="col" style="padding: 10px 20px 10px 20px">
+
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:500px;"><img src="/images/abt-smart-nation/Leaders/profile-pic-sndgo.jpg" alt="Augustin Lee"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>Mr Augustin Lee</b></div>Second Permanent Secretary (Designate)<br></div>
+
+</div>	
 	
 <div class="row" style="padding: 20px 0px 0px 0px;">		
 	
