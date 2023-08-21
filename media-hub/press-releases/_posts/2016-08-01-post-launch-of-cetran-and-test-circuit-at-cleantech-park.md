@@ -1,7 +1,7 @@
 ---
 title: Launch of CETRAN and Test Circuit at CleanTech Park
 date: 2016-08-01
-permalink: /media-hub/press-releases/launch-of-cetran-and-test-circuit-at-cleantech-park
+permalink: /media-hub/press-releases/launch-of-cetran-and-test-circuit-at-cleantech-park/
 ---
 ## Launch Of CETRAN And Test Circuit At Cleantech Park
 
@@ -27,4 +27,4 @@ NTU Chief of Staff and Vice-President (Research) Professor Lam Khin Yong said, �
 
 CETRAN will house an expert research team formed by NTU that will perform testing in a computer-simulated environment representative of Singapore’s traffic conditions, to complement the tests being performed in the test circuit. The LTA-NTU agreement will see CETRAN being operated by NTU for a period of five years, during which NTU will collaborate with various international Testing, Inspection and Certification bodies, research institutions and industry partners on global standards and test requirements. These include BMW Group, testing body TÜV SÜD, the Netherlands Organisation for Applied Scientific Research (TNO) and TUM CREATE – a joint research collaboration between NTU and the Technical University of Munich.
 
-[Press release issued by Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/newsroom/2016/8/2/joint-news-release-by-the-land-transport-authority-lta-jtc-ntu---paving-the-way-for-the-safe-and-effective-deployment-o.html)
+*Press release issued by Land Transport Authority*
