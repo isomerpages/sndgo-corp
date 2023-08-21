@@ -1,7 +1,7 @@
 ---
 title: LTA to Launch Autonomous Mobility-on-Demand Trials
 date: 2016-08-01
-permalink: /media-hub/press-releases/lta-to-launch-autonomous-mobility-on-demand-trials
+permalink: /media-hub/press-releases/lta-to-launch-autonomous-mobility-on-demand-trials/
 ---
 ## LTA To Launch Autonomous Mobility On Demand Trials
 
@@ -33,4 +33,4 @@ nuTonomy, a fast-growing Singapore-based company founded in 2013 by Drs Karl Iag
     
 Said nuTonomy CEO Karl Iagnemma, “nuTonomy is honoured to partner with LTA and we applaud the Singaporean government for its forward thinking and planning. We are committed to Singapore, as demonstrated by the growing team we have here as well as our beta testing program in one-north. This innovative collaboration with LTA will accelerate the pace of change we are bringing to the fundamentals of human transportation by enhancing our ability to deploy a fleet of self-driving vehicles to serve the people of Singapore."  
 
-[Press release issued by Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/newsroom/2016/8/2/lta-to-launch-autonomous-mobility-on-demand-trials.html)
+*Press release issued by Land Transport Authority*
