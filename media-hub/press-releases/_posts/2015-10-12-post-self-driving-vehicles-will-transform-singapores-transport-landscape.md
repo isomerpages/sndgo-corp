@@ -1,7 +1,7 @@
 ---
 title: Self-Driving Vehicles will Transform Singapore's Transport Landscape
 date: 2015-10-12
-permalink: /media-hub/press-releases/self-driving-vehicles-will-transform-singapore-s-transport-landscape
+permalink: /media-hub/press-releases/self-driving-vehicles-will-transform-singapore-s-transport-landscape/
 ---
 ## MOT Unveils Roadmap for Self-Driving Vehicles, with Slate of Ongoing and Upcoming Trials in one-north, Gardens by the Bay, Sentosa and West Coast Highway
 
@@ -42,4 +42,4 @@ In collaboration with one-north master planner JTC Corporation, LTA will be impl
   
 In June 2015, LTA issued a request for information (RFI) to seek proposals on using self-driving vehicle technology for land transport mobility concepts such as point-to-point mobility-on-demand services, and self-driving buses. The RFI closed on 25 September 2015 and LTA has received eight submissions from both local and international applicants. LTA is currently evaluating the proposals and expects to conclude the evaluation by the first quarter of 2016.
 
-[Press release issued by Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/newsroom/2015/10/2/joint-release-by-the-land-transport-authority-lta-mot---self-driving-vehicles-will-transform-singapores-transport-lands.html)
+*Press release issued by Land Transport Authority*
