@@ -3,7 +3,7 @@ title: Smart Nation Events
 permalink: /community/events/overview/
 description: Check out our Smart Nation events.
 third_nav_title: Events
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 # Smart Nation Events
 

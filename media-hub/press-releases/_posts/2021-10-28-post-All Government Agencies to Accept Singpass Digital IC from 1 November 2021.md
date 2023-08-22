@@ -7,7 +7,7 @@ description: With the wider acceptance of Digital IC by the Government, Singpass
   app users can confidently and conveniently prove their identity using the
   Digital IC when transacting at Government counters, polyclinics and public
   libraries.
-image: /images/initiatives/Singpass-03.jpeg
+image: /images/initiatives/singpass-03.jpeg
 ---
 ## All Government Agencies To Accept Singpass Digital IC From 1 November 2021
 

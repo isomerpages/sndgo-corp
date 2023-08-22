@@ -6,7 +6,7 @@ description: SGFinDex is the world's first public digital infrastructure to use
   enable individuals to access, through applications, their financial
   information held across different government agencies and financial
   institutions.
-image: /images/initiatives/SGFINDEX.jpg
+image: /images/initiatives/sgfindex.jpg
 third_nav_title: Business & Finance
 ---
 # Singapore Financial Data Exchange (SGFinDex)

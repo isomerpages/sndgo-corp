@@ -10,7 +10,7 @@ third_nav_title: Covid 19
 ---
 #  Singapore harnesses tech for COVID-19 pandemic measures
 
- ![SafeEntry Gateway](/images/covid-19/SafeEntryGatwayCheckOutBox.jpg)
+ ![SafeEntry Gateway](/images/covid-19/safeentrygatwaycheckoutbox.jpg)
 
 
 COVID-19 was a crisis that swept our nation. The pandemic had shut down entire cities, caused deficits in economies and put many lives on hold as people were ordered to mostly stay home to prevent the virus from spreading.

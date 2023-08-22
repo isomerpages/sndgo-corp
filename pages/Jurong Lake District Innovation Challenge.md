@@ -4,7 +4,7 @@ permalink: /jldchallenge2023/
 description: We are calling for all start-ups, private companies, institutes of
   higher learning, and research institutes to propose innovative solutions to
   address the sustainability challenges facing the Jurong Lake District
-image: /images/JLD/JLD-challenge-ogimage.jpeg
+image: /images/jld/jld-challenge-ogimage.jpeg
 ---
 ![Jurong Lake Innovation Challenge](/images/JLD/jld_challenge_logo.jpeg)
 

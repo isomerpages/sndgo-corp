@@ -6,7 +6,7 @@ layout: post
 description: Designed as a roving showcase, the 12m truck is fitted with eight
   interactive game stations for members of the public to learn about our Smart
   Nation initiatives and digital government services.
-image: /images/community/builder/Smart_Nation_Builder_13.jpeg
+image: /images/community/builder/smart_nation_builder_13.jpeg
 ---
 
 ## Factsheet - Smart Nation Builder

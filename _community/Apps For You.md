@@ -4,7 +4,7 @@ permalink: /community/apps-for-you/
 description: Want to register your child’s birth, check on the weather, report
   municipal issues or borrow an audio book? There’s an app for that. Check them
   out here.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 ![Apps for you](/images/community/headerimages/apps-for-you.png)
 

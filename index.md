@@ -28,7 +28,7 @@ sections:
       description: See how we have progressed as a Digital Government
       button: READ MORE ABOUT IT HERE
       url: /about-smart-nation/digital-government#the-progress-so-far
-      image: /images/initiatives/Singpass-05.jpeg
+      image: /images/initiatives/singpass-05.jpeg
       alt: Singpass
   - infopic:
       title: Want to learn more? Check out our Smart Nation showcases!

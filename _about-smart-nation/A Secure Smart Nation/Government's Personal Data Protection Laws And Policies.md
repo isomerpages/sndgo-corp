@@ -4,7 +4,7 @@ permalink: /about-smart-nation/secure-smart-nation/personal-data-protection-laws
 third_nav_title: A Secure Smart Nation
 description: The Government has put in place strong personal data protection
   laws and policies to safeguard sensitive data.
-image: /images/og-image/Cybersecurity-OG-Image.jpg
+image: /images/og-image/cybersecurity-og-image.jpg
 ---
 # Government's Personal Data Protection Laws And Policies
 

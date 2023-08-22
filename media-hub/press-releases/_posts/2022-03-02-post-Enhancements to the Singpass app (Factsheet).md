@@ -6,7 +6,7 @@ layout: post
 description: The Singpass app has been made available in the four official
   languages, namely English, Chinese, Malay and Tamil, to provide greater
   convenience and improved accessibility to more Singapore residents.
-image: /images/initiatives/Singpass-02.jpeg
+image: /images/initiatives/singpass-02.jpeg
 ---
 
 ## Factsheet - Enhancements to the Singpass app

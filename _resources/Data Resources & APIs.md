@@ -2,7 +2,7 @@
 title: Data Resources & APIs
 permalink: /resources/open-data/
 description: Data is the new currency, and with open data, the possibilities are endless!
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 
 

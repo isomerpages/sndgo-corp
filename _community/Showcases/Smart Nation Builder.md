@@ -5,7 +5,7 @@ third_nav_title: Showcases
 description: The Smart Nation Builder is a 12m-long truck fitted with
   interactive game stations for members of the public to learn more about
   Singapore’s tech initiatives and digital Government services.
-image: /images/community/builder/Smart_Nation_Builder_12.jpeg
+image: /images/community/builder/smart_nation_builder_12.jpeg
 ---
 # Hop on the Smart Nation Builder 
 

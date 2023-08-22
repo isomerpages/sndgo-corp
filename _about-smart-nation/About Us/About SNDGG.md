@@ -9,7 +9,7 @@ description: The Smart Nation and Digital Government Office (SNDGO), under the
   Smart Nation. With the Government Technology Agency, the implementing arm of
   SNDGO, both entities are collectively known as the Smart Nation and Digital
   Government Group (SNDGG).
-image: /images/og-image/About-SNDGG-OG-Image.jpg
+image: /images/og-image/about-sndgg-og-image.jpg
 third_nav_title: About Us
 ---
 # Smart Nation Digital Government Group

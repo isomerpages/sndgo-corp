@@ -5,7 +5,7 @@ third_nav_title: A Secure Smart Nation
 description: Cybersecurity and data security are key enablers of a Smart Nation.
   The Government is committed to ensuring the security of its systems, and the
   data that is entrusted to it by the public.
-image: /images/og-image/Cybersecurity-OG-Image.jpg
+image: /images/og-image/cybersecurity-og-image.jpg
 ---
 # A Secure Smart Nation
 

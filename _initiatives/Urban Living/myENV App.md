@@ -11,7 +11,7 @@ image: /images/initiatives/new-myenv-app-layout.jpg
 
 # More Than Just Weather Updates
 
-![Alt text for image on Isomer site](/images/initiatives/New-myenv-app-layout.jpg)
+![Alt text for image on Isomer site](/images/initiatives/new-myenv-app-layout.jpg)
 
 
 The myENV app is a one-stop mobile platform for a range of information, from the weather, air quality, dengue clusters, drain water levels and floods, to water service disruptions, where to find hawker centres and more.

@@ -5,7 +5,7 @@ description: Over the past years, we’ve had the privilege of working with
   bright, established professionals whom we are proud to call our Smart Nation
   Fellows. These Fellows work alongside GovTech project teams, sharing their
   experience and expertise towards developing tech for public good.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 # Help Build Our Smart Nation, Together
 <br>

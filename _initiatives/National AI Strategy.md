@@ -4,7 +4,7 @@ permalink: /initiatives/artificial-intelligence/
 description: By 2030, we see Singapore as a leader in developing and deploying
   scalable, impactful artificial intelligence (AI) solutions, in key sectors of
   high value and relevance to our citizens and businesses.
-image: /images/og-image/AI-OG-Image.jpg
+image: /images/og-image/ai-og-image.jpg
 ---
 # The Next Frontier of Singapore's Smart Nation Journey
 As a Smart Nation, we want to go beyond just adopting technology. Our aim is to fundamentally rethink business models, so that we can make impactful changes to reap productivity gains and create new growth areas.

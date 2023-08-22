@@ -5,7 +5,7 @@ description: Are you passionate about technology? Are you driven by the desire
   to create digital solutions that can transform our society, economy and
   government? If your answer is yes and yes, come apply for the Smart Nation
   Scholarship.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 # Do You Have What It Takes?
 <br>

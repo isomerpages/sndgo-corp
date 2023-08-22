@@ -7,7 +7,7 @@ description: "As more Government services shift online, it is crucial we have a
   National Digital Identity (NDI) initiative, provides a convenient and secure
   platform for users - both citizens and businesses - to transact with the
   Government and other private service providers. "
-image: /images/initiatives/Singpass-05.jpeg
+image: /images/initiatives/singpass-05.jpeg
 ---
 
 # Creating Your Trusted Digital Identity 

@@ -2,7 +2,7 @@
 title: FAQs on Smart Nation Ambassadors
 permalink: /community/smart-nation-ambassadors/faq/
 description: Have a question on our Smart Nation Ambassador Programme? Check out our FAQs.
-image: /images/community/sna/SmartNationAmbassador01.jpg
+image: /images/community/sna/smartnationambassador01.jpg
 ---
 
 # Frequently Asked Questions

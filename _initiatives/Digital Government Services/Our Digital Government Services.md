@@ -5,7 +5,7 @@ third_nav_title: Digital Government Services
 description: To empower citizens to live, work, play, interact and transact
   better with each other and the Government, we have built tech-enabled
   solutions that meet these needs.
-image: /images/initiatives/Singpass-05.jpeg
+image: /images/initiatives/singpass-05.jpeg
 ---
 # Digital Government Services
 

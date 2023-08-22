@@ -36,7 +36,7 @@ Visitors to CityScape will learn about how technology:
 *   is embedded into our infrastructure to benefit citizens and businesses
 *   helps attract technology companies and talent to Singapore, and secure Singapore’s place as a thought leader on Smart City innovations
 
-![Smart Nation CityScape](/images/community/cityscape/Cityscape-06.jpg)
+![Smart Nation CityScape](/images/community/cityscape/cityscape-06.jpg)
 
 ![Smart Nation CityScape](/images/community/cityscape/Cityscape-04.jpeg)
 

@@ -5,7 +5,7 @@ description: Our vision for a digital-first Singapore is one where a Digital
   Government, Digital Economy and Digital Society harness technology to effect
   transformation in health, transport, urban living, government services and
   businesses.
-image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
+image: /images/og-image/smart-nation-pillars-og-image.jpg
 third_nav_title: Our Key Pillars
 ---
 # Three Pillars of a Smart Nation

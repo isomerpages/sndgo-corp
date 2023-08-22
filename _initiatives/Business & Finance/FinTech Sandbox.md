@@ -7,7 +7,7 @@ description: Financial technology, or FinTech, is evolving quickly and changing
   Singapore will have to keep pace with these changes, and the Monetary
   Authority of Singapore (MAS) has this in mind as it develops a Smart Financial
   Centre.
-image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
+image: /images/og-image/smart-nation-pillars-og-image.jpg
 ---
 
 

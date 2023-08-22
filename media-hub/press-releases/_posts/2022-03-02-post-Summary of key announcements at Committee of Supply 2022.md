@@ -6,7 +6,7 @@ layout: post
 description: Over the past 5 years, Smart Nation initiatives have resulted in
   greater convenience, accessibility and benefits to our citizens and
   businesses.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 ## Summary of key announcements at Committee of Supply 2022 - Smart Nation
 

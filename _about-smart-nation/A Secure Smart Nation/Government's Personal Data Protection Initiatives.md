@@ -6,7 +6,7 @@ description: Data security is a critical safeguard towards building a Smart
   Nation. Secure and effective use of data and digital solutions are important
   in policy-making, and in enabling the Government to deliver services to the
   citizens.
-image: /images/og-image/Cybersecurity-OG-Image.jpg
+image: /images/og-image/cybersecurity-og-image.jpg
 ---
 # Government's Personal Data Protection Initiatives
 ![Government's Personal Data Protection Initiatives](/images/abt-smart-nation/Government’s_PDPI_1920px.jpeg)

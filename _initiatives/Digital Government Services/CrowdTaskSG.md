@@ -6,7 +6,7 @@ image: /images/initiatives/crowdtasksg-01.jpg
 third_nav_title: Digital Government Services
 ---
 # CrowdTaskSG
-![CrowdTaskSG](/images/initiatives/Crowdtasksg-01.jpg)
+![CrowdTaskSG](/images/initiatives/crowdtasksg-01.jpg)
 
 ## Building a smarter nation, one task at a time
 

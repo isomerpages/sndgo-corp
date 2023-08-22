@@ -5,7 +5,7 @@ breadcrumb: Join Us
 description: We envision Singapore to be a world-class city, a leading economy
   and an inclusive society where everyone benefits from the latest developments
   in technology. To realise this vision, we need talent. Specifically, yours.
-image: /images/og-image/About-SNDGG-OG-Image.jpg
+image: /images/og-image/about-sndgg-og-image.jpg
 ---
 # Help Remake Singapore into a Smart Nation 
 ![Smart Nation and Digital Government Office](/images/abt-smart-nation/sndgo_office_01.jpg)

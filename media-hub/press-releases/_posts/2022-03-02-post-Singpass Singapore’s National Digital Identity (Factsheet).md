@@ -7,7 +7,7 @@ description: As a foundational digital infrastructure, the national digital
   identity is critical to achieving our vision of improving the lives of
   citizens, creating opportunities for businesses, and transforming the
   capabilities of government agencies.
-image: /images/initiatives/Singpass-05.jpeg
+image: /images/initiatives/singpass-05.jpeg
 ---
 ## Factsheet – Singpass (Singapore’s National Digital Identity)
 

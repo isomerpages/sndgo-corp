@@ -4,7 +4,7 @@ date: 2021-11-08
 permalink: /media-hub/press-releases/new-ai-programmes-2021/
 layout: post
 description: Additional $180 Million Investment For AI Research.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 ## Two New National AI Programmes Launched; Additional $180 Million Investment For AI Research
 

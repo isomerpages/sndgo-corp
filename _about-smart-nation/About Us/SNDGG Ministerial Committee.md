@@ -4,7 +4,7 @@ permalink: /about-smart-nation/ministerial-committee/
 description: The Smart Nation and Digital Government Group (SNDGG) is overseen
   by a Ministerial Committee.
 third_nav_title: About Us
-image: /images/og-image/About-SNDGG-OG-Image.jpg
+image: /images/og-image/about-sndgg-og-image.jpg
 ---
 
 

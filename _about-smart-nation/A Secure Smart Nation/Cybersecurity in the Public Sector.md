@@ -5,7 +5,7 @@ third_nav_title: A Secure Smart Nation
 description: Digital technologies and solutions need to be made secure to ensure
   that there is no disruption to citizen services, and citizens’ data entrusted
   to the Government is protected.
-image: /images/og-image/Cybersecurity-OG-Image.jpg
+image: /images/og-image/cybersecurity-og-image.jpg
 ---
 # Cybersecurity In The Public Sector
 

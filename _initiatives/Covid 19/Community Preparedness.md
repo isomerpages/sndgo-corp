@@ -8,7 +8,7 @@ description: Rolling out digital services to help with the management and
 image: /images/covid-19/covid-public-health-solutions.jpg
 third_nav_title: Covid 19
 ---
-![Community Preparedness](/images/covid-19/Covid-Public-Health-Solutions.jpg)
+![Community Preparedness](/images/covid-19/covid-public-health-solutions.jpg)
 
 Rolling out digital services to help with the management and containment of the virus was essential. The services had to be implemented keeping in mind that we will have to live with COVID-19 over the next few years. With the following solutions, we believe we can boost community preparedness and confidence to manage and pull through this challenging time.
 

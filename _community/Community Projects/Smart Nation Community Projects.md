@@ -3,7 +3,7 @@ title: Smart Nation Community Projects
 permalink: /community/community-projects/overview/
 description: Check this out.
 third_nav_title: Community Projects
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 
 

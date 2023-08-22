@@ -5,7 +5,7 @@ description: As Singapore moves towards becoming a Smart Nation, we want to make
   sure that everyone in our society joins us in this journey. Find out more
   about the Government initiatives available to assist the different groups of
   people.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 ![Opportunities & help for the community](/images/community/headerimages/opportunities-help.png)
 

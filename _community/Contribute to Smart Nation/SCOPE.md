@@ -3,7 +3,7 @@ title: SCOPE
 permalink: /community/scope/
 description: The SCOPE survey tool gathers feedback from the public on test
   prototypes and new digital services.
-image: /images/community/sna/SmartNationAmbassador01.jpg
+image: /images/community/sna/smartnationambassador01.jpg
 third_nav_title: Contribute to Smart Nation
 ---
 # Smart Nation Co-Creating with Our People Everywhere (SCOPE)

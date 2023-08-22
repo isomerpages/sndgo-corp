@@ -7,7 +7,7 @@ description: With the help of the digital contact tracing tools – TraceTogethe
 image: /images/covid-19/covid-contact-tracing.jpg
 third_nav_title: Covid 19
 ---
-![Digital Contact Tracing](/images/covid-19/Covid-Contact-Tracing.jpg)
+![Digital Contact Tracing](/images/covid-19/covid-contact-tracing.jpg)
 
 Digital contact tracing solutions had to be swiftly conceptualised and implemented as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
 

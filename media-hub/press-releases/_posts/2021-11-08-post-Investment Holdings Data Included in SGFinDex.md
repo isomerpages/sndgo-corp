@@ -6,7 +6,7 @@ layout: post
 description: Individuals can now view information on their  investment holdings
   at The Central Depository (CDP) as part of their consolidated
   financial  position.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 
 

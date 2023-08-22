@@ -12,7 +12,7 @@ image: /images/initiatives/cetran-test-circuit.jpg
 
 # Cetran
 
-![CETRAN Test Circuit](/images/initiatives/CETRAN-test-circuit.jpg)
+![CETRAN Test Circuit](/images/initiatives/cetran-test-circuit.jpg)
 
 Self-driving vehicles (SDVs) may be one for the future but getting them on our roads safely requires adequate testing and research today.
 

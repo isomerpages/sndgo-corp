@@ -5,7 +5,7 @@ third_nav_title: Strategic National Projects
 description: Core Operations Development Environment and eXchange (CODEX) is a
   shared digital platform between government agencies and private sectors to
   develop better, faster and more cost-effective digital services.
-image: /images/initiatives/Codex-snp.jpeg
+image: /images/initiatives/codex-snp.jpeg
 ---
 # Sharing Resources to Develop Digital Services For Citizens 
 

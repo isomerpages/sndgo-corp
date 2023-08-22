@@ -4,7 +4,7 @@ permalink: /about-smart-nation/digital-society/
 description: A Digital Society empowers everyone with a fair chance of
   succeeding despite their differences or circumstances.
 third_nav_title: Our Key Pillars
-image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
+image: /images/og-image/smart-nation-pillars-og-image.jpg
 ---
 # Digital Society
 ![Digital Society](/images/covid-19/smart-nation-ambassador_tracetogether-01.jpg)

@@ -6,7 +6,7 @@ layout: post
 description: An important line of defence against scams is a vigilant public
   with the know-how to recognise legitimate Government websites and URL links
   sent by agencies.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 ## Fight Scams. Be Aware.
 
