@@ -44,8 +44,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: Transforming Singapore Through Technology
-staging: https://smartnationsg-staging.netlify.app
-prod: https://smartnationsg-prod.netlify.app
+staging: https://staging.d2udl6pjsi4kjp.amplifyapp.com/
+prod: https://master.d2udl6pjsi4kjp.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
