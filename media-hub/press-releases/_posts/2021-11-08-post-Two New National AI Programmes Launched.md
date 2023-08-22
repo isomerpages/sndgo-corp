@@ -105,7 +105,7 @@ AI is a transformative technology that will enable Singapore to push the boundar
 
 **Annex**
 
-[Annex A - National AI Strategy Update](/files/press-releases/2021/Annex%20A%20National%20AI%20Strategy%20Update.pdf)
+[Annex A - National AI Strategy Update](/files/press-releases/2021/annex%20a%20national%20ai%20strategy%20update.pdf)
 
 ---
 

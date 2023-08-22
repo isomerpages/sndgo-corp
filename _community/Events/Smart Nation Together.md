@@ -7,7 +7,7 @@ third_nav_title: Events
 image: /images/og-image/SNT-Website-OG-Image-b.jpg
 ---
 # #SmartNationTogether 
-![#SmartNationTogether](/images/community/events/SNT%20Image.jpg)
+![#SmartNationTogether](/images/community/events/snt%20image.jpg)
 
 #SmartNationTogether is an online channel featuring tech-related talks and workshops for working adults and seniors.
 

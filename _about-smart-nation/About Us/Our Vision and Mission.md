@@ -8,7 +8,7 @@ third_nav_title: About Us
 image: /images/og-image/Smart-Nation-OG-Image.jpg
 ---
 
-![Vision and Mission](/images/abt-smart-nation/Milestones.jpg)
+![Vision and Mission](/images/abt-smart-nation/milestones.jpg)
 
 # Our Vision
 

@@ -30,13 +30,13 @@ _______
 
 <br>
 
-<div style="width:75%"><img src="/images/media-hub/press-release/2023/Outgoing_CE_GovTech_2023.jpg" alt="Mr Kok Ping Soon"></div>
+<div style="width:75%"><img src="/images/media-hub/press-release/2023/outgoing_ce_govtech_2023.jpg" alt="Mr Kok Ping Soon"></div>
 
 **Mr Kok Ping Soon (郭柄汛)**<br>
 Outgoing CE,<br>
 Government Technology Agency of Singapore
 
-<div style="width:75%"><img src="/images/media-hub/press-release/2023/Incoming_CE_GovTech_2023.jpg" alt="Mr Goh Wei Boon"></div>
+<div style="width:75%"><img src="/images/media-hub/press-release/2023/incoming_ce_govtech_2023.jpg" alt="Mr Goh Wei Boon"></div>
 
 **Mr Goh Wei Boon (吴伟文)**<br>
 Incoming CE,<br>

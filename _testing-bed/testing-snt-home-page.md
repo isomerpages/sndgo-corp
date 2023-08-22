@@ -12,4 +12,4 @@ We have a wide array of workshops available for you to learn more. Whether you a
 
 <br>
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:50%;height:50%;"><a href="https://together.smartnation.gov.sg/"><img alt="View Programmes" src="/images/community/View-Programmes.png"></a></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:50%;height:50%;"><a href="https://together.smartnation.gov.sg/"><img alt="View Programmes" src="/images/community/view-programmes.png"></a></div></div>

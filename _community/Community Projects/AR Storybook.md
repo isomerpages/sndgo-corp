@@ -90,7 +90,7 @@ My Favourite Days is available for loan at all [National Library Board](https:/
 You can also download a softcopy of the book below.
 
 <div style="width:30%"> 
- <a href="/files/publications/My-Favourite-Days-E-copy.pdf">My Favourite Days E-copy.pdf(3.6mb):<img src="/images/community/arstorybook/My-Favourite-Days-Cover.jpg" alt="My Favourite Days AR Storybook"></a>
+ <a href="/files/publications/my-favourite-days-e-copy.pdf">My Favourite Days E-copy.pdf(3.6mb):<img src="/images/community/arstorybook/my-favourite-days-cover.jpg" alt="My Favourite Days AR Storybook"></a>
 </div>
 
 

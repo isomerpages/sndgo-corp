@@ -14,7 +14,7 @@ third_nav_title: About Us
 ---
 # Smart Nation Digital Government Group
 
-![Smart Nation and Digital Government Office (SNDGO)](/images/abt-smart-nation/SNDGO_Office_01.jpg)
+![Smart Nation and Digital Government Office (SNDGO)](/images/abt-smart-nation/sndgo_office_01.jpg)
 
 The Smart Nation and Digital Government Office (SNDGO), under the <a href="https://www.pmo.gov.sg/" target="_blank">Prime Minister’s Office (PMO)</a>, plans and prioritises key Smart Nation projects and drives the digital transformation of our Government. It also builds long-term capabilities for the public sector, and promotes adoption and participation from the public and industry, to take a collective approach in building a Smart Nation.  
   

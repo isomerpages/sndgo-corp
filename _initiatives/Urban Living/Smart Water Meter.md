@@ -13,7 +13,7 @@ Collecting and analysing data on how we use water can go a long way towards help
 
 The smart water meters are designed to monitor, collect and make data on the use of water readily accessible for consumers via a web portal.
 
-<div style="width:100%"> <a href="https://www.pub.gov.sg/smartwatermeter/clientlib/resources/images/pdfs/How_Smart_Water_Meter_Works.pdf" target="_blank"><img style="border:1px solid black;" src="/images/initiatives/How_Smart_Water_Meter_Works.jpg">How the smart water meter works</a></div>
+<div style="width:100%"> <a href="https://www.pub.gov.sg/smartwatermeter/clientlib/resources/images/pdfs/How_Smart_Water_Meter_Works.pdf" target="_blank"><img style="border:1px solid black;" src="/images/initiatives/how_smart_water_meter_works.jpg">How the smart water meter works</a></div>
 
 <br><br>
 

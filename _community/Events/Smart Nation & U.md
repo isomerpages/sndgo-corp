@@ -42,7 +42,7 @@ third_nav_title: Events
 
 Themed “Reclaiming our Lives with Tech”, Smart Nation & U 2021 put together a series of panel discussions, roadshows and free online courses to support Singaporeans as they leverage technology to emerge stronger from the effects of COVID-19.
 
-Find out more about the event [here](/media-hub/press-releases/Smart-Nation-&-U-2021).
+Find out more about the event [here](/media-hub/press-releases/smart-nation-&-u-2021).
 
 ![Smart Nation & U 2021 - Panel](/images/community/events/snu-02.jpeg)
 

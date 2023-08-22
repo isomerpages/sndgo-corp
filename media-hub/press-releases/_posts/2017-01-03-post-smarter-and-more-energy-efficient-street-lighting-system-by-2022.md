@@ -17,7 +17,7 @@ Based on findings from trials[^1] which LTA conducted for medium-powered and hig
      
 Since 2014, LTA has installed LED lighting for approximately 4,000 street lights. LTA will be calling tenders to replace all 25,000 street lights in the Central area with LED street lights by 2019. Street lights in all other areas will be replaced with LED lighting by 2022.  
 
-Please refer to the [Annex (170kb)](/files/press-releases/2017/20170103-LEDLightingTrialLocs.pdf) for photographs of LED lighting at the trial locations, and the implementation timeline for LED lighting across Singapore.
+Please refer to the [Annex (170kb)](/files/press-releases/2017/20170103-ledlightingtriallocs.pdf) for photographs of LED lighting at the trial locations, and the implementation timeline for LED lighting across Singapore.
 
 ### New Remote Control and Monitoring System
 

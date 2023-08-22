@@ -15,7 +15,7 @@ image: ""
 The Government Technology Agency (GovTech) commissioned the Government Cyber Security Operations Centre (GCSOC) in 2022 to strengthen our monitoring and defence against cyber threats to Singapore government systems. GCSOC replaces the Cyber-
 Watch Centre[^1] (CWC), which was established in 2007, and currently comprises 60 staff.
 
-![Government Cyber Security Operations Centre](/images/media-hub/press-release/2023/GSOC_01.jpg)
+![Government Cyber Security Operations Centre](/images/media-hub/press-release/2023/gsoc_01.jpg)
 
 GCSOC aims to better secure the Government’s evolving Information and Communications Technology (ICT) infrastructure, and guard against threats more effectively. It centralises cybersecurity operations across government agencies, and better leverages technologies in artificial intelligence and machine learning to enhance security analytics.
 
@@ -37,7 +37,7 @@ As GCSOC deploys and utilises enhanced security analytics, its pool of cyber spe
 
 GCSOC has shortened the incident response time of Government agencies’ by providing central support for triage and incident investigation. As part of the GCSOC set-up, the Government IT Security Incident Response[^2] (GITSIR) team is also integrated to allow for a more tightly knitted investigation and response workflow.
 
-![Government Cyber Security Operations Centre](/images/media-hub/press-release/2023/GSOC_02.jpg)
+![Government Cyber Security Operations Centre](/images/media-hub/press-release/2023/gsoc_02.jpg)
 
 GCSOC will continue to augment our detection and response capability by strengthening our
 coordination with agencies, upskilling our cyber specialists pool and investing in data

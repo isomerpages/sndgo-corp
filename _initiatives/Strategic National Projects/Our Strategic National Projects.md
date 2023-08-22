@@ -10,7 +10,7 @@ image: /images/og-image/Strategic-National-Project-OG-Image.jpg
 
 # Strategic National Projects
 
-![Smart Nation Strategic National Projects](/images/abt-smart-nation/Strategic_National_Projects.jpg)
+![Smart Nation Strategic National Projects](/images/abt-smart-nation/strategic_national_projects.jpg)
 
 Singapore is engineering its transformation into a Smart Nation – byte by byte, system by system. These Strategic National Projects are the foundation for turning this vision into reality.  
 

@@ -8,4 +8,4 @@ layout: post
 * [Government’s Key Personal Data Protection Policies -  Jul 2021 (2.9mb)](/files/publications/government-personal-data-protection-policies-jul21.pdf)
 
 **2020**
-* [Government’s Key Personal Data Protection Policies - April 2020  (5.8mb)](/files/publications/government-personal-data-protection-policies-Apr2020.pdf)
+* [Government’s Key Personal Data Protection Policies - April 2020  (5.8mb)](/files/publications/government-personal-data-protection-policies-apr2020.pdf)

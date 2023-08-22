@@ -27,7 +27,7 @@ _______
 
 #### Annexes
 
-[Annex A: Full List of Interactive Stations](/files/press-releases/2022/Annex%20A%20-%20Full%20List%20of%20Interactive%20Stations%20-%20Smart%20Nation%20Builder.pdf)
+[Annex A: Full List of Interactive Stations](/files/press-releases/2022/annex%20a%20-%20full%20list%20of%20interactive%20stations%20-%20smart%20nation%20builder.pdf)
 
 _______
 

@@ -69,7 +69,7 @@ The task of building a Smart Nation is never complete. As we embark on the next 
 
 * Factsheet - [Government Cyber Security Operations Centre (GCSOC)](/media-hub/press-releases/gcsoc-factsheet/)
 * Factsheet - [Jurong Lake District Innovation Challenge](/media-hub/press-releases/jldinnovationchallenge-factsheet/)
-* Infographic - [Smart Nation Today and Beyond (COS 2023)](/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf)
+* Infographic - [Smart Nation Today and Beyond (COS 2023)](/files/press-releases/2023/cos%202023%20infographic%20-%20smart%20nation%20today%20and%20beyond.pdf)
 
 ---
 

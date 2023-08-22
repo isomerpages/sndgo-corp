@@ -10,7 +10,7 @@ image: /images/initiatives/overview-pages/healthhub.png
 ---
 # Your Health at Your Fingertips
 
-![HealthHub](/images/initiatives/HealthHub-web.jpg)
+![HealthHub](/images/initiatives/healthhub-web.jpg)
 
 HealthHub is a Singaporeans’ “digital healthcare companion”, providing one-stop access to their personal medical records, links to healthcare services and institutions and related information and tools so they can take control of their health.  
   

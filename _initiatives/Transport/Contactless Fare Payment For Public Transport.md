@@ -23,7 +23,7 @@ The Land Transport Authority (LTA) has integrated this useful tech into an accou
 SimplyGo, launched in April 2019, lets commuters pay for their transport fares by scanning their mobile phones or smartwatches. The fare is deducted automatically from their linked mobile wallets or contactless bank cards. Convenient!
 
 ## The SimplyGo Journey
-![SimplyGo logo](/images/initiatives/SimplyGo-Logo.png)
+![SimplyGo logo](/images/initiatives/simplygo-logo.png)
 
 Here are the SimplyGo milestones:
 

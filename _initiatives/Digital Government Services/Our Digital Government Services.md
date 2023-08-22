@@ -43,14 +43,14 @@ To empower citizens to live, work, play, interact and transact better with each 
 <div class="row">
 
 <div class="col"> 
-<a href="/initiatives/Digital-Government-Services/CrowdTaskSG/"><img src="/images/initiatives/Crowdtasksg-01.jpg" alt="CrowdTaskSG"></a><br>
+<a href="/initiatives/digital-government-services/crowdtasksg/"><img src="/images/initiatives/crowdtasksg-01.jpg" alt="CrowdTaskSG"></a><br>
     <div class="header"><b>CrowdTaskSG</b></div><br>
     <div class="para">CrowdTaskSG is a web portal for government agencies in Singapore to engage citizens and gather insights through crowdsourcing tasks.
 </div>
 <br></div>	
 	
 <div class="col"> 
-<a href="/initiatives/Digital-Government-Services/digital-birth-and-death-certs"><img src="/images/initiatives/overview-pages/digital-birth-death-cert.jpg" alt="Digital Birth and Death Certificates"></a><br>
+<a href="/initiatives/digital-government-services/digital-birth-and-death-certs"><img src="/images/initiatives/overview-pages/digital-birth-death-cert.jpg" alt="Digital Birth and Death Certificates"></a><br>
     <div class="header"><b>Digital Birth and Death Certificates</b></div><br>
     <div class="para">Parents of newborns and next-of-kin of the deceased can download and store digital certificates on their personal mobile devices and laptops.  
 </div>
@@ -96,14 +96,14 @@ To empower citizens to live, work, play, interact and transact better with each 
 <div class="row">
 
 <div class="col">
-<a href="/initiatives/Digital-Government-Services/sg-translate-together/"><img src="/images/initiatives/sgtranslate-01.jpg" alt="SG Translate Together"></a><br>
+<a href="/initiatives/digital-government-services/sg-translate-together/"><img src="/images/initiatives/sgtranslate-01.jpg" alt="SG Translate Together"></a><br>
     <div class="header"><b>SG Translate Together</b></div><br>
     <div class="para">SG Translate Together is a web portal that allows users to generate localised translations
 </div>
 	<br></div>
 	
 <div class="col">
-<a href="/initiatives/Digital-Government-Services/sg-govt-dev-portal/"><img src="/images/initiatives/sgdeveloperportal-01.jpg" alt="Singapore Government Developer Porta"></a><br>
+<a href="/initiatives/digital-government-services/sg-govt-dev-portal/"><img src="/images/initiatives/sgdeveloperportal-01.jpg" alt="Singapore Government Developer Porta"></a><br>
     <div class="header"><b>SG Government Developer Portal</b></div><br>
     <div class="para">A one-stop resource hub for government digital products and services.
 </div>

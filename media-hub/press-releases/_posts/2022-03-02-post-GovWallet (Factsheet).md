@@ -37,7 +37,7 @@ To provide even more spending options for citizens, the GovWallet team is lookin
 
 #### Annex A: Screenshot of the GovWallet feature
 
-<div style="width:50%;"><img src="/images/media-hub/press-release/2022/Screenshot-of-the-GovWallet-feature.jpg" alt="Screenshot of the GovWallet feature."></div>
+<div style="width:50%;"><img src="/images/media-hub/press-release/2022/screenshot-of-the-govwallet-feature.jpg" alt="Screenshot of the GovWallet feature."></div>
 
 ---
 

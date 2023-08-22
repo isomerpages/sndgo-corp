@@ -8,7 +8,7 @@ description: In Singapore, the Data Innovation Programme Office (DIPO) helps to
 image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
 ---
 # Innovation at the Heart of our Economy
-![Data innovation programme office](/images/initiatives/DIPO.jpg)
+![Data innovation programme office](/images/initiatives/dipo.jpg)
 
 Data is a precious asset with the potential to inspire innovation that can transform our startup and business landscape. As our Digital Economy becomes more seamless and connected, there is a need for a structured, transparent and flexible ecosystem for data-sharing and collaboration.
 

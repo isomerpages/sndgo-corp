@@ -5,7 +5,7 @@ description: Many different issues and concerns arose as a result of the
   pandemic. Due to the economic crisis, jobs were lost or salaries reduced.
   Students had to settle for home-based learning. As such, platforms were
   quickly set up to assist with the various changes.
-image: /images/covid-19/Covid-Social-and-Economic-Support.jpg
+image: /images/covid-19/covid-social-and-economic-support.jpg
 third_nav_title: Covid 19
 ---
 ![Economic and Social Support](/images/covid-19/Covid-Social-and-Economic-Support.jpg)

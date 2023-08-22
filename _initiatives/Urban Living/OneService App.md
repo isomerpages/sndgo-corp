@@ -58,7 +58,7 @@ There are more than 350,000 users on the OneService app as of May 31, 2021. More
 #### Download the OneService App 
 
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:25%"><a href="https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+         <div style="flex:25%"><a href="https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/google-play.png"></a>
           </div>
-          <div style="flex:25%;"><a href="https://apps.apple.com/sg/app/oneservice/id947274394" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+          <div style="flex:25%;"><a href="https://apps.apple.com/sg/app/oneservice/id947274394" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/apple-store.png"></a>
           </div>

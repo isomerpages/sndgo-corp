@@ -23,7 +23,7 @@ Smart Nation & U 2021 was conceptualised following SNDGO’s Emerging Stronger C
 
 Smart Nation & U is also part of the Memorandum of Understanding signed between SNDGO and NTUC in 2019 to engage and educate workers, their families and the wider community on the benefits of incorporating technology into their daily lives. The inaugural Smart Nation & U in 2019 included tech showcases, talks and workshops to engage the public to learn about the innovative ways in which technology can improve how we live, work and play. Building on the previous edition of Smart Nation & U, this year’s event has been significantly scaled up, to focus on providing businesses and workers with opportunities and skillsets to pivot in the midst of accelerated digitalisation.
 
-More details on Smart Nation & U 2021 can be found in  [Annex A (pdf 180kb)](/files/press-releases/2021/SNU-2021-factsheet.pdf).
+More details on Smart Nation & U 2021 can be found in  [Annex A (pdf 180kb)](/files/press-releases/2021/snu-2021-factsheet.pdf).
 
 ---
 **For media enquiries, please contact:**  

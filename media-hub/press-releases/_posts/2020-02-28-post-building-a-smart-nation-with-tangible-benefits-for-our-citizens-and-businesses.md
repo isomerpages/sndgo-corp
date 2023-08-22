@@ -74,17 +74,17 @@ Smart Nation is about the continual transformation and renewal of our nation, fo
 
 **Media Factsheets:**
 
-[Factsheet - Responding to COVID-19 with Technology (pdf - 80kb)](/files/press-releases/2020/factsheet-responding-to-covid-19-with-technology-28Feb20.pdf)
+[Factsheet - Responding to COVID-19 with Technology (pdf - 80kb)](/files/press-releases/2020/factsheet-responding-to-covid-19-with-technology-28feb20.pdf)
 
-[Factsheet - Moments of Life (pdf - 80kb)](/files/press-releases/2020/factsheet-moments-of-life-28Feb20.pdf)
+[Factsheet - Moments of Life (pdf - 80kb)](/files/press-releases/2020/factsheet-moments-of-life-28feb20.pdf)
 
-[Factsheet - DigiMC (pdf - 110kb)](/files/press-releases/2020/factsheet-digimc-28Feb20.pdf)
+[Factsheet - DigiMC (pdf - 110kb)](/files/press-releases/2020/factsheet-digimc-28feb20.pdf)
 
-[Factsheet - GoBusiness (pdf - 90kb)](/files/press-releases/2020/factsheet-gobusiness-28Feb20.pdf)
+[Factsheet - GoBusiness (pdf - 90kb)](/files/press-releases/2020/factsheet-gobusiness-28feb20.pdf)
 
-[Factsheet - National Digital Identity (pdf - 100kb)](/files/press-releases/2020/factsheet-national-digital-identity-28Feb20.pdf)
+[Factsheet - National Digital Identity (pdf - 100kb)](/files/press-releases/2020/factsheet-national-digital-identity-28feb20.pdf)
 
-[Factsheet - Smart Nation Showcases (pdf - 70kb)](/files/press-releases/2020/factsheet-smart-nation-showcases-28Feb20.pdf)
+[Factsheet - Smart Nation Showcases (pdf - 70kb)](/files/press-releases/2020/factsheet-smart-nation-showcases-28feb20.pdf)
 
 ---
 

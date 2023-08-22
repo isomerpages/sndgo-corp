@@ -57,8 +57,8 @@ With SGFinDex, individuals can use their Singpass to retrieve their personal fin
 
 ### Why should you use SGFinDex?
 
-![SGFinDex](/images/initiatives/SGFinDex-why.jpg)
+![SGFinDex](/images/initiatives/sgfindex-why.jpg)
 
 ### What are the financial data that can be consolidated on SGFinDex?
 
-![SGFinDex](/images/initiatives/SGFinDex-what.jpg)
+![SGFinDex](/images/initiatives/sgfindex-what.jpg)

@@ -8,7 +8,7 @@ description: We envision Singapore to be a world-class city, a leading economy
 image: /images/og-image/About-SNDGG-OG-Image.jpg
 ---
 # Help Remake Singapore into a Smart Nation 
-![Smart Nation and Digital Government Office](/images/abt-smart-nation/SNDGO_Office_01.jpg)
+![Smart Nation and Digital Government Office](/images/abt-smart-nation/sndgo_office_01.jpg)
 
 We envision Singapore to be a world-class city, a leading economy and an inclusive society where everyone benefits from the latest developments in technology.
 

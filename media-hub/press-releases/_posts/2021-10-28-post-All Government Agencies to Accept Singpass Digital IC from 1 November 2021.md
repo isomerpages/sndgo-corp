@@ -57,7 +57,7 @@ Email: Serene_CHAN@tech.gov.sg
 
 | **Singapore Citizen**	 | **Permanent Resident** | **Long Term Pass Holder**[^3] |
 | -------- | -------- | -------- |
-| ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Singapore%20Citizen.png)     | ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Permanent%20Resident.png)    | ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Long%20Term%20Pass%20Holder.png)     |
+| ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/annex%20a%20-%20singapore%20citizen.png)     | ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/annex%20a%20-%20permanent%20resident.png)    | ![Alt text for image on Isomer site](/images/media-hub/press-release/2021/annex%20a%20-%20long%20term%20pass%20holder.png)     |
 
 **Note:** <br>Singpass displays the user’s latest photograph provided to the Government on the Digital IC, providing a higher accuracy when comparing likeness in person.
 
@@ -76,7 +76,7 @@ Email: Serene_CHAN@tech.gov.sg
 ---
 
 **Related Resources**<br>
-* [Media Factsheet on Singpass (National Digital Identity)](/files/press-releases/2021/Media%20Factsheet%20on%20Singpass%20National%20Digital%20Identity.pdf)
+* [Media Factsheet on Singpass (National Digital Identity)](/files/press-releases/2021/media%20factsheet%20on%20singpass%20national%20digital%20identity.pdf)
 
 ---
 

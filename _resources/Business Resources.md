@@ -9,7 +9,7 @@ Venturing into a new business or running an existing one can be fraught with cha
 
 So whether you’re just starting out or looking to expand your operations, we want to help you along this entrepreneurial journey. Below are some resources you should check out.
 
-<div style="width:100%;display:flex;justify-content:center;"><a href="https://www.gobusiness.gov.sg/e-services/guides-for-biz/"><img src="/images/resources/e-Adviser.jpg" alt="e-adviser banner"></a></div>
+<div style="width:100%;display:flex;justify-content:center;"><a href="https://www.gobusiness.gov.sg/e-services/guides-for-biz/"><img src="/images/resources/e-adviser.jpg" alt="e-adviser banner"></a></div>
 
 ## <a href="https://www.imda.gov.sg/accreditation">Accreditation@SGD</a>
 

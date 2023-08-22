@@ -79,7 +79,7 @@ If your answer is yes and yes, come apply for the Smart Nation Scholarship. Offe
 
 The Smart Nation Scholarship gives talented individuals the opportunity to start a dynamic career in technology to contribute towards the public good. 
 
-![Smart Nation Scholarship Pathways](/images/careers/Smart-Nation-Scholarship.jpg)
+![Smart Nation Scholarship Pathways](/images/careers/smart-nation-scholarship.jpg)
 
 At the point of application, you can indicate or rank your preference of the three agencies. When offered, you can only accept one scholarship offer from the agency of your choice. During the course of your study, you will have internship opportunities with your sponsoring agency and possibly other organisations to experience the work culture and be exposed to challenging tech projects. Upon graduation, you will gain direct admission into a talent programme within your sponsoring agency for fast-tracked career development, where you will be groomed for leadership positions and take on key roles in national projects.
 
@@ -118,7 +118,7 @@ What the Smart Nation Scholarship covers:
 
 The application period is from September to April each year. Head over to the Smart Nation Scholarship website <a href="http://go.gov.sg/smartnationscholarship" target="_blank">go.gov.sg/smartnationscholarship</a> for the full details or email scholarship@smartnation.gov.sg.
 
-![Smart Nation Scholarship](/images/careers/SN-scholarship-banner.jpg)
+![Smart Nation Scholarship](/images/careers/sn-scholarship-banner.jpg)
 
 <br>
 

@@ -12,7 +12,7 @@ third_nav_title: Contribute to Smart Nation
 
 Tech Kaki was set up by GovTech in end-2016 to engage a citizen community in the development process of our digital products and services, ensuring that these are designed to meet the needs of citizens and businesses. 
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:300px;"><img src="/images/community/TechKaki/TechKaki_Logo.png" alt="SCOPE"></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:300px;"><img src="/images/community/techkaki/techkaki_logo.png" alt="SCOPE"></div></div>
 
 The Tech Kaki end-user community is made up of members from all walks of life, who are motivated to help create tech for public good. They work alongside GovTech teams in focus group discussions and user-testing sessions, etc., to provide feedback on digital products and services that are being developed.
 

@@ -10,7 +10,7 @@ layout: post
 
 As part of the National Artificial Intelligence (AI) Strategy, the Municipal Services Office (MSO) and the Smart Nation and Digital Government Group (SNDGG) have launched the AI-powered OneService Chatbot on WhatsApp and Telegram.
 
-The OneService Chatbot allows residents to easily report municipal issues on the go via WhatsApp and Telegram. Residents can start a conversation with the Chatbot by texting “Hi” to  **+65 9821 9004**  (WhatsApp) or  **@OneServiceSG Bot**  (Telegram), or use the weblinks and QR codes to connect with the Chatbot ([Annex A (65kb)](/files/press-releases/2021/Press-Release-Launch-of-OneService-Chatbot-annex-a.pdf)). Residents are encouraged to add the Chatbot to their contacts list, for easier reference when needed.
+The OneService Chatbot allows residents to easily report municipal issues on the go via WhatsApp and Telegram. Residents can start a conversation with the Chatbot by texting “Hi” to  **+65 9821 9004**  (WhatsApp) or  **@OneServiceSG Bot**  (Telegram), or use the weblinks and QR codes to connect with the Chatbot ([Annex A (65kb)](/files/press-releases/2021/press-release-launch-of-oneservice-chatbot-annex-a.pdf)). Residents are encouraged to add the Chatbot to their contacts list, for easier reference when needed.
 
 ### Bringing more convenience to residents through AI
 
@@ -20,7 +20,7 @@ To make it even more convenient and accessible for residents to report feedback 
 
 Currently, members of the public can provide feedback on municipal issues using the OneService App. Users lodge a case by selecting from a list of issues to provide feedback on, and fill in information fields such as date, time and location, in a structured manner. In contrast, the Chatbot, built on GovTech’s VICA platform, utilises AI to predict the nature of the feedback being reported based on a user’s initial simple description. Therefore, the user is not required to classify the feedback into predetermined categories at the outset. Residents who are unable to fit their feedback into existing OneService App reporting categories can use the Chatbot to make a report instead.
 
-The Chatbot guides the residents to provide the relevant information, in real-time conversational manner, to ensure that the feedback is comprehensively logged. The feedback will be automatically routed to the agency-in-charge of the issue based on text, geo-location and images submitted by the resident.[^1] Screenshots of the Chatbot interface can be found in [Annex B (1.8mb).](/files/press-releases/2021/Press-Release-Launch-of-OneService-Chatbot-annex-b.pdf)
+The Chatbot guides the residents to provide the relevant information, in real-time conversational manner, to ensure that the feedback is comprehensively logged. The feedback will be automatically routed to the agency-in-charge of the issue based on text, geo-location and images submitted by the resident.[^1] Screenshots of the Chatbot interface can be found in [Annex B (1.8mb).](/files/press-releases/2021/press-release-launch-of-oneservice-chatbot-annex-b.pdf)
 
 Prior to this “beta” launch, MSO and GovTech conducted user trials involving 450 participants. The participants generally found the Chatbot easy to use and accurate at identifying the crux of the municipal issue being surfaced. MSO and GovTech have refined the Chatbot based on this and other useful feedback. For example, adjusting the text exchanges for clarity, and retraining the AI model to improve accuracy of predictions.
 
@@ -28,7 +28,7 @@ Prior to this “beta” launch, MSO and GovTech conducted user trials involving
 
 As part of this “beta” launch, MSO will also be holding a Chatbot design competition to determine the “personality” of the OneService Chatbot. Participants will submit an artwork of an avatar / character, with an accompanying write-up about the avatar / character (e.g. personality, quirks). The winning entry will be awarded $600 worth of shopping vouchers and will have their submission adopted as the “personality” of the Chatbot. We look forward to receiving ideas from residents on the type of Chatbot personality that they would like to see and interact with. The competition is open to all residents.
 
-Further details on the submission requirements and application process can be found at  [Annex C (37kb.)](/files/press-releases/2021/Press-Release-Launch-of-OneService-Chatbot-annex-c.pdf)
+Further details on the submission requirements and application process can be found at  [Annex C (37kb.)](/files/press-releases/2021/press-release-launch-of-oneservice-chatbot-annex-c.pdf)
 
 ---------- 
 

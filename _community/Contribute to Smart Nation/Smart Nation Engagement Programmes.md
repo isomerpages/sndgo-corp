@@ -3,7 +3,7 @@ title: Smart Nation Engagement Programmes
 permalink: /community/contribute-to-smart-nation/
 description: Help us make services more accessible and convenient for all Singaporeans.
 third_nav_title: Contribute to Smart Nation
-image: /images/community/sna/SmartNationAmbassador01.jpg
+image: /images/community/sna/smartnationambassador01.jpg
 ---
 # Let’s co-create our Smart Nation together
 
@@ -28,7 +28,7 @@ Come join us through the following programmes and platforms.
 </div><div class="row">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="/community/SCOPE"><img src="/images/community/sna/SmartNationAmbassador01.jpg" alt="Smart Nation Co-creating with Our People Everywhere (SCOPE)"></a><br><div class="header"><b>SCOPE</b></div><br><br>The SCOPE survey tool gathers feedback from the public on test prototypes and new digital services. This gives the engineering teams direct feedback on user needs and preferences, so that we can make digital government more accessible and convenient for citizens.
+<a href="/community/scope"><img src="/images/community/sna/SmartNationAmbassador01.jpg" alt="Smart Nation Co-creating with Our People Everywhere (SCOPE)"></a><br><div class="header"><b>SCOPE</b></div><br><br>The SCOPE survey tool gathers feedback from the public on test prototypes and new digital services. This gives the engineering teams direct feedback on user needs and preferences, so that we can make digital government more accessible and convenient for citizens.
 	<br><br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;">

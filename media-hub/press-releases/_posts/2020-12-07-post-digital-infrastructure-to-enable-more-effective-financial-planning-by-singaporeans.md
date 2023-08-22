@@ -34,7 +34,7 @@ Samuel Tsien, Chairman, ABS and Group CEO of OCBC Bank, said, “Banks in Singap
 
 ----------
 
-* [Annex - Quotes from participants (pdf - 307kb)](/files/press-releases/2020/SGfindex-annex-quotes-from-participants.pdf)
+* [Annex - Quotes from participants (pdf - 307kb)](/files/press-releases/2020/sgfindex-annex-quotes-from-participants.pdf)
 * [SGFinDex Infographic (pdf - 215kb)](/files/press-releases/2020/sgfindex-infographic-dec-2020.pdf)
 
 ---

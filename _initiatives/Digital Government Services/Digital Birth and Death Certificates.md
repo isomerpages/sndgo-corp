@@ -15,8 +15,8 @@ The registration of death will also be streamlined such that bereaved family mem
 
 # Digital Birth Certificate
 
-![Birth Registration Process](/images/initiatives/Birth-Registration-Process.jpg)
+![Birth Registration Process](/images/initiatives/birth-registration-process.jpg)
 
 # Digital Death Certificate
 
-![Death Registration Process](/images/initiatives/Death-Registration-Process.jpg)
+![Death Registration Process](/images/initiatives/death-registration-process.jpg)

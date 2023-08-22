@@ -6,7 +6,7 @@ description: See how we have progressed as a Smart Nation.
 image: /images/og-image/Achievements-OG-Image.jpg
 ---
 # Our Achievements 
-![Our Smart Nation Achievements](/images/abt-smart-nation/Achievements.jpg)
+![Our Smart Nation Achievements](/images/abt-smart-nation/achievements.jpg)
 
 * [2023: Singapore named Top Asian City in the 2023 IMD Smart City Index](#singapore-named-top-asian-city-in-the-2023-imd-smart-city-index)
 * [2022: Singapore ranked among Top 5 global economies in the IMD World Digital Competitiveness Ranking 2022](#singapore-ranked-among-top-5-global-economies-in-imd-world-digital-competitiveness-ranking-2022)
@@ -61,7 +61,7 @@ Published by Swiss business school Institute of Management Development (IMD) and
 
 Click on the link to find out more about the <a href="https://www.imd.org/news/updates/data-shows-effects-of-covid-and-climate-change-on-citizens-perceptions-of-how-smart-their-cities-are/" target="_blank">2021 IMD-SUTD Smart City Index</a>.
 
-![IMD-SUTD Smart City Index 2021](/images/abt-smart-nation/Smart_City_Index_2021.jpg)
+![IMD-SUTD Smart City Index 2021](/images/abt-smart-nation/smart_city_index_2021.jpg)
 
 [Return to top](#our-achievements)
 

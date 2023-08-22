@@ -72,7 +72,7 @@ In collaboration with SMART, the team at NUS has designed working research proto
 The team also conducted its first public trials of self-driving vehicles at the Chinese and Japanese Gardens in October 2014. The team has retrofitted an electric passenger car- the second vehicle to be approved for more complex testing on our public roads - that has been tested at one-north since September 2015.
 
 #### nuTonomy
-![nuTonomy's self driving car](/images/initiatives/nuTonomy.jpg)
+![nuTonomy's self driving car](/images/initiatives/nutonomy.jpg)
 *(Image: nuTonomy)*
 
 An MIT/SMART spin-off, nuTonomy was the first private company to obtain approval for public road testing at one-north as of April 2016.

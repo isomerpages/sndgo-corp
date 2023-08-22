@@ -5,7 +5,7 @@ third_nav_title: Transport
 description: CETRAN places Singapore at the global forefront to develop
   international SDV standards as we test, certify, trial and deploy these
   vehicles on a large scale.
-image: /images/initiatives/CETRAN-test-circuit.jpg
+image: /images/initiatives/cetran-test-circuit.jpg
 ---
 
 

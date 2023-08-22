@@ -10,13 +10,13 @@ image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
 
 # Using Data for Urban Planning
 
-![Small Island, Big Needs](/images/initiatives/URA-1.jpg)
+![Small Island, Big Needs](/images/initiatives/ura-1.jpg)
 
 As a small city-state with a land area of just 728 sq km, land planning is crucial. To help with this, smart solutions enable us to use our space wisely for sustainable economic development, quality living and recreation for our people and businesses. 
 
 The Urban Redevelopment Authority (URA), as our land-use planning and conservation authority, has harnessed digital innovations to plan and make decisions based more on data. 
 
-![URA Analytics](/images/initiatives/URA-analytics.png)
+![URA Analytics](/images/initiatives/ura-analytics.png)
 
 ## Bringing Jobs Closer to Homes to Reduce Commute
 
@@ -34,7 +34,7 @@ To address the issue of Singapore’s aging population, similar evidence-based a
 
 ## COVID-19 Pandemic Response and Supporting a Robust Recovery
 
-![Space Out](/images/initiatives/Space-out.jpg)
+![Space Out](/images/initiatives/space-out.jpg)
 
 To prevent overcrowding at malls and recreational spaces, URA responded by working with stakeholders to develop a digital tool called Space Out, which helped the public make informed choices on when to head out without compromising safety.
 

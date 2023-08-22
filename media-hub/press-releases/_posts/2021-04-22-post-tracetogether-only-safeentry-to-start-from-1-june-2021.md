@@ -30,7 +30,7 @@ With the implementation of TT-only SE, we will remove the existing requirement f
 
 Essentially, TT-only SE check-ins will only be required in venues with a high throughput of people (e.g. malls, workplaces, places of worship, schools and educational institutions), as well as higher-risk venues where people are likely to be in close proximity for prolonged periods (e.g. dine-in food and beverage outlets and gyms).
 
-The full list of TT-only SE venues can be found in  [Annex A (pdf - 220kb)](/files/press-releases/2021/SNDGG-TT-Only-SE Implementation-Annex-A.pdf) and on the SE website ([www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/announcements#news-36)). To facilitate SE check-in with the TT Token, venue operators should download the SafeEntry (Business) App or set up the SafeEntry Gateway Box. More information on how venue operators can apply for the SafeEntry Gateway Box is available on the SE website ([www.safeentry.gov.sg](https://www.safeentry.gov.sg/)).
+The full list of TT-only SE venues can be found in  [Annex A (pdf - 220kb)](/files/press-releases/2021/sndgg-tt-only-se implementation-annex-a.pdf) and on the SE website ([www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/announcements#news-36)). To facilitate SE check-in with the TT Token, venue operators should download the SafeEntry (Business) App or set up the SafeEntry Gateway Box. More information on how venue operators can apply for the SafeEntry Gateway Box is available on the SE website ([www.safeentry.gov.sg](https://www.safeentry.gov.sg/)).
 
 ### Updating of TT App and TT Token Battery Replacement
 
@@ -44,7 +44,7 @@ By actively participating in the TT Programme and using SE, we can each play our
 
 **Annexes**
 
-* [TraceTogether-Only SafeEntry Implementation Annex B (pdf - 560kb)](/files/press-releases/2021/SNDGG-TT-Only-SE%20Implementation-Annex-B.pdf)
+* [TraceTogether-Only SafeEntry Implementation Annex B (pdf - 560kb)](/files/press-releases/2021/sndgg-tt-only-se%20implementation-annex-b.pdf)
 
 ---
 

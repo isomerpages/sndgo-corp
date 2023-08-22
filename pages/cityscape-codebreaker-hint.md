@@ -5,7 +5,7 @@ permalink: /cityscape-codebreaker-hint/
 
 # Smart Nation CityScape - Codebreaker Hint
 
-![Smart Nation Cityscape logo](/images/pages/Smart-nation-cityscape-logo.jpg)
+![Smart Nation Cityscape logo](/images/pages/smart-nation-cityscape-logo.jpg)
 
 
 ## **Here's a hint to help you decode the hidden message!**

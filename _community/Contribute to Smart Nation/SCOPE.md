@@ -34,7 +34,7 @@ Since 2018, 29 SCOPE surveys have been done, and more than 83,000 citizens have 
 
 <div class="row" style="padding: 20px 0px 20px 0px;">
 	<div class="col" style="padding: 20px 20px 20px 20px;">
-<a href="https://form.gov.sg/6285bd6c75101d00112e83ca"><img src="/images/community/scope/ARHDBMobileApp.jpg" alt="AR feature on Mobile@HDB"></a><br>
+<a href="https://form.gov.sg/6285bd6c75101d00112e83ca"><img src="/images/community/scope/arhdbmobileapp.jpg" alt="AR feature on Mobile@HDB"></a><br>
 		<span style="font-size:20px; font-weight: 700;"><b>Survey on AR feature on Mobile@HDB app</b></span><br><br>
 		<span style="font-size:18px;">Share your feedback on the new Augmented Reality feature in the Mobile@HDB app which allows residents to virtually place built-to-scale 3D models of improvement items like grab bars and ramps for Seniors offered under <a href="https://www.hdb.gov.sg/residential/living-in-an-hdb-flat/for-our-seniors/ease">HDB's Enhancements for Active Seniors (EASE) programme</a>.
 <br><br><i>This survey is for all seniors over the age of 50, or individuals who are caring for someone in that age group.</i>
