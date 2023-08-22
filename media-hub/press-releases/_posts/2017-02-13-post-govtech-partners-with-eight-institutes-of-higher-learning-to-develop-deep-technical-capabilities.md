@@ -2,7 +2,7 @@
 title: GovTech Partners with Eight Institutes of Higher Learning to Develop Deep
   Technical Capabilities
 date: 2017-02-13
-permalink: /media-hub/press-releases/govtech-partners-with-eight-institutes-of-higher-learning-to-develop-deep-technical-capabilities-in-students-to-help-build-a-smart-nation
+permalink: /media-hub/press-releases/govtech-partners-with-eight-institutes-of-higher-learning-to-develop-deep-technical-capabilities-in-students-to-help-build-a-smart-nation/
 layout: post
 ---
 ## GovTech Partners with Eight Institutes of Higher Learning to Develop Deep Technical Capabilities in Students to Help Build a Smart Nation

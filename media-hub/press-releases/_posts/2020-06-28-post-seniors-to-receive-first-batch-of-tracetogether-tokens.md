@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seniors To Receive First Batch Of TraceTogether Tokens
-permalink: /media-hub/press-releases/seniors-to-receive-first-batch-of-tracetogether-tokens
+permalink: /media-hub/press-releases/seniors-to-receive-first-batch-of-tracetogether-tokens/
 ---
 ## Seniors To Receive First Batch Of TraceTogether Tokens From 28 June 2020
 

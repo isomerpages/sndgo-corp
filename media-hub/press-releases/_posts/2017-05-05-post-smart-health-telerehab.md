@@ -1,7 +1,7 @@
 ---
 title: Smart Health TeleRehab
 date: 2017-05-05
-permalink: /media-hub/press-releases/smart-health-telerehab-to-improve-patient-access-to-rehabilitation-services-and-productivity-for-therapists
+permalink: /media-hub/press-releases/smart-health-telerehab-to-improve-patient-access-to-rehabilitation-services-and-productivity-for-therapists/
 layout: post
 ---
 ## Smart Health TeleRehab to Improve Patient Access to Rehabilitation Services and Productivity for Therapists

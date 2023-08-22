@@ -1,6 +1,6 @@
 ---
 title: FAQs on Smart Nation Ambassadors
-permalink: /community/smart-nation-ambassadors/faq
+permalink: /community/smart-nation-ambassadors/faq/
 description: Have a question on our Smart Nation Ambassador Programme? Check out our FAQs.
 image: /images/community/sna/SmartNationAmbassador01.jpg
 ---

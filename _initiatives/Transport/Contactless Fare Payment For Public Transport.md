@@ -1,6 +1,6 @@
 ---
 title: Contactless Fare Payment For Public Transport
-permalink: /initiatives/transport/contactless-fare-payment
+permalink: /initiatives/transport/contactless-fare-payment/
 third_nav_title: Transport
 description: "NFC technology has become such a big part of our daily lives. It
   allows us to transact seamlessly on the go via our mobile devices, electronic

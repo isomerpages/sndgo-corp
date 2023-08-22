@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Nation Innovations / Innovfest UnBound 2016
-permalink: /media-hub/speeches/smart-nation-innovations-innovfest-unbound-2016
+permalink: /media-hub/speeches/smart-nation-innovations-innovfest-unbound-2016/
 ---
 ## Opening Speech By Dr Vivian Balakrishnan, Minister For Foreign Affairs And Minister-in-Charge Of The Smart Nation Initiative At Smart Nation Innovations / Innovfest Unbound 2016 At Marina Bay Sands Expo And Convention Centre
 

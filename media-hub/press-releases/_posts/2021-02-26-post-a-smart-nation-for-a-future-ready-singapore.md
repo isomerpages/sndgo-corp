@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Smart Nation For A Future-Ready Singapore
-permalink: /media-hub/press-releases/a-smart-nation-for-a-future-ready-singapore
+permalink: /media-hub/press-releases/a-smart-nation-for-a-future-ready-singapore/
 ---
 ## A Smart Nation For A Future Ready Singapore
 

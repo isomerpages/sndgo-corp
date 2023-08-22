@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Call For Proposals To Develop NB-Iot-Enabled Advanced Electricity Meters
-permalink: /media-hub/press-releases/call-for-proposals-to-develop-nb-iot-enabled-advanced-electricity-meters
+permalink: /media-hub/press-releases/call-for-proposals-to-develop-nb-iot-enabled-advanced-electricity-meters/
 ---
 ## Call For Proposals To Develop NB-IoT-Enabled Advanced Electricity Meters
 

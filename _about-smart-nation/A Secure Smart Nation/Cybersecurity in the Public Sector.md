@@ -1,6 +1,6 @@
 ---
 title: Cybersecurity in the Public Sector
-permalink: /about-smart-nation/secure-smart-nation/cybersecurity-public-sector
+permalink: /about-smart-nation/secure-smart-nation/cybersecurity-public-sector/
 third_nav_title: A Secure Smart Nation
 description: Digital technologies and solutions need to be made secure to ensure
   that there is no disruption to citizen services, and citizens’ data entrusted

@@ -2,7 +2,7 @@
 layout: post
 title: Release Of Personal Details Necessary To Provide Public With Correct And
   Relevant Facts
-permalink: /media-hub/press-releases/release-of-personal-details-necessary-to-provide-public-with-correct-and-relevant-facts
+permalink: /media-hub/press-releases/release-of-personal-details-necessary-to-provide-public-with-correct-and-relevant-facts/
 ---
 ## Release Of Personal Details Necessary To Provide Public With Correct And Relevant Facts
 

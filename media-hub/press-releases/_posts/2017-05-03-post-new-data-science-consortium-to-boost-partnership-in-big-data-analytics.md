@@ -1,7 +1,7 @@
 ---
 title: New Data Science Consortium to Boost Partnership in Big Data Analytics
 date: 2017-05-03
-permalink: /media-hub/press-releases/new-data-science-consortium-to-boost-partnership-between-industry-and-researchers-in-big-data-analytics
+permalink: /media-hub/press-releases/new-data-science-consortium-to-boost-partnership-between-industry-and-researchers-in-big-data-analytics/
 layout: post
 ---
 

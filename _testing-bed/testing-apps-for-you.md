@@ -1,6 +1,6 @@
 ---
 title: Testing Apps For You
-permalink: /testing-bed/apps-for-you
+permalink: /testing-bed/apps-for-you/
 ---
 
 

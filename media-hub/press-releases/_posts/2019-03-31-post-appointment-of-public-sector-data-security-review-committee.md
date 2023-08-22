@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Appointment Of Public Sector Data Security Review Committee
-permalink: /media-hub/press-releases/appointment-of-public-sector-data-security-review-committee
+permalink: /media-hub/press-releases/appointment-of-public-sector-data-security-review-committee/
 ---
 ## Appointment Of Public Sector Data Security Review Committee
 

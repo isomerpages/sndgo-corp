@@ -1,6 +1,6 @@
 ---
 title: Smart Nation Engagement Programmes
-permalink: /community/Contribute-to-Smart-Nation
+permalink: /community/contribute-to-smart-nation/
 description: Help us make services more accessible and convenient for all Singaporeans.
 third_nav_title: Contribute to Smart Nation
 image: /images/community/sna/SmartNationAmbassador01.jpg

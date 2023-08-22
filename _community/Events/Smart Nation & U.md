@@ -1,6 +1,6 @@
 ---
 title: Smart Nation & U
-permalink: /community/events/snu
+permalink: /community/events/snu/
 description: Smart Nation & U is jointly organised by the Smart Nation & Digital
   Government Office (SNDGO) and National Trades Union Congress (NTUC).
 image: /images/community/events/snu-02.jpeg

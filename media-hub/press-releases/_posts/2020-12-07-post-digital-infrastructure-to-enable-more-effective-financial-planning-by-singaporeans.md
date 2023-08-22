@@ -2,7 +2,7 @@
 layout: post
 title: Digital Infrastructure To Enable More Effective Financial Planning By
   Singaporeans
-permalink: /media-hub/press-releases/digital-infrastructure-to-enable-more-effective-financial-planning-by-singaporeans
+permalink: /media-hub/press-releases/digital-infrastructure-to-enable-more-effective-financial-planning-by-singaporeans/
 ---
 ## Digital Infrastructure To Enable More Effective Financial Planning By Singaporeans
 

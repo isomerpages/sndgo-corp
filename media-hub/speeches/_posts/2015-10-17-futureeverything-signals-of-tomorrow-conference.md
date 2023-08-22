@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FutureEverything Signals of Tomorrow Conference 2015
-permalink: /media-hub/speeches/futureeverything-signals-of-tomorrow-conference-2015
+permalink: /media-hub/speeches/futureeverything-signals-of-tomorrow-conference-2015/
 ---
 ## Opening Speech By Dr Vivian Balakrishnan, Minister For Foreign Affairs And Minister-in-Charge Of The Smart Nation Initiative At The FutureEverything Signals Of Tomorrow Conference At The ArtScience Museum
 

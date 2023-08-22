@@ -1,6 +1,6 @@
 ---
 title: Smart Nation Fellowship
-permalink: /careers/smart-nation-fellowship
+permalink: /careers/smart-nation-fellowship/
 description: Over the past years, we’ve had the privilege of working with
   bright, established professionals whom we are proud to call our Smart Nation
   Fellows. These Fellows work alongside GovTech project teams, sharing their

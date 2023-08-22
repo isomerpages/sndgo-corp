@@ -2,7 +2,7 @@
 layout: post
 title: Singapore Sets Sights To Be A Global Hub For Developing And Deploying Ai
   Solutions
-permalink: /media-hub/press-releases/singapore-sets-sights-to-be-a-global-hub-for-developing-and-deploying-ai-solutions
+permalink: /media-hub/press-releases/singapore-sets-sights-to-be-a-global-hub-for-developing-and-deploying-ai-solutions/
 ---
 ## Singapore Sets Sights To Be A Global Hub For Developing And Deploying AI Solutions
 

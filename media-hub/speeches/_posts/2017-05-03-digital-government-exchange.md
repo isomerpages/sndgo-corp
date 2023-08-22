@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Government Exchange 2017
-permalink: /media-hub/speeches/digital-government-exchange-2017
+permalink: /media-hub/speeches/digital-government-exchange-2017/
 ---
 ## Opening Speech by Head of Civil Service at Digital Government Exchange 2017, Asian Civilisations Museum
 

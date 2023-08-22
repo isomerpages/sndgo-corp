@@ -1,6 +1,6 @@
 ---
 title: "Smart Nation Builder (Factsheet) "
-permalink: /media-hub/press-releases/smart-nation-builder-factsheet
+permalink: /media-hub/press-releases/smart-nation-builder-factsheet/
 date: 2022-01-28
 layout: post
 description: Designed as a roving showcase, the 12m truck is fitted with eight

@@ -1,7 +1,7 @@
 ---
 title: ‘Our Digital World’ Exhibition Showcases Power of Big Data
 date: 2016-06-28
-permalink: /media-hub/press-releases/our-digital-world-exhibition-showcases-power-of-big-data
+permalink: /media-hub/press-releases/our-digital-world-exhibition-showcases-power-of-big-data/
 ---
 ## Our Digital World Exhibition Showcases Power Of Big Data
 

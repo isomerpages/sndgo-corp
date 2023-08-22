@@ -1,6 +1,6 @@
 ---
 title: E Payments
-permalink: /initiatives/strategic-national-projects/e-payments
+permalink: /initiatives/strategic-national-projects/e-payments/
 third_nav_title: Strategic National Projects
 description: Electronic payments (E-payments) are today simple, swift, seamless
   and secure digital transactions. As we move towards more of such transactions,

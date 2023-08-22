@@ -1,7 +1,7 @@
 ---
 title: TraceTogether Programme (PQ Reply by Minister Vivian Balakrishnan)
 date: 2020-06-05
-permalink: /media-hub/parliament/20200605
+permalink: /media-hub/parliament/20200605/
 layout: post
 description: ""
 ---

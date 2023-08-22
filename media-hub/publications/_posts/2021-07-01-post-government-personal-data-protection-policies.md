@@ -1,7 +1,7 @@
 ---
 title: Government Personal Data Protection Policies
 date: 2021-07-01
-permalink: /media-hub/publications/government-personal-data-protection-policies
+permalink: /media-hub/publications/government-personal-data-protection-policies/
 layout: post
 ---
 **2021**

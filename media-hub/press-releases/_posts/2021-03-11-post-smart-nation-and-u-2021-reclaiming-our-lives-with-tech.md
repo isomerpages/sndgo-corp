@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Nation & U 2021 - Reclaiming Our Lives With Tech
-permalink: /media-hub/press-releases/Smart-Nation-&-U-2021
+permalink: /media-hub/press-releases/smart-nation-&-u-2021/
 ---
 ## Smart Nation & U 2021 – Reclaiming Our Lives With Tech 
 

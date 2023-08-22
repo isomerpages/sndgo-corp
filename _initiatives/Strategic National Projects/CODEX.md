@@ -1,6 +1,6 @@
 ---
 title: CODEX
-permalink: /initiatives/strategic-national-projects/codex
+permalink: /initiatives/strategic-national-projects/codex/
 third_nav_title: Strategic National Projects
 description: Core Operations Development Environment and eXchange (CODEX) is a
   shared digital platform between government agencies and private sectors to

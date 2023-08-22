@@ -1,6 +1,6 @@
 ---
 title: Smart Nation Community Projects
-permalink: /community/Community-Projects/Overview
+permalink: /community/community-projects/overview/
 description: Check this out.
 third_nav_title: Community Projects
 image: /images/og-image/Smart-Nation-OG-Image.jpg

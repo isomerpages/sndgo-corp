@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implementing SafeEntry And Safe Management Practices
-permalink: /media-hub/press-releases/implementing-safeentry-and-safe-management-practices
+permalink: /media-hub/press-releases/implementing-safeentry-and-safe-management-practices/
 ---
 ## Implementing SafeEntry And Safe Management Practices
 

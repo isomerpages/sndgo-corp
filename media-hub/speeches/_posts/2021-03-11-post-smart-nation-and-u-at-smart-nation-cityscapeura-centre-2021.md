@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Nation & U at Smart Nation Cityscape@URA Centre 2021
-permalink: /media-hub/speeches/smart-nation-and-u-2021
+permalink: /media-hub/speeches/smart-nation-and-u-2021/
 ---
 ## Opening Address by Deputy Prime Minister Heng Swee Keat for Smart Nation & U at Smart Nation Cityscape@URA Centre
 

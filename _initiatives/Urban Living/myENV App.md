@@ -1,6 +1,6 @@
 ---
 title: myENV App
-permalink: /initiatives/urban-living/myenv-app
+permalink: /initiatives/urban-living/myenv-app/
 third_nav_title: Urban Living
 description: The myENV app is a one-stop mobile platform for a range of
   information, from the weather, air quality, dengue clusters, drain water

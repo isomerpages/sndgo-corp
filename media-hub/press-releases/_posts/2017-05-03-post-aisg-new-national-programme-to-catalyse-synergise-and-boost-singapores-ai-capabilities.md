@@ -2,7 +2,7 @@
 title: "AI.SG: New National Programme to Catalyse, Synergise and Boost
   Singapore's AI Capabilities"
 date: 2017-05-03
-permalink: /media-hub/press-releases/aisg-new-national-programme-to-catalyse-synergise-and-boost-singapore-s-artificial-intelligence-capabilities
+permalink: /media-hub/press-releases/aisg-new-national-programme-to-catalyse-synergise-and-boost-singapore-s-artificial-intelligence-capabilities/
 layout: post
 ---
 ## AI.SG New National Programme To Catalyse Synergise And Boost Singapores Artificial Intelligence Capabilities

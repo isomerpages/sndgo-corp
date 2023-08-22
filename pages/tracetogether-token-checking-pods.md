@@ -1,6 +1,6 @@
 ---
 title: TraceTogether Token Checking Pods
-permalink: /tt-token-checking-pods
+permalink: /tt-token-checking-pods/
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LI1lx3lxKz8" height="315" width="100%"></iframe>
 

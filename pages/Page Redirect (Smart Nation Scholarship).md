@@ -1,6 +1,6 @@
 ---
 title: Page Redirect (Smart Nation Scholarship)
-permalink: /scholarship
+permalink: /scholarship/
 description: ""
 ---
 

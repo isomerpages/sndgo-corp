@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SingPass Mobile Hits One Million Users
-permalink: /media-hub/press-releases/singpass-mobile-hits-one-million-users
+permalink: /media-hub/press-releases/singpass-mobile-hits-one-million-users/
 ---
 ## SingPass Mobile Hits One Million Users
 

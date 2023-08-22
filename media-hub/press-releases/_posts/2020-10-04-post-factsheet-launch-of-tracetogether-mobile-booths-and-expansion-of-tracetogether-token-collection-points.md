@@ -2,7 +2,7 @@
 layout: post
 title: Factsheet - Launch Of TraceTogether Mobile Booths And Expansion Of
   TraceTogether Token Collection Points
-permalink: /media-hub/press-releases/factsheet-launch-of-tracetogether-mobile-booths
+permalink: /media-hub/press-releases/factsheet-launch-of-tracetogether-mobile-booths/
 ---
 ## Factsheet: Launch of TraceTogether mobile booths and expansion of TraceTogether Token Collection Points
 

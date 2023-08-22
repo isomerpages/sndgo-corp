@@ -2,7 +2,7 @@
 title: Singapore's National Trade Platform wins International Award for best
   e-Business Digital Initiative
 date: 2017-06-14
-permalink: /media-hub/press-releases/singapore-s-national-trade-platform-wins-international-award-for-best-e-business-digital-initiative
+permalink: /media-hub/press-releases/singapore-s-national-trade-platform-wins-international-award-for-best-e-business-digital-initiative/
 ---
 ## Singapores National Trade Platform Wins International Award For Best E Business Digital Initiative
 

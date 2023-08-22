@@ -1,6 +1,6 @@
 ---
 title: Assistive Technology and Robotics In Healthcare
-permalink: /initiatives/health/assistive-techonology-robotics
+permalink: /initiatives/health/assistive-techonology-robotics/
 third_nav_title: Health
 description: Find out how we are using technology to help meet their needs and
   enable them to enjoy a better quality of life.

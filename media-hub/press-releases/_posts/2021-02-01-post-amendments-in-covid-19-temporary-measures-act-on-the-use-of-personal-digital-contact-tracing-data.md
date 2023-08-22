@@ -2,7 +2,7 @@
 layout: post
 title: Amendments In Covid-19 (Temporary Measures) Act On The Use Of Personal
   Digital Contact Tracing Data
-permalink: /media-hub/press-releases/use-of-personal-digital-contact-tracing-data
+permalink: /media-hub/press-releases/use-of-personal-digital-contact-tracing-data/
 ---
 ## Amendments In Covid 19 Temporary Measures Act On The Use Of Personal Digital Contact Tracing Data
 

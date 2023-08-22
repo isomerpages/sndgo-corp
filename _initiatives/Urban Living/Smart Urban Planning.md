@@ -1,6 +1,6 @@
 ---
 title: Smart Urban Planning
-permalink: /initiatives/urban-living/urban-planning
+permalink: /initiatives/urban-living/urban-planning/
 third_nav_title: Urban Living
 description: "The Urban Redevelopment Authority (URA), as our land-use planning
   and conservation authority, has harnessed digital innovations to plan and make

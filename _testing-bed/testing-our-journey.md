@@ -1,7 +1,7 @@
 ---
 layout: our-journey
 title: Testing Our Journey
-permalink: /testing-bed/our-journey
+permalink: /testing-bed/our-journey/
 breadcrumb: Our Journey
 collection_name: report-data-incident
 ---

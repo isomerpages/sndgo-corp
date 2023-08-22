@@ -2,7 +2,7 @@
 layout: post
 title: Refreshed Singpass Reflects Improved Services And Drives Digital
   Innovations With Private Sector
-permalink: /media-hub/press-releases/refreshed-singpass-reflects-improved-services
+permalink: /media-hub/press-releases/refreshed-singpass-reflects-improved-services/
 ---
 ## Refreshed Singpass reflects improved services and drives digital innovations with private sector 
 

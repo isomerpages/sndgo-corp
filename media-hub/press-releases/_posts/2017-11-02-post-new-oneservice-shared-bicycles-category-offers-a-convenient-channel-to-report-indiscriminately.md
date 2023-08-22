@@ -2,7 +2,7 @@
 title: "New OneService ‘Shared Bicycles’ Category Offers a Convenient Channel to
   Report Indiscriminately "
 date: 2017-11-02
-permalink: /media-hub/press-releases/new-oneservice-shared-bicycles-category-offers-a-convenient-channel-to-report-indiscriminately-parked-shared-bicycles
+permalink: /media-hub/press-releases/new-oneservice-shared-bicycles-category-offers-a-convenient-channel-to-report-indiscriminately-parked-shared-bicycles/
 ---
 ## New OneService Shared Bicycles Category Offers A Convenient Channel To Report Indiscriminately
 

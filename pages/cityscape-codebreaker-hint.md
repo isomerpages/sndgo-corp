@@ -1,6 +1,6 @@
 ---
 title: Smart Nation CityScape Codebreaker
-permalink: /cityscape-codebreaker-hint
+permalink: /cityscape-codebreaker-hint/
 ---
 
 # Smart Nation CityScape - Codebreaker Hint

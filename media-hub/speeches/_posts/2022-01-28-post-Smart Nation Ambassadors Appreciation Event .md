@@ -1,6 +1,6 @@
 ---
 title: "Smart Nation Ambassadors Appreciation Event "
-permalink: /media-hub/speeches/sna-appreciation-event-2022
+permalink: /media-hub/speeches/sna-appreciation-event-2022/
 date: 2022-01-28
 layout: post
 description: ""

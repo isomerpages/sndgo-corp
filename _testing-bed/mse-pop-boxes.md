@@ -1,6 +1,6 @@
 ---
 title: Initiatives Overview
-permalink: /initiatives/overview
+permalink: /initiatives/overview/
 breadcrumb: Initiatives
 ---
 

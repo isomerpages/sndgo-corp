@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart City Expo World Congress 2019, Barcelona
-permalink: /media-hub/speeches/smart-city-expo-world-congress-barcelona-2019
+permalink: /media-hub/speeches/smart-city-expo-world-congress-barcelona-2019/
 ---
 ## Speech by Minister Vivian Balakrishnan at The Smart City Expo World Congress, Barcelona
 

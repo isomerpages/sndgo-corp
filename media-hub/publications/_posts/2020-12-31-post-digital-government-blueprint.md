@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Government Blueprint
-permalink: /media-hub/publications/digital-government-blueprint
+permalink: /media-hub/publications/digital-government-blueprint/
 ---
 **2020**<br>
 * [Digital Government Blueprint - December 2020 (277kb)](/files/publications/dgb-public-document_30dec20.pdf)

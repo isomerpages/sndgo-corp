@@ -1,6 +1,6 @@
 ---
 title: GovTech Tech Kaki
-permalink: /community/techkaki
+permalink: /community/techkaki/
 description: Tech Kaki was set up by GovTech to engage a citizen community in
   the development process of their digital products and services, to meet the
   needs of citizens and businesses and enhance the end-user experience.

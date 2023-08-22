@@ -2,7 +2,7 @@
 title: Smart Nation and Digital Government Group appoints new Chief Executive of
   Government Technology Agency
 date: 2018-04-09
-permalink: /media-hub/press-releases/sndgg-appoints-new-chief-executive-of-government-technology-agency
+permalink: /media-hub/press-releases/sndgg-appoints-new-chief-executive-of-government-technology-agency/
 ---
 ## Smart Nation And Digital Government Group Appoints New Chief Executive Of Government Technology Agency
 

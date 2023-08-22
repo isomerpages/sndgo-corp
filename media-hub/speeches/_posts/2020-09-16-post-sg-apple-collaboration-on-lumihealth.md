@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SG-Apple Collaboration on LumiHealth
-permalink: /media-hub/speeches/sg-apple-collaboration-on-lumihealth-2020
+permalink: /media-hub/speeches/sg-apple-collaboration-on-lumihealth-2020/
 ---
 ## DPM Heng on the Announcement of the SG-Apple Collaboration on LumiHealth
 

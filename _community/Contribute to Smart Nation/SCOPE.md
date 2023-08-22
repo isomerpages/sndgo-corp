@@ -1,6 +1,6 @@
 ---
 title: SCOPE
-permalink: /community/SCOPE
+permalink: /community/scope/
 description: The SCOPE survey tool gathers feedback from the public on test
   prototypes and new digital services.
 image: /images/community/sna/SmartNationAmbassador01.jpg

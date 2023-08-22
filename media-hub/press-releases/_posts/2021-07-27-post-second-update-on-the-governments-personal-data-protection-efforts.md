@@ -1,7 +1,7 @@
 ---
 title: Second Update on the Government's Personal Data Protection Efforts
 date: 2021-07-27
-permalink: /media-hub/press-releases/2nd-update-pdp
+permalink: /media-hub/press-releases/2nd-update-pdp/
 layout: post
 ---
 ## Second Update On The Governments Personal Data Protection Efforts

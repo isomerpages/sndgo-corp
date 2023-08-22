@@ -2,7 +2,7 @@
 layout: post
 title: NParks And SNDGG Trial SPOT Robot For Safe Distancing Operations At
   Bishan-Ang Mo Kio Park
-permalink: /media-hub/press-releases/nparks-and-sndgg-trial-spot-robot-for-safe-distancing-operations-at-bishan-ang-mo-kio-park
+permalink: /media-hub/press-releases/nparks-and-sndgg-trial-spot-robot-for-safe-distancing-operations-at-bishan-ang-mo-kio-park/
 ---
 ## NParks And SNDGG Trial Spot Robot For Safe Distancing Operations At Bishan-Ang Mo Kio Park
 

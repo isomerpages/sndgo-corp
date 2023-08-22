@@ -1,6 +1,6 @@
 ---
 title: Smart Transport Initiatives
-permalink: /initiatives/transport
+permalink: /initiatives/transport/
 third_nav_title: Transport
 description: "With more than 1 million vehicles on the road and counting, we
   face the ongoing challenge of designing more efficient, safe and reliable

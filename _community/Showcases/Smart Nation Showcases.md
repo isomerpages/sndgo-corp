@@ -1,6 +1,6 @@
 ---
 title: Smart Nation Showcases
-permalink: /community/showcases/overview
+permalink: /community/showcases/overview/
 third_nav_title: Showcases
 description: Check out our Smart Nation Showcases!
 image: /images/community/playscape/PlayScape_04.jpeg

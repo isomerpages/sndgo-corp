@@ -1,6 +1,6 @@
 ---
 title: Our Strategic National Projects
-permalink: /initiatives/strategic-national-projects
+permalink: /initiatives/strategic-national-projects/
 third_nav_title: Strategic National Projects
 description: "Singapore is engineering its transformation into a Smart Nation –
   byte by byte, system by system. These Strategic National Projects are the

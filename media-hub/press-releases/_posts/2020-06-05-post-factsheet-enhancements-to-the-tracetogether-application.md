@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Factsheet - Enhancements to the TraceTogether Application
-permalink: /media-hub/press-releases/factsheet-enhancements-to-the-tracetogether-application
+permalink: /media-hub/press-releases/factsheet-enhancements-to-the-tracetogether-application/
 ---
 ## Factsheet-Enhancements To The TraceTogether Application
 

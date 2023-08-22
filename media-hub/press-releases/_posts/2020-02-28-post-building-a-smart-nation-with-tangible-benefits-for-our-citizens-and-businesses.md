@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building A Smart Nation With Tangible Benefits For Our Citizens And Businesses
-permalink: /media-hub/press-releases/building-a-smart-nation-with-tangible-benefits--for-our-citizens-and-businesses
+permalink: /media-hub/press-releases/building-a-smart-nation-with-tangible-benefits--for-our-citizens-and-businesses/
 ---
 ## Building A Smart Nation With Tangible Benefits For Our Citizens And Businesses
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hitachi Young Leaders Initiative 2019
-permalink: /media-hub/speeches/hitachi-young-leaders-initiative-2019
+permalink: /media-hub/speeches/hitachi-young-leaders-initiative-2019/
 ---
 ## Speech By Minister S Iswaran at the Hitachi Young Leaders Initiative (Hyli) 2019
 

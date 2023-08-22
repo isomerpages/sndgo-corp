@@ -1,6 +1,6 @@
 ---
 title: SNA Citizen Co Creation Group (Factsheet)
-permalink: /media-hub/press-releases/SNA-Citizen-Co-Creation-Group-Factsheet
+permalink: /media-hub/press-releases/sna-citizen-co-creation-group-factsheet/
 date: 2022-01-28
 layout: post
 description: The SNA Citizen Co-Creation Group will be made up of Smart Nation

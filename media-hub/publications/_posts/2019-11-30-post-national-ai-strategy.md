@@ -1,7 +1,7 @@
 ---
 title: National AI Strategy
 date: 2019-11-30
-permalink: /media-hub/publications/national-ai-strategy
+permalink: /media-hub/publications/national-ai-strategy/
 layout: post
 ---
 **2019**

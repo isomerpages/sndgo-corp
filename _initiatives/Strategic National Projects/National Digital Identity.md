@@ -1,6 +1,6 @@
 ---
 title: National Digital Identity
-permalink: /initiatives/strategic-national-projects/national-digital-identity
+permalink: /initiatives/strategic-national-projects/national-digital-identity/
 third_nav_title: Strategic National Projects
 description: "As more Government services shift online, it is crucial we have a
   secure and easily accessible digital ecosystem in place. Singpass, the

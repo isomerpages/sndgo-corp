@@ -1,7 +1,7 @@
 ---
 title: LTA Inks Agreement with ST Kinetics to Develop & Trial Autonomous Buses
 date: 2017-04-10
-permalink: /media-hub/press-releases/lta-inks-agreement-with-st-kinetics-to-develop-and-trial-autonomous-buses
+permalink: /media-hub/press-releases/lta-inks-agreement-with-st-kinetics-to-develop-and-trial-autonomous-buses/
 ---
 ## LTA Inks Agreement With ST Kinetics To Develop And Trial Autonomous Buses
 

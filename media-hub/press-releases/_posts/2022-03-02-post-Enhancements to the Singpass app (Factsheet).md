@@ -1,6 +1,6 @@
 ---
 title: Enhancements to the Singpass app (Factsheet)
-permalink: /media-hub/press-releases/singpass-enhancements-factsheet-02032022
+permalink: /media-hub/press-releases/singpass-enhancements-factsheet-02032022/
 date: 2022-03-02
 layout: post
 description: The Singpass app has been made available in the four official

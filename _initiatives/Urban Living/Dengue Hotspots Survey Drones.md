@@ -1,6 +1,6 @@
 ---
 title: Dengue Hotspots Survey Drones
-permalink: /initiatives/urban-living/dengue-hotspots-survey-drones
+permalink: /initiatives/urban-living/dengue-hotspots-survey-drones/
 third_nav_title: Urban Living
 description: Our region’s year-round warm climate and high humidity are ideal
   for the Aedes mosquito to breed rapidly. It has adapted particularly well to

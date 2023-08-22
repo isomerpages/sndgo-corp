@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Factsheet - TraceTogether Programme
-permalink: /media-hub/press-releases/factsheet-tracetogether-programme
+permalink: /media-hub/press-releases/factsheet-tracetogether-programme/
 ---
 ## Factsheet-TraceTogether Programme
 

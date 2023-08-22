@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Founders Forum Smart Nation Singapore Reception 2015
-permalink: /media-hub/speeches/founders-forum-smart-nation-singapore-reception-2015
+permalink: /media-hub/speeches/founders-forum-smart-nation-singapore-reception-2015/
 ---
 ## Speech By Prime Minister Lee Hsien Loong At Founders Forum Smart Nation Singapore Reception
 

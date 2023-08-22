@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Singapore Week of Innovation and TeCHnology (SWITCH) 2020
-permalink: /media-hub/speeches/switch-2020
+permalink: /media-hub/speeches/switch-2020/
 ---
 ## Address by Minister Vivian Balakrishnan at Singapore Week of Innovation and Technology (SWITCH) 2020
 

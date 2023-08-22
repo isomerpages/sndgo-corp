@@ -1,6 +1,6 @@
 ---
 title: Join Us
-permalink: /careers/join-sndgo
+permalink: /careers/join-sndgo/
 breadcrumb: Join Us
 description: We envision Singapore to be a world-class city, a leading economy
   and an inclusive society where everyone benefits from the latest developments

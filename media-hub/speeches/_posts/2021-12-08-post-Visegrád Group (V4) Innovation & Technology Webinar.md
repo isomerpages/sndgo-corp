@@ -1,6 +1,6 @@
 ---
 title: Visegrád Group (V4) Innovation & Technology Webinar
-permalink: /media-hub/speeches/visegrad-group-webinar
+permalink: /media-hub/speeches/visegrad-group-webinar/
 date: 2021-12-08
 layout: post
 description: ""

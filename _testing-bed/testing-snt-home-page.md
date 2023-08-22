@@ -1,6 +1,6 @@
 ---
 title: Testing SNT Home Page
-permalink: /testing-bed/testingsnthomepage
+permalink: /testing-bed/testingsnthomepage/
 ---
 
 

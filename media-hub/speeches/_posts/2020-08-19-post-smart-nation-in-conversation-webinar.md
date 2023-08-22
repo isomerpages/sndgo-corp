@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Nation In Conversation Webinar - 19 August 2020
-permalink: /media-hub/speeches/smart-nation-in-conversation-webinar-19-aug-2020
+permalink: /media-hub/speeches/smart-nation-in-conversation-webinar-19-aug-2020/
 ---
 ## Opening Remarks By Minister Vivian Balakrishnan, at the "Smart Nation: In Conversation Webinar – Putting People First In Tech Design"
 

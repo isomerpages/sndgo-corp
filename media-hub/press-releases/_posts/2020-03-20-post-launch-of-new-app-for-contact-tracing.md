@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Launch Of New App For Contact Tracing
-permalink: /media-hub/press-releases/launch-of-new-app-for-contact-tracing
+permalink: /media-hub/press-releases/launch-of-new-app-for-contact-tracing/
 ---
 ## A community effort to help combat the spread of COVID-19
 

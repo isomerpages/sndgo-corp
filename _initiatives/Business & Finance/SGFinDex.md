@@ -1,6 +1,6 @@
 ---
 title: SGFinDex
-permalink: /initiatives/Business/sgfindex/
+permalink: /initiatives/business/sgfindex/
 description: SGFinDex is the world's first public digital infrastructure to use
   a national digital identity and centrally managed online consent system to
   enable individuals to access, through applications, their financial

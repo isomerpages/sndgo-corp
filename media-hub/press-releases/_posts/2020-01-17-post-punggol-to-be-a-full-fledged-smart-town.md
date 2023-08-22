@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Punggol To Be A Full-fledged Smart Town
-permalink: /media-hub/press-releases/punggol-to-be-a-full-fledged-smart-town
+permalink: /media-hub/press-releases/punggol-to-be-a-full-fledged-smart-town/
 ---
 ## Punggol Will Demonstrate Future Living In Singapore
 

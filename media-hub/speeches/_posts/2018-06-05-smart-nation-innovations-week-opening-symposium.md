@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Nation Innovations Week Opening Symposium 2018
-permalink: /media-hub/speeches/smart-nation-innovations-week-opening-symposium-2018
+permalink: /media-hub/speeches/smart-nation-innovations-week-opening-symposium-2018/
 ---
 ## Opening Address By Deputy Prime Minister Teo Chee Hean at the Opening of the Smart Nation Innovations Week Opening Symposium
 

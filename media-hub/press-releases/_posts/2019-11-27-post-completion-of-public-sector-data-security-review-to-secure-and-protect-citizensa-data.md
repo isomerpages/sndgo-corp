@@ -2,7 +2,7 @@
 layout: post
 title: Completion Of Public Sector Data Security Review - To Secure And Protect
   Citizens’ Data
-permalink: /media-hub/press-releases/completion-of-public-sector-data-security-review-to-secure-and-protect-citizens-data
+permalink: /media-hub/press-releases/completion-of-public-sector-data-security-review-to-secure-and-protect-citizens-data/
 ---
 ## Completion Of Public Sector Data Security Review To Secure And Protect Citizen's Data
 

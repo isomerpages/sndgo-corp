@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Nation Brings Tangible Benefits To Citizens And Businesses
-permalink: /media-hub/press-releases/smart-nation-brings-tangible-benefits-to-citizens-and-businesses
+permalink: /media-hub/press-releases/smart-nation-brings-tangible-benefits-to-citizens-and-businesses/
 ---
 ## Smart Nation Brings Tangible Benefits To Citizens And Businesses
 

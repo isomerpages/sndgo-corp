@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TraceTogether Tokens To Be Distributed At The Constituency Level
-permalink: /media-hub/press-releases/tracetogether-tokens-to-be-distributed-at-the-constituency-level
+permalink: /media-hub/press-releases/tracetogether-tokens-to-be-distributed-at-the-constituency-level/
 ---
 ## TraceTogether Tokens To Be Distributed At The Constituency Level
 

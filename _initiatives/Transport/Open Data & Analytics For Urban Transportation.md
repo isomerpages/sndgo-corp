@@ -1,6 +1,6 @@
 ---
 title: Open Data & Analytics For Urban Transportation
-permalink: /initiatives/transport/open-data-analytics
+permalink: /initiatives/transport/open-data-analytics/
 third_nav_title: Transport
 description: The Land Transport Authority (LTA) has been using these sensors to
   gather information on buses’ real-time location and arrival times at various

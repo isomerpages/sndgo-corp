@@ -2,7 +2,7 @@
 layout: post
 title: Upcoming Legislative Provisions For Usage Of Data From Digital Contact
   Tracing Solutions
-permalink: /media-hub/press-releases/upcoming-legislative-provisions-for-usage-of-data-from-digital-contact-tracing-solutions
+permalink: /media-hub/press-releases/upcoming-legislative-provisions-for-usage-of-data-from-digital-contact-tracing-solutions/
 ---
 ## Upcoming Legislative Provisions For Usage Of Data From Digital Contact Tracing Solutions
 

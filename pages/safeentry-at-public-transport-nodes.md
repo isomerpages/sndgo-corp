@@ -1,6 +1,6 @@
 ---
 title: SafeEntry At Public Transport Nodes
-permalink: /safeentrytransportnodes
+permalink: /safeentrytransportnodes/
 ---
 ![SafeEntry at public transport notes](/images/covid-19/SafeEntry-Transport-Nodes.jpeg)
 

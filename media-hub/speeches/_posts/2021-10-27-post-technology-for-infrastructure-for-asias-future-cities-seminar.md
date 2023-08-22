@@ -1,7 +1,7 @@
 ---
 title: Technology for Infrastructure for Asia’s Future Cities Seminar
 date: 2021-10-27
-permalink: /media-hub/speeches/asia-future-cities-2021
+permalink: /media-hub/speeches/asia-future-cities-2021/
 layout: post
 ---
 ## Opening Remarks by SMS Janil Puthucheary at the “Technology for Infrastructure for Asia’s Future Cities” seminar at the AIIB’s Sixth Annual Meeting of the Board of Governors

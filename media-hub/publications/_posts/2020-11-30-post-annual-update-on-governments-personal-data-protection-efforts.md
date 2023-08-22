@@ -1,7 +1,7 @@
 ---
 title: Annual Update On Government’s Personal Data Protection Efforts
 date: 2020-11-30
-permalink: /media-hub/publications/annual-update-on-government-personal-data-protection-efforts
+permalink: /media-hub/publications/annual-update-on-government-personal-data-protection-efforts/
 layout: post
 ---
 **2021**<br>

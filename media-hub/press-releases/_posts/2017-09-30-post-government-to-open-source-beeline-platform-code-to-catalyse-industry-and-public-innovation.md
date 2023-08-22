@@ -2,7 +2,7 @@
 title: Government to Open-source Beeline Platform Code to Catalyse Industry and
   Public Innovation
 date: 2017-09-30
-permalink: /media-hub/press-releases/government-to-open-source-beeline-platform-code-to-catalyse-industry-and-public-innovation
+permalink: /media-hub/press-releases/government-to-open-source-beeline-platform-code-to-catalyse-industry-and-public-innovation/
 ---
 ## Government To Open Source Beeline Platform Code To Catalyse Industry And Public Innovation
 

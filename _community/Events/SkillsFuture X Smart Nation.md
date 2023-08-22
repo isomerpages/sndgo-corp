@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture X Smart Nation
-permalink: /community/Events/sfxsn/
+permalink: /community/events/sfxsn/
 description: SkillsFuture X Smart Nation is jointly organised by the Smart
   Nation & Digital Government Office (SNDGO) and SkillsFuture Singapore (SSG).
 third_nav_title: Events

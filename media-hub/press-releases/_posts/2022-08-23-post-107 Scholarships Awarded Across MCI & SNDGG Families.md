@@ -1,6 +1,6 @@
 ---
 title: 107 Scholarships Awarded Across MCI & SNDGG Families
-permalink: /media-hub/press-releases/23082022a
+permalink: /media-hub/press-releases/23082022a/
 date: 2022-08-23
 layout: post
 description: 107 scholarships awarded across MCI & SNDGG families to build a
