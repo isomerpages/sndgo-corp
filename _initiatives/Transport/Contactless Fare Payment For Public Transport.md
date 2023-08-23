@@ -2,15 +2,12 @@
 title: Contactless Fare Payment For Public Transport
 permalink: /initiatives/transport/contactless-fare-payment/
 third_nav_title: Transport
-description: "NFC technology has become such a big part of our daily lives. It
+description: NFC technology has become such a big part of our daily lives. It
   allows us to transact seamlessly on the go via our mobile devices, electronic
   gadgets and contactless credit or debit cards. Most, if not all of us, use it
-  every day without even realising it! "
+  every day without even realising it!
 image: /images/initiatives/contactless-payment-transport.jpg
 ---
-
-
-
 # Breezing Through Public Transport
 ![contactless payments on public transport](/images/initiatives/overview-pages/contactless-fare-payment.jpeg)
 
@@ -39,7 +36,7 @@ For more information on SimplyGo, visit <a href="https://simplygo.transitlink.co
   
 ## Trials for Hands-free Ticketing Tech
 
-![hands free ticketing trial](/images/initiatives/Smrt-hands-free-trial.jpeg)
+![hands free ticketing trial](/images/initiatives/smrt-hands-free-trial.jpeg)
 
 With the success of SimplyGo, other contactless fare payment systems are being trialled as we look to bring even more convenience to commuters, especially the disabled.
 
