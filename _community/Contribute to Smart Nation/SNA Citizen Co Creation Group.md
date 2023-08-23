@@ -8,9 +8,9 @@ third_nav_title: Contribute to Smart Nation
 ---
 # Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)
 
-![SNA CCG](/images/community/CCG/SNACCG_01.jpeg)
+![SNA CCG](/images/community/ccg/snaccg_01.jpeg)
 
-SNA CCG is designed to engage everyone, not just the “digitally-able” or majority groups. 
+SNA CCG is designed to engage everyone, not just the “digitally-able” or majority groups.&nbsp;
 
 Made up of community leaders from diverse groups, the SNA CCG helps to facilitate focus group discussions and dialogues with people of different needs and abilities. These groups include persons with disabilities, low-income families and seniors. Through these discussions and dialogues, we will be able to gather deeper insights on service journeys. Topics of discussion include Smart City solutions for the neighbourhood, and ways to address gaps on digital inclusion for low-income families and persons with disabilities.  
   
@@ -48,7 +48,7 @@ If you are interested in participating in our focus group discussions with the c
 
 ## Tap on SNA CCG to engage community groups
 
-Public agencies who are keen to tap on SNA CCG, can register your interest here: [https://go.gov.sg/register-scope-ccg](https://go.gov.sg/register-scope-ccg).
+Public agencies who are keen to tap on SNA CCG, can register your interest here:&nbsp;[https://go.gov.sg/register-scope-ccg](https://go.gov.sg/register-scope-ccg).
 
 <br>
 
