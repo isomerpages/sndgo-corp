@@ -8,7 +8,7 @@ image: /images/og-image/cybersecurity-og-image.jpg
 ---
 # Government's Personal Data Protection Laws And Policies
 
-![Government's Personal Data Protection Laws And Policies](/images/abt-smart-nation/Government’s_PDPLP_1920px.jpeg)
+![Government's Personal Data Protection Laws And Policies](/images/abt-smart-nation/government’s_pdplp_1920px.jpeg)
 
 The Government has put in place strong personal data protection laws and policies to safeguard sensitive data.
 
