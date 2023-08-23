@@ -8,7 +8,7 @@ image: /images/community/sna/smartnationambassador07.jpeg
 ---
 # Transform Lives with Technology
 
-![Smart Nation Ambassdors](/images/community/sna/SmartNationAmbassador02.jpeg)
+![Smart Nation Ambassdors](/images/community/sna/smartnationambassador02.jpeg)
 
 Are you interested to help others understand and use tech for better work, life and play? Volunteer as a Smart Nation Ambassador for many opportunities to do just that!
 
@@ -90,7 +90,7 @@ For more updates on Smart Nation events,&nbsp;[follow us on Telegram](https://t.
 <br>
 
 <em>In support of</em> 
-<div style="width:33%;height:33%;"><a href="https://www.sg"><img src="/images/Banners/sgt-logo.jpeg" alt="Singapore Together Movement"></a> </div>
+<div style="width:33%;height:33%;"><a href="https://www.sg"><img src="/images/banners/sgt-logo.jpeg" alt="Singapore Together Movement"></a> </div>
 
 <br>
 
