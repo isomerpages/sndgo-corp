@@ -11,7 +11,7 @@ image: /images/og-image/smart-nation-pillars-og-image.jpg
 ![Transforming Singapore Through Technology](/images/abt-smart-nation/singapore-tech.jpg)
 <br>
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” –  Prime Minister Lee Hsien Loong</div>
+&gt; Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” –  Prime Minister Lee Hsien Loong
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
