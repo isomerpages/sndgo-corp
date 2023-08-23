@@ -12,8 +12,6 @@ third_nav_title: Strategic National Projects
 
 <br>
 
-<br>
-
 <div style="max-width: 1280px">
     <div style="height: 0;
             overflow: hidden;
