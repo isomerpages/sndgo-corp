@@ -38,9 +38,9 @@ Visitors to CityScape will learn about how technology:
 
 ![Smart Nation CityScape](/images/community/cityscape/cityscape-06.jpg)
 
-![Smart Nation CityScape](/images/community/cityscape/Cityscape-04.jpeg)
+![Smart Nation CityScape](/images/community/cityscape/cityscape-04.jpeg)
 
-![Smart Nation CityScape](/images/community/cityscape/Cityscape-05.jpeg)
+![Smart Nation CityScape](/images/community/cityscape/cityscape-05.jpeg)
 
 #### Address
 
