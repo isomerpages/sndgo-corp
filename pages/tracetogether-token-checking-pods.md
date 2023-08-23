@@ -14,17 +14,3 @@ If your Token is working, there will be a green light and a beep sound when the 
 
 To replace your Token, do visit token.gowhere.gov.sg for the list of replacement booths at CCs and malls, as well as locations of the TraceTogether Token vending machines.
 
-TraceTogether Token checking pods will be located at selected community areas:
-
-1. 888 Plaza
-2. Blk 808 Kitchener Complex
-3. Elias Mall
-4. Fajar Shopping Centre
-5. HDB Hub
-6. Kampung Admiralty
-7. Pioneer Mall
-8. Taman Jurong Shopping Centre
-9. Vista Point
-10. Woodlands Civic Centre
-11. Woodlands Mart
-12. Yew Tee Square
