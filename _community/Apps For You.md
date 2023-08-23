@@ -313,7 +313,7 @@ Seen an interesting animal or plant? Share it using the SGBioAtlas app! The SGBi
 		
 <tr>
 <td style="width:30%">
-            <img alt="Singpass Mobile" src="/images/initiatives/Singpass-website.jpeg">
+            <img alt="Singpass Mobile" src="/images/initiatives/singpass-website.jpeg">
     </td>	
     <td style="width:70%">
       	<a target="_blank" href="https://app.singpass.gov.sg/">Singpass</a><br>
