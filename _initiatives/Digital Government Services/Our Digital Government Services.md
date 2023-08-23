@@ -23,7 +23,7 @@ To empower citizens to live, work, play, interact and transact better with each 
 </div>
 	
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/national-digital-identity"><img src="/images/initiatives/Singpass-website.jpeg" alt="National Digital Identity"></a><br>
+<a href="/initiatives/strategic-national-projects/national-digital-identity"><img src="/images/initiatives/singpass-website.jpeg" alt="National Digital Identity"></a><br>
 	<div class="header"><b>National Digital Identity (Singpass)*</b></div><br>
 	<div class="para">Singpass, the National Digital Identity (NDI) initiative, provides a convenient and secure platform for users - both citizens and businesses - to transact with the Government and other private service providers.
 </div>
