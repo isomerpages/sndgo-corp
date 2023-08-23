@@ -100,7 +100,7 @@ third_nav_title: About Us
 
 <div class="col" style="padding: 10px 20px 10px 20px">
 
-<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/Leaders/david-low.jpeg" alt="David Law"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>David Low</b></div>Director<br>Legal<br></div>	
+<div style="width:100%;display:flex;justify-content:left;"><div style="width:200px;"><img src="/images/abt-smart-nation/leaders/david-low.jpeg" alt="David Law"></div></div><div style="font-size:18px;padding: 10px 0px 10px 0px"><b>David Low</b></div>Director<br>Legal<br></div>	
 	
 <div class="col" style="padding: 10px 20px 10px 20px">
 
