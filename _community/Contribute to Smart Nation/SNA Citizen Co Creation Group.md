@@ -53,6 +53,6 @@ Public agencies who are keen to tap on SNA CCG, can register your interest here:
 <br>
 
 <em>In support of</em> 
-<div style="width:33%;height:33%;"><a href="https://www.sg"><img src="/images/Banners/sgt-logo.jpeg" alt="Singapore Together Movement"></a> </div>
+<div style="width:33%;height:33%;"><a href="https://www.sg"><img src="/images/banners/sgt-logo.jpeg" alt="Singapore Together Movement"></a> </div>
 
 <br>
