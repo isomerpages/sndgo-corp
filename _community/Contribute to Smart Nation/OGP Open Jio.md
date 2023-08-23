@@ -9,7 +9,7 @@ third_nav_title: Contribute to Smart Nation
 ---
 # OGP Open Jio Programme
 
-![OGP Open Jio](/images/community/OpenJio/OpenJio_01.jpeg)
+![OGP Open Jio](/images/community/openjio/openjio_01.jpeg)
 
 Open Government Products (OGP) started OGP Open Jio, a citizen engagement programme aimed to involve everyday citizens in the development of our products. By joining the program, citizens can help to represent people of their profile in interviews and test our products. With their feedback and ideas, we can improve the experience of our digital products for the benefit of all Singaporeans.
 
