@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - Strategic National Projects/Electronic Payments.md
       - Strategic National Projects/.keep
       - Strategic National Projects/Our Strategic National Projects.md
       - Strategic National Projects/GoBusiness.md
