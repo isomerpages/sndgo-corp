@@ -2,12 +2,11 @@
 title: Our Strategic National Projects
 permalink: /initiatives/strategic-national-projects/
 third_nav_title: Strategic National Projects
-description: "Singapore is engineering its transformation into a Smart Nation –
+description: Singapore is engineering its transformation into a Smart Nation –
   byte by byte, system by system. These Strategic National Projects are the
-  foundation for turning this vision into reality.  "
+  foundation for turning this vision into reality.
 image: /images/og-image/strategic-national-project-og-image.jpg
 ---
-
 # Strategic National Projects
 
 ![Smart Nation Strategic National Projects](/images/abt-smart-nation/strategic_national_projects.jpg)
@@ -26,7 +25,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/Codex-snp.jpeg" alt="CODEX"></a><br>
+<a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
 	<div class="header"><b>CODEX</b></div><br>
 	<div class="para">CODEX is a shared digital platform between government agencies and private sectors to develop better, faster and more cost-effective digital services.
 </div>
@@ -50,7 +49,7 @@ Singapore is engineering its transformation into a Smart Nation – byte by byte
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/national-digital-identity"><img src="/images/initiatives/Singpass-website.jpeg" alt="National Digital Identity"></a><br>
+<a href="/initiatives/strategic-national-projects/national-digital-identity"><img src="/images/initiatives/singpass-website.jpeg" alt="National Digital Identity"></a><br>
 	<div class="header"><b>National Digital Identity</b></div><br>
 	<div class="para">Singpass, the National Digital Identity (NDI) initiative, provides a convenient and secure platform for users - both citizens and businesses - to transact with the Government and other private service providers.
 </div>
