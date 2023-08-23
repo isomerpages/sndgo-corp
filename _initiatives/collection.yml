@@ -2,16 +2,17 @@ collections:
   initiatives:
     output: true
     order:
-      - Strategic National Projects/Electronic Payments.md
       - Strategic National Projects/.keep
       - Strategic National Projects/Our Strategic National Projects.md
       - Strategic National Projects/GoBusiness.md
       - Strategic National Projects/CODEX.md
+      - Strategic National Projects/Electronic Payments.md
       - Strategic National Projects/LifeSG.md
       - Strategic National Projects/National Digital Identity.md
       - Strategic National Projects/Punggol Smart Town.md
       - Strategic National Projects/Smart Nation Sensor Platform.md
       - Strategic National Projects/Smart Urban Mobility.md
+      - Strategic National Projects/E Payments.md
       - National AI Strategy.md
       - Business & Finance/.keep
       - Business & Finance/Business & Finance Initiatives.md
@@ -62,8 +63,6 @@ collections:
       - Urban Living/Smart Towns.md
       - Urban Living/Smart Urban Planning.md
       - Urban Living/Integrated Environmental Modeller.md
-      - Strategic National Projects/.keep
-      - Strategic National Projects/E Payments.md
       - Covid 19/.keep
       - Covid 19/Responding to COVID 19 with Tech.md
       - Covid 19/Digital Contact Tracing.md
