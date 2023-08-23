@@ -4,9 +4,9 @@ permalink: /mysmartgrandparent-tnc/
 description: My Smart Grandparent Contest Terms and Conditions
 image: /images/og-image/smart-nation-og-image.jpg
 ---
+# Terms &amp; Conditions  
 
-# Terms & Conditions  
-> My Smart Grandparent Contest
+&gt; My Smart Grandparent Contest
 
 ### Eligibility<br><br>
 
