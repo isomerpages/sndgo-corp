@@ -14,11 +14,11 @@ The Ministry of Communications and Information (MCI) and its statutory boards; a
 
 The scholarships are part of a collective effort to groom technology, media, library and archives services, and communications talents. A total of five scholarship categories were awarded. They are:
 
-a. IMDA SG Digital Scholarship 
-b. Smart Nation Scholarship 
-c. MCI Information Service Scholarship 
-d. MCI Postgraduate Scholarship 
-e. NLB Scholarship
+a. IMDA SG Digital Scholarship <br>
+b. Smart Nation Scholarship <br>
+c. MCI Information Service Scholarship <br>
+d. MCI Postgraduate Scholarship <br>
+e. NLB Scholarship <br>
 
 #### Developing Future Leaders for the Technology, Media, and Information Sectors
 
@@ -53,7 +53,7 @@ For media clarifications, please contact:
 **MCI**<br>
 Adam Osman (Mr) <br>
 Senior Manager, Communications &amp; Engagement <br> 
-(65) 9152 0163** <br>
+(65) 9152 0163 <br>
 [Adam_osman@mci.gov.sg](mailto:Adam_osman@mci.gov.sg)
 
 **SNDGG**<br>
