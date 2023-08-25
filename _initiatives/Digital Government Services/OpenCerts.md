@@ -1,11 +1,11 @@
 ---
 title: OpenCerts
-permalink: /initiatives/digital-government-services/opencerts
+permalink: /initiatives/digital-government-services/opencerts/
 third_nav_title: Digital Government Services
 description: "OpenCerts is a blockchain platform with a unique benefit: It
   offers an easy, reliable way for schools to issue and validate
   tamper-resistant digital academic certificates to students."
-image: /images/initiatives/OpenCerts.png
+image: /images/initiatives/opencerts.png
 ---
 
 # Graduate with a Digital Academic Certificate 

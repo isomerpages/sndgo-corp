@@ -6,10 +6,10 @@ description: Parents Gateway is an app for schools to disseminate information,
   and seek parents’ consent on admin matters, in a consolidated digital form. It
   gives you greater access and control over your child’s participation in school
   activities and for you to better manage school-related administrative tasks.
-image: /images/initiatives/Parent-gateway-screenshots.jpeg
+image: /images/initiatives/parent-gateway-screenshots.jpeg
 ---
 # Gateway to Better Parent–School Communication
-![Parents Gateway app screen shots](/images/initiatives/Parent-gateway-screenshots.jpeg)
+![Parents Gateway app screen shots](/images/initiatives/parent-gateway-screenshots.jpeg)
 
 
 Parents, are you tired of trying to keep track of the information and consent forms sent by your child’s school? We hear you.
@@ -53,4 +53,3 @@ Say goodbye to physical forms and hello to an easier way to communicate with par
 *   Track readership and response rate of parents at a glance.
     
 *   Schedule Parent-Teacher meetings efficiently, reducing back-and-forth coordination with parents.
-    

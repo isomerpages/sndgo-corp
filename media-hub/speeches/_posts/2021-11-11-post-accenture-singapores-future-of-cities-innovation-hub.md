@@ -1,7 +1,7 @@
 ---
 title: Accenture Singapore's  Future of Cities Innovation Hub
 date: 2021-11-11
-permalink: /media-hub/speeches/Accenture-Innovation-Hub
+permalink: /media-hub/speeches/accenture-innovation-hub/
 layout: post
 ---
 ## Speech by SMS Janil Puthucheary at the launch of Accenture Singapore's Future of Cities Innovation Hub

@@ -1,17 +1,17 @@
 ---
 title: myENV App
-permalink: /initiatives/urban-living/myenv-app
+permalink: /initiatives/urban-living/myenv-app/
 third_nav_title: Urban Living
 description: The myENV app is a one-stop mobile platform for a range of
   information, from the weather, air quality, dengue clusters, drain water
   levels and floods, to water service disruptions, where to find hawker centres
   and more.
-image: /images/initiatives/New-myenv-app-layout.jpg
+image: /images/initiatives/new-myenv-app-layout.jpg
 ---
 
 # More Than Just Weather Updates
 
-![Alt text for image on Isomer site](/images/initiatives/New-myenv-app-layout.jpg)
+![Alt text for image on Isomer site](/images/initiatives/new-myenv-app-layout.jpg)
 
 
 The myENV app is a one-stop mobile platform for a range of information, from the weather, air quality, dengue clusters, drain water levels and floods, to water service disruptions, where to find hawker centres and more.
@@ -31,7 +31,7 @@ The latest version of the app, launched in March 2021, has about 200,000 active 
 #### Download myENV App now!
 
   <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:25%"><a href="https://play.google.com/store/apps/details?id=sg.gov.nea" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/Google-Play.png"></a>
+         <div style="flex:25%"><a href="https://play.google.com/store/apps/details?id=sg.gov.nea" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/google-play.png"></a>
           </div>
-          <div style="flex:25%;"><a href="https://apps.apple.com/sg/app/myenv/id444435182" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/Apple-Store.png"></a>
+          <div style="flex:25%;"><a href="https://apps.apple.com/sg/app/myenv/id444435182" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/apple-store.png"></a>
           </div>

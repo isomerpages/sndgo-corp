@@ -2,7 +2,7 @@
 title: Strategic Technology Master Plan Unveiled to Improve Population's Health
   and Health Administration
 date: 2017-05-30
-permalink: /media-hub/press-releases/strategic-technology-master-plan-unveiled-to-improve-population-s-health-and-health-administration
+permalink: /media-hub/press-releases/strategic-technology-master-plan-unveiled-to-improve-population-s-health-and-health-administration/
 ---
 ## Strategic Technology Master Plan Unveiled To Improve Populations Health And Health Administration
 

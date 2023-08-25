@@ -2,7 +2,7 @@
 layout: post
 title: TraceTogether & SafeEntry To Be Enhanced In Preparation For Further
   Opening Of The Economy
-permalink: /media-hub/press-releases/tracetogether-and-safeentry-to-be-enhanced
+permalink: /media-hub/press-releases/tracetogether-and-safeentry-to-be-enhanced/
 ---
 ## TraceTogether And SafeEntry To Be Enhanced In Preparation For Further Opening Of The Economy
 

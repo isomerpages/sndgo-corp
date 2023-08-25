@@ -2,7 +2,7 @@
 layout: post
 title: Close To Three-Fold Increase In Applications For The 2019 Smart Nation
   Scholarship
-permalink: /media-hub/press-releases/close-to-three-fold-increase-in-applications-for-the-2019-smart-nation-scholarship
+permalink: /media-hub/press-releases/close-to-three-fold-increase-in-applications-for-the-2019-smart-nation-scholarship/
 ---
 ## Close To Three-Fold Increase In Applications For The 2019 Smart Nation Scholarship
 

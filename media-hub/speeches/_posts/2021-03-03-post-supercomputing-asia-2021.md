@@ -1,7 +1,7 @@
 ---
 title: SuperComputing Asia 2021
 date: 2021-03-03
-permalink: /media-hub/speeches/supercomputingasia-2021
+permalink: /media-hub/speeches/supercomputingasia-2021/
 layout: post
 ---
 

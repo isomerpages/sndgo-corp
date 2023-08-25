@@ -5,10 +5,10 @@ description: "Mission: A Singapore where people are more empowered to live
   meaningful and fulfilled lives, enabled seamlessly by technology, offering
   exciting opportunities for all."
 third_nav_title: About Us
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 
-![Vision and Mission](/images/abt-smart-nation/Milestones.jpg)
+![Vision and Mission](/images/abt-smart-nation/milestones.jpg)
 
 # Our Vision
 

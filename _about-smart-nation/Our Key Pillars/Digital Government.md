@@ -3,14 +3,14 @@ title: Digital Government
 permalink: /about-smart-nation/digital-government/
 description: Our vision of a Digital Government is “digital to the core, and
   serves with heart”.
-image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
+image: /images/og-image/smart-nation-pillars-og-image.jpg
 third_nav_title: Our Key Pillars
 ---
 # Digital Government
 
 Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
 
-![Digital to the core and serves with hearth](/images/abt-smart-nation/Digital-Government-Who-What-How.jpg)
+![Digital to the core and serves with hearth](/images/abt-smart-nation/digital-government-who-what-how.jpg)
 
 The [Digital Government Blueprint (277kb)](/files/publications/dgb-public-document_30dec20.pdf)  details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.  
 

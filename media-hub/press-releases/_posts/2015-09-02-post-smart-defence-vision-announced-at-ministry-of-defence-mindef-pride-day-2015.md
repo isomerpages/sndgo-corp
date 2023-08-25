@@ -1,7 +1,7 @@
 ---
 title: Smart Defence Vision Announced at Ministry of Defence (MINDEF) PRIDE Day 2015
 date: 2015-09-02
-permalink: /media-hub/press-releases/smart-defence-vision-announced-at-ministry-of-defence-mindef-pride-day-2015
+permalink: /media-hub/press-releases/smart-defence-vision-announced-at-ministry-of-defence-mindef-pride-day-2015/
 ---
 ## Smart Defence Vision Announced At Ministry Of Defence Mindef Pride Day 2015
 

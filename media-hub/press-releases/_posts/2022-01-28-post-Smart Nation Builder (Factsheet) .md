@@ -1,12 +1,12 @@
 ---
 title: "Smart Nation Builder (Factsheet) "
-permalink: /media-hub/press-releases/smart-nation-builder-factsheet
+permalink: /media-hub/press-releases/smart-nation-builder-factsheet/
 date: 2022-01-28
 layout: post
 description: Designed as a roving showcase, the 12m truck is fitted with eight
   interactive game stations for members of the public to learn about our Smart
   Nation initiatives and digital government services.
-image: /images/community/builder/Smart_Nation_Builder_13.jpeg
+image: /images/community/builder/smart_nation_builder_13.jpeg
 ---
 
 ## Factsheet - Smart Nation Builder
@@ -27,7 +27,7 @@ _______
 
 #### Annexes
 
-[Annex A: Full List of Interactive Stations](/files/press-releases/2022/Annex%20A%20-%20Full%20List%20of%20Interactive%20Stations%20-%20Smart%20Nation%20Builder.pdf)
+[Annex A: Full List of Interactive Stations](/files/press-releases/2022/annex%20a%20-%20full%20list%20of%20interactive%20stations%20-%20smart%20nation%20builder.pdf)
 
 _______
 

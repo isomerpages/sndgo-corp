@@ -5,7 +5,7 @@ date: 2022-03-02
 layout: post
 description: GovWallet is an e-wallet feature that Government agencies can use
   to disburse monies and credits to citizens in a secure and convenient way.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 ## Factsheet – GovWallet
 
@@ -37,7 +37,7 @@ To provide even more spending options for citizens, the GovWallet team is lookin
 
 #### Annex A: Screenshot of the GovWallet feature
 
-<div style="width:50%;"><img src="/images/media-hub/press-release/2022/Screenshot-of-the-GovWallet-feature.jpg" alt="Screenshot of the GovWallet feature."></div>
+<div style="width:50%;"><img src="/images/media-hub/press-release/2022/screenshot-of-the-govwallet-feature.jpg" alt="Screenshot of the GovWallet feature."></div>
 
 ---
 

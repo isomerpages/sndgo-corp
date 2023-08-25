@@ -2,7 +2,7 @@
 layout: post
 title: TraceTogether Token Collection At Community Centres To Be Restricted To
   Residents Within The Constituency Only
-permalink: /media-hub/press-releases/tracetogether-token-collection-at-community-centres
+permalink: /media-hub/press-releases/tracetogether-token-collection-at-community-centres/
 ---
 ## TraceTogether Token Collection At Community Centres To Be Restricted To Residents Within The Constituency Only
 

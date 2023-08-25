@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Nation Innovations Week Gala Dinner 2019
-permalink: /media-hub/speeches/smart-nation-innovations-week-gala-dinner-2019
+permalink: /media-hub/speeches/smart-nation-innovations-week-gala-dinner-2019/
 ---
 ## Speech By Dr Vivian Balakrishnan, Minister For Foreign Affairs And Minister-In-Charge Of The Smart Nation Initiative, At SNI Week Gala Dinner 2019, At The Clifford Pier
 

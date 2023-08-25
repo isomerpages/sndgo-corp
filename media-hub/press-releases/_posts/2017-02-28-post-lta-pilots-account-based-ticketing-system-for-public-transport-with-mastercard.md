@@ -1,7 +1,7 @@
 ---
 title: LTA Pilots Account-based Ticketing System for Public Transport with MasterCard
 date: 2017-02-28
-permalink: /media-hub/press-releases/lta-pilots-account-based-ticketing-system-for-public-transport-with-mastercard
+permalink: /media-hub/press-releases/lta-pilots-account-based-ticketing-system-for-public-transport-with-mastercard/
 ---
 ## LTA Pilots Account Based Ticketing System For Public Transport With Mastercard
 

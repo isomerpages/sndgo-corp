@@ -2,7 +2,7 @@
 title: Data Resources & APIs
 permalink: /resources/open-data/
 description: Data is the new currency, and with open data, the possibilities are endless!
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 
 
@@ -48,7 +48,7 @@ The Monetary Authority of Singapore’s APIs provide financial institutions and 
 A one-stop integrated geospatial data sharing platform where government agencies share location-based services and information. OneMap APIs allow users to embed an interactive Map on websites. And with the extensive set of JavaScript APIs available, users will also be able to mashup their own data or the Themes available in OneMap's repository on the basemap.
 
 ### <a href="https://api.singpass.gov.sg/" target="_blank">Singpass API</a>
-<div style="width:50%"><img src="/images/resources/Singpass%20API.jpg"></div>
+<div style="width:50%"><img src="/images/resources/singpass%20api.jpg"></div>
 
 Integrate with our Singpass APIs. Create a trusted digital ecosystem where data and services can transcend the boundaries of organisations.
 
@@ -69,6 +69,6 @@ Find out more about trees in your neighbourhood! The online portal plots more th
 
 
 ### <a href="https://www.ura.gov.sg/maps/" target="_blank">URA Space</a>
-<div style="width:50%"><img src="/images/resources/URA-Space-2.png"></div>
+<div style="width:50%"><img src="/images/resources/ura-space-2.png"></div>
 
 An online geospatial map that consolidates detailed land use information. Access information relating to the master plan, urban design guidelines, private property use and approval, car park locations and availability, private residential property transactions, and conservation areas and buildings.

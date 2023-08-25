@@ -2,7 +2,7 @@
 title: More Convenience with Parking.sg App When It Is Available for Download on
   1 October 2017
 date: 2017-09-29
-permalink: /media-hub/press-releases/more-convenience-with-parkingsg-app-when-it-is-available-for-download-on-1-october-2017
+permalink: /media-hub/press-releases/more-convenience-with-parkingsg-app-when-it-is-available-for-download-on-1-october-2017/
 ---
 ## More Convenience With Parkingsg App When It Is Available For Download On 1 October 2017
 

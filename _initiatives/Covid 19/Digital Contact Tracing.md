@@ -4,16 +4,16 @@ permalink: /combating-covid-19/digital-contact-tracing/
 description: With the help of the digital contact tracing tools – TraceTogether
   (TT) and SafeEntry, - we managed to reduce the average time to identify and
   quarantine close contacts.
-image: /images/covid-19/Covid-Contact-Tracing.jpg
+image: /images/covid-19/covid-contact-tracing.jpg
 third_nav_title: Covid 19
 ---
-![Digital Contact Tracing](/images/covid-19/Covid-Contact-Tracing.jpg)
+![Digital Contact Tracing](/images/covid-19/covid-contact-tracing.jpg)
 
 Digital contact tracing solutions had to be swiftly conceptualised and implemented as the virus hit our shores. The virus needed to be ringfenced so fewer people will be infected and ensure that our health care system was not overloaded. To do this well, effective contact tracing was paramount.
 
 With the help of the digital contact tracing tools – TraceTogether (TT) and SafeEntry, we managed to reduce the average time to identify and quarantine close contacts from 4 days to less than 1.5 days.
 
-# SafeEntry Programme
+## SafeEntry Programme
 
 SafeEntry is our national digital check-in system that logs the information of individuals who visit selected locations to support our contract tracing efforts.
 
@@ -29,7 +29,7 @@ With SafeEntry, we can log the individuals' entry and exit times to a location t
 
 Click on the link for information on [SafeEntry at public transport nodes](/safeentrytransportnodes).
 
-# TraceTogether Programme
+## TraceTogether Programme
 
 The [TraceTogether Programme](https://tracetogether.gov.sg) supports Singapore's digital contact tracing effort in the fight against COVID-19. It comprises the TraceTogether App and TraceTogether Token, and both the App and Token work by using Bluetooth signals to record other nearby TraceTogether devices.
 
@@ -41,7 +41,7 @@ We have also open-sourced TraceTogether's source code so that other organisation
 
 For information on the recycling of TraceTogether Tokens, visit <a href="https://token.gowhere.gov.sg/"> token.gowhere.gov.sg</a>.
 
-# Homer
+## Homer
 
 The [Homer app](https://homer.gov.sg/) allows the Government agencies managing Stay Home Notices (SHN) or Quarantine Orders (QO) to keep in touch with the individuals that have been put on SHN or QO.
 

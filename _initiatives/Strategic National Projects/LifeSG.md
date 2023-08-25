@@ -1,6 +1,6 @@
 ---
 title: LifeSG
-permalink: /initiatives/strategic-national-projects/lifesg
+permalink: /initiatives/strategic-national-projects/lifesg/
 third_nav_title: Strategic National Projects
 description: " LifeSG allows you to easily access Government services, keep up
   with the latest news and updates, track your applications and more."

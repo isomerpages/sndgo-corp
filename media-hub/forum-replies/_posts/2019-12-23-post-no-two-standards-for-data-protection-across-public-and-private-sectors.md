@@ -1,7 +1,7 @@
 ---
 title: No Two Standards For Data Protection Across Public And Private Sectors
 date: 2019-12-23
-permalink: /media-hub/forum-replies/data-protection
+permalink: /media-hub/forum-replies/data-protection/
 layout: post
 ---
 

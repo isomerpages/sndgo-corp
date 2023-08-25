@@ -4,11 +4,11 @@ permalink: /community/smart-nation-ambassadors/
 third_nav_title: Contribute to Smart Nation
 description: Volunteer as a Smart Nation Ambassador and help us help fellow
   Singaporeans get involved in the Smart Nation journey.
-image: /images/community/sna/SmartNationAmbassador07.jpeg
+image: /images/community/sna/smartnationambassador07.jpeg
 ---
 # Transform Lives with Technology
 
-![Smart Nation Ambassdors](/images/community/sna/SmartNationAmbassador02.jpeg)
+![Smart Nation Ambassdors](/images/community/sna/smartnationambassador02.jpeg)
 
 Are you interested to help others understand and use tech for better work, life and play? Volunteer as a Smart Nation Ambassador for many opportunities to do just that!
 
@@ -81,7 +81,7 @@ You don’t need to be a digital whiz or have deep technical skills to volunteer
 
 To volunteer, sign up for your preferred activity at&nbsp;[volunteer.gov.sg](https://www.volunteer.gov.sg/volunteer/agencies/agency_details/?code=SmartNation). You can also sign up for courses on our&nbsp;[SNA Learning portal](https://go.gov.sg/snalearn)&nbsp;to pick up skills that can help you engage the community.
 
-![Smart Nation Ambassdors](/images/community/sna/SNA-Grp.jpg)
+![Smart Nation Ambassdors](/images/community/sna/sna-grp.jpg)
 
 Be sure to read our&nbsp;[FAQs](https://www.smartnation.gov.sg/community/smart-nation-ambassadors/faq)&nbsp;to clear up any questions or concerns you may have. If you have an exciting idea on how we can help each other in this digital journey, please write to us at&nbsp;[ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg). We want to hear from you!
 
@@ -90,7 +90,7 @@ For more updates on Smart Nation events,&nbsp;[follow us on Telegram](https://t.
 <br>
 
 <em>In support of</em> 
-<div style="width:33%;height:33%;"><a href="https://www.sg"><img src="/images/Banners/sgt-logo.jpeg" alt="Singapore Together Movement"></a> </div>
+<div style="width:33%;height:33%;"><a href="https://www.sg"><img src="/images/banners/sgt-logo.jpeg" alt="Singapore Together Movement"></a> </div>
 
 <br>
 

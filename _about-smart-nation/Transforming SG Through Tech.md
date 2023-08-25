@@ -4,14 +4,14 @@ permalink: /about-smart-nation/transforming-singapore/
 description: The Smart Nation initiative is our way forward. Technology will be
   so seamlessly integrated that it will transform the way we work, live and
   play.
-image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
+image: /images/og-image/smart-nation-pillars-og-image.jpg
 ---
 # Transforming Singapore Through Technology
 
-![Transforming Singapore Through Technology](/images/abt-smart-nation/Singapore-Tech.jpg)
+![Transforming Singapore Through Technology](/images/abt-smart-nation/singapore-tech.jpg)
 <br>
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” –  Prime Minister Lee Hsien Loong</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” –&nbsp; Prime Minister Lee Hsien Loong</div>
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
@@ -33,7 +33,7 @@ Learn more about the framework guiding our Smart Nation initiative: [Smart Natio
 
 We have identified key Strategic National Projects to drive and enable the adoption of digital and smart technologies throughout Singapore. 
 
-![Smart Nation Strategic National Projects](/images/abt-smart-nation/Strategic_National_Projects.jpg)
+![Smart Nation Strategic National Projects](/images/abt-smart-nation/strategic_national_projects.jpg)
 
 Click on the link to find out more about our [Strategic National Projects](/initiatives/strategic-national-projects).
 
@@ -77,7 +77,7 @@ One way for us to grow is through sharing good ideas and best practices, explori
 
 The <a href="https://asean.org/asean/asean-smart-cities-network/" target="_blank">ASEAN Smart Cities Network (ASCN)</a> was established in 2018, offering a platform for ASEAN cities to exchange ideas and solutions to catalyse smart city projects.
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:75%;height:75%;"><img src="/images/abt-smart-nation/ASEAN-Smart-Cities-Network.jpg" alt="ASEAN Smart Cities Network"></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:75%;height:75%;"><img src="/images/abt-smart-nation/asean-smart-cities-network.jpg" alt="ASEAN Smart Cities Network"></div></div>
 
 The goal is to improve the lives of people in the region, using technology as an enabler. ASCN provides us with the unique opportunity to quickly leverage opportunities from rapid urbanisation, as well as build a strong defence against cyber threats and trade friction that the region faces.
 
@@ -89,10 +89,10 @@ The goal is to improve the lives of people in the region, using technology as an
 
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
 	<ul>
-		<li><a href="/files/press-releases/2023/COS%202023%20Infographic%20-%20Smart%20Nation%20Today%20and%20Beyond.pdf">COS 2023 Infographic - Smart Nation Today and Beyond</a></li>
-		<li><a href="/files/press-releases/2022/Infographic%20-%20Building%20Our%20Smart%20Nation%20(COS%202022).pdf">COS 2022 Infographics - Building Our Smart Nation</a></li>
-			<li><a href="/files/press-releases/2022/Infographic%20-%20Transforming%20Lives%20(COS%202022).pdf">COS 2022 Infographics: Transforming Lives</a></li>
-			<li><a href="/files/press-releases/2022/Infographic%20-%20Helping%20Businesses%20(COS%202022).pdf">COS 2022 Infographics: Helping Businesses</a></li>
+		<li><a href="/files/press-releases/2023/cos%202023%20infographic%20-%20smart%20nation%20today%20and%20beyond.pdf">COS 2023 Infographic - Smart Nation Today and Beyond</a></li>
+		<li><a href="/files/press-releases/2022/infographic%20-%20building%20our%20smart%20nation%20(cos%202022).pdf">COS 2022 Infographics - Building Our Smart Nation</a></li>
+			<li><a href="/files/press-releases/2022/infographic%20-%20transforming%20lives%20(cos%202022).pdf">COS 2022 Infographics: Transforming Lives</a></li>
+			<li><a href="/files/press-releases/2022/infographic%20-%20helping%20businesses%20(cos%202022).pdf">COS 2022 Infographics: Helping Businesses</a></li>
 			<li><a href="/files/press-releases/2021/transforming-sg-through-tech.pdf">COS 2021 Infographics: Transforming Singapore Through Technology</a></li>
 			<li><a href="/files/press-releases/2021/building-partnerships-and-capabilities-for-smart-nation.pdf">COS 2021 Infographics: Building Partnerships and Capabilities</a></li>
 	</ul>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Nation Innovations Week Gala Dinner 2018
-permalink: /media-hub/speeches/smart-nation-innovations-week-gala-dinner-2018
+permalink: /media-hub/speeches/smart-nation-innovations-week-gala-dinner-2018/
 ---
 ## Speech By Minister Vivian Balakrishnan at the Smart Nation Innovations Week Gala Dinner
 

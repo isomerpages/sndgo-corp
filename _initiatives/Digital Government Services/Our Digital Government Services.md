@@ -5,7 +5,7 @@ third_nav_title: Digital Government Services
 description: To empower citizens to live, work, play, interact and transact
   better with each other and the Government, we have built tech-enabled
   solutions that meet these needs.
-image: /images/initiatives/Singpass-05.jpeg
+image: /images/initiatives/singpass-05.jpeg
 ---
 # Digital Government Services
 
@@ -23,7 +23,7 @@ To empower citizens to live, work, play, interact and transact better with each 
 </div>
 	
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/national-digital-identity"><img src="/images/initiatives/Singpass-website.jpeg" alt="National Digital Identity"></a><br>
+<a href="/initiatives/strategic-national-projects/national-digital-identity"><img src="/images/initiatives/singpass-website.jpeg" alt="National Digital Identity"></a><br>
 	<div class="header"><b>National Digital Identity (Singpass)*</b></div><br>
 	<div class="para">Singpass, the National Digital Identity (NDI) initiative, provides a convenient and secure platform for users - both citizens and businesses - to transact with the Government and other private service providers.
 </div>
@@ -43,14 +43,14 @@ To empower citizens to live, work, play, interact and transact better with each 
 <div class="row">
 
 <div class="col"> 
-<a href="/initiatives/Digital-Government-Services/CrowdTaskSG/"><img src="/images/initiatives/Crowdtasksg-01.jpg" alt="CrowdTaskSG"></a><br>
+<a href="/initiatives/digital-government-services/crowdtasksg/"><img src="/images/initiatives/crowdtasksg-01.jpg" alt="CrowdTaskSG"></a><br>
     <div class="header"><b>CrowdTaskSG</b></div><br>
     <div class="para">CrowdTaskSG is a web portal for government agencies in Singapore to engage citizens and gather insights through crowdsourcing tasks.
 </div>
 <br></div>	
 	
 <div class="col"> 
-<a href="/initiatives/Digital-Government-Services/digital-birth-and-death-certs"><img src="/images/initiatives/overview-pages/digital-birth-death-cert.jpg" alt="Digital Birth and Death Certificates"></a><br>
+<a href="/initiatives/digital-government-services/digital-birth-and-death-certs"><img src="/images/initiatives/overview-pages/digital-birth-death-cert.jpg" alt="Digital Birth and Death Certificates"></a><br>
     <div class="header"><b>Digital Birth and Death Certificates</b></div><br>
     <div class="para">Parents of newborns and next-of-kin of the deceased can download and store digital certificates on their personal mobile devices and laptops.  
 </div>
@@ -96,14 +96,14 @@ To empower citizens to live, work, play, interact and transact better with each 
 <div class="row">
 
 <div class="col">
-<a href="/initiatives/Digital-Government-Services/sg-translate-together/"><img src="/images/initiatives/sgtranslate-01.jpg" alt="SG Translate Together"></a><br>
+<a href="/initiatives/digital-government-services/sg-translate-together/"><img src="/images/initiatives/sgtranslate-01.jpg" alt="SG Translate Together"></a><br>
     <div class="header"><b>SG Translate Together</b></div><br>
     <div class="para">SG Translate Together is a web portal that allows users to generate localised translations
 </div>
 	<br></div>
 	
 <div class="col">
-<a href="/initiatives/Digital-Government-Services/sg-govt-dev-portal/"><img src="/images/initiatives/sgdeveloperportal-01.jpg" alt="Singapore Government Developer Porta"></a><br>
+<a href="/initiatives/digital-government-services/sg-govt-dev-portal/"><img src="/images/initiatives/sgdeveloperportal-01.jpg" alt="Singapore Government Developer Porta"></a><br>
     <div class="header"><b>SG Government Developer Portal</b></div><br>
     <div class="para">A one-stop resource hub for government digital products and services.
 </div>

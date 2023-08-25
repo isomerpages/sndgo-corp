@@ -2,7 +2,7 @@
 layout: post
 title: PA And SNDGO Collaborate To Accelerate Citizens’ Appreciation And
   Understanding Of Smart Nation Policies And Development
-permalink: /media-hub/press-releases/pa-and-sndgo-collaborate-to-accelerate-citizens-appreciation
+permalink: /media-hub/press-releases/pa-and-sndgo-collaborate-to-accelerate-citizens-appreciation/
 ---
 ## PA And SNDGO Collaborate To Accelerate Citizens' Appreciation And Understanding Of Smart Nation Policies And Development
 
@@ -22,7 +22,7 @@ Dr Janil Puthucheary, Minister-in-charge of GovTech said, “We have developed p
 
 The COVID-19 pandemic has thrown up both challenges and opportunities in this new norm. We hope the #SmartNationTogether series will bring together government, private, and community partners to bring Smart Nation content into the homes of every Singaporean.”
 
-Smart Nation: In Conversation is organised in association with PA’s Industry Guru Series and SNDGO’s #SmartNationTogether online engagement initiative ([Annex B (pdf - 20kb)](/files/press-releases/2020/PA-SNT-annex-b-14072020.pdf). PA’s Industry Guru series is a customised professional programme that aims to give first-hand information from industry experts. Smart Nation’s #SmartNationTogether is a new “live” online engagement initiative that curates tech-related content from across government, private and community.
+Smart Nation: In Conversation is organised in association with PA’s Industry Guru Series and SNDGO’s #SmartNationTogether online engagement initiative ([Annex B (pdf - 20kb)](/files/press-releases/2020/pa-snt-annex-b-14072020.pdf). PA’s Industry Guru series is a customised professional programme that aims to give first-hand information from industry experts. Smart Nation’s #SmartNationTogether is a new “live” online engagement initiative that curates tech-related content from across government, private and community.
 
 To register for the ‘Smart Nation: In Conversation’ series, participants can follow the PMET Network Facebook Page, Smart Nation Facebook Page or check out the Smart Nation website ([www.smartnation.gov.sg](http://www.smartnation.gov.sg/)) for more information.
 

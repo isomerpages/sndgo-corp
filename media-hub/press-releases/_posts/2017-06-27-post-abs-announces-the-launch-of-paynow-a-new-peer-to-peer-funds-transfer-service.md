@@ -1,7 +1,7 @@
 ---
 title: ABS Announces the Launch of PayNow, A New Peer-to-Peer Funds Transfer Service
 date: 2017-06-27
-permalink: /media-hub/press-releases/abs-announces-the-launch-of-paynow--a-new-peer-to-peer-funds-transfer-service
+permalink: /media-hub/press-releases/abs-announces-the-launch-of-paynow--a-new-peer-to-peer-funds-transfer-service/
 ---
 ## Abs Announces The Launch Of Paynow A New Peer To Peer Funds Transfer Service
 

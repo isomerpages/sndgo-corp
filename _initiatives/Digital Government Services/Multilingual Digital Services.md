@@ -1,6 +1,6 @@
 ---
 title: Multilingual Digital Services
-permalink: /initiatives/digital-government-services/multilingual-digital-services
+permalink: /initiatives/digital-government-services/multilingual-digital-services/
 third_nav_title: Digital Government Services
 description: "To ensure that our Government digital services are accessible by a
   wide segment of society, we have been rolling out multilingual options since

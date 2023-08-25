@@ -1,13 +1,13 @@
 ---
 title: My Favourite Days (New AR Storybook)
-permalink: /media-hub/press-releases/my-favourite-days
+permalink: /media-hub/press-releases/my-favourite-days/
 date: 2021-12-17
 layout: post
 description: To expose children to the benefits of technology in an innovative
   and engaging way, TOUCH Community Services, together with partners, Smart
   Nation and Digital Government Office (SNDGO); Meta; and MeshMinds; launched
   ‘My Favourite Days’, a 35-page AR storybook.
-image: /images/community/arstorybook/AR-Storybook-03.jpeg
+image: /images/community/arstorybook/ar-storybook-03.jpeg
 ---
 
 ## 'My Favourite Days' - New Augmented Reality Storybook To Help Children Imagine A Tech-Enabled Future 
@@ -94,19 +94,19 @@ _______
 ### Annex A: AR Spreads in 'My Favourite Days'
 
 #### Classroom Spread
-![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Classroom%20Spread.png)
+![Alt text for image on Isomer site](/images/media-hub/press-release/2021/annex%20a%20-%20classroom%20spread.png)
 
 #### Drones Spread
-![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Drones%20Spread.png)
+![Alt text for image on Isomer site](/images/media-hub/press-release/2021/annex%20a%20-%20drones%20spread.png)
 
 #### Hawker Centre Spread
-![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Hawker%20Centre%20Spread.png)
+![Alt text for image on Isomer site](/images/media-hub/press-release/2021/annex%20a%20-%20hawker%20centre%20spread.png)
 
 #### Telemedicine AR Spread
-![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Telemedicine%20AR%20Spread.png)
+![Alt text for image on Isomer site](/images/media-hub/press-release/2021/annex%20a%20-%20telemedicine%20ar%20spread.png)
 
 #### Dragon Playground AR Spread
-![Alt text for image on Isomer site](/images/media-hub/press-release/2021/Annex%20A%20-%20Dragon%20Playground%20AR%20Spread.png)
+![Alt text for image on Isomer site](/images/media-hub/press-release/2021/annex%20a%20-%20dragon%20playground%20ar%20spread.png)
 _________
 
 [^1]: The Early READ Starter Kits are distributed to selected preschool centres which includes low to middle-low income families and provide appropriate materials to encourage parents to read with their children. The variety of materials in the kit helps parents to guide their children through the five early literacy practices such as talking, singing, playing, reading and writing; practices that are important in inculcating early interest in reading. The items are also specially curated to allow repeated use over a long period of time.

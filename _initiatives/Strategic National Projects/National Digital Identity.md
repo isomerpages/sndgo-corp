@@ -1,45 +1,30 @@
 ---
 title: National Digital Identity
-permalink: /initiatives/strategic-national-projects/national-digital-identity
+permalink: /initiatives/strategic-national-projects/national-digital-identity/
 third_nav_title: Strategic National Projects
-description: "As more Government services shift online, it is crucial we have a
+description: As more Government services shift online, it is crucial we have a
   secure and easily accessible digital ecosystem in place. Singpass, the
   National Digital Identity (NDI) initiative, provides a convenient and secure
   platform for users - both citizens and businesses - to transact with the
-  Government and other private service providers. "
-image: /images/initiatives/Singpass-05.jpeg
+  Government and other private service providers.
+image: /images/initiatives/singpass-05.jpeg
 ---
-
 # Creating Your Trusted Digital Identity 
 <br>
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/zacNBxADPH4" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/zacNBxADPH4" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
@@ -54,7 +39,7 @@ Read on to learn more about the current suite of services.
 
 Launched in 2003, Singpass is a personal authentication system that allows users to access various Government services online. Users can log in to digital services conveniently and securely through the Singpass app using their fingerprint, facial recognition or a 6-digit passcode.  Singpass app also introduced two-factor authentication (2FA) methods like Singpass Face Verification and Multi-User SMS 2FA, on top of SMS one-time password (OTP). These provide an additional layer of security to better protect our users’ personal data and allow people to transact anywhere, anytime.
 
-![Alt text for image on Isomer site](/images/initiatives/Singpass-02.jpeg)
+![Alt text for image on Isomer site](/images/initiatives/singpass-02.jpeg)
 
 We have been progressively adding useful features to the Singpass app for simpler everyday transactions. Current features include:
 * One-tap access to commonly-used Government digital services such as checking one's CPF balance, applying for an HDB flat, performing Internet banking, or managing insurance policies more easily
@@ -64,35 +49,21 @@ We have been progressively adding useful features to the Singpass app for simple
 
 Click on the link to download the [Singpass app](https://www.singpass.gov.sg/main).
 
-![Singpass App](/images/initiatives/Singpass-Face-Verification.jpeg)
+![Singpass App](/images/initiatives/singpass-face-verification.jpeg)
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/J5GrO-RQybc"
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/J5GrO-RQybc" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 

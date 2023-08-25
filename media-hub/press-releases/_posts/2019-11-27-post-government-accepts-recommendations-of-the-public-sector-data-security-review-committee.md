@@ -2,7 +2,7 @@
 layout: post
 title: Government Accepts Recommendations Of The Public Sector Data Security
   Review Committee
-permalink: /media-hub/press-releases/government-accepts-recommendations-of-the-public-sector-data-security-review-committee
+permalink: /media-hub/press-releases/government-accepts-recommendations-of-the-public-sector-data-security-review-committee/
 ---
 ## Government Accepts Recommendations Of The Public Sector Data Security Review Committee
 

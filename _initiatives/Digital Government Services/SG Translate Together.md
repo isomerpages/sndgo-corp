@@ -1,6 +1,6 @@
 ---
 title: SG Translate Together
-permalink: /initiatives/Digital-Government-Services/sg-translate-together/
+permalink: /initiatives/digital-government-services/sg-translate-together/
 description: SG Translate Together is a web portal that allows users to generate
   localised translations and submit their post-edited translations to help
   further train the underlying Machine Translation (MT) engine.

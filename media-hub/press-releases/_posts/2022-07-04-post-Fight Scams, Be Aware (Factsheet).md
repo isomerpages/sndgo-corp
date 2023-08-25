@@ -6,7 +6,7 @@ layout: post
 description: An important line of defence against scams is a vigilant public
   with the know-how to recognise legitimate Government websites and URL links
   sent by agencies.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 ## Fight Scams. Be Aware.
 
@@ -22,19 +22,19 @@ legitimate Government websites and URL links sent by agencies.
 Here are three quick steps to remember each time you come across a
 webpage or URL that says it comes from the Singapore Government.
 
-![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/Trusted%20Sites%2001.jpeg)
+![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/trusted%20sites%2001.jpeg)
 
 #### Stop
 
 Before you enter a website or click on a website link that appears to be sent by the Government, don’t click on it straightaway. Look carefully at the URL first.
 
-![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/Trusted%20Sites%2002.jpeg)
+![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/trusted%20sites%2002.jpeg)
 
 #### Check
 
 Make sure the domain of the URL ends with “.gov.sg”.
 
-![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/Trusted%20Sites%2003.jpeg)
+![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/trusted%20sites%2003.jpeg)
 
 #### Go
 
@@ -44,7 +44,7 @@ If it does not, you should be careful, and check the website’s domain here: [w
 
 All the websites listed are legitimate, even if they don’t have the “.gov.sg” domain.
 
-![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/Trusted%20Sites%2004.jpeg)
+![Tech Tip: Stop Scams](/images/media-hub/press-release/2022/trusted%20sites%2004.jpeg)
 
 <br>
 

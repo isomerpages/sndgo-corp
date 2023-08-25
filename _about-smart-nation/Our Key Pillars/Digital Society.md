@@ -1,13 +1,13 @@
 ---
 title: Digital Society
-permalink: /about-smart-nation/digital-society
+permalink: /about-smart-nation/digital-society/
 description: A Digital Society empowers everyone with a fair chance of
   succeeding despite their differences or circumstances.
 third_nav_title: Our Key Pillars
-image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
+image: /images/og-image/smart-nation-pillars-og-image.jpg
 ---
 # Digital Society
-![Digital Society](/images/covid-19/Smart-Nation-Ambassador_TraceTogether-01.jpg)
+![Digital Society](/images/covid-19/smart-nation-ambassador_tracetogether-01.jpg)
 
 A Digital Society empowers everyone with a fair chance of succeeding despite their differences or circumstances. It inspires us to dream bigger, as we get more interconnected with the world through technology.
 
@@ -20,7 +20,7 @@ Whether you’re young or old, tech-savvy or not, the aim is for every Singapore
 
 
 
-<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/Digital-Readiness-Blueprint2.png" alt="Digital Readiness Blueprint">Digital Readiness Blueprint</a></div>
+<div style="width:50%"> <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Digital Readiness Blueprint">Digital Readiness Blueprint</a></div>
 
 <br><br>
 

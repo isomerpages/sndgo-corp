@@ -1,14 +1,14 @@
 ---
 title: Smart Nation CityScape Codebreaker
-permalink: /cityscape-codebreaker-hint
+permalink: /cityscape-codebreaker-hint/
 ---
-
 # Smart Nation CityScape - Codebreaker Hint
 
-![Smart Nation Cityscape logo](/images/pages/Smart-nation-cityscape-logo.jpg)
+
+![Smart Nation Cityscape logo](/images/pages/smart-nation-cityscape-logo.jpg)<br>
 
 
-## **Here's a hint to help you decode the hidden message!**
+## Here's a hint to help you decode the hidden message!
 
 ### What is programming language?
 A programming language is made up of a series of symbols that allow humans to translate our intentions into instructions that computers can understand.

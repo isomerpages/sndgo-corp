@@ -55,7 +55,7 @@ Learn how our business and finance initiatives are helping companies here stay v
 </div>
 
 <div class="col">
-<a href="/initiatives/Business/sgfindex"><img src="/images/initiatives/SGFINDEX.jpg" alt="SGFinDex"></a><br>
+<a href="/initiatives/business/sgfindex"><img src="/images/initiatives/sgfindex.jpg" alt="SGFinDex"></a><br>
     <div class="header"><b>SGFinDex</b></div><br>
     <div class="para">SGFinDex is the world's first public digital infrastructure to use a national digital identity and centrally managed online consent system to enable individuals to access their financial information held across different government agencies and financial institutions.
 </div>
@@ -67,7 +67,7 @@ Learn how our business and finance initiatives are helping companies here stay v
 <div class="row">
 
 <div class="col">
-<a href="/initiatives/Business/sgtradex"><img src="/images/initiatives/SGTRADEX.jpg" alt="SGTraDex"></a><br>
+<a href="/initiatives/business/sgtradex"><img src="/images/initiatives/sgtradex.jpg" alt="SGTraDex"></a><br>
     <div class="header"><b>SGTraDex</b></div><br>
     <div class="para">SGTraDex is a digital infrastructure that facilitates trusted and secure sharing of data between supply chain ecosystem partners.
 </div>

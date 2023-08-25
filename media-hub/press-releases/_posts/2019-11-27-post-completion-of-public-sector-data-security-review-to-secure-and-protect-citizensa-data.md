@@ -2,7 +2,7 @@
 layout: post
 title: Completion Of Public Sector Data Security Review - To Secure And Protect
   Citizens’ Data
-permalink: /media-hub/press-releases/completion-of-public-sector-data-security-review-to-secure-and-protect-citizens-data
+permalink: /media-hub/press-releases/completion-of-public-sector-data-security-review-to-secure-and-protect-citizens-data/
 ---
 ## Completion Of Public Sector Data Security Review To Secure And Protect Citizen's Data
 
@@ -57,7 +57,7 @@ Mr Ho Wah Lee, Former KPMG Partner, said, “Taking into account the evolving da
 
 a. **[Opening remarks by Senior Minister Teo Chee Hean (pdf - 490kb)](/files/press-releases/2019/opening-remarks-by-sm-teo-at-psdsrc-press-conference-27-nov-2019.pdf)**
 
-b. **[Public Sector Data Security Review Committee Report (pdf - 2.4mb)](/files/publications/psdsrc-main-report-Nov2019.pdf)**
+b. **[Public Sector Data Security Review Committee Report (pdf - 2.4mb)](/files/publications/psdsrc-main-report-nov2019.pdf)**
 
 c. **[Annexes to the Public Sector Data Security Review Committee Report (pdf - 1.4mb)](/files/publications/annexes-to-the-psdsrc-final-report.pdf)**
 

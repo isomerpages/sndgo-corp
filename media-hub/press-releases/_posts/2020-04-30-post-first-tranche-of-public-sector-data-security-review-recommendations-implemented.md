@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Tranche Of Public Sector Data Security Review Recommendations Implemented
-permalink: /media-hub/press-releases/first-tranche-of-public-sector-data-security-review-recommendations-implemented
+permalink: /media-hub/press-releases/first-tranche-of-public-sector-data-security-review-recommendations-implemented/
 ---
 ## First Tranche Of Public Sector Data Security Review Recommendations Implemented
 

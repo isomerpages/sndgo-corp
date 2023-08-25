@@ -4,7 +4,7 @@ permalink: /initiatives/business/corppass/
 third_nav_title: Business & Finance
 description: In our Digital Economy, businesses need a secure, convenient way to
   transact with the Government’s online services.
-image: /images/og-image/Smart-Nation-Pillars-OG-Image.jpg
+image: /images/og-image/smart-nation-pillars-og-image.jpg
 ---
 
 

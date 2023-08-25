@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shopee Code League 2020
-permalink: /media-hub/speeches/shopee-code-league-2020
+permalink: /media-hub/speeches/shopee-code-league-2020/
 ---
 ## Opening Address by Minister Vivian Balakrishnan at the Shopee Code League 2020
 

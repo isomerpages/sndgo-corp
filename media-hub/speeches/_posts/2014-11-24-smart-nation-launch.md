@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Nation Launch
-permalink: /media-hub/speeches/smart-nation-launch
+permalink: /media-hub/speeches/smart-nation-launch/
 ---
 ## Transcript of Speech By Prime Minister Lee Hsien Loong At Smart Nation Launch
 

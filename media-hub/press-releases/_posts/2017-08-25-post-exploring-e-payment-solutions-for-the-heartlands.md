@@ -1,7 +1,7 @@
 ---
 title: Exploring E-Payment Solutions For The Heartlands
 date: 2017-08-25
-permalink: /media-hub/press-releases/exploring-e-payment-solutions-for-the-heartlands
+permalink: /media-hub/press-releases/exploring-e-payment-solutions-for-the-heartlands/
 ---
 ## Exploring E Payment Solutions For The Heartlands
 

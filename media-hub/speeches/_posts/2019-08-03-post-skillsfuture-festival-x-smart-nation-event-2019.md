@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skillsfuture Festival X Smart Nation Event 2019
-permalink: /media-hub/speeches/skillsfuture-festival-x-smart-nation-event-2019
+permalink: /media-hub/speeches/skillsfuture-festival-x-smart-nation-event-2019/
 ---
 ## SMS Janil’s Speech for SkillsFuture Festival x Smart Nation Event
 

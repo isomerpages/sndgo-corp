@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SafeEntry Gateway For An Improved And Seamless Check-In Experience
-permalink: /media-hub/press-releases/safeentry-gateway-for-an-improved-and-seamless-check-in-experience
+permalink: /media-hub/press-releases/safeentry-gateway-for-an-improved-and-seamless-check-in-experience/
 ---
 ## SafeEntry Gateway For An Improved And Seamless Check-In Experience
 

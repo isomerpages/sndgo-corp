@@ -1,6 +1,6 @@
 ---
 title: GoBusiness
-permalink: /initiatives/strategic-national-projects/gobusiness
+permalink: /initiatives/strategic-national-projects/gobusiness/
 third_nav_title: Strategic National Projects
 description: For a business, it can be costly and time-consuming – not to
   mention mind-boggling - to trawl through different Government websites to

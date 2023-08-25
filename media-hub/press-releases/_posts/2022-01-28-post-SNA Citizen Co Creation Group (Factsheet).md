@@ -1,13 +1,13 @@
 ---
 title: SNA Citizen Co Creation Group (Factsheet)
-permalink: /media-hub/press-releases/SNA-Citizen-Co-Creation-Group-Factsheet
+permalink: /media-hub/press-releases/sna-citizen-co-creation-group-factsheet/
 date: 2022-01-28
 layout: post
 description: The SNA Citizen Co-Creation Group will be made up of Smart Nation
   Ambassadors who are community leaders representing diverse groups, including
   persons with disabilities, low-income families, seniors, clan associations and
   SMEs.
-image: /images/community/sna/SmartNationAmbassador01.jpg
+image: /images/community/sna/smartnationambassador01.jpg
 ---
 
 ## Factsheet - Smart Nation Ambassadors Citizen Co-Creation Group

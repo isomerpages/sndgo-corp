@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Launch Of GoBusiness Licensing Portal
-permalink: /media-hub/press-releases/launch-of-gobusiness-licensing-portal
+permalink: /media-hub/press-releases/launch-of-gobusiness-licensing-portal/
 ---
 ## Launch Of GoBusiness Licensing Portal To Make Licensing Application Process For Businesses Simpler, Faster And Better
 

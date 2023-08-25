@@ -1,7 +1,7 @@
 ---
 layout: post
 title: National Artificial Intelligence Strategy Unveiled
-permalink: /media-hub/press-releases/national-artificial-intelligence-strategy-unveiled
+permalink: /media-hub/press-releases/national-artificial-intelligence-strategy-unveiled/
 ---
 ## National Artificial Intelligence Strategy Unveiled
 

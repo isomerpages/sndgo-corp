@@ -1,6 +1,6 @@
 ---
 title: Digital Birth and Death Certificates
-permalink: /initiatives/Digital-Government-Services/digital-birth-and-death-certs
+permalink: /initiatives/digital-government-services/digital-birth-and-death-certs/
 description: From 29 May 2022, you may download digital birth and death certificates.
 third_nav_title: Digital Government Services
 image: /images/initiatives/digital-death-birth-cert.jpeg
@@ -13,10 +13,10 @@ For parents, this means having more time to spend with your newborn instead of q
 
 The registration of death will also be streamlined such that bereaved family members can focus their attention on things other than post-death administrative tasks.
 
-# Digital Birth Certificate
+## Digital Birth Certificate
 
-![Birth Registration Process](/images/initiatives/Birth-Registration-Process.jpg)
+![Birth Registration Process](/images/initiatives/birth-registration-process.jpg)
 
-# Digital Death Certificate
+## Digital Death Certificate
 
-![Death Registration Process](/images/initiatives/Death-Registration-Process.jpg)
+![Death Registration Process](/images/initiatives/death-registration-process.jpg)

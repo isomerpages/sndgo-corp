@@ -1,7 +1,7 @@
 ---
 title: LTA Inks Agreement with ST Kinetics to Develop & Trial Autonomous Buses
 date: 2017-04-10
-permalink: /media-hub/press-releases/lta-inks-agreement-with-st-kinetics-to-develop-and-trial-autonomous-buses
+permalink: /media-hub/press-releases/lta-inks-agreement-with-st-kinetics-to-develop-and-trial-autonomous-buses/
 ---
 ## LTA Inks Agreement With ST Kinetics To Develop And Trial Autonomous Buses
 
@@ -15,7 +15,7 @@ The proposal from ST Kinetics, the land systems and specialty vehicles arm of ST
 
 To encourage more people to walk, cycle and take public transport, we have to provide convenient, comfortable and efficient shared transport options for commuters. This includes higher-capacity vehicles, such as buses, to ferry people to their destinations in a timely manner, especially during the morning and evening peak hours. ST Kinetics’ proposal to develop and trial autonomous buses will enable LTA to explore if AV technology can meet this need.
 
-ST Kinetics will develop and integrate the AV technologies onto two 40-seater electric buses that can be deployed to serve fixed and scheduled services for intra- and inter-town travel in the future. To navigate autonomously, the buses will use a satellite-based Global Positioning (GPS) System and a suite of sensors to scan and determine their location and immediate surroundings. The buses will also have radars and sonars that are able to detect other vehicles and pedestrians up to 200m ahead. In addition, ST Kinetics is also working to improve the autonomous buses’ ability to navigate in heavier rain conditions, up from the current 10mm/h to 30mm/h. For more information on ST Kinetics’ autonomous bus prototypes, please refer to the [Annex (100kb)](/files/press-releases/2017/20170410_STKAVBPrototype.pdf).
+ST Kinetics will develop and integrate the AV technologies onto two 40-seater electric buses that can be deployed to serve fixed and scheduled services for intra- and inter-town travel in the future. To navigate autonomously, the buses will use a satellite-based Global Positioning (GPS) System and a suite of sensors to scan and determine their location and immediate surroundings. The buses will also have radars and sonars that are able to detect other vehicles and pedestrians up to 200m ahead. In addition, ST Kinetics is also working to improve the autonomous buses’ ability to navigate in heavier rain conditions, up from the current 10mm/h to 30mm/h. For more information on ST Kinetics’ autonomous bus prototypes, please refer to the [Annex (100kb)](/files/press-releases/2017/20170410_stkavbprototype.pdf).
 
 The three-and-a-half year project will see the autonomous buses being tested in various environments. LTA is working with stakeholders such as the National University of Singapore (NUS) as well as JTC to look at suitable trial locations, which can potentially include Jurong Island and NUS’ campus. The initial testing will be conducted during off-peak periods at an industrial area where the road infrastructure is less complex. As the autonomous buses are gradually equipped with more advanced capabilities, they will be progressively introduced to more complex trial sites.
 

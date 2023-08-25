@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Progress Update On Public Sector Data Security Review
-permalink: /media-hub/press-releases/progress-update-on-public-sector-data-security-review
+permalink: /media-hub/press-releases/progress-update-on-public-sector-data-security-review/
 ---
 ## Progress Update On Public Sector Data Security Review
 

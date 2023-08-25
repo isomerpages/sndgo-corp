@@ -1,6 +1,6 @@
 ---
 title: Quiz
-permalink: /careers/Quiz
+permalink: /careers/quiz/
 breadcrumb: Quiz
 ---
 

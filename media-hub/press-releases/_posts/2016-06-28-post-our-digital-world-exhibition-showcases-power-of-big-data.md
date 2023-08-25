@@ -1,7 +1,7 @@
 ---
 title: ‘Our Digital World’ Exhibition Showcases Power of Big Data
 date: 2016-06-28
-permalink: /media-hub/press-releases/our-digital-world-exhibition-showcases-power-of-big-data
+permalink: /media-hub/press-releases/our-digital-world-exhibition-showcases-power-of-big-data/
 ---
 ## Our Digital World Exhibition Showcases Power Of Big Data
 
@@ -19,7 +19,7 @@ The Urban Lab exhibition series started in 2015. The current exhibition, which i
 
 Visitors will hear first-hand accounts of the pivotal role data plays in land use and infrastructure planning; learn how big data analytics and digital planning tools can help planners better plan and design the built environment; and find out how data sharing and geospatial technology can help bring communities together. Examples include enlisting members of public to give first aid to cardiac arrest patients, delivering bread to the needy, and even forming neighbourhood teams to take part in events.
 
-Visitors can also check out a series of maps created by overlaying and stitching together different datasets using GIS technology, and experience an immersive virtual reality experience of downtown Singapore by trying a demo developed by Bandai Namco Studios Singapore. Refer to [Annex A (160kb)](/files/press-releases/2016/Highlights-of-Our-Digital-World-exhibition-annex-a.pdf) for highlights of the exhibition.
+Visitors can also check out a series of maps created by overlaying and stitching together different datasets using GIS technology, and experience an immersive virtual reality experience of downtown Singapore by trying a demo developed by Bandai Namco Studios Singapore. Refer to [Annex A (160kb)](/files/press-releases/2016/highlights-of-our-digital-world-exhibition-annex-a.pdf) for highlights of the exhibition.
 
 ### DATA ANALYTICS IN PLANNING
 

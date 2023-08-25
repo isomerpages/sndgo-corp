@@ -6,7 +6,7 @@ layout: post
 description: Over the past 5 years, Smart Nation initiatives have resulted in
   greater convenience, accessibility and benefits to our citizens and
   businesses.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 ## Summary of key announcements at Committee of Supply 2022 - Smart Nation
 
@@ -72,13 +72,13 @@ _______
 * Factsheet - [GovWallet](/media-hub/press-releases/govwallet-factsheet-02032022)
 * Factsheet - [GoWhere Suite of Services](/media-hub/press-releases/gowhere-suite-factsheet-02032022)
 * Factsheet - [Singpass (National Digital Identity)](/media-hub/press-releases/singpass-factsheet-02032022)
-* Factsheet - [SNA Citizen Co-creation Group](/media-hub/press-releases/SNA-Citizen-Co-Creation-Group-Factsheet)
+* Factsheet - [SNA Citizen Co-creation Group](/media-hub/press-releases/sna-citizen-co-creation-group-factsheet)
 * Infographics: Building Our Smart Nation
-<div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Building%20Our%20Smart%20Nation%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Building-Our-Smart-Nation-(COS-2022).jpg" alt="COS 2022 Infographics: Building Our Smart Nation"></a></div>
+<div style="width:50%"> <a href="/files/press-releases/2022/infographic%20-%20building%20our%20smart%20nation%20(cos%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/infographic-building-our-smart-nation-(cos-2022).jpg" alt="COS 2022 Infographics: Building Our Smart Nation"></a></div>
 * Infographics: Trasnforming Lives
-<div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Transforming%20Lives%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Transforming-Lives-(COS-2022).jpg" alt="COS 2022 Infographics: Transforming Lives"></a></div>
+<div style="width:50%"> <a href="/files/press-releases/2022/infographic%20-%20transforming%20lives%20(cos%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/infographic-transforming-lives-(cos-2022).jpg" alt="COS 2022 Infographics: Transforming Lives"></a></div>
 * Infographics: Helping Businesses 
-<div style="width:50%"> <a href="/files/press-releases/2022/Infographic%20-%20Helping%20Businesses%20(COS%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/Infographic-Helping-Businesses-(COS-2022).jpg" alt="COS 2022 Infographics: Helping Businesses"></a></div>
+<div style="width:50%"> <a href="/files/press-releases/2022/infographic%20-%20helping%20businesses%20(cos%202022).pdf" target="_blank"><img style="border:1px solid black;" src="/images/media-hub/press-release/2022/infographic-helping-businesses-(cos-2022).jpg" alt="COS 2022 Infographics: Helping Businesses"></a></div>
 
 _______
 

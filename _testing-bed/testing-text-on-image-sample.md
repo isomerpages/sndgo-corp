@@ -1,6 +1,6 @@
 ---
 title: Testing Text on Image Sample
-permalink: /testing-bed/text-on-image
+permalink: /testing-bed/text-on-image/
 ---
 
 

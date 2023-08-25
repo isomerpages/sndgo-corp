@@ -2,7 +2,7 @@
 title: Newly-launched GovTech to Transform Public Service Delivery with
   Citizen-centric Digital Services
 date: 2016-10-07
-permalink: /media-hub/press-releases/newly-launched-govtech-to-transform-public-service-delivery-with-citizen-centric-digital-services-and-products
+permalink: /media-hub/press-releases/newly-launched-govtech-to-transform-public-service-delivery-with-citizen-centric-digital-services-and-products/
 ---
 ## Newly Launched Govtech To Transform Public Service Delivery With Citizen Centric Digital Services 
 

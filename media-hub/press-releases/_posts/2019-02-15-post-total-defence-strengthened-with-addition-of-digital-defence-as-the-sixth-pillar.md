@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Total Defence Strengthened with Addition of Digital Defence as the Sixth Pillar
-permalink: /media-hub/press-releases/total-defence-strengthened-with-addition-of-digital-defence-as-the-sixth-pillar
+permalink: /media-hub/press-releases/total-defence-strengthened-with-addition-of-digital-defence-as-the-sixth-pillar/
 ---
 ## Total Defence Strengthened With Addition Of Digital Defence As The Sixth Pillar
 

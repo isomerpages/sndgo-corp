@@ -2,7 +2,7 @@
 layout: post
 title: Inaugural Update On Government Personal Data Protection And
   Implementation Of PSDSRC Recommendations
-permalink: /media-hub/press-releases/inaugural-update-psdsrc
+permalink: /media-hub/press-releases/inaugural-update-psdsrc/
 ---
 ## Inaugural Update On Government Personal Data Protection And Implementation Of PSDRC Recommendations
 

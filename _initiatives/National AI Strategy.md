@@ -4,7 +4,7 @@ permalink: /initiatives/artificial-intelligence/
 description: By 2030, we see Singapore as a leader in developing and deploying
   scalable, impactful artificial intelligence (AI) solutions, in key sectors of
   high value and relevance to our citizens and businesses.
-image: /images/og-image/AI-OG-Image.jpg
+image: /images/og-image/ai-og-image.jpg
 ---
 # The Next Frontier of Singapore's Smart Nation Journey
 As a Smart Nation, we want to go beyond just adopting technology. Our aim is to fundamentally rethink business models, so that we can make impactful changes to reap productivity gains and create new growth areas.
@@ -35,7 +35,7 @@ The National AI Strategy outlines our plans to deepen the use of AI to transform
 
 In order to drive AI innovation and adoption, we must build a vibrant and sustainable ecosystem. To do so, we’ve identified five critical ecosystem enablers.
 
-![Ecosystem Enablers for AI](/images/initiatives/Ecosystem_Enablers_for_AI.jpg)
+![Ecosystem Enablers for AI](/images/initiatives/ecosystem_enablers_for_ai.jpg)
 
  1. **Triple helix partnerships** between the research community, industry and Government enables the rapid commercialisation of fundamental research and deployment of AI solutions.
  2. **Talent and education** addresses the need to develop homegrown talent across the entire range of AI-related job roles and helps Singaporeans prepare for the future AI economy.
@@ -47,7 +47,7 @@ In order to drive AI innovation and adoption, we must build a vibrant and sustai
 
 We have also identified seven National AI Projects that can deliver strong social and economic impact for Singapore and Singaporeans.
 
-![National AI Programmes](/images/initiatives/National_AI_Programmes.jpg)
+![National AI Programmes](/images/initiatives/national_ai_programmes.jpg)
 
 **1. Healthcare:** Chronic disease prediction and management helps with faster detection and treatment of such diseases.
 

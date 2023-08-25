@@ -1,11 +1,11 @@
 ---
 title: CODEX
-permalink: /initiatives/strategic-national-projects/codex
+permalink: /initiatives/strategic-national-projects/codex/
 third_nav_title: Strategic National Projects
 description: Core Operations Development Environment and eXchange (CODEX) is a
   shared digital platform between government agencies and private sectors to
   develop better, faster and more cost-effective digital services.
-image: /images/initiatives/Codex-snp.jpeg
+image: /images/initiatives/codex-snp.jpeg
 ---
 # Sharing Resources to Develop Digital Services For Citizens 
 
@@ -17,7 +17,7 @@ CODEX comprises:
 * **Shifting less sensitive government systems and data to commercial cloud services** and tapping on these resources to better develop digital services.
 * **A Singapore Government Technology Stack (SGTS)** that includes a suite of shared software components and infrastructure to enable more efficient and focused building of digital applications.
 
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:400px;height:600px;"><img src="/images/initiatives/CODEX.jpeg" alt="CODEX"></div></div>
+<div style="width:100%;display:flex;justify-content:center;"><div style="width:400px;height:600px;"><img src="/images/initiatives/codex.jpeg" alt="CODEX"></div></div>
 
 ## How CODEX Makes a Difference
 

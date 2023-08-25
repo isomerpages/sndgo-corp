@@ -2,7 +2,7 @@
 title: Government websites that are frequently used have information in official
   languages
 date: 2021-10-21
-permalink: /media-hub/forum-replies/website-translations
+permalink: /media-hub/forum-replies/website-translations/
 layout: post
 description: ""
 ---

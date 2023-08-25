@@ -1,7 +1,7 @@
 ---
 title: Safeguard phones, devices used to access Singpass
 date: 2021-11-17
-permalink: /media-hub/forum-replies/access-to-dig-ic-too-easy
+permalink: /media-hub/forum-replies/access-to-dig-ic-too-easy/
 layout: post
 description: ""
 ---

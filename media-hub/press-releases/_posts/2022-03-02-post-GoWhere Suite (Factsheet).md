@@ -6,7 +6,7 @@ layout: post
 description: The GoWhere suite of websites supports location/eligibility-based
   information queries, serves as a portal to disseminate information to the
   public, and as a tech interface for government distribution operations.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 ## Factsheet – GoWhere Suite
 

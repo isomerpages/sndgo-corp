@@ -1,12 +1,12 @@
 ---
 title: Enhancements to the Singpass app (Factsheet)
-permalink: /media-hub/press-releases/singpass-enhancements-factsheet-02032022
+permalink: /media-hub/press-releases/singpass-enhancements-factsheet-02032022/
 date: 2022-03-02
 layout: post
 description: The Singpass app has been made available in the four official
   languages, namely English, Chinese, Malay and Tamil, to provide greater
   convenience and improved accessibility to more Singapore residents.
-image: /images/initiatives/Singpass-02.jpeg
+image: /images/initiatives/singpass-02.jpeg
 ---
 
 ## Factsheet - Enhancements to the Singpass app
@@ -45,7 +45,7 @@ _______
 
 To ensure services are easily accessible, the Singpass app is available in Singapore’s four official languages: English, Chinese, Malay and Tamil. Users can switch to their preferred language in the settings menu by following these steps:
 
-![Switching to preferred language on Singpass app.](/images/media-hub/press-release/2022/switch-to-preferred-language-on-Singpass-app.jpg)
+![Switching to preferred language on Singpass app.](/images/media-hub/press-release/2022/switch-to-preferred-language-on-singpass-app.jpg)
 
 ##### 2. Why are some parts of the Singpass app, e.g. messages in the inbox, not translated?
 
@@ -72,11 +72,11 @@ These data items are official records retrieved from verified government sources
 
 Users with a valid Corppass account are first required to link their Corppass account(s) by tapping “Link Account” on the Singpass app homepage. Steps are as follows:
 
-![Linking Corppass account.](/images/media-hub/press-release/2022/linking-Corppass-account.jpg)
+![Linking Corppass account.](/images/media-hub/press-release/2022/linking-corppass-account.jpg)
 
 Upon successful verification, users would then be able to switch to their preferred Corppass account(s) seamlessly and securely by tapping “Switch Account” on the Singpass app homepage. Steps are as follows:
 
-![Switching Corppass account on Singpass app.](/images/media-hub/press-release/2022/switching-corppass-account-on-Singpass-app.jpg)
+![Switching Corppass account on Singpass app.](/images/media-hub/press-release/2022/switching-corppass-account-on-singpass-app.jpg)
 
 Users who would like to use this feature but do not have a Corppass account should approach the business entity’s Corppass Administrator for assistance.
 

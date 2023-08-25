@@ -2,7 +2,7 @@
 title: TraceTogether-Only SafeEntry Brought Forward To 17 May 2021 To Enhance
   Coverage And Speed Of Contact Tracing
 date: 2021-05-04
-permalink: /media-hub/press-releases/tos-17-may
+permalink: /media-hub/press-releases/tos-17-may/
 ---
 ## TraceTogether-Only SafeEntry Brought Forward To 17 May 2021 To Enhance Coverage And Speed Of Contact Tracing
 
@@ -26,11 +26,11 @@ With the nationwide implementation of TT-only SE on 17 May 2021, SE check-in mus
 
 Other modes of SE check-in such as launching your phone’s camera to scan a venue’s QR code and using Singpass App will be discontinued from 17 May 2021. To help ease the transition, scanning of barcodes on personal IDs will be retained until 31 May 2021.
 
-The full list of TT-only SE venues can be found in[Annex A (pdf - 210kb)](/files/press-releases/2021/SNDGG%20Press%20Release%20-%20TT-Only%20SE%20Implementation%20and%20SEGW%20Deployment%20-%20Annex%20A.pdf) and on the SE website ([www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/deployment)).
+The full list of TT-only SE venues can be found in[Annex A (pdf - 210kb)](/files/press-releases/2021/sndgg%20press%20release%20-%20tt-only%20se%20implementation%20and%20segw%20deployment%20-%20annex%20a.pdf) and on the SE website ([www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/deployment)).
 
 ### SEGW required to be deployed at more venues
 
-From 15 June 2021, more public-facing venues where people are likely to be in contact for prolonged periods, such as food and beverage dine-in outlets, hotels, and sports and fitness centres, will be required to deploy SafeEntry Gateway (SEGW) to facilitate SE check-in, and help users check that their TT Token is working. The SEGW will not light up or emit a beep sound if the TT Token is not working. The full list of venues required to deploy SEGW can be found in [Annex B (pdf - 220kb)](/files/press-releases/2021/SNDGG%20Press%20Release%20-%20TT-Only%20SE%20Implementation%20and%20SEGW%20Deployment%20-%20Annex%20B.pdf) and on the SE website ([go.gov.sg/gateway-overview](https://go.gov.sg/gateway-overview)).
+From 15 June 2021, more public-facing venues where people are likely to be in contact for prolonged periods, such as food and beverage dine-in outlets, hotels, and sports and fitness centres, will be required to deploy SafeEntry Gateway (SEGW) to facilitate SE check-in, and help users check that their TT Token is working. The SEGW will not light up or emit a beep sound if the TT Token is not working. The full list of venues required to deploy SEGW can be found in [Annex B (pdf - 220kb)](/files/press-releases/2021/sndgg%20press%20release%20-%20tt-only%20se%20implementation%20and%20segw%20deployment%20-%20annex%20b.pdf) and on the SE website ([go.gov.sg/gateway-overview](https://go.gov.sg/gateway-overview)).
 
 Venue operators can either download the SafeEntry (Business) App to use the SEGW function, or set up the SEGW Box. Venues that are required to deploy the SEGW will be able to apply for free SEGW Boxes. More information on how venue operators can apply for the SEGW Box is available on the SE website ([go.gov.sg/gateway-overview](https://go.gov.sg/gateway-overview)).
 

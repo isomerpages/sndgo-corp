@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Public Sector Data Security Review Committee To Include Non-Government Experts
-permalink: /media-hub/press-releases/public-sector-data-security-review-committee-to-include-non-government-experts
+permalink: /media-hub/press-releases/public-sector-data-security-review-committee-to-include-non-government-experts/
 ---
 ## Public Sector Data Security Review Committee To Include Non-Government Experts
 

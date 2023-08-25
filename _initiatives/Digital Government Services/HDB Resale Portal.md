@@ -1,11 +1,11 @@
 ---
 title: HDB Resale Portal
-permalink: /initiatives/digital-government-services/hdb-resale-portal
+permalink: /initiatives/digital-government-services/hdb-resale-portal/
 third_nav_title: Digital Government Services
 description: The HDB Resale Portal makes the buying and selling of resale flats
   a breeze. Buyers and sellers of these flats can easily complete the required
   forms and do checks online using the portal.
-image: /images/initiatives/HDB-resale-portal.jpg
+image: /images/initiatives/hdb-resale-portal.jpg
 ---
 
 # The Portal to Your New Home

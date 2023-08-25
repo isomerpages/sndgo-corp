@@ -1,7 +1,7 @@
 ---
 title: MAS Launches First Set of Data APIs
 date: 2016-11-11
-permalink: /media-hub/press-releases/mas-launches-first-set-of-data-apis
+permalink: /media-hub/press-releases/mas-launches-first-set-of-data-apis/
 ---
 ## MAS Launches First Set Of Data Apis
 

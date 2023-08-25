@@ -4,11 +4,11 @@ permalink: /about-smart-nation/secure-smart-nation/personal-data-protection-laws
 third_nav_title: A Secure Smart Nation
 description: The Government has put in place strong personal data protection
   laws and policies to safeguard sensitive data.
-image: /images/og-image/Cybersecurity-OG-Image.jpg
+image: /images/og-image/cybersecurity-og-image.jpg
 ---
 # Government's Personal Data Protection Laws And Policies
 
-![Government's Personal Data Protection Laws And Policies](/images/abt-smart-nation/Government’s_PDPLP_1920px.jpeg)
+![Government's Personal Data Protection Laws And Policies](/images/abt-smart-nation/government’s_pdplp_1920px.jpeg)
 
 The Government has put in place strong personal data protection laws and policies to safeguard sensitive data.
 
@@ -74,7 +74,7 @@ A **Third Party** is defined as a party (other than a **data subject[^1]** or an
 The Data Protection Trustmark (DPTM) certification is a voluntary, enterprise-wide certification that validates an organisation’s data protection practices. 
   
 <div align="center"><div style="width:50%; padding: 20px 20px 20px 20px;">
-<img src="/images/abt-smart-nation/Data%20Protection%20Trustmark%20Logo.png" alt="Data Protection Trustmark"></div></div> 
+<img src="/images/abt-smart-nation/data%20protection%20trustmark%20logo.png" alt="Data Protection Trustmark"></div></div> 
   
 Jointly developed by the [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) and the [Infocomm Media Development Authority (IMDA)](https://www.imda.gov.sg/), the DPTM certifies third parties providing services to the Government who have [robust data protection practices](https://www.imda.gov.sg/-/media/Imda/Files/Programme/DPTM/Overview-of-DPTM-Cert-Controls.pdf) to ensure our citizens’ personal data are adequately safeguarded. The DPTM also allows organisations to demonstrate that they are in compliance with the Personal Data Protection Act (PDPA) and IM8 Personal Data Protection Policies &amp; Standards.  
   

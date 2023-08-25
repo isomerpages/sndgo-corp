@@ -21,6 +21,6 @@ The provision of government-verified digital data also ensures greater accuracy 
 
 The portal will also benefit developers as it offers a sandbox environment for them to build solutions faster. Developers can access the sandbox at www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction to find out how to prototype their services. Locally-registered businesses can log in with their CorpPass credentials from December 2017 onwards.  
 
-[Annex - Quotes from participating banks and users (350kb)](/files/press-releases/2017/Annex–Quotes-from-participating-banks-and-users.pdf)
+[Annex - Quotes from participating banks and users (350kb)](/files/press-releases/2017/annex–quotes-from-participating-banks-and-users.pdf)
 
 Press release issued by [Government Technology Agency of Singapore](https://www.tech.gov.sg/media/media-releases/businesses-can-tap-on-myinfo)

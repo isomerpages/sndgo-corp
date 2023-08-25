@@ -1,7 +1,7 @@
 ---
 title: MAS Issues "Regulatory Sandbox" Guidelines for FinTech Experiments
 date: 2016-11-16
-permalink: /media-hub/press-releases/mas-issues-regulatory-sandbox-guidelines-for-fintech-experiments
+permalink: /media-hub/press-releases/mas-issues-regulatory-sandbox-guidelines-for-fintech-experiments/
 ---
 ## MAS Issues Regulatory Sandbox Guidelines For Fintech Experiments
 

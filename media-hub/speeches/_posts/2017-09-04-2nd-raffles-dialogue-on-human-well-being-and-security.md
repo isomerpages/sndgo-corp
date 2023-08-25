@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2nd Raffles Dialogue On Human Well-Being And Security - 4 September 2017
-permalink: /media-hub/speeches/2nd-raffles-dialogue-on-human-well-being-and-security-2017
+permalink: /media-hub/speeches/2nd-raffles-dialogue-on-human-well-being-and-security-2017/
 ---
 ## Transcript Of Speech By Minister Vivian Balakrishnan At The 2nd Raffles Dialogue On Human Well-Being And Security
 

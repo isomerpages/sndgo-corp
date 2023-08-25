@@ -1,7 +1,7 @@
 ---
 title: Strategic National Projects to Build a Smart Nation
 date: 2017-08-20
-permalink: /media-hub/press-releases/strategic-national-projects-to-build-a-smart-nation
+permalink: /media-hub/press-releases/strategic-national-projects-to-build-a-smart-nation/
 ---
 ## Strategic National Projects To Build A Smart Nation
 

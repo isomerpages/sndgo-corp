@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Board Members Appointed To Government Technology Agency
-permalink: /media-hub/press-releases/new-board-members-appointed-to-government-technology-agency
+permalink: /media-hub/press-releases/new-board-members-appointed-to-government-technology-agency/
 ---
 ## New Board Members Appointed To Government Technology Agency
 

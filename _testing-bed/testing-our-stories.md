@@ -1,6 +1,6 @@
 ---
 title: Testing Our Stories
-permalink: /testing-bed/stories
+permalink: /testing-bed/stories/
 ---
 
 <table width="300px">

@@ -2,7 +2,7 @@
 title: MAS and Local Polytechnics Sign Memorandum of Understanding to Promote
   Skills Development in Fin
 date: 2016-10-03
-permalink: /media-hub/press-releases/mas-and-local-polytechnics-sign-memorandum-of-understanding-to-promote-skills-development-in-financial-technology
+permalink: /media-hub/press-releases/mas-and-local-polytechnics-sign-memorandum-of-understanding-to-promote-skills-development-in-financial-technology/
 ---
 ## MAS And Local Polytechnics Sign Memorandum Of Understanding To Promote Skills Development In Fin ##
 

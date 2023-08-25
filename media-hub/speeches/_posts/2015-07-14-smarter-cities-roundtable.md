@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smarter Cities Roundtable 2015
-permalink: /media-hub/speeches/smarter-cities-roundtable-2015
+permalink: /media-hub/speeches/smarter-cities-roundtable-2015/
 ---
 ## Speech By Dr Vivian Balakrishnan, Minister-in-Charge Of The Smart Nation Initiative At The Inaugural Smarter Cities Roundtable 2015
 

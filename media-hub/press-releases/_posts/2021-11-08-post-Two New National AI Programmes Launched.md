@@ -1,10 +1,10 @@
 ---
 title: Two New National AI Programmes Launched
 date: 2021-11-08
-permalink: /media-hub/press-releases/new-ai-programmes-2021
+permalink: /media-hub/press-releases/new-ai-programmes-2021/
 layout: post
 description: Additional $180 Million Investment For AI Research.
-image: /images/og-image/Smart-Nation-OG-Image.jpg
+image: /images/og-image/smart-nation-og-image.jpg
 ---
 ## Two New National AI Programmes Launched; Additional $180 Million Investment For AI Research
 
@@ -105,7 +105,7 @@ AI is a transformative technology that will enable Singapore to push the boundar
 
 **Annex**
 
-[Annex A - National AI Strategy Update](/files/press-releases/2021/Annex%20A%20National%20AI%20Strategy%20Update.pdf)
+[Annex A - National AI Strategy Update](/files/press-releases/2021/annex%20a%20national%20ai%20strategy%20update.pdf)
 
 ---
 

@@ -2,7 +2,7 @@
 title: Government to Partner Industry to Spark Innovation and Build Capabilities
   in a Smart Nation
 date: 2017-05-24
-permalink: /media-hub/press-releases/government-to-partner-industry-to-spark-innovation-and-build-capabilities-in-a-smart-nation
+permalink: /media-hub/press-releases/government-to-partner-industry-to-spark-innovation-and-build-capabilities-in-a-smart-nation/
 ---
 ## Government To Partner Industry To Spark Innovation And Build Capabilities In A Smart Nation
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geo Connect Asia 2021
-permalink: /media-hub/speeches/geo-connect-asia-2021
+permalink: /media-hub/speeches/geo-connect-asia-2021/
 ---
 ## Opening Address by Minister Vivian Balakrishnan  at Geo Connect Asia 2021
 

@@ -1,7 +1,7 @@
 ---
 title: Opening Bank Accounts Becomes More Seamless and Convenient for MyInfo Users
 date: 2017-05-03
-permalink: /media-hub/press-releases/opening-bank-accounts-becomes-more-seamless-and-convenient-for-myinfo-users
+permalink: /media-hub/press-releases/opening-bank-accounts-becomes-more-seamless-and-convenient-for-myinfo-users/
 ---
 ## Opening Bank Accounts Becomes More Seamless And Convenient For MyInfo Users
 

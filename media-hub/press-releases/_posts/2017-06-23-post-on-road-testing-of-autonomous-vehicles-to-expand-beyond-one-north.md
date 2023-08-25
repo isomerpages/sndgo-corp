@@ -1,7 +1,7 @@
 ---
 title: On-Road Testing of Autonomous Vehicles to Expand Beyond one-north
 date: 2017-06-23
-permalink: /media-hub/press-releases/on-road-testing-of-autonomous-vehicles-to-expand-beyond-one-north
+permalink: /media-hub/press-releases/on-road-testing-of-autonomous-vehicles-to-expand-beyond-one-north/
 ---
 ## On Road Testing Of Autonomous Vehicles To Expand Beyond One North
 

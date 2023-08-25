@@ -27,7 +27,7 @@ Read more about smart water meters [here](https://www.smartnation.gov.sg/initiat
 
 We are conducting a pilot at our public swimming pools to use computer vision to detect possible drowning incidents.  The system helps to alert lifeguards so they can react faster to swimmers in distress and those in need.
 
-![Drowning Detection System](/images/initiatives/Computer-vision-drowning-SNSP.jpg)
+![Drowning Detection System](/images/initiatives/computer-vision-drowning-snsp.jpg)
 
 ## Personal Alert Button for Elderly
 

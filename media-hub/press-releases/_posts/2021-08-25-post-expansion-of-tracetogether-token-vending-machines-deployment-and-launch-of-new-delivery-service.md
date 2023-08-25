@@ -2,7 +2,7 @@
 title: Expansion of TraceTogether Token Vending Machines Deployment and Launch
   of New Delivery Service
 date: 2021-08-25
-permalink: /media-hub/press-releases/token-vendingmachine2508
+permalink: /media-hub/press-releases/token-vendingmachine2508/
 layout: post
 ---
 ## Expansion of TraceTogether Token Vending Machines Deployment and Launch of New Delivery Service; Progressive Scale-back of Token Booths at CCs and Malls

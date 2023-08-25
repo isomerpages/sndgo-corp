@@ -2,7 +2,7 @@
 layout: post
 title: Transcript of Minister Vivian Balakrishnan's Offline, On-The-Record
   Interview with Bloomberg on Smart Nation On 22 August 2017
-permalink: /media-hub/speeches/transcript-of-minister-vivian-balakrishnan-offline-on-the-record-interview-with-bloomberg-on-smart-nation-2017
+permalink: /media-hub/speeches/transcript-of-minister-vivian-balakrishnan-offline-on-the-record-interview-with-bloomberg-on-smart-nation-2017/
 ---
 ## Transcript of Minister Vivian Balakrishnan Interview With Bloomberg On Smart Nation
 

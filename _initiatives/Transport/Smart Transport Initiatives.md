@@ -1,6 +1,6 @@
 ---
 title: Smart Transport Initiatives
-permalink: /initiatives/transport
+permalink: /initiatives/transport/
 third_nav_title: Transport
 description: "With more than 1 million vehicles on the road and counting, we
   face the ongoing challenge of designing more efficient, safe and reliable
@@ -51,7 +51,7 @@ The initiatives below outline how we aim to achieve this.
 
 </div>
 <div class="col"> 
-<a href="/initiatives/transport/open-data-analytics"><img src="/images/initiatives/overview-pages/Transport-analytics-overview.png" alt="Open Data and Analytics for Urban Transportation"></a><br>
+<a href="/initiatives/transport/open-data-analytics"><img src="/images/initiatives/overview-pages/transport-analytics-overview.png" alt="Open Data and Analytics for Urban Transportation"></a><br>
     <div class="header"><b>Open Data and Analytics for Urban Transportation</b></div><br>
     <div class="para">We encourage sharing of open data so that developers can come up with creative solutions that improve our transport system
 </div>

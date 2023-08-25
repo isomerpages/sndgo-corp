@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SNDGO And NTUC Sign Memorandum Of Understanding
-permalink: /media-hub/press-releases/sndgo-and-ntuc-sign-memorandum-of-understanding
+permalink: /media-hub/press-releases/sndgo-and-ntuc-sign-memorandum-of-understanding/
 ---
 ## MOU to enhance workers’ digital skills and spur co-creation of Smart Nation initiatives
 
