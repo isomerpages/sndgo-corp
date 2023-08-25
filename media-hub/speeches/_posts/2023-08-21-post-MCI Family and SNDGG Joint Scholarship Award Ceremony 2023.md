@@ -74,14 +74,14 @@ So, on that note, congratulations once again to all our scholars and your proud 
 
 ------
 
-[^1] Speech by Mr Lee Kuan Yew at the Asian Media Conference, Los Angeles, 29 Oct 1998
+[^1]: Speech by Mr Lee Kuan Yew at the Asian Media Conference, Los Angeles, 29 Oct 1998
 
-[^2] Speech by Mr Lee Kuan Yew at the opening of the Queenstown Branch Library on 30 Apr 1970 
+[^2]: Speech by Mr Lee Kuan Yew at the opening of the Queenstown Branch Library on 30 Apr 1970 
 
-[^3] Speech by Mr Lee Kuan Yew at the official opening of the Li Ka Shing Library at Singapore Management University, Bras Basah Road on 24 Feb 2006 
+[^3]: Speech by Mr Lee Kuan Yew at the official opening of the Li Ka Shing Library at Singapore Management University, Bras Basah Road on 24 Feb 2006 
 
-[^4] Speech by Mr Lee Kuan Yew, when he opened Trade Union House and Singapore Conference Hall at Shenton Way on 15 Oct 1965 
+[^4]: Speech by Mr Lee Kuan Yew, when he opened Trade Union House and Singapore Conference Hall at Shenton Way on 15 Oct 1965 
 
-[^5] Speech by Mr Lee Kuan Yew at the Asian Media Conference, Los Angeles, 29 Oct 1998
+[^5]: Speech by Mr Lee Kuan Yew at the Asian Media Conference, Los Angeles, 29 Oct 1998
 
-[^6] Transcript of Mr Lee Kuan Yew’s interview with Max Christern of NRC Handelsblad on 30 Jul 1999 at Istana
+[^6]: Transcript of Mr Lee Kuan Yew’s interview with Max Christern of NRC Handelsblad on 30 Jul 1999 at Istana
