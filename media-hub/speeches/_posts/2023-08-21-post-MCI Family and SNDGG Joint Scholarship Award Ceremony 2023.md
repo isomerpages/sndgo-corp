@@ -48,15 +48,15 @@ Not only do we need to learn and embrace technologies, we have a collective duty
 
 This is why, in the digital age, NLB has taken on new roles as “Equaliser” and “Learning Marketplace”, whilst remaining steadfast in its core mission of nurturing an informed citizenry and encouraging Singapore story tellers.
 
-As Mr Lee reminded us in 1970, “One test of an educated man is his ability to continue reading and learning throughout his life[^2].”
+As Mr Lee reminded us in 1970, “One test of an educated man is his ability to continue reading and learning throughout his life.[^2]”
 
-NLB scholars Mandy Lim and Colin Hia, will be glad to know that as recently as 2006, Mr Lee affirmed his belief that “even with the Internet and a myriad of online search engines and e-books, libraries will have a central role [^3]”
+NLB scholars Mandy Lim and Colin Hia, will be glad to know that as recently as 2006, Mr Lee affirmed his belief that “even with the Internet and a myriad of online search engines and e-books, libraries will have a central role.[^3]”
 
 Another challenge for MCI is the fast-evolving media landscape, where opinions can be polarized and divisive on issues relating to race, religion and LGBTQ. In the year of our independence, Mr Lee already warned "Either we learn to think in terms of the national interest, instead of sectional interest, or we are in trouble.[^4]”
 
 Our Information Service Scholars like Abdul Mateen and Faith Ng will need to apply creativity and harness the power of media for nation building, to help Singapore navigate complex times, strengthen trust between Singaporeans and stay united when society comes under pressure, as we did during the COVID-19 pandemic.
 
-Keep in mind what Mr Lee said that “without a clear enunciation of government positions and policies and the reasons for them, it is not possible to rally people around common goals[^5].”
+Keep in mind what Mr Lee said that “without a clear enunciation of government positions and policies and the reasons for them, it is not possible to rally people around common goals.[^5]”
 
 #### Conclusion
 
@@ -64,7 +64,7 @@ There are many more of our scholars I did not name, but whose enthusiasm and pot
 
 We are confident that you will do your utmost to further build our Smart Nation. I look forward to meeting and greeting you and your loved ones during tea later.
 
-In closing, allow me to share just one more quote from Mr Lee that recognises the limitations of looking to the past. He said, “Each generation has to reflect its own experiences and to adjust to a new environment and the expectation of more changes to come [^6]”.
+In closing, allow me to share just one more quote from Mr Lee that recognises the limitations of looking to the past. He said, “Each generation has to reflect its own experiences and to adjust to a new environment and the expectation of more changes to come.[^6]”
 
 Mr Lee himself was always willing to challenge his own assumptions, and change course, if necessary, I had witnessed this for myself.
 
