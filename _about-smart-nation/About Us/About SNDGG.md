@@ -27,7 +27,7 @@ With the <a href="https://www.tech.gov.sg/" target="_blank">Government Technolog
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
 	<ul>
 		<li><a href="/about-smart-nation/vision-mission">Our Vision and Mission</a></li>
-<li><a href="/about-smart-nation/ministerial-committee">SNDGG Ministerial Committee&gt;</a></li><a href="/about-smart-nation/ministerial-committee">
+<li><a href="/about-smart-nation/ministerial-committee">SNDGG Ministerial Committee</a></li><a href="/about-smart-nation/ministerial-committee">
 </a><li><a href="/about-smart-nation/ministerial-committee"></a><a href="/about-smart-nation/senior-management/">SNDGO Senior Management</a></li>
 	</ul>
 </div>
