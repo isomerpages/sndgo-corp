@@ -8,6 +8,7 @@ third_nav_title: About Us
 ---
 # SNDGO Senior Management
 
+<br>
 
 **Permanent Secretary**<br>
 Joseph Leong
