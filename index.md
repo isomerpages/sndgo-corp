@@ -37,5 +37,7 @@ sections:
       url: /community/showcases/overview
       image: /images/community/playscape/playscape_23.jpeg
       alt: PlayScape
-notification: ""
+notification: Our website will be undergoing scheduled maintenance on 5 Sep from
+  10:30am to 1:30pm. During this time, the website may be unavailable. We
+  apologise for any inconvenience caused.
 ---
