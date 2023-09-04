@@ -52,6 +52,10 @@ There are also weekly online interactive classes where seniors can learn alongsi
 
 Sign up for learning sessions or explore the self-learning section at [IMDA's website](https://www.imda.gov.sg/en/seniorsgodigital/learn).
 
+## SG Service Centres
+
+Many Government agencies currently provide in-person and contact centre services, to assist those who may have difficulty transacting online. The Public Service has also set up [ServiceSG Centres](https://www.psd.gov.sg/servicesg/) at various heartland locations, to serve as first-stop physical service touchpoints where officers can guide citizens through digital transactions and offer integrated services across different public agencies for citizens.
+
 ## SkillsFuture
 
 SkillsFuture is a national movement to enable all Singaporeans to develop to their fullest potential throughout life. SkillsFuture enables citizens to take advantage of a wide range of learning opportunities, whichever stage of life you are currently in.
@@ -59,6 +63,10 @@ SkillsFuture is a national movement to enable all Singaporeans to develop to the
 Skills mastery is more than just the right paper qualifications; it is a constant endeavour towards outstanding excellence through knowledge, application and experience.
 
 Head over to the [SkillsFuture website ](https://www.skillsfuture.gov.sg/) to check out the available programmes.
+
+## Tech Able
+
+[Tech Able](https://enablingvillage.sg/assistive-technologies-at-the-enabling-village/), an initiative by SG Enable and [SPD](https://www.spd.org.sg/about-us/), is an integrated assistive technology space at the Enabling Village. It features a technology exhibition for persons with disabilities and provides them with assistive device assessment services. Persons with disabilities can find out about devices that will help them in their employment or daily activities.
 
 ## Tech Connect
 
@@ -81,12 +89,3 @@ Head over to the [SkillsFuture website ](https://www.skillsfuture.gov.sg/tesa/) 
 ICT professionals can join TTAB, which provides a platform for lifelong employability, learning and sharing. TTAB's affiliation with NTUC allows ICT professionals access to more resources and social benefits.
 
 Develop skills and build up an Infocomm-related portfolio with [Tech Talent Assembly](https://www.ttab.org.sg/Pages/index.aspx) now.
-
-
-
-
-
-
-
-
-
