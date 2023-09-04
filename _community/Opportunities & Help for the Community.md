@@ -11,27 +11,32 @@ image: /images/og-image/smart-nation-og-image.jpg
 
 As Singapore moves towards becoming a Smart Nation, we want to make sure that everyone in our society joins us in this journey. Find out more about the Government initiatives available to assist the different groups of people.
 
-## SkillsFuture
+## DigitalAccess@Home
 
-SkillsFuture is a national movement to enable all Singaporeans to develop to their fullest potential throughout life. SkillsFuture enables citizens to take advantage of a wide range of learning opportunities, whichever stage of life you are currently in.
+Infocomm Media Development Authority (IMDA)'s DigitalAccess@Home programme provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities. Households with 3 or more primary school children may submit a request for a refurbished laptop after DigitalAccess@Home approval. 
 
-Skills mastery is more than just the right paper qualifications; it is a constant endeavour towards outstanding excellence through knowledge, application and experience.
+Head over to [IMDA's website](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home) for the full details and to apply for the programme.
 
-Head over to the [SkillsFuture website ](https://www.skillsfuture.gov.sg/) to check out the available programmes.
+## Mobile Access for Seniors
 
-## TechSkills Accelerator (TeSA)
+Mobile Access for Seniors is a scheme that supports the Seniors Go Digital programme and promotes the Data for All initative. It provides subsidised smartphone and mobile plans to lower-income seniors who want to go digital, but cannot afford them.
 
-TeSA is focused on assisting existing and aspiring information and communications technology (ICT) working professionals from both ICT and non-ICT backgrounds.
+Head over to [IMDA's website](https://www.imda.gov.sg/how-we-can-help/mobile-access-for-seniors) for the full details and to apply for the programme.
 
-With this programme, the aim is to groom working professionals to move us closer to achieving Singapore's vision of building a digital economy. It aims to enhance training and placement opportunities for ICT jobs across the economy by facilitating individuals' reskilling or upskilling.
 
-Head over to the [SkillsFuture website ](https://www.skillsfuture.gov.sg/tesa/) to check out the courses and certifications offered under TeSA!
+## NEU PC Plus
 
-## Tech Talent Assembly (TTAB)
+This programme is designed to make digitalisation more accessible to low-income households with school-going children or persons with disabilities. Under this scheme, eligible families will have the opportunity to own a new computer at an affordable price that comes bundled with a free broadband subscription.
 
-ICT professionals can join TTAB, which provides a platform for lifelong employability, learning and sharing. TTAB's affiliation with NTUC allows ICT professionals access to more resources and social benefits.
+The details for application and the various criteria can be found on the [IMDA's website.](https://www.imda.gov.sg/neupc)
 
-Develop skills and build up an Infocomm-related portfolio with [Tech Talent Assembly](https://www.ttab.org.sg/Pages/index.aspx) now.
+## People's Association (PA) Lifelong Learning Courses
+
+Life is a journey of constant learning and improvement. People's Association offers endless opportunities to pick up new skills and have fun while making new friends.
+
+Improve your skills and develop yourself through the wide array of ‘Lifelong Learning’ courses offered at our CCs. Learn about technical know-how, fine tune essential job skills, or pick up a new language!
+
+Head over to [People's Association website](https://www.pa.gov.sg/our-programmes/cc-courses/courses/) to find out more.
 
 ## PIXEL
 
@@ -47,13 +52,13 @@ There are also weekly online interactive classes where seniors can learn alongsi
 
 Sign up for learning sessions or explore the self-learning section at [IMDA's website](https://www.imda.gov.sg/en/seniorsgodigital/learn).
 
-## People's Association (PA) Lifelong Learning Courses
+## SkillsFuture
 
-Life is a journey of constant learning and improvement. People's Association offers endless opportunities to pick up new skills and have fun while making new friends.
+SkillsFuture is a national movement to enable all Singaporeans to develop to their fullest potential throughout life. SkillsFuture enables citizens to take advantage of a wide range of learning opportunities, whichever stage of life you are currently in.
 
-Improve your skills and develop yourself through the wide array of ‘Lifelong Learning’ courses offered at our CCs. Learn about technical know-how, fine tune essential job skills, or pick up a new language!
+Skills mastery is more than just the right paper qualifications; it is a constant endeavour towards outstanding excellence through knowledge, application and experience.
 
-Head over to [People's Association website](https://www.pa.gov.sg/our-programmes/cc-courses/courses/) to find out more.
+Head over to the [SkillsFuture website ](https://www.skillsfuture.gov.sg/) to check out the available programmes.
 
 ## Tech Connect
 
@@ -63,14 +68,25 @@ One-on-one tech assistance is available conveniently at selected Community Centr
 
 Head over to [PA's website](https://www.pa.gov.sg/engage/connect-with-government/tech-connect-brochures) for the list of CCs that are part of this initiative.
 
-## Home Access
+## TechSkills Accelerator (TeSA)
 
-Infocomm Media Development Authority (IMDA)'s Home Access programme provides eligible households with two years of subsidised fibre broadband connectivity from as low as S$6 per month, with an option to bundle it with a tablet or smartphone.
+TeSA is focused on assisting existing and aspiring information and communications technology (ICT) working professionals from both ICT and non-ICT backgrounds.
 
-Head over to [IMDA's website](https://www.imda.gov.sg/programme-listing/home-access) for the full details and to apply for the programme.
+With this programme, the aim is to groom working professionals to move us closer to achieving Singapore's vision of building a digital economy. It aims to enhance training and placement opportunities for ICT jobs across the economy by facilitating individuals' reskilling or upskilling.
 
-## NEU PC Plus
+Head over to the [SkillsFuture website ](https://www.skillsfuture.gov.sg/tesa/) to check out the courses and certifications offered under TeSA!
 
-This programme is designed to make digitalisation more accessible to low-income households with school-going children or persons with disabilities. Under this scheme, eligible families will have the opportunity to own a new computer at an affordable price that comes bundled with a free broadband subscription.
+## Tech Talent Assembly (TTAB)
 
-The details for application and the various criteria can be found on the [IMDA's website.](https://www.imda.gov.sg/neupc)
+ICT professionals can join TTAB, which provides a platform for lifelong employability, learning and sharing. TTAB's affiliation with NTUC allows ICT professionals access to more resources and social benefits.
+
+Develop skills and build up an Infocomm-related portfolio with [Tech Talent Assembly](https://www.ttab.org.sg/Pages/index.aspx) now.
+
+
+
+
+
+
+
+
+
