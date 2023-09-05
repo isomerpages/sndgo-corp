@@ -102,7 +102,7 @@ Wireless@SG was deployed to offer free Wi-Fi island-wide, providing citizens wit
 ## 2007
 The Inland Revenue Authority of Singapore (IRAS) launched the No-Filing Service (NFS) making tax filing a non-event for eligible taxpayers. The integration of data across platforms has simplified tax filing from an eight-page form, to a pre-filled electronic form. Today, the NFS initiative benefits 2 in 3 taxpayers, and those who are eligible will not need to file a tax return, unless they have changes to make.
 
-<div style="width:50%"><img src="/images/abt-smart-nation/Smartphone%20NFS_2007.jpeg" alt="No-Filing Service"></div>
+<div style="width:50%"><img src="/images/abt-smart-nation/smartphone%20nfs_2007.jpeg" alt="No-Filing Service"></div>
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 

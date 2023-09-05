@@ -43,13 +43,17 @@ These are some of the Smart Nation health initiatives we’re working on right n
 
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/health/project-pensieve/"><img src="/images/initiatives/project-pensieve.jpg" alt="Project Pensieve"></a><br><div class="header"><b>Project Pensieve</b></div><br><div class="para"><br>Can technology help spot early signs of dementia? GovTech is piloting Project Pensieve, a screening tool that can detect signs of dementia by analysing a user’s drawings.
+<a href="/initiatives/health/project-pensieve/"><img src="/images/initiatives/project-pensieve.jpg" alt="Project Pensieve"></a><br>
+	<div class="header"><b>Project Pensieve</b></div><br>
+	<div class="para"><br>Can technology help spot early signs of dementia? GovTech is piloting Project Pensieve, a screening tool that can detect signs of dementia by analysing a user’s drawings.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/health/telehealth"><img src="/images/initiatives/overview-pages/telehealth.png" alt="TeleHealth"></a><br><div class="header"><b>TeleHealth</b></div><br><div class="para"><br>Bringing healthcare into the home not only makes it more convenient for patients, it also improves our efficiency to deliver these services.
+<a href="/initiatives/health/telehealth"><img src="/images/initiatives/overview-pages/telehealth.png" alt="TeleHealth"></a><br>
+		<div class="header"><b>TeleHealth</b></div><br>
+		<div class="para"><br>Bringing healthcare into the home not only makes it more convenient for patients, it also improves our efficiency to deliver these services.
 </div>
 <br>
 
