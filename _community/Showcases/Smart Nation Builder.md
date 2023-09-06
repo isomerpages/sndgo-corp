@@ -54,7 +54,7 @@ Visitors will get to learn about technological initiatives and digital tools tha
 &nbsp; &nbsp; &nbsp; 
 
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">
-<img src="images/community/builder/smart_nation_builder_04.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="/images/community/builder/smart_nation_builder_04.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px">Find out about the revamped LifeSG app and how easy it is to access various digital services.
 	</div>
  </div></div>
@@ -65,7 +65,7 @@ Here, members of the public will be invited to share their thoughts and suggesti
 
  <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">
-<img src="images/community/builder/smart_nation_builder_20.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="/images/community/builder/smart_nation_builder_20.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Vote for your favourite tech ideas or initiative.
 </div>
 </div>
@@ -73,7 +73,7 @@ Here, members of the public will be invited to share their thoughts and suggesti
 &nbsp; &nbsp; &nbsp; 
 
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/builder/smart_nation_builder_21.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="/images/community/builder/smart_nation_builder_21.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px">Tell us how we can better improve our digital government services.
 </div>
 
@@ -81,7 +81,7 @@ Here, members of the public will be invited to share their thoughts and suggesti
 
  <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">
-<img src="images/community/builder/smart_nation_builder_11.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="/images/community/builder/smart_nation_builder_11.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Test prototypes of products and services when there are new projects in development.
 </div>
 </div>
@@ -99,14 +99,14 @@ Participants can have fun and create memories at the photo booth and claw machin
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
-<img src="images/community/builder/smart_nation_builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="/images/community/builder/smart_nation_builder_08.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Capture your favourite moments at our photobooth and share it with your friends. 
 </div>
 
 </div>&nbsp; &nbsp; &nbsp; 
 	
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
-<img src="images/community/builder/smart_nation_builder_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="/images/community/builder/smart_nation_builder_18.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 	<div style="font-size:18px">Keep your young ones entertained at the interactive Kids Wall where they get to play games.
 </div>
 
@@ -114,7 +114,7 @@ Participants can have fun and create memories at the photo booth and claw machin
 
 <div class="row" style="padding: 20px 0px 10px 0px;">
 <div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">
-<img src="images/community/builder/smart_nation_builder_19.jpeg" alt="Smart Nation Builder Explore Zone"><br>
+<img src="/images/community/builder/smart_nation_builder_19.jpeg" alt="Smart Nation Builder Explore Zone"><br>
 <div style="font-size:18px">Redeem the points you’ve collected from the different stations at the claw machine to win cool prizes.
 </div>
 </div>
