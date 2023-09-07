@@ -8,7 +8,23 @@ third_nav_title: Our Key Pillars
 ---
 # Digital Government
 
-[https://youtu.be/nmupdl8svmI](https://youtu.be/nmupdl8svmI)
+<br>
+
+<div style="max-width: 1280px">
+    <div style="height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/nmupdl8svmI" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;"></iframe>
+    </div>
+</div>
 
 Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
 
