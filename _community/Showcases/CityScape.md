@@ -36,11 +36,52 @@ Visitors to CityScape will learn about how technology:
 *   is embedded into our infrastructure to benefit citizens and businesses
 *   helps attract technology companies and talent to Singapore, and secure Singapore’s place as a thought leader on Smart City innovations
 
-![Smart Nation CityScape](/images/community/cityscape/cityscape-06.jpg)
+### Check out these activities and more! 
 
-![Smart Nation CityScape](/images/community/cityscape/cityscape-04.jpeg)
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
+<img src="/images/community/cityscape/cityscape-15.jpeg" alt="CityScape Exhibit - History of Smart Nation"><br>
+<div style="font-size:18px">Take a historical journey through Singapore's Smart Nation evolution.
+</div>
 
-![Smart Nation CityScape](/images/community/cityscape/cityscape-05.jpeg)
+</div>&nbsp; &nbsp; &nbsp; 
+	
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
+<img src="/images/community/cityscape/cityscape-04.jpeg" alt="CityScape Exhibit - AR"><br>
+	<div style="font-size:18px">Learn more about various digital services using augmented reality (AR).
+</div>
+
+</div></div>
+
+
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
+<img src="/images/community/cityscape/cityscape-12.jpeg" alt="CityScape Exhibit - Smart City"><br>
+<div style="font-size:18px">Uncover how technology is embedded within our Smart City without us even realizing it.
+</div>
+
+</div>&nbsp; &nbsp; &nbsp; 
+	
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">  
+<img src="/images/community/cityscape/cityscape-17.jpeg" alt="CityScape Exhibit - Goverrnment Digital Service"><br>
+	<div style="font-size:18px">Choose a profile and explore government digital services tailored for you.
+</div>
+
+</div></div>
+
+<div class="row" style="padding: 20px 0px 10px 0px;">
+<div class="col" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> 
+<img src="/images/community/cityscape/cityscape-16.jpeg" alt="CityScape Exhibit - Smart City"><br>
+<div style="font-size:18px">Take a trip down memory lane and discover how technology has rendered some of the old items on display no longer in use.
+</div>
+
+</div>&nbsp; &nbsp; &nbsp; 
+	
+<div class="col" style="padding: 20px 20px 20px 20px;">  
+
+</div></div>
+
+
 
 #### Address
 
