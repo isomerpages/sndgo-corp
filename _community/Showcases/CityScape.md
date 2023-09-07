@@ -95,7 +95,7 @@ Mondays to Saturdays - 9am to 5pm
 
 #### Guided Tours
 
-Sign up for a guided tour of the Smart Nation CityScape at <a href="https://go.gov.sg/cityscapetour" target="_blank">go.gov.sg/cityscapetour</a>.
+To get the most from your visit, consider taking a guided tour of the Smart Nation CityScape. Sign up at <a href="https://go.gov.sg/cityscapetour" target="_blank">go.gov.sg/cityscapetour</a>.
 
 You can also sign up for the Singapore City Gallery community tours at <a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery" target="_blank">URA's website</a>.
 
