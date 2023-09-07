@@ -140,6 +140,6 @@ Can't make time for a trip to Science Centre Singapore? Check out the PlayScape 
 
 | Venue | Date | 
 | -------- | -------- |
-| library@harbourfront | 4 Aug to 30 Aug | 
-| Woodland Regional Library | 1 Sep to 28 Sep |
-| Tampines Regional Library | 2 Oct to 31 Oct |
+| Woodland Regional Library | 1 Sep 2023 to 28 Sep 2023 |
+| Tampines Regional Library | 2 Oct 2023 to 31 Oct 2023 |
+| Jurong Regional Library | 8 Dec 2023 to 8 Jan 2024 | 
