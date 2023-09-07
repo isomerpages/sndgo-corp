@@ -64,6 +64,37 @@ We have also identified seven National AI Projects that can deliver strong socia
 **7. Government:** Leveraging AI to transform government services to deliver  high-impact outcomes for citizens and businesses.
 
 
+## Applications of AI
+
+Explore these examples to discover the practical applications of AI in Singapore:
+
+<div class="row">
+	
+<div class="col"> 
+<a href="/initiatives/health/project-pensieve/"><img src="/images/initiatives/project-pensieve.jpg" alt="Project Pensieve"></a><br>
+	<div class="header"><b>Project Pensieve</b></div>
+	<div class="para"><br>Can technology help spot early signs of dementia? GovTech is piloting Project Pensieve, a screening tool that can detect signs of dementia by analysing a user’s drawings.
+		<br></div>
+</div>
+	
+<div class="col"> 
+<a href="/initiatives/health/selena-plus/"><img src="/images/initiatives/selena.jpeg" alt="SELENA+"></a><br>
+		<div class="header"><b>SELENA+</b></div>
+		<div class="para"><br>Singapore Eye Lesion Analyser (SELENA+) is a deep-learning AI software system that can detect potential threatening eye conditions accurately and efficiently.
+<br></div>
+</div>
+	
+<div class="col"> 
+<a href="/initiatives/urban-living/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice.jpeg" alt="OneService Chatbot"></a><br>
+    <div class="header"><b>OneService Chatbot</b></div>
+    <div class="para"><br>The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
+</div>
+<br></div>
+
+</div>
+
+
+
 ## Working Together
 
 The success of our National AI Strategy depends on Singaporeans, businesses, researchers and the Government coming together to work closely towards our goals. We will also need to work with international partners to better make use of AI in Singapore.
