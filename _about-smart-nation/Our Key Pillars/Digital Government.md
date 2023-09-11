@@ -8,6 +8,24 @@ third_nav_title: Our Key Pillars
 ---
 # Digital Government
 
+<br>
+
+<div style="max-width: 1280px">
+    <div style="height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/nmupdl8svmI" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;"></iframe>
+    </div>
+</div>
+
 Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
 
 ![Digital to the core and serves with hearth](/images/abt-smart-nation/digital-government-who-what-how.jpg)
@@ -40,10 +58,10 @@ The pandemic has given renewed impetus for government agencies to digitalise, in
 ## The progress so far
 Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2021.
 
-* **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
+* **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 &amp; above)*
 ![Citizen Satisfaction with Government Digital Services](/images/abt-smart-nation/citizen-satisfaction-2022.jpeg)
 
-* **Business Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 & above)*
+* **Business Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 &amp; above)*
 ![Business Satisfaction with Government Digital Services](/images/abt-smart-nation/business-satisfaction-2022.jpeg)
 
 * **Government services that are completed digitally from end-to-end**
@@ -75,7 +93,7 @@ Read the latest DGB here: [DGB - 30 December 2020 (277kb)](/files/publications/d
 
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
 	<ul>
-		<li><a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy & Digital Government</a></li>
+		<li><a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy &amp; Digital Government</a></li>
 	<li><a href="/about-smart-nation/our-journey/milestones">Milestones of Singapore’s Smart Nation story</a></li>
 	</ul>
 </div>
