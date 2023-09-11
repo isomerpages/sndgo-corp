@@ -9,43 +9,29 @@ description: SGFinDex is the world's first public digital infrastructure to use
 image: /images/initiatives/sgfindex.jpg
 third_nav_title: Business & Finance
 ---
-# Singapore Financial Data Exchange (SGFinDex)
+# Singapore Financial Data Exchange&nbsp;(SGFinDex)
 
 <br>
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/ABXss3ErD-M" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/BZg2Y903_OU" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
-[SGFinDex](https://www.mas.gov.sg/development/fintech/sgfindex), which stands for Singapore Financial Data Exchange, is a joint initiative by the [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) and the Smart Nation and Digital Government Group (SNDGG), with the support of the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/). It is built on Singapore's National Digital Identity (Singpass), and developed by the public sector in collaboration with The Association of Banks in Singapore, SGX Central Depository (CDP), and the Life Insurance Association, Singapore (LIA Singapore).
+[SGFinDex](https://www.mas.gov.sg/development/fintech/sgfindex), which stands for Singapore Financial Data Exchange, is a joint initiative by the [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/)&nbsp;and&nbsp;the Smart Nation and Digital Government Group (SNDGG), with the support of the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/). It is built on Singapore's National Digital Identity (Singpass), and developed by the public sector in collaboration with The Association of Banks in Singapore, SGX Central Depository (CDP), and the Life Insurance Association, Singapore (LIA Singapore).
 
-With SGFinDex, individuals can use their Singpass to retrieve their personal financial information (such as deposits, credit cards, loans, and investments) from the participating banks and CDP, their financial information (such as HDB loans and CPF balances) from the relevant government agencies, and information on their life, accident and health insurance policies held across different participating insurers. This will help individuals better understand their overall financial health and plan their finances holistically.
+With SGFinDex, individuals can use their Singpass to retrieve their personal financial information (such as deposits, credit cards, loans, and investments) from the participating banks and CDP, their financial information (such as HDB loans and CPF balances) from the relevant&nbsp;government agencies, and information on their life, accident and health insurance policies held across different participating insurers. This will help individuals better understand their overall financial health and plan their finances holistically.
 
 ### Benefits of SGFinDex
 
