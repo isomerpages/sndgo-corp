@@ -40,7 +40,9 @@ Email: Dawn_TAY@mci.gov.sg
 ----------
 
 #### About the Smart Nation and Digital Government Group
-The Smart Nation and Digital Government Group (SNDGG) was set up under the Singapore Prime Minister’s Office in May 2017, to drive and coordinate Smart Nation and digitalisation efforts across the Singapore Government. SNDGG is made up of the Smart Nation and Digital Government Office (SNDGO), which plans and prioritises key Strategic National Projects, drives the digital transformation of government, builds long-term ICT capabilities for the public sector,
+The Smart Nation and Digital Government Group (SNDGG) was set up under the Singapore Prime Minister’s Office in May 2017, to drive and coordinate Smart Nation and digitalisation efforts across the Singapore Government.
+
+SNDGG is made up of the Smart Nation and Digital Government Office (SNDGO), which plans and prioritises key Strategic National Projects, drives the digital transformation of government, builds long-term ICT capabilities for the public sector,
 and promotes adoption and participation from the public and industry, to take a collective approach in building a Smart Nation. SNDGG also comprises the Government Technology Agency (GovTech), as the implementing agency of SNDGO.
 
 #### About the Ministry of Communications and Information
