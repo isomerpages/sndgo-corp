@@ -42,7 +42,7 @@ The initiatives below outline how we aim to achieve this.
 
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/urban-living/dengue-hotspots-survey-drones"><img src="images/initiatives/drone-with-camera-for-dengue-survey.jpg" alt="Dengue Hotspots Survey Drones"></a><br>
+<a href="/initiatives/urban-living/dengue-hotspots-survey-drones"><img src="/images/initiatives/drone-with-camera-for-dengue-survey.jpg" alt="Dengue Hotspots Survey Drones"></a><br>
 	<div class="header"><b>Dengue Hotspots Survey Drones</b></div><br>
 	<div class="para">We’re using drones to identify possible dengue hotspots and manage any outbreaks.
 </div>
