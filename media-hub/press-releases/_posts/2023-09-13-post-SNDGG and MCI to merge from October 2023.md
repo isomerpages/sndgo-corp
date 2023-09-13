@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-### Smart Nation and Digital Government Group and Ministry of Communications and Information to merge from October 2023
+## Smart Nation and Digital Government Group and Ministry of Communications and Information to merge from October 2023
 
 **Singapore, 12 September 2023**
 
