@@ -43,7 +43,7 @@ For information on the recycling of TraceTogether Tokens, visit <a href="https:/
 
 ## Homer
 
-The [Homer app](https://homer.gov.sg/) allows the Government agencies managing Stay Home Notices (SHN) or Quarantine Orders (QO) to keep in touch with the individuals that have been put on SHN or QO.
+The Homer app allows the Government agencies managing Stay Home Notices (SHN) or Quarantine Orders (QO) to keep in touch with the individuals that have been put on SHN or QO.
 
 The App uses its auto location reporting function to submit the individual's current location to the relevant authorities multiple times a day. Individuals also use the App to update their health status and reports as required.
 
