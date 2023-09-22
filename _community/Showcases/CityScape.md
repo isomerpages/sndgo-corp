@@ -28,7 +28,7 @@ image: /images/community/cityscape/cityscape-06.jpg
 
 Learn all about what makes Singapore a Smart Nation, with this exhibition that has been integrated with the Singapore City Gallery.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2QJqf0CZ4d4?si=dpMxliXD3jAYzooz" height="315" width="560"></iframe>
+<iframe style="width: 100%" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/2QJqf0CZ4d4?si=dpMxliXD3jAYzooz"></iframe>
 
 Interact with a series of exhibits and displays to discover the various ways digital technology powers our city and daily lives, improving the way we live, work and play! 
 
