@@ -13,10 +13,7 @@ third_nav_title: About Us
 **Permanent Secretary**<br>
 Joseph Leong
 
-**Permanent Secretary (Development)**<br>
-Chng Kai Fong
-
-**Second Permanent Secretary (Designate)**<br>
+**Second Permanent Secretary**<br>
 Augustin Lee
 
 **Deputy Secretary**<br>
