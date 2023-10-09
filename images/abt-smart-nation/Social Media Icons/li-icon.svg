@@ -1,0 +1,35 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg viewBox="0 0 1428.64 264.03" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" data-name="Layer 2" id="Layer_2">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: HelveticaNeue, 'Helvetica Neue';
+        font-size: 125px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_122);
+      }
+
+      .cls-3, .cls-2 {
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient gradientUnits="userSpaceOnUse" y2="450.12" x2="1265.29" y1="-186.09" x1="163.35" data-name="Degradado sin nombre 122" id="Degradado_sin_nombre_122">
+      <stop stop-color="#6595cb" offset=".56"></stop>
+      <stop stop-color="#0065aa" offset="1"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Background">
+    <g>
+      <rect ry="132.01" rx="132.01" height="264.03" width="1428.64" y="0" x="0" class="cls-3"></rect>
+      <path d="m90.2,109.2h21.67v69.66h-21.67v-69.66Zm10.84-34.63c6.93,0,12.55,5.63,12.55,12.55s-5.62,12.56-12.55,12.56-12.56-5.62-12.56-12.56,5.61-12.55,12.56-12.55m24.42,104.29h21.63v-34.46c0-9.09,1.72-17.89,12.98-17.89s11.26,10.4,11.26,18.48v33.87h21.63v-38.21c0-18.76-4.05-33.19-25.95-33.19-10.53,0-17.6,5.77-20.49,11.25h-.29v-9.52h-20.76v69.66Z" class="cls-2"></path>
+      <path d="m139.07,243.41c-61.42,0-111.39-49.97-111.39-111.39S77.65,20.62,139.07,20.62s111.39,49.97,111.39,111.39-49.97,111.39-111.39,111.39Zm0-208.42c-53.5,0-97.02,43.52-97.02,97.02s43.52,97.02,97.02,97.02,97.02-43.52,97.02-97.02-43.52-97.02-97.02-97.02Z" class="cls-2"></path>
+    </g>
+    <text transform="translate(365.44 166.87)" class="cls-1"><tspan y="0" x="0">LinkedIn</tspan></text>
+  </g>
+</svg>
