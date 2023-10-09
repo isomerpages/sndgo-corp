@@ -4,7 +4,7 @@ permalink: /socialmedia/
 description: Stay informed about our Smart Nation journey. Connect with us on social media.
 image: /images/og-image/smart-nation-og-image.jpg
 ---
-###  Connect with us on social media
+##  Connect with us on social media
 
 <br>
 
