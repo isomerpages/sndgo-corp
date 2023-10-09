@@ -1,0 +1,35 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg viewBox="0 0 1428.64 377.78" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" data-name="Layer 2" id="Layer_2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_31);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        font-family: HelveticaNeue, 'Helvetica Neue';
+        font-size: 125px;
+      }
+
+      .cls-3, .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient gradientUnits="userSpaceOnUse" y2="450.12" x2="1265.29" y1="-186.09" x1="163.35" data-name="Degradado sin nombre 31" id="Degradado_sin_nombre_31">
+      <stop stop-color="#116baf" offset=".45"></stop>
+      <stop stop-color="#35318a" offset="1"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Background">
+    <g>
+      <rect ry="132.01" rx="132.01" height="264.03" width="1428.64" y="0" x="0" class="cls-1"></rect>
+      <path d="m144.42,202.49v-64.29h21.58l3.23-25.06h-24.81v-16c0-7.25,2.01-12.2,12.42-12.2h13.27v-22.42c-2.29-.3-10.17-.99-19.33-.99-19.13,0-32.23,11.68-32.23,33.12v18.48h-21.63v25.06h21.63v64.29h25.88Z" class="cls-2"></path>
+      <path d="m139.07,243.41c-61.42,0-111.39-49.97-111.39-111.39S77.65,20.62,139.07,20.62s111.39,49.97,111.39,111.39-49.97,111.39-111.39,111.39Zm0-208.42c-53.5,0-97.02,43.52-97.02,97.02s43.52,97.02,97.02,97.02,97.02-43.52,97.02-97.02-43.52-97.02-97.02-97.02Z" class="cls-2"></path>
+    </g>
+    <text transform="translate(365.44 167.65)" class="cls-3"><tspan y="0" x="0">Facebook</tspan></text>
+  </g>
+</svg>
