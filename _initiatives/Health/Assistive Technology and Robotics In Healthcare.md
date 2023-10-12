@@ -6,42 +6,65 @@ description: Find out how we are using technology to help meet their needs and
   enable them to enjoy a better quality of life.
 image: /images/initiatives/health-robotics.jpg
 ---
-
-
-
-# Improving Healthcare with Tech
+# Improving Healthcare with Assistive Technology and Robotics
 
 ![robotics in healthcare](/images/initiatives/health-robotics.jpg)
-  
-Healthcare has always been a critical service, and the COVID-19 pandemic has put the spotlight starkly on its importance. Access to healthcare services is especially vital for the elderly and those with disabilities. 
 
-Below are three areas of focus that outline how we are using technology to help meet their needs and enable them to enjoy a better quality of life.
+The importance of healthcare as a critical service cannot be overstated, especially when it comes to ensuring access for the elderly and individuals with disabilities. 
 
-## Enhance Overall Wellbeing
-Our ongoing research in assistive technology and robotics shows promising solutions that can make independent living a reality for our elderly and people with disabilities. Our goal is to enable them to complete their daily tasks and activities independently to contribute to their overall wellbeing.
+Below are three areas of focus that outline how we are using assistive technology and robotics to meet the healthcare needs of these individuals and enhance their quality of life.
 
-## Improve Patient Care
-Robotics can help improve patient care, for instance, assisting them with automated bathing machines, and droids that monitor their mobility progress. Robots can also help recovering stroke patients to exercise and alert early-stage dementia patients to take their medication.
+### 1. Enhance Overall Wellbeing
 
+Our ongoing research in assistive technology and robotics is yielding promising solutions that can turn independent living into a reality for the elderly and people with disabilities. Our goal is to empower them to carry out their daily tasks and activities independently, ultimately enhancing their overall well-being.
 
-## Enhanced Productivity in Healthcare
-Technology can lighten the workload of our healthcare workers with tools such as delivery drones that dispatch medicines and equipment, to data analytics that improve daily operations and reduces waiting times.
+### 2. Improve Patient Care
 
-**Other examples include:**
+Some of the ways we use robotics to enhance patient care include automated bathing machines and droids that monitor mobility progress. Robots can also aid stroke patients in their recovery exercises and remind early-stage dementia patients to take their medication.
 
-* An industrial robotic arm that can pick and pack a range of objects, including fragile medical items. 
-* Automated guided vehicles that can transport food, linen documents,or move heavy items such as beds.
-* Augmented reality for doctors to explore and learn medical treatments and procedures.
+### 3. Enhanced Productivity in Healthcare
 
+We use technology to lighten the workload of our healthcare workers. This includes using drones to deliver medicines and equipment, employing data analytics to improve operations and reduce waiting times, and utilizing augmented reality to assist doctors in learning medical treatments and procedures.
 
-## RoboCoach Xian
+## Centre for Healthcare Assistive and Robotics Technology (CHART)
+
+Established with the support of the Ministry of Health (MOH) and Singapore Economic Development Board (EDB), the [Centre for Healthcare Assistive &amp; Robotics Technology (CHART)](https://www.cgh.com.sg/chart) is a platform that enables healthcare professionals to work closely with industry, academia and research institutions to co-develop and testbed impactful healthcare solutions in assistive technologies and robotics. CHART also works with the National Robotics Programme, a multi-agency initiative to coordinate and support the end-to-end development of robotics technologies.
+
+CHART will achieve its objectives through conducting technology roadmapping with solution providers to identify synergies between healthcare &amp; technological requirements and providing user insights to co-design and develop healthcare solutions. CHART also provides testbedding space and works with healthcare providers across health systems to conduct trials to validate effectiveness of solutions and solutions adoption.
+
+## Healthcare Robots
+
+Read on to find out more about the robots that are transforming our healthcare sector.
+
+### RoboCoach Xian
 
 <div style="width:70%;height:70%;"><img src="/images/initiatives/smart-nation-robocoach.jpg" alt="RoboCoach Xian" class="center"></div>
 
-RoboCoach Xian is a trainer teaching physical exercise routines to senior citizens individually or in groups. Enhanced with sensors, it offers personalised, gentle exercise routines that the elderly and young children can do, with low risk of injury.
+RoboCoach Xian is a robotic trainer that teaches physical exercise routines to senior citizens, either individually or in groups. It provides personalized, gentle exercise routines suitable for the elderly and young children, minimizing the risk of injury.
 
-Importantly, it also provides physical and cognitive therapy for seniors who have suffered strokes or have disorders such as Alzheimer’s or Parkinson’s.
+Most importantly, it also offers physical and cognitive therapy to seniors who have experienced strokes or are dealing with conditions such as Alzheimer’s or Parkinson’s.
 
-Currently, we’re researching how we can further enhance RoboCoach Xian. One possibility is to add a screen reader to help the visually-impaired learn and communicate more easily.
+Currently, we are actively researching ways to further improve RoboCoach Xian. One potential enhancement is the inclusion of a screen reader to facilitate easier learning and communication for the visually impaired.
 
-Interested to learn more about our R&D work in robotics? Visit the <a href="https://www.cgh.com.sg/chart" target="_blank">Centre for Healthcare Assistive and Robotics Technology (CHART)</a> to find out more.
+### Dexie
+
+Dexie is the first of its kind multi-competent social robot for dementia care that supports social interactions with people with dementia in a care environment. It has the ability to engage in activities like physical exercises, play games, and hold conversations.
+
+<br>
+
+<div style="max-width: 1280px">
+    <div style="height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/-5688_aNjOA?si=2xSbzOW4N5RhqdL5" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;"></iframe>
+    </div>
+</div>
+
