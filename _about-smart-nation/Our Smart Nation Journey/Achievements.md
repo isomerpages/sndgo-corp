@@ -8,6 +8,7 @@ image: /images/og-image/achievements-og-image.jpg
 # Our Achievements 
 ![Our Smart Nation Achievements](/images/abt-smart-nation/achievements.jpg)
 
+* [2023: Singapore moves up to 5th place in Global Innovation Index](#singapore-moves-up-to-5th-place-in-global-innovation-index)
 * [2023: Singapore named Top Asian City in the 2023 IMD Smart City Index](#singapore-named-top-asian-city-in-the-2023-imd-smart-city-index)
 * [2022: Singapore ranked among Top 5 global economies in the IMD World Digital Competitiveness Ranking 2022](#singapore-ranked-among-top-5-global-economies-in-imd-world-digital-competitiveness-ranking-2022)
 * [2022: Singapore clinched 12th place in the UN e-Government Survey 2022](#singapore-clinched-12th-place-in-the-un-e-government-survey-2022)
@@ -20,6 +21,16 @@ image: /images/og-image/achievements-og-image.jpg
 *    [2018: Singapore named Smart City of 2018 at the Smart City Expo World Congress](#singapore-named-smart-city-of-2018-at-smart-city-expo-world-congress)
 
 ## 2023
+
+### Singapore moves up to 5th place in Global Innovation Index
+
+Singapore has moved up two spots to fifth place in the Global Innovation Index (GII), leading the Southeast Asia, East Asia and Oceania (SEAO) region.
+
+The GII is a global ranking of the world’s most innovative economies. This year, the index used 80 indicators to track innovation trends in 132 economies. Singapore continued to top 11 out of 80 indicators, including government effectiveness, information and communications technology (ICT) access, and venture capital (VC).
+
+Click <a href="https://www.ipos.gov.sg/docs/default-source/default-document-library/2023_global-innovation-index.pdf1">here</a> to find out more.
+
+[Return to top](#our-achievements)
 
 ### Singapore named top Asian city in the 2023 IMD Smart City Index
 
