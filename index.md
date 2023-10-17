@@ -19,14 +19,12 @@ sections:
   - infopic:
       title: Digital for Life Festival is back!
       id: infopic
-      description: >+
-        Join us for a fun-filled day where you can learn essential digital
+      description: Join us for a fun-filled day where you can learn essential digital
         skills, experience emerging tech and play a part to build a digitally
         inclusive Singapore.
-
       button: Find out more here
       url: https://digitalforlife.gov.sg
-      image: /images/dfl wb experience tech.jpg
+      image: /images/dfl web experience tech.png
       alt: Digital For Life Experience
   - infopic:
       title: We're the smartest city in Asia!
