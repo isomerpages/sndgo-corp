@@ -48,7 +48,7 @@ If you are interested in participating in our focus group discussions with the c
 
 ## Tap on SNA CCG to engage community groups
 
-Public agencies who are keen to tap on SNA CCG, can register your interest here:&nbsp;[https://go.gov.sg/register-scope-ccg](https://go.gov.sg/register-scope-ccg).
+Public agencies who are keen to tap on SNA CCG, can register your interest here: [https://go.gov.sg/register-scope-sna-ccg](https://go.gov.sg/register-scope-sna-ccg).
 
 <br>
 
