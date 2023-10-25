@@ -5,7 +5,7 @@ description: The Smart Nation group is overseen by a Ministerial Committee.
 third_nav_title: About Us
 image: /images/og-image/about-sndgg-og-image.jpg
 ---
-## Smart Nation group Ministerial Committee
+## Smart Nation Group Ministerial Committee
 
 The Smart Nation group is overseen by a Ministerial Committee made up of the following members:
 
