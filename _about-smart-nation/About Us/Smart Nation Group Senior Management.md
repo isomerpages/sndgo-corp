@@ -5,7 +5,7 @@ description: Say hello to our leaders at the Smart Nation group!
 image: /images/og-image/about-sndgg-og-image.jpg
 third_nav_title: About Us
 ---
-# Smart Nation Group Senior Management
+# SNDGG Senior Management
 
 <br>
 
