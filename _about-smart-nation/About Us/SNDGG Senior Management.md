@@ -1,12 +1,11 @@
 ---
-title: SNDGO Senior Management
+title: SNDGG Senior Management
 permalink: /about-smart-nation/senior-management/
-description: Say hello to our leaders at the Smart Nation and Digital Government
-  Office (SNDGO)!
+description: Say hello to our leaders at the Smart Nation group!
 image: /images/og-image/about-sndgg-og-image.jpg
 third_nav_title: About Us
 ---
-# SNDGO Senior Management
+# SNDGG Senior Management
 
 <br>
 
