@@ -15,8 +15,8 @@ Back with a bigger bang and even more fun-filled tech activities, games, and wor
 ### Exclusive merchandise and freebies up for grabs
 
 📢 Redeem an exclusive Smart Nation tote bag* filled with cool swag such as digital luggage scale, 3-in-1 phone charger-fan-flashlight and more!<br>
-📢   Bring your grandparents and grandchildren to enjoy free croissants! What’s more, complete our survey and receive a special 25% discount voucher from Café Brera!<br>
-*Terms and conditions apply, while stocks last*<br>
+📢   Bring your grandparents and grandchildren to enjoy free croissants! What’s more, complete our survey and receive a special 25% discount voucher* from Café Brera!<br>
+*Terms and conditions apply, while stocks last<br>
 📢 Event participants can enjoy FREE admission to all exhibitions at the National Museum.
  
  
@@ -61,7 +61,7 @@ Follow [Smart Nation Singapore](https://www.facebook.com/SmartNationSG) for upda
 [[Return to top]](#Smart-Nation-Grandparents'-Day-2023)<br>
 * [Smart Nation Grandparents' Day](#Smart-Nation-Grandparents'-Day)
 * [Freebies and Merchandise](#exclusive-merchandise-and-freebies-up-for-grabs)
-* [Register your interest](#register-your-interest-now)
-* [Event highlights](#event-highlights)
+* [Register Your Interest](#register-your-interest-now)
+* [Event Highlights](#event-highlights)
 * [Partner Workshops and Talks](#partner-workshops-and-talks)
-* [Getting there](#getting-there)
+* [Getting There](#getting-there)
