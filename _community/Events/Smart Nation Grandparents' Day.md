@@ -4,12 +4,12 @@ permalink: /grandparentsday/
 description: Come celebrate our grandparents with the entire family!
 third_nav_title: Events
 ---
-# Smart Nation Grandparents' Day 2023
+# Smart Nation Grandparents Day 2023
 ![Smart Nation Grandparents Day](/images/community/events/grandparents%20day%20placeholder.png)
 
 Head down with your family for a fun day out at the National Museum, filled with tech showcases and interactive activities to celebrate our grandparents and delight the young at heart!
  
-## Smart Nation Grandparents' Day
+## Smart Nation Grandparents Day
 Back with a bigger bang and even more fun-filled tech activities, games, and workshops – come celebrate our grandparents with the entire family this Grandparents’ Day on 26 November (Sunday). Explore the wonders of robotics, AI, and virtual reality with this unique experience for all ages!
  
 ### Exclusive merchandise and freebies up for grabs
