@@ -5,7 +5,7 @@ description: Come celebrate our grandparents with the entire family!
 third_nav_title: Events
 ---
 # Smart Nation Grandparents' Day 2023
-
+![](/images/community/events/gpd-placeholder-banner.png)
 
 Head down with your family for a fun day out at the National Museum, filled with tech showcases and interactive activities to celebrate our grandparents and delight the young at heart!
  
