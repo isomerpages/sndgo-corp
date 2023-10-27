@@ -5,18 +5,14 @@ description: Come celebrate our grandparents with the entire family!
 third_nav_title: Events
 ---
 # Smart Nation Grandparents' Day 2023
-![Smart Nation Grandparents Day](/images/community/events/gpd-placeholder-banner.png)
+![Smart Nation Grandparents Day](/images/community/events/grandparents%20day%20placeholder.png)
 
 Head down with your family for a fun day out at the National Museum, filled with tech showcases and interactive activities to celebrate our grandparents and delight the young at heart!
  
 ## Smart Nation Grandparents' Day
 Back with a bigger bang and even more fun-filled tech activities, games, and workshops – come celebrate our grandparents with the entire family this Grandparents’ Day on 26 November (Sunday). Explore the wonders of robotics, AI, and virtual reality with this unique experience for all ages!
-
-Insert date/time graphic | insert venue graphic
  
 ### Exclusive merchandise and freebies up for grabs
-
-insert artwork for this
 
 📢 Redeem an exclusive Smart Nation tote bag* filled with cool swag such as digital luggage scale, 3-in-1 phone charger-fan-flashlight and more!<br>
 📢   Bring your grandparents and grandchildren to enjoy free croissants! What’s more, complete our survey and receive a special 25% discount voucher from Café Brera!<br>
@@ -25,7 +21,7 @@ insert artwork for this
  
  
 ### Register your interest now
-Head over to [insert FB event listing URL] to register your interest and let us know you are coming! Follow [Smart Nation Singapore](https://www.facebook.com/SmartNationSG) for updates.
+Follow [Smart Nation Singapore](https://www.facebook.com/SmartNationSG) for updates.
  
 ### Event highlights
 * Challenge your grandparents and grandkids to a round of boxing, not in the ring, but in Augmented Reality (AR)!
