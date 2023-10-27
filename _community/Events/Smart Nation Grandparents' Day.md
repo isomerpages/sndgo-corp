@@ -59,7 +59,7 @@ Follow [Smart Nation Singapore](https://www.facebook.com/SmartNationSG) for upda
 * City Hall Station (EW13/NS25), Exit B<br><br><br>
 
 [[Return to top]](#Smart-Nation-Grandparents'-Day-2023)<br>
-* [Smart Nation Grandparents' Day](#Smart-Nation-Grandparents'-Day)
+* [Smart Nation Grandparents Day](#Smart-Nation-Grandparents'-Day)
 * [Freebies and Merchandise](#exclusive-merchandise-and-freebies-up-for-grabs)
 * [Register Your Interest](#register-your-interest-now)
 * [Event Highlights](#event-highlights)
