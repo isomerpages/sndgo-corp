@@ -20,7 +20,7 @@ insert artwork for this
 
 📢 Redeem an exclusive Smart Nation tote bag* filled with cool swag such as digital luggage scale, 3-in-1 phone charger-fan-flashlight and more!<br>
 📢   Bring your grandparents and grandchildren to enjoy free croissants! What’s more, complete our survey and receive a special 25% discount voucher from Café Brera!<br>
-*T&amp;Cs apply, while stocks last*<br>
+*Terms and conditions apply, while stocks last*<br>
 📢 Event participants can enjoy FREE admission to all exhibitions at the National Museum.
  
  
