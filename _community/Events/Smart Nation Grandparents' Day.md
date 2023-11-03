@@ -23,7 +23,7 @@ Back with a bigger bang and even more fun-filled tech activities, games, and wor
  
  
 ### Register your interest now
-Follow [Smart Nation Singapore](https://www.facebook.com/SmartNationSG) for updates.
+Head over to our [Events page](https://fb.me/e/1AYALGm7R) to register your interest and let us know you are coming! Follow [Smart Nation Singapore](https://www.facebook.com/SmartNationSG) for updates.
  
 ### Event highlights
 * Challenge your grandparents and grandkids to a round of boxing, not in the ring, but in Augmented Reality (AR)!
