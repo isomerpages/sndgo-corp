@@ -25,7 +25,7 @@ variant: markdown
      <div class="header" style="font-size:18px"><b>SkillsFuture X Smart Nation</b></div><br>
   </div> &nbsp; &nbsp; &nbsp; &nbsp; 
   	<div class="col" style="padding: 20px 20px 0px 20px;">
-			<a href="/community/events/grandparentsday"><img src="/images/community/events/sndgo_grandparents_day_website_banner_v1-01.jpg" alt="Smart Nation Grandparents Day"></a><br>
+			<a href="/grandparentsday"><img src="/images/community/events/sndgo_grandparents_day_website_banner_v1-01.jpg" alt="Smart Nation Grandparents Day"></a><br>
       <div class="header" style="font-size:18px"><b>Smart Nation Grandparents' Day</b></div><br>
   </div>
  </div>
