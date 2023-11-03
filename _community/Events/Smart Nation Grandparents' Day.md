@@ -6,7 +6,7 @@ third_nav_title: Events
 variant: markdown
 ---
 # Smart Nation Grandparents Day 2023
-![Smart Nation Grandparents Day 2023 banner](/images/community/events/sndgo_grandparents%20day_website%20banner_v1-01.jpg)
+![Smart Nation Grandparents Day 2023 banner](/images/community/events/sndgo_grandparents_day_website_banner_v1-01.jpg)
 
 Head down with your family for a fun day out at the National Museum, filled with tech showcases and interactive activities to celebrate our grandparents and delight the young at heart!
  
@@ -14,7 +14,7 @@ Head down with your family for a fun day out at the National Museum, filled with
 Back with a bigger bang and even more fun-filled tech activities, games, and workshops – come celebrate our grandparents with the entire family this Grandparents’ Day on 26 November (Sunday). Explore the wonders of robotics, AI, and virtual reality with this unique experience for all ages!
  
 ### Exclusive merchandise and freebies up for grabs
-![Grandparents Day freebie](/images/community/events/sndgo_grandparents%20day_website%20banner_v1-02.jpg)
+![Grandparents Day freebie](/images/community/events/sndgo_grandparents_day_website_banner_v1-02.jpg)
 
 📢 Redeem an exclusive Smart Nation tote bag* filled with cool swag such as digital luggage scale, 3-in-1 phone charger-fan-flashlight and more!<br>
 📢   Bring your grandparents and grandchildren to enjoy free croissants! What’s more, complete our survey and receive a special 25% discount voucher* from Café Brera!<br>
