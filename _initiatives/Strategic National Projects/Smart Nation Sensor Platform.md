@@ -4,6 +4,7 @@ permalink: /initiatives/strategic-national-projects/smart-nation-sensor-platform
 third_nav_title: Strategic National Projects
 description: ""
 image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
+variant: markdown
 ---
 # Using Data to Build a Better Future
 
@@ -37,10 +38,3 @@ When the PAB is triggered, an alert will be sent to a Senior Activity Centre whe
 
 For more information, visit the [Singapore Government Developer Portal](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/personal-alert-button). 
 
-## Smart Lamp Posts for Urban Planning
-
-We started the Lamppost-as-a-Platform  trial in 2019 by placing sensors on lamp posts to collect data on air quality, rainfall and footfall. The data collected is  used for effective urban planning such as designing safer footpaths and roads for pedestrians. 
-
-We also plan to collect environmental data to learn how we are being affected by global warming.
-
-<div style="width:100%;display:flex;justify-content:center;"><div style="width:70%;height:70%;"><img src="/images/initiatives/smart-lamp-post-govtech.png" alt="Smart Lamp Post"></div></div>
