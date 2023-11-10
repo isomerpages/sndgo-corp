@@ -4,9 +4,9 @@ permalink: /about-smart-nation/senior-management/
 description: Say hello to our leaders at the Smart Nation Group!
 image: /images/og-image/about-sndgg-og-image.jpg
 third_nav_title: About Us
-variant: tiptap
+variant: markdown
 ---
-# SNDGG Senior Management
+#   Senior Management
 
 <br>
 
