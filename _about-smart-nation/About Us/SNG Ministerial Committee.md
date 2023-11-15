@@ -8,7 +8,7 @@ variant: markdown
 ---
 ## Ministerial Committee
 
-The Smart Nation Gorup is overseen by a Ministerial Committee made up of the following members:
+The Smart Nation Group is overseen by a Ministerial Committee made up of the following members:
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
