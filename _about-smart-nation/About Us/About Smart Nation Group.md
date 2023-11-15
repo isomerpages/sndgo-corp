@@ -9,7 +9,7 @@ image: /images/og-image/about-sndgg-og-image.jpg
 third_nav_title: About Us
 variant: markdown
 ---
-# Smart Nation group
+# Smart Nation Group
 
 ![Smart Nation and Digital Government Office (SNDGO)](/images/abt-smart-nation/sndgo_office_01.jpg)
 
