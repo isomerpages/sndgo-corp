@@ -7,12 +7,13 @@ description: The Smart Nation group, part of the Prime Minister’s Office and
   the development of Smart Nation strategies.
 image: /images/og-image/about-sndgg-og-image.jpg
 third_nav_title: About Us
+variant: markdown
 ---
-# Smart Nation group
+# Smart Nation Group
 
 ![Smart Nation and Digital Government Office (SNDGO)](/images/abt-smart-nation/sndgo_office_01.jpg)
 
-The Smart Nation group, part of the <a href="https://www.pmo.gov.sg/" target="_blank">Prime Minister’s Office (PMO)</a> and administered by the <a href="https://www.mci.gov.sg/" target="_blank">Ministry of Communications and Information (MCI)</a>, plays a multifaceted role in guiding Singapore's digital transformation and leading the development of Smart Nation strategies. In addition to driving the digitalisation of government services, the group oversees the development and application of digital technologies and capabilities across Singapore. It also promotes digital inclusivity, while regulating data and online activities, and strengthening digital security. Through its comprehensive approach, the group strives to create a digitally empowered and inclusive society, positioning Singapore as a global leader in the digital era.
+The Smart Nation Group, part of the <a href="https://www.pmo.gov.sg/" target="_blank">Prime Minister’s Office (PMO)</a> and administered by the <a href="https://www.mci.gov.sg/" target="_blank">Ministry of Communications and Information (MCI)</a>, plays a multifaceted role in guiding Singapore's digital transformation and leading the development of Smart Nation strategies. In addition to driving the digitalisation of government services, the group oversees the development and application of digital technologies and capabilities across Singapore. It also promotes digital inclusivity, while regulating data and online activities, and strengthening digital security. Through its comprehensive approach, the group strives to create a digitally empowered and inclusive society, positioning Singapore as a global leader in the digital era.
 
 <br><br>
 

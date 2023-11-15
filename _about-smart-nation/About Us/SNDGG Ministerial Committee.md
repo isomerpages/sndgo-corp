@@ -5,10 +5,11 @@ description: The Smart Nation and Digital Government Group is overseen by a
   Ministerial Committee.
 third_nav_title: About Us
 image: /images/og-image/about-sndgg-og-image.jpg
+variant: markdown
 ---
-## SNDGG Ministerial Committee
+## Ministerial Committee
 
-The Smart Nation and Digital Government Group (SNDGG) is overseen by a Ministerial Committee made up of the following members:
+The Smart Nation and Digital Government Group is overseen by a Ministerial Committee made up of the following members:
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 

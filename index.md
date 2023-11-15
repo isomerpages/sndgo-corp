@@ -17,14 +17,13 @@ sections:
           description: Check out our webinars
           url: https://together.smartnation.gov.sg/
   - infopic:
-      title: Digital for Life Festival is back!
+      title: Grandparents' Day is back!
       id: infopic
-      description: Join us for a fun-filled day where you can learn essential digital
-        skills, experience emerging tech and play a part to build a digitally
-        inclusive Singapore.
+      description: Join us with your family this Grandparents' Day as we celebrate the
+        special bond between grandparents and grandchildren!
       button: Find out more here
-      url: https://digitalforlife.gov.sg
-      image: /images/dfl web experience tech.png
+      url: https://www.smartnation.gov.sg/grandparentsday/
+      image: /images/community/events/sndgo_grandparents_day_website_banner_v1-01.jpg
       alt: Digital For Life Experience
   - infopic:
       title: We're the smartest city in Asia!
