@@ -8,6 +8,11 @@ description: ""
 
 We are honoured to have the following participants contribute their expertise, insights, and experiences to the discussions at SCAI.
 
+* [Academia Representatives](#academia-representatives) 
+* [AI Company Representatives](#ai-representatives)
+* [Tech Firm and Venture Capital Representatives](#tech-firm-and-venture-capital-representatives)
+* [Other Participants](#other-participants)
+
 ## Academia Representatives
 
 <div class="row-testimonial">
