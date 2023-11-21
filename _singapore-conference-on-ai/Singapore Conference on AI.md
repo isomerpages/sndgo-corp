@@ -32,5 +32,5 @@ Singapore 039799
 ## Programme
 
 <div style="width:40%"> 
- <a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/national-ai-strategy-cover.jpg" alt="SCAI Programme Booklet">SCAI Programme Booklet (XXmb)</a>
+ <a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/Scai/sample_cover.jpg" alt="SCAI Programme Booklet">SCAI Programme Booklet (XXmb)</a>
 </div>
