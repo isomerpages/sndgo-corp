@@ -42,6 +42,84 @@ We are honoured to have the following participants contribute their expertise, i
 
 </div>
 
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Porta nibh venenatis cras sed felis eget. Viverra nam libero justo laoreet sit amet cursus. Lobortis mattis aliquam faucibus purus in massa tempor nec. Purus non enim praesent elementum facilisis leo. Amet facilisis magna etiam tempor orci eu. Neque sodales ut etiam sit amet nisl. Convallis posuere morbi leo urna molestie at elementum. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Risus nullam eget felis eget nunc. Id aliquet lectus proin nibh nisl condimentum id. Vel quam elementum pulvinar etiam non quam lacus. Dignissim enim sit amet venenatis urna cursus. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Et tortor consequat id porta nibh venenatis cras sed felis. In eu mi bibendum neque egestas congue quisque egestas diam. Lobortis elementum nibh tellus molestie nunc non blandit massa enim.<br><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Porta nibh venenatis cras sed felis eget. Viverra nam libero justo laoreet sit amet cursus. Lobortis mattis aliquam faucibus purus in massa tempor nec. Purus non enim praesent elementum facilisis leo. Amet facilisis magna etiam tempor orci eu. Neque sodales ut etiam sit amet nisl. Convallis posuere morbi leo urna molestie at elementum. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Risus nullam eget felis eget nunc. Id aliquet lectus proin nibh nisl condimentum id. Vel quam elementum pulvinar etiam non quam lacus. Dignissim enim sit amet venenatis urna cursus. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Et tortor consequat id porta nibh venenatis cras sed felis. In eu mi bibendum neque egestas congue quisque egestas diam. Lobortis elementum nibh tellus molestie nunc non blandit massa enim.<br><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Porta nibh venenatis cras sed felis eget. Viverra nam libero justo laoreet sit amet cursus. Lobortis mattis aliquam faucibus purus in massa tempor nec. Purus non enim praesent elementum facilisis leo. Amet facilisis magna etiam tempor orci eu. Neque sodales ut etiam sit amet nisl. Convallis posuere morbi leo urna molestie at elementum. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Risus nullam eget felis eget nunc. Id aliquet lectus proin nibh nisl condimentum id. Vel quam elementum pulvinar etiam non quam lacus. Dignissim enim sit amet venenatis urna cursus. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Et tortor consequat id porta nibh venenatis cras sed felis. In eu mi bibendum neque egestas congue quisque egestas diam. Lobortis elementum nibh tellus molestie nunc non blandit massa enim.<br><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Porta nibh venenatis cras sed felis eget. Viverra nam libero justo laoreet sit amet cursus. Lobortis mattis aliquam faucibus purus in massa tempor nec. Purus non enim praesent elementum facilisis leo. Amet facilisis magna etiam tempor orci eu. Neque sodales ut etiam sit amet nisl. Convallis posuere morbi leo urna molestie at elementum. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Risus nullam eget felis eget nunc. Id aliquet lectus proin nibh nisl condimentum id. Vel quam elementum pulvinar etiam non quam lacus. Dignissim enim sit amet venenatis urna cursus. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Et tortor consequat id porta nibh venenatis cras sed felis. In eu mi bibendum neque egestas congue quisque egestas diam. Lobortis elementum nibh tellus molestie nunc non blandit massa enim.<br><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Porta nibh venenatis cras sed felis eget. Viverra nam libero justo laoreet sit amet cursus. Lobortis mattis aliquam faucibus purus in massa tempor nec. Purus non enim praesent elementum facilisis leo. Amet facilisis magna etiam tempor orci eu. Neque sodales ut etiam sit amet nisl. Convallis posuere morbi leo urna molestie at elementum. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Risus nullam eget felis eget nunc. Id aliquet lectus proin nibh nisl condimentum id. Vel quam elementum pulvinar etiam non quam lacus. Dignissim enim sit amet venenatis urna cursus. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Et tortor consequat id porta nibh venenatis cras sed felis. In eu mi bibendum neque egestas congue quisque egestas diam. Lobortis elementum nibh tellus molestie nunc non blandit massa enim.<br><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Porta nibh venenatis cras sed felis eget. Viverra nam libero justo laoreet sit amet cursus. Lobortis mattis aliquam faucibus purus in massa tempor nec. Purus non enim praesent elementum facilisis leo. Amet facilisis magna etiam tempor orci eu. Neque sodales ut etiam sit amet nisl. Convallis posuere morbi leo urna molestie at elementum. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Risus nullam eget felis eget nunc. Id aliquet lectus proin nibh nisl condimentum id. Vel quam elementum pulvinar etiam non quam lacus. Dignissim enim sit amet venenatis urna cursus. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Et tortor consequat id porta nibh venenatis cras sed felis. In eu mi bibendum neque egestas congue quisque egestas diam. Lobortis elementum nibh tellus molestie nunc non blandit massa enim.<br><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+</div>
+
 ## AI Company Representatives
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
@@ -54,6 +132,56 @@ We are honoured to have the following participants contribute their expertise, i
 
 <div class="col" style="padding: 10px 20px 0px 20px;">
 <img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Porta nibh venenatis cras sed felis eget. Viverra nam libero justo laoreet sit amet cursus. Lobortis mattis aliquam faucibus purus in massa tempor nec. Purus non enim praesent elementum facilisis leo. Amet facilisis magna etiam tempor orci eu. Neque sodales ut etiam sit amet nisl. Convallis posuere morbi leo urna molestie at elementum. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Risus nullam eget felis eget nunc. Id aliquet lectus proin nibh nisl condimentum id. Vel quam elementum pulvinar etiam non quam lacus. Dignissim enim sit amet venenatis urna cursus. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Et tortor consequat id porta nibh venenatis cras sed felis. In eu mi bibendum neque egestas congue quisque egestas diam. Lobortis elementum nibh tellus molestie nunc non blandit massa enim.<br><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Porta nibh venenatis cras sed felis eget. Viverra nam libero justo laoreet sit amet cursus. Lobortis mattis aliquam faucibus purus in massa tempor nec. Purus non enim praesent elementum facilisis leo. Amet facilisis magna etiam tempor orci eu. Neque sodales ut etiam sit amet nisl. Convallis posuere morbi leo urna molestie at elementum. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Risus nullam eget felis eget nunc. Id aliquet lectus proin nibh nisl condimentum id. Vel quam elementum pulvinar etiam non quam lacus. Dignissim enim sit amet venenatis urna cursus. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Et tortor consequat id porta nibh venenatis cras sed felis. In eu mi bibendum neque egestas congue quisque egestas diam. Lobortis elementum nibh tellus molestie nunc non blandit massa enim.<br><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Porta nibh venenatis cras sed felis eget. Viverra nam libero justo laoreet sit amet cursus. Lobortis mattis aliquam faucibus purus in massa tempor nec. Purus non enim praesent elementum facilisis leo. Amet facilisis magna etiam tempor orci eu. Neque sodales ut etiam sit amet nisl. Convallis posuere morbi leo urna molestie at elementum. Libero volutpat sed cras ornare arcu dui vivamus arcu felis. Risus nullam eget felis eget nunc. Id aliquet lectus proin nibh nisl condimentum id. Vel quam elementum pulvinar etiam non quam lacus. Dignissim enim sit amet venenatis urna cursus. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Pulvinar neque laoreet suspendisse interdum consectetur libero id. Et tortor consequat id porta nibh venenatis cras sed felis. In eu mi bibendum neque egestas congue quisque egestas diam. Lobortis elementum nibh tellus molestie nunc non blandit massa enim.<br><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+	
+<div class="col" style="padding: 10px 20px 0px 20px;"></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;"></div>
 
 </div>
 
@@ -71,6 +199,17 @@ We are honoured to have the following participants contribute their expertise, i
 
 <div class="col" style="padding: 10px 20px 0px 20px;">
 <img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+</div>
+
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 0px 20px;">
+<img src="/images/Scai/Participants/scai-participant.jpeg" alt="Name"><br><em><strong>Name</strong><br><span style="font-size:13px; line-height:14px">Designation</span></em><br><br>Ultrices eros in cursus turpis massa tincidunt. Sagittis aliquam malesuada bibendum arcu vitae elementum. In nibh mauris cursus mattis molestie a iaculis. Dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non. Pretium viverra suspendisse potenti nullam ac tortor vitae. Condimentum lacinia quis vel eros donec. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Nunc id cursus metus aliquam eleifend mi in nulla. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque. Pretium lectus quam id leo in vitae turpis. Tellus orci ac auctor augue mauris.<br><br></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;"></div>
+
+<div class="col" style="padding: 10px 20px 0px 20px;"></div>
 
 </div>
 
