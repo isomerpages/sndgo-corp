@@ -2,5 +2,5 @@ collections:
   singapore-conference-on-ai:
     output: true
     order:
-      - SCAI Participants.md
       - Singapore Conference on AI.md
+      - SCAI Participants.md
