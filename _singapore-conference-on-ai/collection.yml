@@ -1,4 +1,5 @@
 collections:
   singapore-conference-on-ai:
     output: true
-    order: []
+    order:
+      - Singapore Conference on AI.md
