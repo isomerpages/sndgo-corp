@@ -4,19 +4,8 @@ permalink: /scai/
 variant: markdown
 description: ""
 ---
-![Singapore Conference on AI](/images/Scai/SCAI_001.jpeg)
 
-<br>
-<div class="row">
-
-<div class="col" style="padding: 10px 10px 10px 10px; text-align:center"><a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/Scai/sampleicon3.jpeg" alt="GoBusiness"></a><b>Who's Attending</b></div>
-	
-<div class="col" style="padding: 10px 10px 10px 10px; text-align:center"><a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/Scai/sampleicon1.jpeg" alt="GoBusiness"></a><b>Programme</b></div>
-	
-<div class="col" style="padding: 10px 10px 10px 10px; text-align:center"><a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/Scai/sampleicon2.jpeg" alt="GoBusiness"></a><b>Outcomes</b></div>
-</div>
-			
-
+![](/images/SCAI_sample_banner.jpeg)
 
 ## About the conference
 
