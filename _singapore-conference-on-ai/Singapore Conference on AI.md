@@ -6,33 +6,17 @@ description: ""
 ---
 ![Singapore Conference on AI](/images/Scai/SCAI_001.jpeg)
 
+<br>
+<div class="row">
 
-
-<br>
-<div class="row" style="background-color: #132f4d;">
-<div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
-		<div class="header"><b>Who's Attending</b></div>
-</div>
+<div class="col" style="padding: 10px 10px 10px 10px; text-align:center"><a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/Scai/sampleicon3.jpeg" alt="GoBusiness"></a><b>Who's Attending</b></div>
 	
-<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
-	<div class="header"><b>Programme</b></div>
-<br>
-</div>
+<div class="col" style="padding: 10px 10px 10px 10px; text-align:center"><a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/Scai/sampleicon1.jpeg" alt="GoBusiness"></a><b>Programme</b></div>
 	
-<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
-	<div class="header"><b>Challenge Statements</b></div>
-<br>
-</div>
-	
-<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
-	<div class="header"><b>Media</b></div>
+<div class="col" style="padding: 10px 10px 10px 10px; text-align:center"><a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/Scai/sampleicon2.jpeg" alt="GoBusiness"></a><b>Outcomes</b></div>
 </div>
 			
-</div>
+
 
 ## About the conference
 
@@ -45,7 +29,7 @@ SCAI focuses on identifying core research challenges intrinsic to AI development
 <div class="row" style="background-color: #00000;padding: 25px 0px 0px 20px"></div>
 
 <div class="row" style="background-color: #f3f3f3;padding: 15px 0px 0px 20px">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/abt-smart-nation/leaders/ruimin.jpeg" alt="Steven New"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/abt-smart-nation/leaders/ruimin.jpeg" alt="Ruimin"></div>
       <div class="column" style="width: 400%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 18px; font-weight: bold; line-height: 30px;">Dr He Ruimin</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Deputy Government Chief Digital Technology Officer, Smart Nation Group</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“Bibendum enim facilisis gravida neque convallis a cras semper. Massa placerat duis ultricies lacus sed turpis tincidunt id. Arcu vitae elementum curabitur vitae nunc sed velit.”</span></div>
@@ -54,11 +38,8 @@ SCAI focuses on identifying core research challenges intrinsic to AI development
 <div class="row" style="background-color: #00000;padding: 25px 0px 0px 20px"></div>
 
 <div class="row" style="background-color: #f3f3f3;padding: 15px 0px 0px 20px">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/abt-smart-nation/leaders/weng-wanyi.jpg" alt="Steven New"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/abt-smart-nation/leaders/weng-wanyi.jpg" alt="Wanyi"></div>
       <div class="column" style="width: 400%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 18px; font-weight: bold; line-height: 30px;">Weng Wanyi</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Director National AI Office, Smart Nation Group</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“Bibendum enim facilisis gravida neque convallis a cras semper. Massa placerat duis ultricies lacus sed turpis tincidunt id. Arcu vitae elementum curabitur vitae nunc sed velit.”</span></div>
 </div>
-
-
-
