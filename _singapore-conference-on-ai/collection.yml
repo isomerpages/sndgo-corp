@@ -2,7 +2,7 @@ collections:
   singapore-conference-on-ai:
     output: true
     order:
-      - Outcomes.md
       - About.md
       - Participants.md
       - Programme.md
+      - Outcomes.md
