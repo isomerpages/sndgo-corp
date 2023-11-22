@@ -6,31 +6,59 @@ description: ""
 ---
 ![Singapore Conference on AI](/images/Scai/SCAI_001.jpeg)
 
+
+
+<br>
+<div class="row" style="background-color: #132f4d;">
+<div class="col"> 
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
+		<div class="header"><b>Who's Attending</b></div>
+</div>
+	
+<div class="col"> 
+<a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
+	<div class="header"><b>Programme</b></div>
+<br>
+</div>
+	
+<div class="col"> 
+<a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
+	<div class="header"><b>Challenge Statements</b></div>
+<br>
+</div>
+	
+<div class="col"> 
+<a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
+	<div class="header"><b>Media</b></div>
+</div>
+			
+</div>
+
 ## About the conference
 
 The Singapore Conference on AI (SCAI) serves as a pivotal nexus, bringing together an international array of participants from diverse backgrounds in academia, industry, and government. This unique gathering, organised by the [Ministry of Communications and Information](https://mci.gov.sg/), provides a platform for global stakeholders to collaboratively explore ways to enhance the development and application of AI systems for the global good.
 
 SCAI focuses on identifying core research challenges intrinsic to AI development and deployment, fostering a shared understanding of these issues. The conference recognises the importance of diverse viewpoints in shaping a comprehensive and globally applicable approach to AI. Centered around the theme "**AI for the Public Good, for Singapore and the World**," the conference serves as a beacon, spotlighting how AI can bring positive change within Singapore and echo globally for the betterment of societies worldwide.
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">"Insert inspiring quote on SCAI here. Volutpat blandit aliquam etiam erat. Bibendum enim facilisis gravida neque convallis a cras semper. Massa placerat duis ultricies lacus sed turpis tincidunt id. Arcu vitae elementum curabitur vitae nunc sed velit.”<br><div style="font-size:14px; font-weight: 400;padding: 10px 0px 10px 0px;">Josephine Teo, Minister for Smart Nation and Cybersecurity</div></div>
+<div class="row" style="background-color: #00000;padding: 25px 0px 0px 20px"></div>
+        
+<div class="row" style="background-color: #00000;padding: 25px 0px 0px 20px"></div>
 
-## Participants
-
-Click the following link to view our distinguished [list of SCAI participants](/scai-participants/).
-
-### Date
-
-Date: 3 - 5 December 2023
-
-### Venue
-
-The Ritz-Carlton, Millenia Singapore<br>
-Marina Bay<br>
-7 Raffles Avenue<br>
-Singapore 039799
-
-## Programme
-
-<div style="width:40%"> 
- <a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/Scai/sample_cover.jpg" alt="SCAI Programme Booklet">SCAI Programme Booklet (XXmb)</a>
+<div class="row" style="background-color: #f3f3f3;padding: 15px 0px 0px 20px">
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/abt-smart-nation/leaders/ruimin.jpeg" alt="Steven New"></div>
+      <div class="column" style="width: 400%; padding: 10px 20px 30px 20px;">
+       <span style="font-size: 18px; font-weight: bold; line-height: 30px;">Dr He Ruimin</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Deputy Government Chief Digital Technology Officer, Smart Nation Group</span><br><br>
+    <span style="font-size: 16px; line-height: 23px;">“Bibendum enim facilisis gravida neque convallis a cras semper. Massa placerat duis ultricies lacus sed turpis tincidunt id. Arcu vitae elementum curabitur vitae nunc sed velit.”</span></div>
 </div>
+
+<div class="row" style="background-color: #00000;padding: 25px 0px 0px 20px"></div>
+
+<div class="row" style="background-color: #f3f3f3;padding: 15px 0px 0px 20px">
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/abt-smart-nation/leaders/weng-wanyi.jpg" alt="Steven New"></div>
+      <div class="column" style="width: 400%; padding: 10px 20px 30px 20px;">
+       <span style="font-size: 18px; font-weight: bold; line-height: 30px;">Weng Wanyi</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Director National AI Office, Smart Nation Group</span><br><br>
+    <span style="font-size: 16px; line-height: 23px;">“Bibendum enim facilisis gravida neque convallis a cras semper. Massa placerat duis ultricies lacus sed turpis tincidunt id. Arcu vitae elementum curabitur vitae nunc sed velit.”</span></div>
+</div>
+
+
+
