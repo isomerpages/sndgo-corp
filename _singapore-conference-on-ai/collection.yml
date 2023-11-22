@@ -2,8 +2,8 @@ collections:
   singapore-conference-on-ai:
     output: true
     order:
-      - Gallery.md
       - About.md
       - Participants.md
       - Programme.md
       - Outcomes.md
+      - Gallery.md
