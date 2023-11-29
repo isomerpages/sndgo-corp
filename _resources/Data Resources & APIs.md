@@ -3,11 +3,8 @@ title: Data Resources & APIs
 permalink: /resources/open-data/
 description: Data is the new currency, and with open data, the possibilities are endless!
 image: /images/og-image/smart-nation-og-image.jpg
+variant: markdown
 ---
-
-
-
-
 ![Open data resources for government data](/images/resources/open-government-data.jpeg)
 
 Data is the new currency, and with open data, the possibilities are endless!
@@ -22,7 +19,7 @@ Even as efforts have been made to encourage everyone to share, and contribute da
 
 The Singapore government's one-stop portal to publicly-available datasets from 70 public agencies. The revamped portal serves as a repository of data captured by the public sector, which has been made more relevant and understandable for the public, through data visualisations and data narratives.
 
-### <a href="https://developers.data.gov.sg/" target="_blank">Data.gov.sg Developers</a>
+### <a href="https://guide.data.gov.sg/developers/api-v2" target="_blank">Data.gov.sg Developers</a>
 <div style="width:50%"> <img src="/images/resources/data-gov-developer.jpeg"></div>
 
 Resource page to support the efforts of application developers using the data on Data.gov.sg. This includes Real-time APIs, CKAN APIs, and DataStore API.
