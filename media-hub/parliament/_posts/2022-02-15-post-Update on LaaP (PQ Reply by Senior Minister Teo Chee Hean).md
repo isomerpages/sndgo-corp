@@ -4,6 +4,7 @@ permalink: /media-hub/parliament/14022022/
 date: 2022-02-15
 layout: post
 description: ""
+variant: markdown
 ---
 ## Update on Lamppost-as-a-Platform (LaaP) project
 
@@ -17,7 +18,7 @@ description: ""
 
 **Written answer by Mr Teo Chee Hean, Senior Minister and Coordinating Minister for National Security (for the Prime Minister)**
 
-The [Lamppost-as-a-Platform (LaaP)](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/lamppost-as-a-platform) project was started in late 2017 to explore the technical and business feasibility of using lampposts to mount sensors. The project is organised into two trials to cover brownfield and greenfield sites use cases in commercial, industrial and residential environments.
+The Lamppost-as-a-Platform (LaaP) project was started in late 2017 to explore the technical and business feasibility of using lampposts to mount sensors. The project is organised into two trials to cover brownfield and greenfield sites use cases in commercial, industrial and residential environments.
 
 Later this month, GovTech will complete the first trial of the LaaP, which covers commercial and industrial brownfield sites in Geylang and One-North. The second trial, in the residential greenfield site in Punggol Northshore estates, will start in Apr 2022.
 
