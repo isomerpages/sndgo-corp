@@ -4,10 +4,12 @@ permalink: /about-smart-nation/our-journey/achievements/
 third_nav_title: Our Smart Nation Journey
 description: See how we have progressed as a Smart Nation.
 image: /images/og-image/achievements-og-image.jpg
+variant: markdown
 ---
 # Our Achievements 
 ![Our Smart Nation Achievements](/images/abt-smart-nation/achievements.jpg)
 
+* [2023: Singapore rises to 3rd place in 2023 IMD World Digital Competitiveness Ranking](#singapore-rises-to-3rd-place-in-2023-imd-world-digital-competitiveness-ranking)
 * [2023: Singapore moves up to 5th place in Global Innovation Index](#singapore-moves-up-to-5th-place-in-global-innovation-index)
 * [2023: Singapore named Top Asian City in the 2023 IMD Smart City Index](#singapore-named-top-asian-city-in-the-2023-imd-smart-city-index)
 * [2022: Singapore ranked among Top 5 global economies in the IMD World Digital Competitiveness Ranking 2022](#singapore-ranked-among-top-5-global-economies-in-imd-world-digital-competitiveness-ranking-2022)
@@ -21,6 +23,16 @@ image: /images/og-image/achievements-og-image.jpg
 *    [2018: Singapore named Smart City of 2018 at the Smart City Expo World Congress](#singapore-named-smart-city-of-2018-at-smart-city-expo-world-congress)
 
 ## 2023
+
+### Singapore rises to 3rd place in 2023 IMD World Digital Competitiveness Ranking
+
+Singapore has climbed to third place in the IMD World Digital Competitiveness Ranking (WDRC) for 2023. This year’s ranking provides a glimpse at how different countries facilitate the adoption of digital technologies, including AI, by governments, companies, and individuals.
+
+The WDRC, which evaluates 64 countries, recognises Singapore's consistent first-place ranking in the technology factor. This accomplishment is a testament to our investments in digital infrastructure, development of digital skills and talent, and promotion of research and innovation.
+
+Click the link to find out more about the [IMD World Digital Competitiveness Ranking 2023](https://www.imd.org/centers/wcc/world-competitiveness-center/rankings/world-digital-competitiveness-ranking/).
+
+[Return to top](#our-achievements)
 
 ### Singapore moves up to 5th place in Global Innovation Index
 
