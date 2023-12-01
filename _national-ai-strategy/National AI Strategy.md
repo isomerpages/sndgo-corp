@@ -49,6 +49,8 @@ To propel ourselves further as leaders in the field AI, three key shifts from ou
 
 </div>
 
+
+#### Goals if NAIS 2.0
 	
 Guided by the vision “AI for the Public Good, for Singapore and the World”, NAIS 2.0 focuses on two&nbsp;twin&nbsp;goals:
 
@@ -68,7 +70,11 @@ Guided by the vision “AI for the Public Good, for Singapore and the World”, 
 
 </div>
 
-NAIS 2.0 outlines our strategy to harness **10 enablers**, unlocking Singapore's AI potential and supporting our AI ambitions. Over the next three to five years, we will implement **15 actions**, with ongoing reviews to respond to fast-moving developments in AI, across domains.
+#### Enablers
+
+NAIS 2.0 outlines our strategy to harness 10 enablers, unlocking Singapore's AI potential and supporting our AI ambitions. Over the next three to five years, we will implement 15 actions, with ongoing reviews to respond to fast-moving developments in AI, across domains.
+
+#### Actions
 
 
 **Orchestrate to Build Peaks of Excellence**
