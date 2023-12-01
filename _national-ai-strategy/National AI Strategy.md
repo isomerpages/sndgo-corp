@@ -33,15 +33,22 @@ To propel ourselves further as leaders in the field AI, three key shifts from ou
 <div class="row">
 
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b></b><center><b></b><div style="font-size:20px; align:center;"><b>From Opportunity to Necessity</b></div></center><br><br>The expanded landscape of opportunities and risks brought forth by AI today make clear that AI is indispensable for the continued prosperity and relevance as a nation. We must master AI, rather than think of it merely as an accessory or a luxury.<br></div></div>
+<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness">
+<div style="font-size:18px;"><b><center>From Opportunity to Necessity</center></b></div>
+<div style="font-size:16px; line-height:26px">The expanded landscape of opportunities and risks brought forth by AI today make clear that AI is indispensable for the continued prosperity and relevance as a nation. We must master AI, rather than think of it merely as an accessory or a luxury.<br></div></div>
 
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>From Local to Global</b><br><br>Singapore must operate, from the outset, with a global outlook for AI. We must connect to global networks, working with the best and pooling resources among the like-minded to overcome the complex challenges that plague AI today.&nbsp;<br></div>
+<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness">
+<div style="font-size:18px;"><b><center>From Local to Global</center></b></div>
+<div style="font-size:16px; line-height:26px">Singapore must operate, from the outset, with a global outlook for AI. We must connect to global networks, working with the best and pooling resources among the like-minded to overcome the complex challenges that plague AI today.<br></div></div>
 	
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>From Projects to Systems</b><br><br>We must further enhance our capability, infrastructure and resource foundations, and accelerate ideas exchange at scale, to amplify and manage the impact of AI across various sectors, and in economy and society at large.<br></div>
+<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness">
+<div style="font-size:18px;"><b><center>From Opportunity to Necessity</center></b></div>
+<div style="font-size:16px; line-height:26px">We must further enhance our capability, infrastructure and resource foundations, and accelerate ideas exchange at scale, to amplify and manage the impact of AI across various sectors, and in economy and society at large.<br></div></div>
 
-	
+</div>
+
 	
 Guided by the vision “AI for the Public Good, for Singapore and the World”, NAIS 2.0 focuses on two&nbsp;twin&nbsp;goals:
 
@@ -50,27 +57,40 @@ Guided by the vision “AI for the Public Good, for Singapore and the World”, 
 <div class="row">
 
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>Excellence</b><br><br>Singapore will selectively develop peaks of excellence in AI, to advance the field and maximise value creation. We intend to direct AI towards addressing the needs and challenges of our time, such as in areas of global importance like population health and climate change.<br></div>
+<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness">
+<div style="font-size:18px;"><b><center>Excellence</center></b></div>
+<div style="font-size:16px; line-height:26px">Singapore will selectively develop peaks of excellence in AI, to advance the field and maximise value creation. We intend to direct AI towards addressing the needs and challenges of our time, such as in areas of global importance like population health and climate change.<br></div></div>
 
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>Empowerment</b><br><br>Singapore will raise up individuals, businesses, and communities to use AI with confidence, discernment, and trust. We intend for AI to be the great equaliser, which equips our people and businesses with the capabilities and resources to thrive in an AI-enabled future.&nbsp;<br></div>
+<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness">
+<div style="font-size:18px;"><b><center>Empowerment</center></b></div>
+<div style="font-size:16px; line-height:26px">Singapore will raise up individuals, businesses, and communities to use AI with confidence, discernment, and trust. We intend for AI to be the great equaliser, which equips our people and businesses with the capabilities and resources to thrive in an AI-enabled future.<br></div></div>
 
-</div>	
-
+</div>
 
 NAIS 2.0 outlines our strategy to harness **10 enablers**, unlocking Singapore's AI potential and supporting our AI ambitions. Over the next three to five years, we will implement **15 actions**, with ongoing reviews to respond to fast-moving developments in AI, across domains.
 
-#### 15 Actions of NAIS 2.0
 
 **Orchestrate to Build Peaks of Excellence**
 
-1. Anchor&nbsp;**new AI Centres of Excellence (CoE)**&nbsp;across companies, and explore establishing Sectoral AI CoEs to drive sophisticated AI value creation and usage in key sectors
+<div class="row">
 
-2. Strengthen our AI start-up ecosystem, including attracting&nbsp;**AI-focused accelerator programmes**&nbsp;to spur rapid AI experimentation
+<div class="col"> 
+<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"><br><div style="font-size:16px; line-height:26px">Anchor <b>new AI Centres of Excellence (CoE)</b> across companies, and explore establishing Sectoral AI CoEs to drive sophisticated AI value creation and usage in key sectors<br></div></div>
 
-3. Improve&nbsp;**public service productivity,**&nbsp;with&nbsp;**new value propositions**&nbsp;for our citizens
+<div class="col">
+<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"><br><div style="font-size:16px; line-height:26px">Strengthen our AI start-up ecosystem, including attractin <b>AI-focused accelerator programmes</b> to spur rapid AI experimentation<br></div></div>
+	
+<div class="col"> 
+<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"><br>
+	<div style="font-size:16px; line-height:26px"> Improve <b>public service productivity</b>, with <b>new value propositions</b> for our citizens<br></div></div>
 
-4. Update&nbsp;**national AI R&amp;D plans**&nbsp;to sustain leadership in select research areas
+<div class="col"> 
+<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"><br>
+<div style="font-size:16px; line-height:26px">Update <b>national AI R&amp;D plans</b> to sustain leadership in select research areas<br></div></div>
+
+</div>
+
 
 **Become Home to Exemplary Creators, Practitioners and Users**  
 
