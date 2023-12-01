@@ -29,52 +29,34 @@ In 2023, in our ongoing pursuit of setting the pace, we launched the [Singapore 
 To propel ourselves further as leaders in the field AI, three key shifts from our initial National AI Strategy are imperative for NAIS 2.0:
 
 <br>
+
 <div class="row">
+
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
-		<div class="header"><b>From Opportunity to Necessity</b></div><br>
-		<div class="para">The expanded landscape of opportunities and risks brought forth by AI today make clear that AI is indispensable for the continued prosperity and relevance as a nation. We must master AI, rather than think of it merely as an accessory or a luxury.
-</div>
-<br>
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>From Opportunity to Necessity</b><br><br>The expanded landscape of opportunities and risks brought forth by AI today make clear that AI is indispensable for the continued prosperity and relevance as a nation. We must master AI, rather than think of it merely as an accessory or a luxury.<br></div>
 
-</div>
-	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
-	<div class="header"><b>From Local to Global</b></div><br>
-	<div class="para">Singapore must operate, from the outset, with a global outlook for AI. We must connect to global networks, working with the best and pooling resources among the like-minded to overcome the complex challenges that plague AI today.&nbsp;
-</div>
-<br>
+<div class="col"> 
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>From Local to Global</b><br><br>Singapore must operate, from the outset, with a global outlook for AI. We must connect to global networks, working with the best and pooling resources among the like-minded to overcome the complex challenges that plague AI today.&nbsp;<br></div>
+	
+<div class="col"> 
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>From Projects to Systems</b><br><br>We must further enhance our capability, infrastructure and resource foundations, and accelerate ideas exchange at scale, to amplify and manage the impact of AI across various sectors, and in economy and society at large.<br></div>
 
-</div>
-	<div class="col"> 
-<a href="/initiatives/strategic-national-projects/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
-	<div class="header"><b>From Projects to Systems</b></div><br>
-	<div class="para">We must further enhance our capability, infrastructure and resource foundations, and accelerate ideas exchange at scale, to amplify and manage the impact of AI across various sectors, and in economy and society at large.
-</div>
-<br></div></div>
-
-
+</div>	
+	
 Guided by the vision “AI for the Public Good, for Singapore and the World”, NAIS 2.0 focuses on two&nbsp;twin&nbsp;goals:
 
 <br>
+
 <div class="row">
-<div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br>
-	
-<div class="header"><b>Excellence</b></div><br>
-<div class="para">Singapore will selectively develop peaks of excellence in AI, to advance the field and maximise value creation. We intend to direct AI towards addressing the needs and challenges of our time, such as in areas of global importance like population health and climate change.</div><br>
-
-</div>
 
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/codex"><img src="/images/initiatives/codex-snp.jpeg" alt="CODEX"></a><br>
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>Excellence</b><br><br>Singapore will selectively develop peaks of excellence in AI, to advance the field and maximise value creation. We intend to direct AI towards addressing the needs and challenges of our time, such as in areas of global importance like population health and climate change.<br></div>
 
-<div class="header"><b>Empowerment</b></div><br>
-<div class="para">Singapore will raise up individuals, businesses, and communities to use AI with confidence, discernment, and trust. We intend for AI to be the great equaliser, which equips our people and businesses with the capabilities and resources to thrive in an AI-enabled future.</div><br>
+<div class="col"> 
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>Empowerment</b><br><br>Singapore will raise up individuals, businesses, and communities to use AI with confidence, discernment, and trust. We intend for AI to be the great equaliser, which equips our people and businesses with the capabilities and resources to thrive in an AI-enabled future.&nbsp;<br></div>
 
-</div>
+</div>	
 
-</div>
 
 NAIS 2.0 outlines our strategy to harness **10 enablers**, unlocking Singapore's AI potential and supporting our AI ambitions. Over the next three to five years, we will implement **15 actions**, with ongoing reviews to respond to fast-moving developments in AI, across domains.
 
@@ -82,24 +64,15 @@ NAIS 2.0 outlines our strategy to harness **10 enablers**, unlocking Singapore's
 
 **Orchestrate to Build Peaks of Excellence**
 
-<div style="font-size:15px; line-height:15px; padding: 0px 0px 0px 20px;">
+1. Anchor&nbsp;**new AI Centres of Excellence (CoE)**&nbsp;across companies, and explore establishing Sectoral AI CoEs to drive sophisticated AI value creation and usage in key sectors
 
-1. <div style="padding: 0px 0px 0px 20px;">Anchor <b>new AI Centres of Excellence (CoE)</b>&nbsp;across companies, and explore establishing Sectoral AI CoEs to drive sophisticated AI value creation and usage in key sectors</div>
+2. Strengthen our AI start-up ecosystem, including attracting&nbsp;**AI-focused accelerator programmes**&nbsp;to spur rapid AI experimentation
 
-2.  <div style="padding: 0px 0px 0px 20px;">Strengthen our AI start-up ecosystem, including attracting&nbsp;<b>AI-focused accelerator programmes</b>&nbsp;to spur rapid AI experimentation
-	
-</div>	
+3. Improve&nbsp;**public service productivity,**&nbsp;with&nbsp;**new value propositions**&nbsp;for our citizens
 
-2\. Strengthen our AI start-up ecosystem, including attracting&nbsp;**AI-focused accelerator programmes**&nbsp;to spur rapid AI experimentation
-
-3\. Improve&nbsp;**public service productivity,**&nbsp;with&nbsp;**new value propositions**&nbsp;for our citizens
-
-4\. Update&nbsp;**national AI R&amp;D plans**&nbsp;to sustain leadership in select research areas
+4. Update&nbsp;**national AI R&amp;D plans**&nbsp;to sustain leadership in select research areas
 
 **Become Home to Exemplary Creators, Practitioners and Users**  
-  
-
-Our second key system, People and Commmunities, will be helmed by three enablers&nbsp;\-&nbsp;Talent, Capabilities and Placemaking.&nbsp;With these enablers, we will:
 
 5\. Attract&nbsp;**world’s top AI creators**&nbsp;to work from and with Singapore
 
@@ -109,13 +82,9 @@ Our second key system, People and Commmunities, will be helmed by three enablers
 
 8\. Upskill workforce through sector-specific&nbsp;**AI training programmes**
 
-9.&nbsp;Establish an&nbsp;**iconic AI site**&nbsp;to co-locate AI creators and practitioners, and nurture the AI community in Singapore  
+9\.&nbsp;Establish an&nbsp;**iconic AI site**&nbsp;to co-locate AI creators and practitioners, and nurture the AI community in Singapore  
   
-
-Where “Everything Works The Way It Should”
-
-The third system we have&nbsp;identified is Infrastructure and Environment, which is powered by four enablers – Compute, Data, Trusted Environment and Leader in Thought and Action. With these enablers, we will:  
-  
+**Making Singapore a place where “everything works the way it should”
 
 10\. Significantly increase&nbsp;**high-performance compute**&nbsp;available in Singapore
 
@@ -130,4 +99,3 @@ The third system we have&nbsp;identified is Infrastructure and Environment, whic
 15\. Establish Singapore as an&nbsp;**ambitious**&nbsp;**and pragmatic international partner**&nbsp;on AI innovation and governance
 
 
-</div>
