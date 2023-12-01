@@ -94,9 +94,9 @@ NAIS 2.0 outlines our strategy to harness 10 enablers, unlocking Singapore's AI 
 
 Wondering how we've harnessed AI for the well-being of our citizens and businesses? Check out these examples showcasing we've applied AI in Singapore.
 
+<br>
 
-
-<br><div class="row">
+<div class="row">
 	
 <div class="col"> 
 <a href="/initiatives/health/project-pensieve/"><img src="/images/initiatives/project-pensieve.jpg" alt="Project Pensieve"></a><div style="font-size:18px;"><b><center>Project Pensieve</center></b></div><div style="font-size:18px; line-height:32px">Can technology help spot early signs of dementia? GovTech is piloting Project Pensieve, a screening tool that can detect signs of dementia by analysing a user’s drawings.
