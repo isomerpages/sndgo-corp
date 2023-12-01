@@ -80,74 +80,32 @@ NAIS 2.0 outlines our strategy to harness 10 enablers, unlocking Singapore's AI 
 **Orchestrate to Build Peaks of Excellence**
 
 
-<div class="row">
-
-<div class="col"> 
-<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"><br><div style="font-size:16px; line-height:26px">1. Anchor <b>new AI Centres of Excellence (CoE)</b> across companies, and explore establishing Sectoral AI CoEs to drive sophisticated AI value creation and usage in key sectors<br><br>2. Strengthen our AI start-up ecosystem, including attractin <b>AI-focused accelerator programmes</b> to spur rapid AI experimentation<br></div></div>
-
-<div class="col"> 
-<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"><br>
-	<div style="font-size:16px; line-height:26px"> Improve <b>public service productivity</b>, with <b>new value propositions</b> for our citizens<br></div></div>
-
-<div class="col"> 
-<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"><br>
-<div style="font-size:16px; line-height:26px">Update <b>national AI R&amp;D plans</b> to sustain leadership in select research areas<br></div></div>
-	
-<div class="col"></div>
-
-</div>
-
-
 **Become Home to Exemplary Creators, Practitioners and Users**  
-
-5\. Attract&nbsp;**world’s top AI creators**&nbsp;to work from and with Singapore
-
-6\. Boost&nbsp;**AI practitioner pool**&nbsp;to 15,000
-
-7\. Intensify&nbsp;**enterprise AI adoption**&nbsp;for industry transformation
-
-8\. Upskill workforce through sector-specific&nbsp;**AI training programmes**
-
-9\.&nbsp;Establish an&nbsp;**iconic AI site**&nbsp;to co-locate AI creators and practitioners, and nurture the AI community in Singapore  
   
-**Making Singapore a place where “everything works the way it should”
+	
+**Making Singapore a place where “everything works the way it should”**
 
-10\. Significantly increase&nbsp;**high-performance compute**&nbsp;available in Singapore
-
-11\. Build&nbsp;**capabilities in privacy enhancing technologies and data services**
-
-12\. Unlock&nbsp;**Government data**&nbsp;for Public Good use cases
-
-13\. Ensure&nbsp;**fit-for-purpose regulatory environment**&nbsp;for AI
-
-14\. Raise&nbsp;**security and resilie****nce**&nbsp;baseline for AI
-
-15\. Establish Singapore as an&nbsp;**ambitious**&nbsp;**and pragmatic international partner**&nbsp;on AI innovation and governance
 
 ### Applications of AI
 
 Wondering how we've harnessed AI for the well-being of our citizens and businesses? Check out these examples showcasing we've applied AI in Singapore.
 
-<div class="row">
+
+
+<br><div class="row">
 	
 <div class="col"> 
-<a href="/initiatives/health/project-pensieve/"><img src="/images/initiatives/project-pensieve.jpg" alt="Project Pensieve"></a><br>
-	<div class="header"><b>Project Pensieve</b></div>
-	<div class="para"><br>Can technology help spot early signs of dementia? GovTech is piloting Project Pensieve, a screening tool that can detect signs of dementia by analysing a user’s drawings.
+<a href="/initiatives/health/project-pensieve/"><img src="/images/initiatives/project-pensieve.jpg" alt="Project Pensieve"></a><div style="font-size:18px;"><b><center>Project Pensieve</center></b></div><div style="font-size:18px; line-height:32px">Can technology help spot early signs of dementia? GovTech is piloting Project Pensieve, a screening tool that can detect signs of dementia by analysing a user’s drawings.
 		<br></div>
 </div>
 	
 <div class="col"> 
-<a href="/initiatives/health/selena-plus/"><img src="/images/initiatives/selena.jpeg" alt="SELENA+"></a><br>
-		<div class="header"><b>SELENA+</b></div>
-		<div class="para"><br>Singapore Eye Lesion Analyser (SELENA+) is a deep-learning AI software system that can detect potential threatening eye conditions accurately and efficiently.
+<a href="/initiatives/health/selena-plus/"><img src="/images/initiatives/selena.jpeg" alt="SELENA+"></a><div style="font-size:18px;"><b><center>SELENA+</center></b></div><div style="font-size:18px; line-height:32px">Singapore Eye Lesion Analyser (SELENA+) is a deep-learning AI software system that can detect potential threatening eye conditions accurately and efficiently.
 <br></div>
 </div>
 	
 <div class="col"> 
-<a href="/initiatives/urban-living/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice.jpeg" alt="OneService Chatbot"></a><br>
-    <div class="header"><b>OneService Chatbot</b></div>
-    <div class="para"><br>The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
+<a href="/initiatives/urban-living/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice.jpeg" alt="OneService Chatbot"></a><div style="font-size:18px;"><b><center>OneService Chatbot</center></b></div><div style="font-size:18px; line-height:32px">The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
 </div>
 <br></div>
 	
