@@ -98,4 +98,35 @@ NAIS 2.0 outlines our strategy to harness **10 enablers**, unlocking Singapore's
 
 15\. Establish Singapore as an&nbsp;**ambitious**&nbsp;**and pragmatic international partner**&nbsp;on AI innovation and governance
 
+### Applications of AI
 
+Wondering how we've harnessed AI for the well-being of our citizens and businesses? Check out these examples showcasing we've applied AI in Singapore.
+
+<div class="row">
+	
+<div class="col"> 
+<a href="/initiatives/health/project-pensieve/"><img src="/images/initiatives/project-pensieve.jpg" alt="Project Pensieve"></a><br>
+	<div class="header"><b>Project Pensieve</b></div>
+	<div class="para"><br>Can technology help spot early signs of dementia? GovTech is piloting Project Pensieve, a screening tool that can detect signs of dementia by analysing a user’s drawings.
+		<br></div>
+</div>
+	
+<div class="col"> 
+<a href="/initiatives/health/selena-plus/"><img src="/images/initiatives/selena.jpeg" alt="SELENA+"></a><br>
+		<div class="header"><b>SELENA+</b></div>
+		<div class="para"><br>Singapore Eye Lesion Analyser (SELENA+) is a deep-learning AI software system that can detect potential threatening eye conditions accurately and efficiently.
+<br></div>
+</div>
+	
+<div class="col"> 
+<a href="/initiatives/urban-living/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice.jpeg" alt="OneService Chatbot"></a><br>
+    <div class="header"><b>OneService Chatbot</b></div>
+    <div class="para"><br>The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
+</div>
+<br></div>
+	
+</div>
+	
+### Working Together
+
+Our National AI Strategy's success depends on Singaporeans, businesses, researchers, the Government, and our friends from around the world working together. Click the link to see how you can [contribute and be part of our AI journey](/nais/contribute).
