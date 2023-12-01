@@ -7,7 +7,7 @@ image: /images/og-image/smart-nation-pillars-og-image.jpg
 ---
 ![NAIS 2.0 Logo](/images/initiatives/Nais/NAIS_RGB_4c.png)
 
-## AI for Public Good, for Singapore and the World
+# AI for Public Good, for Singapore and the World
 
 As a Smart Nation, our commitment extends beyond merely embracing technology; we aspire to be at the forefront, setting the pace, and driving global innovation and conversations in tech, including AI. 
 
@@ -25,7 +25,7 @@ In 2023, in our ongoing pursuit of setting the pace, we launched the Singapore N
 
 </div>
 
-### Singapore National AI Strategy 2.0 (NAIS 2.0)
+## Singapore National AI Strategy 2.0 (NAIS 2.0)
 
 
 
@@ -54,7 +54,7 @@ To propel ourselves further as leaders in the field AI, three key shifts from ou
 </div>
 
 
-#### Goals if NAIS 2.0
+### Goals if NAIS 2.0
 	
 Guided by the vision “AI for the Public Good, for Singapore and the World”, NAIS 2.0 focuses on two&nbsp;twin&nbsp;goals:
 
@@ -74,11 +74,11 @@ Guided by the vision “AI for the Public Good, for Singapore and the World”, 
 
 </div>
 
-#### Enablers
+### NAIS 2.0 Enablers
 
 NAIS 2.0 outlines our strategy to harness 10 enablers, unlocking Singapore's AI potential and supporting our AI ambitions. Over the next three to five years, we will implement 15 actions, with ongoing reviews to respond to fast-moving developments in AI, across domains.
 
-#### Actions
+### NAIS 2.0 Actions
 
 
 **Orchestrate to Build Peaks of Excellence**
@@ -90,7 +90,7 @@ NAIS 2.0 outlines our strategy to harness 10 enablers, unlocking Singapore's AI 
 **Making Singapore a place where “everything works the way it should”**
 
 
-### Applications of AI
+## Applications of AI
 
 Wondering how we've harnessed AI for the well-being of our citizens and businesses? Check out these examples showcasing we've applied AI in Singapore.
 
@@ -115,6 +115,6 @@ Wondering how we've harnessed AI for the well-being of our citizens and business
 	
 </div>
 	
-### Working Together
+## Working Together
 
 Our National AI Strategy's success depends on Singaporeans, businesses, researchers, the Government, and our friends from around the world working together. Click the link to see how you can [contribute and be part of our AI journey](/nais/contribute).
