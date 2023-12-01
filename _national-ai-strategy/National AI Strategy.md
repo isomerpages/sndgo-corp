@@ -33,7 +33,7 @@ To propel ourselves further as leaders in the field AI, three key shifts from ou
 <div class="row">
 
 <div class="col"> 
-<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>From Opportunity to Necessity</b><br><br>The expanded landscape of opportunities and risks brought forth by AI today make clear that AI is indispensable for the continued prosperity and relevance as a nation. We must master AI, rather than think of it merely as an accessory or a luxury.<br></div>
+<a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b></b><center><b></b><div style="font-size:20px; align:center;"><b>From Opportunity to Necessity</b></div></center><br><br>The expanded landscape of opportunities and risks brought forth by AI today make clear that AI is indispensable for the continued prosperity and relevance as a nation. We must master AI, rather than think of it merely as an accessory or a luxury.<br></div></div>
 
 <div class="col"> 
 <a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>From Local to Global</b><br><br>Singapore must operate, from the outset, with a global outlook for AI. We must connect to global networks, working with the best and pooling resources among the like-minded to overcome the complex challenges that plague AI today.&nbsp;<br></div>
@@ -41,7 +41,7 @@ To propel ourselves further as leaders in the field AI, three key shifts from ou
 <div class="col"> 
 <a href="/initiatives/strategic-national-projects/gobusiness"><img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness"></a><br><b>From Projects to Systems</b><br><br>We must further enhance our capability, infrastructure and resource foundations, and accelerate ideas exchange at scale, to amplify and manage the impact of AI across various sectors, and in economy and society at large.<br></div>
 
-</div>	
+	
 	
 Guided by the vision “AI for the Public Good, for Singapore and the World”, NAIS 2.0 focuses on two&nbsp;twin&nbsp;goals:
 
