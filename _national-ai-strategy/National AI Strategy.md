@@ -5,8 +5,6 @@ variant: markdown
 description: ""
 image: /images/og-image/smart-nation-pillars-og-image.jpg
 ---
-![NAIS 2.0 Logo](/images/initiatives/Nais/NAIS_RGB_4c.png)
-
 # AI for Public Good, for Singapore and the World
 
 As a Smart Nation, our commitment extends beyond merely embracing technology; we aspire to be at the forefront, setting the pace, and driving global innovation and conversations in tech, including AI. 
@@ -27,7 +25,9 @@ In 2023, in our ongoing pursuit of setting the pace, we launched the **Singapore
 
 ## Singapore National AI Strategy 2.0 (NAIS 2.0)
 
+<div style="padding: 25px 0px 0px 0px;"></div>
 
+<div style="width:50%; padding: 30px 0px 20px 0px;"><img src="/images/initiatives/Nais/NAIS_RGB_4c.png" alt="NAIS 2.0 Logo"></div>
 
 
 To propel ourselves further as leaders in the field AI, three key shifts from our initial National AI Strategy are imperative for NAIS 2.0:
@@ -83,7 +83,6 @@ NAIS 2.0 outlines our strategy to harness 10 enablers, unlocking Singapore's AI 
 
 Wondering how we've harnessed AI for the well-being of our citizens and businesses? Check out these examples showcasing we've applied AI in Singapore.
 
-<br>
 
 <div class="row">
 	
