@@ -1,4 +1,5 @@
 collections:
   national-ai-strategy:
     output: true
-    order: []
+    order:
+      - National AI Strategy.md
