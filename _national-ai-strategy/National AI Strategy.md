@@ -15,19 +15,15 @@ In 2023, in our ongoing pursuit of setting the pace, we launched the **Singapore
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
+<div class="col" style="padding: 15px 15px 15px 15px;"><a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/Nais/nais_cover_temp.jpg" alt="National AI Strategy 2.0">Singapore National AI Strategy 2.0 - 2023 (9.2mb)</a></div>
+	
 <div class="col" style="padding: 15px 15px 15px 15px;"><a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/national-ai-strategy-cover.jpg" alt="National AI Strategy">Singapore National AI Strategy - 2019 (9.2mb)</a></div>
-
-<div class="col" style="padding: 15px 15px 15px 15px;"><a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/national-ai-strategy-cover.jpg" alt="National AI Strategy">Singapore National AI Strategy 2.0 - 2023 (9.2mb)</a></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"></div>
 
 </div>
 
 ## Singapore National AI Strategy 2.0 (NAIS 2.0)
-
-<div style="padding: 25px 0px 0px 0px;"></div>
-
-<div style="width:50%; padding: 30px 0px 20px 0px;"><img src="/images/initiatives/Nais/NAIS_RGB_4c.png" alt="NAIS 2.0 Logo"></div>
 
 
 To propel ourselves further as leaders in the field AI, three key shifts from our initial National AI Strategy are imperative for NAIS 2.0:
@@ -76,8 +72,9 @@ Guided by the vision “AI for the Public Good, for Singapore and the World”, 
 
 ### NAIS 2.0 Enablers and Actions
 
-NAIS 2.0 outlines our strategy to harness 10 enablers, unlocking Singapore's AI potential and supporting our AI ambitions. Over the next three to five years, we will implement 15 actions, with ongoing reviews to respond to fast-moving developments in AI, across domains.
+NAIS 2.0 outlines our strategy to harness 10 enablers, unlocking Singapore's AI potential and supporting our AI ambitions.  Click on the image to explore further the 15 actions we will be implementing over the next five years across these 10 enablers.  We will conduct ongoing reviews of these actions to adapt to the rapidly evolving landscape of AI developments across diverse domains.
 
+<a href="/files/publications/NAIS2_0_Infographic.pdf)"><img src="/images/initiatives/Nais/nais_temp_001.jpeg" alt="NAIS 2.0 - AI Ecosystem"></a>
 
 ## Applications of AI
 
