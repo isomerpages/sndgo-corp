@@ -59,12 +59,12 @@ Guided by the vision “AI for the Public Good, for Singapore and the World”, 
 <div class="row">
 
 <div class="col"> 
-<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness">
+<img src="/images/initiatives/Nais/nais_excellence.jpeg" alt="Excellence">
 <div style="font-size:18px;"><b><center>Excellence</center></b></div>
 <div style="font-size:18px; line-height:32px">Singapore will selectively develop peaks of excellence in AI, to advance the field and maximise value creation. We intend to direct AI towards addressing the needs and challenges of our time, such as in areas of global importance like population health and climate change.<br></div></div>
 
 <div class="col"> 
-<img src="/images/initiatives/business-grant-portal-overview.jpeg" alt="GoBusiness">
+<img src="/images/initiatives/Nais/nais_empower.jpeg" alt="Empowerment">
 <div style="font-size:18px;"><b><center>Empowerment</center></b></div>
 <div style="font-size:18px; line-height:32px">Singapore will raise up individuals, businesses, and communities to use AI with confidence, discernment, and trust. We intend for AI to be the great equaliser, which equips our people and businesses with the capabilities and resources to thrive in an AI-enabled future.<br></div></div>
 
