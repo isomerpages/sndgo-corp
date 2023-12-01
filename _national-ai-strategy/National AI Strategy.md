@@ -9,15 +9,15 @@ image: /images/og-image/smart-nation-pillars-og-image.jpg
 
 As a Smart Nation, our commitment extends beyond merely embracing technology; we aspire to be at the forefront, setting the pace, and driving global innovation and conversations in tech, including AI. 
 
-In 2019, we unveiled the [Singapore National AI Strategy (NAIS)](/files/publications/national-ai-strategy.pdf), outlining plans to deepen the use of AI to transform our economy. Our early investment in AI led to the establishment of about 150 teams working on research and development, and 900 startups exploring new ideas with AI. Since then, we've witnessed significant breakthroughs in AI, resulting in the development of new products, enhanced capabilities, and transformative interactions. 
+In 2019, we unveiled the Singapore National AI Strategy, outlining plans to deepen the use of AI to transform our economy. Our early investment in AI led to the establishment of about 150 teams working on research and development, and 900 startups exploring new ideas with AI. Since then, we've witnessed significant breakthroughs in AI, resulting in the development of new products, enhanced capabilities, and transformative interactions. 
 
-In 2023, in our ongoing pursuit of setting the pace, we launched the [Singapore National AI Strategy 2.0  (NAIS 2.0)](/files/publications/national-ai-strategy.pdf).
+In 2023, in our ongoing pursuit of setting the pace, we launched the Singapore National AI Strategy 2.0 (NAIS 2.0).
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/2023:%20fourth%20update%20on%20the%20government's%20personal%20data%20protection%20efforts.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/2023-fourth-update-on-data-protection-efforts-cover.png" alt="2023 Fourth Update on the Government's Personal Data Protection Efforts">2023: Fourth Update on the Government's Personal Data Protection Efforts (891kb)</a></div>
+<div class="col" style="padding: 15px 15px 15px 15px;"><a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/national-ai-strategy-cover.jpg" alt="National AI Strategy">Singapore National AI Strategy - 2019 (9.2mb)</a></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/files/publications/govt%20personal%20data%20protection%20efforts%202022.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/2022-third-update-on-data-protection-efforts-cover.jpg" alt="2022: Third Update on the Government's Personal Data Protection Efforts">2022: Third Update on the Government's Personal Data Protection Efforts (1MB)</a></div>
+<div class="col" style="padding: 15px 15px 15px 15px;"><a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/national-ai-strategy-cover.jpg" alt="National AI Strategy">Singapore National AI Strategy 2.0 - 2023 (9.2mb)</a></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"></div>
 
