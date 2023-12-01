@@ -13,7 +13,7 @@ As a Smart Nation, our commitment extends beyond merely embracing technology; we
 
 In 2019, we unveiled the Singapore National AI Strategy, outlining plans to deepen the use of AI to transform our economy. Our early investment in AI led to the establishment of about 150 teams working on research and development, and 900 startups exploring new ideas with AI. Since then, we've witnessed significant breakthroughs in AI, resulting in the development of new products, enhanced capabilities, and transformative interactions. 
 
-In 2023, in our ongoing pursuit of setting the pace, we launched the Singapore National AI Strategy 2.0 (NAIS 2.0).
+In 2023, in our ongoing pursuit of setting the pace, we launched the **Singapore National AI Strategy 2.0 (NAIS 2.0**).
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
