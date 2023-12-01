@@ -2,5 +2,5 @@ collections:
   national-ai-strategy:
     output: true
     order:
-      - Support our AI Journey.md
       - National AI Strategy.md
+      - Support our AI Journey.md
