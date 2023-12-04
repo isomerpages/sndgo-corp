@@ -1,0 +1,6 @@
+collections:
+  national-ai-strategy:
+    output: true
+    order:
+      - National AI Strategy.md
+      - Support our AI Journey.md
