@@ -33,17 +33,17 @@ To propel ourselves further as leaders in the field AI, three key shifts from ou
 <div class="row">
 
 <div class="col"> 
-<img src="/images/initiatives/Nais/necessity_icon.jpeg" alt="Necessity">
+<img src="/images/initiatives/Nais/necessity.png" alt="Necessity">
 <div style="font-size:18px;"><b><center>From Opportunity<br>to Necessity</center></b></div>
 <div style="font-size:18px; line-height:32px">The expanded landscape of opportunities and risks brought forth by AI today make clear that AI is indispensable for the continued prosperity and relevance as a nation. We must master AI, rather than think of it merely as an accessory or a luxury.<br></div></div>
 
 <div class="col"> 
-<img src="/images/initiatives/Nais/global_icon.jpeg" alt="Global">
+<img src="/images/initiatives/Nais/global.png" alt="Global">
 <div style="font-size:18px;"><b><center>From Local<br>to Global</center></b></div>
 <div style="font-size:18px; line-height:32px">Singapore must operate, from the outset, with a global outlook for AI. We must connect to global networks, working with the best and pooling resources among the like-minded to overcome the complex challenges that plague AI today.<br></div></div>
 	
 <div class="col"> 
-<img src="/images/initiatives/Nais/systems_icon.jpeg" alt="Systems">
+<img src="/images/initiatives/Nais/systems.png" alt="Systems">
 <div style="font-size:18px;"><b><center>From Projects<br>to Systems</center></b></div>
 <div style="font-size:18px; line-height:32px">We must further enhance our capability, infrastructure and resource foundations, and accelerate ideas exchange at scale, to amplify and manage the impact of AI across various sectors, and in economy and society at large.<br></div></div>
 
@@ -59,12 +59,12 @@ Guided by the vision “AI for the Public Good, for Singapore and the World”, 
 <div class="row">
 
 <div class="col"> 
-<img src="/images/initiatives/Nais/excellence_icon.jpeg" alt="Excellence">
+<img src="/images/initiatives/Nais/excellence.png" alt="Excellence">
 <div style="font-size:18px;"><b><center>Excellence</center></b></div>
 <div style="font-size:18px; line-height:32px">Singapore will selectively develop peaks of excellence in AI, to advance the field and maximise value creation. We intend to direct AI towards addressing the needs and challenges of our time, such as in areas of global importance like population health and climate change.<br></div></div>
 
 <div class="col"> 
-<img src="/images/initiatives/Nais/empower_icon.jpeg" alt="Empowerment">
+<img src="/images/initiatives/Nais/empower.png" alt="Empowerment">
 <div style="font-size:18px;"><b><center>Empowerment</center></b></div>
 <div style="font-size:18px; line-height:32px">Singapore will raise up individuals, businesses, and communities to use AI with confidence, discernment, and trust. We intend for AI to be the great equaliser, which equips our people and businesses with the capabilities and resources to thrive in an AI-enabled future.<br></div></div>
 
@@ -74,7 +74,7 @@ Guided by the vision “AI for the Public Good, for Singapore and the World”, 
 
 To achieve our vision and goals, we will direct efforts under NAIS 2.0 toward **3 Systems** working through **10 Enablers**.  Click on the image below to learn more about the **15 Actions** that Singapore will undertake across these systems and enablers, to support our ambitions over the next 3-5 years. We will continually review these Actions to respond to fast-moving developments in AI, across domains.
 
-<a href="/files/publications/NAIS_2_0_Infographic.pdf"><img src="/images/initiatives/Nais/nais_2_0_our_plan.png" alt="NAIS 2.0 - Our Plan"></a>
+<a href="/files/publications/NAIS_2_0_Infographic.pdf"><img src="/images/initiatives/Nais/nais_2_0_plan.png" alt="NAIS 2.0 - Our Plan"></a>
 
 ## Applications of AI
 
