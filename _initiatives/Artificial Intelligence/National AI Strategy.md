@@ -8,7 +8,7 @@ description: As a Smart Nation, our commitment extends beyond merely embracing
 image: /images/og-image/smart-nation-pillars-og-image.jpg
 third_nav_title: Artificial Intelligence
 ---
-# Singapore National AI Strategy
+# AI for the Public Good, for Singapore and the World
 
 As a Smart Nation, our commitment extends beyond merely embracing technology; we aspire to be at the forefront, setting the pace, and driving global innovation and conversations in tech, including AI. 
 
