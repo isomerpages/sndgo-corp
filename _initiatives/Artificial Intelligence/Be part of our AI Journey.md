@@ -1,8 +1,12 @@
 ---
-title: Support our AI Journey
+title: Be part of our AI Journey
 permalink: /nais/contribute/
 variant: markdown
-description: ""
+description: The success of our National AI Strategy depends on Singaporeans,
+  businesses, researchers and the Government coming together to work closely
+  towards our goals.
+third_nav_title: Artificial Intelligence
+image: /images/og-image/smart-nation-pillars-og-image.jpg
 ---
 ## Working together to better make use of AI
 

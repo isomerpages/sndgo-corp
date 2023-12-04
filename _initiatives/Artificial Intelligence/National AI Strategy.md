@@ -2,10 +2,13 @@
 title: National AI Strategy
 permalink: /nais/
 variant: markdown
-description: ""
+description: As a Smart Nation, our commitment extends beyond merely embracing
+  technology; we aspire to be at the forefront, setting the pace, and driving
+  global innovation and conversations in tech, including AI.
 image: /images/og-image/smart-nation-pillars-og-image.jpg
+third_nav_title: Artificial Intelligence
 ---
-# AI for Public Good, for Singapore and the World
+# AI for the Public Good, for Singapore and the World
 
 As a Smart Nation, our commitment extends beyond merely embracing technology; we aspire to be at the forefront, setting the pace, and driving global innovation and conversations in tech, including AI. 
 
@@ -15,9 +18,9 @@ In 2023, we launched the **Singapore National AI Strategy 2.0 (NAIS 2.0**) in ou
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 15px 15px 15px 15px;"><a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/Nais/nais_cover_temp.jpg" alt="National AI Strategy 2.0">Singapore National AI Strategy 2.0 - 2023 (9.2mb)</a></div>
+<div class="col" style="padding: 15px 15px 15px 15px;"><a href="https://go.gov.sg/nais2023"><img style="border:1px solid black;" src="/images/initiatives/Nais/national_ai_strategy_2_0_cover.jpg" alt="National AI Strategy 2.0">Singapore National AI Strategy 2.0 - 2023</a></div>
 	
-<div class="col" style="padding: 15px 15px 15px 15px;"><a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/national-ai-strategy-cover.jpg" alt="National AI Strategy">Singapore National AI Strategy - 2019 (9.2mb)</a></div>
+<div class="col" style="padding: 15px 15px 15px 15px;"><a href="https://go.gov.sg/nais2019"><img style="border:1px solid black;" src="/images/initiatives/national-ai-strategy-cover.jpg" alt="National AI Strategy">Singapore National AI Strategy - 2019</a></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"></div>
 
@@ -33,17 +36,17 @@ To propel ourselves further as leaders in the field AI, three key shifts from ou
 <div class="row">
 
 <div class="col"> 
-<img src="/images/initiatives/Nais/necessity_icon.jpeg" alt="Necessity">
+<img src="/images/initiatives/Nais/necessity.png" alt="Necessity">
 <div style="font-size:18px;"><b><center>From Opportunity<br>to Necessity</center></b></div>
 <div style="font-size:18px; line-height:32px">The expanded landscape of opportunities and risks brought forth by AI today make clear that AI is indispensable for the continued prosperity and relevance as a nation. We must master AI, rather than think of it merely as an accessory or a luxury.<br></div></div>
 
 <div class="col"> 
-<img src="/images/initiatives/Nais/global_icon.jpeg" alt="Global">
+<img src="/images/initiatives/Nais/global.png" alt="Global">
 <div style="font-size:18px;"><b><center>From Local<br>to Global</center></b></div>
 <div style="font-size:18px; line-height:32px">Singapore must operate, from the outset, with a global outlook for AI. We must connect to global networks, working with the best and pooling resources among the like-minded to overcome the complex challenges that plague AI today.<br></div></div>
 	
 <div class="col"> 
-<img src="/images/initiatives/Nais/systems_icon.jpeg" alt="Systems">
+<img src="/images/initiatives/Nais/systems.png" alt="Systems">
 <div style="font-size:18px;"><b><center>From Projects<br>to Systems</center></b></div>
 <div style="font-size:18px; line-height:32px">We must further enhance our capability, infrastructure and resource foundations, and accelerate ideas exchange at scale, to amplify and manage the impact of AI across various sectors, and in economy and society at large.<br></div></div>
 
@@ -59,22 +62,24 @@ Guided by the vision “AI for the Public Good, for Singapore and the World”, 
 <div class="row">
 
 <div class="col"> 
-<img src="/images/initiatives/Nais/excellence_icon.jpeg" alt="Excellence">
+<img src="/images/initiatives/Nais/excellence.png" alt="Excellence">
 <div style="font-size:18px;"><b><center>Excellence</center></b></div>
 <div style="font-size:18px; line-height:32px">Singapore will selectively develop peaks of excellence in AI, to advance the field and maximise value creation. We intend to direct AI towards addressing the needs and challenges of our time, such as in areas of global importance like population health and climate change.<br></div></div>
 
 <div class="col"> 
-<img src="/images/initiatives/Nais/empower_icon.jpeg" alt="Empowerment">
+<img src="/images/initiatives/Nais/empower.png" alt="Empowerment">
 <div style="font-size:18px;"><b><center>Empowerment</center></b></div>
 <div style="font-size:18px; line-height:32px">Singapore will raise up individuals, businesses, and communities to use AI with confidence, discernment, and trust. We intend for AI to be the great equaliser, which equips our people and businesses with the capabilities and resources to thrive in an AI-enabled future.<br></div></div>
 
 </div>
 
-### NAIS 2.0 Enablers and Actions
+### Working through 10 Enablers to achieve our vision and goals
 
-NAIS 2.0 outlines our strategy to harness 10 enablers, unlocking Singapore's AI potential and supporting our AI ambitions.  Click on the image to explore further the 15 actions we will be implementing over the next five years across these 10 enablers.  We will conduct ongoing reviews of these actions to adapt to the rapidly evolving landscape of AI developments across diverse domains.
+To achieve our vision and goals, we will direct efforts under NAIS 2.0 toward **3 Systems** working through **10 Enablers**.  Click on the image below to learn more about the **15 Actions** that Singapore will undertake across these systems and enablers, to support our ambitions over the next 3-5 years. We will continually review these Actions to respond to fast-moving developments in AI, across domains.
 
-<a href="/files/publications/NAIS2_0_Infographic_v2.pdf"><img src="/images/initiatives/Nais/nais_ai_ecosystem.jpeg" alt="NAIS 2.0 - AI Ecosystem"></a>
+<a href="https://go.gov.sg/infographic-nais2023"><img src="/images/initiatives/Nais/nais_2_0_plan.png" alt="NAIS 2.0 - Our Plan"></a>
+
+
 
 ## Applications of AI
 
