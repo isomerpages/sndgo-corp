@@ -15,7 +15,7 @@ In 2023, we launched the **Singapore National AI Strategy 2.0 (NAIS 2.0**) in ou
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 15px 15px 15px 15px;"><a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/Nais/nais_cover_temp.jpg" alt="National AI Strategy 2.0">Singapore National AI Strategy 2.0 - 2023 (9.2mb)</a></div>
+<div class="col" style="padding: 15px 15px 15px 15px;"><a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/Nais/national_ai_strategy_2_0_cover.jpg" alt="National AI Strategy 2.0">Singapore National AI Strategy 2.0 - 2023 (6.0mb)</a></div>
 	
 <div class="col" style="padding: 15px 15px 15px 15px;"><a href="/files/publications/national-ai-strategy.pdf"><img style="border:1px solid black;" src="/images/initiatives/national-ai-strategy-cover.jpg" alt="National AI Strategy">Singapore National AI Strategy - 2019 (9.2mb)</a></div>
 
