@@ -17,21 +17,14 @@ sections:
           description: Check out our webinars
           url: https://together.smartnation.gov.sg/
   - infopic:
-      title: Grandparents' Day is back!
+      title: Singapore Conference on AI (SCAI)
       id: infopic
-      description: Join us with your family this Grandparents' Day as we celebrate the
-        special bond between grandparents and grandchildren!
+      description: SCAI seeks to identify the critical questions of AI that impede
+        AI's development and deployment for the global good.
       button: Find out more here
-      url: https://www.smartnation.gov.sg/grandparentsday/
-      image: /images/community/events/sndgo_grandparents_day_website_banner_v1-01.jpg
-      alt: Digital For Life Experience
-  - infopic:
-      title: We're the smartest city in Asia!
-      description: Take a closer look at our noteworthy accomplishments and milestones
-      button: Learn more about it here
-      url: /about-smart-nation/our-journey/achievements
-      alt: IMD-SUTD Smart City Index 2021
-      image: /images/abt-smart-nation/imd2023_homepagebanner.jpg
+      url: https://www.scai.gov.sg
+      image: /images/banners/scai_banner.jpg
+      alt: Singapore Conference on AI
   - infopic:
       title: 99% of our government services are digital from end to end!
       description: See how we have progressed as a Digital Government
@@ -39,6 +32,13 @@ sections:
       url: /about-smart-nation/digital-government#the-progress-so-far
       image: /images/initiatives/singpass-05.jpeg
       alt: Singpass
+  - infopic:
+      title: We're the smartest city in Asia!
+      description: Take a closer look at our noteworthy accomplishments and milestones
+      button: Learn more about it here
+      url: /about-smart-nation/our-journey/achievements
+      alt: IMD-SUTD Smart City Index 2021
+      image: /images/abt-smart-nation/imd2023_homepagebanner.jpg
   - infopic:
       title: Want to learn more? Check out our Smart Nation showcases!
       description: Discover the benefits of digital technology
