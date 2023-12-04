@@ -70,9 +70,9 @@ Guided by the vision “AI for the Public Good, for Singapore and the World”, 
 
 </div>
 
-### NAIS 2.0 Enablers and Actions
+### Working through 10 Enablers to achieve our vision and goals
 
-NAIS 2.0 outlines our strategy to harness 10 enablers, unlocking Singapore's AI potential and supporting our AI ambitions.  Click on the image to explore further the 15 actions we will be implementing over the next five years across these 10 enablers.  We will conduct ongoing reviews of these actions to adapt to the rapidly evolving landscape of AI developments across diverse domains.
+To achieve our vision and goals, we will direct efforts under NAIS 2.0 toward **3 Systems** working through **10 Enablers**.  Click on the image below to learn more about the **15 Actions** that Singapore will undertake across these systems and enablers, to support our ambitions over the next 3-5 years. We will continually review these Actions to respond to fast-moving developments in AI, across domains.
 
 <a href="/files/publications/NAIS_2_0_Infographic.pdf"><img src="/images/initiatives/Nais/nais_2_0_our_plan.png" alt="NAIS 2.0 - Our Plan"></a>
 
