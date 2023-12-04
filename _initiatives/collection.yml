@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - National AI Strategy/.keep
       - Strategic National Projects/.keep
       - Strategic National Projects/Our Strategic National Projects.md
       - Strategic National Projects/GoBusiness.md
