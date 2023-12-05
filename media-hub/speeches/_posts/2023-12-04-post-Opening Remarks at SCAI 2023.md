@@ -10,7 +10,9 @@ variant: markdown
 ## Opening Remarks by Mrs Josephine Teo, Minister for Communications and Information, at the Singapore Conference on AI
 
 **4 Dec 2023**
-	
+
+![SCAI Opening Remarks](/images/Scai/scai_day_1_01.jpeg)
+
 Thank you for making time to be here in Singapore.
 
 My team and I are keenly aware that many of you have taken a leap of faith to join us at the inaugural Singapore Conference on Artificial Intelligence for the Global Good, or SCAI.
@@ -88,6 +90,8 @@ Two weeks ago, I attended a talk by Dr Lydia Liu, an incoming Assistant Professo
 Lydia’s work showed that applying common algorithmic fairness criteria, for example, using credit scores as loan approval criteria, do not necessarily lead to fair outcomes for people over time. Instead, it is essential to go beyond pure theory to also consider system dynamics and interaction effects in order to make practical, positive impact. I found her conclusions to be very thoughtful. Lydia’s spirit of moving beyond generalities, towards practical purpose, is very much in Singapore’s DNA.
 
 Similarly, for SCAI to be useful, we want to build upon declarations of principles, to deepen the conversations in concrete terms. We aim to systematically focus on the outcomes we want to achieve, identify the current state of the art, outline promising approaches, and articulate the means to measure progress.
+
+![SCAI Opening Remarks](/images/Scai/scai_day_1_02.jpeg)
 
 Over the next three days, will we succeed in identifying a set of sharp, grounded, SCAI questions that help shape the global agenda on AI? We don’t know for sure. SCAI is an experiment, and we will be collectively learning along the way.
 
