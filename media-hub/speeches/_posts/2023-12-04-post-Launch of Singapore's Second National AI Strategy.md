@@ -11,6 +11,8 @@ variant: markdown
 
 **4 Dec 2023**
 
+![Speech by Deputy Prime Minister Lawrence Wong at SCAI](/images/Scai/scai_day_1_27.jpeg)
+
 My Cabinet colleague, <br>
 Minister Josephine Teo, <br>
 Excellences and distinguished guests, <br>
@@ -76,6 +78,8 @@ This revised strategy is the result of extensive consultations with over 300 exp
 In our refreshed strategy, we will aim high, we will dream big, and we will set ambitious goals. We will foster a spirit of boldness, experimentation and innovation in our next phase.
 
 At the same time, our ambitions are rooted in reality. We are acutely aware that every leading city in the world today wants to be an AI hub. The competition is fierce and will only get tougher.
+
+![Speech by Deputy Prime Minister Lawrence Wong at SCAI](/images/Scai/scai_day_1_28.jpeg)
 
 Singapore is a tiny little island, with no natural resources. We cannot compete head-on in terms of size or fiscal resources. But we do have several factors in our favour: a highly-skilled workforce, a highly wired-up society; and, importantly, a trusted eco-system where things work, and where we can make things happen.
 
