@@ -59,7 +59,12 @@ It is not by chance that we can do these in Singapore today.
 
 With recent advances, especially in Generative AI, we have seen the spectrum of possibilities expanding tremendously.
 
-Singapore believes in the long-term potential of AI. Our aspiration is to fully leverage AI’s capabilities to improve our lives. That is why we have updated our National AI Strategy, and we are launching this updated strategy today.
+<div style="padding: 25px 0px 0px 0px;"></div>
+
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Singapore believes in the long-term potential of AI. Our aspiration is to fully leverage AI’s capabilities to improve our lives. That is why we have updated our National AI Strategy, and we are launching this updated strategy today.</div>
+
+<div style="padding: 25px 0px 0px 0px;"></div>
+
 
 * Our vision is for Singapore to be a place where AI is used to uplift and empower our people and our businesses. 
 * We want to harness AI for the public good, for Singapore and for the World.
