@@ -23,7 +23,7 @@ First, let me say we start from a place of humility, a genuine desire to learn a
 
 <div style="padding: 25px 0px 0px 0px;"></div>
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: red; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Of all the things we want to learn about AI, it is to learn to ask the right questions, even if they turn out to be very tough questions with no easy answers.</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Of all the things we want to learn about AI, it is to learn to ask the right questions, even if they turn out to be very tough questions with no easy answers.</div>
 
 In our short journey as an independent nation, Singapore has had to deal with many tough questions – of survival, relevance, and national unity. In seeking answers to these questions, we have benefitted greatly from the wise counsel of international experts.
 
@@ -37,7 +37,7 @@ There is, however, one big difference.
 
 <div style="padding: 25px 0px 0px 0px;"></div>
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: red; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Our conviction is that when it comes to AI, it is not only what Singapore can learn from the world, but also what we can contribute to it.</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Our conviction is that when it comes to AI, it is not only what Singapore can learn from the world, but also what we can contribute to it.</div>
 
 Through SCAI, we hope to offer a platform for experts and thought-leaders to come together, to share knowledge and ideas to foster international collaboration – a brain trust, if you will.
 
@@ -79,7 +79,7 @@ We believe that in doing so, we stand a better chance of arriving at a new equil
 
 <div style="padding: 25px 0px 0px 0px;"></div>
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: red; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Specifically, our goal in the next few days together is to identify the critical questions of AI, that, if answered systematically, will enable AI to truly serve the global good. Asking the right questions gets us closer to the answers we need. </div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Specifically, our goal in the next few days together is to identify the critical questions of AI, that, if answered systematically, will enable AI to truly serve the global good. Asking the right questions gets us closer to the answers we need. </div>
 
 That is how the world has practically eliminated smallpox, banned CFCs, and developed COVID vaccinations, but the articulation of these questions needs to be sharp and specific — needle-like if you will.
 
