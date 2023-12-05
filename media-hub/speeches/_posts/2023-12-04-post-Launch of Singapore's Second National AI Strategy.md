@@ -9,7 +9,6 @@ variant: markdown
 ---
 ## Speech by Mr Lawrence Wong, Deputy Prime Minister and Minister for Finance, at the Singapore Conference on AI for the Global Good to Launch the National AI Strategy 2.0
 
-
 **4 Dec 2023**
 
 My Cabinet colleague, <br>
@@ -27,7 +26,11 @@ This past year has been transformative for AI, as I am sure all of you know.
 
 * Regardless of our individual perspectives on these issues, one thing is clear – AI now stands as a pivotal game-changing technology that impacts us all.
 
-That is Singapore hopes through a conference like this, to advance our thinking on how to harness AI for the betterment of societies everywhere.
+<div style="padding: 25px 0px 0px 0px;"></div>
+
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">That is Singapore hopes through a conference like this, to advance our thinking on how to harness AI for the betterment of societies everywhere.</div>
+
+<div style="padding: 25px 0px 0px 0px;"></div>
 
 Discussions about AI’s potential benefits and threats are also not new. But we are venturing into unchartered territory.
 
@@ -46,7 +49,7 @@ Singapore has been taking steps to master and make good use of AI.
 
 * In the public service of Singapore, we have embraced AI.
 
-	i. We use large learning models to help our officers reply to public queries. It has been very helpful for them, because with a click of FOR IMMEDIATE REPORTING 3 a button you get a draft prepared for you, and most of the work is already done. 
+	i. We use large learning models to help our officers reply to public queries. It has been very helpful for them, because with a click of a button you get a draft prepared for you, and most of the work is already done. 
 
 	ii. We are using our own secure version of ChatGPT to improve productivity. For example, for coding and writing assignments. AI has not helped me to write my speech yet, I still have to do it on my own. But I am sure if I put this through ChatGPT it will give it an excellent summary, and in time to come AI will be able to draft a fairly decent speech.
 
@@ -64,7 +67,6 @@ With recent advances, especially in Generative AI, we have seen the spectrum of 
 <div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Singapore believes in the long-term potential of AI. Our aspiration is to fully leverage AI’s capabilities to improve our lives. That is why we have updated our National AI Strategy, and we are launching this updated strategy today.</div>
 
 <div style="padding: 25px 0px 0px 0px;"></div>
-
 
 * Our vision is for Singapore to be a place where AI is used to uplift and empower our people and our businesses. 
 * We want to harness AI for the public good, for Singapore and for the World.
@@ -116,6 +118,7 @@ Of course, to achieve these goals, Singapore also needs reliable access to compu
 Another area of action is to build a trusted environment.
 * Even as we take steps to reap the benefits of AI, we are mindful of the risks and challenges.
 * There are many ways that AI can be misused:
+	
 	i. A whole range of bad things that can happen, powered by AI: from deepfakes, to scams, to cyber-attacks and the spreading of misinformation.
 	
 	ii. There may even be problems with decision making: AI models may work well 99% of the time; but even that 1% can potentially wreak havoc and lead to disastrous consequences.
