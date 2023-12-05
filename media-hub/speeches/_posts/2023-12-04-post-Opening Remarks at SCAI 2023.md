@@ -10,7 +10,9 @@ variant: markdown
 ## Opening Remarks by Mrs Josephine Teo, Minister for Communications and Information, at the Singapore Conference on AI
 
 **4 Dec 2023**
-	
+
+![SCAI Opening Remarks](/images/Scai/scai_day_1_01.jpeg)
+
 Thank you for making time to be here in Singapore.
 
 My team and I are keenly aware that many of you have taken a leap of faith to join us at the inaugural Singapore Conference on Artificial Intelligence for the Global Good, or SCAI.
@@ -23,7 +25,7 @@ First, let me say we start from a place of humility, a genuine desire to learn a
 
 <div style="padding: 25px 0px 0px 0px;"></div>
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4b789b; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Of all the things we want to learn about AI, it is to learn to ask the right questions, even if they turn out to be very tough questions with no easy answers.</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Of all the things we want to learn about AI, it is to learn to ask the right questions, even if they turn out to be very tough questions with no easy answers.</div>
 
 In our short journey as an independent nation, Singapore has had to deal with many tough questions – of survival, relevance, and national unity. In seeking answers to these questions, we have benefitted greatly from the wise counsel of international experts.
 
@@ -35,7 +37,9 @@ I mention Dr Winsemius because he was a most respected friend of Singapore, whos
 
 There is, however, one big difference.
 
-Our conviction is that when it comes to AI, it is not only what Singapore can learn from the world, but also what we can contribute to it.
+<div style="padding: 25px 0px 0px 0px;"></div>
+
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Our conviction is that when it comes to AI, it is not only what Singapore can learn from the world, but also what we can contribute to it.</div>
 
 Through SCAI, we hope to offer a platform for experts and thought-leaders to come together, to share knowledge and ideas to foster international collaboration – a brain trust, if you will.
 
@@ -77,7 +81,7 @@ We believe that in doing so, we stand a better chance of arriving at a new equil
 
 <div style="padding: 25px 0px 0px 0px;"></div>
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4b789b; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Specifically, our goal in the next few days together is to identify the critical questions of AI, that, if answered systematically, will enable AI to truly serve the global good. Asking the right questions gets us closer to the answers we need. </div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Specifically, our goal in the next few days together is to identify the critical questions of AI, that, if answered systematically, will enable AI to truly serve the global good. Asking the right questions gets us closer to the answers we need. </div>
 
 That is how the world has practically eliminated smallpox, banned CFCs, and developed COVID vaccinations, but the articulation of these questions needs to be sharp and specific — needle-like if you will.
 
@@ -86,6 +90,8 @@ Two weeks ago, I attended a talk by Dr Lydia Liu, an incoming Assistant Professo
 Lydia’s work showed that applying common algorithmic fairness criteria, for example, using credit scores as loan approval criteria, do not necessarily lead to fair outcomes for people over time. Instead, it is essential to go beyond pure theory to also consider system dynamics and interaction effects in order to make practical, positive impact. I found her conclusions to be very thoughtful. Lydia’s spirit of moving beyond generalities, towards practical purpose, is very much in Singapore’s DNA.
 
 Similarly, for SCAI to be useful, we want to build upon declarations of principles, to deepen the conversations in concrete terms. We aim to systematically focus on the outcomes we want to achieve, identify the current state of the art, outline promising approaches, and articulate the means to measure progress.
+
+![SCAI Opening Remarks](/images/Scai/scai_day_1_02.jpeg)
 
 Over the next three days, will we succeed in identifying a set of sharp, grounded, SCAI questions that help shape the global agenda on AI? We don’t know for sure. SCAI is an experiment, and we will be collectively learning along the way.
 

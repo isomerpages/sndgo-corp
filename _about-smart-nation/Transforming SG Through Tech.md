@@ -5,13 +5,14 @@ description: The Smart Nation initiative is our way forward. Technology will be
   so seamlessly integrated that it will transform the way we work, live and
   play.
 image: /images/og-image/smart-nation-pillars-og-image.jpg
+variant: markdown
 ---
 # Transforming Singapore Through Technology
 
 ![Transforming Singapore Through Technology](/images/abt-smart-nation/singapore-tech.jpg)
 <br>
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” –&nbsp; Prime Minister Lee Hsien Loong</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">Singapore is a nation “where we can create possibilities for ourselves beyond what we imagined possible.” –&nbsp; Prime Minister Lee Hsien Loong</div>
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
