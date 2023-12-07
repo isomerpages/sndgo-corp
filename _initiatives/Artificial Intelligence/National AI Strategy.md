@@ -99,7 +99,7 @@ Wondering how we've harnessed AI for the well-being of our citizens and business
 </div>
 	
 <div class="col"> 
-<a href="/initiatives/urban-living/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice.jpeg" alt="OneService Chatbot"></a><div style="font-size:18px;"><b><center>OneService Chatbot</center></b></div><div style="font-size:18px; line-height:32px">The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
+<a href="/initiatives/urban-living/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice_chatbot.jpg" alt="OneService Chatbot"></a><div style="font-size:18px;"><b><center>OneService Chatbot</center></b></div><div style="font-size:18px; line-height:32px">The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
 </div>
 <br></div>
 	

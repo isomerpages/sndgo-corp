@@ -2,6 +2,7 @@
 title: Page Redirect (Smart Water Meter)
 permalink: /initiatives/urban-living/amr/
 description: ""
+variant: markdown
 ---
 <div style="width:100%;display:flex;justify-content:center;"><img src="/images/page-redirect.jpg"></div>
 
