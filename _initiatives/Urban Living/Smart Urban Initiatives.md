@@ -6,6 +6,7 @@ description: Singapore’s limited land requires us to constantly find innovativ
   solutions to improve our urban environment. This includes making our homes and
   estates cleaner, greener, safer and more sustainable.
 image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
+variant: markdown
 ---
 # Smart Urban Living
 
@@ -66,7 +67,7 @@ The initiatives below outline how we aim to achieve this.
 
 <div class="row">
 <div class="col"> 
-<a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice.jpeg" alt="OneService App"></a><br>
+<a href="/initiatives/urban-living/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice_app.jpeg" alt="OneService App"></a><br>
     <div class="header"><b>OneService App</b></div><br>
     <div class="para">A convenient, one-stop platform for the public to report issues they come across in their neighbourhoods.
 </div>
@@ -74,7 +75,7 @@ The initiatives below outline how we aim to achieve this.
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/urban-living/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice.jpeg" alt="OneService Chatbot"></a><br>
+<a href="/initiatives/urban-living/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice_chatbot.jpg" alt="OneService Chatbot"></a><br>
     <div class="header"><b>OneService Chatbot</b></div><br>
     <div class="para">The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
 </div>
