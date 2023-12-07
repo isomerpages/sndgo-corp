@@ -5,9 +5,11 @@ third_nav_title: Urban Living
 description: The OneService Chatbot allows residents to easily report municipal
   issues on the go via WhatsApp and Telegram.
 image: /images/initiatives/overview-pages/oneservice-app.png
+variant: markdown
 ---
-
 # AI-powered Chatbot for easy reporting of municipal issues
+
+![OneService](/images/initiatives/overview-pages/oneservice_chatbot.jpg)
 
 The OneService Chatbot is a project under the [National AI Strategy](/initiatives/artificial-intelligence) that supports ongoing improvements in the responsiveness of municipal service delivery. 
 
