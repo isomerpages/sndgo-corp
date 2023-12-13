@@ -6,37 +6,24 @@ description: Over the past years, we’ve had the privilege of working with
   Fellows. These Fellows work alongside GovTech project teams, sharing their
   experience and expertise towards developing tech for public good.
 image: /images/og-image/smart-nation-og-image.jpg
+variant: markdown
 ---
 # Help Build Our Smart Nation, Together
 <br>
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/ThfGBUqwzyA" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/ThfGBUqwzyA" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
@@ -54,4 +41,4 @@ Click on the link to read more about the [experience of some of our Smart Nation
 * Work on projects that we have identified, or propose new and innovative projects of your own across domains ranging from artificial intelligence, blockchain, cloud computing, data science and app development to cybersecurity and sensors and Internet of Things
 * Part-time consultancy can be arranged according to your schedule
 
-If these resonate, we’d love to hear from you. Apply now via [Careers@Gov](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Mapletree-Business-City-Block-10-Level-10/Smart-Nation-Fellowship-Programme_JR-10000000710) or email us at AreYouIT@tech.gov.sg.
+If you are interested to find out more about the Smart Nation Fellowship programme, drop us an email at smartnationtechcareers@pmo.gov.sg.
