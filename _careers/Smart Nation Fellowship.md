@@ -41,4 +41,4 @@ Click on the link to read more about the [experience of some of our Smart Nation
 * Work on projects that we have identified, or propose new and innovative projects of your own across domains ranging from artificial intelligence, blockchain, cloud computing, data science and app development to cybersecurity and sensors and Internet of Things
 * Part-time consultancy can be arranged according to your schedule
 
-If you are interested to find out more about the Smart Nation Fellowship programme, drop us an email at smartnationtechcareers@pmo.gov.sg. 
+If you are interested to find out more about the Smart Nation Fellowship programme, drop us an email at smartnationtechcareers@pmo.gov.sg.
