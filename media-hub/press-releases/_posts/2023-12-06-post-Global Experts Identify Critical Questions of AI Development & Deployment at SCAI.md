@@ -12,7 +12,7 @@ variant: markdown
 
 **6 December 2023**
 
-The Ministry of Communications and Information (MCI) and Smart Nation Group, in partnership with Topos Institute, are pleased to announce the successful conclusion of the inaugural Singapore Conference on AI for the Global Good (SCAI). The conference, held from 4 to 6 December 2023, brought together 42 delegates from around the world to discuss and identify the SCAI Questions - critical questions of AI that if answered systematically, will enable the harnessing of AI to the global good.
+The Ministry of Communications and Information (MCI) and Smart Nation Group, in partnership with Topos Institute, are pleased to announce the successful conclusion of the inaugural Singapore Conference on AI for the Global Good (SCAI). The conference, held from 4 to 6 December 2023, brought together 42 delegates from around the world to discuss and identify the SCAI Questions - critical questions of AI that if answered systematically, will enable the harnessing of AI for the global good.
 
 SCAI delegates from various countries representing diverse fields of academia, industry, and government engaged in divergent ideation and deep conversations to identify challenges and opportunities in leveraging AI for the global good. Across the three days, they explored various topics across broad themes in AI, identified key clusters of challenges, and built upon each other’s comments and critiques to develop a set of holistic, foundational and tractable problem statements, also known as the SCAI Questions.
 
