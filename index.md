@@ -17,15 +17,6 @@ sections:
           description: Check out our webinars
           url: https://together.smartnation.gov.sg/
   - infopic:
-      title: Singapore Conference on AI (SCAI)
-      id: infopic
-      description: SCAI seeks to identify the critical questions of AI that impede
-        AI's development and deployment for the global good.
-      button: Find out more here
-      url: https://www.scai.gov.sg
-      image: /images/banners/scai_banner_sn.jpg
-      alt: Singapore Conference on AI
-  - infopic:
       title: 99% of our government services are digital from end to end!
       description: See how we have progressed as a Digital Government
       button: READ MORE ABOUT IT HERE
