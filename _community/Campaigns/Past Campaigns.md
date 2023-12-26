@@ -4,8 +4,9 @@ permalink: /community/campaigns/past/
 third_nav_title: Campaigns
 description: Check out our past campaigns.
 image: /images/og-image/smart-nation-og-image.jpg
+variant: markdown
 ---
-# My Smart Ahma
+## My Smart Ahma
 
 ![My Smart Ahma](/images/media-hub/smart-nation-archives/my-smart-ahma-logo.png)
 
@@ -14,11 +15,11 @@ Launched in 2018, My Smart Ahma web series told the story of our  Smart Nation i
 A series of webinars <a href="https://www.youtube.com/playlist?list=PLmGkYf0auQJyDWGlxbnFyqBrq86C-zbow" target="_blank">(My Smart Ahma Top Picks)</a>, were also conducted to  help seniors join the digital transformation journey.  In each session, seniors got to use different apps.
 
 
-## My Smart Ahma Episodes
+### My Smart Ahma Episodes
 
 If you missed My Smart Ahma, enjoy the six episodes below as Benjamin and his Ahma show us how Smart Nation can benefit our lives.
 
-### Episode 1
+#### Episode 1
 Ahma shows up at Benjamin's meeting with a cute colleague. What will Benjamin do?
 
 <div style="max-width: 1280px">
@@ -42,7 +43,7 @@ Ahma shows up at Benjamin's meeting with a cute colleague. What will Benjamin do
 - [HDB Resale Portal](/initiatives/digital-government-services/hdb-resale-portal)
 - [PUB Automated Meter Reading (AMR)](/initiatives/urban-living/amr)
 
-### Episode 2
+#### Episode 2
 
 Ben is afraid to ask Rachel out. Ahma tries to help. Will he do it?
 
@@ -70,7 +71,7 @@ Ben is afraid to ask Rachel out. Ahma tries to help. Will he do it?
 * [Personal Alert Button trial](/initiatives/strategic-national-projects/smart-nation-sensor-platform)
 * myResponder App - Download from the <a href="https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp" target="_blank">Google Play Store</a>
 
-### Episode 3
+#### Episode 3
 
 Is this Ben's chance to give flowers to Rachel? Will he succeed?
  
@@ -96,7 +97,7 @@ Is this Ben's chance to give flowers to Rachel? Will he succeed?
 * [Singpass Mobile and MyInfo](/initiatives/strategic-national-projects/national-digital-identity)
 * [HealthHub App](/initiatives/health/healthhub)
 
-### Episode 4
+#### Episode 4
 
 Ahma goes missing! How will Ben and Rachel find her?
 
@@ -125,7 +126,7 @@ Ahma goes missing! How will Ben and Rachel find her?
 * [National Steps Challenge](/initiatives/health/national-steps-challenge)
 * Healthy 365 App - Download from the <a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" target="_blank">Apple App Store</a> or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365" target="_blank">Google Play Store</a>
 
-### Episode 5
+#### Episode 5
 
 With Ahma’s help, Ben cooks a meal for Rachel. Will sparks fly?
 
@@ -149,7 +150,7 @@ With Ahma’s help, Ben cooks a meal for Rachel. Will sparks fly?
 * [PayNow and SGQR](/initiatives/strategic-national-projects/e-payments) 
 * [Drones to survey dengue hotspots](/initiatives/urban-living/dengue-hotspots-survey-drones) 
 
-### Episode 6
+#### Episode 6
 
 Ben may never see Rachel again. Will he go after her?
 
