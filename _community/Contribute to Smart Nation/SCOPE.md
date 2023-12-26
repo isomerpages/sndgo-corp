@@ -5,8 +5,9 @@ description: The SCOPE survey tool gathers feedback from the public on test
   prototypes and new digital services.
 image: /images/community/sna/smartnationambassador01.jpg
 third_nav_title: Contribute to Smart Nation
+variant: markdown
 ---
-# Smart Nation Co-Creating with Our People Everywhere (SCOPE)
+## Smart Nation Co-Creating with Our People Everywhere (SCOPE)
 
 ![Smart Nation Co-creating with Our People Everywhere (SCOPE)](/images/community/sna/smartnationambassador03.jpeg)
 
@@ -15,7 +16,7 @@ SCOPE is a survey platform that helps the government gather feedback from citize
 
 Since 2018, 29 SCOPE surveys have been done, and more than 83,000 citizens have provided feedback on 26 digital government projects.
 
-## Take part in our SCOPE surveys
+### Take part in our SCOPE surveys
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	<div class="col" style="padding: 20px 20px 20px 20px;">
@@ -45,7 +46,7 @@ Since 2018, 29 SCOPE surveys have been done, and more than 83,000 citizens have 
 </div>
 <br></div>
 
-## Tap on our SCOPE platform to gather feedback
+### Tap on our SCOPE platform to gather feedback
 
 Public agencies who need help to gather feedback on digital product and services, can register your interest to tap on our SCOPE platform here:&nbsp;[https://go.gov.sg/register-scope-ccg](https://go.gov.sg/register-scope-ccg).
 
