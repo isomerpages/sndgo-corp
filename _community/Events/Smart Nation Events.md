@@ -6,7 +6,7 @@ third_nav_title: Events
 image: /images/og-image/smart-nation-og-image.jpg
 variant: markdown
 ---
-# Smart Nation Events
+## Smart Nation Events
 
 <div class="row" style="padding: 40px 0px 10px 0px;">
   <div class="col" style="padding: 20px 20px 0px 20px;"> 
@@ -43,4 +43,3 @@ variant: markdown
 	
 <div class="col" style="padding: 20px 20px 0px 20px;"></div><br>
   </div>
- 
