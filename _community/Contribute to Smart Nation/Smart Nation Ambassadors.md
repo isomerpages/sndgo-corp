@@ -5,14 +5,15 @@ third_nav_title: Contribute to Smart Nation
 description: Volunteer as a Smart Nation Ambassador and help us help fellow
   Singaporeans get involved in the Smart Nation journey.
 image: /images/community/sna/smartnationambassador07.jpeg
+variant: markdown
 ---
-# Transform Lives with Technology
+## Transform Lives with Technology
 
 ![Smart Nation Ambassdors](/images/community/sna/smartnationambassador02.jpeg)
 
 Are you interested to help others understand and use tech for better work, life and play? Volunteer as a Smart Nation Ambassador for many opportunities to do just that!
 
-## Meet our Smart Nation Ambassadors
+### Meet our Smart Nation Ambassadors
 
 Since the Smart Nation Ambassadors (SNAs) programme was launched in January 2019, more than 4,700[^1] volunteers have joined us to help the community embrace digital technologies.
 
@@ -75,7 +76,7 @@ Every year, we host an event to thank our wonderful Ambassadors, and also give s
     </div>
 </div>
 
-## Volunteer as a Smart Nation Ambassador
+### Volunteer as a Smart Nation Ambassador
 
 You don’t need to be a digital whiz or have deep technical skills to volunteer. We will provide you with the training you need so you can pass on your knowledge to others. Just come armed with your enthusiasm!
 
