@@ -5,8 +5,9 @@ description: SNA CCG enables public agencies to connect with specific
   communities to engage everyone, not just for the “digital-able”.
 image: /images/community/ccg/snaccg_01.jpeg
 third_nav_title: Contribute to Smart Nation
+variant: markdown
 ---
-# Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)
+## Smart Nation Ambassador Citizen Co-Creation Group (SNA CCG)
 
 ![SNA CCG](/images/community/ccg/snaccg_01.jpeg)
 
@@ -18,7 +19,7 @@ These community representatives also work with our engineering teams to co-devel
 
 With the community’s participation and feedback in the development and user-testing of new digital products, we can continuously improve our services for a better user experience.
 
-## Take part in our focus group discussions
+### Take part in our focus group discussions
 
 If you are interested in participating in our focus group discussions with the community groups listed below, email us at [ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg).
 
@@ -46,7 +47,7 @@ If you are interested in participating in our focus group discussions with the c
 22. SG Enable
 23. GovTech Tech Kaki
 
-## Tap on SNA CCG to engage community groups
+### Tap on SNA CCG to engage community groups
 
 Public agencies who are keen to tap on SNA CCG, can register your interest here: [https://go.gov.sg/register-scope-sna-ccg](https://go.gov.sg/register-scope-sna-ccg).
 
