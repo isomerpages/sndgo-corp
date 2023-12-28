@@ -7,8 +7,9 @@ description: Located at the Science Centre, Smart Nation PlayScape aims to
   manner.Through gamified interactives, complex technological concepts are
   broken down and brought to life.
 image: /images/community/playscape/playscape_25.jpeg
+variant: markdown
 ---
-# Come visit the Smart Nation PlayScape at Science Centre Singapore
+## Come visit the Smart Nation PlayScape at Science Centre Singapore
 
 
 
@@ -142,4 +143,4 @@ Can't make time for a trip to Science Centre Singapore? Check out the PlayScape 
 | -------- | -------- |
 | Woodland Regional Library | 1 Sep 2023 to 28 Sep 2023 |
 | Tampines Regional Library | 2 Oct 2023 to 31 Oct 2023 |
-| Jurong Regional Library | 8 Dec 2023 to 8 Jan 2024 | 
+| Jurong Regional Library | 8 Dec 2023 to 8 Jan 2024 |

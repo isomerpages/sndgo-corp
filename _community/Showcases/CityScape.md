@@ -6,8 +6,9 @@ description: Interact with a series of exhibits and displays to discover the
   various ways digital technology powers our city and daily lives, improving the
   way we live, work and play!
 image: /images/community/cityscape/cityscape-06.jpg
+variant: markdown
 ---
-# Come visit the Smart Nation CityScape
+## Come visit the Smart Nation CityScape
 <br>
 
 <div class="bp-youtube">

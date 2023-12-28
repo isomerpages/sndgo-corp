@@ -6,8 +6,9 @@ description: ‘My Favourite Days is a 35-page Augmented Reality (AR) storybook.
   It tells the heart-warming story of a little girl and her grandpa on a jaunt
   around Singapore, and the tech discoveries they make along the way.
 image: /images/community/arstorybook/ar-storybook-03.jpeg
+variant: markdown
 ---
-# My Favourite Days
+## My Favourite Days
 
 ![Alt text for image on Isomer site](/images/community/arstorybook/ar-storybook-02.jpeg)
 

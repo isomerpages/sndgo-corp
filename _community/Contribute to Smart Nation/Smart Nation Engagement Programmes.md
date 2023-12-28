@@ -4,8 +4,9 @@ permalink: /community/contribute-to-smart-nation/
 description: Help us make services more accessible and convenient for all Singaporeans.
 third_nav_title: Contribute to Smart Nation
 image: /images/community/sna/smartnationambassador01.jpg
+variant: markdown
 ---
-# Let’s co-create our Smart Nation together
+## Let’s co-create our Smart Nation together
 
 Have an observation or suggestion that you think might help make the lives of citizens more convenient, or digital government services better? Interested in testing new digital government services before they are launched? We would love to hear from you! 
 

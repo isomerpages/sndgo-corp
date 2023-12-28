@@ -4,8 +4,9 @@ permalink: /community/showcases/overview/
 third_nav_title: Showcases
 description: Check out our Smart Nation Showcases!
 image: /images/community/playscape/playscape_04.jpeg
+variant: markdown
 ---
-# Smart Nation Showcases
+## Smart Nation Showcases
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 

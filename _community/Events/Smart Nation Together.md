@@ -5,8 +5,9 @@ description: "#SmartNationTogether is an online channel featuring tech-related
   talks and workshops for kids, working adults, and seniors."
 third_nav_title: Events
 image: /images/og-image/snt-website-og-image-b.jpg
+variant: markdown
 ---
-# #SmartNationTogether 
+## #SmartNationTogether 
 ![#SmartNationTogether](/images/community/events/snt%20image.jpg)
 
 #SmartNationTogether is an online channel featuring tech-related talks and workshops for working adults and seniors.
