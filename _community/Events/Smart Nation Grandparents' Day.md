@@ -7,11 +7,11 @@ variant: markdown
 ---
 ## Smart Nation Grandparents' Day 2023
 
-Recognising the pivotal role of family support in aiding seniors to navigate the digital world, Smart Nation Group leverages the festive occasion of Grandparents’ Day in November to organise a special event dedicated to our seniors.  
+Recognising the pivotal role of families in guiding seniors through the digital world, the Smart Nation Group hosts a special event dedicated to seniors on Grandparents’ Day in November.
 
-The Smart Nation Grandparents’ Day serves as a platform for families to come together, engage in fun-filled tech activities, games, and workshops, all aimed at enhancing their collective understanding of technology. Through the event, we aim to help our seniors learn more about technology so that they can benefit from it, stay connected, and enjoy their digital journey with their families.
+The Smart Nation Grandparents’ Day features cutting-edge technologies, fun-filled games, and engaging workshops. It enables seniors and their families to navigate the digital landscape safely, while enjoying its benefits and opportunities.
 
-The inaugural Smart Nation Grandparents’ Day, held in 2022, witnessed the participation of over 400 senior citizens at the National Library, learning how to use everyday apps such as PayLah and Singpass. In 2023, the event made a triumphant return for its second edition, hosted at the National Museum of Singapore, attracting over 2,500 visitors.
+Organised in support of the [Digital for Life](https://www.digitalforlife.gov.sg/) and [Families for Life](https://familiesforlife.sg/pages/homepage) movements, the first Smart Nation Grandparents’ Day in 2022 drew more than 400 seniors who learned how to use digital services and apps like PayLah and Singpass. In 2023, the event welcomed over 3,000 visitors and featured a wider range of technology showcases for seniors and families to explore and enjoy together.
 
 <div style="padding: 25px 0px 0px 0px;"></div>
 
