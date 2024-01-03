@@ -1,0 +1,27 @@
+collections:
+  about-smart-nation:
+    output: true
+    order:
+      - Transforming SG Through Tech.md
+      - Our Key Pillars/.keep
+      - Our Key Pillars/Pillars of a Smart Nation .md
+      - Our Key Pillars/Digital Society.md
+      - Our Key Pillars/Digital Economy.md
+      - Our Key Pillars/Digital Government.md
+      - Our Smart Nation Journey/.keep
+      - Our Smart Nation Journey/Achievements.md
+      - Our Smart Nation Journey/Milestones.md
+      - A Secure Smart Nation/.keep
+      - A Secure Smart Nation/Protecting Data & Safeguarding Systems.md
+      - A Secure Smart Nation/Cybersecurity in the Public Sector.md
+      - A Secure Smart Nation/Government's Personal Data Protection Laws And
+        Policies.md
+      - A Secure Smart Nation/Government's Personal Data Protection
+        Initiatives.md
+      - A Secure Smart Nation/Report Data Incident.md
+      - A Secure Smart Nation/FAQs on Reporting Data Incidents.md
+      - About Us/.keep
+      - About Us/About Smart Nation Group.md
+      - About Us/Our Vision and Mission.md
+      - About Us/SNDGG Ministerial Committee.md
+      - About Us/SNDGG Senior Management.md

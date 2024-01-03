@@ -1,0 +1,60 @@
+title: Smart Nation Singapore
+url: https://www.smartnation.gov.sg
+favicon: /images/sns-burst.ico
+colors:
+  primary-color: "#e70d2e"
+  secondary-color: "#a6221c"
+  media-colors:
+    - title: media-color-one
+      color: "#d01c18"
+    - title: media-color-two
+      color: "#da4751"
+    - title: media-color-three
+      color: "#b2b2b2"
+    - title: media-color-four
+      color: "#FF9C3D"
+    - title: media-color-five
+      color: "#EF6318"
+resources_name: media-hub
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+description: Transforming Singapore Through Technology
+staging: https://staging.d2udl6pjsi4kjp.amplifyapp.com/
+prod: https://master.d2udl6pjsi4kjp.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+is_government: true
+shareicon: /images/og-image/smart-nation-og-image.jpg
+google_analytics: UA-77555444-1
+facebook-pixel: ""
+google_analytics_ga4: ""
+linkedin-insights: ""

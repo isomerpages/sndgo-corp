@@ -1,0 +1,23 @@
+logo: /images/smart-nation-logo.png
+links:
+  - title: About Smart Nation
+    collection: about-smart-nation
+  - title: Initiatives
+    collection: initiatives
+  - title: A Smart Community
+    collection: community
+  - title: Careers
+    url: /careers/join-sndgo
+    sublinks:
+      - title: Join Us
+        url: /careers/join-sndgo
+      - title: Smart Nation Scholarship
+        url: /careers/smart-nation-scholarship
+      - title: Smart Nation Fellowship
+        url: /careers/smart-nation-fellowship
+      - title: Careers in Gov ICT & SS
+        url: https://techcareers.smartnation.gov.sg/
+  - title: Media Hub
+    resource_room: true
+  - title: Resources
+    collection: resources

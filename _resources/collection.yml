@@ -1,0 +1,7 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Business Resources.md
+      - Data Resources & APIs.md
+      - Resources for Developers.md

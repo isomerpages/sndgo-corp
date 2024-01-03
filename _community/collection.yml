@@ -1,0 +1,30 @@
+collections:
+  community:
+    output: true
+    order:
+      - Contribute to Smart Nation/.keep
+      - Contribute to Smart Nation/Smart Nation Engagement Programmes.md
+      - Contribute to Smart Nation/Smart Nation Ambassadors.md
+      - Contribute to Smart Nation/SNA Citizen Co Creation Group.md
+      - Contribute to Smart Nation/SCOPE.md
+      - Contribute to Smart Nation/GovTech Tech Kaki.md
+      - Contribute to Smart Nation/OGP Open Jio.md
+      - Showcases/.keep
+      - Showcases/Smart Nation Showcases.md
+      - Showcases/CityScape.md
+      - Showcases/PlayScape.md
+      - Showcases/Smart Nation Builder.md
+      - Events/.keep
+      - Events/Smart Nation Events.md
+      - Events/Smart Nation & U.md
+      - Events/Smart Nation Together.md
+      - Events/SkillsFuture X Smart Nation.md
+      - Events/Smart Nation Grandparents' Day.md
+      - Events/SCAI.md
+      - Opportunities & Help for the Community.md
+      - Apps For You.md
+      - Campaigns/.keep
+      - Campaigns/Past Campaigns.md
+      - Community Projects/.keep
+      - Community Projects/Smart Nation Community Projects.md
+      - Community Projects/AR Storybook.md

@@ -1,0 +1,74 @@
+collections:
+  initiatives:
+    output: true
+    order:
+      - Strategic National Projects/.keep
+      - Strategic National Projects/Our Strategic National Projects.md
+      - Strategic National Projects/GoBusiness.md
+      - Strategic National Projects/CODEX.md
+      - Strategic National Projects/Electronic Payments.md
+      - Strategic National Projects/LifeSG.md
+      - Strategic National Projects/National Digital Identity.md
+      - Strategic National Projects/Punggol Smart Town.md
+      - Strategic National Projects/Smart Nation Sensor Platform.md
+      - Strategic National Projects/Smart Urban Mobility.md
+      - Strategic National Projects/E Payments.md
+      - Artificial Intelligence/.keep
+      - Artificial Intelligence/National AI Strategy.md
+      - Artificial Intelligence/Be part of our AI Journey.md
+      - Business & Finance/.keep
+      - Business & Finance/Business & Finance Initiatives.md
+      - Business & Finance/Corppass.md
+      - Business & Finance/Data Innovation Programme Office.md
+      - Business & Finance/FinTech Sandbox.md
+      - Business & Finance/Networked Trade Platform.md
+      - Business & Finance/SGFinDex.md
+      - Business & Finance/SGTraDex.md
+      - Digital Government Services/.keep
+      - Digital Government Services/Our Digital Government Services.md
+      - Digital Government Services/CentEx.md
+      - Digital Government Services/CrowdTaskSG.md
+      - Digital Government Services/Digital Birth and Death Certificates.md
+      - Digital Government Services/HDB Resale Portal.md
+      - Digital Government Services/Multilingual Digital Services.md
+      - Digital Government Services/OpenCerts.md
+      - Digital Government Services/Parents Gateway.md
+      - Digital Government Services/SG Translate Together.md
+      - Digital Government Services/SG Govt Developer Portal.md
+      - Health/.keep
+      - Health/Smart Health Initiatives.md
+      - Health/Assistive Technology and Robotics In Healthcare.md
+      - Health/HealthHub.md
+      - Health/National Steps Challenge™ & Healthy 365 App.md
+      - Health/Project Pensieve.md
+      - Health/Singapore Eye Lesion Analyser.md
+      - Health/Telehealth.md
+      - Safe Digital Space/.keep
+      - Safe Digital Space/Building Trust and Safety.md
+      - Safe Digital Space/CheckWho.md
+      - Safe Digital Space/ScamShield.md
+      - Safe Digital Space/SMS Sender ID Registry (SSIR).md
+      - Transport/.keep
+      - Transport/Smart Transport Initiatives.md
+      - Transport/Autonomous Vehicles.md
+      - Transport/CETRAN.md
+      - Transport/Contactless Fare Payment For Public Transport.md
+      - Transport/On Demand Shuttle.md
+      - Transport/Open Data & Analytics For Urban Transportation.md
+      - Urban Living/.keep
+      - Urban Living/Smart Urban Initiatives.md
+      - Urban Living/Smart Water Meter.md
+      - Urban Living/Dengue Hotspots Survey Drones.md
+      - Urban Living/Elderly Monitoring System.md
+      - Urban Living/myENV App.md
+      - Urban Living/OneService App.md
+      - Urban Living/OneService Chatbot.md
+      - Urban Living/Smart Towns.md
+      - Urban Living/Smart Urban Planning.md
+      - Urban Living/Integrated Environmental Modeller.md
+      - Covid 19/.keep
+      - Covid 19/Responding to COVID 19 with Tech.md
+      - Covid 19/Digital Contact Tracing.md
+      - Covid 19/Economic and Social Support.md
+      - Covid 19/Flow of Verified Information.md
+      - Covid 19/Community Preparedness.md
