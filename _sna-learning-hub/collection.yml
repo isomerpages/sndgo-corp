@@ -1,4 +1,5 @@
 collections:
   sna-learning-hub:
     output: true
-    order: []
+    order:
+      - SNA Learning Hub.md
