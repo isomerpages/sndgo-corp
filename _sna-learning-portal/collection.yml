@@ -2,4 +2,4 @@ collections:
   sna-learning-portal:
     output: true
     order:
-      - SNA Learning Hub.md
+      - SNA Learning Portal.md
