@@ -2,5 +2,6 @@ collections:
   sna-learning-portal:
     output: true
     order:
+      - Module 2.md
       - SNA Learning Portal.md
       - Module 1.md
