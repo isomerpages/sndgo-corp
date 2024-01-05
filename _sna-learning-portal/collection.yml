@@ -2,6 +2,7 @@ collections:
   sna-learning-portal:
     output: true
     order:
+      - Module 6.md
       - Module 5.md
       - Module 4.md
       - Module 3.md
