@@ -2,5 +2,5 @@ collections:
   sna-learning-portal:
     output: true
     order:
-      - Overview of Smart Nation.md
       - SNA Learning Portal.md
+      - Overview of Smart Nation.md
