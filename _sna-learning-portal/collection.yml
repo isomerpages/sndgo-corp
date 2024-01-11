@@ -1,0 +1,11 @@
+collections:
+  sna-learning-portal:
+    output: true
+    order:
+      - SNA Learning Portal.md
+      - Module 1.md
+      - Module 2.md
+      - Module 3.md
+      - Module 4.md
+      - Module 5.md
+      - Module 6.md
