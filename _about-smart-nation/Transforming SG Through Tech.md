@@ -16,6 +16,24 @@ variant: markdown
 
 As the digital era rapidly evolves, it is up to us to dream and imagine bigger, so that we can realise what it truly means to be a Smart Nation with endless possibilities. 
 
+<br>
+
+<div style="max-width: 1280px">
+    <div style="height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/ETAvW3hKtso?si=w_uUpb_vzv-8dHS8" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;"></iframe>
+    </div>
+</div>
+
 Our vision for a digital-first Singapore is one where a [Digital Government](/about-smart-nation/digital-government), [Digital Economy](/about-smart-nation/digital-economy) and [Digital Society](/about-smart-nation/digital-society) harness technology to effect transformation in  health, transport, urban living, government services and businesses.
 
 **Our Digital Government** continues to invest in infrastructure and create shared open platforms for our businesses and citizens to learn and develop. 
