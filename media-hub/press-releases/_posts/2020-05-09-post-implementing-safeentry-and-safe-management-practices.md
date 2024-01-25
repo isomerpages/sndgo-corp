@@ -2,6 +2,7 @@
 layout: post
 title: Implementing SafeEntry And Safe Management Practices
 permalink: /media-hub/press-releases/implementing-safeentry-and-safe-management-practices/
+variant: markdown
 ---
 ## Implementing SafeEntry And Safe Management Practices
 
@@ -21,7 +22,7 @@ In line with these, the Ministry of Manpower and other relevant agencies will be
 
 Alongside measures to reduce the risk of transmission in daily interactions and activities, we need to continue to strengthen our contact tracing regime through the use of technology.
 
-As announced previously, businesses and services that are in operation must come on board SafeEntry to log the check-in of employees and visitors. As a start, deployment will be made mandatory for places where individuals are likely to be in close proximity for prolonged periods or in enclosed spaces, or where there is higher traffic. To date, SafeEntry has been deployed at over 16,000 premises. The list of facilities/places where SafeEntry must be deployed from 12 May 2020 is found in the  [Annex](/files/press-releases/2020/implementing-safeentry-and-safe-management-practices-annex.pdf). This list will be updated at [https://www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/deployment) as more activities and services resume.
+As announced previously, businesses and services that are in operation must come on board SafeEntry to log the check-in of employees and visitors. As a start, deployment will be made mandatory for places where individuals are likely to be in close proximity for prolonged periods or in enclosed spaces, or where there is higher traffic. To date, SafeEntry has been deployed at over 16,000 premises. The list of facilities/places where SafeEntry must be deployed from 12 May 2020 is found in the  [Annex](/files/press-releases/2020/implementing-safeentry-and-safe-management-practices-annex.pdf). This list will be updated at https://www.safeentry.gov.sg/deployment as more activities and services resume.
 
 Employees and visitors should check-in and check-out of workplaces and other venues using SafeEntry to help our contact tracers establish cluster links and transmission chains. It is important that everyone plays their part and uses SafeEntry, so that we can collectively prevent new clusters from forming.
 
