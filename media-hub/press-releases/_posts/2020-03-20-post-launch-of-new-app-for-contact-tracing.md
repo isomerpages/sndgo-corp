@@ -2,6 +2,7 @@
 layout: post
 title: Launch Of New App For Contact Tracing
 permalink: /media-hub/press-releases/launch-of-new-app-for-contact-tracing/
+variant: markdown
 ---
 ## A community effort to help combat the spread of COVID-19
 
@@ -40,7 +41,7 @@ Participation in TraceTogether is an act of taking individual action that will h
 
 The Smart Nation and Digital Government Group will be working with the public and private sectors, to raise awareness and encourage adoption of the app.
 
-To participate in TraceTogether, simply download the app from  [Google Play](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en)  or  [the App Store](https://apps.apple.com/us/app/tracetogether/id1498276074). For more information on TraceTogether, please refer to the fact sheet in the Annex, and visit  [www.tracetogether.gov.sg](http://www.tracetogether.gov.sg/).
+To participate in TraceTogether, simply download the app from  Google Play or  the App Store. For more information on TraceTogether, please refer to the fact sheet in the Annex, and visit www.tracetogether.gov.sg.
 
 
  
@@ -58,12 +59,12 @@ To participate in TraceTogether, simply download the app from  [Google Play](htt
 
 Chia Suat Ning<br>
 Manager, Public and International Communications<br>
-Adoption & Engagement Directorate, Smart Nation and Digital Government Office<br>
+Adoption &amp; Engagement Directorate, Smart Nation and Digital Government Office<br>
 Mobile: 8182 8052<br>
 Email:  [CHIA_Suat_Ning@pmo.gov.sg](mailto:CHIA_Suat_Ning@pmo.gov.sg)
 
 Mehul Shah<br>
-Assistant Manager, Communications & Marketing Group<br>
+Assistant Manager, Communications &amp; Marketing Group<br>
 Government Technology Agency<br>
 Mobile: 9835 1434<br>
 Email:  [Mehul_SHAH@tech.gov.sg](mailto:Mehul_SHAH@tech.gov.sg)
