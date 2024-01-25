@@ -2,6 +2,7 @@
 layout: post
 title: Factsheet - Enhancements to the TraceTogether Application
 permalink: /media-hub/press-releases/factsheet-enhancements-to-the-tracetogether-application/
+variant: markdown
 ---
 ## Factsheet-Enhancements To The TraceTogether Application
 
@@ -38,7 +39,7 @@ The data collected through the TraceTogether app is encrypted and stored locally
 
 ### How to participate in TraceTogether
 
-The updated TraceTogether app is available for download from [Google Play](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&hl=en) for Android users, and from the [App Store](https://apps.apple.com/us/app/tracetogether/id1498276074) for iOS users.
+The updated TraceTogether app is available for download from Google Play for Android users, and from the App Store for iOS users.
 
 Users can follow the steps below to set up the app.
 
@@ -48,7 +49,7 @@ Users can follow the steps below to set up the app.
 
 Existing TraceTogether users will receive a notification to update the app if they have not done so, and to provide the additional registration information to continue using the app.
 
-For more information, please visit [tracetogether.gov.sg](https://www.tracetogether.gov.sg/).
+For more information, please visit tracetogether.gov.sg.
 
 ---
 
