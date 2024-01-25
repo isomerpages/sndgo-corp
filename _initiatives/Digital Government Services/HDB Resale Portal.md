@@ -27,9 +27,6 @@ variant: markdown
     </div>
 </div>
 
-The HDB Resale Portal makes the buying and selling of resale flats a breeze. Buyers and sellers of these flats can easily complete the required forms and do checks online using the portal.
+The [HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp) makes the buying and selling of resale flats a breeze. Buyers and sellers of these flats can easily complete the required forms and do checks online using the portal.
 
 By utilising the portal, buyers and sellers only need to attend one appointment with HDB to sign the necessary documents – down from two previously – thus halving the time needed to complete the transaction. 
-
-Learn how the [HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp) can help homeowners and buyers do more with less time needed.
-
