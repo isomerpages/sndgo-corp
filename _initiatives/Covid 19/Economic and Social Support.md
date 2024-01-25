@@ -19,15 +19,11 @@ As such, platforms were quickly set up to assist with the various changes – su
 
 The [GoBusiness platform](https://gobusiness.gov.sg/) for business was used as a one-stop portal to provide businesses with information on safe management requirements and to apply to resume operations.
 
-## COVID-19 Support Grant (CSG) application portal
+## COVID-19 Support Grant (CSG) and COVID-19 Recovery Grant (CRG) application portal
 
 The COVID-19 Support Grant (CSG) was launched in May 2020 to provide temporary support to Singaporeans whose jobs were affected by COVID-19. The CSG application portal assisted in approving 98,000 applications.
 
-In 2021, the CSG was replaced with the COVID-19 Recovery Grant (CRG), featuring revised eligibility criteria.
-
-## COVID-19 Recovery Grant (CRG) application portal
-
-Launched in January 2021, the COVID-19 Recovery Grant (CRG) continued to provide support to workers who needed temporary financial assistance. The Grant focused on workers in lower- to middle-income households who experienced involuntary job loss.
+In January 2021, the CSG was replaced with the COVID-19 Recovery Grant (CRG), featuring revised eligibility criteria. CRG continued to provide support to workers who needed temporary financial assistance. The Grant focused on workers in lower- to middle-income households who experienced involuntary job loss.
 
 ## SupportGoWhere 
 
