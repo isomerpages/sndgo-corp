@@ -7,6 +7,7 @@ description: Many different issues and concerns arose as a result of the
   quickly set up to assist with the various changes.
 image: /images/covid-19/covid-social-and-economic-support.jpg
 third_nav_title: Covid 19
+variant: markdown
 ---
 ![Economic and Social Support](/images/covid-19/covid-social-and-economic-support.jpg)
 
@@ -20,17 +21,17 @@ The [GoBusiness platform](https://gobusiness.gov.sg/) for business was used as a
 
 ## COVID-19 Support Grant (CSG) application portal
 
-Launched in May 2020 to provide temporary support to Singaporeans whose jobs have been affected by COVID-19. The CSG was available until the end of 2020 and approved 98,000 applications since its launch.
+The COVID-19 Support Grant (CSG) was launched in May 2020 to provide temporary support to Singaporeans whose jobs were affected by COVID-19. The CSG application portal assisted in approving 98,000 applications.
 
-CSG was replaced with the COVID-19 Recovery Grant (CRG) with revised eligibility criteria in 2021
+In 2021, the CSG was replaced with the COVID-19 Recovery Grant (CRG), featuring revised eligibility criteria.
 
 ## COVID-19 Recovery Grant (CRG) application portal
 
-Launched in January 2021, [CRG](https://msf-csg.gov.sg/preinstruction/crg) is to continue the support to workers who need some temporary financial help. The Grant focuses on workers in lower- to middle-income households who were experiencing involuntary job loss. The application window ended on 31 December 2021.
+Launched in January 2021, the COVID-19 Recovery Grant (CRG) continued to provide support to workers who needed temporary financial assistance. The Grant focused on workers in lower- to middle-income households who experienced involuntary job loss.
 
 ## SupportGoWhere 
 
-[SupportGoWhere](https://supportgowhere.life.gov.sg/), a LifeSG initiative, provides citizens with a single portal to determine which assistance schemes they would be eligible for. It also has an Eligibility Checker, which lists the schemes that might be available to you when you answer a few questions.
+SupportGoWhere, a LifeSG initiative, provided citizens with a single portal to determine which assistance schemes they would be eligible for. It also had an Eligibility Checker, which listed the schemes that might be available to you when you answered a few questions.
 
 ## Student Learning Space
 
