@@ -7,6 +7,7 @@ description: Rolling out digital services to help with the management and
   years.
 image: /images/covid-19/covid-public-health-solutions.jpg
 third_nav_title: Covid 19
+variant: markdown
 ---
 ![Community Preparedness](/images/covid-19/covid-public-health-solutions.jpg)
 
@@ -22,7 +23,7 @@ The system endorses locally-issued COVID-19 test results and vaccination certifi
 
 ## National Appointment System (NAS) for COVID-19 Vaccination
 
-To support the roll-out of nation-wide vaccinations, we created a [the National Appointment System (NAS) for COVID-19 Vaccination website](https://appointment.vaccine.gov.sg/) for residents to schedule their appointments once they receive their Registration Code. This efficient system helps to manage the appointments and administrative load ensures that the vaccination doses are sufficient and used with minimal wastage.
+To support the roll-out of nation-wide vaccinations, we created a [the National Appointment System (NAS) for COVID-19 Vaccination website](https://appointment.vaccine.gov.sg/) for residents to schedule their appointments once they receive their Registration Code. This efficient system helped to manage the appointments and administrative load ensures that the vaccination doses are sufficient and used with minimal wastage.
 
 ## Space Out
 
@@ -30,15 +31,15 @@ Launched in April 2020, Space Out enabled people to check crowd levels at variou
 
 ## SPOTON Smart Thermal Scanner
 
-SPOTON enables faster crowd temperature scanning of up to ten people at a time. This scanner minimises physical contact, reduces manpower and speeds up check-ins to popular and high traffic locations.
+SPOTON enabled faster crowd temperature scanning of up to ten people at a time. This scanner minimises physical contact, reduces manpower and speeds up check-ins to popular and high traffic locations.
 
 For more information on SPOTON, head over to [GovTech's Developer Portal](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/spoton).
 
 ## SupplyAlly
 
-[SupplyAlly](https://www.supplyally.gov.sg/) is a mobile app that facilitates the process of logistics distribution. It has been used for the distribution of masks, TraceTogether Tokens and various COVID-19 initiatives. SupplyAlly provides the logistical distribution support to ensure that all data and stock levels were captured accurately.
+[SupplyAlly](https://www.supplyally.gov.sg/) is a mobile app that facilitates the process of logistics distribution. It was used for the distribution of masks, TraceTogether Tokens and various COVID-19 initiatives. SupplyAlly provided the logistical distribution support to ensure that all data and stock levels were captured accurately.
 
-SupplyAlly has facilitated the management of hundreds of volunteers during the COVID-19 pandemic, distribution of 4.2 million reusable masks, over $20 million in physical credit vouchers and the issuance of TraceTogether Tokens. The App continues to be used by charity organisations for food redemptions. 
+SupplyAlly facilitated the management of hundreds of volunteers during the COVID-19 pandemic, distribution of 4.2 million reusable masks, over $20 million in physical credit vouchers and the issuance of TraceTogether Tokens. The App was also used by charity organisations for food redemptions. 
 
 ## VigilantGantry
 
