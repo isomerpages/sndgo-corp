@@ -13,29 +13,28 @@ variant: markdown
 
 ![Singapore Government Developer Portal](/images/initiatives/sgdeveloperportal-01.jpg)
 
-The [Singapore Government Developer Portal](https://www.developer.tech.gov.sg/) is **a one-stop resource hub for government digital products and services.**
+The [Singapore Government Developer Portal](https://www.developer.tech.gov.sg/) serves as a **a one-stop resource hub for government digital products and services.**
 
-We target government agencies, vendors, and tech professionals such as developers who are engaged in digital transformation projects. To stay updated on our latest product information,
-events and more, sign up for the Singapore Government Developer Portal Digest [here](https://go.gov.sg/devportaldigest).
+The primary audience comprises government agencies, vendors, and tech professionals such as developers who are engaged in digital transformation projects. To stay informed about the latest product updates, events, and more, interested parties can subscribe to the Singapore Government Developer Portal Digest at [go.gov.sg/devportaldigest](https://go.gov.sg/devportaldigest).
 
-Our portal hosts the following information:
+The Singapore Government Developer Portal hosts the following information:
 
 **1. Products**
 
-We host products from across the government. This includes open-source products, digital identity, data and API-based tech and more. Audiences can also find information about the [Singapore Government Tech Stack](https://www.developer.tech.gov.sg/singapore-government-tech-stack) which are a set of platform tools that streamlines and simplifies the development process and enables code reuse across the government.
+The portal showcases products from various government entities, encompassing open-source solutions, digital identity services, data and API-based technologies, and more. Users can also access information about the [Singapore Government Tech Stack](https://www.developer.tech.gov.sg/singapore-government-tech-stack) — a collection of platform tools streamlining the development process and facilitating code reuse across the government.
 
 **2.  Documentation Service**
 
-Our documentation service houses technical documentation including playbooks, onboarding guides, API specs and publication guides.
+Visitors can find an extensive collection of technical documentation, including playbooks, onboarding guides, API specifications, and publication guides, within the portal.
 
 **3. Guidelines**
 
-Our guidelines help project teams implement best practices, refine their success metrics, improve procurement workflows and more.
+The portal houses guidelines designed specifically to assist project teams in implementing best practices, refining success metrics, improving procurement workflows, and more.
 
 **4. Communities**
 
-Community resources such as [STACK Meetups](https://www.meetup.com/STACK-X-by-GovTech-Singapore/) can be found here.
+Community resources such as [STACK Meetups](https://www.meetup.com/STACK-X-by-GovTech-Singapore/) are available within the portal.
 
 **5. Digital Government Content**
 
-Overview of Singapore’s digital government journey, key lessons, the Digital Government Exchange (DGX), and international collaboration opportunities.
+The portal also shares insights into Singapore's digital government journey and key lessons learned, along with information on the Digital Government Exchange (DGX) and opportunities for international collaboration.
