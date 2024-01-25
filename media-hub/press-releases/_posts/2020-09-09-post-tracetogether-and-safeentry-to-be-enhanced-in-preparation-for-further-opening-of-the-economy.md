@@ -3,6 +3,7 @@ layout: post
 title: TraceTogether & SafeEntry To Be Enhanced In Preparation For Further
   Opening Of The Economy
 permalink: /media-hub/press-releases/tracetogether-and-safeentry-to-be-enhanced/
+variant: markdown
 ---
 ## TraceTogether And SafeEntry To Be Enhanced In Preparation For Further Opening Of The Economy
 
@@ -28,7 +29,7 @@ Over the next few months, the Government will begin nation-wide distribution of 
 
 [^1]: The CCs opening hours are from 10am – 6pm daily, except on public holidays. For CCs located at void decks, the operating hours are from 2pm – 6pm, except public holidays
 
-The distribution exercise will be progressively extended throughout Singapore, according to the tentative schedule listed in  [Annex A (pdf - 90kb)](/files/press-releases/2020/annex-a-090920.pdf).  As the actual distribution progresses, scheduled dates might be adjusted. Residents can go to the TokenGoWhere website ([https://token.gowhere.gov.sg](https://token.gowhere.gov.sg/)) to find the latest schedule and locate a site convenient for them. Residents can also refer to community notice boards, digital display panels, or their local CC social media channels for more information on the distribution exercise.  Those who do not mind travelling further and wish to collect the Token earlier can visit any of the sites listed on the TokenGoWhere website to do so.
+The distribution exercise will be progressively extended throughout Singapore, according to the tentative schedule listed in  [Annex A (pdf - 90kb)](/files/press-releases/2020/annex-a-090920.pdf).  As the actual distribution progresses, scheduled dates might be adjusted. Residents can go to the TokenGoWhere website to find the latest schedule and locate a site convenient for them. Residents can also refer to community notice boards, digital display panels, or their local CC social media channels for more information on the distribution exercise.  Those who do not mind travelling further and wish to collect the Token earlier can visit any of the sites listed on the TokenGoWhere website to do so.
 
 Besides the elderly, individuals who do not have a smart phone on which to download the TT App will benefit from using the Token. The Tokens also provide an option for those who prefer a separate device to contribute to the national effort to support digital contact tracing, rather than downloading the App on their phone.
 
@@ -52,7 +53,7 @@ GovTech will also be testing new solutions that can help increase the convenienc
 
 MOH currently publishes a list of public locations visited by COVID-19 cases during their infectious period.
 
-Responding to public feedback, we will introduce a SafeEntry Location Matching Self-Check service for individuals to check whether they have been in close proximity to COVID-19 cases, based on their own SafeEntry records. This Self-Check service will be available on an updated version of the TT App that is available from 10 September. Individuals can also access the Self-Check service via SingPass Mobile, or at [https://wereyouthere.safeentry.gov.sg](https://wereyouthere.safeentry.gov.sg) (with SingPass login).
+Responding to public feedback, we will introduce a SafeEntry Location Matching Self-Check service for individuals to check whether they have been in close proximity to COVID-19 cases, based on their own SafeEntry records. This Self-Check service will be available on an updated version of the TT App that is available from 10 September. Individuals can also access the Self-Check service via SingPass Mobile, or at https://wereyouthere.safeentry.gov.sg (with SingPass login).
 
 In addition, SMS notification alerts will be sent to a smaller group of individuals who were at locations that are assessed to pose a higher risk of transmission, such as dining places and gyms where people do not wear masks for extended periods of time. Those whose SafeEntry check-in and check-out timings overlap with the COVID-19 case in such locations will receive an SMS alert. The SMS notification service will begin from 10 September.
 
