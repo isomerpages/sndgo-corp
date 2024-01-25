@@ -3,6 +3,7 @@ title: TraceTogether-Only SafeEntry To Start From 1 June 2021; Only
   TraceTogether App Or Token Will Be Accepted For SafeEntry Check-In
 date: 2021-04-22
 permalink: /media-hub/press-releases/tos-to-start-1-june-2021/
+variant: markdown
 ---
 ## TraceTogether-Only SafeEntry To Start From 1 June 2021; Only TraceTogether App Or Token Will Be Accepted For SafeEntry Check-In
 
@@ -30,13 +31,13 @@ With the implementation of TT-only SE, we will remove the existing requirement f
 
 Essentially, TT-only SE check-ins will only be required in venues with a high throughput of people (e.g. malls, workplaces, places of worship, schools and educational institutions), as well as higher-risk venues where people are likely to be in close proximity for prolonged periods (e.g. dine-in food and beverage outlets and gyms).
 
-The full list of TT-only SE venues can be found in  [Annex A (pdf - 220kb)](/files/press-releases/2021/sndgg-tt-only-se implementation-annex-a.pdf) and on the SE website ([www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/announcements#news-36)). To facilitate SE check-in with the TT Token, venue operators should download the SafeEntry (Business) App or set up the SafeEntry Gateway Box. More information on how venue operators can apply for the SafeEntry Gateway Box is available on the SE website ([www.safeentry.gov.sg](https://www.safeentry.gov.sg/)).
+The full list of TT-only SE venues can be found in  [Annex A (pdf - 220kb)](/files/press-releases/2021/sndgg-tt-only-se implementation-annex-a.pdf) and on the SE website. To facilitate SE check-in with the TT Token, venue operators should download the SafeEntry (Business) App or set up the SafeEntry Gateway Box. More information on how venue operators can apply for the SafeEntry Gateway Box is available on the SE website.
 
 ### Updating of TT App and TT Token Battery Replacement
 
 As effective contact tracing requires the active usage of the TT App and Token, TT App users should ensure that their App is updated to the latest version, turn on their Bluetooth, and keep the App active in the background; whereas Token users should ensure that their Token has not run out of battery and always have the Token with them when they leave home.
 
-TT Token users can check if their Token is working by looking out for a green light that blinks about once every minute. If the Token is blinking red, or if there is no light at all, users should replace their Token at any Community Club/Centre (CC), or at Token replacement booths set up at selected malls. Those who have not collected the Token can also do so at any CC islandwide. More information can be found on the TokenGoWhere website ([www.token.gowhere.gov.sg](https://token.gowhere.gov.sg/)).
+TT Token users can check if their Token is working by looking out for a green light that blinks about once every minute. If the Token is blinking red, or if there is no light at all, users should replace their Token at any Community Club/Centre (CC), or at Token replacement booths set up at selected malls. Those who have not collected the Token can also do so at any CC islandwide. More information can be found on the TokenGoWhere website.
 
 By actively participating in the TT Programme and using SE, we can each play our part to prevent the spread of COVID-19 and keep Singapore safe. The Government will continue to improve the user experience of the TT Programme and SE, and adjust the approach to keep digital contact tracing effective as the public health situation evolves.
 
