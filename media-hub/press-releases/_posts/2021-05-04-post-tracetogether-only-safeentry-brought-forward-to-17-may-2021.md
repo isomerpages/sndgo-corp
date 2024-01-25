@@ -3,6 +3,7 @@ title: TraceTogether-Only SafeEntry Brought Forward To 17 May 2021 To Enhance
   Coverage And Speed Of Contact Tracing
 date: 2021-05-04
 permalink: /media-hub/press-releases/tos-17-may/
+variant: markdown
 ---
 ## TraceTogether-Only SafeEntry Brought Forward To 17 May 2021 To Enhance Coverage And Speed Of Contact Tracing
 
@@ -26,19 +27,19 @@ With the nationwide implementation of TT-only SE on 17 May 2021, SE check-in mus
 
 Other modes of SE check-in such as launching your phone’s camera to scan a venue’s QR code and using Singpass App will be discontinued from 17 May 2021. To help ease the transition, scanning of barcodes on personal IDs will be retained until 31 May 2021.
 
-The full list of TT-only SE venues can be found in[Annex A (pdf - 210kb)](/files/press-releases/2021/sndgg%20press%20release%20-%20tt-only%20se%20implementation%20and%20segw%20deployment%20-%20annex%20a.pdf) and on the SE website ([www.safeentry.gov.sg/deployment](https://www.safeentry.gov.sg/deployment)).
+The full list of TT-only SE venues can be found in[Annex A (pdf - 210kb)](/files/press-releases/2021/sndgg%20press%20release%20-%20tt-only%20se%20implementation%20and%20segw%20deployment%20-%20annex%20a.pdf) and on the SE website.
 
 ### SEGW required to be deployed at more venues
 
-From 15 June 2021, more public-facing venues where people are likely to be in contact for prolonged periods, such as food and beverage dine-in outlets, hotels, and sports and fitness centres, will be required to deploy SafeEntry Gateway (SEGW) to facilitate SE check-in, and help users check that their TT Token is working. The SEGW will not light up or emit a beep sound if the TT Token is not working. The full list of venues required to deploy SEGW can be found in [Annex B (pdf - 220kb)](/files/press-releases/2021/sndgg%20press%20release%20-%20tt-only%20se%20implementation%20and%20segw%20deployment%20-%20annex%20b.pdf) and on the SE website ([go.gov.sg/gateway-overview](https://go.gov.sg/gateway-overview)).
+From 15 June 2021, more public-facing venues where people are likely to be in contact for prolonged periods, such as food and beverage dine-in outlets, hotels, and sports and fitness centres, will be required to deploy SafeEntry Gateway (SEGW) to facilitate SE check-in, and help users check that their TT Token is working. The SEGW will not light up or emit a beep sound if the TT Token is not working. The full list of venues required to deploy SEGW can be found in [Annex B (pdf - 220kb)](/files/press-releases/2021/sndgg%20press%20release%20-%20tt-only%20se%20implementation%20and%20segw%20deployment%20-%20annex%20b.pdf) and on the SE website.
 
-Venue operators can either download the SafeEntry (Business) App to use the SEGW function, or set up the SEGW Box. Venues that are required to deploy the SEGW will be able to apply for free SEGW Boxes. More information on how venue operators can apply for the SEGW Box is available on the SE website ([go.gov.sg/gateway-overview](https://go.gov.sg/gateway-overview)).
+Venue operators can either download the SafeEntry (Business) App to use the SEGW function, or set up the SEGW Box. Venues that are required to deploy the SEGW will be able to apply for free SEGW Boxes. More information on how venue operators can apply for the SEGW Box is available on the SE website.
 
 ### TT App Update and TT Token Battery Replacement
 
 As effective contact tracing requires the active usage of the TT App and Token, TT App users should ensure that their App is updated to the latest version, turn on their Bluetooth, and keep the App active in the background; while Token users should ensure that their Token has not run out of battery and always have the Token with them when they leave home.
 
-TT Token users can check if their Token is working by looking out for a green light that blinks about once every minute. If the Token is blinking red, or if there is no light at all, users should replace their Token at any Community Club/Centre (CC), or at Token replacement booths set up at selected malls. Those who have not collected the Token can also do so at any CC islandwide. More information can be found on the TokenGoWhere website ([www.token.gowhere.gov.sg](https://token.gowhere.gov.sg/)).
+TT Token users can check if their Token is working by looking out for a green light that blinks about once every minute. If the Token is blinking red, or if there is no light at all, users should replace their Token at any Community Club/Centre (CC), or at Token replacement booths set up at selected malls. Those who have not collected the Token can also do so at any CC islandwide. More information can be found on the TokenGoWhere website.
 
 ### Importance of TT and SE
 
@@ -50,7 +51,7 @@ With the recent community cases, active participation in the TT Programme is cru
 
 ----------
 
-[^1]:  Large retail stores (>10,000 sqft or 930 sqm) and supermarkets that are located within a mall and have the same operating hours as the mall will no longer need to implement SafeEntry, now that the TT coverage is widened.
+[^1]:  Large retail stores (&gt;10,000 sqft or 930 sqm) and supermarkets that are located within a mall and have the same operating hours as the mall will no longer need to implement SafeEntry, now that the TT coverage is widened.
 
 ----------
 
