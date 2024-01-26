@@ -7,15 +7,16 @@ description: In Singapore, the Smart Nation and Digital Government Group used
   our public health response with technology.
 image: /images/covid-19/safeentrygatwaycheckoutbox.jpg
 third_nav_title: Covid 19
+variant: markdown
 ---
 #  Singapore harnesses tech for COVID-19 pandemic measures
 
  ![SafeEntry Gateway](/images/covid-19/safeentrygatwaycheckoutbox.jpg)
 
 
-COVID-19 was a crisis that swept our nation. The pandemic had shut down entire cities, caused deficits in economies and put many lives on hold as people were ordered to mostly stay home to prevent the virus from spreading.
+COVID-19 was a crisis that swept our nation. The pandemic shut down entire cities, caused deficits in economies, and put many lives on hold as people were ordered to mostly stay home to prevent the virus from spreading.
 
-In Singapore, the Smart Nation and Digital Government Group used technology to respond swiftly and effectively to the pandemic and keep our people safe. Find out how we’ve supported our public health response with technology.
+In Singapore, the Smart Nation and Digital Government Group used technology to respond swiftly and effectively to the pandemic and keep our people safe. Click or tap on the categories below to find out how we supported our public health response with technology.
 
 <br>
 <div class="row">  
