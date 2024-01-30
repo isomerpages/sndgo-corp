@@ -5,6 +5,7 @@ description: Our vision of a Digital Government is “digital to the core, and
   serves with heart”.
 image: /images/og-image/smart-nation-pillars-og-image.jpg
 third_nav_title: Our Key Pillars
+variant: markdown
 ---
 # Digital Government
 
@@ -56,19 +57,19 @@ The pandemic has given renewed impetus for government agencies to digitalise, in
 
 
 ## The progress so far
-Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2021.
+Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2023.
 
 * **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 &amp; above)*
-![Citizen Satisfaction with Government Digital Services](/images/abt-smart-nation/citizen-satisfaction-2022.jpeg)
+![Citizen Satisfaction with Government Digital Services](/images/abt-smart-nation/citizen_satisfaction_2022a.jpeg)
 
 * **Business Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 &amp; above)*
-![Business Satisfaction with Government Digital Services](/images/abt-smart-nation/business-satisfaction-2022.jpeg)
+![Business Satisfaction with Government Digital Services](/images/abt-smart-nation/business_satisfaction_2022a.jpeg)
 
 * **Government services that are completed digitally from end-to-end**
-![Government services that can be completed digitally from end-to-end](/images/abt-smart-nation/end-to-end-digital-services-2021.jpeg)
+![Government services that can be completed digitally from end-to-end](/images/abt-smart-nation/end_to_end_digital_services_2021a.jpeg)
 
 * **Services that provide E-payment options**
-![Services that provide E-payment options](/images/abt-smart-nation/services-offering-e-payment-2021.jpeg)
+![Services that provide E-payment options](/images/abt-smart-nation/services_offering_e_payment_2021a.jpeg)
 
 
 * **Other Statistics:**
