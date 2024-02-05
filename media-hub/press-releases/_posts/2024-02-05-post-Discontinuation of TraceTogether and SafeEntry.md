@@ -13,7 +13,7 @@ variant: markdown
 
 * TraceTogether and SafeEntry systems no longer in use
 
-* All COVID-19 related personal contact tracing data derived from TraceTogether and SafeEntry deleted as of 5 February 2024, with the exception of the TraceTogether data pertaining to a murder case in May 2020
+* All COVID-19 related personal contact tracing data derived from TraceTogether and SafeEntry deleted as of 1 February 2024, with the exception of the TraceTogether data pertaining to a murder case in May 2020
 
 The digital contact tracing systems, TraceTogether (TT) and SafeEntry (SE), will no longer be required as Singapore transitions towards managing COVID-19 like other endemic diseases.
 
@@ -51,6 +51,3 @@ Email: [goh_yu_chong@pmo.gov.sg](mailto:goh_yu_chong@pmo.gov.sg)
 ##### About the Smart Nation Group
 
 The Smart Nation Group, part of the Prime Minister’s Office and administered by the Ministry of Communications and Information (MCI), plays a multifaceted role in guiding Singapore's digital transformation and leading the development of Smart Nation strategies. In addition to driving the digitalisation of government services, the group oversees the development and application of digital technologies and capabilities across Singapore. It also promotes digital inclusivity, while regulating data and online activities, and strengthening digital security. Through its comprehensive approach, the group strives to create a digitally empowered and inclusive society, positioning Singapore as a global leader in the digital era.
-
-
-
