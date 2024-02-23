@@ -2,6 +2,7 @@
 title: LTA Inks Agreement with ST Kinetics to Develop & Trial Autonomous Buses
 date: 2017-04-10
 permalink: /media-hub/press-releases/lta-inks-agreement-with-st-kinetics-to-develop-and-trial-autonomous-buses/
+variant: markdown
 ---
 ## LTA Inks Agreement With ST Kinetics To Develop And Trial Autonomous Buses
 
@@ -23,4 +24,4 @@ The development and testing of the autonomous buses will aim to cover as many sc
 
 Said LTA’s Chief Technology Officer, Mr Lam Wee Shann: “Currently, most AV technology developers are focusing their efforts on developing self-driving cars. Singapore’s need for high-capacity vehicles to address commuters’ peak-hour demands presents an opportunity for companies such as ST Kinetics to develop autonomous buses to address this latent demand. This is also in line with the whole-of-government effort to explore and apply smart technologies to improve our lives. We are excited to partner ST Kinetics to develop autonomous electric buses, that if successfully deployed, will benefit commuters and greatly change the way we travel.”
 
-[Press release issued by Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/4/2/lta-inks-agreement-with-st-kinetics-to-develop-and-trial-autonomous-buses.html)
+Press release issued by Land Transport Authority.
