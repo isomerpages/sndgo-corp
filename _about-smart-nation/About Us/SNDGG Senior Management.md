@@ -24,6 +24,3 @@ Chan Cheow Hoe
 
 **Deputy Government Chief Digital Technology Officer**<br>
 Dr He Ruimin
-
-**Senior Advisor**<br>
-Darren Teo
