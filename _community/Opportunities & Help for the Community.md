@@ -6,6 +6,7 @@ description: As Singapore moves towards becoming a Smart Nation, we want to make
   about the Government initiatives available to assist the different groups of
   people.
 image: /images/og-image/smart-nation-og-image.jpg
+variant: markdown
 ---
 ![Opportunities & help for the community](/images/community/headerimages/opportunities-help.png)
 
@@ -112,4 +113,4 @@ Head over to the [SkillsFuture website ](https://www.skillsfuture.gov.sg/tesa/) 
 
 ICT professionals can join TTAB, which provides a platform for lifelong employability, learning and sharing. TTAB's affiliation with NTUC allows ICT professionals access to more resources and social benefits.
 
-Develop skills and build up an Infocomm-related portfolio with [Tech Talent Assembly](https://www.ttab.org.sg/Pages/index.aspx) now.
+Develop skills and build up an Infocomm-related portfolio with [Tech Talent Assembly](https://www.ttab.org.sg) now.
