@@ -2,6 +2,7 @@
 title: NTU, LTA and JTC Unveil Singapore’s First Autonomous Vehicle Test Centre
 date: 2017-11-22
 permalink: /media-hub/press-releases/ntu-lta-and-jtc-unveil-singapores-first-autonomous-vehicle-test-centre/
+variant: markdown
 ---
 ## NTU, LTA And JTC Unveil Singapores First Autonomous Vehicle Test Centre
 
@@ -35,4 +36,4 @@ CETRAN also inked partnership agreements with four organisations during the cere
   
 [Annex: Centran AV Test Centre’s layout and detailed features (160kb)](/files/press-releases/2017/20171122-cetran-av-testcentre-annex.pdf)  
 
-Press release issued by [Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/11/2/joint-news-release-by-the-land-transport-authority-lta-ntu-jtc---ntu-lta-and-jtc-unveil-singapores-first-autonomous-veh.html)
+Press release issued by Land Transport Authority.
