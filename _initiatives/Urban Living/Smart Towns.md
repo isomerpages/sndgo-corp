@@ -4,11 +4,12 @@ permalink: /initiatives/urban-living/smart-towns/
 third_nav_title: Urban Living
 description: ""
 image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
+variant: markdown
 ---
 # The Smart Town Framework
 <br>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/nvEQE84SK1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/nvEQE84SK1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Can the average Housing and Development Board (HDB) estate be transformed into a smart town? How can technology change the lives of residents living in these estates? The Smart HDB Town Framework answers these questions.
 
@@ -83,7 +84,7 @@ For instance, the amount of sunlight falling into homes and factoring in of shad
 ![Punggol Northshore Seafront Living](/images/initiatives/smart-nation-punggol-northshore.jpg)
 *Seafront living at Punggol Northshore. (Image: HDB)*
 
-#### Northshore Residences I & II
+#### Northshore Residences I &amp; II
 
 Completed in 2020, these are the first HDB flats equipped with smart distribution boards and smart sockets in every room to easily support smart home solutions. The smart distribution board replaces the conventional distribution board in HDB flats, enabling residents to monitor electricity usage across their household appliances.
 
@@ -94,5 +95,4 @@ Completed in 2020, these are the first HDB flats equipped with smart distributio
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
 	<ul>
 		<li><a href="https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/smart-hdb-town-page/hdb-smart-home-exhibition" target="_blank">HDB Smart Enabled Home</a></li>
-		<li><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/yuhua-the-first-existing-hdb-estate-to-go-smart" target="_blank">Yuhua the First Existing HDB Estate to Go Smart</a></li></ul>
-</div>
+</ul></div>
