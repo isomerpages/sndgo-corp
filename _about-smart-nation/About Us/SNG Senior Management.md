@@ -1,5 +1,5 @@
 ---
-title: SNDGG Senior Management
+title: SNG Senior Management
 permalink: /about-smart-nation/senior-management/
 description: Say hello to our leaders at the Smart Nation and Digital Government Group!
 image: /images/og-image/about-sndgg-og-image.jpg
@@ -24,6 +24,3 @@ Chan Cheow Hoe
 
 **Deputy Government Chief Digital Technology Officer**<br>
 Dr He Ruimin
-
-**Senior Advisor**<br>
-Darren Teo
