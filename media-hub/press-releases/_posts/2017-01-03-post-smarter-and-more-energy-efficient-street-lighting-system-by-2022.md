@@ -2,6 +2,7 @@
 title: Smarter and More Energy-Efficient Street Lighting System by 2022
 date: 2017-01-03
 permalink: /media-hub/press-releases/smarter-and-more-energy-efficient-street-lighting-system-by-2022/
+variant: markdown
 ---
 ## Smarter And More Energy Efficient Street Lighting System By 2022
 
@@ -27,7 +28,7 @@ LTA will also develop a Remote Control and Monitoring System (RCMS) to allow str
 
 Besides the RCMS, the Government Technology Agency will leverage LTA’s smart lighting infrastructure to test the feasibility of deploying a shared network for low bandwidth wireless sensors. As part of our Smart Nation initiative, interconnected lampposts are envisioned to be a key part of our national sensor communications network. Besides tapping on the existing public lighting infrastructure, this trial will involve the private sector working with the government and enable smart, connected sensors and objects to deliver more efficient and smarter services to benefit citizens.
 
-[Press release issued by Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/1/2/smarter-and-more-energy-efficient-street-lighting-system-by-2022.html)
+Press release issued by Land Transport Authority.
 
 ----------
 

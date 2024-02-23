@@ -8,6 +8,7 @@ description: Imagine a day when your family car drives your children to school,
   may not be as farfetched as you think, thanks to self-driving autonomous
   vehicles (AVs)!
 image: /images/initiatives/gbtb-auto-rider-night.jpeg
+variant: markdown
 ---
 # Driving Into the Future
 ![Self driving illustration](/images/initiatives/self-driving-vehicle-lta.jpg)
@@ -34,32 +35,18 @@ Ongoing trials allow us to study the potential of autonomous vehicles, and you c
 A* STAR’s self-driving vehicle was the first autonomous vehicle approved for public road testing at one-north in July 2015. This iconic vehicle has ferried Prime Minister Lee Hsien Loong and Cabinet ministers such as S. Iswaran, Vivian Balakrishnan as well as ministers from other countries.
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/cUDgTRxP4ks" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/cUDgTRxP4ks" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
@@ -116,9 +103,7 @@ For the next phase, they will be guided by satellite. The aim is to have them ev
 <div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
 
 <div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
-	<ul>
-		<li><a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/3/2/factsheet-leveraging-technology-for-a-smarter-and-greener-transport-system.html" target="_blank">Factsheet: Leveraging Technology for a Smarter and Greener Transport System</a></li>
-		<li><a href="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/autonomous_vehicles.html" target="_blank">LTA: Autonomous Vehicles</a></li>
+	<ul><li><a href="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/autonomous_vehicles.html" target="_blank">LTA: Autonomous Vehicles</a></li>
 	</ul>
 
 

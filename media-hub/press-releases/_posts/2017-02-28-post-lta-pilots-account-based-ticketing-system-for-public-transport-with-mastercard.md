@@ -2,6 +2,7 @@
 title: LTA Pilots Account-based Ticketing System for Public Transport with MasterCard
 date: 2017-02-28
 permalink: /media-hub/press-releases/lta-pilots-account-based-ticketing-system-for-public-transport-with-mastercard/
+variant: markdown
 ---
 ## LTA Pilots Account Based Ticketing System For Public Transport With Mastercard
 
@@ -23,4 +24,4 @@ Ms Deborah Heng, Country Manager of Mastercard Singapore, said, “Apart from us
 
 [^1]: Cardholders accepted onto the pilot may visit the TransitLink ABT Portal
 
-[Press release issued by Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/2/2/joint-news-release-by-the-land-transport-authority-lta-mastercard---lta-pilots-account-based-ticketing-system-for-publi.html)
+Press release issued by Land Transport Authority.
