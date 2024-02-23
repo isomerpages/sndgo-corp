@@ -3,6 +3,7 @@ title: More Convenience with Parking.sg App When It Is Available for Download on
   1 October 2017
 date: 2017-09-29
 permalink: /media-hub/press-releases/more-convenience-with-parkingsg-app-when-it-is-available-for-download-on-1-october-2017/
+variant: markdown
 ---
 ## More Convenience With Parkingsg App When It Is Available For Download On 1 October 2017
 
@@ -34,4 +35,4 @@ For more information on Parking.sg app and the steps on how to use it, please vi
 
 [^1]:  Motorists need not use the Parking.sg app for short term parking at car parks implemented with the Electronic Pricing System (EPS).
 
-[Jointly Issued By Urban Redevelopment Authority, Housing & Development Board And Government Technology Agency Of Singapore.](https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/more-convenience-with-parkingsg-app)
+Jointly Issued By Urban Redevelopment Authority, Housing & Development Board And Government Technology Agency Of Singapore.
