@@ -2,6 +2,7 @@
 title: On-Road Testing of Autonomous Vehicles to Expand Beyond one-north
 date: 2017-06-23
 permalink: /media-hub/press-releases/on-road-testing-of-autonomous-vehicles-to-expand-beyond-one-north/
+variant: markdown
 ---
 ## On Road Testing Of Autonomous Vehicles To Expand Beyond One North
 
@@ -23,4 +24,4 @@ Under the Road Traffic Act, LTA is empowered to regulate AV trials to safeguard 
 
 [Annex A: Map of the expanded AV test bed (910kb)](/files/press-releases/2017/20170623-av-map-expanded-test-bed-annex-a.pdf)
 
-[Press release issued by Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/6/2/on-road-testing-of-autonomous-vehicles-to-expand-beyond-one-north.html)
+Press release issued by Land Transport Authority.
