@@ -2,6 +2,7 @@
 title: Yuhua the First Existing HDB Estate to Go Smart
 date: 2015-07-28
 permalink: /media-hub/press-releases/yuhua-the-first-existing-hdb-estate-to-go-smart/
+variant: markdown
 ---
 ## Yuhua The First Existing HDB Estate To Go Smart
 
@@ -62,4 +63,4 @@ For example, sensors can map out the usual patterns of common services, such as 
 
 HDB CEO, Dr Cheong Koon Hean said, “This real-time test bed at Yuhua is a milestone in Singapore’s journey towards becoming a Smart nation. We want to bring the smart solutions to HDB residents, into their homes and into their neighbourhood. They will see that smart technologies are not some high-tech invention, but real-life solutions that can make their lives easier and better. Some of these smart solutions will come in very handy to help them in their daily living. With this test-bed, we hope to seek residents’ views and suggestions on how the smart solutions can be refined to better integrate with their day-to-day living. Technology can help create a more liveable, efficient, sustainable and safe living environment for our residents.”
 
-[Press release issued by Housing & Development Board](https://www.hdb.gov.sg/about-us/news-and-publications/press-releases/yuhua-the-first-existing-hdb-estate-to-go-smart)
+Press release issued by Housing &amp; Development Board.
