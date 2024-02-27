@@ -23,6 +23,6 @@ The Smart Nation Group, part of the <a href="https://www.pmo.gov.sg/" target="_b
 	<ul>
 		<li><a href="/about-smart-nation/vision-mission">Our Vision and Mission</a></li>
 <li><a href="/about-smart-nation/ministerial-committee">SNDGG Ministerial Committee</a></li><a href="/about-smart-nation/ministerial-committee">
-</a><li><a href="/about-smart-nation/ministerial-committee"></a><a href="/about-smart-nation/senior-management/">SNDGO Senior Management</a></li>
+</a><li><a href="/about-smart-nation/ministerial-committee"></a><a href="/about-smart-nation/senior-management/">SNG Senior Management</a></li>
 	</ul>
 </div>
