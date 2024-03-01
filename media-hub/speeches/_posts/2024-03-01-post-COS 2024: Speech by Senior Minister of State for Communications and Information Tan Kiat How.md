@@ -77,4 +77,76 @@ be done manually and was tedious, time-consuming and error prone. After
 adopting this tool, Ghows saw a 50% productivity improvement and less errors.</p>
 <p>We will progressively refresh all IDPs to include sector-specific AI solutions,
 so that enterprises can benefit from these useful solutions.</p>
+<p>Ms Tin asked about CTO-as-a-Service (CTOaaS) platform. Over 92,000 users
+have accessed resources from the CTO-as-a-Service platform and over 1,600
+SMEs have benefited from the digital consultancy services.</p>
+<p>One example is food services company, Xi Men Jie (西门街). The company was
+overwhelmed by the numerous tech solutions in the market. The team turned
+to a digital consultant under the CTO-as-a-Service scheme for help to integrate
+their digital systems. The company achieved 15% in both manpower savings
+and sales growth.</p>
+<p>I encourage all SMEs to tap on these schemes.</p>
+<p>For enterprises who want to do more, we are supporting them through our
+Advanced Digital Solutions scheme, which helps bring together the tech
+ecosystem to curate solutions for key problems identified by sector leads.</p>
+<p>We also launched two new schemes for enterprises to gain experience using
+generative AI.</p>
+<p>The first is a programme by IMDA and EnterpriseSG to provide a pilot group
+of SMEs with access to 13 specially curated generative AI solutions for
+common business functions like Marketing and Sales.</p>
+<p>If these Gen AI solutions prove useful, we will include them in the SMEs
+Go Digital pre-approved list of digital solutions to benefit others.</p>
+<p>Now for the second scheme. For larger and more digitally mature enterprises
+looking to develop and deploy their own Gen AI digital solutions in their
+businesses.</p>
+<p>IMDA is launching a new initiative called Generative AI X (pronounced
+‘for’) Digital Leaders where tech partners, including tech giants, will
+work with participating enterprises to help them develop and implement
+innovative generative AI solutions.</p>
+<p>We have already seen early interest from enterprises, and we welcome more
+to sign up for this initiative.</p>
+<p>Let me move on to the second thrust – supporting our enterprises to scale
+faster.</p>
+<p>In our consultations, SMEs shared that as they started to grow, they realised
+that they were constrained by lack of interoperability and scalability
+of their digital solutions.</p>
+<p>For example, Bread Createur, a food services SME had adopted various sales
+channels and delivery platforms over time. However, they found themselves
+unable to collate orders automatically and track sales figures across their
+third-party delivery platforms and sales channels. What was an inconvenience
+for a small operation quickly turned into a showstopper when they grew.</p>
+<p>Such stove-piped solutions also prevent enterprises from harnessing the
+full potential of digital, including deriving business insights from data
+analytics.</p>
+<p>We will step up our effort to (a) include more integrated digital solutions
+under the SMEs Go Digital programme, (b) stipulate inter-operability requirements
+where possible for these solutions, and (c) encourage more of these solutions
+to be cloud native for greater scalability.</p>
+<p>Where integrated solutions are not available in the market, we will curate
+such solutions through the Advanced Digital Solutions scheme.</p>
+<p>An example is the Connected Business Suite solution available to Food
+Services SMEs. It enabled these SMEs to operate their frontend and backend
+functions in an integrated manner.</p>
+<p>With this integrated solution, Bread Createur can easily track all their
+sales and transactions across different sales channels, including from
+third party orders that are routed directly to the kitchen.</p>
+<p>At this juncture, I must stress that technology is not the silver bullet,
+and integrated and scalable digital solutions would also require the sectors
+and enterprises to redesign processes and operations.</p>
+<p>Going forward, we will work closely with sector leads and associations
+to introduce more pre-approved integrated and cloud-based digital solutions
+to support our enterprises to scale quickly as they grow.</p>
+<p>Let me move to the third thrust - Be Safer.</p>
+<p>I am heartened to see that in CSA’s latest Cybersecurity Survey findings,
+75% of</p>
+<p>organisations were aware of the importance of cybersecurity.</p>
+<p>However, while enterprises are taking steps to improve their cyber hygiene,
+there is still much room for improvement.</p>
+<p>The same survey found that over 8 in 10 enterprises in Singapore encountered
+at least one cybersecurity incident in a year, almost all of them suffered
+negative business impacts.</p>
+<p>CSA also found that only 1 in 3 organisations implemented more than half
+of the 5 categories of cybersecurity measures under CSA’s Cyber Essentials
+certification scheme. Lack of knowledge on how to implement cybersecurity
+solutions was commonly cited as a challenge.</p>
 <p></p>
