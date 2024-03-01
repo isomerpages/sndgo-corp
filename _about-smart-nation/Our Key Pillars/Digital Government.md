@@ -60,10 +60,10 @@ The pandemic has given renewed impetus for government agencies to digitalise, in
 Reviewing KPIs regularly allows us to assess our performance and identify areas for improvement. Here are some statistics as of the end of 2023.
 
 * **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 &amp; above)*
-![Citizen Satisfaction with Government Digital Services](/images/abt-smart-nation/citizen_satisfaction_2022a.jpeg)
+![Citizen Satisfaction with Government Digital Services](/images/abt-smart-nation/citizen_satisfaction_2023.png)
 
 * **Business Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 &amp; above)*
-![Business Satisfaction with Government Digital Services](/images/abt-smart-nation/business_satisfaction_2022a.jpeg)
+![Business Satisfaction with Government Digital Services](/images/abt-smart-nation/business_satisfaction_2023.png)
 
 * **Government services that are completed digitally from end-to-end**
 ![Government services that can be completed digitally from end-to-end](/images/abt-smart-nation/end_to_end_digital_services_2021a.jpeg)
