@@ -40,7 +40,7 @@ consists of four zones:</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Health Appointment System</strong>
+<p><strong>Health Appointment System</strong> 
 <br>Lead agencies: OGP, Health Promotion Board (HPB)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +59,7 @@ illnesses.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GatherSG</strong>
+<p><strong>GatherSG</strong> 
 <br>Lead agency: GovTech</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,7 +145,7 @@ with disabilities (PWDs).</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Zone 3: Community Building and Engagement through Tech</u></strong>
+<p><strong><u>Zone 3: Community Building and Engagement through Tech</u></strong> 
 <br><em>The products in this zone exemplify how we leverage tech to bring communities together and to co-create with us.</em>
 </p>
 <table>
@@ -180,7 +180,7 @@ National Library and National Archives of Singapore.</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CrowdTaskSG &amp; Tech Kaki</strong>
+<p><strong>CrowdTaskSG &amp; Tech Kaki</strong> 
 <br>Lead agency: GovTech</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,7 +219,7 @@ members (also end-users) before rolling them out to the public.</p>
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hack for Public Good Prototypes (KampungSpirit, Simpler, Grandfather Road, and ReadLiao</strong>
+<p><strong>Hack for Public Good Prototypes (KampungSpirit, Simpler, Grandfather Road, and ReadLiao</strong> 
 <br>Lead agency: OGP</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,20 +254,20 @@ for senior citizens.</p>
 </tbody>
 </table>
 <p>
-<br>___________________________________________________________________________________________________________________</p>
+<br>________________________________________________________________________________________________________</p>
 <p>
 <br><strong>For media enquiries, please contact:</strong>
 </p>
-<p><strong>Shadrina Mohamad (Ms)</strong>
+<p><strong>Shadrina Mohamad (Ms)</strong> 
 <br>Manager, Communications and Engagement Division&nbsp;
 <br>Smart Nation Group, Prime Minister’s Office&nbsp;
 <br>Tel: 9669 1856&nbsp;
 <br>Email: shadrina_mohamad@pmo.gov.sg</p>
-<p><strong>Vithya Selvam (Ms)</strong>
+<p><strong>Vithya Selvam (Ms)</strong> 
 <br>Manager, Corporate Comms
 <br>Government Technology Agency
 <br>Email: vithya_selvam@tech.gov.sg</p>
-<p><strong>Shannen Ho (Ms)</strong>
+<p><strong>Shannen Ho (Ms)</strong> 
 <br>Senior Manager (Marketing)
 <br>Open Government Products
 <br>Tel: 8718 4638&nbsp;
