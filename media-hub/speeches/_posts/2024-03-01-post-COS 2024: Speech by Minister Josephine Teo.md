@@ -446,6 +446,7 @@ if we are to uphold quality journalism that supports the public good.</p>
 <p>I therefore seek Members’ support to sustain public investment in PSM
 entities to preserve our infrastructure of fact and maintain the high trust
 that our public has in public service media today.</p>
+<h3>Conclusion</h3>
 <p>Mr Chairman, with your permission, please allow me to conclude my remarks
 in Mandarin, returning to the topic of AI which I started with.</p>
 <p>人工智能 AI 将继续渗透世界各地及各个领域, 包括新加坡的社会和 经济。我们必须把握机遇,帮助国人和企业做好准备。为此,我今 天宣布了多项举措。</p>
