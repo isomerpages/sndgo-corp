@@ -31,6 +31,7 @@ of Smart Nation development:</p>
 <p>Third, safeguarding our infrastructure of fact.</p>
 </li>
 </ul>
+<h3>Leveraging technology to uplift our collective potential</h3>
 <p>During the Budget and COS debates thus far, no fewer than 15 MPs have
 mentioned AI developments in their speeches. Overall, they supported the
 more than S$1 billion committed over the next five years to catalyse AI
@@ -201,6 +202,7 @@ and technological developments in generative AI.</p>
 <p>More recently, Singapore led the development of the ASEAN Guide on AI
 Governance and Ethics, which was endorsed at the fourth ASEAN Digital Ministers’
 Meeting held here last month.</p>
+<h3>Upholding trust in the digital domain</h3>
 <p>I will now move on to the second theme of my speech: upholding trust in
 the digital domain.</p>
 <p>Both Ms Hany Soh and Mr Eric Chua asked how we maintain the human touch,
@@ -307,6 +309,7 @@ data and commercially sensitive data.</p>
 to share information on financial crime across international borders while
 complying with prevailing regulations. Mastercard is now studying the implementation
 of this in a commercial setting.</p>
+<h3>Safeguarding our infrastructure of fact</h3>
 <p>I now turn to the third and final theme in my speech: safeguarding our
 infrastructure of fact to uphold social cohesion. This infrastructure has
 several pillars.</p>
