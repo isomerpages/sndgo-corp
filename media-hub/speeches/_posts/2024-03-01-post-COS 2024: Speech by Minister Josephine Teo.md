@@ -7,7 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>Transcript of Speech by Minister for Communications and Information, Josephine Teo, at the Committee of Supply Debate on 1 March 2024</h2>
+<h2>Transcript of Speech by Minister for Communications and Information, Josephine Teo, at the Committee of Supply Debate</h2>
+<p><strong>1 March 2024</strong>
+</p>
 <p>Mr Chairman, I thank all Members for their cuts.</p>
 <p>A decade ago, we launched the Smart Nation initiative, with the vision
 for Singapore to be a nation where people live meaningful and fulfilled
