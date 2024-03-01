@@ -21,15 +21,15 @@ delivery of essential services, are governed by the Cybersecurity Act (“CS
 Act”). The CS Act is supplemented by relevant sector regulation (e.g.,
 CII in the telecommunications sector are additionally governed by the Telecommunications
 Act). Recent disruptions, such as the four-hour Equinix data centre outage
-on 14 Oct 2023, did not result from cyber- attacks but had nonetheless
-resulted in widespread disruption of banking services. Hence, it is necessary
-for the Government to go beyond the CS Act to enhance the resilience and
-security of other digital infrastructure and services that enterprises
-and citizens rely heavily on in our highly digitalised economy and society.
-While the risk of disruptions cannot be eliminated entirely, the Taskforce
-has been reviewing the evolving risk landscape, studying measures deployed
-by other countries which are similarly facing these issues, and developing
-measures suited to Singapore’s context.</p>
+on 14 Oct 2023, did not result from cyber-attacks but had nonetheless resulted
+in widespread disruption of banking services. Hence, it is necessary for
+the Government to go beyond the CS Act to enhance the resilience and security
+of other digital infrastructure and services that enterprises and citizens
+rely heavily on in our highly digitalised economy and society. While the
+risk of disruptions cannot be eliminated entirely, the Taskforce has been
+reviewing the evolving risk landscape, studying measures deployed by other
+countries which are similarly facing these issues, and developing measures
+suited to Singapore’s context.</p>
 <p>The DIA is one such measure that the Taskforce is developing. The DIA
 is intended to complement the Government’s other regulatory levers, such
 as the CS Act which focuses on mitigating cyber-related risks.[2] It will
