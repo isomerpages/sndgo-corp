@@ -55,3 +55,25 @@ _Tech-enabled experimentation is GovTech and OGP’s approach to driving innovat
 | -------- | -------- | -------- |
 | 8     | **Hack for Public Good Prototypes (KampungSpirit, Simpler, Grandfather Road, and ReadLiao**<br> Lead agency: OGP    |     Every year, for the entire month of January, OGP officers go through the iterative process of generating new ideas for products, conducting user research, and prototyping, with the end goal of showcasing working prototypes by the end of the month. Hack for Public Good also provides an opportunity for OGP officers to learn and develop new skills as they work to build new products. <br><br> This year’s Hack for Public Good hackathon, which involved officers from other agencies like GovTech and Smart Nation Group, saw many interesting prototypes:<br><br>    <b>● KampungSpirit </b>is a crowdsourcing platform that aims to raise money for items requested by social workers on behalf of individuals or families in need.<br><br>● <b>Simpler </b>is a Chrome extension to help students learn better by simplifying online research material and make reading easier for students.<br><br>● <b>Grandfather Road </b>is an interactive quiz designed to get Singaporeans with the deep and rich stories of our history through street signs.<br><br>● <b>ReadLiao </b>is an app that uses Optical Character Recognition (OCR) and Large Language Models (LLM) to transform the letter reading experience for senior citizens. |
 
+<br><br>
+_________
+   
+
+**For media enquiries, please contact:**
+
+**Shadrina Mohamad (Ms)**<br>
+Manager, Communications and Engagement Division&nbsp;
+<br>Smart Nation Group, Prime Minister’s Office&nbsp;
+<br>Tel: 9669 1856&nbsp;
+<br>Email: shadrina\_mohamad@pmo.gov.sg 
+
+**Vithya Selvam (Ms)**<br>
+Manager, Corporate Comms<br>
+Government Technology Agency<br>
+Email: vithya\_selvam@tech.gov.sg 
+
+**Shannen Ho (Ms)**<br>
+Senior Manager (Marketing)<br>
+Open Government Products<br>
+Tel: 8718 4638&nbsp;<br>
+Email: shannen@open.gov.sg
