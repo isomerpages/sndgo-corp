@@ -40,19 +40,19 @@ other matters in their moment of grief.</p>
 <hr>
 <p><strong>For media enquiries, please contact:</strong>
 </p>
-<p><strong>Farihah Zainal</strong>
+<p><strong>Farihah Zainal</strong> 
 <br>Manager, Communications &amp; Engagement
 <br>Smart Nation Group
 <br>HP: 9182 1894
 <br><a href="mailto:farihah_zainal@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farihah_zainal@pmo.gov.sg</a>
 </p>
-<p><strong>Adrian Chan</strong>
+<p><strong>Adrian Chan</strong> 
 <br>Assistant Director, Corporate Comms
 <br>GovTech
 <br>HP: 9100 4477
 <br><a href="mailto:adrian_chan@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adrian_chan@tech.gov.sg</a>
 </p>
 <hr>
-<p>[1] <a href="http://mylegacy.life.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mylegacy.life.gov.sg</a>
+<p>[1] <a href="http://mylegacy.life.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mylegacy.life.gov.sg</a> 
 <br>[2] About 90 per cent of bereaved families download the digital death
 certificates from My Legacy every month.</p>
