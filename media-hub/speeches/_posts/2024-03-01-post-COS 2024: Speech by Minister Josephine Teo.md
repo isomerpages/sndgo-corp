@@ -443,3 +443,13 @@ if we are to uphold quality journalism that supports the public good.</p>
 <p>I therefore seek Members’ support to sustain public investment in PSM
 entities to preserve our infrastructure of fact and maintain the high trust
 that our public has in public service media today.</p>
+<p>Mr Chairman, with your permission, please allow me to conclude my remarks
+in Mandarin, returning to the topic of AI which I started with.</p>
+<p>人工智能 AI 将继续渗透世界各地及各个领域, 包括新加坡的社会和 经济。我们必须把握机遇,帮助国人和企业做好准备。为此,我今 天宣布了多项举措。</p>
+<p>首先, 我们将推出新计划, 吸引全球最顶尖的人工智能创作者来到狮城, 与本地专家和学者合作, 让尖端技术在我国扎根。</p>
+<p>为了壮大我国的人工智能队伍, 在未来 5 年把这方面的专才增加到 1 万 5000 人,政府也将投入 2000 万元, 栽培本地的莘莘学子,
+为他们提供奖学金和海外实习机会。</p>
+<p>然而, 数码科技带来机遇的同时, 也带来一些风险。为此,我们将推出新的指导原则, 规范人工智能系统在使用个人资料时, 应遵守的规则。</p>
+<p>政府也在探讨一项新法令, 以加强我国的数码基础设施和服务的安全性, 让人们在使用数码科技时更加安心。</p>
+<p>一直以来, 我都提倡 “数码为先, 而不是数码唯一”。政府将继续为那些还未准备好上网的国民提供非数码选项。</p>
+<p>然而, 人工智能的发展势头不会放缓。新加坡政府将秉持具有前瞻性的治国理念, 并采取“以人为本”的方式, 落实各项计划。</p>
