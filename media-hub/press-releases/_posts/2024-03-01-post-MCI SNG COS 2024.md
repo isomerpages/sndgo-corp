@@ -25,7 +25,9 @@ variant: markdown
 
 * [Build for Good](/media-hub/press-releases/20240301c)
 
-* [MyLegacy@LifeSG](/media-hub/press-releases/20240301d)  
+* [MyLegacy@LifeSG](/media-hub/press-releases/20240301d)
+
+* [Digital Government Products Showcase](/media-hub/press-releases/20240301e)
 
 
 ### Infographics
@@ -35,4 +37,3 @@ variant: markdown
 * [The Latest in Our Smart Nation Journey - Exciting New Products and Services](/files/press-releases/2024/The_Latest_in_Our_Smart_Nation_Journey___Exciting_New_Products_and_Services.pdf) 
 
 * [AI Initiatives to Power Singapore's Economic Growth](/files/press-releases/2024/AI_initiatives_to_power_Singapore_s_economic_growth_.pdf)
-
