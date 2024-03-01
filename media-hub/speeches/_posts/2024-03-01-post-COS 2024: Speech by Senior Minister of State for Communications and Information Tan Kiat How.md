@@ -188,4 +188,101 @@ employees so we can make full use of that powerful engine. That is why
 each Industry Digital Plan does not only include a suite of curated digital
 solutions for enterprises, but also comes with a comprehensive list of
 relevant training courses for these digital tools.</p>
-<p></p>
+<p>For example, the retail IDP includes courses for employees to learn how
+to fully use social commerce solutions to generate more sales, including
+how to sell items on livestreams.</p>
+<p>IMDA has also worked with SkillsFuture Singapore to provide funding support
+for many of these courses. I encourage employers and workers to make full
+use of these schemes.</p>
+<p>Sufficient quality and quantity of tech talent is also crucial to realising
+our ambitions.</p>
+<p>Understandably, there have been concerns about prospects in the tech sector,
+given the layoffs by major technology companies, as raised by Ms Tin Pei
+Ling.</p>
+<p>Companies across the world have been right siting and right sizing their
+operations to prioritise new areas of growth, amid a more challenging economic
+climate. Unfortunately, this sometimes results in layoffs which can be
+very painful and distressing for those involved.</p>
+<p>Singapore is no exception and has similarly seen some layoffs by tech
+companies, which have largely impacted those in non-tech roles.</p>
+<p>Fortunately, Singapore remains as a key node in many of these tech company’s
+global strategies. As they deepen and expand their involvement in the region,
+we expect that demand for tech talent in Singapore will continue to grow.</p>
+<p>Currently, the demand for tech talent remains strong, with tech jobs across
+the economy accounting for a rising share of total employment, from 4.5%
+in 2018 to 5.2% in 2023.</p>
+<p>This was driven by demand from both the I&amp;C sector and non-I&amp;C
+sectors, with the latter accounting for around 57% of tech jobs in 2023.</p>
+<p>As more companies adopt digital, including using more advanced digital
+solutions like AI, we expect this will also fuel demand for tech talent.</p>
+<p>And these are good jobs for Singaporeans – university graduates of information
+and digital technologies courses continue to take home the highest median
+monthly starting pay at $5,500 per month.</p>
+<p>Ms Jessica Tan, Ms Tin Pei Ling, Mr Alex Yam and Mr Sharael Taha have
+asked about how we will ensure a steady pipeline of tech talent.</p>
+<p>Minister Josephine spoke earlier about efforts to develop a pipeline of
+AI talent and AI-equipped workers, including efforts to enhance the existing
+TechSkills Accelerator (TeSA) initiative, which to date has placed more
+than 17,000 locals into tech jobs and upskilled and reskilled more than
+231,000 professionals.</p>
+<p>We are also working hard to strengthen ITE and Polytechnic graduates’
+employment outcomes in tech, and provide more development pathways for
+them throughout their careers.</p>
+<p>IMDA set up the TeSA for ITE and Polytechnics Alliance (TIP Alliance)
+in 2022 to bring together like-minded partners – school leadership, tech
+industry associations and leading employers of tech manpower like NCS,
+Accenture, and ST Engineering, to come together to drive change.</p>
+<p>I am heartened that employers are changing their mindset and HR practices.
+Instead of just looking at academic qualifications, employers are giving
+sufficient weight to the applicants’ skills and capabilities to assess
+their suitability.</p>
+<p>To push for change across the industry, IMDA and the TIP Alliance launched
+the Skills-Based Hiring Movement, together with a handbook providing practical
+guidance for firms to attract, assess and develop tech talent based on
+competencies.</p>
+<p>Within three months, the number of companies pledging their support for
+skills-based hiring doubled from 100 to 200.</p>
+<p>Oracle is an example of a company that has pledged its support for the
+skills- based hiring movement and has been recruiting based on skills for
+their openings. As part of their commitment to this approach, their recruitment
+team has chosen not to highlight the education requirement in their job
+postings for all technical roles in Singapore.</p>
+<p>Accenture is another company that has adopted skills-based hiring. They
+adopted a rigorous multi-stage assessment focusing on skills, competencies,
+and growth potential, which proved to reduce Time-to-Hire by 75%, and increased
+quality talent pipelines by 40%.</p>
+<p>The skills-based hiring approach aligns with the shifts that we are making
+as part of Forward SG to embrace learning beyond grades and create diverse
+pathways.</p>
+<p>Schools are working to ensure students in tech gain more industry-relevant
+experience. For instance, the Information and Digital Technologies (IDT)
+schools in our ITE and Polytechnics have lengthened internship durations
+from 6 to 12 months.</p>
+<p>In 2023, more than 400 Polytechnic and ITE students undertook year-long
+internships to gain greater industry experience. We support companies who
+provide these year-long internships, by providing co-funding to cover the
+cost of training.</p>
+<p>Ms Queenie Ng is a beneficiary of this programme. While at Ngee Ann Polytechnic,
+she embarked on a year-long internship with OCBC as a full stack developer,
+working on dashboards and architecture projects to improve operational
+efficiency. Queenie found the scale of the projects to be eye-opening.
+In contrast to the smaller scale school projects, the internship exposed
+her to more complex systems and their interconnections. This experience
+expanded her understanding of the dynamic tech industry and the many exciting
+career paths it offers.</p>
+<p>人工智能让我们在现有的数码基础上更上一层楼。除了为我们的企业带来新的竞争优势, 也能提高员工的生产力 – 如虎添翼。因此,政府将协助企业,
+尤其是中小 企业和员工, 让他们掌握人工智能, 从中获益。</p>
+<p>到目前为止, 资媒局已经推出了 22 个产业数码化蓝图。该局接下来在更新蓝图时, 也会加入人工智能的部分。此外, 在中小企业数码化计划下,
+资媒局也会在当局预先批准的数码解决方案中, 纳入人工智能技术。如今, 有两成的数码解决方案是由人工智能推动的, 超过 3000 家中小企业已经从中受益。更重要的是,
+我们将会和各界合作, 策划相关的培训课程, 协助工友掌握技能, 与时俱进, 把握人工智能所带来的新机遇。</p>
+<p>Sir, Singapore does not have the natural advantages of many other economies.
+We do not have a sizable domestic market, a large local workforce to tap
+on, natural resources but we can well punch above our weight by being agile
+and making full use of technological enablers like digital and now AI.</p>
+<p>To continue enlarging opportunities for enterprises and creating good
+and exciting jobs for Singaporeans, we are building on a very strong foundation
+and the government will be a steadfast partner for enterprises and workers
+in the next phase of our digitalisation journey to uplift enterprises and
+workers in an age of AI. It will be an exciting journey, so I welcome more
+likeminded partners to work together with us and invite all enterprises
+and workers to join us on this exciting journey ahead. Thank you.</p>
