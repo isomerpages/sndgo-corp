@@ -86,13 +86,13 @@ matters— the wellness of their students.</p>
 <hr>
 <p><strong>For media enquiries, please contact:</strong>
 </p>
-<p><strong>Shannen Ho</strong>
+<p><strong>Shannen Ho</strong> 
 <br>Senior Manager (Marketing)
 <br>Open Government Products
 <br>HP: 8718 4638
 <br><a href="mailto:shannen@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shannen@open.gov.sg</a>
 </p>
-<p><strong>Farihah Zainal</strong>
+<p><strong>Farihah Zainal</strong> 
 <br>Manager, Communications &amp; Engagement
 <br>Smart Nation Group
 <br>HP: 9182 1894
