@@ -11,11 +11,13 @@ image: ""
 variant: tiptap
 ---
 <h2>Factsheet - MyLegacy@LifeSG</h2>
-<p>MyLegacy@LifeSG (“My Legacy”)[1] was launched in January 2020 to help
-citizens plan ahead for end-of-life matters in a seamless way. It integrates
-and streamlines related services across multiple government agencies, bringing
-them onto a single digital platform. Since its launch, My Legacy has received
-~720,000 unique visitors.</p>
+<p><strong>1 March 2024</strong>
+</p>
+<p><a href="http://mylegacy.life.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MyLegacy@LifeSG</a> (“My
+Legacy”)was launched in January 2020 to help citizens plan ahead for end-of-life
+matters in a seamless way. It integrates and streamlines related services
+across multiple government agencies, bringing them onto a single digital
+platform. Since its launch, My Legacy has received ~720,000 unique visitors.</p>
 <p>My Legacy provides Singaporeans with information and services to plan
 for key end- of-life matters such as CPF nomination, Lasting Power of Attorney
 (LPA), Advance Care Planning (ACP), and will making. As an example, it
@@ -29,7 +31,7 @@ an individual passes on or becomes mentally incapacitated.</p>
 next-of- kin to download the digital death certificate. It also provides
 information on post-death matters such as funeral arrangements and estate
 settlement to ease the administrative burden of post-death matters on bereaved
-family members. An average of 2,300 digital death certificates[2] are downloaded
+family members. An average of 2,300 digital death certificates[1] are downloaded
 from My Legacy every month, with a customer satisfaction score of 4.65
 out of 5.</p>
 <p>My Legacy will be further enhanced in the upcoming year. We will introduce
@@ -53,6 +55,5 @@ other matters in their moment of grief.</p>
 <br><a href="mailto:adrian_chan@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">adrian_chan@tech.gov.sg</a>
 </p>
 <hr>
-<p>[1] <a href="http://mylegacy.life.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mylegacy.life.gov.sg</a> 
-<br>[2] About 90 per cent of bereaved families download the digital death
+<p>[1] About 90 per cent of bereaved families download the digital death
 certificates from My Legacy every month.</p>
