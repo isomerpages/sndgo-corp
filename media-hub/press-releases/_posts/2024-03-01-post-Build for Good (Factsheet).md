@@ -11,6 +11,8 @@ image: ""
 variant: tiptap
 ---
 <h2>Factsheet - Build for Good</h2>
+<p><strong>1 March 2024</strong>
+</p>
 <p>Build for Good is a month-long hackathon organised by Open Government
 Products, for citizens to build solutions that tackle various problems
 in Singapore. The initiative empowers citizens to contribute and lead the
