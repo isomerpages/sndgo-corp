@@ -13,9 +13,9 @@ variant: markdown
 
 ### Speeches
 
-* Minister Josephine Teo
-* SMS Janil Puthucheary
-* SMS Tan Kiat How 
+* [Minister Josephine Teo](/media-hub/parliament/cos2024a)
+* [SMS Janil Puthucheary](/media-hub/parliament/cos2024b)
+* [SMS Tan Kiat How](/media-hub/parliament/cos2024c) 
 
 ### Factsheets
 
