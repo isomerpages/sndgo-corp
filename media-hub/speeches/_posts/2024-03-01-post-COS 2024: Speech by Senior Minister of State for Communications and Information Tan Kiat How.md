@@ -149,4 +149,43 @@ negative business impacts.</p>
 of the 5 categories of cybersecurity measures under CSA’s Cyber Essentials
 certification scheme. Lack of knowledge on how to implement cybersecurity
 solutions was commonly cited as a challenge.</p>
+<p>Ms Tin Pei Ling and Mr Xie Yao Quan asked how we will help SMEs improve
+their cyber resilience. We will flesh this out in the Digital Enterprise
+Blueprint. Let me give a broad sense of our three-tier approach.</p>
+<p>First, we will support SMEs in taking steps to improve their cyber hygiene.</p>
+<p>We will launch a cybersecurity health check tool for enterprises to assess
+their cyber hygiene, benchmark themselves against their industry peers
+and access resources for them to plug the gaps.</p>
+<p>Those who require more support can tap on the Chief Information Security
+Officer (CISO)-as-a-Service scheme to engage cybersecurity consultants
+to develop tailored cybersecurity health plans.</p>
+<p>Enterprises that are eligible can receive co-funding support to defray
+the cost for this service. 55 SMEs have benefitted from this scheme thus
+far.</p>
+<p>Second, we will go upstream and raise the cybersecurity standards of the
+digital systems used by our enterprises. This will especially benefit SMEs
+with no in-house cybersecurity resources. We will start with the pre-approved
+digital solutions under IMDA’s SMEs Go Digital programme.</p>
+<p>Thirdly, we will also work with sector-leads to develop industry-specific
+guidelines for cybersecurity. In healthcare, for example, CSA worked with
+MOH to develop cybersecurity guidelines to improve the security posture
+amongst healthcare providers.</p>
+<p>We will share more details in the DEB.</p>
+<p>Mr Chairman, I have spoken about the three thrusts of the Digital Enterprise
+Blueprint to uplift enterprises and workers in the Age of AI by Being Smarter,
+Scale Faster and Becoming Safer.</p>
+<p>Let me turn to how we are developing tech capabilities within our workforce.</p>
+<p>At the broader workforce level, more of us will need to be equipped with
+the right skills to effectively use digital tools in our work. With more
+rapid technological changes, we need to see reskilling and upskilling as
+part of our workplace culture and see this as a continual investment in
+ourselves.</p>
+<p>Employers must also view the reskilling and upskilling of their employees
+as investments so as to fully harness the capabilities of and benefit from
+their digital systems. An analogy would be like having a very powerful
+car but not being able to go beyond first gear, we need to upskill our
+employees so we can make full use of that powerful engine. That is why
+each Industry Digital Plan does not only include a suite of curated digital
+solutions for enterprises, but also comes with a comprehensive list of
+relevant training courses for these digital tools.</p>
 <p></p>
