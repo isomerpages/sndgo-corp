@@ -205,7 +205,7 @@ Meeting held here last month.</p>
 the digital domain.</p>
 <p>Both Ms Hany Soh and Mr Eric Chua asked how we maintain the human touch,
 amidst increasing digitalisation.</p>
-<p>Sir, Coincidentally, I spoke about it yesterday at MHA’s COS debate. The
+<p>Sir, coincidentally, I spoke about it yesterday at MHA’s COS debate. The
 reality is that there is no silver bullet. Digitalisation is taking place
 across multiple settings and changes our interactions with each other in
 so many ways. We will therefore have to feel our way forward and be willing
