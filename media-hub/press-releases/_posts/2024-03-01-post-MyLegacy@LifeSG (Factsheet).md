@@ -14,7 +14,7 @@ variant: tiptap
 <p><strong>1 March 2024</strong>
 </p>
 <p><a href="http://mylegacy.life.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MyLegacy@LifeSG</a> (“My
-Legacy”)was launched in January 2020 to help citizens plan ahead for end-of-life
+Legacy”) was launched in January 2020 to help citizens plan ahead for end-of-life
 matters in a seamless way. It integrates and streamlines related services
 across multiple government agencies, bringing them onto a single digital
 platform. Since its launch, My Legacy has received ~720,000 unique visitors.</p>
