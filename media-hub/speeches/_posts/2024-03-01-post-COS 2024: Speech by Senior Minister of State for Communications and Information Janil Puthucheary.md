@@ -9,7 +9,7 @@ image: ""
 variant: tiptap
 ---
 <h2>Transcript of Speech by Senior Minister of State for Communications and Information Janil Puthucheary, at the Committee of Supply Debate</h2>
-<p><strong>1 March 2024</strong>
+<p><strong>1 March 2024</strong> 
 <br>Thank you, Mr Chairman. I thank Members for their cuts and their questions.</p>
 <p>And today, I would like to take the opportunity to explain MCI’s approach
 towards Digital Government: how we need to create and we are creating effective
@@ -19,6 +19,7 @@ digital infrastructure, and research and development. All this so that
 Singapore is well-equipped to realise our Smart Nation ambitions.</p>
 <p>Sir, good Digital Government begins with understanding what citizens need
 and solving the problems that matter to them.</p>
+<h3>Creating effective digital products</h3>
 <p>Our most successful products are the result of asking the same question:
 what challenges do Singaporeans face?</p>
 <p>One example is RedeemSG. This lets residents claim and spend Government-issued
@@ -49,6 +50,7 @@ it: build prototypes quickly; test them out with real users; and scale
 the ideas which show promise. The problems Government has to tackle are
 challenging, and trying different things to figure out what works best
 is our best bet to solve these problems for Singapore.</p>
+<h3>Experimenting and embracing experimentation</h3>
 <p>Some of the ideas we experiment with will not work out. Let me provide
 one example; this was a product called MoneySound.</p>
 <p>The team had observed that it is sometimes difficult for hawkers, especially
@@ -93,6 +95,7 @@ to try to solve the same problem.</p>
 <p>And in doing so we are able to learn more about the needs and experiences
 of our users as they engage with our digital products. And the faster we
 learn, the faster we improve.</p>
+<h3>Being citizen-centric by looking at Singaporeans’ needs</h3>
 <p>Ms Jessica Tan asked how the push for digitalisation has improved Singaporeans’
 lives, as the Smart Nation initiative enters its tenth year. Between 2014
 and 2023, citizen satisfaction with Government services has improved from
@@ -185,6 +188,7 @@ services, getting this type of design correct makes a huge difference.
 Since 2023, we have used Purple A11y to make Government digital services
 more accessible. And it has also been directly integrated into the development
 for websites like MyCareersFuture, to ensure they are accessible.</p>
+<h3>Investing in digital infrastructure, and research and development</h3>
 <p>Sir, I have so far focused on digital products. But there is another aspect
 to the work that we have to pay some attention to. The infrastructure;
 the interconnected systems that must work together to make such products
