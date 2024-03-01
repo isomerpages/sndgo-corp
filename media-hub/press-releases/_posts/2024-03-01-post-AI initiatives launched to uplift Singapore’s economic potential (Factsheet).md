@@ -75,8 +75,8 @@ AI (GenAI) more accessible to SMEs to unlock productivity gains. For example,
 enterprises looking to experiment with GenAI can gain experience with curated
 GenAI solutions on the <a href="https://go.gov.sg/sme-gen-ai" rel="noopener noreferrer nofollow" target="_blank">GenAI Sandbox for SMEs.</a>
 </p>
-<p>For enterprises that are digitally more mature, IMDA has launched the <strong>Generative AI x Digital Leaders</strong> initiative
-to provide them with access to GenAI expertise and resources to better
-understand GenAI and further build their capabilities to implement customised
-GenAI applications with tech partners to meet their business needs. Refer
-to Annex D for more details of this initiative.</p>
+<p>For enterprises that are digitally more mature, IMDA has launched the <strong>Generative AI x Digital Leaders initiative </strong>to
+provide them with access to GenAI expertise and resources to better understand
+GenAI and further build their capabilities to implement customised GenAI
+applications with tech partners to meet their business needs. Refer to
+Annex D for more details of this initiative.</p>
