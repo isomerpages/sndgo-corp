@@ -296,3 +296,12 @@ them.</p>
 <p>PDPC has been developing these Advisory Guidelines through closed and
 open consultations through 2023. These guidelines have been finalised and
 will be published on 1 Mar 2024.</p>
+<hr>
+<p><strong>For media clarifications, contact:</strong>
+</p>
+<p><strong>Adam Osman</strong>
+<br>Senior Manager, Media Relations
+<br>Ministry of Communications and Information
+<br>HP: 9152 0163
+<br><a href="mailto:Adam_Osman@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Adam_Osman@mci.gov.sg</a>
+</p>
