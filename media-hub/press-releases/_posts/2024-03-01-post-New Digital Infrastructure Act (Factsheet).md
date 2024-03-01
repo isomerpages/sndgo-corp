@@ -9,6 +9,8 @@ image: ""
 variant: tiptap
 ---
 <h2>Factsheet - New Digital Infrastructure Act to enhance the resilience &amp; security of digital infrastructure and services</h2>
+<p><strong>1 March 2024</strong>
+</p>
 <p>At COS 2024, MCI announced that the inter-agency Taskforce on the Resilience
 and Security of Digital Infrastructure and Services (“Taskforce”) is studying
 the introduction of a Digital Infrastructure Act (DIA) to enhance the resilience
@@ -79,7 +81,7 @@ public’s daily lives) will also be consulted.</p>
 <hr>
 <p><strong>For media clarifications, contact:</strong>
 </p>
-<p><strong>Wu Fan</strong>
+<p><strong>Wu Fan</strong> 
 <br>Assistant Manager, Media Relations
 <br>Ministry of Communications and Information
 <br>HP: 9623 1977
