@@ -45,10 +45,11 @@ products and services.</p>
 <p>As an initial step to nurture a pool of top-tier AI Creators:</p>
 <p>a) The government will launch a new AI Visiting Professorship to attract
 world-class AI researchers to establish collaborations with Singapore.
-Refer to Annex A for more details.</p>
+Refer to <u>Annex A</u> for more details.</p>
 <p>b) The government will invest S$7 million into a new AI Accelerated Masters
 Programme in collaboration with local universities to build up our own
-pipeline of Singaporean AI researchers. Refer to Annex B for more details.</p>
+pipeline of Singaporean AI researchers. Refer to <u>Annex B</u> for more
+details.</p>
 <p>As for AI practitioners, we will level up and triple the pool of practitioners
 to 15,000 over 5 years to support growing AI demand. As an initial step
 towards this goal, the government will invest over $20 million to enhance
@@ -61,7 +62,7 @@ while the internships will provide students with opportunities to gain
 industry exposure and apply their knowledge and skills to solve real-world
 problems. This is in addition to the ramping up of our Continuous Education
 and Training programmes under our TeSA initiative to provide pathways for
-mid-careerists to transit to AI jobs. Refer to Annex C for more details.</p>
+mid-careerists to transit to AI jobs. Refer to <u>Annex C</u> for more details.</p>
 <h4>Enabler 2: Industry</h4>
 <p>On the industry front, MCI announced at COS 2023 that it would be developing
 a Digital Enterprise Blueprint (DEB) to chart the next bound of enterprise
@@ -78,5 +79,27 @@ GenAI solutions on the <a href="https://go.gov.sg/sme-gen-ai" rel="noopener nore
 <p>For enterprises that are digitally more mature, IMDA has launched the <strong>Generative AI x Digital Leaders initiative </strong>to
 provide them with access to GenAI expertise and resources to better understand
 GenAI and further build their capabilities to implement customised GenAI
-applications with tech partners to meet their business needs. Refer to
-Annex D for more details of this initiative.</p>
+applications with tech partners to meet their business needs. Refer to <u>Annex D</u> for
+more details of this initiative.</p>
+<h4>Enabler 3: Compute</h4>
+<p>Alongside programmes to prepare our people to reap benefits from AI, infrastructure
+must be put in place to power our AI activities. Specifically, Singapore
+needs reliable access to high-performance compute to facilitate AI innovation.</p>
+<p>To achieve this goal, an <strong>investment of up to $500 million will go towards availing high-performance compute</strong> to
+support AI innovation and capability building for a start, and catalyse
+further investments by industry. Refer to <u>Annex E</u> for more details.</p>
+<h4>Enabler 4: Trusted Environment</h4>
+<p>To enable AI adoption, we must develop a trusted environment in which
+there are effective safeguards to protect against the potential misuse
+of AI, and to ensure the technology is developed and deployed in a safe,
+trustworthy, and responsible manner.</p>
+<p>To this end, the Personal Data Protection Commission (PDPC) has finalised
+its Advisory Guidelines on the use of Personal Data in AI Recommendation
+and Decision Systems, and published it on 1 Mar 2024. Refer to Annex F
+for more details of these guidelines.</p>
+<p>Additionally, the PDPC also recognises that beyond such Traditional AI
+systems, the rise of Generative technologies also brings about new risks
+relating to the use of personal data. In this regard, the PDPC is also
+reviewing how to give guidance on the use of personal data in the context
+of training or as input in Generative AI applications.</p>
+<p></p>
