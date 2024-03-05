@@ -14,8 +14,8 @@ sections:
           description: Join us on our transformative journey
           url: /community/smart-nation-ambassadors
         - title: Pick Up New Tech Skills
-          description: Check out our webinars
-          url: https://together.smartnation.gov.sg/
+          description: "Check out our events "
+          url: https://www.digitalforlife.gov.sg/Learn/Events
   - infopic:
       title: 99% of our government services are digital from end to end!
       description: See how we have progressed as a Digital Government
