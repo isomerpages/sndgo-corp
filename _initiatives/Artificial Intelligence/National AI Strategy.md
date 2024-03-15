@@ -55,7 +55,7 @@ To propel ourselves further as leaders in the field AI, three key shifts from ou
 
 ### Goals of NAIS 2.0
 	
-Guided by the vision “AI for the Public Good, for Singapore and the World”, NAIS 2.0 focuses on two&nbsp;twin&nbsp;goals:
+Guided by the vision “AI for the Public Good, for Singapore and the World”, NAIS 2.0 seeks to attain the twin goals of:
 
 <br>
 
