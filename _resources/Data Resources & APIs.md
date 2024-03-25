@@ -54,10 +54,10 @@ Integrate with our Singpass APIs. Create a trusted digital ecosystem where data 
 
 Obtain latest data, key statistical findings, press releases and publications on key official statistics on Singapore. Data presented in infographics, charts and storyboards are also available on the SingStat website.
 
-### <a href="http://www.tablebuilder.singstat.gov.sg/publicfacing/mainMenu.action" target="_blank">SingStat Table Builder</a>
+### <a href="https://tablebuilder.singstat.gov.sg/" target="_blank">SingStat Table Builder</a>
 <div style="width:50%"><img src="/images/resources/singstat-table-builder.jpeg"></div>
 
-Access for free over 26,000 historical data series and more than 900 statistical tables from 60 public agencies providing a comprehensive and current statistical view of the key economic and socio-demographic characteristics of Singapore. Users are able to build customised data tables, plot graphs and charts, and export these tables and charts in different machine-readable file formats.
+The SingStat Table Builder facilitates access to over 2,200 data tables from 70 public sector agencies with over 90,000 data series, providing a comprehensive statistical view of Singapore's economic and socio-demographic domains. Users may customise data tables and download in different file formats. Multi-Table Downloads and APIs are also available for ease of data retrieval.
 
 ### <a href="https://www.nparks.gov.sg/treessg" target="_blank">TreesSG</a>
 <div style="width:50%"><img src="/images/resources/treesg.png"></div>
