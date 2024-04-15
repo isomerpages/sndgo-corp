@@ -52,4 +52,4 @@ variant: markdown
 
 ### Smart City of 2018
 
-Singapore was named [Smart City of 2018](/media-hub/press-releases/smart-city-2018) at the Smart City Expo World Congress. Dionosio González, Director of Advocacy &amp; Outreach at UITP, and a member of the World Smart City Awards 2018 honour jury, highlighted that Singapore came out strong for its clear strategy, its ability to implement digital initiatives nationwide, and its focus on placing citizens at the centre of its Smart Nation efforts.  
+Singapore was named [Smart City of 2018](/media-hub/press-releases/smart-city-2018) at the Smart City Expo World Congress. Dionosio González, Director of Advocacy &amp; Outreach at UITP, and a member of the World Smart City Awards 2018 honour jury, highlighted that Singapore came out strong for its clear strategy, its ability to implement digital initiatives nationwide, and its focus on placing citizens at the centre of its Smart Nation efforts.
