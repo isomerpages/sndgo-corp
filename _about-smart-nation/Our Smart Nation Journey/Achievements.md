@@ -34,6 +34,14 @@ variant: markdown
 
 *Source: [World Intellectual Property Organization (WIPO)](https://www.wipo.int/global_innovation_index/en/)*
 
+### Roland Berger Digital Inclusion Index 
+
+| Year | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+| -------- | -------- | -------- |-------- | -------- | -------- |-------- | -------- | -------- |
+| Rank | 1 | - | - | 1 | - | - | - | - |
+
+*Source: [Roland Berger GmbH](https://www.rolandberger.com/en/Insights/Publications/Bridging-the-digital-divide.html)*
+
 ### UN E-Government Development Index 
 
 | Year | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
@@ -42,13 +50,7 @@ variant: markdown
 
 *Source: [United Nations (UN)](https://publicadministration.un.org/egovkb/en-us/About/Overview/-E-Government-Development-Index)*
 
-### Roland Berger Digital Inclusion Index 
 
-| Year | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
-| -------- | -------- | -------- |-------- | -------- | -------- |-------- | -------- | -------- |
-| Rank | 1 | - | - | 1 | - | - | - | - |
-
-*Source: [Roland Berger GmbH](https://www.rolandberger.com/en/Insights/Publications/Bridging-the-digital-divide.html)*
 
 ### Smart City of 2018
 
