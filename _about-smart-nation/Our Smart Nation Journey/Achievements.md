@@ -18,6 +18,8 @@ variant: markdown
 
 *Source: [International Institute for Management Development](https://www.imd.org/smart-city-observatory/home/rankings/)*
 
+![IMD Smart City Index 2024 (Singapore is placed 5th in the ranking)](/images/abt-smart-nation/smart_city_index_2024.jpg)
+
 ### IMD World Digital Competitiveness Ranking 
 
 | Year | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
@@ -25,6 +27,8 @@ variant: markdown
 | Rank | - | - | 2 | 2 | 5 | 4 | 3 | - |
 
 *Source: [International Institute for Management Development](https://worldcompetitiveness.imd.org/rankings/digital)*
+
+![IMD Digital Competitiveness Ranking 2023 (Singapore is placed 3rd in the ranking)](/images/abt-smart-nation/digital_competitiveness_ranking_2023.jpg)
 
 ### WIPO Global Innovation Index 
 
@@ -34,6 +38,8 @@ variant: markdown
 
 *Source: [World Intellectual Property Organization (WIPO)](https://www.wipo.int/global_innovation_index/en/)*
 
+![WIPO Global Innovation Index 2023 (Singapore is placed 5th in the ranking)](/images/abt-smart-nation/global_innovation_index_2023.jpg)
+
 ### Roland Berger Digital Inclusion Index 
 
 | Year | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
@@ -41,6 +47,8 @@ variant: markdown
 | Rank | 1 | - | - | 1 | - | - | - | - |
 
 *Source: [Roland Berger GmbH](https://www.rolandberger.com/en/Insights/Publications/Bridging-the-digital-divide.html)*
+
+![Roland Berger Digital Inclusion Index 2020 (Singapore is placed 1st in the ranking)](/images/abt-smart-nation/digital_inclusion_index_2020.jpg)
 
 ### UN E-Government Development Index 
 
