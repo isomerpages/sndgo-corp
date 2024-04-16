@@ -18,8 +18,4 @@ variant: markdown
 	<div class="header" style="font-size:18px"><b>Smart Nation PlayScape</b></div><br><br>Located at the Science Centre, Smart Nation PlayScape aims to educate the public on tech trends in a simple, relatable and easy-to-digest manner.
 	<br><br></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;">  <a href="/community/showcases/builder"><img src="/images/community/builder/smart_nation_builder_12.jpeg"></a><br>
-     <div class="header" style="font-size:18px"><b>Smart Nation Builder</b></div><br><br>Designed as a roving showcase, the Smart Nation Builder is fitted with eight interactive game stations for members of the public to learn about our Smart Nation initiatives and digital government services
-	<br><br></div>	
-
 </div>
