@@ -2,10 +2,10 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Smart Nation and Digital Government Office
+agency_name: Smart Nation Group
 locations:
   - address:
-      - "109 North Bridge Road, "
+      - 109 North Bridge Road,
       - "#06-01 Funan O2 Office,"
       - Singapore 179097
     operating_hours:
@@ -17,12 +17,8 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: Enquiries@smartnation.gov.sg
+      - email: MCI_Connects@mci.gov.sg
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ambassadors@smartnation.gov.sg
-      - other: ""
-    title: Smart Nation Ambassadors
+feedback: https://form.gov.sg/64b8a6f6b963460012ce5641
 ---
