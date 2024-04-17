@@ -6,16 +6,6 @@ permalink: /
 sections:
   - hero:
       background: /images/transforming-sg-through-technology-website-cover-road.jpg
-      key_highlights:
-        - title: Report a Government Data Incident
-          description: Help safeguard our ICT systems
-          url: /about-smart-nation/secure-smart-nation/report-data-incident
-        - title: Become a Smart Nation Ambassador
-          description: Join us on our transformative journey
-          url: /community/smart-nation-ambassadors
-        - title: Pick Up New Tech Skills
-          description: Check out our events
-          url: https://www.digitalforlife.gov.sg/Learn/Events
   - infopic:
       title: We're the smartest city in Asia!
       description: Take a closer look at our accomplishments and milestones
@@ -37,5 +27,21 @@ sections:
       url: /community/showcases/overview
       image: /images/community/playscape/playscape_23.jpeg
       alt: PlayScape
+  - textcards:
+      title: Quick links
+      id: textcards
+      cards:
+        - title: Government Data Incident Reporting Platform
+          description: Help enhance government data security through incident reporting.
+          linktext: Report an incident
+          url: ""
+        - title: Digital for Life Movement
+          description: Explore opportunities for expanding your digital skills.
+          linktext: Learn more
+          url: ""
+        - title: Smart Nation Ambassador (SNA)
+          description: Volunteer with us to help the community embrace digital technologies.
+          linktext: Learn more
+          url: ""
 notification: ""
 ---
