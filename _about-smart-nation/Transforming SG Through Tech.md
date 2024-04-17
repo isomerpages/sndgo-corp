@@ -68,8 +68,6 @@ You can read about the initiatives we have to facilitate this culture of innovat
 
 Data sets collected by public agencies are now available and accessible to the public through online portals, making it easy for developers to co-create digital solutions to benefit society. 
 
-Click on the link to access the available [open data sets](/resources/open-data).
-
 ### Living Laboratory
 
 Research and innovation initiatives such as <a href="https://www.nrf.gov.sg/about-nrf/rie-ecosystem" target="_blank">Research, Innovation and Enterprise</a> and <a href="https://www.aisingapore.org/" target="_blank">AI Singapore</a> allow us to leverage emerging tech breakthroughs to drive our Smart Nation goals. Our Digital Economy is also an attractive hotbed for companies and researchers to develop, prototype and pilot their technological solutions.
