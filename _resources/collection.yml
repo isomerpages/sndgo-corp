@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Resources for residents.md
-      - Business Resources.md
+      - Resources for Businesses.md
       - Data Resources & APIs.md
       - Resources for Developers.md
