@@ -12,7 +12,7 @@ sections:
           url: /about-smart-nation
         - title: OUR INITIATIVES
           description: Discover the benefits of tech
-          url: /initiatives
+          url: /initiatives/strategic-national-projects/
         - title: OUR ACHIEVEMENTS
           description: Explore our accomplishments
           url: /about-smart-nation/our-journey/achievements/
