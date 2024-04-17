@@ -13,6 +13,9 @@ variant: markdown
        <div class="header" style="font-size:18px"><b>My Favourite Days AR Storybook</b>
 </div><br>
   </div> &nbsp; &nbsp; &nbsp; &nbsp; 
-     <div class="col" style="padding: 0px 20px 0px 20px;"> 
-</div><br>
-  </div>
+
+<div class="col" style="padding: 0px 20px 0px 20px;"> </div><br>
+
+<div class="col" style="padding: 0px 20px 0px 20px;"> </div><br>
+
+</div>
