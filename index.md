@@ -38,10 +38,6 @@ sections:
       title: Quick links
       id: textcards
       cards:
-        - title: Government Data Incident Reporting Platform
-          description: Help enhance government data security through incident reporting.
-          linktext: Report an incident
-          url: ""
         - title: Digital for Life Movement
           description: Explore opportunities for expanding your digital skills.
           linktext: Learn more
@@ -49,6 +45,10 @@ sections:
         - title: Smart Nation Ambassador (SNA)
           description: Volunteer with us to help the community embrace digital technologies.
           linktext: Learn more
+          url: ""
+        - title: Government Data Incident Reporting Platform
+          description: Help enhance government data security through incident reporting.
+          linktext: Report an incident
           url: ""
 notification: ""
 ---
