@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Opportunities & Help for the Community.md
       - Business Resources.md
       - Data Resources & APIs.md
       - Resources for Developers.md
