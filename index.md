@@ -9,7 +9,7 @@ sections:
       key_highlights:
         - title: OUR VISION
           description: Learn more about Smart Nation
-          url: /about-smart-nation
+          url: /about-smart-nation/transforming-singapore/
         - title: OUR INITIATIVES
           description: Discover the benefits of tech
           url: /initiatives/strategic-national-projects/
