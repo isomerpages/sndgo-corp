@@ -9,10 +9,10 @@ sections:
       key_highlights:
         - title: OUR VISION
           description: Learn more about Smart Nation
-          url: ""
+          url: /about-smart-nation
         - title: Our Initiatives
           description: Discover the benefits of tech
-          url: ""
+          url: /initiatives
   - infopic:
       title: We're the smartest city in Asia!
       description: Take a closer look at our accomplishments and milestones
@@ -41,14 +41,14 @@ sections:
         - title: Digital for Life Movement
           description: Explore opportunities for expanding your digital skills.
           linktext: Learn more
-          url: ""
+          url: https://www.digitalforlife.gov.sg/
         - title: Smart Nation Ambassador (SNA)
           description: Volunteer with us to help the community embrace digital technologies.
           linktext: Learn more
-          url: ""
+          url: /community/smart-nation-ambassadors/
         - title: Government Data Incident Reporting Platform
           description: Help enhance government data security through incident reporting.
           linktext: Report an incident
-          url: ""
+          url: /about-smart-nation/secure-smart-nation/report-data-incident/
 notification: ""
 ---
