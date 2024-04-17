@@ -10,9 +10,12 @@ sections:
         - title: OUR VISION
           description: Learn more about Smart Nation
           url: /about-smart-nation
-        - title: Our Initiatives
+        - title: OUR INITIATIVES
           description: Discover the benefits of tech
           url: /initiatives
+        - title: OUR ACHIEVEMENTS
+          description: Explore our accomplishments
+          url: /about-smart-nation/our-journey/achievements/
   - infopic:
       title: We're the smartest city in Asia!
       description: Take a closer look at our accomplishments and milestones
