@@ -1,9 +1,10 @@
 ---
-title: Business Resources
+title: Resources for Businesses
 permalink: /resources/business/
 description: Whether you’re just starting out or looking to expand your
   operations, we want to help you along this entrepreneurial journey.
 image: /images/og-image/smart-nation-og-image.jpg
+variant: tiptap
 ---
 Venturing into a new business or running an existing one can be fraught with challenges. However, there are also opportunities as Singapore and the world undergoes a digital transformation. 
 

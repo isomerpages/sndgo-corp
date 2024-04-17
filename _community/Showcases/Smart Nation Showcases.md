@@ -18,4 +18,6 @@ variant: markdown
 	<div class="header" style="font-size:18px"><b>Smart Nation PlayScape</b></div><br><br>Located at the Science Centre, Smart Nation PlayScape aims to educate the public on tech trends in a simple, relatable and easy-to-digest manner.
 	<br><br></div>
 
+<div class="col" style="padding: 10px 20px 10px 20px;"></div>	
+	
 </div>

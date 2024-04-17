@@ -1,6 +1,6 @@
 ---
-title: Opportunities & Help for the Community
-permalink: /community/opportunities/
+title: Resources for Residents
+permalink: /resources/residents/
 description: As Singapore moves towards becoming a Smart Nation, we want to make
   sure that everyone in our society joins us in this journey. Find out more
   about the Government initiatives available to assist the different groups of

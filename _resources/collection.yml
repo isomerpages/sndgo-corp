@@ -2,6 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Business Resources.md
-      - Data Resources & APIs.md
+      - Resources for Residents.md
+      - Resources for Businesses.md
       - Resources for Developers.md
