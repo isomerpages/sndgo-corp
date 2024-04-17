@@ -6,6 +6,13 @@ permalink: /
 sections:
   - hero:
       background: /images/transforming-sg-through-technology-website-cover-road.jpg
+      key_highlights:
+        - title: OUR VISION
+          description: Learn more about Smart Nation
+          url: ""
+        - title: Our Initiatives
+          description: Discover the benefits of tech
+          url: ""
   - infopic:
       title: We're the smartest city in Asia!
       description: Take a closer look at our accomplishments and milestones
