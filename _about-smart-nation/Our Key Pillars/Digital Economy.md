@@ -30,13 +30,25 @@ The digital landscape is evolving at an unprecedented rate and this rapid transf
 
 The&nbsp;[Digital Enterprise Blueprint](https://www.mci.gov.sg/digital-enterprise-blueprint/), co-created with key ecosystem stakeholders, sets out our ambition for the next bound of digitalisation and aims to establish Singapore as a nation of empowered enterprises and workers. We have identified&nbsp;four focus areas&nbsp;to help us achieve this:
 
-* Empower enterprises to&nbsp;be smarter&nbsp;by adopting AI-enabled solutions,
+* Empower enterprises to be smarter by adopting AI-enabled solutions,
 
-* Enable enterprises to&nbsp;scale faster&nbsp;through integrated digital solutions,
+* Enable enterprises to scale faster through integrated digital solutions,
 
-* Equip enterprises to&nbsp;be safer&nbsp;through improved cyber resilience, and
+* Equip enterprises to be safer through improved cyber resilience, and
 
 * Upskill Workers to make full use of digital capabilities.
+
+<div style="width:50%"> 
+ <a href="https://file.go.gov.sg/deb-report-2024.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital_enterprise_blueprint.png" alt="Digital Enterprise Blueprint">Digital Enterprise Blueprint (16mb)</a>
+</div>
+
+### Digital Connectivity Blueprint
+
+Singapore’s digital infrastructure is foundational to our vibrant, shared digital future. The [Digital Connectivity Blueprint](https://www.imda.gov.sg/how-we-can-help/digital-connectivity-blueprint) sets out our ambition to ensure that our digital infrastructure remains world-class and future ready. It represents Singapore’s commitment to stay ahead by growing our digital connectivity to create better lives and exciting opportunities for our people and enterprises.
+
+<div style="width:50%"> 
+ <a href="https://www.imda.gov.sg/-/media/imda/files/programme/digital-connectivity-blueprint/digital-connectivity-blueprint-report.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital_connectivity_blueprint.png" alt="Digital Connectivity Blueprint">Digital Connectivity Blueprint (6.1mb)</a>
+</div>
 
 
 
