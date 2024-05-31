@@ -6,7 +6,7 @@ image: /images/og-image/about-sndgg-og-image.jpg
 third_nav_title: About Us
 variant: markdown
 ---
-#   Senior Management
+# Senior Management
 
 <br>
 
