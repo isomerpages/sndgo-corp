@@ -20,7 +20,7 @@ Augustin Lee
 Sim Feng-Ji
 
 **Government Chief Digital Technology Officer**<br>
-Chan Cheow Hoe
+Goh Wei Boon
 
 **Deputy Government Chief Digital Technology Officer**<br>
 Dr He Ruimin
