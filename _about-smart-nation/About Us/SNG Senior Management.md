@@ -6,7 +6,7 @@ image: /images/og-image/about-sndgg-og-image.jpg
 third_nav_title: About Us
 variant: markdown
 ---
-#   Senior Management
+# Senior Management
 
 <br>
 
@@ -20,7 +20,7 @@ Augustin Lee
 Sim Feng-Ji
 
 **Government Chief Digital Technology Officer**<br>
-Chan Cheow Hoe
+Goh Wei Boon
 
 **Deputy Government Chief Digital Technology Officer**<br>
 Dr He Ruimin
