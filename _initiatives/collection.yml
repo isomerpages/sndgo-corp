@@ -2,9 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - Strategic National Projects/.keep
-      - Strategic National Projects/Our Strategic National Projects.md
-      - Strategic National Projects/E Payments.md
       - Artificial Intelligence/.keep
       - Artificial Intelligence/National AI Strategy.md
       - Artificial Intelligence/Be part of our AI Journey.md
