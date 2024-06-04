@@ -8,3 +8,8 @@ description: The Drowning Detection System at public swimming pools uses
 image: /images/initiatives/drowning_detection.jpg
 third_nav_title: Urban Living
 ---
+## Drowning Detection System at Public Pools
+
+We are conducting a pilot at our public swimming pools to use computer vision to detect possible drowning incidents.  The system helps to alert lifeguards so they can react faster to swimmers in distress and those in need.
+
+![Drowning Detection System](/images/initiatives/computer-vision-drowning-snsp.jpg)
