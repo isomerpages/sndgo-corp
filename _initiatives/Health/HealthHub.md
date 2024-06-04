@@ -1,12 +1,13 @@
 ---
 title: HealthHub
-permalink: /initiatives/health/healthhub/
+permalink: /initiatives/healthhub/
 third_nav_title: Health
-description: "HealthHub is a Singaporeans’ “digital healthcare companion”,
+description: HealthHub is a Singaporeans’ “digital healthcare companion”,
   providing one-stop access to their personal medical records, links to
   healthcare services and institutions and related information and tools so they
-  can take control of their health. "
+  can take control of their health.
 image: /images/initiatives/overview-pages/healthhub.png
+variant: tiptap
 ---
 # Your Health at Your Fingertips
 

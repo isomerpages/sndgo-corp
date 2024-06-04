@@ -1,13 +1,14 @@
 ---
 title: National Digital Identity
-permalink: /initiatives/strategic-national-projects/national-digital-identity/
-third_nav_title: Strategic National Projects
+permalink: /initiatives/national-digital-identity/
+third_nav_title: Digital Government Services
 description: As more Government services shift online, it is crucial we have a
   secure and easily accessible digital ecosystem in place. Singpass, the
   National Digital Identity (NDI) initiative, provides a convenient and secure
   platform for users - both citizens and businesses - to transact with the
   Government and other private service providers.
 image: /images/initiatives/singpass-05.jpeg
+variant: markdown
 ---
 # Creating Your Trusted Digital Identity 
 <br>

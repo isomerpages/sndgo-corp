@@ -1,11 +1,12 @@
 ---
 title: Project Pensieve
-permalink: /initiatives/health/project-pensieve/
+permalink: /initiatives/project-pensieve/
 description: Can technology help spot early signs of dementia? GovTech is
   piloting Project Pensieve, a screening tool that can detect signs of dementia
   by analysing a user’s drawings.
 third_nav_title: Health
 image: /images/initiatives/project-pensieve.jpg
+variant: tiptap
 ---
 # AI-driven digital drawing test to detect dementia
 ![Project Pensieve](/images/initiatives/project-pensieve.jpg)

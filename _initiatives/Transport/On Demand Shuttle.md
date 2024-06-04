@@ -1,11 +1,12 @@
 ---
 title: On Demand Shuttle
-permalink: /initiatives/transport/on-demand-shuttle/
+permalink: /initiatives/on-demand-shuttle/
 third_nav_title: Transport
 description: Imagine booking a self-driving vehicle on your smartphone. In just
   a few taps, you’ve arranged to be picked up at your doorstep and driven to the
   train station or bus stop you indicated. Sounds appealing?
 image: /images/initiatives/overview-pages/on-demand-shuttle.png
+variant: tiptap
 ---
 # Can Public Transport Be On Demand?
 <br>

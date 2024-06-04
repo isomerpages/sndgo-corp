@@ -1,14 +1,13 @@
 ---
 title: National Steps Challenge™ & Healthy 365 App
-permalink: /initiatives/health/national-steps-challenge/
+permalink: /initiatives/national-steps-challenge/
 third_nav_title: Health
-description: "National Steps Challenge™ is the world’s first population level,
+description: National Steps Challenge™ is the world’s first population level,
   fitness tracker-based physical activity initiative that encourages
-  Singaporeans to move more. "
+  Singaporeans to move more.
 image: /images/initiatives/healthy365_app_screenshot.png
+variant: tiptap
 ---
-
-
 # National Steps Challenge™ & Healthy 365 App
 
 ![Alt text for image on Isomer site](/images/initiatives/healthy-365.jpg)

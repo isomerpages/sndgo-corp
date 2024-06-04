@@ -1,6 +1,6 @@
 ---
 title: FinTech Sandbox
-permalink: /initiatives/business/fintech/
+permalink: /initiatives/fintech/
 third_nav_title: Business & Finance
 description: Financial technology, or FinTech, is evolving quickly and changing
   the way business is and will be done. As one of the world’s financial hubs,
@@ -8,9 +8,8 @@ description: Financial technology, or FinTech, is evolving quickly and changing
   Authority of Singapore (MAS) has this in mind as it develops a Smart Financial
   Centre.
 image: /images/og-image/smart-nation-pillars-og-image.jpg
+variant: tiptap
 ---
-
-
 # Pushing Boundaries with Singapore’s Very Own FinTech Sandbox
 ![Singapore's central business district](/images/initiatives/fintech-sandbox.jpg)
 

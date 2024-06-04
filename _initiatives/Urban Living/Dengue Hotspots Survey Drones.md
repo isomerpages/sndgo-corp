@@ -1,6 +1,6 @@
 ---
 title: Dengue Hotspots Survey Drones
-permalink: /initiatives/urban-living/dengue-hotspots-survey-drones/
+permalink: /initiatives/dengue-hotspots-survey-drones/
 third_nav_title: Urban Living
 description: Our region’s year-round warm climate and high humidity are ideal
   for the Aedes mosquito to breed rapidly. It has adapted particularly well to
@@ -10,8 +10,8 @@ description: Our region’s year-round warm climate and high humidity are ideal
   and predictable rate. And technology is being used to protect our people
   against this longstanding health risk.
 image: /images/initiatives/drone-with-camera-for-dengue-survey.jpg
+variant: tiptap
 ---
-
 # Survey Drones to Tackle Dengue
 
 ![Alt text for image on Isomer site](/images/initiatives/drone-with-camera-for-dengue-survey.jpg)

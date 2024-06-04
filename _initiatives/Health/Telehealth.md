@@ -1,12 +1,13 @@
 ---
 title: Telehealth
-permalink: /initiatives/health/telehealth/
+permalink: /initiatives/telehealth/
 third_nav_title: Health
 description: TeleHealth offers integrated, seamless medical care in the form of
   online medical consultations without having to go down to the healthcare
   institution in person. It allows better use of resources, greater efficiency
   and less stress for patients and healthcare providers alike.
 image: /images/initiatives/overview-pages/telehealth.png
+variant: tiptap
 ---
 # Medical Consultations in the Comfort of Your Own Home
 ![TeleHealth](/images/initiatives/telehealth.jpeg)

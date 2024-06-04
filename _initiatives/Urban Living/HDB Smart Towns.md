@@ -1,6 +1,6 @@
 ---
-title: Smart Towns
-permalink: /initiatives/urban-living/smart-towns/
+title: HDB Smart Towns
+permalink: /initiatives/hdb-smart-towns/
 third_nav_title: Urban Living
 description: ""
 image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png

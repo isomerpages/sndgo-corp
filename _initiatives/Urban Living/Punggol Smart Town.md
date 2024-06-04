@@ -1,11 +1,12 @@
 ---
 title: Punggol Smart Town
-permalink: /initiatives/strategic-national-projects/punggolst/
-third_nav_title: Strategic National Projects
+permalink: /initiatives/punggolst/
+third_nav_title: Urban Living
 description: Imagine a business park, university and community facilities
   conveniently located next to each other in one digital district. Sounds great,
   doesn’t it?
 image: /images/initiatives/pdd.jpeg
+variant: tiptap
 ---
 # Punggol Smart Town: Singapore’s Town for the Future
 <br>

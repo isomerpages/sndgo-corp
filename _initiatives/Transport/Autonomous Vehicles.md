@@ -1,6 +1,6 @@
 ---
 title: Autonomous Vehicles
-permalink: /initiatives/transport/autonomous-vehicles/
+permalink: /initiatives/autonomous-vehicles/
 third_nav_title: Transport
 description: Imagine a day when your family car drives your children to school,
   takes you to work and brings your elderly parents out to lunch—all by itself.

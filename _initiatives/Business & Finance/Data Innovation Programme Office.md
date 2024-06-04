@@ -1,11 +1,12 @@
 ---
 title: Data Innovation Programme Office
-permalink: /initiatives/business/dipo/
+permalink: /initiatives/dipo/
 third_nav_title: Business & Finance
 description: In Singapore, the Data Innovation Programme Office (DIPO) helps to
   facilitate this through industry-led Data Collaboratives. These collaboratives
   offer a stable, well-regulated sandbox to support innovation in the industry.
 image: /images/og-image/smart-nation-pillars-og-image.jpg
+variant: tiptap
 ---
 # Innovation at the Heart of our Economy
 ![Data innovation programme office](/images/initiatives/dipo.jpg)

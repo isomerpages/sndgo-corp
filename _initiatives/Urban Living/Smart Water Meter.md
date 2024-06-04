@@ -1,6 +1,6 @@
 ---
 title: Smart Water Meter
-permalink: /initiatives/urban-living/smartwatermeter/
+permalink: /initiatives/smartwatermeter/
 third_nav_title: Urban Living
 description: Collecting and analysing data on how we use water can go a long way
   towards helping us become more efficient with the precious resource.

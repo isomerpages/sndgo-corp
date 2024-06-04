@@ -1,13 +1,13 @@
 ---
 title: Smart Urban Planning
-permalink: /initiatives/urban-living/urban-planning/
+permalink: /initiatives/urban-planning/
 third_nav_title: Urban Living
-description: "The Urban Redevelopment Authority (URA), as our land-use planning
+description: The Urban Redevelopment Authority (URA), as our land-use planning
   and conservation authority, has harnessed digital innovations to plan and make
-  decisions based more on data. "
+  decisions based more on data.
 image: /images/initiatives/overview-pages/smart-nation-sensor-platform.png
+variant: tiptap
 ---
-
 # Using Data for Urban Planning
 
 ![Small Island, Big Needs](/images/initiatives/ura-1.jpg)

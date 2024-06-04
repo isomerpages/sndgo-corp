@@ -1,10 +1,11 @@
 ---
 title: ScamShield
-permalink: /initiatives/safe-digital-space/scamshield/
+permalink: /initiatives/scamshield/
 description: ScamShield is a product suite that defends against scams, and was
   developed by Open Government Products in collaboration with the Singapore
   Police Force (SPF) and the National Crime Prevention Council (NCPC).
 third_nav_title: Safe Digital Space
+variant: tiptap
 ---
 # Guard against scammers with ScamShield
 
@@ -30,6 +31,3 @@ The ScamShield Bot has 2 core features: 
 
 *   Check if a message or a call is a scam
 *   Report scams to the Singapore Police Force
-
-
-

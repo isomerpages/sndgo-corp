@@ -1,9 +1,10 @@
 ---
 title: Digital Birth and Death Certificates
-permalink: /initiatives/digital-government-services/digital-birth-and-death-certs/
+permalink: /initiatives/digital-birth-and-death-certs/
 description: From 29 May 2022, you may download digital birth and death certificates.
 third_nav_title: Digital Government Services
 image: /images/initiatives/digital-death-birth-cert.jpeg
+variant: tiptap
 ---
 ![](/images/initiatives/digital-death-birth-cert.jpeg)
 

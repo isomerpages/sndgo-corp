@@ -1,43 +1,29 @@
 ---
 title: OneService App
-permalink: /initiatives/urban-living/oneservice-app/
+permalink: /initiatives/oneservice-app/
 third_nav_title: Urban Living
-description: "The OneService App is a one-stop platform that lets citizens
+description: The OneService App is a one-stop platform that lets citizens
   feedback on municipal issues without having to figure out which Government
-  agency or town council to contact. "
+  agency or town council to contact.
 image: /images/initiatives/overview-pages/oneservice-app.png
+variant: tiptap
 ---
-
 # OneService App
 <br>
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/GXRsAPvy-xo" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/GXRsAPvy-xo" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
@@ -61,4 +47,4 @@ There are more than 350,000 users on the OneService app as of May 31, 2021. More
          <div style="flex:25%"><a href="https://play.google.com/store/apps/details?id=sg.gov.mnd.OneService" target="_blanket"><img alt="Google Play Store Link" src="/images/community/appstoreicon/google-play.png"></a>
           </div>
           <div style="flex:25%;"><a href="https://apps.apple.com/sg/app/oneservice/id947274394" target="_blanket"><img alt="Apple App Store Link" src="/images/community/appstoreicon/apple-store.png"></a>
-          </div>
+          </div></div>

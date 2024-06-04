@@ -1,6 +1,6 @@
 ---
 title: OneService Chatbot
-permalink: /initiatives/urban-living/oneservice-chatbot/
+permalink: /initiatives/oneservice-chatbot/
 third_nav_title: Urban Living
 description: The OneService Chatbot allows residents to easily report municipal
   issues on the go via WhatsApp and Telegram.
