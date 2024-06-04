@@ -89,17 +89,17 @@ Wondering how we've harnessed AI for the well-being of our citizens and business
 <div class="row">
 	
 <div class="col"> 
-<a href="/initiatives/health/project-pensieve/"><img src="/images/initiatives/project-pensieve.jpg" alt="Project Pensieve"></a><div style="font-size:18px;"><b><center>Project Pensieve</center></b></div><div style="font-size:18px; line-height:32px">Can technology help spot early signs of dementia? GovTech is piloting Project Pensieve, a screening tool that can detect signs of dementia by analysing a user’s drawings.
+<a href="/initiatives/project-pensieve/"><img src="/images/initiatives/project-pensieve.jpg" alt="Project Pensieve"></a><div style="font-size:18px;"><b><center>Project Pensieve</center></b></div><div style="font-size:18px; line-height:32px">Can technology help spot early signs of dementia? GovTech is piloting Project Pensieve, a screening tool that can detect signs of dementia by analysing a user’s drawings.
 		<br></div>
 </div>
 	
 <div class="col"> 
-<a href="/initiatives/health/selena-plus/"><img src="/images/initiatives/selena.jpeg" alt="SELENA+"></a><div style="font-size:18px;"><b><center>SELENA+</center></b></div><div style="font-size:18px; line-height:32px">Singapore Eye Lesion Analyser (SELENA+) is a deep-learning AI software system that can detect potential threatening eye conditions accurately and efficiently.
+<a href="/initiatives/selena-plus/"><img src="/images/initiatives/selena.jpeg" alt="SELENA+"></a><div style="font-size:18px;"><b><center>SELENA+</center></b></div><div style="font-size:18px; line-height:32px">Singapore Eye Lesion Analyser (SELENA+) is a deep-learning AI software system that can detect potential threatening eye conditions accurately and efficiently.
 <br></div>
 </div>
 	
 <div class="col"> 
-<a href="/initiatives/urban-living/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice_chatbot.jpg" alt="OneService Chatbot"></a><div style="font-size:18px;"><b><center>OneService Chatbot</center></b></div><div style="font-size:18px; line-height:32px">The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
+<a href="/initiatives/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice_chatbot.jpg" alt="OneService Chatbot"></a><div style="font-size:18px;"><b><center>OneService Chatbot</center></b></div><div style="font-size:18px; line-height:32px">The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
 </div>
 <br></div>
 	
