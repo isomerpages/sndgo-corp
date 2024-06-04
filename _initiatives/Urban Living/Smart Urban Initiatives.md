@@ -99,10 +99,6 @@ The initiatives below outline how we aim to achieve this.
 <br>
 </div>
 	
-
-	
-
-	
 </div>
 
 <div class="row">
