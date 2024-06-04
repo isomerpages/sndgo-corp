@@ -19,7 +19,7 @@ variant: markdown
             overflow: hidden;
             position: relative;
             padding-bottom: 56.25%;">
-        <iframe src="https://www.youtube.com/embed/BZg2Y903_OU" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
+        <iframe src="https://www.youtube.com/embed/SWYtVIp1cAM?si=_zbux3QioLtV665-" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
