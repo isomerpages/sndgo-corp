@@ -48,7 +48,7 @@ The initiatives below outline how we aim to achieve this.
 <div class="row">	
 	
 <div class="col"> 
-<a href="/initiatives/ems"><img src="/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
+<a href="/initiatives/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
 	<div class="header"><b>E-Payments</b></div><br>
 	<div class="para"> To make financial transactions more seamless and efficient for all, we’re constantly working towards a simple and secure platform that operates across various systems.
 </div>
