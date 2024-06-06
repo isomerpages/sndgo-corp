@@ -12,7 +12,7 @@ sections:
           url: /about-smart-nation/transforming-singapore/
         - title: OUR INITIATIVES
           description: Discover the benefits of tech
-          url: /initiatives/strategic-national-projects/
+          url: /initiatives/digital-government-services/
         - title: OUR ACHIEVEMENTS
           description: Explore our accomplishments
           url: /about-smart-nation/our-journey/achievements/
