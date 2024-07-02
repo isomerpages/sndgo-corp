@@ -8,7 +8,7 @@ description: As a foundational digital infrastructure, the national digital
   citizens, creating opportunities for businesses, and transforming the
   capabilities of government agencies.
 image: /images/initiatives/singpass-05.jpeg
-variant: tiptap
+variant: markdown
 ---
 <h2>Factsheet – Singpass (Singapore’s National Digital Identity)</h2>
 <p><strong>2 Mar 2022</strong>
