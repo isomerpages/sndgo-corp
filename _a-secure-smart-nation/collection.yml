@@ -2,9 +2,9 @@ collections:
   a-secure-smart-nation:
     output: true
     order:
-      - FAQs on Reporting Data Incidents.md
-      - Report Data Incident.md
-      - Government's Personal Data Protection Initiatives.md
-      - Government's Personal Data Protection Laws And Policies.md
-      - Cybersecurity in the Public Sector.md
       - Protecting Data & Safeguarding Systems.md
+      - Cybersecurity in the Public Sector.md
+      - Government's Personal Data Protection Laws And Policies.md
+      - Government's Personal Data Protection Initiatives.md
+      - Report Data Incident.md
+      - FAQs on Reporting Data Incidents.md
