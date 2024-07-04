@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - Our Vision and Mission.md
       - About Smart Nation Group.md
