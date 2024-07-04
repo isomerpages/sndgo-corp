@@ -59,10 +59,9 @@ Explore some of the major initiatives from our Smart Nation effort below.
 
 
 **AI Initiatives:**
-* [Model AI Governance Framework for Generative AI](https://aiverifyfoundation.sg/wp-content/uploads/2024/05/Model-AI-Governance-Framework-for-Generative-AI-May-2024-1-1.pdf) seeks to set forth a systematic and balanced approach to address generative AI concerns while facilitating innovation.
+* [Model AI Governance Framework for Generative AI](https://aiverifyfoundation.sg/wp-content/uploads/2024/05/Model-AI-Governance-Framework-for-Generative-AI-May-2024-1-1.pdf) seeks to set forth a systematic and balanced approach to address generative AI concerns while continuing to facilitate innovation. It requires all key stakeholders, including policymakers, industry, the research community and the broader public, to collectively do their part.
 * [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/) is an AI governance testing framework and software toolkit that validates the performance of AI systems against a set of internationally recognised principles through standardised tests, and is consistent with international AI governance frameworks such as those from European Union, OECD and Singapore.
-* [The Singapore Conference on AI (SCAI) Questions](https://go.gov.sg/scai-questions) are meant to be a holistic formulation of the challenges that should be addressed by the global AI community to allow humanity to flourish.
+* [The Singapore Conference on AI (SCAI) Questions](https://go.gov.sg/scai-questions) were conceptualised and written by the conference delegates, using a process designed to synthesise diverse views from experts. Each of the 12 SCAI Questions is envisioned to be a comprehensive articulation of a foundational, yet tractable area of AI development and/or deployment. The 12 SCAI Questions taken as a whole, are meant to be a holistic formulation of the challenges that should be addressed by the global AI community to allow humanity to flourish.
 
 **Digital Government Products:**
-* [Singpass](/initiatives/national-digital-identity/), the National Digital Identity (NDI) initiative, provides a convenient and secure platform for users - both citizens and businesses - to transact with the Government and other private service providers.
-
+* [Singpass](/initiatives/national-digital-identity/), Singapore's National Digital Identity (NDI) initiative, provides a convenient and secure platform for users - both citizens and businesses - to transact with the Government and other private service providers.
