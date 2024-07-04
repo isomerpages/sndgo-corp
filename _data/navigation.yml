@@ -6,6 +6,10 @@ links:
     collection: initiatives
   - title: A Smart Community
     collection: community
+  - title: A SECURE SMART NATION
+    collection: a-secure-smart-nation
+  - title: Resources
+    collection: resources
   - title: Careers
     url: /careers/join-sndgo
     sublinks:
@@ -17,9 +21,3 @@ links:
         url: /careers/smart-nation-fellowship
       - title: Careers in Gov ICT & SS
         url: https://techcareers.smartnation.gov.sg/
-  - title: Media Hub
-    resource_room: true
-  - title: Resources
-    collection: resources
-  - title: A SECURE SMART NATION
-    collection: a-secure-smart-nation
