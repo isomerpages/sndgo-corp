@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - SNDGG Ministerial Committee.md
       - Our Vision and Mission.md
       - About Smart Nation Group.md
