@@ -2,6 +2,7 @@ collections:
   about-smart-nation:
     output: true
     order:
+      - Milestones.md
       - Achievements.md
       - Transforming SG Through Tech.md
       - Culture of Innovation.md
