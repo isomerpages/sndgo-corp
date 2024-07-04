@@ -2,6 +2,7 @@ collections:
   about-smart-nation:
     output: true
     order:
+      - Achievements.md
       - Transforming SG Through Tech.md
       - Culture of Innovation.md
       - Our Key Pillars/.keep
