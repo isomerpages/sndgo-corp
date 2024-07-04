@@ -2,4 +2,5 @@ collections:
   a-secure-smart-nation:
     output: true
     order:
+      - Cybersecurity in the Public Sector.md
       - Protecting Data & Safeguarding Systems.md
