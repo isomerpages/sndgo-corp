@@ -2,5 +2,6 @@ collections:
   a-secure-smart-nation:
     output: true
     order:
+      - Government's Personal Data Protection Laws And Policies.md
       - Cybersecurity in the Public Sector.md
       - Protecting Data & Safeguarding Systems.md
