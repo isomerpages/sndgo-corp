@@ -1,4 +1,5 @@
 collections:
   a-secure-smart-nation:
     output: true
-    order: []
+    order:
+      - Protecting Data & Safeguarding Systems.md
