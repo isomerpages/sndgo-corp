@@ -2,6 +2,7 @@ collections:
   a-secure-smart-nation:
     output: true
     order:
+      - Report Data Incident.md
       - Government's Personal Data Protection Initiatives.md
       - Government's Personal Data Protection Laws And Policies.md
       - Cybersecurity in the Public Sector.md
