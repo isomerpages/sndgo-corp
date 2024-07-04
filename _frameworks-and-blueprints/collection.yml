@@ -1,0 +1,4 @@
+collections:
+  frameworks-and-blueprints:
+    output: true
+    order: []
