@@ -4,6 +4,8 @@ links:
     collection: about-smart-nation
   - title: Initiatives
     collection: initiatives
+  - title: Frameworks and Blueprints
+    collection: frameworks-and-blueprints
   - title: A Smart Community
     collection: community
   - title: A SECURE SMART NATION
@@ -21,5 +23,3 @@ links:
         url: /careers/smart-nation-fellowship
       - title: Careers in Gov ICT & SS
         url: https://techcareers.smartnation.gov.sg/
-  - title: Frameworks and Blueprints
-    collection: frameworks-and-blueprints
