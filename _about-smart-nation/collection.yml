@@ -2,6 +2,7 @@ collections:
   about-smart-nation:
     output: true
     order:
+      - Example Title.md
       - Transforming SG Through Tech.md
       - Our Key Pillars/.keep
       - Our Key Pillars/Pillars of a Smart Nation .md
