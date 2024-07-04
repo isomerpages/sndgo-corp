@@ -1,0 +1,8 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Join Us.md
+      - SNDGG Ministerial Committee.md
+      - Our Vision and Mission.md
+      - About Smart Nation Group.md

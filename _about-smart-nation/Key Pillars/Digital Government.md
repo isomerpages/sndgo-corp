@@ -4,7 +4,7 @@ permalink: /about-smart-nation/digital-government/
 description: Our vision of a Digital Government is “digital to the core, and
   serves with heart”.
 image: /images/og-image/smart-nation-pillars-og-image.jpg
-third_nav_title: Our Key Pillars
+third_nav_title: Key Pillars
 variant: markdown
 ---
 # Digital Government

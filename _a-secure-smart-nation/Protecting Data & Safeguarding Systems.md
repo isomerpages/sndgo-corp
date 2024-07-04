@@ -1,7 +1,6 @@
 ---
 title: Protecting Data & Safeguarding Systems
 permalink: /about-smart-nation/secure-smart-nation/
-third_nav_title: A Secure Smart Nation
 description: Cybersecurity and data security are key enablers of a Smart Nation.
   The Government is committed to ensuring the security of its systems, and the
   data that is entrusted to it by the public.

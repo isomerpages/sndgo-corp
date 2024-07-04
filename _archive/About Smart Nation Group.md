@@ -1,12 +1,11 @@
 ---
 title: About Smart Nation Group
-permalink: /about-smart-nation/sng/
+permalink: /archive/sng/
 description: The Smart Nation group, part of the Prime Minister’s Office and
   administered by the Ministry of Communications and Information (MCI), plays a
   multifaceted role in guiding Singapore's digital transformation and leading
   the development of Smart Nation strategies.
 image: /images/og-image/about-sndgg-og-image.jpg
-third_nav_title: About Us
 variant: markdown
 ---
 # Smart Nation Group

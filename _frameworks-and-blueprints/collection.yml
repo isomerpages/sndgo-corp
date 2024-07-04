@@ -1,0 +1,5 @@
+collections:
+  frameworks-and-blueprints:
+    output: true
+    order:
+      - Frameworks and Blueprints.md

@@ -4,7 +4,7 @@ permalink: /about-smart-nation/digital-economy/
 description: A Digital Economy takes advantage of the latest technology to
   digitalise processes and drive business growth.
 image: /images/og-image/smart-nation-pillars-og-image.jpg
-third_nav_title: Our Key Pillars
+third_nav_title: Key Pillars
 variant: markdown
 ---
 # Digital Economy

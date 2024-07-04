@@ -1,7 +1,6 @@
 ---
 title: Government's Personal Data Protection Initiatives
 permalink: /about-smart-nation/secure-smart-nation/personal-data-protection-initiatives/
-third_nav_title: A Secure Smart Nation
 description: Data security is a critical safeguard towards building a Smart
   Nation. Secure and effective use of data and digital solutions are important
   in policy-making, and in enabling the Government to deliver services to the

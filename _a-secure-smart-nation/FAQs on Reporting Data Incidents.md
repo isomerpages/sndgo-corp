@@ -1,13 +1,10 @@
 ---
 title: FAQs on Reporting Data Incidents
 permalink: /about-smart-nation/a-secure-smart-nation/rdi-faqs/
-third_nav_title: A Secure Smart Nation
 description: Got a question or need more help on reporting a government data
   incident? Check out our FAQs.
 image: /images/og-image/data-incident-reporting-platform-og-image.jpg
 ---
-
-
 # Frequently Asked Questions
 
 Got a question or need more help on reporting a government data incident? Check out our FAQs below.
