@@ -5,7 +5,7 @@ variant: markdown
 description: Frameworks and Blueprints to advance Singapore's Smart Nation vision.
 image: /images/og-image/smart-nation-og-image.jpg
 ---
-Click on the links below to learn more about the frameworks and blueprints driving Singapore's Smart Nation vision.
+Click on the links below to learn more about the frameworks and blueprints guiding Singapore's Smart Nation vision.
 
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
