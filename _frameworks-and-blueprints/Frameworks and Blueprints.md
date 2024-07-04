@@ -26,26 +26,26 @@ Click on the links below to learn more about the frameworks and blueprints aimed
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.imda.gov.sg/-/media/imda/files/sg-digital/sgd-framework-for-action.pdf"><img src="/images/abt-smart-nation/digital-economy-framework2.png" alt="Digital Economy Framework for Action"></a><br><div class="header"><b>Digital Economy Framework for Action (2018)</b></div><br>The Digital Economy Framework for Action guides our collective path forward in the digital economy.
+<a href="https://www.imda.gov.sg/-/media/imda/files/sg-digital/sgd-framework-for-action.pdf"><img src="/images/abt-smart-nation/digital-economy-framework2.png" alt="Digital Economy Framework for Action"></a><br><b>Digital Economy Framework for Action (2018)</b><br><br>The Digital Economy Framework for Action guides our collective path forward in the digital economy.
 	<br><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://file.go.gov.sg/deb-report-2024.pdf"><img src="/images/abt-smart-nation/digital_enterprise_blueprint.png" alt="Digital Enterprise Blueprint"></a><br><div class="header"><b>Digital Enterprise Blueprint (2024)</b></div><br>The Digital Enterprise Blueprint sets out our ambition for the next bound of digitalisation and aims to establish Singapore as a nation of empowered enterprises and workers in this digital age.
+<a href="https://file.go.gov.sg/deb-report-2024.pdf"><img src="/images/abt-smart-nation/digital_enterprise_blueprint.png" alt="Digital Enterprise Blueprint"></a><br><b>Digital Enterprise Blueprint (2024)</b><br><br>The Digital Enterprise Blueprint sets out our ambition for the next bound of digitalisation and aims to establish Singapore as a nation of empowered enterprises and workers in this digital age.
 	<br><br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.imda.gov.sg/-/media/imda/files/programme/digital-connectivity-blueprint/digital-connectivity-blueprint-report.pdf"><img src="/images/abt-smart-nation/digital_connectivity_blueprint.png" alt="Digital Connectivity Blueprint"></a><br><div class="header"><b>Digital Connectivity Blueprint (2023)</b></div><br>The Digital Connectivity Blueprint sets out Singapore's ambition to ensure that our digital infrastructure remains world-class and future ready.<br><br></div>
+<a href="https://www.imda.gov.sg/-/media/imda/files/programme/digital-connectivity-blueprint/digital-connectivity-blueprint-report.pdf"><img src="/images/abt-smart-nation/digital_connectivity_blueprint.png" alt="Digital Connectivity Blueprint"></a><br><b>Digital Connectivity Blueprint (2023)</b><br><br>The Digital Connectivity Blueprint sets out Singapore's ambition to ensure that our digital infrastructure remains world-class and future ready.<br><br></div>
 	
 </div>	
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.smartnation.gov.sg/files/publications/dgb-public-document_30dec20.pdf"><img src="/images/abt-smart-nation/digital_government_blueprint.jpg" alt="Digital Government Blueprint"></a><br><div class="header"><b>Digital Government Blueprint (2020)</b></div><br>The Digital Government Blueprint details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.
+<a href="https://www.smartnation.gov.sg/files/publications/dgb-public-document_30dec20.pdf"><img src="/images/abt-smart-nation/digital_government_blueprint.jpg" alt="Digital Government Blueprint"></a><br><b>Digital Government Blueprint (2020)</b><br><br>The Digital Government Blueprint details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.
 	<br><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://go.gov.sg/nais2023"><img src="/images/initiatives/Nais/national_ai_strategy_2_0_cover.jpg" alt="Singapore National AI Strategy 2.0"></a><br><div class="header"><b>Singapore National AI Strategy 2.0 (2023)</b></div><br>NAIS 2.0 outlines our vision for Singapore to be a place where AI serves as a force for good, and where we harness AI to uplift and empower our people and businesses. 
+<a href="https://go.gov.sg/nais2023"><img src="/images/initiatives/Nais/national_ai_strategy_2_0_cover.jpg" alt="Singapore National AI Strategy 2.0"></a><br><b>Singapore National AI Strategy 2.0 (2023)</b><br><br>NAIS 2.0 outlines our vision for Singapore to be a place where AI serves as a force for good, and where we harness AI to uplift and empower our people and businesses. 
 	<br><br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;"></div>
