@@ -11,15 +11,15 @@ Click on the links below to learn more about the frameworks and blueprints aimed
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.smartnation.gov.sg/files/publications/smart-nation-strategy-nov2018.pdf"><img src="/images/abt-smart-nation/sn_executive_summary.jpg" alt="Smart Nation: Executive Summary"></a><br><div class="header"><b>Smart Nation: Executive Summary (2018)</b></div><br>The Smart Nation Executive Summary serves as the guiding framework for our Smart Nation initiative.
+<a href="https://www.smartnation.gov.sg/files/publications/smart-nation-strategy-nov2018.pdf"><img src="/images/abt-smart-nation/sn_executive_summary.jpg" alt="Smart Nation: Executive Summary"></a><br><b>Smart Nation: Executive Summary (2018)</b><br><br>The Smart Nation Executive Summary serves as the guiding framework for our Smart Nation initiative.
 	<br><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.mci.gov.sg/files/dr%20blueprint.pdf"><img src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Digital Readiness Blueprint"></a><br><div class="header"><b>Digital Readiness Blueprint (2018)</b></div><br>The Digital Readiness Blueprint sets out recommendations for building Digital Readiness in Singaporeans.
+<a href="https://www.mci.gov.sg/files/dr%20blueprint.pdf"><img src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Digital Readiness Blueprint"></a><br><b>Digital Readiness Blueprint (2018)</b><br><br>The Digital Readiness Blueprint sets out recommendations for building Digital Readiness in Singaporeans.
 	<br><br></div>
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://www.imda.gov.sg/-/media/imda/files/infocomm-media-landscape/research-and-statistics/singapore-digital-society-report/singapore-digital-society-report-2023.pdf"><img src="/images/abt-smart-nation/digital_society_report_2023.jpg" alt="Digital Society Report"></a><br><div class="header"><b>Digital Society Report (2023)</b></div><br>The Digital Society Report tracks the state of digital society in Singapore over the years and recommends initiatives to build a more digitally inclusive society.<br><br></div>
+<a href="https://www.imda.gov.sg/-/media/imda/files/infocomm-media-landscape/research-and-statistics/singapore-digital-society-report/singapore-digital-society-report-2023.pdf"><img src="/images/abt-smart-nation/digital_society_report_2023.jpg" alt="Digital Society Report"></a><br><b>Digital Society Report (2023)</b><br><br>The Digital Society Report tracks the state of digital society in Singapore over the years and recommends initiatives to build a more digitally inclusive society.<br><br></div>
 	
 </div>
 
@@ -50,6 +50,4 @@ Click on the links below to learn more about the frameworks and blueprints aimed
 
 <div class="col" style="padding: 10px 20px 10px 20px;"></div>
 	
-</div>	
-
-
+</div>
