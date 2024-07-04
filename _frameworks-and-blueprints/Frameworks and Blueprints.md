@@ -51,3 +51,18 @@ Click on the links below to learn more about the frameworks and blueprints guidi
 <div class="col" style="padding: 10px 20px 10px 20px;"></div>
 	
 </div>
+
+## Featured Initiatives
+
+
+Explore some of the major initiatives from our Smart Nation effort below.
+
+
+**AI Initiatives:**
+* [Model AI Governance Framework for Generative AI](https://aiverifyfoundation.sg/wp-content/uploads/2024/05/Model-AI-Governance-Framework-for-Generative-AI-May-2024-1-1.pdf) seeks to set forth a systematic and balanced approach to address generative AI concerns while facilitating innovation.
+* [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/) is an AI governance testing framework and software toolkit that validates the performance of AI systems against a set of internationally recognised principles through standardised tests, and is consistent with international AI governance frameworks such as those from European Union, OECD and Singapore.
+* [The Singapore Conference on AI (SCAI) Questions](https://go.gov.sg/scai-questions) are meant to be a holistic formulation of the challenges that should be addressed by the global AI community to allow humanity to flourish.
+
+**Digital Government Products:**
+* [Singpass](/initiatives/national-digital-identity/), the National Digital Identity (NDI) initiative, provides a convenient and secure platform for users - both citizens and businesses - to transact with the Government and other private service providers.
+
