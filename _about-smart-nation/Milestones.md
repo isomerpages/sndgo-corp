@@ -3,6 +3,7 @@ title: Milestones
 permalink: /about-smart-nation/our-journey/milestones/
 description: See how we have progressed as a Smart Nation.
 image: /images/og-image/milsestones-og-image.jpg
+variant: markdown
 ---
 # Milestones of Singapore’s Smart Nation story
 ![Our Smart Nation Milestones](/images/abt-smart-nation/milestones.jpg)
@@ -34,6 +35,7 @@ Jump to...
 * [1990s](#1991)
 * [2000s](#2000)
 *  [2010s](#2011)
+*  [2020s](#2020)
 
 ## 1963
 The first mainframe computer was installed in the Central Provident Fund Board (CPFB) to automate the manual ledger accounting system that kept track of 1.6 million CPF members’ accounts. With the IBM 1401 system, CPF employees filled out punch cards with information on CPF members’ latest contributions and fed these to the mainframe computer to update the accounts.
@@ -165,6 +167,20 @@ The Monetary Authority of Singapore (MAS) and the Smart Nation and Digital Gover
 
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
+## 2023
+
+Singapore launched our second [National AI Strategy (NAIS 2.0)](/nais). NAIS 2.0 represents Singapore’s commitment to realise the benefits of AI and create exciting new opportunities. It outlines our vision for Singapore to be a place where AI serves as a force for good, harnessing AI to uplift and empower our people and businesses.
+
+The Ministry of Communications and Information and the Smart Nation Group, in partnership with the Topos Institute, organised the inaugural [Singapore Conference on AI](https://www.scai.gov.sg/), bringing together 42 distinguished experts from academia, industry, and government. Drawing on their diverse expertise, delegates explored and articulated critical questions about AI that, if answered, will enable its development and deployment for the betterment of society.
+
+[Return to top](#milestones-of-singapores-smart-nation-story)
+
+## 2024
+
+Following the merger of The Smart Nation and Digital Government Group (SNDGG) with the Ministry of Communications and Information (MCI)’s digital development functions in 2023, MCI was renamed the Ministry of Digital Development and Information (MDDI) to better reflect its role in driving our national digital agenda.
+
+[Return to top](#milestones-of-singapores-smart-nation-story)
+
 <br><br>
 
 <div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
@@ -174,3 +190,4 @@ The Monetary Authority of Singapore (MAS) and the Smart Nation and Digital Gover
 		<li><a href="/about-smart-nation/digital-government#the-progress-so-far">Digital Government: The progress so far</a></li>
 	</ul>
 </div>
+
