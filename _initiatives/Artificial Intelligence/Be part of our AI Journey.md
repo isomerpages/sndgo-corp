@@ -12,13 +12,9 @@ image: /images/og-image/smart-nation-pillars-og-image.jpg
 
 The success of our National AI Strategy depends on Singaporeans, businesses, researchers and the Government coming together to work closely towards our goals. We will also need to work with international partners to better make use of AI in Singapore.
 
-You can play a part in our future success by contributing through one of these four ways:
+You can play a part in our future success by contributing in the following ways:
 
-#### 1. Submit ideas and solutions for National AI Projects
-
-If you have any ideas, solutions or even proposals for new National AI projects, send them our way via this [form](https://form.gov.sg/#!/5dbbe22a895bd6001283542e).
-
-#### 2. Transform your business with AI
+#### 1. Transform your business with AI
 
 If your business is already using AI, you can take part in data sharing initiatives to promote the greater use of the tech and contribute to a trusted environment by adopting AI governance initiatives.
 
@@ -32,7 +28,7 @@ You can also take advantage of the following resources to kickstart or advance y
 - [Trusted Data Sharing Framework](https://www.imda.gov.sg/how-we-can-help/data-innovation/trusted-data-sharing-framework) guides companies in establishing data sharing partnerships and practices.
 - [Model AI Governance Framework](https://www.imda.gov.sg/AI) provides private sector organisations with a detailed and readily-implementable guide to address critical ethical and governance issues when using AI.
 
-#### 3. Participate in Singapore’s AI ecosystem
+#### 2. Participate in Singapore’s AI ecosystem
 As we transform our key sectors using AI, there will be many opportunities for businesses to research, develop and deploy such technologies in Singapore and the region.
 
 As a local or international investor, you can establish an AI team in Singapore and leverage our research ecosystem to enhance and validate new AI methodologies.
@@ -43,7 +39,7 @@ The Government supports your participation in our AI ecosystem with the followin
 - [Accelerated Initiative for AI](https://www.ipos.gov.sg/about-ip/patents/how-to-register/acceleration-programmes) helps shorten the patent grant process for businesses to as soon as six months.
 - [SGInnovate](https://www.sginnovate.com/) is one of the fastest-growing communities focused on fostering deep tech in Singapore. It organises talent development programmes, knowledge-sharing sessions and Open Innovation activities, which bring innovators and organisations to the same table as part of its Deep Tech for Good initiative.
 
-#### 4. Learn about AI
+#### 3. Learn about AI
 
 It’s crucial for every Singaporean to upgrade and improve our skills so that we can keep up with the advances of AI and be ready to take on the exciting jobs that are created.
 
