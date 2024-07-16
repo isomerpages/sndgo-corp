@@ -41,14 +41,16 @@ Click on the links below to learn more about the frameworks and blueprints guidi
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
 <div class="col" style="padding: 10px 20px 10px 20px;">
+<a href="https://www.csa.gov.sg/docs/default-source/csa/documents/publications/the-singapore-cybersecurity-strategy-2021.pdf"><img src="/images/abt-smart-nation/sg_cybersecurity_strategy.jpg" alt="Singapore Cybersecurity Strategy"></a><br><b>Singapore Cybersecurity Strategy (2021)</b><br><br>The Singapore Cybersecurity Strategy 2021 builds upon the first strategy launched in 2016, outlining Singapore’s updated goals and approach to adapt to a rapidly evolving strategic and technological environment.
+	<br><br></div>
+
+<div class="col" style="padding: 10px 20px 10px 20px;">
 <a href="https://www.smartnation.gov.sg/files/publications/dgb-public-document_30dec20.pdf"><img src="/images/abt-smart-nation/digital_government_blueprint.jpg" alt="Digital Government Blueprint"></a><br><b>Digital Government Blueprint (2020)</b><br><br>The Digital Government Blueprint details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.
 	<br><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;">
-<a href="https://go.gov.sg/nais2023"><img src="/images/initiatives/Nais/national_ai_strategy_2_0_cover.jpg" alt="Singapore National AI Strategy 2.0"></a><br><b>Singapore National AI Strategy 2.0 (2023)</b><br><br>NAIS 2.0 outlines our vision for Singapore to be a place where AI serves as a force for good, and where we harness AI to uplift and empower our people and businesses. 
+<a href="https://go.gov.sg/nais2023"><img src="/images/abt-smart-nation/nais2_cover.jpg" alt="Singapore National AI Strategy 2.0"></a><br><b>Singapore National AI Strategy 2.0 (2023)</b><br><br>NAIS 2.0 outlines our vision for Singapore to be a place where AI serves as a force for good, and where we harness AI to uplift and empower our people and businesses. 
 	<br><br></div>
-
-<div class="col" style="padding: 10px 20px 10px 20px;"></div>
 	
 </div>
 
