@@ -52,6 +52,6 @@ sections:
         - title: Government Data Incident Reporting Platform
           description: Help enhance government data security through incident reporting.
           linktext: Report an incident
-          url: /about-smart-nation/secure-smart-nation/report-data-incident/
+          url: https://mddi.gov.sg/government-data-incident-reporting-platform/
 notification: ""
 ---
