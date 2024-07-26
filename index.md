@@ -5,7 +5,7 @@ description: Transforming Singapore Through Technology
 permalink: /
 sections:
   - hero:
-      background: /images/transforming-sg-through-technology-website-cover-road.jpg
+      background: /images/transforming_sg_through_technology_website_cover_estate.jpg
       key_highlights:
         - title: OUR VISION
           description: Learn more about Smart Nation
