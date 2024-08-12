@@ -14,7 +14,7 @@ As Singapore moves towards becoming a Smart Nation, we want to make sure that ev
 
 ## Code For Fun
 
-The [Code for Fun](https://codesg.imda.gov.sg/code-for-fun/) Enrichment Programme (offered jointly by MOE and IMDA) aims to increase primary and secondary school students’ exposure to coding and computational thinking. Students learn computational thinking, coding concepts and emerging technology through engaging hands-on experiences, robotic kits and/or microcontrollers.
+The [Code for Fun](https://www.imda.gov.sg/how-we-can-help/code-for-fun) Enrichment Programme (offered jointly by MOE and IMDA) aims to increase primary and secondary school students’ exposure to coding and computational thinking. Students learn computational thinking, coding concepts and emerging technology through engaging hands-on experiences, robotic kits and/or microcontrollers.
 
 ## DigitalAccess@Home
 
