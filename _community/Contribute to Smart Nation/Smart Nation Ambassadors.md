@@ -84,7 +84,7 @@ To volunteer, sign up for your preferred activity at&nbsp;[volunteer.gov.sg](htt
 
 ![Smart Nation Ambassdors](/images/community/sna/sna-grp.jpg)
 
-Be sure to read our&nbsp;[FAQs](https://www.smartnation.gov.sg/community/smart-nation-ambassadors/faq)&nbsp;to clear up any questions or concerns you may have. If you have an exciting idea on how we can help each other in this digital journey, please write to us at&nbsp;[ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg). We want to hear from you!
+Be sure to read our&nbsp;[FAQs](https://www.smartnation.gov.sg/community/smart-nation-ambassadors/faq)&nbsp;to clear up any questions or concerns you may have. If you have an exciting idea on how we can help each other in this digital journey, please write to us at&nbsp;[smart_nation@mddi.gov.sg](mailto:smart_nation@mddi.gov.sg). We want to hear from you!
 
 For more updates on Smart Nation events,&nbsp;[follow us on Telegram](https://t.me/SmartNationAmbassadors).
 
