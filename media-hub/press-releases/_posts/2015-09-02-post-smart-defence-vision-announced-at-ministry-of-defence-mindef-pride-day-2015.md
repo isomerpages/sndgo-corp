@@ -2,6 +2,7 @@
 title: Smart Defence Vision Announced at Ministry of Defence (MINDEF) PRIDE Day 2015
 date: 2015-09-02
 permalink: /media-hub/press-releases/smart-defence-vision-announced-at-ministry-of-defence-mindef-pride-day-2015/
+variant: markdown
 ---
 ## Smart Defence Vision Announced At Ministry Of Defence Mindef Pride Day 2015
 
@@ -17,4 +18,4 @@ A total of 187 awards were presented to individuals, groups and units from MINDE
 
 The public is invited to visit the MINDEF PRIDE Day 2015 Exhibition, which is held at the Campus Centre, Building 2 of the Singapore University of Technology and Design from 2-4 Sep 2015, 9am to 5pm. The exhibition showcases a range of innovative projects contributed by individuals and teams from MINDEF, the SAF, and the Defence Science & Technology Agency.
 
-[Press release issued by MINDEF](https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2015/september/2015Sep02-News-Releases-02248)
+*Press release issued by MINDEF*
