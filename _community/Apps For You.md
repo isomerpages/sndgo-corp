@@ -5,6 +5,7 @@ description: Want to register your child’s birth, check on the weather, report
   municipal issues or borrow an audio book? There’s an app for that. Check them
   out here.
 image: /images/og-image/smart-nation-og-image.jpg
+variant: markdown
 ---
 ![Apps for you](/images/community/headerimages/apps-for-you.png)
 
@@ -125,9 +126,9 @@ Want to register your child’s birth, check on the weather, report municipal is
 	Crowdsource for help during medical emergencies or report fires to the Singapore Civil Defence Force with the MyResponder app. <br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/myresponder-life-saving-initiative/id983494391"><img src="/images/community/appstoreicon/apple-store.png" alt="Apple App Store Link"></a>
+         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/myresponder/id6478100813"><img src="/images/community/appstoreicon/apple-store.png" alt="Apple App Store Link"></a>
           </div>
-          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=sg.gov.scdf.RescuerApp"><img src="/images/community/appstoreicon/google-play.png" alt="Google Play Store Link"></a>
+          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/search?q=myresponder&amp;c=apps&amp;hl=en"><img src="/images/community/appstoreicon/google-play.png" alt="Google Play Store Link"></a>
           </div>
       </div>  
     <br></td>
