@@ -46,7 +46,7 @@ Our vision for a digital-first Singapore is one where a [Digital Government](/ab
 
 Led by the [Ministry of Digital Development and Information (MDDI)](https://www.mddi.gov.sg/), the Smart Nation initiative is our way forward, seamlessly integrating technology to transform how we work, live, and play.
 
-<div style="width:50%; padding: 30px 0px 20px 0px;"><a href="https://mddi.gov.sg/" target="new"><img src="/images/abt-smart-nation/mddi_logo.png" alt="MDDI"></a></div>
+<div style="width:75%; padding: 30px 0px 20px 0px;"><a href="https://mddi.gov.sg/" target="new"><img src="/images/abt-smart-nation/MDDI_LOGO.png" alt="MDDI"></a></div>
 
 <br><br>
 
