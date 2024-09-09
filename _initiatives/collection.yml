@@ -14,53 +14,53 @@ collections:
       - Business & Finance/Networked Trade Platform.md
       - Business & Finance/SGFinDex.md
       - Business & Finance/SGTraDex.md
-      - Digital Government Services/.keep
-      - Digital Government Services/Our Digital Government Services.md
-      - Digital Government Services/CentEx.md
-      - Digital Government Services/CrowdTaskSG.md
-      - Digital Government Services/Digital Birth and Death Certificates.md
-      - Digital Government Services/HDB Resale Portal.md
-      - Digital Government Services/LifeSG.md
-      - Digital Government Services/Multilingual Digital Services.md
-      - Digital Government Services/National Digital Identity.md
-      - Digital Government Services/OpenCerts.md
-      - Digital Government Services/Parents Gateway.md
-      - Digital Government Services/SG Translate Together.md
-      - Digital Government Services/SG Govt Developer Portal.md
-      - Health/.keep
-      - Health/Smart Health Initiatives.md
-      - Health/Assistive Technology and Robotics In Healthcare.md
-      - Health/HealthHub.md
-      - Health/National Steps Challenge™ & Healthy 365 App.md
-      - Health/Project Pensieve.md
-      - Health/Singapore Eye Lesion Analyser.md
-      - Health/Telehealth.md
-      - Safe Digital Space/.keep
-      - Safe Digital Space/Building Trust and Safety.md
-      - Safe Digital Space/ScamShield.md
-      - Safe Digital Space/SMS Sender ID Registry (SSIR).md
-      - Transport/.keep
-      - Transport/Smart Transport Initiatives.md
-      - Transport/Autonomous Vehicles.md
-      - Transport/CETRAN.md
-      - Transport/Contactless Fare Payment For Public Transport.md
-      - Transport/On Demand Shuttle.md
-      - Transport/Open Data & Analytics For Urban Transportation.md
-      - Urban Living/.keep
-      - Urban Living/Smart Urban Initiatives.md
-      - Urban Living/Dengue Hotspots Survey Drones.md
-      - Urban Living/Drowning Detection System.md
-      - Urban Living/Elderly Monitoring System.md
-      - Urban Living/Electronic Payments.md
-      - Urban Living/HDB Smart Towns.md
-      - Urban Living/Integrated Environmental Modeller.md
-      - Urban Living/myENV App.md
-      - Urban Living/OneService App.md
-      - Urban Living/OneService Chatbot.md
-      - Urban Living/Personal Alert Button.md
-      - Urban Living/Punggol Smart Town.md
-      - Urban Living/Smart Water Meter.md
-      - Urban Living/Smart Urban Planning.md
+      - Commuting and Travel/.keep
+      - Commuting and Travel/Smart Transport Initiatives.md
+      - Commuting and Travel/Autonomous Vehicles.md
+      - Commuting and Travel/CETRAN.md
+      - Commuting and Travel/Contactless Fare Payment For Public Transport.md
+      - Commuting and Travel/On Demand Shuttle.md
+      - Commuting and Travel/Open Data & Analytics For Urban Transportation.md
+      - Government Services/.keep
+      - Government Services/Digital Government Services.md
+      - Government Services/CentEx.md
+      - Government Services/CrowdTaskSG.md
+      - Government Services/Digital Birth and Death Certificates.md
+      - Government Services/HDB Resale Portal.md
+      - Government Services/LifeSG.md
+      - Government Services/Multilingual Digital Services.md
+      - Government Services/National Digital Identity.md
+      - Government Services/OpenCerts.md
+      - Government Services/Parents Gateway.md
+      - Government Services/SG Translate Together.md
+      - Government Services/SG Govt Developer Portal.md
+      - Healthy Living/.keep
+      - Healthy Living/Smart Health Initiatives.md
+      - Healthy Living/Assistive Technology and Robotics In Healthcare.md
+      - Healthy Living/HealthHub.md
+      - Healthy Living/National Steps Challenge™ & Healthy 365 App.md
+      - Healthy Living/Project Pensieve.md
+      - Healthy Living/Singapore Eye Lesion Analyser.md
+      - Healthy Living/Telehealth.md
+      - Safeguarding Citizens/.keep
+      - Safeguarding Citizens/Building Trust and Safety.md
+      - Safeguarding Citizens/ScamShield.md
+      - Safeguarding Citizens/SMS Sender ID Registry (SSIR).md
+      - Sustainable Living/.keep
+      - Sustainable Living/Smart Urban Initiatives.md
+      - Sustainable Living/Dengue Hotspots Survey Drones.md
+      - Sustainable Living/Drowning Detection System.md
+      - Sustainable Living/Elderly Monitoring System.md
+      - Sustainable Living/Electronic Payments.md
+      - Sustainable Living/HDB Smart Towns.md
+      - Sustainable Living/Integrated Environmental Modeller.md
+      - Sustainable Living/myENV App.md
+      - Sustainable Living/OneService App.md
+      - Sustainable Living/OneService Chatbot.md
+      - Sustainable Living/Personal Alert Button.md
+      - Sustainable Living/Punggol Smart Town.md
+      - Sustainable Living/Smart Water Meter.md
+      - Sustainable Living/Smart Urban Planning.md
       - Covid 19/.keep
       - Covid 19/Responding to COVID 19 with Tech.md
       - Covid 19/Digital Contact Tracing.md
