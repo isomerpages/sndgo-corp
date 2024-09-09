@@ -22,7 +22,7 @@ You can also take advantage of the following resources to kickstart or advance y
 
 - [SMEs Go Digital Programme](https://www.imda.gov.sg/programme-listing/smes-go-digital) provides sector-specific Industry Digital Plans (IDPs) that guide SMEs on the digital solutions they can adopt at each stage of their growth.
 - [AI Singapore’s 100 Experiments programme](https://aisingapore.org/industryinnovation/100e/) supports companies in deploying AI by using a co-investment model.
--  [AI Makerspace](https://makerspace.aisingapore.org/) is a national platform launched in 2019 that helps SMEs and start-ups kick off their AI journey.
+-  [AI Makerspace](https://connect.aisingapore.org/category/ai-makerspace/) is a national platform launched in 2019 that helps SMEs and start-ups kick off their AI journey.
 - [Digital Services Lab](https://www.imda.gov.sg) provides a suite of tools to help companies and developers build AI solutions and harness its benefits. 
 - [ASTAR’s T-UP programme](https://www.a-star.edu.sg/enterprise/innovation-offerings/programmes-for-smes/technology-for-enterprise-capability-upgrading) facilitates the secondment of A*STAR scientists and research engineers to work on SMEs’ R&amp;D projects for up to two years, helping these businesses build their tech capabilities and develop innovative products and services.
 - [Trusted Data Sharing Framework](https://www.imda.gov.sg/how-we-can-help/data-innovation/trusted-data-sharing-framework) guides companies in establishing data sharing partnerships and practices.
