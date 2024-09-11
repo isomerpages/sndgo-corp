@@ -21,7 +21,7 @@ sections:
       description: Take a closer look at our accomplishments and milestones
       button: Learn more about it here
       url: /about-smart-nation/our-journey/achievements
-      alt: IMD-SUTD Smart City Index 2021
+      alt: Top Smart Cities in Asia 2024
       image: /images/abt-smart-nation/top_smart_cities_2024.jpg
   - infopic:
       title: 99% of our government services are digital from end to end!
