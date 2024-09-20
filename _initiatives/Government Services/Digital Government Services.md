@@ -71,13 +71,7 @@ To empower citizens to live, work, play, interact and transact better with each 
 
 <div class="row">
 	
-<div class="col"> 
-<a href="/initiatives/national-digital-identity"><img src="/images/initiatives/singpass-website.jpeg" alt="National Digital Identity"></a><br>
-	<div class="header"><b>National Digital Identity (Singpass)</b></div><br>
-	<div class="para">Singpass, the National Digital Identity (NDI) initiative, provides a convenient and secure platform for users - both citizens and businesses - to transact with the Government and other private service providers.
-</div>
-<br>
-</div>		
+	
 	
 <div class="col"> 
 <a href="/initiatives/opencerts"><img src="/images/initiatives/overview-pages/opencerts.png" alt="OpenCerts"></a><br>
@@ -94,16 +88,18 @@ To empower citizens to live, work, play, interact and transact better with each 
 </div>
 	<br></div>
 	
-</div>	
-
-<div class="row">
-
 <div class="col">
 <a href="/initiatives/sg-translate-together/"><img src="/images/initiatives/sgtranslate-01.jpg" alt="SG Translate Together"></a><br>
     <div class="header"><b>SG Translate Together</b></div><br>
     <div class="para">SG Translate Together is a web portal that allows users to generate localised translations
 </div>
-	<br></div>
+	<br></div>	
+	
+</div>	
+
+<div class="row">
+
+
 	
 <div class="col">
 <a href="/initiatives/sg-govt-dev-portal/"><img src="/images/initiatives/sgdeveloperportal-01.jpg" alt="Singapore Government Developer Porta"></a><br>
@@ -111,6 +107,14 @@ To empower citizens to live, work, play, interact and transact better with each 
     <div class="para">A one-stop resource hub for government digital products and services.
 </div>
 	<br></div>
+	
+<div class="col"> 
+<a href="/initiatives/singpass"><img src="/images/initiatives/singpass-website.jpeg" alt="National Digital Identity"></a><br>
+	<div class="header"><b>Singpass</b></div><br>
+	<div class="para">Singpass, the National Digital Identity (NDI) initiative, provides a convenient and secure platform for users - both citizens and businesses - to transact with the Government and other private service providers.
+</div>
+<br>
+</div>	
 
 <div class="col"></div>	
 	
