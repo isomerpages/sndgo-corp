@@ -3,7 +3,7 @@ url: https://www.smartnation.gov.sg
 favicon: /images/sns-burst.ico
 colors:
   primary-color: "#e81c3a"
-  secondary-color: "#ff7d01"
+  secondary-color: "#bb5c01"
   media-colors:
     - title: media-color-one
       color: "#d01c18"
