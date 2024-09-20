@@ -30,27 +30,26 @@ variant: markdown
 </div>
 
 
-As more Government services shift online, it is crucial we have a secure and easily accessible digital ecosystem in place. 
+As more government services shift online, we must have a secure and easily accessible digital ecosystem. 
 
-Singpass, the National Digital Identity (NDI) initiative, provides a convenient and secure platform for users - both citizens and businesses - to transact with the Government and other private service providers. 
+Launched in 2003, Singpass is a personal authentication system that enables users to access various services online. Today, Singpass is every Singapore resident’s trusted digital identity to prove who we are when performing everyday transactions like checking our CPF balance, booking medical appointments, renewing insurance, and more. Citizens and businesses can transact with the Government and private sector service providers across thousands of services, anytime, anywhere.
 
-Read on to learn more about the current suite of services.
+Singpass employs Two-Factor Authentication (2FA) methods, such as the Singpass app, Face Verification and SMS One-Time Passwords (OTP), to provide an additional layer of security and better protect users’ data.
 
 ## Singpass App
 
-Launched in 2003, Singpass is a personal authentication system that allows users to access various Government services online. Users can log in to digital services conveniently and securely through the Singpass app using their fingerprint, facial recognition or a 6-digit passcode.  Singpass app also introduced two-factor authentication (2FA) methods like Singpass Face Verification and Multi-User SMS 2FA, on top of SMS one-time password (OTP). These provide an additional layer of security to better protect our users’ personal data and allow people to transact anywhere, anytime.
+Since 2018, users can log in to digital services conveniently and securely through the Singpass mobile application using their fingerprint, face, or six-digit passcode.
 
 ![Alt text for image on Isomer site](/images/initiatives/singpass-02.jpeg)
 
-We have been progressively adding useful features to the Singpass app for simpler everyday transactions. Current features include:
-* One-tap access to commonly-used Government digital services such as checking one's CPF balance, applying for an HDB flat, performing Internet banking, or managing insurance policies more easily
-* Convenient access to one's digital IC 
-* Timely notifications from Government agencies for alerts such as NRIC re-registration or passport renewal via the inbox feature
-* Digital signing of documents by scanning a QR code. This removes the need for users to be physically present to sign documents and agreements
+We have progressively added useful features to the Singpass app for simpler everyday transactions. Current app features include:
+* Digital IC to prove your identity over government counters
+*   One-tap access to commonly used government digital services such as checking one’s CPF balance, applying for an HDB flat, and tax filing
+*   Have your important information like CPF balance, passport number, and HDB details on hand
+*   Receive timely notifications from Singpass, such as announcements, transactional alerts and security advisories
+*   Digitally sign documents by scanning a QR code and authenticating on the app
 
 Click on the link to download the [Singpass app](https://www.singpass.gov.sg/main).
-
-![Singpass App](/images/initiatives/singpass-face-verification.jpeg)
 
 <div style="max-width: 1280px">
     <div style="height: 0;
@@ -69,16 +68,17 @@ Click on the link to download the [Singpass app](https://www.singpass.gov.sg/mai
 </div>
 
 
-## MyInfo
-A tell-us-once service that autofills selected personal details for online forms, minimising the need for users to repeatedly provide and verify the same information when transacting with Government agencies online. By tapping on the Retrieve MyInfo button, the participating digital service will be able to retrieve the necessary data fields needed with consent.
+## Access to Participating Private Sector Services
 
-As an extension of this service, MyInfo Business enables  digital forms to be autofilled with data from Government sources such as corporate profile, financial performance and ownership information. The service has also been extended to private-sector services like opening of a corporate utilities account and applying for SME loans.
+Businesses can leverage Singpass for authentication processes, and customers can do away with remembering an additional set of credentials. To date, more than 50 private sector organisations use Singpass to authenticate their customers. These include OCBC Bank, Prudential, NTUC Union, Income Insurance, Singapore Exchange, the Singapore Employers’ Federation, and JustLogin’s HR software.
 
-## Login
+## Pre-fill Forms with your Government Data
 
-Businesses can tap on Login for authentication processes and customers can do away with remembering an additional set of credentials. To date, there are more than 50 private-sector organisations leveraging Login as an authentication gateway. These include OCBC Bank, Prudential, NTUC Union, Income Insurance, Singapore Exchange, the Singapore Employers’ Federation and JustLogin’s HR software.
+Users can also choose to autofill selected personal details for online forms by authenticating with Singpass and consenting to the participating digital service retrieving the necessary data fields. This minimises the need for users to repeatedly provide and verify the same information when transacting with the Government and participating service providers.
+
+As an extension of this service, digital forms can also be auto-filled with corporate data from government sources, such as corporate profile, financial performance and ownership information. The service has also been extended to private-sector services like opening a corporate utilities account and applying for SME loans.
 
 
 ## Singpass API Developer and Partner Portal
 
-The [Singpass API Developer](https://api.singpass.gov.sg/) and Partner Portal offers a sandbox environment for developers and businesses to quickly prototype digital innovations, and they can use MyInfo to access available digital services to do so.
+The [Singpass API Developer](https://api.singpass.gov.sg/) and Partner Portal offers a sandbox environment for developers and businesses to prototype digital innovations quickly. Explore the suite of Singpass products and how it can improve your business efficiency and user experience.
