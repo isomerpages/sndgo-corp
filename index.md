@@ -24,22 +24,27 @@ sections:
       title: A Smart Nation that we can trust
       subtitle: Our Vision
       id: infopic
-      button: Button Text
+      button: Find Out More Here
       alt: Image alt text
+      image: /images/Goals/sntrust01.jpg
+      url: /goals/trust
   - infopic:
       title: A Smart Nation that helps us grow
       subtitle: Our Vision
       id: infopic
-      button: Button Text
+      button: Find Out More Here
       alt: Image alt text
       image: /images/community/playscape/playscape_23.jpeg
+      url: /goals/growth
   - infopic:
       title: A Smart Nation that keeps us together
       subtitle: Our Vision
       id: infopic
       description: Infopic description
-      button: Button Text
+      button: Find Out More Here
       alt: Image alt text
+      image: /images/Goals/sncommunity01.jpg
+      url: /goals/community
 notification: ""
 image: /images/og-image/smart-nation-og-image.jpg
 ---
