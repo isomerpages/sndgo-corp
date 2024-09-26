@@ -15,7 +15,7 @@ Singapore takes a holistic approach to building a Smart Nation that is safe, rel
 
 While the Government takes the lead in developing policies, providing support and resources, and rallying partners to achieve these objectives, a collective effort is still needed. This requires individuals, groups, and organisations to do their part.
 
-**To build a Smart Nation that we can trust, we will:**
+To build a Smart Nation that we can trust, we will:
 
 ### Enhance the security and resilience of our digital infrastructure
 
