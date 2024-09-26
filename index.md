@@ -18,7 +18,6 @@ sections:
           url: /achievements/
   - infopic:
       title: A Smart Nation that we can trust
-      subtitle: Our Vision
       id: infopic
       button: Find Out More Here
       alt: Image alt text
@@ -26,7 +25,6 @@ sections:
       url: /goals-of-sn2/trust/
   - infopic:
       title: A Smart Nation that helps us grow
-      subtitle: Our Vision
       id: infopic
       button: Find Out More Here
       alt: Image alt text
@@ -34,7 +32,6 @@ sections:
       url: /goals-of-sn2/growth
   - infopic:
       title: A Smart Nation that keeps us together
-      subtitle: Our Vision
       id: infopic
       description: Infopic description
       button: Find Out More Here
