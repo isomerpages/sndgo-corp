@@ -7,29 +7,36 @@ third_nav_title: Our Goals
 image: /images/og-image/smart-nation-pillars-og-image.jpg
 variant: markdown
 ---
-# Digital Society
-![Digital Society](/images/covid-19/smart-nation-ambassador_tracetogether-01.jpg)
+# A Smart Nation that We Can Trust
 
-A Digital Society empowers everyone with a fair chance of succeeding despite their differences or circumstances. It inspires us to dream bigger, as we get more interconnected with the world through technology.
+![A Smart Nation that We Can Trust](/images/Goals/sntrust01.jpg)
 
-Whether you’re young or old, tech-savvy or not, the aim is for every Singaporean to benefit from tech as part of a Digital Society. The <a href="https://www.mci.gov.sg/files/dr%20blueprint.pdf" target="_blank">Digital Readiness Blueprint</a> explains how the Singapore Government is  making this happen:
+Singapore takes a holistic approach to building a Smart Nation that is safe, reliable, and secure. Our citizens and enterprises must be able to depend on our digital infrastructure. Harmful online activities should be detected and disrupted quickly, with effective help and redress readily available to victims. Our citizens must be equipped with knowledge and skills and go online safely and confidently.
 
-* By making technology more accessible to every Singaporean
-* By improving Singaporeans’ digital literacy
-* By helping the local community and businesses drive widespread adoption of technology
-* By designing inclusive digital services
+While the Government takes the lead in developing policies, providing support and resources, and rallying partners to achieve these objectives, a collective effort is still needed. This requires individuals, groups, and organisations to do their part.
 
+To build a Smart Nation that we can trust, we will:
 
+### Enhance the security and resilience of our digital infrastructure
 
-<div style="width:50%"> <a href="https://www.mci.gov.sg/files/dr%20blueprint.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Digital Readiness Blueprint">Digital Readiness Blueprint</a></div>
+![](/images/abt-smart-nation/goals_trust2.png)
 
-<br><br>
+Digital infrastructure forms the foundation of our Smart Nation. It powers our digital economy and the digital products and services that citizens rely on. As with physical infrastructure like utilities and public transport, digital infrastructure such as broadband and mobile networks, data centres, and cloud services need to have high availability. Unexpected disruptions can greatly impact individuals and businesses and erode trust and confidence in the use of digital technology.
 
-<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+Highly reliable digital infrastructure and services give people and businesses peace of mind and allow us to make plans with certainty. While we cannot completely prevent disruptions or cyberattacks from occurring, our key systems must be well-protected against them, with our people and organisations prepared to respond and recover.
 
-<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
-	<ul>
-		<li><a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy &amp; Digital Government</a></li>
-			<li><a href="/community/smart-nation-ambassadors">Our Smart Nation Ambassadors</a></li>
-	</ul>
-</div>
+### Strengthen our fight against harmful online activities
+
+![](/images/abt-smart-nation/goals_trust2.png)
+
+Malicious online activities can cause grave harms. Scams proliferated through online channels could result in financial loss and emotional distress. Violent or sexually explicit content damage victims’ sense of safety and wellbeing. False or misleading online information can threaten social cohesion.
+
+We have increased our efforts to address such harms and will continuously update our responses to counter the perpetrators’ constantly changing tactics.
+
+### Expand our trusted digital spaces together
+
+![](/images/abt-smart-nation/goals_trust2.png)
+
+We increasingly gather and interact in shared online spaces such as chatgroups, forums, social media platforms, games, or other shared virtual environments.
+
+Building trustworthy online spaces is a collective effort. While laws and regulations deter and punish harmful, negative conduct, it is important to encourage everyone to make good choices and act responsibly online, We can only foster and expand trusted spaces online if all of us protect and respect one another’s wellbeing. Our aspiration must be that our online spaces lift spirits, foster connections, and are conducive to our wellbeing.
