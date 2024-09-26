@@ -13,20 +13,20 @@ To increase digital adoption, strategic national projects like our digital ident
 
 <div class="row" style="padding: 30px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/community/cityscape/cityscape-01.jpeg" alt="Digital Government"><br>
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/sn1_digitalgovernment2.png" alt="Digital Government"><br>
 	<div class="header" style="font-size:18px"><b>Digital Government</b></div><br>Building a government that was digital to the core and serves with a heart, designing services that are seamless, personalised, and inclusive.<br><br></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/community/cityscape/cityscape-01.jpeg" alt="Digital Society"><br>
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/sn1_digitalsociety2.png" alt="Digital Society"><br>
 	<div class="header" style="font-size:18px"><b>Digital Society</b></div><br>Fostering a society where Singaporeans are ready to embrace a digital world through efforts to improve digital access, digital literacy and digital adoption.<br><br></div>
 
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/community/cityscape/cityscape-01.jpeg" alt="Digital Economy"><br>
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/sn1_digitaleconomy2.png" alt="Digital Economy"><br>
 	<div class="header" style="font-size:18px"><b>Digital Economy</b></div><br>Developing a vibrant digital economy and position Singapore as a global hub for innovation and technology by creating new job opportunities and&nbsp;supporting digitalisation programmes for industries and businesses to sustain a thriving enterprise ecosystem.<br><br></div>
 
-<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/community/cityscape/cityscape-01.jpeg" alt="Digital Security"><br>
+<div class="col" style="padding: 10px 20px 10px 20px;"><img src="/images/abt-smart-nation/sn1_digitalsecurity2.png" alt="Digital Security"><br>
 	<div class="header" style="font-size:18px"><b>Digital Security</b></div><br>Strengthening cybersecurity efforts, so that the increasing number of services and transactions that take place online are secure and resilient.<br><br></div>
 
 </div>
