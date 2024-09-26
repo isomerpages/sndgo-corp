@@ -60,7 +60,7 @@ Prime Minister Lee Hsien Loong outlined plans to turn Singapore into the worldâ€
 [Return to top](#milestones-of-singapores-smart-nation-story)
 
 ### 2016
-Formation of the [Government Technology Agency (GovTech)](https://www.tech.gov.sg/), the statutory board responsible for delivering government digital services and developing infrastructure to support the Smart Nation initiative
+Formation of the [Government Technology Agency (GovTech)](https://www.tech.gov.sg/), tthe statutory board responsible for delivering government digital services and developing infrastructure to support the Smart Nation initiative.
 
 <center><div style="width:35%"><img src="/images/abt-smart-nation/Milestones/milestone_2016.png" alt="2016: Formation of the Government Technology Agency (GovTech)"></div></center>
 
