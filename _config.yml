@@ -43,7 +43,7 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: Transforming Singapore Through Technology
+description: A Thriving Digital Future for All
 staging: https://staging.d2udl6pjsi4kjp.amplifyapp.com/
 prod: https://master.d2udl6pjsi4kjp.amplifyapp.com/
 plugins:
