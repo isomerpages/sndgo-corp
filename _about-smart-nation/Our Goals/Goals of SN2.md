@@ -11,7 +11,9 @@ variant: markdown
 ---
 # Goals of Smart Nation 2.0
 
-Smart Nation 2.0 seeks to achieve three key goals: Trust, Growth, and Community.&nbsp;These goals shape how technology is used to improve citizens’ lives and create a thriving digital future for all. They also reflect key areas of feedback and concern that citizens have raised over the years, gathered through surveys, research, and other feedback channels.
+Smart Nation 2.0 seeks to achieve three key goals: Trust, Growth, and Community.
+
+These goals shape how technology is used to improve citizens’ lives and create a thriving digital future for all. They also reflect key areas of feedback and concern that citizens have raised over the years, gathered through surveys, research, and other feedback channels.
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 
@@ -26,4 +28,4 @@ Smart Nation 2.0 seeks to achieve three key goals: Trust, Growth, and Community.
 	
 </div>
 
-The&nbsp; Smart Nation 2.0 strategies will be continually iterated and adjusted as digital developments evolve. We will adapt our approaches over time in close consultation with citizens and businesses, responding to advancements in technology and emerging challenges.
+The Smart Nation 2.0 strategies will be continually iterated and adjusted as digital developments evolve. We will adapt our approaches over time in close consultation with citizens and businesses, responding to technological advancements and emerging challenges.
