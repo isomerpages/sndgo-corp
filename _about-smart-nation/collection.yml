@@ -2,7 +2,6 @@ collections:
   about-smart-nation:
     output: true
     order:
-      - Our Goals/.keep
       - Our Vision/.keep
       - Transforming SG Through Tech.md
       - Key Pillars/.keep
