@@ -2,9 +2,9 @@ collections:
   about-smart-nation:
     output: true
     order:
-      - Our Vision/Smart Nation 2.md
       - Our Vision/.keep
       - Our Vision/Smart Nation.md
+      - Our Vision/Smart Nation 2.md
       - Our Goals/.keep
       - Our Goals/Pillars of a Smart Nation .md
       - Our Goals/Digital Society.md
