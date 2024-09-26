@@ -2,7 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - Lifelong Learning/.keep
       - Artificial Intelligence/.keep
       - Artificial Intelligence/National AI Strategy.md
       - Artificial Intelligence/Be part of our AI Journey.md
@@ -44,6 +43,7 @@ collections:
       - Healthy Living/Project Pensieve.md
       - Healthy Living/Singapore Eye Lesion Analyser.md
       - Healthy Living/Telehealth.md
+      - Lifelong Learning/.keep
       - Safeguarding Citizens/.keep
       - Safeguarding Citizens/Building Trust and Safety.md
       - Safeguarding Citizens/ScamShield.md
