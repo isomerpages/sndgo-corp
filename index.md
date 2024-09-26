@@ -33,7 +33,6 @@ sections:
   - infopic:
       title: A Smart Nation that keeps us together
       id: infopic
-      description: Infopic description
       button: Find Out More Here
       alt: Image alt text
       image: /images/Goals/sncommunity01.jpg
