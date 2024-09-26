@@ -36,3 +36,6 @@ Citizens’ lives have been improved by the Government’s efforts to create dig
 
 In the years ahead, our Smart Nation vision will remain firmly anchored on improving citizens’ lives as&nbsp;better digital products and services continue to be developed to address these evolving concerns and needs.
 
+<div style="padding: 40px 0px 0px 0px;"></div>
+
+<div style="width:50%"> <a href="/files/publications/smart-nation-strategy-nov2018.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/sn_executive_summary.jpg" alt="Smart Nation: Executive Summary (2018)">Smart Nation: Executive Summary (2018)</a></div>
