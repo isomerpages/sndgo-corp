@@ -2,8 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - Transacting/.keep
-      - Communicating/.keep
       - Artificial Intelligence/.keep
       - Artificial Intelligence/National AI Strategy.md
       - Artificial Intelligence/Be part of our AI Journey.md
@@ -17,6 +15,7 @@ collections:
       - Business & Finance/SGFinDex.md
       - Business & Finance/SGTraDex.md
       - Caring for One Another/.keep
+      - Communicating/.keep
       - Commuting and Travel/.keep
       - Commuting and Travel/Smart Transport Initiatives.md
       - Commuting and Travel/Autonomous Vehicles.md
@@ -65,6 +64,7 @@ collections:
       - Sustainable Living/Punggol Smart Town.md
       - Sustainable Living/Smart Water Meter.md
       - Sustainable Living/Smart Urban Planning.md
+      - Transacting/.keep
       - Covid 19/.keep
       - Covid 19/Responding to COVID 19 with Tech.md
       - Covid 19/Digital Contact Tracing.md
