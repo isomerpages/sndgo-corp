@@ -7,58 +7,40 @@ image: /images/og-image/smart-nation-pillars-og-image.jpg
 third_nav_title: Our Goals
 variant: markdown
 ---
-# Digital Economy
+# A Smart Nation that Helps Us Grow
 
-A Digital Economy takes advantage of the latest technology to digitalise processes and drive business growth. This attracts foreign investments which, in turn, creates new jobs and opportunities for those in Singapore.
+![Growth](/images/community/playscape/playscape_23.jpeg)
 
-### Digital Economy Framework for Action
+Digitalisation has been a significant contributor to Singapore’s economic and wage growth and can create new opportunities for our people.
 
-Singapore’s pro-business environment, excellent tech infrastructure, close connectivity to major Asian economies as well as the availability of investment puts us in a good position to develop a strong Digital Economy.
+With technologies like artificial intelligence (AI), the boundaries of productivity can be pushed further and the competitiveness of our industries can be strengthened.
 
-Three key strategies have been identified in the <a href="https://www.imda.gov.sg/About-IMDA/infocomm-media-landscape/SGDigital/Digital-Economy-Framework-for-Action">Digital Economy Framework for Action</a> to take advantage of our strengths:
-* Accelerate our economic growth by digitalising industries and businesses
-* Develop an ecosystem to help businesses stay vibrant and competitive
-* Transform the Infocomm Media  industry to be a key growth driver of the Digital Economy
+In the realm of research, new technologies can help expand the limits of human discovery.&nbsp;But it may also cause unwelcome disruption to the economy and labour markets. There will be efforts to help our workers and enterprises adapt while developing technology to increase our potential.
 
-<div style="width:50%"> 
- <a href="/files/abt-smart-nation/sgd framework for action.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital-economy-framework2.png" alt="Digital Economy Framework for Action">Digital Economy Framework for Action (4.31mb)</a>
-</div>
+It is important toprepare our people to thrive with technology in a future markedly different from today, so each successive generation can navigate an increasingly digital world and live fuller and richer lives.
 
-### Digital Enterprise Blueprint
+To build a Smart Nation that helps us grow, we will:
 
-The digital landscape is evolving at an unprecedented rate and this rapid transformation provides limitless opportunities for all. Our enterprises have made good progress on digitalisation, but we need to stay ahead of the curve in ensuring that our enterprises remain competitive and our workers continue to enjoy good jobs.
+### Power our digital economy
 
-The&nbsp;[Digital Enterprise Blueprint](https://www.mci.gov.sg/digital-enterprise-blueprint/), co-created with key ecosystem stakeholders, sets out our ambition for the next bound of digitalisation and aims to establish Singapore as a nation of empowered enterprises and workers. We have identified&nbsp;four focus areas&nbsp;to help us achieve this:
+Robust, resilient, and future-ready digital infrastructure is the foundation upon which a strong digital economy can grow. It enables reliable internet connectivity and high-speed data transfer that supports a full range of economic and social activity. We will anticipate needs, stay ahead of trends, and continue to upgrade our digital infrastructure to preserve Singapore’s leading position.
 
-* Empower enterprises to be smarter by adopting AI-enabled solutions,
+AI is a strategic national priority. As the AI ecosystem in Singapore grows more vibrant by the day, there is greater domestic adoption of AI in public service delivery, and are building on this momentum to innovate and excel across multiple sectors while minimising the risks and harms that AI brings.
 
-* Enable enterprises to scale faster through integrated digital solutions,
+<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
 
-* Equip enterprises to be safer through improved cyber resilience, and
+### Empower our enterprises and workers
 
-* Upskill Workers to make full use of digital capabilities.
+Growth and progress will be shared widely with our workers and enterprises. Technology should enhance our people’s capabilities regardless of their starting points and circumstances. Enterprises will be empowered to take full advantage of technology to raise productivity, transform, and serve customers better, while
 
-<div style="width:50%"> 
- <a href="https://file.go.gov.sg/deb-report-2024.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital_enterprise_blueprint.png" alt="Digital Enterprise Blueprint">Digital Enterprise Blueprint (16mb)</a>
-</div>
+workers will be enabled to adapt, succeed, and realise their aspirations in a changing economy.
 
-### Digital Connectivity Blueprint
+<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
 
-Singapore’s digital infrastructure is foundational to our vibrant, shared digital future. The [Digital Connectivity Blueprint](https://www.imda.gov.sg/how-we-can-help/digital-connectivity-blueprint) sets out our ambition to ensure that our digital infrastructure remains world-class and future ready. It represents Singapore’s commitment to stay ahead by growing our digital connectivity to create better lives and exciting opportunities for our people and enterprises.
+### Prepare our next generation
 
-<div style="width:50%"> 
- <a href="https://www.imda.gov.sg/-/media/imda/files/programme/digital-connectivity-blueprint/digital-connectivity-blueprint-report.pdf"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital_connectivity_blueprint.png" alt="Digital Connectivity Blueprint">Digital Connectivity Blueprint (6.1mb)</a>
-</div>
+Our next generation will be equipped to expand their horizons and realise their aspirations in a digital future. This goes beyond preparing them for work in a digital economy – our children need to be equipped for life in the digital age.
 
+We want young Singaporeans to be curious, confident, and creative users of technology. Our children must learn to use technology to enhance their capabilities, and to apply it in an ethical and responsible manner. There will be enhanced programmes, increased resources for schools, and strengthened support for educators&nbsp;to design effective learning experiences that develop students’ digital&nbsp;proficiency.
 
-
-<br><br>
-
-<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
-
-<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
-	<ul>
-		<li><a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy &amp; Digital Government</a></li>
-	<li><a href="/initiatives/business">Business Initiatives</a></li>
-	</ul>
-</div>
+<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
