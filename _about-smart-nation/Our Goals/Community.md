@@ -7,67 +7,40 @@ image: /images/og-image/smart-nation-pillars-og-image.jpg
 third_nav_title: Our Goals
 variant: markdown
 ---
-# Digital Government
+# A Smart Nation that Keeps us Together
 
-<br>
+![Community](/images/Goals/sncommunity01.jpg)
 
-<div style="max-width: 1280px">
-    <div style="height: 0;
-            overflow: hidden;
-            position: relative;
-            padding-bottom: 56.25%;">
-        <iframe src="https://www.youtube.com/embed/nmupdl8svmI" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
-                left: 0;
-                right: 0;
-                bottom: 0;
-                height: 100%;
-                border: none;
-                max-width: 100%;
-                position: absolute;"></iframe>
-    </div>
-</div>
+A trusted digital environment and growing opportunities for Singaporeans help to shape a stronger, more united, and cohesive Singapore.
 
-Our vision of a Digital Government is “digital to the core, and serves with heart”. Digitalisation is an effective means for the Government to serve citizens with greater empathy, through designing policies and services that are inclusive, seamless and personalised for all.
+As we navigate the digital age, we must ensure that our Smart Nation benefits and uplifts all segments of society.&nbsp;Our shared values and aspirations must be maintained, our care for the people around us must be deepened, and our sense of togetherness&nbsp;must be preserved. These are the features of the Singapore we hold dear, and they must be strengthened in our Smart Nation.
 
-![Digital to the core and serves with hearth](/images/abt-smart-nation/digital-government-who-what-how.jpg)
+**To build a Smart Nation that keeps us together, we will:**
 
-The [Digital Government Blueprint (277kb)](/files/publications/dgb-public-document_30dec20.pdf) outlines 15 key performance indicators (KPIs) to measure our Government’s digitalisation progress. Some of these KPIs, targeted for completion by 2023, include:
+### Strengthen inclusion: leaving no one behind
 
-*   70% of eligible Government systems to be hosted on commercial cloud platforms
-*   90-95% of transactions to be completed digitally from end-to-end
-*   100% of services to be pre-filled with Government-verified data
-*   Data sharing for cross-agency projects should be completed in no more than 7 working days
-*   All public officers to have basic digital literacy skills
+Everyone should have the opportunity to enrich their lives and benefit from digital technologies: whether it enables them to better communicate with friends and family, access essential services or enjoy recreational activities.
 
-New policies and initiatives are continually being added to the Digital Government Blueprint (DGB) to help us chart the fast-changing tides of tech and world events. 
+Digital divides — where gaps in digital access and skills fuel social and economic inequalities —&nbsp;&nbsp;should not be allowed to persist.&nbsp; There has been&nbsp;good progress over the years in enhancing digital access for all and we will continue to identify and address gaps in this area.
 
-## The progress so far
-Regularly reviewing KPIs allows us to assess our performance and identify areas for improvement. As of the end of 2023, here are some key statistics:
+Our outreach efforts and partnerships to reach more Singaporeans will be strengthened so we can all learn digital skills with confidence.&nbsp;Digital products will be made more accessible and inclusive with strengthened usability, both within the Government and in partnership with the private sector.
 
-* **Citizen Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 &amp; above)*
-![Citizen Satisfaction with Government Digital Services](/images/abt-smart-nation/citizen_satisfaction_2023.png)
+<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
 
-* **Business Satisfaction with Government Digital Services** <br>*(Percentage that rated 5 &amp; above)*
-![Business Satisfaction with Government Digital Services](/images/abt-smart-nation/business_satisfaction_2023.png)
+### Strengthen the unity of our community
 
-* **Government services that are completed digitally from end-to-end**
-![Government services that can be completed digitally from end-to-end](/images/abt-smart-nation/end_to_end_digital_services_2021a.jpeg)
+Technology can help bridge the gap between Singaporeans from different walks of life, by deepening mutual understanding and strengthening our shared identity and culture.
 
-* **Services that provide E-payment options**
-![Services that provide E-payment options](/images/abt-smart-nation/services_offering_e_payment_2021a.jpeg)
+But it can also derail our sense of community. Countries all over the world are grappling with digital developments that undermine cohesion, such as the formation of echo chambers and increasingly divisive debates.
 
-* **Other Statistics:**
-  * 20,000 officers have been trained in data analytics and data science, meeting the initial target set and a new KPI is being reviewed.
+Singaporeans need to work together to nurture a positive, civic-minded culture online&nbsp;— one where digital technology brings us together and strengthens our society.
 
-  * All 20 ministries have submitted plans to use artificial intelligence, meeting the target of broadening digitalisation within the Government.
+<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
 
-<br><br>
+### Strengthen partnerships with citizens
 
-<div class="row" style="font-size:24px; font-weight: 700; color: #a6221c; background-color: #f3f3f3; padding: 20px 0px 0px 20px;"> Related Content</div>
+Smart Nation is ultimately a whole-of-nation effort. Citizens will be engaged to create meaningful change and play their part to shape the next chapter of Singapore’s story, through digital technology.
 
-<div class="row" style="font-size:18px ;background-color: #f3f3f3; padding: 0px 25px 0px 20px;">
-	<ul>
-		<li><a href="/about-smart-nation/pillars-of-smart-nation">Three Pillars of a Smart Nation: Digital Society, Digital Economy &amp; Digital Government</a></li>
-	<li><a href="/about-smart-nation/our-journey/milestones">Milestones of Singapore’s Smart Nation story</a></li>
-	</ul>
-</div>
+We will provide channels for citizens to share feedback, co-create ideas, and grow a community where everyone is empowered to design and build digital solutions to tackle pressing community needs.
+
+<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
