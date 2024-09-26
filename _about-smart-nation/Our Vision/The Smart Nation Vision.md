@@ -8,9 +8,11 @@ image: /images/og-image/smart-nation-pillars-og-image.jpg
 variant: markdown
 third_nav_title: Our Vision
 ---
-## A Thriving Digital Future for All
 
-![Transforming Singapore Through Technology](/images/abt-smart-nation/singapore-tech.jpg)
+
+![Smart Nation Vision](/images/abt-smart-nation/snvision.jpg)
+
+
 
 The Smart Nation initiative is a whole-of-nation effort led by the [Ministry of Digital Development and Information (MDDI)](mddi.gov.sg) to build a thriving digital future for all.
 
