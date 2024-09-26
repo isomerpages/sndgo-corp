@@ -32,6 +32,7 @@ sections:
       id: infopic
       button: Button Text
       alt: Image alt text
+      image: /images/community/playscape/playscape_23.jpeg
   - infopic:
       title: A Smart Nation that keeps us together
       subtitle: Our Vision
