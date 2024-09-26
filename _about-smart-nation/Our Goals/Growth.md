@@ -15,25 +15,25 @@ Digitalisation has been a significant contributor to Singapore’s economic and 
 
 With technologies like artificial intelligence (AI), the boundaries of productivity can be pushed further and the competitiveness of our industries can be strengthened.
 
-In the realm of research, new technologies can help expand the limits of human discovery.&nbsp;But it may also cause unwelcome disruption to the economy and labour markets. There will be efforts to help our workers and enterprises adapt while developing technology to increase our potential.
+In the realm of research, new technologies can help expand the limits of human discovery.&nbsp;But technological advances may also cause unwelcome disruption to the economy and labour markets. We will make every effort to help our workers and enterprises adapt, while developing technology to augment our capabilities.
 
-It is important toprepare our people to thrive with technology in a future markedly different from today, so each successive generation can navigate an increasingly digital world and live fuller and richer lives.
+It is important to prepare our people to thrive with technology in a future markedly different from today, so each successive generation can navigate an increasingly digital world and live fuller and richer lives.
 
 To build a Smart Nation that helps us grow, we will:
 
 ### Power our digital economy
 
-Robust, resilient, and future-ready digital infrastructure is the foundation upon which a strong digital economy can grow. It enables reliable internet connectivity and high-speed data transfer that supports a full range of economic and social activity. We will anticipate needs, stay ahead of trends, and continue to upgrade our digital infrastructure to preserve Singapore’s leading position.
+Robust, resilient and future-ready digital infrastructure is the foundation for a strong digital economy to grow. It enables reliable internet connectivity and high-speed data transfer that supports a full range of economic and social activities. We will anticipate needs, stay ahead of trends, and continue to upgrade our digital infrastructure to preserve Singapore’s leading position.
 
-AI is a strategic national priority. As the AI ecosystem in Singapore grows more vibrant by the day, there is greater domestic adoption of AI in public service delivery, and are building on this momentum to innovate and excel across multiple sectors while minimising the risks and harms that AI brings.
+AI is a strategic national priority. As the AI ecosystem in Singapore grows more vibrant by the day, adoption of AI in public service delivery is increasing, and we are building on this momentum to spur innovation across multiple sectors, while minimising the risks that AI brings.
 
 <center><div style="width:50%"><img src="/images/Goals/goals_growth_01.png" alt="Power our digital economy"></div></center>
 
 ### Empower our enterprises and workers
 
-Growth and progress will be shared widely with our workers and enterprises. Technology should enhance our people’s capabilities regardless of their starting points and circumstances. Enterprises will be empowered to take full advantage of technology to raise productivity, transform, and serve customers better, while
+Growth and progress will be shared widely with our workers and enterprises. Technology should enhance our people’s capabilities regardless of their starting points and circumstances.
 
-workers will be enabled to adapt, succeed, and realise their aspirations in a changing economy.
+Enterprises will be empowered to take full advantage of technology to raise productivity, transform, and serve customers better, while&nbsp;workers will be enabled to adapt, succeed, and realise their aspirations in a changing economy.
 
 <center><div style="width:50%"><img src="/images/Goals/goals_growth_02.png" alt="Empower our enterprises and workers"></div></center>
 
