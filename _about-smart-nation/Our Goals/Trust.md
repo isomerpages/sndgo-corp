@@ -19,24 +19,24 @@ To build a Smart Nation that we can trust, we will:
 
 ### Enhance the security and resilience of our digital infrastructure
 
-![](/images/abt-smart-nation/goals_trust2.png)
-
 Digital infrastructure forms the foundation of our Smart Nation. It powers our digital economy and the digital products and services that citizens rely on. As with physical infrastructure like utilities and public transport, digital infrastructure such as broadband and mobile networks, data centres, and cloud services need to have high availability. Unexpected disruptions can greatly impact individuals and businesses and erode trust and confidence in the use of digital technology.
 
 Highly reliable digital infrastructure and services give people and businesses peace of mind and allow us to make plans with certainty. While we cannot completely prevent disruptions or cyberattacks from occurring, our key systems must be well-protected against them, with our people and organisations prepared to respond and recover.
 
-### Strengthen our fight against harmful online activities
+<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
 
-![](/images/abt-smart-nation/goals_trust2.png)
+### Strengthen our fight against harmful online activities
 
 Malicious online activities can cause grave harms. Scams proliferated through online channels could result in financial loss and emotional distress. Violent or sexually explicit content damage victims’ sense of safety and wellbeing. False or misleading online information can threaten social cohesion.
 
 We have increased our efforts to address such harms and will continuously update our responses to counter the perpetrators’ constantly changing tactics.
 
-### Expand our trusted digital spaces together
+<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
 
-![](/images/abt-smart-nation/goals_trust2.png)
+### Expand our trusted digital spaces together
 
 We increasingly gather and interact in shared online spaces such as chatgroups, forums, social media platforms, games, or other shared virtual environments.
 
 Building trustworthy online spaces is a collective effort. While laws and regulations deter and punish harmful, negative conduct, it is important to encourage everyone to make good choices and act responsibly online, We can only foster and expand trusted spaces online if all of us protect and respect one another’s wellbeing. Our aspiration must be that our online spaces lift spirits, foster connections, and are conducive to our wellbeing.
+
+<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
