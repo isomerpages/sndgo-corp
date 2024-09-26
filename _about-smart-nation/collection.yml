@@ -2,6 +2,7 @@ collections:
   about-smart-nation:
     output: true
     order:
+      - Our Vision/Smart Nation.md
       - Our Vision/.keep
       - Key Pillars/.keep
       - Key Pillars/Pillars of a Smart Nation .md
