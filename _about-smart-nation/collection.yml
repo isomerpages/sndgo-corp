@@ -2,13 +2,13 @@ collections:
   about-smart-nation:
     output: true
     order:
-      - Our Vision/Smart Nation.md
       - Our Vision/.keep
+      - Our Vision/Smart Nation.md
       - Our Goals/.keep
       - Our Goals/Pillars of a Smart Nation .md
       - Our Goals/Digital Society.md
       - Our Goals/Digital Economy.md
       - Our Goals/Digital Government.md
-      - Achievements.md
       - Milestones.md
+      - Achievements.md
       - Culture of Innovation.md
