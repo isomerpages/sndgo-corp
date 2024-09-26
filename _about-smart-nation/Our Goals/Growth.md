@@ -27,7 +27,7 @@ Robust, resilient, and future-ready digital infrastructure is the foundation upo
 
 AI is a strategic national priority. As the AI ecosystem in Singapore grows more vibrant by the day, there is greater domestic adoption of AI in public service delivery, and are building on this momentum to innovate and excel across multiple sectors while minimising the risks and harms that AI brings.
 
-<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
+<center><div style="width:50%"><img src="/images/Goals/goals_growth_01.png" alt="Power our digital economy"></div></center>
 
 ### Empower our enterprises and workers
 
@@ -35,7 +35,7 @@ Growth and progress will be shared widely with our workers and enterprises. Tech
 
 workers will be enabled to adapt, succeed, and realise their aspirations in a changing economy.
 
-<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
+<center><div style="width:50%"><img src="/images/Goals/goals_growth_02.png" alt="Empower our enterprises and workers"></div></center>
 
 ### Prepare our next generation
 
@@ -43,4 +43,4 @@ Our next generation will be equipped to expand their horizons and realise their 
 
 We want young Singaporeans to be curious, confident, and creative users of technology. Our children must learn to use technology to enhance their capabilities, and to apply it in an ethical and responsible manner. There will be enhanced programmes, increased resources for schools, and strengthened support for educators&nbsp;to design effective learning experiences that develop students’ digital&nbsp;proficiency.
 
-<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
+<center><div style="width:50%"><img src="/images/Goals/goals_growth_03.png" alt="Prepare our next generation"></div></center>
