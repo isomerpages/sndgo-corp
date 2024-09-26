@@ -11,19 +11,19 @@ variant: markdown
 
 ![Community](/images/Goals/sncommunity01.jpg)
 
-A trusted digital environment and growing opportunities for Singaporeans help to shape a stronger, more united, and cohesive Singapore.
+Our efforts to build a trusted digital environment with growing opportunities for Singaporeans help to shape a more united and cohesive Singapore. We will ensure that our Smart Nation benefits and uplifts all segments of society.
 
-As we navigate the digital age, we must ensure that our Smart Nation benefits and uplifts all segments of society.&nbsp;Our shared values and aspirations must be maintained, our care for the people around us must be deepened, and our sense of togetherness&nbsp;must be preserved. These are the features of the Singapore we hold dear, and they must be strengthened in our Smart Nation.
+The features of the Singapore we hold dear – our shared values and aspirations, our care for the people around us, and our sense of togetherness&nbsp;– must be maintained and strengthened in our Smart Nation.
 
 To build a Smart Nation that keeps us together, we will:
 
 ### Strengthen inclusion: leaving no one behind
 
-Everyone should have the opportunity to enrich their lives and benefit from digital technologies: whether it enables them to better communicate with friends and family, access essential services or enjoy recreational activities.
+Everyone should have the opportunity to enrich their lives and benefit from digital technologies, whether it enables them to better communicate with friends and family, access essential services or enjoy recreational activities.
 
-Digital divides — where gaps in digital access and skills fuel social and economic inequalities —&nbsp;&nbsp;should not be allowed to persist.&nbsp; There has been&nbsp;good progress over the years in enhancing digital access for all and we will continue to identify and address gaps in this area.
+Digital divides — where gaps in digital access and skills fuel social and economic inequalities —&nbsp;should not be allowed to persist. There has been&nbsp;good progress over the years in enhancing digital access for all, and we will continue to identify and address gaps in this area.
 
-Our outreach efforts and partnerships to reach more Singaporeans will be strengthened so we can all learn digital skills with confidence.&nbsp;Digital products will be made more accessible and inclusive with strengthened usability, both within the Government and in partnership with the private sector.
+Our outreach efforts and partnerships will be strengthened to reach more Singaporeans, so that everyone can learn digital skills with confidence.&nbsp;Our digital products will be made more accessible and inclusive for all users, through co-creation with private sector and community partners.
 
 <center><div style="width:50%"><img src="/images/Goals/goals_community_01.png" alt="Strengthen inclusion: leaving no one behind"></div></center>
 
@@ -33,7 +33,7 @@ Technology can help bridge the gap between Singaporeans from different walks of 
 
 But it can also derail our sense of community. Countries all over the world are grappling with digital developments that undermine cohesion, such as the formation of echo chambers and increasingly divisive debates.
 
-Singaporeans need to work together to nurture a positive, civic-minded culture online&nbsp;— one where digital technology brings us together and strengthens our society.
+Singaporeans need to work together to nurture a positive, civic-minded culture online&nbsp;— where digital technology is used to uplift, unify and strengthen our society.
 
 <center><div style="width:50%"><img src="/images/Goals/goals_community_02.png" alt="Strengthen the unity of our community"></div></center>
 
