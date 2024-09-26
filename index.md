@@ -23,7 +23,7 @@ sections:
       button: Find Out More Here
       alt: Image alt text
       image: /images/Goals/sntrust01.jpg
-      url: /goals/trust
+      url: /goals-of-sn2/trust/
   - infopic:
       title: A Smart Nation that helps us grow
       subtitle: Our Vision
@@ -31,7 +31,7 @@ sections:
       button: Find Out More Here
       alt: Image alt text
       image: /images/community/playscape/playscape_23.jpeg
-      url: /goals/growth
+      url: /goals-of-sn2/growth
   - infopic:
       title: A Smart Nation that keeps us together
       subtitle: Our Vision
@@ -40,7 +40,7 @@ sections:
       button: Find Out More Here
       alt: Image alt text
       image: /images/Goals/sncommunity01.jpg
-      url: /goals/community
+      url: /goals-of-sn2/community
 notification: ""
 image: /images/og-image/smart-nation-og-image.jpg
 ---
