@@ -2,6 +2,7 @@ collections:
   about-smart-nation:
     output: true
     order:
+      - Our Vision/Smart Nation (2014).md
       - Our Vision/.keep
       - Our Vision/The Smart Nation Vision.md
       - Our Vision/Smart Nation 2.md
