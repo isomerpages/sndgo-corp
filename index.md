@@ -16,10 +16,6 @@ sections:
         - title: OUR ACHIEVEMENTS
           description: Explore our accomplishments
           url: /about-smart-nation/our-journey/achievements/
-  - infobar:
-      title: A Thriving Digital Future for All
-      subtitle: Smart Nation Singapore
-      id: infobar
   - infopic:
       title: A Smart Nation that we can trust
       subtitle: Our Vision
