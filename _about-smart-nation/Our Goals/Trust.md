@@ -23,7 +23,8 @@ Digital infrastructure forms the foundation of our Smart Nation. It powers our d
 
 Highly reliable digital infrastructure and services give people and businesses peace of mind and allow us to make plans with certainty. While we cannot completely prevent disruptions or cyberattacks from occurring, our key systems must be well-protected against them, with our people and organisations prepared to respond and recover.
 
-<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
+<center><div style="width:50%"><img src="/images/Goals/goals_trust_01.png" alt="Enhance the security and resilience of our digital infrastructure"></div></center>
+
 
 ### Strengthen our fight against harmful online activities
 
@@ -31,7 +32,7 @@ Malicious online activities can cause grave harms. Scams proliferated through on
 
 We have increased our efforts to address such harms and will continuously update our responses to counter the perpetrators’ constantly changing tactics.
 
-<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
+<center><div style="width:50%"><img src="/images/Goals/goals_trust_02.png" alt="Strengthen our fight against harmful online activities"></div></center>
 
 ### Expand our trusted digital spaces together
 
@@ -39,4 +40,4 @@ We increasingly gather and interact in shared online spaces such as chatgroups, 
 
 Building trustworthy online spaces is a collective effort. While laws and regulations deter and punish harmful, negative conduct, it is important to encourage everyone to make good choices and act responsibly online, We can only foster and expand trusted spaces online if all of us protect and respect one another’s wellbeing. Our aspiration must be that our online spaces lift spirits, foster connections, and are conducive to our wellbeing.
 
-<center><div style="width:50%"><img src="/images/abt-smart-nation/goals_trust2.png" alt="Strengthen our fight against harmful online activities"></div></center>
+<center><div style="width:50%"><img src="/images/Goals/goals_trust_03.png" alt="Expand our trusted digital spaces together"></div></center>
