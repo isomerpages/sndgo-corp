@@ -7,6 +7,24 @@ third_nav_title: Our Vision
 ---
 # Smart Nation 1.0: Spurring Singapore’s Digital Transformation
 
+<div style="padding: 30px 0px 0px 0px;"></div>
+
+<div style="max-width: 1280px">
+    <div style="height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/DJmoy41mWDQ" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;"></iframe>
+    </div>
+</div>
+
 Smart Nation 1.0 was developed to help Singapore ride the wave of change and leverage digital technologies to transform domains like health, transport, education, finance, infrastructure, and the environment.
 
 To increase digital adoption, strategic national projects like our digital identity system, Singpass, and e-payment networks were launched. We&nbsp;promoted digitalisation across the government, society, and economy and strengthened our digital security.
