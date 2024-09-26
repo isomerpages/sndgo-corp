@@ -15,4 +15,5 @@ The impact of technology on our humanity and society&nbsp;must be continuously e
 
 <div style="padding: 40px 0px 0px 0px;"></div>
 
-<div style="width:50%"> <a href="https://www.mci.gov.sg/files/dr%20blueprint.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Smart Nation 2.0 Report">Smart Nation 2.0 Report</a></div>
+<div style="width:50%"> <a href="https://smartnation.gov.sg" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/sn2_report.png" alt="Smart Nation 2.0 Report">Smart Nation 2.0 Report</a></div>
+
