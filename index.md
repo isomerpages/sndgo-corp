@@ -9,13 +9,13 @@ sections:
       key_highlights:
         - title: OUR VISION
           description: Learn more about Smart Nation
-          url: /about-smart-nation/transforming-singapore/
+          url: /vision
         - title: OUR INITIATIVES
           description: Discover the benefits of tech
           url: /initiatives/digital-government-services/
         - title: OUR ACHIEVEMENTS
           description: Explore our accomplishments
-          url: /about-smart-nation/our-journey/achievements/
+          url: /achievements/
   - infopic:
       title: A Smart Nation that we can trust
       subtitle: Our Vision
