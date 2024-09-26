@@ -2,7 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - Caring for One Another/.keep
       - Artificial Intelligence/.keep
       - Artificial Intelligence/National AI Strategy.md
       - Artificial Intelligence/Be part of our AI Journey.md
@@ -15,6 +14,7 @@ collections:
       - Business & Finance/Networked Trade Platform.md
       - Business & Finance/SGFinDex.md
       - Business & Finance/SGTraDex.md
+      - Caring for One Another/.keep
       - Commuting and Travel/.keep
       - Commuting and Travel/Smart Transport Initiatives.md
       - Commuting and Travel/Autonomous Vehicles.md
