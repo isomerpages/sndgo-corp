@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Smart Nation Singapore
-description: Transforming Singapore Through Technology
+description: A Thriving Digital Future for All
 permalink: /
 sections:
   - hero:
@@ -54,4 +54,5 @@ sections:
           linktext: Report an incident
           url: https://mddi.gov.sg/government-data-incident-reporting-platform/
 notification: ""
+image: /images/og-image/smart-nation-og-image.jpg
 ---
