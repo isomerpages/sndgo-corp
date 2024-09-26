@@ -14,7 +14,7 @@ sections:
           description: Discover the benefits of tech
           url: /initiatives/digital-government-services/
         - title: OUR ACHIEVEMENTS
-          description: Explore our accomplishments
+          description: See what we've accomplished
           url: /achievements/
   - infopic:
       title: A Smart Nation that we can trust
