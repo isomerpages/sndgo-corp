@@ -55,4 +55,4 @@ In the years ahead, our Smart Nation vision will remain firmly anchored on impro
 
 <div style="padding: 40px 0px 0px 0px;"></div>
 
-<div style="width:50%"> <a href="/files/publications/smart-nation-strategy-nov2018.pdf" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/sn1_exec_summary.png" alt="Smart Nation: Executive Summary (2018)">Smart Nation: Executive Summary (2018)</a></div>
+<div style="width:50%"> <a href="https://go.gov.sg/snexecutivesummary2018" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/sn1_exec_summary.png" alt="Smart Nation: Executive Summary (2018)">Smart Nation: Executive Summary (2018)</a></div>
