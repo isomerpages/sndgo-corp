@@ -16,14 +16,14 @@ Today, we have an extensive e-payments network that makes buying and selling goo
 <div class="row">
 
 <div class="col">
-<a href="/initiatives/sg-govt-dev-portal/"><img src="/images/initiatives/sgdeveloperportal-01.jpg" alt="PayNow"></a><br>
+<a href="/initiatives/sg-govt-dev-portal/"><img src="/images/initiatives/overview-pages/paynow.jpg" alt="PayNow"></a><br>
     <div class="header"><b>PayNow</b></div><br>
     <div class="para">PayNow offers an enhanced funds transfer experience that enables retail customers of the participating banks and NFIs to send and receive Singapore Dollar funds from one bank or e-wallet account to another in Singapore through FAST by using just their mobile number, Singapore NRIC/FIN, or Virtual Payment Address (VPA), instantly.
 </div>
 	<br></div>
 	
 <div class="col"> 
-<a href="/initiatives/singpass"><img src="/images/initiatives/singpass-website.jpeg" alt="SGQR"></a><br>
+<a href="/initiatives/singpass"><img src="/images/initiatives/overview-pages/sgqr.jpg" alt="SGQR"></a><br>
 	<div class="header"><b>SGQR</b></div><br>
 	<div class="para">SGQR is the world’s first unified payment QR code. It combines multiple payment QR codes into a single SGQR label, making QR payments simple for both consumers and merchants.
 </div>
