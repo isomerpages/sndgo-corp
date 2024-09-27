@@ -15,7 +15,7 @@ Digitalisation has been a significant contributor to Singapore’s economic and 
 
 With technologies like artificial intelligence (AI), the boundaries of productivity can be pushed further and the competitiveness of our industries can be strengthened.
 
-In the realm of research, new technologies can help expand the limits of human discovery.&nbsp;But technological advances may also cause unwelcome disruption to the economy and labour markets. We will make every effort to help our workers and enterprises adapt, while developing technology to augment our capabilities.
+In the realm of research, new technologies can help expand the limits of human discovery. But technological advances may also cause unwelcome disruption to the economy and labour markets. We will make every effort to help our workers and enterprises adapt, while developing technology to augment our capabilities.
 
 It is important to prepare our people to thrive with technology in a future markedly different from today, so each successive generation can navigate an increasingly digital world and live fuller and richer lives.
 
