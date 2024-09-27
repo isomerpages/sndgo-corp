@@ -53,7 +53,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 is_government: true
-shareicon: /images/og-image/smart-nation-og-image.jpg
+shareicon: /images/og-image/smartnationogimage.jpg
 google_analytics: UA-77555444-1
 facebook-pixel: ""
 google_analytics_ga4: G-C3GYHSR0CW
