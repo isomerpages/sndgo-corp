@@ -38,5 +38,5 @@ sections:
       image: /images/Goals/sncommunity01.jpg
       url: /goals-of-sn2/community
 notification: ""
-image: /images/og-image/smart-nation-og-image.jpg
+image: /images/og-image/smartnationogimage.jpg
 ---
