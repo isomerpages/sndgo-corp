@@ -103,8 +103,6 @@ Launch of [Smart Nation 2.0](/sn2).
 
 <center><div style="width:40%"><img src="/images/abt-smart-nation/Milestones/milestone_2024.png" alt="2024: Launch of Smart Nation 2.0"></div></center>
 
-[Return to top](#milestones-of-singapores-smart-nation-story)
-
 <br>
 
 <div style="max-width: 1280px">
@@ -122,3 +120,5 @@ Launch of [Smart Nation 2.0](/sn2).
                 position: absolute;"></iframe>
     </div>
 </div>
+
+[Return to top](#milestones-of-singapores-smart-nation-story)
