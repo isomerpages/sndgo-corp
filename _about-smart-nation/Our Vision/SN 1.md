@@ -30,7 +30,7 @@ image: /images/og-image/smartnationogimage.jpg
 
 Smart Nation 1.0 was developed to help Singapore ride the wave of change and leverage digital technologies to transform domains like health, transport, education, finance, infrastructure, and the environment.
 
-To increase digital adoption, strategic national projects like our digital identity system, Singpass, and e-payment networks were launched. We&nbsp;promoted digitalisation across our government, society, and economy and strengthened our digital security.
+To increase digital adoption, strategic national projects like our digital identity system, Singpass, and e-payment networks were launched.
 
 <div style="padding: 30px 0px 0px 0px;"></div>
 
@@ -45,16 +45,17 @@ To increase digital adoption, strategic national projects like our digital ident
 
 
 <div class="col" style="padding: 0px 20px 10px 20px;"><img src="/images/abt-smart-nation/sn1_digitaleconomy4.png" alt="Digital Economy"><br>
-	<div class="header" style="font-size:18px"><b>Digital Economy</b></div><br>Developing a vibrant digital economy and positioning Singapore as a global hub for innovation by creating new job opportunities and&nbsp;supporting digitalisation programmes for industries and businesses.<br><br></div>
+	<div class="header" style="font-size:18px"><b>Digital Economy</b></div><br>Developing a vibrant digital economy and positioning Singapore as a global hub for
+innovation by creating new job opportunities and supporting digitalisation programmes for industries and businesses.<br><br></div>
 
 <div class="col" style="padding: 0px 20px 10px 20px;"><img src="/images/abt-smart-nation/sn1_digitalsecurity4.png" alt="Digital Security"><br>
 	<div class="header" style="font-size:18px"><b>Digital Security</b></div><br>Strengthening Singapore’s cybersecurity efforts, so that the increasing number of services and transactions that take place online are secure and resilient.<br><br></div>
 
 </div>
 
-Citizens’ lives have been improved by the Government’s efforts to create digital products and services across our digital economy, society, government, and security. Some of these products make daily activities more enjoyable in small but powerful ways; others provide citizens with faster, more personalised services.
+Some of these products make daily activities more enjoyable in small but powerful ways; others provide citizens with faster, more personalised services.
 
-In the years ahead, our Smart Nation vision will remain firmly anchored on improving citizens’ lives&nbsp;as we continue to develop better digital products and services to address their evolving needs and concerns.
+**In the years ahead, our Smart Nation vision will remain firmly anchored on improving citizens’ lives** as we continue to develop better digital products and services to address their evolving needs and concerns.
 
 <div style="padding: 40px 0px 0px 0px;"></div>
 
