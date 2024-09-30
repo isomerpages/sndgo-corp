@@ -13,7 +13,8 @@ third_nav_title: Our Vision
 
 The Smart Nation initiative is a whole-of-nation effort led by the [Ministry of Digital Development and Information (MDDI)](https://mddi.gov.sg) to build a thriving digital future for all.
 
-The [inaugural Smart Nation initiative](/sn1) was launched in 2014, driven by a compelling vision:&nbsp;to build better, meaningful, and fulfilled lives for our people, enabled by technology.
+The [inaugural Smart Nation initiative](/sn1) was launched in 2014, driven by a compelling vision: **to build better, meaningful, and fulfilled lives for our people, enabled by
+technology**.
 
 
 <div style="padding: 20px 0px 0px 0px"></div>
