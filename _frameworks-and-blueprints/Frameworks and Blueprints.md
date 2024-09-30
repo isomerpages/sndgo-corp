@@ -10,7 +10,7 @@ Click on the links below to learn more about the strategies, frameworks and blue
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
 	
-<div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://go.gov.sg/smartnation2report"><img src="/images/abt-smart-nation/sn2_report.png" alt="Smart Nation 2.0 Report"></a></div><br><b>Smart Nation 2.0 Report (2024)</b><br><br>The Smart Nation 2.0 Report outlines Singapore's refreshed Smart Nation vision and aims to address evolving needs and concerns.
+<div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://go.gov.sg/sn2report"><img src="/images/abt-smart-nation/sn2_report.png" alt="Smart Nation 2.0 Report"></a></div><br><b>Smart Nation 2.0 Report (2024)</b><br><br>The Smart Nation 2.0 Report outlines Singapore's refreshed Smart Nation vision and aims to address evolving needs and concerns.
 	<br><br></div>
 	
 <div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://go.gov.sg/nais2023"><img src="/images/abt-smart-nation/nais2_cover.jpg" alt="Singapore National AI Strategy 2.0"></a></div><br><b>Singapore National AI Strategy 2.0 (2023)</b><br><br>NAIS 2.0 outlines our vision for Singapore to be a place where AI serves as a force for good, and where we harness AI to uplift and empower our people and businesses. 
