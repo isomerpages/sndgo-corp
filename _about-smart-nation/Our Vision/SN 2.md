@@ -29,9 +29,9 @@ image: /images/og-image/smartnationogimage.jpg
     </div>
 </div>
 
-Since the launch of Smart Nation in 2014, Singapore’s efforts in harnessing digital technologies to transform our economy, society, government, and security have&nbsp; paid off, establishing our country as a leader in areas like digital infrastructure and inclusion.
+Singapore’s efforts in harnessing digital technologies to transform our economy, society, government, and security have established our country as a leader in areas like digital infrastructure and inclusion.
 
-The mark of a truly Smart Nation is to keep striving to be better. Digital developments have given rise to new opportunities and challenges for Singapore and for humanity.&nbsp;The refreshed Smart Nation 2.0 vision must address these evolving needs and concerns.
+The mark of a truly Smart Nation is to keep striving to be better. Digital developments have given rise to new opportunities and challenges for Singapore and for humanity. The refreshed Smart Nation 2.0 vision must address these evolving needs and concerns.
 
 Digital developments must be directed toward outcomes that benefit Singaporeans, bearing in mind the impact of technology on our society and the need to uphold our shared values as a nation.
 
