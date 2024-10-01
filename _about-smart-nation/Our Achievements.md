@@ -54,3 +54,10 @@ variant: markdown
 ### Smart City of 2018
 
 Singapore was named [Smart City of 2018](/media-hub/press-releases/smart-city-2018) at the Smart City Expo World Congress. Dionosio González, Director of Advocacy &amp; Outreach at UITP, and a member of the World Smart City Awards 2018 honour jury, highlighted that Singapore came out strong for its clear strategy, its ability to implement digital initiatives nationwide, and its focus on placing citizens at the centre of its Smart Nation efforts.
+
+### Key Stats
+
+* 99% of all transactions between citizens and the government can be completed online.
+* High citizen and business satisfaction with Government Digital Services at 83% in 2023.
+* 99% of resident households are connected to the internet, as of 2022.
+* 95% of small and medium enterprises (SMEs) have adopted at least one digital technology from nine categories: cybersecurity, cloud, e-payment, e-commerce, data analytics, artificial intelligence, Internet of Things, blockchain, and immersive media.
