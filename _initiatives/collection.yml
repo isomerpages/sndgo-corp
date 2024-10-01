@@ -25,6 +25,10 @@ collections:
       - Commuting and Travel/Contactless Fare Payment For Public Transport.md
       - Commuting and Travel/On Demand Shuttle.md
       - Commuting and Travel/Open Data & Analytics For Urban Transportation.md
+      - Education/.keep
+      - Education/Tech For Education.md
+      - Education/Student Learning Space.md
+      - Education/Parents Gateway.md
       - Government Services/.keep
       - Government Services/Digital Government Services.md
       - Government Services/CentEx.md
@@ -45,10 +49,6 @@ collections:
       - Healthy Living/Project Pensieve.md
       - Healthy Living/Singapore Eye Lesion Analyser.md
       - Healthy Living/Telehealth.md
-      - Education/.keep
-      - Education/Tech For Education.md
-      - Education/Student Learning Space.md
-      - Education/Parents Gateway.md
       - Safeguarding Citizens/.keep
       - Safeguarding Citizens/Building Trust and Safety.md
       - Safeguarding Citizens/ScamShield.md
