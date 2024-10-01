@@ -1,6 +1,6 @@
 title: Smart Nation Singapore
 url: https://www.smartnation.gov.sg
-favicon: /images/sns-burst.ico
+favicon: /images/snlogo_favicon.svg
 colors:
   primary-color: "#e81c3a"
   secondary-color: "#bb5c01"
@@ -43,7 +43,7 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: Transforming Singapore Through Technology
+description: A Thriving Digital Future for All
 staging: https://staging.d2udl6pjsi4kjp.amplifyapp.com/
 prod: https://master.d2udl6pjsi4kjp.amplifyapp.com/
 plugins:
@@ -53,7 +53,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 is_government: true
-shareicon: /images/og-image/smart-nation-og-image.jpg
+shareicon: /images/og-image/smartnationogimage.jpg
 google_analytics: UA-77555444-1
 facebook-pixel: ""
 google_analytics_ga4: G-C3GYHSR0CW

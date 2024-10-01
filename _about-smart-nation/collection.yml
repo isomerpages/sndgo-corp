@@ -2,12 +2,14 @@ collections:
   about-smart-nation:
     output: true
     order:
-      - Transforming SG Through Tech.md
-      - Key Pillars/.keep
-      - Key Pillars/Pillars of a Smart Nation .md
-      - Key Pillars/Digital Society.md
-      - Key Pillars/Digital Economy.md
-      - Key Pillars/Digital Government.md
-      - Achievements.md
-      - Milestones.md
-      - Culture of Innovation.md
+      - Our Vision/.keep
+      - Our Vision/The Smart Nation Vision.md
+      - Our Vision/SN 1.md
+      - Our Vision/SN 2.md
+      - Our Goals/.keep
+      - Our Goals/Goals of SN2.md
+      - Our Goals/Trust.md
+      - Our Goals/Growth.md
+      - Our Goals/Community.md
+      - Our Milestones.md
+      - Our Achievements.md

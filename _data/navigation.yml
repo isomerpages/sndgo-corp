@@ -1,4 +1,4 @@
-logo: /images/smart-nation-logo.png
+logo: /images/snlogo.png
 links:
   - title: About Smart Nation
     collection: about-smart-nation
@@ -6,8 +6,8 @@ links:
     collection: initiatives
   - title: Frameworks and Blueprints
     collection: frameworks-and-blueprints
-  - title: A Smart Community
-    collection: community
+  - title: Citizen Engagement
+    collection: citizen-engagement
   - title: Resources
     collection: resources
   - title: Careers

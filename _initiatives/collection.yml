@@ -14,6 +14,10 @@ collections:
       - Business & Finance/Networked Trade Platform.md
       - Business & Finance/SGFinDex.md
       - Business & Finance/SGTraDex.md
+      - Care and Support/.keep
+      - Care and Support/Community Care Initiatives.md
+      - Care and Support/GivingSG.md
+      - Care and Support/KampungSpirit.md
       - Commuting and Travel/.keep
       - Commuting and Travel/Smart Transport Initiatives.md
       - Commuting and Travel/Autonomous Vehicles.md
@@ -21,6 +25,10 @@ collections:
       - Commuting and Travel/Contactless Fare Payment For Public Transport.md
       - Commuting and Travel/On Demand Shuttle.md
       - Commuting and Travel/Open Data & Analytics For Urban Transportation.md
+      - Education/.keep
+      - Education/Tech For Education.md
+      - Education/Student Learning Space.md
+      - Education/Parents Gateway.md
       - Government Services/.keep
       - Government Services/Digital Government Services.md
       - Government Services/CentEx.md
@@ -30,40 +38,43 @@ collections:
       - Government Services/LifeSG.md
       - Government Services/Multilingual Digital Services.md
       - Government Services/OpenCerts.md
-      - Government Services/Parents Gateway.md
       - Government Services/SG Translate Together.md
       - Government Services/SG Govt Developer Portal.md
       - Government Services/Singpass.md
-      - Healthy Living/.keep
-      - Healthy Living/Smart Health Initiatives.md
-      - Healthy Living/Assistive Technology and Robotics In Healthcare.md
-      - Healthy Living/HealthHub.md
-      - Healthy Living/National Steps Challenge™ & Healthy 365 App.md
-      - Healthy Living/Project Pensieve.md
-      - Healthy Living/Singapore Eye Lesion Analyser.md
-      - Healthy Living/Telehealth.md
-      - Safeguarding Citizens/.keep
-      - Safeguarding Citizens/Building Trust and Safety.md
-      - Safeguarding Citizens/ScamShield.md
-      - Safeguarding Citizens/SMS Sender ID Registry (SSIR).md
-      - Sustainable Living/.keep
-      - Sustainable Living/Smart Urban Initiatives.md
-      - Sustainable Living/Dengue Hotspots Survey Drones.md
-      - Sustainable Living/Drowning Detection System.md
-      - Sustainable Living/Elderly Monitoring System.md
-      - Sustainable Living/Electronic Payments.md
-      - Sustainable Living/HDB Smart Towns.md
-      - Sustainable Living/Integrated Environmental Modeller.md
-      - Sustainable Living/myENV App.md
-      - Sustainable Living/OneService App.md
-      - Sustainable Living/OneService Chatbot.md
-      - Sustainable Living/Personal Alert Button.md
-      - Sustainable Living/Punggol Smart Town.md
-      - Sustainable Living/Smart Water Meter.md
-      - Sustainable Living/Smart Urban Planning.md
-      - Covid 19/.keep
-      - Covid 19/Responding to COVID 19 with Tech.md
-      - Covid 19/Digital Contact Tracing.md
-      - Covid 19/Economic and Social Support.md
-      - Covid 19/Flow of Verified Information.md
-      - Covid 19/Community Preparedness.md
+      - Health/.keep
+      - Health/Smart Health Initiatives.md
+      - Health/Assistive Technology and Robotics In Healthcare.md
+      - Health/HealthHub.md
+      - Health/National Steps Challenge™ & Healthy 365 App.md
+      - Health/Project Pensieve.md
+      - Health/Singapore Eye Lesion Analyser.md
+      - Health/Telehealth.md
+      - Security and Protection/.keep
+      - Security and Protection/Building Trust and Safety.md
+      - Security and Protection/ScamShield.md
+      - Security and Protection/SMS Sender ID Registry (SSIR).md
+      - Smart City Solutions/.keep
+      - Smart City Solutions/Smart City Projects.md
+      - Smart City Solutions/Dengue Hotspots Survey Drones.md
+      - Smart City Solutions/Drowning Detection System.md
+      - Smart City Solutions/Elderly Monitoring System.md
+      - Smart City Solutions/Electronic Payments.md
+      - Smart City Solutions/HDB Smart Towns.md
+      - Smart City Solutions/Integrated Environmental Modeller.md
+      - Smart City Solutions/myENV App.md
+      - Smart City Solutions/OneService App.md
+      - Smart City Solutions/OneService Chatbot.md
+      - Smart City Solutions/Personal Alert Button.md
+      - Smart City Solutions/Punggol Smart Town.md
+      - Smart City Solutions/Smart Water Meter.md
+      - Smart City Solutions/Smart Urban Planning.md
+      - Transactions/.keep
+      - Transactions/Smart Transactions.md
+      - Transactions/PayNow.md
+      - Transactions/SGQR.md
+      - Covid 19 Tech Solutions/.keep
+      - Covid 19 Tech Solutions/Responding to COVID 19 with Tech.md
+      - Covid 19 Tech Solutions/Digital Contact Tracing.md
+      - Covid 19 Tech Solutions/Economic and Social Support.md
+      - Covid 19 Tech Solutions/Flow of Verified Information.md
+      - Covid 19 Tech Solutions/Community Preparedness.md
