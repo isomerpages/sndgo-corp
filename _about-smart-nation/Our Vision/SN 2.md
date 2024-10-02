@@ -37,4 +37,4 @@ Digital developments must be directed toward outcomes that benefit Singaporeans,
 
 <div style="padding: 40px 0px 0px 0px;"></div>
 
-<div style="width:50%"> <a href="https://go.gov.sg/sn2report" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/sn2_report.png" alt="Smart Nation 2.0 Report">Smart Nation 2.0 Report</a></div>
+<div style="width:50%"> <a href="https://go.gov.sg/sn2report" target="_blank"><img style="border:1px solid black;" src="/images/abt-smart-nation/sn2_report.png" alt="Smart Nation 2.0 Report">Smart Nation 2.0 Report [9MB]</a></div>
