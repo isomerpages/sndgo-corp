@@ -7,6 +7,7 @@ description: Just as technology can help us keep fit and healthy, it can also
   knowledge come alive for all Singaporeans and support them in their lifelong
   learning journeys.
 third_nav_title: Education
+image: /images/initiatives/overview-pages/sls.jpg
 ---
 # Learning with Technology
 

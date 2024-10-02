@@ -3,7 +3,7 @@ title: Frameworks and Blueprints
 permalink: /frameworks-and-blueprints/
 variant: markdown
 description: Frameworks and Blueprints to advance Singapore's Smart Nation vision.
-image: /images/og-image/smart-nation-og-image.jpg
+image: /images/og-image/smartnationogimage.jpg
 ---
 Click on the links below to learn more about the strategies, frameworks and blueprints shaping Singapore's Smart Nation vision.
 
