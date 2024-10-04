@@ -16,7 +16,7 @@ The [inaugural Smart Nation initiative](/sn1) was launched in 2014, driven by a 
 
 <div style="padding: 20px 0px 0px 0px"></div>
 
-<center><div style="font-size:24px; font-weight: 400; line-height: 1.75; background-color: #f3f3f3; ; padding: 20px 40px 20px 40px; margin-left: 0;">"Our vision is for Singapore to be a Smart Nation - A nation where people live meaningful and fulfilled lives, enabled seamlessly by technology, offering exciting opportunities for all."<br></div><div style="font-size:16px; line-height: 1.5; padding: 20px 40px 10px 40px;"><i><a href="https://www.pmo.gov.sg/Newsroom/transcript-prime-minister-lee-hsien-loongs-speech-smart-nation-launch-24-november">Then-Prime Minister Lee Hsien Loong at the launch of Smart Nation 1.0 in 2014</a></i></div></center>
+<center><div style="font-size:24px; font-weight: 400; line-height: 1.75; background-color: #f3f3f3; ; padding: 20px 40px 20px 40px; margin-left: 0;">"Our vision is for Singapore to be a Smart Nation - A nation where people live meaningful and fulfilled lives, enabled seamlessly by technology, offering exciting opportunities for all."<br></div><div style="font-size:16px; line-height: 1.5; padding: 20px 40px 20px 40px;"><i><a href="https://www.pmo.gov.sg/Newsroom/transcript-prime-minister-lee-hsien-loongs-speech-smart-nation-launch-24-november">Then-Prime Minister Lee Hsien Loong at the launch of Smart Nation 1.0 in 2014</a></i></div></center>
 
 Singapore has made significant progress since 2014. Digital technologies have become an integral part of our lives, influencing how we live, work, and play.
 
