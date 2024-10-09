@@ -7,7 +7,7 @@ variant: markdown
 ---
 ##  Connect with us on social media
 
-<div class="row" style="padding: 30px 0px 0px 0px;">
+<div class="row" style="padding: 40px 0px 0px 0px;">
 	
 <div class="col" style="padding: 0px 20px 0px 20px;"><center><div style="width:50%;"><a href="https://www.facebook.com/SmartNationSG"><img src="/images/facebookicon.png" alt="Facebook"></a><br></div></center></div>
 
