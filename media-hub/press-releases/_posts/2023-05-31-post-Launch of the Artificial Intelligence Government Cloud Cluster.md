@@ -7,6 +7,7 @@ description: Government agencies in Singapore can now tap Google Cloud’s
   generative AI capabilities and partner ecosystem to accelerate the development
   of next-generation citizen-centric services.
 image: ""
+variant: markdown
 ---
 ## Smart Nation and Digital Government Office Partners with Google Cloud to Launch Artificial Intelligence Government Cloud Cluster
  
@@ -38,7 +39,7 @@ To enable government agencies to deploy AI applications most effectively and res
 
 Sherie Ng, Country Director, Singapore, Google Cloud, said: “AI can shape the public sector’s digital service delivery in profound and meaningful ways – from [automating data entry](https://cloud.google.com/blog/topics/public-sector/document-ai-government-makes-it-easier-process-documents-and-deliver-better-constituent-services), to [detecting fraud](https://cloud.google.com/blog/topics/public-sector/how-zero-trust-approach-protects-governments-and-constituents-against-fraud), to [accelerating cancer research](https://cloud.google.com/blog/topics/public-sector/googles-work-in-pathology-digitization), to [strengthening emergency response](https://cloud.google.com/blog/topics/public-sector/geodata-rescue-how-d%C3%BCsseldorf-fire-department-uses-google-cloud), to [informing water resource management](https://www.googlecloudpresscorner.com/2022-11-02-South-Florida-Agency-Turns-to-Google-Public-Sector-to-Help-Manage-Critical-Water-Programs), and more. Beyond providing Singapore government agencies with access to advanced and truly open AI technologies, we look forward to working with GovTech to build a vibrant pool of homegrown talent across a range of AI-related roles in public service, to help advance Singapore’s [national strategy](https://www.smartnation.gov.sg/initiatives/artificial-intelligence/) for deploying scalable and responsible AI innovations."
 
-From June 2023, government agencies in Singapore can access the AGCC and other accredited Google Cloud services through the [Government on Commercial Cloud (GCC) 2.0 platform](https://www.developer.tech.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html). Built by GovTech, the GCC platform provides agencies with a consistent and regulated way to adopt commercial cloud solutions. GCC 2.0, the second iteration of the platform, is integrated with cloud-native capabilities and cloud security practices, allowing agencies to tap a wider ecosystem of services and talent to accelerate the development of modern digital applications.
+From June 2023, government agencies in Singapore can access the AGCC and other accredited Google Cloud services through the [Government on Commercial Cloud (GCC) 2.0 platform](https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/). Built by GovTech, the GCC platform provides agencies with a consistent and regulated way to adopt commercial cloud solutions. GCC 2.0, the second iteration of the platform, is integrated with cloud-native capabilities and cloud security practices, allowing agencies to tap a wider ecosystem of services and talent to accelerate the development of modern digital applications.
 
 _______
 
