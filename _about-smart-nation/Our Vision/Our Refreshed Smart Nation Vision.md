@@ -1,5 +1,5 @@
 ---
-title: SN 2
+title: Our Refreshed Smart Nation Vision
 permalink: /sn2/
 variant: markdown
 description: The mark of a truly Smart Nation is to keep striving to be better.

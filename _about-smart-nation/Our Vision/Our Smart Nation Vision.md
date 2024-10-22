@@ -1,5 +1,5 @@
 ---
-title: The Smart Nation Vision
+title: Our Smart Nation Vision
 permalink: /vision/
 description: The Smart Nation initiative is a whole-of-nation effort to build a
   thriving digital future for all.

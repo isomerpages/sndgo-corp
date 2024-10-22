@@ -1,5 +1,5 @@
 ---
-title: SN 1
+title: Our Smart Nation Vision in 2014
 permalink: /sn1/
 variant: markdown
 description: Smart Nation 1.0 was developed to help Singapore ride the wave of
