@@ -8,7 +8,7 @@ description: Our health initiatives focus on equipping Singaporeans with the
 image: /images/initiatives/overview-pages/healthhub.png
 variant: markdown
 ---
-# Smart Inititaives to Improve Healthcare
+# Smart Initiatives to Improve Healthcare
 
 The number of elderly citizens in Singapore is projected to reach 900,000 by 2030. Combined with our low birth rates, the burden of caring for our seniors will get heavier, which makes our healthcare needs a priority. As we move towards being a Smart Nation, we’re constantly exploring technology to create healthcare solutions to proactively meet these needs. 
 
@@ -35,9 +35,9 @@ These are some of the Smart Nation health initiatives we’re working on right n
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/national-steps-challenge"><img src="/images/initiatives/overview-pages/national-steps-challenge.png" alt="Healthy365"></a><br>
-    <div class="header"><b>National Steps Challenge™ &amp; Healthy 365 App</b></div><br>
-    <div class="para"><br>With the integration of wearable step-tracker tech with our National Steps Challenge™, we’re encouraging Singaporeans to lead a healthier, more active lifestyle.
+<a href="/initiatives/healthy-365-app"><img src="/images/initiatives/overview-pages/national-steps-challenge.png![Healthy 365](/images/Healthy_365.png)" alt="Healthy 365"></a><br>
+    <div class="header"><b>Healthy 365 App</b></div><br>
+    <div class="para"><br>Discover programmes, resources, and other features to help you embrace a healthier lifestyle with the Healthy 365 mobile app!
 </div>
 <br></div></div>
 
