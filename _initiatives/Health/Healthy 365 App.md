@@ -11,7 +11,7 @@ variant: tiptap
 <h1>Healthy 365 App</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Healthy 365" src="/images/Healthy_365_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Healthy 365: Your digital companion to holistic health" src="/images/initiatives/Healthy_365_.png">
 </div>
 <p>Healthy 365 offers an increasingly personalised experience that helps
 you achieve overall health through a wide range of fun programmes, challenges,
