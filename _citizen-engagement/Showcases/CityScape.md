@@ -69,7 +69,7 @@ Singapore 069118
 
 #### Opening Hours
 
-Mondays to Saturdays - 9am to 5pm
+Mondays to Saturdays - 9am to 5pm (Closed on Sundays and Public Holidays)
 
 #### Guided Tours
 
