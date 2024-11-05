@@ -8,24 +8,29 @@ description: National Steps Challenge™ is the world’s first population level
 image: /images/initiatives/healthy365_app_screenshot.png
 variant: tiptap
 ---
-# National Steps Challenge™ & Healthy 365 App
-
-![Alt text for image on Isomer site](/images/initiatives/healthy-365.jpg)
-
-The [National Steps Challenge™](https://www.healthhub.sg/programmes/37/nsc) is the world’s first population level, fitness tracker-based physical activity initiative that encourages Singaporeans to move more. 
-
-By leveraging behavioural insights and technology, the Challenge encourages Singaporeans to take more steps and clock moderate-to-vigorous physical activities daily as part of their everyday lives. They do so using a fitness tracker and the Healthy 365 mobile application.
-
-It also rewards them when they reach different physical activity milestones. Participants can look forward to exciting sub-challenges and thematic challenges – all geared towards making moving more fun. 
-
-The National Steps Challenge™ has been well received and these are some of its milestone moments:
-
-* Season 5 of the Challenge attracted over 910,000 sign-ups
-* Results show that participants’ overall physical activity levels have improved,  both in exercise volume and intensity
-* From Season 4 to Season 5, there were 7% more participants who engaged in the recommended 150 minutes of moderate-to-vigorous physical activity per week
-
-#### How You Can Participate:
-
-Eligible participants can collect a HPB Fitness Tracker or use compatible fitness devices and pair these with the Healthy 365 app. Once done, users can clock steps and moderate-to-vigorous physical activity minutes to earn rewards. 
-
-Click on the link for more information on the [National Steps Challenge™](https://www.healthhub.sg/programmes/37/nsc).
+<h1>Healthy 365 App</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Healthy 365" src="/images/Healthy_365_.png">
+</div>
+<p>Healthy 365 offers an increasingly personalised experience that helps
+you achieve overall health through a wide range of fun programmes, challenges,
+and other resources!</p>
+<h4>Goal Settings and Challenges:</h4>
+<p>Set your personal goals for steps, Moderate to Vigorous Physical Activity
+(MVPA), and sleep, and track your progress towards these goals with a compatible
+fitness tracking device. Achieve challenge milestones and be rewarded.</p>
+<h4>Programmes:</h4>
+<p>Up your health game as you earn rewards by participating in programmes
+such as the Eat, Drink, Shop Healthy Challenge.</p>
+<p></p>
+<h4>Workout Classes and Health Workshops</h4>
+<p>Stay healthy with your family, friends, and community – pick from a wide
+range of workout classes and health workshops near you!</p>
+<p></p>
+<h4>Recommended For You</h4>
+<p>Everyone’s health journey is different. The Healthy 365 app supports you
+with health-related resources and programmes (e.g. Live Well, Age Well
+programme targeted for older adults) that are specifically recommended
+for you.</p>
+<p>Download the <a href="go.gov.sg/gethealthy365" rel="noopener nofollow" target="_blank">Healthy 365 app</a> today!</p>
