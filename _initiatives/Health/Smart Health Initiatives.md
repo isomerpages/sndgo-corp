@@ -34,7 +34,7 @@ These are some of the Smart Nation health initiatives we’re working on right n
 
 </div>
 	<div class="col"> 
-<a href="/initiatives/healthy-365-app"><img src="/images/initiatives/overview-pages/![](/images/Healthy_365.png)Healthy_365.png)" alt="Healthy 365"></a><br>
+<a href="/initiatives/healthy-365-app"><img src="/images/initiatives/overview-pages/Healthy_365.png" alt="Healthy 365"></a><br>
     <div class="header"><b>Healthy 365 App</b></div><br>
     <div class="para"><br>Discover programmes, resources, and other features to help you embrace a healthier lifestyle with the Healthy 365 mobile app!
 </div>
