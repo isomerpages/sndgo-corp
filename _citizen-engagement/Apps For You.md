@@ -64,12 +64,12 @@ Want to register your child’s birth, check on the weather, report municipal is
 		
 <tr>
 		 <td style="width:30%">
-      <img alt="Healthy 365" src="/images/community/apps/healthy 365 app 2022.png">
+      <img alt="Healthy 365" src="/images/initiatives/overview-pages/Healthy_365.png">
     </td>	
     <td style="width:70%">
       	<a target="_blank" href="https://hpb.gov.sg/healthy-living/healthy-365">Healthy 365</a><br>
    <br>
-	The must-have app for the National Steps Challenge, an initiative&nbsp;that encourages residents in Singapore&nbsp;to adopt a more active lifestyle, Healthy 365 also tracks one’s health and diet.<br>
+	Stay active, eat healthier, sleep better, and more with Healthy 365! Discover programmes, resources, and other features to help you embrace a healthier lifestyle.<br>
 	<br>
 <div style="width:50%;display:flex;flex-wrap:wrap;">
          <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/healthy-365/id1040202154"><img src="/images/community/appstoreicon/apple-store.png" alt="Apple App Store Link"></a>
