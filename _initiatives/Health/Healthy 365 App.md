@@ -33,4 +33,4 @@ range of workout classes and health workshops near you!</p>
 with health-related resources and programmes (e.g. Live Well, Age Well
 programme targeted for older adults) that are specifically recommended
 for you.</p>
-<p>Download the Healthy 365 app at <a href="http://go.gov.sg/gethealthy365" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/gethealthy365</a> today!</p>
+<p>Learn more <a href="https://www.healthhub.sg/programmes/healthyliving?utm_source=content-partners&amp;utm_medium=referral&amp;utm_campaign=ip-h365&amp;utm_content=smartnationwebsite" rel="noopener nofollow" target="_blank">here</a>.</p>
