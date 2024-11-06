@@ -67,7 +67,7 @@ Want to register your child’s birth, check on the weather, report municipal is
       <img alt="Healthy 365" src="/images/initiatives/overview-pages/Healthy_365.png">
     </td>	
     <td style="width:70%">
-      	<a target="_blank" href="https://hpb.gov.sg/healthy-living/healthy-365">Healthy 365</a><br>
+      	<a target="_blank" href="https://www.healthhub.sg/programmes/healthyliving?utm_source=content-partners&amp;utm_medium=referral&amp;utm_campaign=ip-h365&amp;utm_content=smartnationwebsite">Healthy 365</a><br>
    <br>
 	Stay active, eat healthier, sleep better, and more with Healthy 365! Discover programmes, resources, and other features to help you embrace a healthier lifestyle.<br>
 	<br>
