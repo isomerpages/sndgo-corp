@@ -3,8 +3,8 @@ title: FAQs on Smart Nation Ambassadors
 permalink: /community/smart-nation-ambassadors/faq/
 description: Have a question on our Smart Nation Ambassador Programme? Check out our FAQs.
 image: /images/community/sna/smartnationambassador01.jpg
+variant: markdown
 ---
-
 # Frequently Asked Questions
 
 Have a question on our Smart Nation Ambassador Programme? Check out our FAQs.
@@ -38,9 +38,9 @@ We will ensure you are equipped and trained to enable you to be a Smart Nation a
 
 - SNAs helps guide public on the use of digital government solutions. These include demonstrating government apps, and helping public try out new technologies such as  sensor technology. For example, SNAs were at the Merdeka Generation Roadshows and Skillsfuture Festival to share with the public the benefits of apps like MyTransport.SG and Singpass Mobile, as well as demonstrate how to download and use them on their smartphones.
 
-- SNAs lead and guide groups at events. At larger events such as Digital Inclusion Festival and Smart Nation & U, they act as event guides. They bring the interested public around on tours to event highlights and help guide the public through the various showcases on display.
+- SNAs lead and guide groups at events. At larger events such as Digital Inclusion Festival and Smart Nation &amp; U, they act as event guides. They bring the interested public around on tours to event highlights and help guide the public through the various showcases on display.
 
-- SNAs can teach others about technology. With [#Smart NationTogether](https://together.smartnation.gov.sg/), SNAs have curated an extensive list of live online programmes such as hands-on workshops to learn data analytics tools, lessons on using Zoom and Singpass Mobile, and even coding workshops and STEM classes for families with young children.
+- SNAs can teach others about technology through hands-on workshops and classes on topics like data analytics tools, platforms such as Zoom and Singpass, coding, and more.
 
 - SNAs can set up booths at Smart Nation events to provide hands-on experiences to the public. If you are a tech company or entrepreneur with an interesting solution, or have an idea to showcase, we welcome you to do so at our events! 
  
