@@ -17,12 +17,11 @@ variant: markdown
 
 *Source: [International Institute for Management Development](https://www.imd.org/smart-city-observatory/home/rankings/)*
 
-
 ### IMD World Digital Competitiveness Ranking 
 
 | Year | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 | -------- | -------- | -------- |-------- | -------- | -------- |-------- | -------- | -------- |
-| Rank | - | - | 2 | 2 | 5 | 4 | [3](/images/abt-smart-nation/digital_competitiveness_ranking_2023.jpg) | - |
+| Rank | - | - | 2 | 2 | 5 | 4 | [3](/images/abt-smart-nation/digital_competitiveness_ranking_2023.jpg) | [1](/images/abt-smart-nation/digital_competitiveness_ranking_2024.jpg) |
 
 *Source: [International Institute for Management Development](https://worldcompetitiveness.imd.org/rankings/digital)*
 
