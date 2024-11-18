@@ -10,6 +10,24 @@ third_nav_title: Artificial Intelligence
 ---
 # AI for the Public Good, for Singapore and the World
 
+<br>
+
+<div style="max-width: 1280px">
+    <div style="height: 0;
+            overflow: hidden;
+            position: relative;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/6qHBTi3YQIQ?si=Toazdt0cyprE-nyC" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 100%;
+                border: none;
+                max-width: 100%;
+                position: absolute;"></iframe>
+    </div>
+</div>
+
 As a Smart Nation, our commitment extends beyond merely embracing technology; we aspire to be at the forefront, setting the pace, and driving global innovation and conversations in tech, including AI. 
 
 In 2019, we unveiled our first National AI Strategy, outlining plans to deepen the use of AI to transform our economy. Our early investment in AI led to the establishment of about 150 teams working on research and development, and 900 startups exploring new ideas with AI. Since then, we've witnessed significant breakthroughs in AI, resulting in the development of new products, enhanced capabilities, and transformative interactions. 
