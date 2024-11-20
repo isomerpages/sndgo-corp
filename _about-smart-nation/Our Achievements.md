@@ -45,7 +45,7 @@ variant: markdown
 
 | Year | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 | -------- | -------- | -------- |-------- | -------- | -------- |-------- | -------- | -------- |
-| Rank | - | 7 | - | 11 | - | 12 | - | - |
+| Rank | - | 7 | - | 11 | - | 12 | - | 3 |
 
 *Source: [United Nations (UN)](https://publicadministration.un.org/egovkb/en-us/About/Overview/-E-Government-Development-Index)*
 
