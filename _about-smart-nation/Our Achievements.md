@@ -29,7 +29,7 @@ variant: markdown
 
 | Year | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 | -------- | -------- | -------- |-------- | -------- | -------- |-------- | -------- | -------- |
-| Rank | - | - | - | 8 | 8 | 7 | [5](/images/abt-smart-nation/global_innovation_index_2023.jpg) | - |
+| Rank | - | - | - | 8 | 8 | 7 | [5](/images/abt-smart-nation/global_innovation_index_2023.jpg) | [4](/images/abt-smart-nation/global_innovation_index_2024.jpg) |
 
 *Source: [World Intellectual Property Organization (WIPO)](https://www.wipo.int/global_innovation_index/en/)*
 
