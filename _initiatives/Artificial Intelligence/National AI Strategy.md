@@ -99,20 +99,20 @@ To achieve our vision and goals, we will direct efforts under NAIS 2.0 toward **
 
 
 
-## Applications of AI
+## AI in action
 
-Wondering how we've harnessed AI for the well-being of our citizens and businesses? Check out these examples showcasing we've applied AI in Singapore.
+AI is transforming Singapore for the better. Explore how we're not only applying AI but also driving projects that enable its impactful use for our people and businesses!
 
 
 <div class="row">
 	
 <div class="col"> 
-<a href="/initiatives/project-pensieve/"><img src="/images/initiatives/project-pensieve.jpg" alt="Project Pensieve"></a><div style="font-size:18px;"><b><center>Project Pensieve</center></b></div><div style="font-size:18px; line-height:32px">Can technology help spot early signs of dementia? GovTech is piloting Project Pensieve, a screening tool that can detect signs of dementia by analysing a user’s drawings.
-		<br></div>
+<a href="https://aiverifyfoundation.sg/what-is-ai-verify/"><img src="/images/initiatives/ai_verify.jpg" alt="AI Verify"></a><div style="font-size:18px;"><b><center>AI Verify</center></b></div><div style="font-size:18px; line-height:32px">AI Verify is an AI governance testing framework and software toolkit that validates the performance of AI systems against a set of internationally recognised principles through standardised tests.
 </div>
+<br></div>
 	
 <div class="col"> 
-<a href="/initiatives/selena-plus/"><img src="/images/initiatives/selena.jpeg" alt="SELENA+"></a><div style="font-size:18px;"><b><center>SELENA+</center></b></div><div style="font-size:18px; line-height:32px">Singapore Eye Lesion Analyser (SELENA+) is a deep-learning AI software system that can detect potential threatening eye conditions accurately and efficiently.
+<a href="https://www.imda.gov.sg/about-imda/emerging-technologies-and-research/artificial-intelligence/national-speech-corpus"><img src="/images/initiatives/nsc.jpg" alt="National Speech Corpus (NSC)"></a><div style="font-size:18px;"><b><center>National Speech Corpus (NSC)</center></b></div><div style="font-size:18px; line-height:32px">The National Speech Corpus (NSC) is the first large-scale Singapore English corpus. It aims to become a valuable resource for researchers and developers working on AI machine learning and automatic speech recognition (ASR) technology.
 <br></div>
 </div>
 	
@@ -122,6 +122,27 @@ Wondering how we've harnessed AI for the well-being of our citizens and business
 <br></div>
 	
 </div>
+
+<div class="row">
+
+<div class="col"> 
+<a href="https://aiverifyfoundation.sg/project-moonshot/"><img src="/images/initiatives/project_moonshot.jpg" alt="Project Moonshot"></a><div style="font-size:18px;"><b><center>Project Moonshot</center></b></div><div style="font-size:18px; line-height:32px">Project Moonshot is one of the world’s first Large Language Model (LLM) Evaluation Toolkits, designed to integrate&nbsp;benchmarking, red teaming,&nbsp;and&nbsp;testing baselines.
+</div>
+<br></div>	
+	
+<div class="col"> 
+<a href="/initiatives/project-pensieve/"><img src="/images/initiatives/project-pensieve.jpg" alt="Project Pensieve"></a><div style="font-size:18px;"><b><center>Project Pensieve</center></b></div><div style="font-size:18px; line-height:32px">Can technology help spot early signs of dementia? GovTech is piloting Project Pensieve, a screening tool that can detect signs of dementia by analysing a user’s drawings.
+</div>
+<br></div>
+	
+<div class="col"> 
+<a href="/initiatives/selena-plus/"><img src="/images/initiatives/selena.jpeg" alt="SELENA+"></a><div style="font-size:18px;"><b><center>SELENA+</center></b></div><div style="font-size:18px; line-height:32px">Singapore Eye Lesion Analyser (SELENA+) is a deep-learning AI software system that can detect potential threatening eye conditions accurately and efficiently.
+</div>
+<br></div>
+	
+	
+</div>
+	
 	
 ## Working Together
 
