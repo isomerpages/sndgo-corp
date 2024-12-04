@@ -28,7 +28,7 @@ third_nav_title: Smart City Solutions
     </div>
 </div>
 
-[PAB](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/personal-alert-button/overview.html) is an alert device that can be installed in an elderly’s home. When a senior in distress activates the PAB, a distress signal will be sent to either a&nbsp;[Senior Activity Centre (SAC)](https://www.healthhub.sg/a-z/medical-and-care-facilities/8/senior_activity_centre)&nbsp;or&nbsp;[CareLine](https://www.singhealth.com.sg/rhs/live-well/CareLine/about-us), which is a 24-hour telecare service provided by Changi General Hospital (CGH).
+[PAB](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/pab/overview.html) is an alert device that can be installed in an elderly’s home. When a senior in distress activates the PAB, a distress signal will be sent to either a&nbsp;[Senior Activity Centre (SAC)](https://www.healthhub.sg/a-z/medical-and-care-facilities/8/senior_activity_centre)&nbsp;or&nbsp;[CareLine](https://www.singhealth.com.sg/rhs/live-well/CareLine/about-us), which is a 24-hour telecare service provided by Changi General Hospital (CGH).
 
 Upon receiving a distress alert from the PAB, staff will triage the situation and respond accordingly. The staff may communicate with the distressed senior using the PAB’s 4G technology which enables two-way communication, or use a 10 second audio recording to triage the situation within the household.
 
