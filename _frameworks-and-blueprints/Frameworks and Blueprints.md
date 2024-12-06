@@ -16,7 +16,7 @@ Click on the links below to learn more about the strategies, frameworks and blue
 <div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://go.gov.sg/nais2023"><img src="/images/abt-smart-nation/nais2_cover.jpg" alt="Singapore National AI Strategy 2.0"></a></div><br><b>Singapore National AI Strategy 2.0 (2023) [7MB]</b><br><br>NAIS 2.0 outlines our vision for Singapore to be a place where AI serves as a force for good, and where we harness AI to uplift and empower our people and businesses. 
 	<br><br></div>
 	
-<div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://www.imda.gov.sg/-/media/imda/files/infocomm-media-landscape/research-and-statistics/sgde-report/singapore-digital-economy-report-2024.pdf"><img src="/images/abt-smart-nation/sg_digital_economy_report_2024.jpg" alt="Singapore Digital Economy Report"></a></div><br><b>Singapore Digital Economy Report 2024 [4.6MB]</b><br><br>The Digital Economy Report captures the Digital Economy’s impact on GDP growth, trends in tech adoption and demand for tech professionals.<br><br></div>	
+<div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://go.gov.sg/digitaleconomyreport2024"><img src="/images/abt-smart-nation/sg_digital_economy_report_2024.jpg" alt="Singapore Digital Economy Report"></a></div><br><b>Singapore Digital Economy Report 2024 [4.6MB]</b><br><br>The Digital Economy Report captures the Digital Economy’s impact on GDP growth, trends in tech adoption and demand for tech professionals.<br><br></div>	
 	
 
 	
