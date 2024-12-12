@@ -3,6 +3,7 @@ title: Resources for Developers
 permalink: /resources/for-developers/
 description: ""
 variant: markdown
+image: /images/og-image/smartnationogimage.jpg
 ---
 # Singapore Government Developer Portal
 

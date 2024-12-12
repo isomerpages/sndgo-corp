@@ -3,7 +3,7 @@ title: Resources for Businesses
 permalink: /resources/business/
 description: Whether you’re just starting out or looking to expand your
   operations, we want to help you along this entrepreneurial journey.
-image: /images/og-image/smart-nation-og-image.jpg
+image: /images/og-image/smartnationogimage.jpg
 variant: tiptap
 ---
 <p>Venturing into a new business or running an existing one can be fraught
