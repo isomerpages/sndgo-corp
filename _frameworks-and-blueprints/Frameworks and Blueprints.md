@@ -41,16 +41,12 @@ Click on the links below to learn more about the strategies, frameworks and blue
 	
 <div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://go.gov.sg/sndigitalsocietyreport2023"><img src="/images/abt-smart-nation/digital_society_report_2023.jpg" alt="Singapore Digital Society Report"></a></div><br><b>Singapore Digital Society Report 2023 [19MB]</b><br><br>The Digital Society Report tracks the state of digital society in Singapore over the years and recommends initiatives to build a more digitally inclusive society.<br><br></div>	
 	
-	
-<div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://go.gov.sg/digitalreadinessblueprint2018"><img src="/images/abt-smart-nation/digital-readiness-blueprint2.png" alt="Digital Readiness Blueprint"></a></div><br><b>Digital Readiness Blueprint (2018) [1MB]</b><br><br>The Digital Readiness Blueprint sets out recommendations for building Digital Readiness in Singaporeans.
-	<br><br></div>	
+<div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://go.gov.sg/sgcyberlandscape2023"><img src="/images/abt-smart-nation/sg_cyber_landscape_2023.jpg" alt="Singapore Cyber Landscape 2023"></a></div><br><b>Singapore Cyber Landscape 2023 [9.7MB]</b><br><br>The “Singapore Cyber Landscape 2023 reviews Singapore’s cybersecurity situation in 2023 against the backdrop of global trends and events, and highlights Singapore’s efforts in creating a safer cyberspace.
+	<br><br></div>		
 
 </div>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
-	
-<div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://go.gov.sg/sgcyberlandscape2023"><img src="/images/abt-smart-nation/sg_cyber_landscape_2023.jpg" alt="Singapore Cyber Landscape 2023"></a></div><br><b>Singapore Cyber Landscape 2023 [9.7MB]</b><br><br>The “Singapore Cyber Landscape 2023 reviews Singapore’s cybersecurity situation in 2023 against the backdrop of global trends and events, and highlights Singapore’s efforts in creating a safer cyberspace.
-	<br><br></div>		
 	
 <div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://go.gov.sg/sncybersecuritystrategy2021"><img src="/images/abt-smart-nation/sg_cybersecurity_strategy.jpg" alt="Singapore Cybersecurity Strategy"></a></div><br><b>Singapore Cybersecurity Strategy (2021) [5MB]</b><br><br>The Singapore Cybersecurity Strategy 2021 builds upon the first strategy launched in 2016, outlining Singapore’s updated goals and approach to adapt to a rapidly evolving strategic and technological environment.
 	<br><br></div>
@@ -58,7 +54,9 @@ Click on the links below to learn more about the strategies, frameworks and blue
 <div class="col" style="padding: 10px 20px 10px 20px;"><div style="border:1px solid black;"><a href="https://go.gov.sg/digitalgovernmentblueprint2020"><img src="/images/abt-smart-nation/digital_government_blueprint.jpg" alt="Digital Government Blueprint"></a></div><br><b>Digital Government Blueprint (2020) [280KB]</b><br><br>The Digital Government Blueprint details 14 key performance indicators (KPIs) to measure our Government’s digitalisation progress.
 	<br><br></div>
 	
-
+<div class="col" style="padding: 10px 20px 10px 20px;"></div>
 	
-</div>	
+</div>
+
+To view older documents, click on the link to our [document archive](/archive/documents/).
 
