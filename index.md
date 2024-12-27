@@ -5,7 +5,7 @@ description: A Thriving Digital Future for All
 permalink: /
 sections:
   - hero:
-      background: /images/transforming_sg_through_technology_website_cover_estate.jpg
+      background: /images/A_Thriving_Digital_Future_for_All.jpg
       key_highlights:
         - title: OUR VISION
           description: Learn more about Smart Nation
