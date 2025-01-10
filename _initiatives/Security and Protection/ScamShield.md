@@ -5,29 +5,31 @@ description: ScamShield is a product suite that defends against scams, and was
   developed by Open Government Products in collaboration with the Singapore
   Police Force (SPF) and the National Crime Prevention Council (NCPC).
 third_nav_title: Security and Protection
-variant: tiptap
+variant: markdown
 ---
 # Guard against scammers with ScamShield
 
-![ScamShield](/images/initiatives/overview-pages/scamshield-overview.jpg)
+![ScamShield](/images/initiatives/scamshield_kv.jpg)
 
-[ScamShield](https://www.scamshield.org.sg/) is a product suite that defends against scams, and was developed by Open Government Products in collaboration with the Singapore Police Force (SPF) and the National Crime Prevention Council (NCPC).
+[ScamShield](https://www.scamshield.gov.sg/) is a suite of products and tools that helps defend against scams. The suite consists of the ScamShield helpline (reachable at 1799), ScamShield app (for iPhone and Android), a website ([www.scamshield.gov.sg](http://www.scamshield.gov.sg/)) with a range of anti-scam resources, and ScamShield Alert Social Channels on WhatsApp and Telegram.  
+  
+Each of these plays a crucial role in empowering individuals to fight against scams, as well as keeping the community safe from fraudulent activities.
 
 ## ScamShield App
 
-The ScamShield App detects scam calls by cross-referencing unknown numbers with a database maintained by the Singapore Police Force. If ScamShield identifies the number as associated with scams, it will be automatically blocked. For incoming SMSes from non-saved contacts, ScamShield employs an on-device algorithm to assess whether the message is a scam.
+The ScamShield App lets you check suspicious calls, websites, and messages (SMS, Telegram, and WhatsApp) to know if they’re scams. Together with improved blocking and filtering of scam calls and SMSes, the app offers better protection against scams for you and your loved ones.
 
-The ScamShield mobile app has 3 main features: 
+![ScamShield - Check for scams](/images/initiatives/scamshield_checkforscams.png)
+![ScamShield - Report scams](/images/initiatives/scamshield_reportscams.png)
+![ScamShield - Block and filter scams](/images/initiatives/scamshield_blockfilterscams.png)
 
-*   Automatically blocks scam calls
-*   Automatically detects scam messages
-*   Allows users to report scam messages and calls
+## 1799 ScamShield Helpline
 
-## ScamShield Bot
+The anti-scam helpline is available 24/7, to offer immediate support for anyone who needs assistance in verifying potential scams. If you have concerns about a suspicious offer or need guidance on how to protect yourself, our operators are here to provide you with the support you need to protect you from fraudulent activities at any time of the day. Learn more about the ScamShield Helpline by clicking this [link](https://www.scamshield.gov.sg/scamshield-helpline).
 
-The ScamShield Bot was developed to increase ease of reporting scams and to help users identify scams. With scams increasingly migrating to 3rd party platforms like WhatsApp, the ScamShield Bot on WhatsApp makes it easy for users to simply forward scam messages received on WhatsApp, or from any other 3rd party platform, and report them to the Singapore Police Force.
+![ScamShield Helpline](/images/initiatives/scamshield_1799_KV_Banner.png)
 
-The ScamShield Bot has 2 core features: 
+## One-stop portal on scams
 
-*   Check if a message or a call is a scam
-*   Report scams to the Singapore Police Force
+Find up-to-date information on current scam trends, tips on how to safeguard yourself against scams and steps to take if you’ve fallen for a scam on [www.scamshield.gov.sg](http://www.scamshield.gov.sg/). You can send scam-related queries directly to our helpline operators through the online chat to check if something is a scam.
+
