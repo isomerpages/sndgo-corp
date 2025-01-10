@@ -16,7 +16,7 @@ As more aspects of our lives and government services move to the digital space, 
 <div class="row">
 
 <div class="col"> 
-<a href="/initiatives/scamshield"><img src="/images/initiatives/overview-pages/scamshield-overview.jpg" alt="ScamShield"></a><br>
+<a href="/initiatives/scamshield"><img src="/images/initiatives/scamshield_banner.jpg" alt="ScamShield"></a><br>
      <div class="header"><b>ScamShield</b></div><br>
     <div class="para"><br>ScamShield is a product suite that defends against scams, and was developed by Open Government Products in collaboration with the Singapore Police Force (SPF) and the National Crime Prevention Council (NCPC).
 </div>
