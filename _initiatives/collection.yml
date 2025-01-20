@@ -2,10 +2,10 @@ collections:
   initiatives:
     output: true
     order:
-      - Artificial Intelligence/Singapore AI Research Week.md
       - Artificial Intelligence/.keep
       - Artificial Intelligence/National AI Strategy.md
       - Artificial Intelligence/Be part of our AI Journey.md
+      - Artificial Intelligence/Singapore AI Research Week.md
       - Business & Finance/.keep
       - Business & Finance/Business & Finance Initiatives.md
       - Business & Finance/Corppass.md
