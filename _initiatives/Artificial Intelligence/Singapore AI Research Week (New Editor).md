@@ -5,20 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: Artificial Intelligence
 ---
-<h2><em>Singapore AI Research Week</em></h2>
-<h2>LAUNCH EVENT</h2>
-<h3>Date: 23 to 30 April 2025</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_AI_Week.png">
+</div>
 <h4>About</h4>
 <p>Place Holder Text Place Holder Text Place Holder Text Place Holder Text
 Place Holder Text Place Holder Text Place Holder Text Place Holder Text
-Place Holder Text Place Holder Text Place Holder Text Place Holder Text
-Place Holder Text Place Holder Text Place Holder Text</p>
+Place Holder Text Place Holder Text</p>
 <h4>Programme</h4>
 <p>Place Holder Text Place Holder Text Place Holder Text Place Holder Text
 Place Holder Text Place Holder Text Place Holder Text Place Holder Text
-Place Holder Text Place Holder Text Place Holder Text Place Holder Text
-Place Holder Text Place Holder Text Place Holder Text</p>
+Place Holder Text Place Holder Text</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
