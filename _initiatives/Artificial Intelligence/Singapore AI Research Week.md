@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Artificial Intelligence
 ---
 <h3>Singapore AI Research Week</h3>
-<h1>Launch Event</h1>
+<h3>Launch Event</h3>
 <p>Date: 23 to 30 April, 2025</p>
-<p>Location:</p>
 <p></p>
