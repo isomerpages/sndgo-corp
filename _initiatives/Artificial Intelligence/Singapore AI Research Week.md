@@ -5,12 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Artificial Intelligence
 ---
-<div style="font-size:35px;"><b><center>Singapore AI Research Week</center></b></div><b>
+## <div style="font-size:48px;"><b><center>Singapore AI Research Week</center></b></div><b>
 
-## <div style="font-size:55px;"><b><center>LAUNCH EVENT</center></b></div><b>
-	
-
-## <div style="font-size:35px;"><b><center>Date: 23 to 30 April 2025
+<div style="font-size:35px;"><b><center>23 to 30 April 2025
 
 
 <p>
@@ -26,7 +23,7 @@ Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Ho
 
 
 Place Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text 
-</p></center></b></div></b></b>
+</p></center></b></div></b>
 
 <p>
 </p><p>
