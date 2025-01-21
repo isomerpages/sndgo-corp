@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Artificial Intelligence
 ---
 <p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_AI_Week.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_21_at_5_26_01_PM.png">
 </div>
 <h4>About</h4>
 <p>Place Holder Text Place Holder Text Place Holder Text Place Holder Text
@@ -331,10 +332,10 @@ Place Holder Text Place Holder Text</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Place Holder Text</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Place Holder Text</p>
 </td>
 </tr>
 </tbody>
