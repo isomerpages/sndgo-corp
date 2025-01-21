@@ -13,24 +13,4 @@ third_nav_title: Artificial Intelligence
 <p>
 </p><p>
 	
-### About
-
-Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text 
-
-
-
-### Programme
-
-
-Place Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text Place Holder Text 
-</p></center></b></div></b>
-
-<p>
-</p><p>
-</p><p>
-	
-| Time | Event |
-| -------- | -------- |
-| Place Holder Text   | Place Holder Text  | 
-
-</p>
+(for screenshotting purposes)</p></center></b></div></b>
