@@ -291,8 +291,11 @@ Place Holder Text Place Holder Text</p>
 <details class="isomer-details">
 <summary>29 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<p>Table</p>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -304,21 +307,43 @@ Place Holder Text Place Holder Text</p>
 <th rowspan="1" colspan="1">
 <p>Event</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>RSVP</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>9:20 - 10:20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event Name - Organiser
+<br><em>Event Description</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Place Holder Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Link)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>13:30 - 15:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event Name - Organiser
+<br><em>Event Description</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Place Holder Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Walk-ins allowed</p>
 </td>
 </tr>
 </tbody>
