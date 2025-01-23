@@ -258,7 +258,7 @@ Place Holder Text Place Holder Text</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Place Holder Text
-<br><em>Details about  Event </em>
+<br><em>Details about Event</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -365,76 +365,4 @@ Place Holder Text Place Holder Text</p>
 </div>
 </details>
 </div>
-<table style="minWidth: 150px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Organiser</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
