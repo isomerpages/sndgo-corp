@@ -230,8 +230,10 @@ Place Holder Text Place Holder Text</p>
 <details class="isomer-details">
 <summary>28 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -243,6 +245,28 @@ Place Holder Text Place Holder Text</p>
 <th rowspan="1" colspan="1">
 <p>Event</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organiser</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Place Holder Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Place Holder Text
+<br><em>Details about  Event </em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Place Holder Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Place Holder Text</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -251,8 +275,6 @@ Place Holder Text Place Holder Text</p>
 <td rowspan="1" colspan="1">
 <p>Place Holder Text</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Place Holder Text</p>
 </td>
@@ -343,4 +365,76 @@ Place Holder Text Place Holder Text</p>
 </div>
 </details>
 </div>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organiser</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
