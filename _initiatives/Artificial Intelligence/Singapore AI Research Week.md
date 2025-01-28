@@ -17,14 +17,19 @@ Place Holder Text Place Holder Text</p>
 <h4>Programme</h4>
 <p>Place Holder Text Place Holder Text Place Holder Text Place Holder Text
 Place Holder Text Place Holder Text Place Holder Text Place Holder Text
-Place Holder Text Place Holder Text</p>
-<p></p>
+Place Holder Text Place Holder Text
+<br>
+<br><strong>For more information: &lt;Link to Gdrive folder of daily agenda/programmes&gt;</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>23 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<p>Table</p>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -36,21 +41,56 @@ Place Holder Text Place Holder Text</p>
 <th rowspan="1" colspan="1">
 <p>Event</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>RSVP</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>10:00-11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>A*STAR</p>
+<p>AI in Drug Discovery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>14:00-17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>A*STAR</p>
+<p>Multimodal LLM: Insights, Innovations, and Real-world Applications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDDI-NAIG</p>
+<p>AI Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
 </td>
 </tr>
 </tbody>
@@ -68,8 +108,10 @@ Place Holder Text Place Holder Text</p>
 <p></p>
 </div>
 </details>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -81,21 +123,56 @@ Place Holder Text Place Holder Text</p>
 <th rowspan="1" colspan="1">
 <p>Event</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>RSVP</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>09:00-18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>A*STAR</p>
+<p>Online Trust &amp; Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>14:00-19:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>A*STAR</p>
+<p>AI for Manufacturing Industry Forum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A*STAR</p>
+<p>Singapore Symposium on Natural Language Processing 2024 @ SUTD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
 </td>
 </tr>
 </tbody>
@@ -112,123 +189,6 @@ Place Holder Text Place Holder Text</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>25 APRIL 2025</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>26 APRIL 2025</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>27 APRIL 2025</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>28 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 100px">
 <colgroup>
@@ -249,7 +209,67 @@ Place Holder Text Place Holder Text</p>
 <p>Venue</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Organiser</p>
+<p>RSVP</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:00-12:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI Singapore</p>
+<p>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Place Holder Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Place Holder Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>26 APRIL 2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>RSVP</p>
 </th>
 </tr>
 <tr>
@@ -257,15 +277,133 @@ Place Holder Text Place Holder Text</p>
 <p>Place Holder Text</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text
-<br><em>Details about Event</em>
-</p>
+<p>Place Holder Text</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Place Holder Text</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Place Holder Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>27 APRIL 2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>RSVP</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Place Holder Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Place Holder Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Place Holder Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Place Holder Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>28 APRIL 2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>RSVP</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:00-11:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI Singapore</p>
+<p>National Olympiad in AI 2025 Prize Award Ceremony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -355,8 +493,11 @@ Place Holder Text Place Holder Text</p>
 <details class="isomer-details">
 <summary>30 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<p>Table</p>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -368,6 +509,27 @@ Place Holder Text Place Holder Text</p>
 <th rowspan="1" colspan="1">
 <p>Event</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>RSVP</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDDI-NAIG</p>
+<p>AI Wednesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -376,13 +538,11 @@ Place Holder Text Place Holder Text</p>
 <td rowspan="1" colspan="1">
 <p>Place Holder Text</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p></p>
 </td>
 </tr>
 </tbody>
