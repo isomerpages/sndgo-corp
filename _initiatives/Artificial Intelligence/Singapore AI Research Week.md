@@ -11,15 +11,16 @@ third_nav_title: Artificial Intelligence
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_21_at_5_26_01_PM.png">
 </div>
 <h4>About</h4>
-<p>Place Holder Text Place Holder Text Place Holder Text Place Holder Text
-Place Holder Text Place Holder Text Place Holder Text Place Holder Text
-Place Holder Text Place Holder Text</p>
+<p>The Singapore AI Research Week is an inaugural event packed with exciting
+programmes, including expert talks, panel discussions, interactive workshops,
+and networking opportunities.</p>
+<p>Dive in to explore the latest in AI, connect with leading researchers,
+and discover what Singapore has to offer in the world of innovation.</p>
 <h4>Programme</h4>
-<p>Place Holder Text Place Holder Text Place Holder Text Place Holder Text
-Place Holder Text Place Holder Text Place Holder Text Place Holder Text
-Place Holder Text Place Holder Text
+<p>Explore the full event lineup below and discover the exciting opportunities
+that await!
 <br>
-<br><strong>For more information: &lt;Link to Gdrive folder of daily agenda/programmes&gt;</strong>
+<br><strong>For more information: Coming Soon</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -86,7 +87,7 @@ Place Holder Text Place Holder Text
 <p>AI Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>22 Cross Street</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
@@ -153,29 +154,8 @@ Place Holder Text Place Holder Text
 <p>TBA</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A*STAR</p>
-<p>Singapore Symposium on Natural Language Processing 2024 @ SUTD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-</tr>
 </tbody>
 </table>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 </div>
 </details>
 </div>
@@ -212,20 +192,6 @@ Place Holder Text Place Holder Text
 <td rowspan="1" colspan="1">
 <p>AI Singapore</p>
 <p>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
@@ -398,20 +364,6 @@ Place Holder Text Place Holder Text
 <p>TBA</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-</tr>
 </tbody>
 </table>
 </div>
@@ -511,8 +463,7 @@ Place Holder Text Place Holder Text
 <p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDDI-NAIG</p>
-<p>AI Wednesdays</p>
+<p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
