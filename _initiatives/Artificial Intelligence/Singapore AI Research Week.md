@@ -25,7 +25,6 @@ Place Holder Text Place Holder Text
 <details class="isomer-details">
 <summary>23 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -102,12 +101,6 @@ Place Holder Text Place Holder Text
 <details class="isomer-details">
 <summary>24 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -368,7 +361,6 @@ Place Holder Text Place Holder Text
 <details class="isomer-details">
 <summary>28 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -429,7 +421,6 @@ Place Holder Text Place Holder Text
 <details class="isomer-details">
 <summary>29 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -493,7 +484,6 @@ Place Holder Text Place Holder Text
 <details class="isomer-details">
 <summary>30 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
