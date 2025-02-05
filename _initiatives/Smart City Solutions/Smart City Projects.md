@@ -34,27 +34,18 @@ The initiatives below outline how we aim to achieve this.
 </div>		
 	
 <div class="col"> 
-<a href="/initiatives/ems"><img src="/images/initiatives/hdbsmartimage_thumbnail.jpeg" alt="Elderly Monitoring System"></a><br>
-	<div class="header"><b>Elderly Monitoring System</b></div><br>
-	<div class="para"> The system  learns the daily habits of seniors through the help of motion sensors and alerts you or other caregivers in times of need or when irregular patterns in behavior are detected
-</div>
-<br>
-</div>	
-	
-
-	
-</div>
-	
-<div class="row">	
-	
-<div class="col"> 
 <a href="/initiatives/e-payments"><img src="/images/initiatives/e-payments-snp.jpeg" alt="E-Payments"></a><br>
 	<div class="header"><b>E-Payments</b></div><br>
 	<div class="para"> To make financial transactions more seamless and efficient for all, we’re constantly working towards a simple and secure platform that operates across various systems.
 </div>
 <br>
 </div>	
+	
 
+</div>
+	
+<div class="row">	
+	
 <div class="col"> 
 <a href="/initiatives/hdb-smart-towns"><img src="/images/initiatives/overview-pages/smart-towns.png" alt="HDB Smart Towns"></a><br>
     <div class="header"><b>HDB Smart Towns</b></div><br>
@@ -62,19 +53,13 @@ The initiatives below outline how we aim to achieve this.
 </div>
 <br>
 </div>	
-	
+
 <div class="col"> 
 <a href="/initiatives/integrated-environmental-modeller"><img src="/images/initiatives/iem thumbnail.png" alt="IEM"></a>
 		<div class="header"> <br><b>Integrated Environmental Modeller<br></b></div><br><br>
 		<div class="para">Integrated Environmental Modeller (IEM) is a first-of-its-kind integrated and scalable tool to simulate the effects of environmental factors on the design of open spaces and building layouts, using the latest high performance computing technology.
 </div><br>
 </div>	
-	
-
-	
-</div>
-
-<div class="row">
 	
 <div class="col"> 
 <a href="/initiatives/myenv-app"><img src="/images/initiatives/overview-pages/myenv.jpeg" alt="myENV App"></a><br>
@@ -83,13 +68,19 @@ The initiatives below outline how we aim to achieve this.
 </div>
 <br></div>		
 	
+
+	
+</div>
+
+<div class="row">
+	
 <div class="col"> 
 <a href="/initiatives/oneservice-app"><img src="/images/initiatives/overview-pages/oneservice_app.jpeg" alt="OneService App"></a><br>
     <div class="header"><b>OneService App</b></div><br>
     <div class="para">A convenient, one-stop platform for the public to report issues they come across in their neighbourhoods.
 </div>
 <br>
-</div>	
+</div>		
 	
 <div class="col"> 
 <a href="/initiatives/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice_chatbot.jpg" alt="OneService Chatbot"></a><br>
@@ -99,10 +90,6 @@ The initiatives below outline how we aim to achieve this.
 <br>
 </div>
 	
-</div>
-
-<div class="row">
-	
 <div class="col"> 
 <a href="/initiatives/personal-alert-button"><img src="/images/initiatives/pab.jpg" alt="Personal Alert Button"></a><br>
 	<div class="header"><b>Personal Alert Button (PAB)</b></div><br>
@@ -111,6 +98,10 @@ The initiatives below outline how we aim to achieve this.
 <br>
 </div>		
 	
+</div>
+
+<div class="row">
+	
 <div class="col"> 
 <a href="/initiatives/punggolst"><img src="/images/initiatives/pdd.jpeg" alt="Punggol Smart Town"></a><br>
 	<div class="header"><b>Punggol Smart Town</b></div><br>
@@ -118,7 +109,7 @@ The initiatives below outline how we aim to achieve this.
 </div>
 <br>
 </div>	
-
+	
 <div class="col"> 
 <a href="/initiatives/smartwatermeter/"><img src="/images/initiatives/overview-pages/amr-trial.png" alt="Smart Water Meter"></a><br>
 		<div class="header"><b>Smart Water Meter</b></div><br>
@@ -126,16 +117,17 @@ The initiatives below outline how we aim to achieve this.
 </div>
 <br></div>
 
-</div>
-
-<div class="row">
-
 <div class="col"> 
 <a href="/initiatives/urban-planning"><img src="/images/initiatives/overview-pages/planning-people-businesses.png" alt="Smart Urban Planning"></a><br>
      <div class="header"><b>Smart Urban Planning</b></div><br>
     <div class="para">Tech helps urban planners better make use of our limited land to create sustainable, quality spaces for working and living in Singapore.
 </div>
 <br></div>
+
+</div>
+
+<div class="row">
+
 	
 <div class="col"></div> 	
 
