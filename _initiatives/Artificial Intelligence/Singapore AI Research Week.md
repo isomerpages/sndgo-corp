@@ -393,6 +393,9 @@ Design</p>
 </div>
 </details>
 </div>
-<h4>Jointly organised by</h4>
+<h4>Jointly Organised By</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MDDI_NRF_Co_organise.png">
+</div>
 <h4><br><br></h4>
 <p></p>
