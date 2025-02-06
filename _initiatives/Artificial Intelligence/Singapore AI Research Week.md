@@ -219,12 +219,12 @@ Technology Centre</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00-12:30</p>
+<p>09:00 -</p>
+<p>12:30</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>AI Singapore</strong>
-</p>
-<p>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2</p>
+<br>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
