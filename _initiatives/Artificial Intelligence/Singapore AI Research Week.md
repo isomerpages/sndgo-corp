@@ -20,15 +20,14 @@ and discover what Singapore has to offer in the world of innovation.</p>
 <p>Explore the full event lineup below and discover the exciting opportunities
 that await! 💫
 <br>
-<br><strong>Agenda details coming soon! 👀</strong>
+<br><strong>Agenda and RSVP details coming soon! 👀</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>23 APRIL 2025 | WED</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -44,9 +43,6 @@ that await! 💫
 <th rowspan="1" colspan="1">
 <p>Venue</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>RSVP</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -58,9 +54,6 @@ that await! 💫
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -75,41 +68,6 @@ Design</p>
 <td rowspan="1" colspan="1">
 <p>50 Nanyang Ave, Singapore 639798, Nanyang Technological University</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10:00 - 11:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI in Drug Discovery
-<br><strong><em>A*STAR</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14:00 - 16:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Multimodal LLM: Insights, Innovations, and Real-world Applications
-<br><strong><em>A*STAR</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -123,9 +81,6 @@ Design</p>
 <td rowspan="1" colspan="1">
 <p>22 Cross Street, Singapore 048421</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -136,9 +91,9 @@ Design</p>
 <details class="isomer-details">
 <summary>24 APRIL 2025 | THU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 100px">
+<p>Table</p>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -154,13 +109,10 @@ Design</p>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>RSVP</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00-18:00</p>
+<p>09:00-11:00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Online Trust &amp; Safety
@@ -171,8 +123,19 @@ Design</p>
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>11:30 - 12:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI in Drug Discovery
+<br><strong><em>A*STAR</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
 </td>
 </tr>
 <tr>
@@ -188,9 +151,6 @@ Design</p>
 <p>3 Cleantech Loop, #01-01, Singapore 637143, Advanced Remanufacturing and
 Technology Centre</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -201,9 +161,8 @@ Technology Centre</p>
 <details class="isomer-details">
 <summary>25 APRIL 2025 | FRI</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -219,9 +178,6 @@ Technology Centre</p>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>RSVP</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -232,9 +188,6 @@ Technology Centre</p>
 <p>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2
 <br><strong><em>AI Singapore</em></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
@@ -253,9 +206,6 @@ Technology Centre</p>
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -266,9 +216,8 @@ Design</p>
 <details class="isomer-details">
 <summary>26 APRIL 2025 | SAT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -284,9 +233,6 @@ Design</p>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>RSVP</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -300,9 +246,6 @@ Design</p>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
 </td>
 </tr>
 </tbody>
@@ -314,9 +257,8 @@ Design</p>
 <details class="isomer-details">
 <summary>27 APRIL 2025 | SUN</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -331,9 +273,6 @@ Design</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>RSVP</p>
 </th>
 </tr>
 <tr>
@@ -349,9 +288,6 @@ Design</p>
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -362,9 +298,8 @@ Design</p>
 <details class="isomer-details">
 <summary>28 APRIL 2025 | MON</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -379,9 +314,6 @@ Design</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>RSVP</p>
 </th>
 </tr>
 <tr>
@@ -397,8 +329,19 @@ Design</p>
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>14:00 - 15:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MERaLION
+<br><strong><em>A*STAR</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
 </td>
 </tr>
 </tbody>
