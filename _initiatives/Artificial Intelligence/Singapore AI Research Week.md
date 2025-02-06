@@ -7,8 +7,9 @@ third_nav_title: Artificial Intelligence
 ---
 <p></p>
 <h3><strong>Singapore AI Research Week</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgp_ai_research_week_newfont.png">
 </div>
 <h4>About</h4>
 <div class="isomer-image-wrapper">
