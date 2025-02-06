@@ -26,7 +26,6 @@ that await!
 <details class="isomer-details">
 <summary>23 APRIL 2025 | WED</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -391,7 +390,8 @@ Design</p>
 <p>National Olympiad in AI 2025 Prize Award Ceremony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
@@ -442,22 +442,6 @@ Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(Link)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13:30 - 15:30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Event Name - Organiser
-<br><em>Event Description</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Walk-ins allowed</p>
 </td>
 </tr>
 </tbody>
