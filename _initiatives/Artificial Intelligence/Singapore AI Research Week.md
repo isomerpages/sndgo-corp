@@ -11,7 +11,7 @@ third_nav_title: Artificial Intelligence
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_21_at_5_26_01_PM.png">
 </div>
 <blockquote>
-<p>Proudly sponsored by</p>
+<p>Made possible by</p>
 </blockquote>
 <h4>About</h4>
 <p>The Singapore AI Research Week is an inaugural event packed with exciting
@@ -21,7 +21,7 @@ and networking opportunities.</p>
 and discover what Singapore has to offer in the world of innovation.</p>
 <h4>Programme</h4>
 <p>Explore the full event lineup below and discover the exciting opportunities
-that await!
+that await! 💫
 <br>
 <br><strong>For more information: Coming Soon</strong>
 </p>
