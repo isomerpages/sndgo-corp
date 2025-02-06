@@ -24,7 +24,7 @@ that await!
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>23 APRIL 2025</summary>
+<summary>23 APRIL 2025 | WED</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 100px">
 <colgroup>
