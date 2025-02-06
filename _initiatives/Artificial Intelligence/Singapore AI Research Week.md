@@ -113,8 +113,6 @@ Design</p>
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ministry of Digital Development &amp; Information</strong>
-</p>
 <p>AI Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
