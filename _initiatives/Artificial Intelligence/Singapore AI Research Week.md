@@ -165,7 +165,7 @@ Design</p>
 <p>AI for Manufacturing Industry Forum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Cleantech Loop, #01/01, Singapore 637143, Advanced Remanufacturing and
+<p>3 Cleantech Loop, #01-01, Singapore 637143, Advanced Remanufacturing and
 Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
