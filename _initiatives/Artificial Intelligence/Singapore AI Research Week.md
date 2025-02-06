@@ -426,15 +426,13 @@ Design</p>
 <p>Exciting events coming your way!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Event Name - Organiser
-<br><em>Event Description</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Link)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
