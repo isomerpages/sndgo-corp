@@ -132,7 +132,6 @@ Design</p>
 <details class="isomer-details">
 <summary>24 APRIL 2025 | THU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
