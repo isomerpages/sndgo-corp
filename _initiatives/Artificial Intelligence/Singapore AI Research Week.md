@@ -409,30 +409,21 @@ Design</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Time</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Event</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Venue</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>RSVP</p>
+<p></p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="4">
 <p>Exciting events coming your way!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
