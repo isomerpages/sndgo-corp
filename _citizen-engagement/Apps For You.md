@@ -281,7 +281,7 @@ The NParks Explore A Route (NEAR) mobile app is NParks’ first augmented realit
         <img alt="SG Bio Altas" src="/images/community/apps/sgbioatlas.jpg">
     </td>	
     <td style="width:70%">
-      	<a target="_blank" href="https://www.nparks.gov.sg/mobile-applications">SGBioAltas</a><br>
+      	<a target="_blank" href="https://biome.nparks.gov.sg/">SGBioAtlas</a><br>
    <br>
 Seen an interesting animal or plant? Share it using the SGBioAtlas app! The SGBioAtlas uses crowd-sourced information to map the distribution of flora and fauna throughout Singapore. It is a great way to learn more about the amazing diversity of animals and plants in our green city.<br>
 	<br>
