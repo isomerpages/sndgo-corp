@@ -163,8 +163,9 @@ Design</p>
 <p>09:00-18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A*STAR</strong>
-<br>Online Trust &amp; Safety</p>
+<p>Online Trust &amp; Safety
+<br><strong><em>A*STAR</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -179,8 +180,9 @@ Design</p>
 <p>14:00-19:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A*STAR</strong>
-<br>AI for Manufacturing Industry Forum</p>
+<p>AI for Manufacturing Industry Forum
+<br><strong><em>A*STAR</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Cleantech Loop, #01-01, Singapore 637143, Advanced Remanufacturing and
@@ -227,8 +229,9 @@ Technology Centre</p>
 <p>12:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>AI Singapore</strong>
-<br>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2</p>
+<p>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2
+<br><strong><em>AI Singapore</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
@@ -242,8 +245,9 @@ Technology Centre</p>
 <p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore University of Technology and Design</strong>
-<br>AI Day</p>
+<p>AI Day
+<br><strong><em>Singapore University of Technology and Design</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
