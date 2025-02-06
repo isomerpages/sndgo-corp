@@ -39,7 +39,7 @@ and discover what Singapore has to offer in the world of innovation.</p>
 <p>Explore the full event lineup below and discover the exciting opportunities
 that await! 💫
 <br>
-<br><strong>For more information: Coming Soon</strong>
+<br><strong>For more information: Coming Soon </strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
