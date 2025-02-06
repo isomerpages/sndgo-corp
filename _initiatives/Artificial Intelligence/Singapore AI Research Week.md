@@ -14,7 +14,7 @@ third_nav_title: Artificial Intelligence
 <h4>About</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week__12_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week__13_.png">
 </div>
 <p>The Singapore AI Research Week is an inaugural event packed with exciting
 programmes, including expert talks, panel discussions, interactive workshops,
