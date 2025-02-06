@@ -116,7 +116,7 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00-11:00</p>
+<p>09:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Online Trust &amp; Safety
@@ -144,7 +144,7 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14:00-19:30</p>
+<p>14:00 - 19:30</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI for Manufacturing Industry Forum
