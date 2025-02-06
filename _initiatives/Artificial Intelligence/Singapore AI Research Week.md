@@ -312,6 +312,7 @@ Design</p>
 <details class="isomer-details">
 <summary>27 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -336,30 +337,18 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p><strong>Latent Space</strong>
+<br>AI Engineer Singapore 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>TBA</p>
 </td>
 </tr>
 </tbody>
