@@ -102,6 +102,7 @@ that await!
 <details class="isomer-details">
 <summary>24 APRIL 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -133,7 +134,8 @@ that await!
 <p>Online Trust &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
