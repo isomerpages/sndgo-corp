@@ -69,7 +69,7 @@ Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Frontiers Conference on Artificial Intelligence
-<br>(<strong>Nanyang Technological University)</strong>
+<br><strong><em>Nanyang Technological University</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
