@@ -376,11 +376,11 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:00-11:00</p>
+<p>10:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Singapore</p>
-<p>National Olympiad in AI 2025 Prize Award Ceremony</p>
+<p><strong>AI Singapore</strong>
+<br>National Olympiad in AI 2025 Prize Award Ceremony</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
