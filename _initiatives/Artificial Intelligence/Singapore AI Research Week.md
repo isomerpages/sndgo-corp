@@ -83,7 +83,8 @@ Design</p>
 <p>10:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI in Drug Discovery</p>
+<p>A*STAR
+<br>AI in Drug Discovery</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
