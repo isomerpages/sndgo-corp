@@ -72,7 +72,7 @@ that await!
 <p>Multimodal LLM: Insights, Innovations, and Real-world Applications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>ABC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
