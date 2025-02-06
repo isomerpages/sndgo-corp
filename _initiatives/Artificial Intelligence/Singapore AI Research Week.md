@@ -7,10 +7,15 @@ third_nav_title: Artificial Intelligence
 ---
 <p></p>
 <h3><strong>Singapore AI Research Week</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgp_ai_research_week_newfont.png">
 </div>
 <h4>About</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week__13_.png">
+</div>
 <p>The Singapore AI Research Week is an inaugural event packed with exciting
 programmes, including expert talks, panel discussions, interactive workshops,
 and networking opportunities.</p>
@@ -61,7 +66,7 @@ Design</p>
 <p>09:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frontiers Conference on Artificial Intelligence
+<p>Frontiers Conference on Artificial Intelligence by
 <br><strong><em>Nanyang Technological University</em></strong>
 </p>
 </td>
@@ -74,7 +79,7 @@ Design</p>
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Wednesdays
+<p>AI Wednesdays by
 <br><strong><em>Ministry of Digital Development &amp; Information</em></strong>
 </p>
 </td>
@@ -91,7 +96,6 @@ Design</p>
 <details class="isomer-details">
 <summary>24 APRIL 2025 | THU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -112,10 +116,10 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00-11:00</p>
+<p>09:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online Trust &amp; Safety
+<p>Online Trust &amp; Safety by
 <br><strong><em>A*STAR</em></strong>
 </p>
 </td>
@@ -129,7 +133,7 @@ Design</p>
 <p>11:30 - 12:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI in Drug Discovery
+<p>AI in Drug Discovery by
 <br><strong><em>A*STAR</em></strong>
 </p>
 </td>
@@ -140,10 +144,10 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14:00-19:30</p>
+<p>14:00 - 19:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI for Manufacturing Industry Forum
+<p>AI for Manufacturing Industry Forum by
 <br><strong><em>A*STAR</em></strong>
 </p>
 </td>
@@ -181,11 +185,10 @@ Technology Centre</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00 -</p>
-<p>12:30</p>
+<p>09:00 - 12:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2
+<p>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2 by
 <br><strong><em>AI Singapore</em></strong>
 </p>
 </td>
@@ -198,7 +201,7 @@ Technology Centre</p>
 <p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Day
+<p>AI Day by
 <br><strong><em>Singapore University of Technology and Design</em></strong>
 </p>
 </td>
@@ -239,7 +242,7 @@ Design</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Engineer Singapore 2025
+<p>AI Engineer Singapore 2025 by
 <br><strong><em>Latent Space</em></strong>
 </p>
 </td>
@@ -280,7 +283,7 @@ Design</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Engineer Singapore 2025
+<p>AI Engineer Singapore 2025 by
 <br><strong><em>Latent Space</em></strong>
 </p>
 </td>
@@ -321,7 +324,7 @@ Design</p>
 <p>10:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Olympiad in AI 2025 Prize Award Ceremony
+<p>National Olympiad in AI 2025 Prize Award Ceremony by
 <br><strong><em>AI Singapore</em></strong>
 </p>
 </td>
@@ -335,7 +338,7 @@ Design</p>
 <p>14:00 - 15:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MERaLION
+<p>MERaLION by
 <br><strong><em>A*STAR</em></strong>
 </p>
 </td>
@@ -393,9 +396,8 @@ Design</p>
 </div>
 </details>
 </div>
-<h4>Jointly Organised By</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MDDI_NRF_Co_organise.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week_NRF_participating.png">
 </div>
 <h4><br><br></h4>
 <p></p>
