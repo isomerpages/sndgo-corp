@@ -113,7 +113,8 @@ Design</p>
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Wednesdays</p>
+<p><strong>Ministry of Digital Development &amp; Information</strong>
+<br>AI Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>22 Cross Street</p>
@@ -507,3 +508,4 @@ Design</p>
 <p>
 <br>
 </p>
+<p></p>
