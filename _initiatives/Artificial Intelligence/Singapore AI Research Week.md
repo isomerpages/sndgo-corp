@@ -409,7 +409,7 @@ Design</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Exciting events coming your way!</p>
+<p>Exciting events coming your way! 🚀</p>
 </td>
 </tr>
 </tbody>
