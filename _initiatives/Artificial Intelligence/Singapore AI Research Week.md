@@ -399,7 +399,7 @@ Design</p>
 </div>
 <h4>Jointly Organised By</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MDDI_NRF_Co_organise.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week_NRF_participating.png">
 </div>
 <h4><br><br></h4>
 <p></p>
