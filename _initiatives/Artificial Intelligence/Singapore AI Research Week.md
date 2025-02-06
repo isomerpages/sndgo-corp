@@ -419,7 +419,7 @@ Design</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>30 APRIL 2025</summary>
+<summary>30 APRIL 2025 | WED</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 100px">
 <colgroup>
@@ -430,45 +430,8 @@ Design</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>RSVP</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="4">
+<p>Exciting events coming your way! 🚀</p>
 </td>
 </tr>
 </tbody>
