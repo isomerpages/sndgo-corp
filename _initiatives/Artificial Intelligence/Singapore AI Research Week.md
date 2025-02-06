@@ -258,7 +258,6 @@ Design</p>
 <details class="isomer-details">
 <summary>26 APRIL 2025 | SAT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -304,9 +303,8 @@ Design</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>27 APRIL 2025</summary>
+<summary>27 APRIL 2025 | SUN</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
