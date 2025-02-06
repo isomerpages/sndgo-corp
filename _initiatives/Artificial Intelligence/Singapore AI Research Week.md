@@ -98,7 +98,8 @@ Design</p>
 <p>14:00 - 16:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Multimodal LLM: Insights, Innovations, and Real-world Applications</p>
+<p><strong>A*STAR</strong>
+<br>Multimodal LLM: Insights, Innovations, and Real-world Applications</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
@@ -505,4 +506,6 @@ Design</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>
+<br>
+</p>
