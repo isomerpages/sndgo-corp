@@ -13,6 +13,24 @@ third_nav_title: Artificial Intelligence
 <blockquote>
 <p>Made possible by</p>
 </blockquote>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MDDI_LOGO_HORZ_RGB_01.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>&lt;placeholder for SUTD&gt;</p>
+</th>
+</tr>
+</tbody>
+</table>
 <h4>About</h4>
 <p>The Singapore AI Research Week is an inaugural event packed with exciting
 programmes, including expert talks, panel discussions, interactive workshops,
