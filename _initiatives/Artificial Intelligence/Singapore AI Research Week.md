@@ -293,8 +293,9 @@ Design</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Latent Space</strong>
-<br>AI Engineer Singapore 2025</p>
+<p>AI Engineer Singapore 2025
+<br><strong><em>Latent Space</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -340,8 +341,9 @@ Design</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Latent Space</strong>
-<br>AI Engineer Singapore 2025</p>
+<p>AI Engineer Singapore 2025
+<br><strong><em>Latent Space</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -387,8 +389,9 @@ Design</p>
 <p>10:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>AI Singapore</strong>
-<br>National Olympiad in AI 2025 Prize Award Ceremony</p>
+<p>National Olympiad in AI 2025 Prize Award Ceremony
+<br><strong><em>AI Singapore</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
