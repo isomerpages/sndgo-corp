@@ -68,7 +68,7 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00 - 18:00</p>
+<p>09:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Nanyang Technological University</strong> 
