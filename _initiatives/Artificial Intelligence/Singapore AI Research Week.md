@@ -69,7 +69,7 @@ Design</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nanyang Technological University
+<p><strong>Nanyang Technological University</strong> 
 <br>Frontiers Conference on Artificial Intelligence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,7 +84,8 @@ Design</p>
 <p>10:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A*STAR</p>
+<p><strong>A*STAR</strong>
+</p>
 <p>AI in Drug Discovery</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,7 +100,8 @@ Design</p>
 <p>14:00 - 16:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A*STAR</p>
+<p><strong>A*STAR</strong>
+</p>
 <p>Multimodal LLM: Insights, Innovations, and Real-world Applications</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +116,8 @@ Design</p>
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDDI-NAIG</p>
+<p><strong>Ministry of Digital Development &amp; Information</strong>
+</p>
 <p>AI Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,7 +164,8 @@ Design</p>
 <p>09:00-18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A*STAR</p>
+<p><strong>A*STAR</strong>
+</p>
 <p>Online Trust &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,7 +181,8 @@ Design</p>
 <p>14:00-19:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A*STAR</p>
+<p><strong>A*STAR</strong>
+</p>
 <p>AI for Manufacturing Industry Forum</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,7 +200,7 @@ Technology Centre</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>25 APRIL 2025</summary>
+<summary>25 APRIL 2025 | FRI</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 100px">
 <colgroup>
@@ -234,6 +239,22 @@ Technology Centre</p>
 <p>TBA</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore University of Technology and Design</strong>
+<br>AI Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -241,8 +262,9 @@ Technology Centre</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>26 APRIL 2025</summary>
+<summary>26 APRIL 2025 | SAT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -267,30 +289,18 @@ Technology Centre</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
+<p><strong>Latent Space</strong>
+<br>AI Engineer Singapore 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Place Holder Text</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>TBA</p>
 </td>
 </tr>
 </tbody>
