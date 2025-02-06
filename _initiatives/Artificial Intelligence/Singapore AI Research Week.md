@@ -66,7 +66,7 @@ Design</p>
 <p>09:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frontiers Conference on Artificial Intelligence
+<p>Frontiers Conference on Artificial Intelligence by
 <br><strong><em>Nanyang Technological University</em></strong>
 </p>
 </td>
@@ -79,7 +79,7 @@ Design</p>
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Wednesdays
+<p>AI Wednesdays by
 <br><strong><em>Ministry of Digital Development &amp; Information</em></strong>
 </p>
 </td>
@@ -119,7 +119,7 @@ Design</p>
 <p>09:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online Trust &amp; Safety
+<p>Online Trust &amp; Safety by
 <br><strong><em>A*STAR</em></strong>
 </p>
 </td>
@@ -133,7 +133,7 @@ Design</p>
 <p>11:30 - 12:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI in Drug Discovery
+<p>AI in Drug Discovery by
 <br><strong><em>A*STAR</em></strong>
 </p>
 </td>
@@ -147,7 +147,7 @@ Design</p>
 <p>14:00 - 19:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI for Manufacturing Industry Forum
+<p>AI for Manufacturing Industry Forum by
 <br><strong><em>A*STAR</em></strong>
 </p>
 </td>
@@ -188,7 +188,7 @@ Technology Centre</p>
 <p>09:00 - 12:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2
+<p>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2 by
 <br><strong><em>AI Singapore</em></strong>
 </p>
 </td>
@@ -201,7 +201,7 @@ Technology Centre</p>
 <p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Day
+<p>AI Day by
 <br><strong><em>Singapore University of Technology and Design</em></strong>
 </p>
 </td>
@@ -242,7 +242,7 @@ Design</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Engineer Singapore 2025
+<p>AI Engineer Singapore 2025 by
 <br><strong><em>Latent Space</em></strong>
 </p>
 </td>
@@ -283,7 +283,7 @@ Design</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Engineer Singapore 2025
+<p>AI Engineer Singapore 2025 by
 <br><strong><em>Latent Space</em></strong>
 </p>
 </td>
@@ -324,7 +324,7 @@ Design</p>
 <p>10:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Olympiad in AI 2025 Prize Award Ceremony
+<p>National Olympiad in AI 2025 Prize Award Ceremony by
 <br><strong><em>AI Singapore</em></strong>
 </p>
 </td>
@@ -338,7 +338,7 @@ Design</p>
 <p>14:00 - 15:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MERaLION
+<p>MERaLION by
 <br><strong><em>A*STAR</em></strong>
 </p>
 </td>
