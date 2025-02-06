@@ -423,7 +423,7 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9:20 - 10:20</p>
+<p>Exciting events coming your way!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event Name - Organiser
