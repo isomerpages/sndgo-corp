@@ -139,7 +139,7 @@ Design</p>
 <br>AI Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 Cross Street</p>
+<p>22 Cross Street, Singapore 048421</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
