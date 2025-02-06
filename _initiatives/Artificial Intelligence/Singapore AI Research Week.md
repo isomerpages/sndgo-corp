@@ -10,10 +10,6 @@ third_nav_title: Artificial Intelligence
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week.png">
 </div>
-<h4>Made possible by</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week__4_.png">
-</div>
 <h4>About</h4>
 <p>The Singapore AI Research Week is an inaugural event packed with exciting
 programmes, including expert talks, panel discussions, interactive workshops,
@@ -72,8 +68,9 @@ Design</p>
 <p>09:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Nanyang Technological University</strong> 
-<br>Frontiers Conference on Artificial Intelligence</p>
+<p>Frontiers Conference on Artificial Intelligence
+<br><strong>Nanyang Technological University</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50 Nanyang Ave, Singapore 639798, Nanyang Technological University</p>
@@ -443,6 +440,6 @@ Design</p>
 </div>
 </details>
 </div>
-<p>
-<br>
-</p>
+<h4>Jointly organised by</h4>
+<h4><br><br></h4>
+<p></p>
