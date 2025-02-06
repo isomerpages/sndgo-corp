@@ -12,7 +12,6 @@ third_nav_title: Artificial Intelligence
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgp_ai_research_week_newfont.png">
 </div>
 <h4>About</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week__8_.png">
 </div>
