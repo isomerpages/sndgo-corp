@@ -2,7 +2,6 @@ collections:
   initiatives:
     output: true
     order:
-      - Artificial Intelligence/Singapore AI.md
       - Artificial Intelligence/.keep
       - Artificial Intelligence/National AI Strategy.md
       - Artificial Intelligence/Be part of our AI Journey.md
