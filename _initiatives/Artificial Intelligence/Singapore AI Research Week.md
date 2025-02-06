@@ -65,14 +65,14 @@ that await!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14:00-17:00</p>
+<p>14:00-16:00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A*STAR</p>
 <p>Multimodal LLM: Insights, Innovations, and Real-world Applications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ABC</p>
+<p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
@@ -80,7 +80,7 @@ that await!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDDI-NAIG</p>
@@ -88,6 +88,21 @@ that await!
 </td>
 <td rowspan="1" colspan="1">
 <p>22 Cross Street</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:00 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Symposium on Natural Language Processing 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
@@ -150,7 +165,8 @@ Design</p>
 <p>AI for Manufacturing Industry Forum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>3 Cleantech Loop, #01/01, Singapore 637143, Advanced Remanufacturing and
+Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
