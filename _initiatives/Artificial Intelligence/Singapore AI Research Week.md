@@ -10,6 +10,10 @@ third_nav_title: Artificial Intelligence
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_21_at_5_26_01_PM.png">
 </div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week.png">
+</div>
 <h4>Made possible by</h4>
 <table style="minWidth: 50px">
 <colgroup>
