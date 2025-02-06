@@ -83,7 +83,7 @@ Design</p>
 <p>10:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A*STAR
+<p><strong>A*STAR </strong>
 <br>AI in Drug Discovery</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,8 +98,6 @@ Design</p>
 <p>14:00 - 16:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A*STAR</strong>
-</p>
 <p>Multimodal LLM: Insights, Innovations, and Real-world Applications</p>
 </td>
 <td rowspan="1" colspan="1">
