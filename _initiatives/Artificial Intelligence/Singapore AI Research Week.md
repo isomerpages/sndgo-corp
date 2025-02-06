@@ -24,8 +24,9 @@ that await!
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>23 APRIL 2025</summary>
+<summary>23 APRIL 2025 | WED</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -65,7 +66,22 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:00-11:00</p>
+<p>09:00 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Technological University
+<br>Frontiers Conference on Artificial Intelligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50 Nanyang Ave, Singapore 639798, Nanyang Technological University</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A*STAR</p>
@@ -80,7 +96,7 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14:00-16:00</p>
+<p>14:00 - 16:00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A*STAR</p>
@@ -115,7 +131,7 @@ Design</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>24 APRIL 2025</summary>
+<summary>24 APRIL 2025 | THU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Table</p>
 <table style="minWidth: 100px">
