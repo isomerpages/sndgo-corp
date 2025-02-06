@@ -85,7 +85,7 @@ Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI in Drug Discovery
-<br><strong>(A*STAR)</strong>
+<br><strong><em>A*STAR</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,7 +101,7 @@ Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Multimodal LLM: Insights, Innovations, and Real-world Applications
-<br><strong>(A*STAR)</strong>
+<br><strong><em>A*STAR</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +117,7 @@ Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI Wednesdays
-<br>(<strong>Ministry of Digital Development &amp; Information)</strong>
+<br><strong><em>Ministry of Digital Development &amp; Information</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
