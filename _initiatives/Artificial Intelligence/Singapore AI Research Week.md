@@ -412,8 +412,8 @@ Design</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p></p>
-<p>Exciting events coming your way! 🚀</p>
+<p>
+<br>Exciting events coming your way! 🚀</p>
 </td>
 </tr>
 </tbody>
