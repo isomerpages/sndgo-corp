@@ -26,8 +26,7 @@ third_nav_title: Artificial Intelligence
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>&lt;placeholder for SUTD&gt;</strong>
-</p>
+<p></p>
 </th>
 </tr>
 </tbody>
