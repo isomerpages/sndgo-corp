@@ -50,6 +50,21 @@ that await!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>09:00 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Symposium on Natural Language Processing 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>10:00-11:00</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,21 +103,6 @@ that await!
 </td>
 <td rowspan="1" colspan="1">
 <p>22 Cross Street</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>09:00 - 18:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Symposium on Natural Language Processing 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
-Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
