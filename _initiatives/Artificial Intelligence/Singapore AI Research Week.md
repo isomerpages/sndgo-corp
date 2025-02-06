@@ -160,8 +160,7 @@ Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>A*STAR</strong>
-</p>
-<p>Online Trust &amp; Safety</p>
+<br>Online Trust &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -177,8 +176,7 @@ Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>A*STAR</strong>
-</p>
-<p>AI for Manufacturing Industry Forum</p>
+<br>AI for Manufacturing Industry Forum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Cleantech Loop, #01-01, Singapore 637143, Advanced Remanufacturing and
@@ -224,7 +222,8 @@ Technology Centre</p>
 <p>09:00-12:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Singapore</p>
+<p><strong>AI Singapore</strong>
+</p>
 <p>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2</p>
 </td>
 <td rowspan="1" colspan="1">
