@@ -397,7 +397,7 @@ Design</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>29 APRIL 2025</summary>
+<summary>29 APRIL 2025 | TUE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 100px">
 <colgroup>
