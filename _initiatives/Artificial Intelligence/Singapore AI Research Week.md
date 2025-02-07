@@ -12,13 +12,18 @@ third_nav_title: Artificial Intelligence
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgp_ai_research_week_newfont.png">
 </div>
 <h3>About</h3>
-<p>The Singapore AI Research Week is an event packed with exciting programmes,
-including expert talks, panel discussions, interactive workshops, and networking
-opportunities. The Singapore AI Research Week takes place alongside the
-<a href="https://iclr.cc/" rel="noopener nofollow" target="_blank">Thirteenth International Conference on Learning Representations (ICLR)<u> </u>
-</a>happening from 24 April to 28 April at Singapore EXPO.</p>
-<p>Dive in to explore the latest in AI, connect with leading researchers,
-and discover what Singapore has to offer in the world of innovation.</p>
+<p>Singapore will be hosting the 13th <a href="https://iclr.cc/" rel="noopener nofollow" target="_blank">International Conference of Learning Representations (ICLR)</a> conference
+from 24 April to 28 April 2025, a prestigious conference that brings together
+10,000 of the top-minds in AI and Machine Learning.</p>
+<p>Singapore is home to universities, research institutes, start-ups, corporates,
+and government agencies conducting a wide range of foundational and applied
+AI research and development. The Singapore AI Research Week, held in parallel
+with ICLR 2025, will celebrate the vibrancy and diversity of our AI research
+scene. It will provide you with numerous opportunities to explore the latest
+in AI, connect with leading researchers, and discover what Singapore has
+to offer.</p>
+<p>Check out the expert talks, panel discussions, interactive workshops,
+and networking opportunities that will take place across the week.</p>
 <h3>Programme</h3>
 <p>Explore the event lineup below and discover the exciting opportunities
 that await! 💫
