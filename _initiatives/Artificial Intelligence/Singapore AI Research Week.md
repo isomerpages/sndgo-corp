@@ -368,7 +368,6 @@ Design</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <hr>
 <table style="minWidth: 100px">
 <colgroup>
