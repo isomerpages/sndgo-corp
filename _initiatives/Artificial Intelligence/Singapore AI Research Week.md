@@ -176,6 +176,12 @@ Technology Centre</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<p><strong>25 APRIL 2025 | FRI</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
@@ -330,10 +336,6 @@ Design</p>
 </tr>
 </tbody>
 </table>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>30 APRIL 2025 | WED</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -349,11 +351,6 @@ Design</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<p><strong>24 APRIL 2025 | WED</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__13_52.png">
 </div>
