@@ -112,6 +112,12 @@ Building</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<p><strong>24 APRIL 2025 | THU</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
@@ -162,10 +168,6 @@ Technology Centre</p>
 </tr>
 </tbody>
 </table>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>25 APRIL 2025 | FRI</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -200,9 +202,6 @@ Design</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
