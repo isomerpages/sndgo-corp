@@ -14,7 +14,7 @@ third_nav_title: Artificial Intelligence
 <h3>About</h3>
 <p>Singapore will be hosting the 13th <a href="https://iclr.cc/" rel="noopener nofollow" target="_blank">International Conference of Learning Representations (ICLR)</a> conference
 from 24 April to 28 April 2025, a prestigious conference that seeks to
-bring together 10,000 of the top-minds in AI and Machine Learning.</p>
+bring together thousands of top-minds in AI and Machine Learning.</p>
 <p>Singapore is home to universities, research institutes, start-ups, corporates,
 and government agencies conducting a wide range of foundational and applied
 AI research and development. The Singapore AI Research Week, held in parallel
@@ -137,8 +137,8 @@ Building</p>
 <p>09:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.catos.sg/" rel="noopener nofollow" target="_blank">Online Trust &amp; Safety</a> by
-<br><strong><em>Centre for Advanced Technologies in Online Safety</em></strong>
+<p>Online Trust and Safety by
+<br><strong><em>A*STAR</em></strong>
 </p>
 </td>
 <td rowspan="2" colspan="1">
