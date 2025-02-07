@@ -82,7 +82,8 @@ Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/lorongai" rel="noopener nofollow" target="_blank">AI Wednesdays</a>
-<a href="go.gov.sg/lorongai" rel="noopener nofollow" target="_blank"></a>by
+</p>
+<p>by
 <br><strong><em>Ministry of Digital Development &amp; Information</em></strong>
 </p>
 </td>
