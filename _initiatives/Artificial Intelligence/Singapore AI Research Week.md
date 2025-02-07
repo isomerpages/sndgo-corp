@@ -34,6 +34,12 @@ that await! 💫
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<p><strong>23 APRIL 2025 | WED</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
