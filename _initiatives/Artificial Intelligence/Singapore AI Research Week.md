@@ -6,12 +6,12 @@ description: ""
 third_nav_title: Artificial Intelligence
 ---
 <p></p>
-<h3><strong>Singapore AI Research Week</strong></h3>
+<h2><strong>Singapore AI Research Week</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgp_ai_research_week_newfont.png">
 </div>
-<h4>About</h4>
+<h3>About</h3>
 <p>The Singapore AI Research Week is an event packed with exciting programmes,
 including expert talks, panel discussions, interactive workshops, and networking
 opportunities. The Singapore AI Research Week takes place alongside the
@@ -19,12 +19,12 @@ opportunities. The Singapore AI Research Week takes place alongside the
 </a>happening from 24 April to 28 April at Singapore EXPO.</p>
 <p>Dive in to explore the latest in AI, connect with leading researchers,
 and discover what Singapore has to offer in the world of innovation.</p>
-<h4>Programme</h4>
+<h3>Programme</h3>
 <p>Explore the event lineup below and discover the exciting opportunities
 that await! 💫
-<br>
 <br><strong>More details on the events and how to RSVP coming soon! 👀</strong>
 </p>
+<p></p>
 <hr>
 <table style="minWidth: 75px">
 <colgroup>
@@ -35,8 +35,7 @@ that await! 💫
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>23 APRIL 2025 | WED</strong>
-</p>
+<h4>23 April 2025 | Wednesday</h4>
 </td>
 </tr>
 <tr>
@@ -114,8 +113,7 @@ Building</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>24 APRIL 2025 | THU</strong>
-</p>
+<h4>24 April 2025 | Thursday</h4>
 </td>
 </tr>
 <tr>
@@ -180,8 +178,7 @@ Technology Centre</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>25 APRIL 2025 | FRI</strong>
-</p>
+<h4>25 April 2025 | Friday</h4>
 </td>
 </tr>
 <tr>
@@ -212,7 +209,46 @@ Design</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h4>26 April 2025 | Saturday</h4>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:00 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://lu.ma/aiesg" rel="noopener nofollow" target="_blank">AI Engineer Singapore 2025</a> by
+<br><strong><em>Latent Space</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <hr>
 <table style="minWidth: 75px">
@@ -224,8 +260,7 @@ Design</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>26 APRIL 2025 | SUN</strong>
-</p>
+<h4>27 April 2025 | Sunday</h4>
 </td>
 </tr>
 <tr>
@@ -255,6 +290,8 @@ Design</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -264,48 +301,7 @@ Design</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>27 APRIL 2025 | SUN</strong>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>09:00 - 18:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://lu.ma/aiesg" rel="noopener nofollow" target="_blank">AI Engineer Singapore 2025</a> by
-<br><strong><em>Latent Space</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
-Design</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>28 APRIL 2025 | MON</strong>
-</p>
+<h4>28 April 2025 | Monday</h4>
 </td>
 </tr>
 <tr>
@@ -346,6 +342,8 @@ Design</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<hr>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -356,8 +354,7 @@ Design</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>29 APRIL 2025</strong>
-</p>
+<h4>29 April 2025</h4>
 </td>
 </tr>
 <tr>
@@ -367,6 +364,8 @@ Design</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<hr>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -377,8 +376,7 @@ Design</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>30 APRIL 2025</strong>
-</p>
+<h4>30 April 2025</h4>
 </td>
 </tr>
 <tr>
