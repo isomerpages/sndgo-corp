@@ -84,7 +84,7 @@ Design</p>
 <p>09:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Next-Generation AI Agents Workshop by <strong><em>Singapore Management University</em></strong>
+<p>The Workshop on Frontiers of Artificial General Intelligence by <strong><em>Singapore Management University</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
