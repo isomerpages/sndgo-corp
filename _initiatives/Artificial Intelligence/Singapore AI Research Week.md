@@ -405,5 +405,8 @@ Design</p>
 <p>Participating organisations
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__participating.png">
+</div>
 <p></p>
 <p></p>
