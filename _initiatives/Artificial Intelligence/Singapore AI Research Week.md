@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Artificial Intelligence
 ---
 <p></p>
-<h1>Singapore AI Research Week</h1>
+<h2>Singapore AI Research Week</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgp_ai_research_week_newfont.png">
