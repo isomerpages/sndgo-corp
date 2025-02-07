@@ -195,8 +195,7 @@ Technology Centre</p>
 <p>09:00 - 12:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prize Ceremony for <a href="https://aisingapore.org/global-challenge-for-safe-and-secure-llms/" rel="noopener nofollow" target="_blank">Global Challenge for Safe and Secure LLMs</a> Track
-2 by
+<p><a href="https://aisingapore.org/global-challenge-for-safe-and-secure-llms/" rel="noopener nofollow" target="_blank">Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2</a> by
 <br><strong><em>AI Singapore</em></strong>
 </p>
 </td>
