@@ -402,7 +402,6 @@ Design</p>
 </div>
 </details>
 </div>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__1333.png">
 </div>
