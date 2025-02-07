@@ -173,7 +173,6 @@ Technology Centre</p>
 </tbody>
 </table>
 <hr>
-<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
