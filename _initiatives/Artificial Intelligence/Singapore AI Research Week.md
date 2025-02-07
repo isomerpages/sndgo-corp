@@ -169,7 +169,7 @@ Technology Centre</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <hr>
 <table style="minWidth: 75px">
 <colgroup>
@@ -211,6 +211,8 @@ Design</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
