@@ -12,10 +12,6 @@ third_nav_title: Artificial Intelligence
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgp_ai_research_week_newfont.png">
 </div>
 <h4>About</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_feb__new_logo.png">
-</div>
 <p>The Singapore AI Research Week is an event packed with exciting programmes,
 including expert talks, panel discussions, interactive workshops, and networking
 opportunities. The Singapore AI Research Week takes place alongside the
