@@ -25,10 +25,7 @@ that await! 💫
 <br>
 <br><strong>More details on the events and how to RSVP coming soon! 👀</strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>23 APRIL 2025 | WED</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -101,13 +98,6 @@ Building</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>24 APRIL 2025 | THU</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -166,9 +156,6 @@ Technology Centre</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>25 APRIL 2025 | FRI</summary>
@@ -210,10 +197,6 @@ Design</p>
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>26 APRIL 2025 | SAT</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -248,13 +231,6 @@ Design</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>27 APRIL 2025 | SUN</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -289,13 +265,6 @@ Design</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>28 APRIL 2025 | MON</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -341,13 +310,6 @@ Design</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>29 APRIL 2025 | TUE</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -363,9 +325,6 @@ Design</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>30 APRIL 2025 | WED</summary>
@@ -388,7 +347,8 @@ Design</p>
 </div>
 </details>
 </div>
-<p></p>
+<p><strong>24 APRIL 2025 | WED</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__13_52.png">
 </div>
