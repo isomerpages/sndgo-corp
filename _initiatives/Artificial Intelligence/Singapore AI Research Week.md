@@ -358,7 +358,7 @@ Design</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<h4>29 April 2025</h4>
+<h4>29 April 2025 | Tuesday</h4>
 </td>
 </tr>
 <tr>
@@ -380,7 +380,7 @@ Design</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<h4>30 April 2025</h4>
+<h4>30 April 2025 | Wednesdays</h4>
 </td>
 </tr>
 <tr>
