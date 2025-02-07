@@ -27,7 +27,7 @@ and discover what Singapore has to offer in the world of innovation.</p>
 <p>Explore the full event lineup below and discover the exciting opportunities
 that await! 💫
 <br>
-<br><strong>Agenda and RSVP details coming soon! 👀</strong>
+<br><strong>More details on the events and how to RSVP coming soon! 👀</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
