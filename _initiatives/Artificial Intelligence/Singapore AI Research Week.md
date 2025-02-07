@@ -399,7 +399,7 @@ Design</p>
 </details>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Singapore_AI_Research_Week_NRF_participating.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__updated_with_smu_and_csa_on_7_feb.png">
 </div>
 <h4><br></h4>
 <p></p>
