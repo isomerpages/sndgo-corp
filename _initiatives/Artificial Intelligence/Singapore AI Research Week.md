@@ -380,7 +380,7 @@ Design</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<h4>30 April 2025 | Wednesdays</h4>
+<h4>30 April 2025 | Wednesday</h4>
 </td>
 </tr>
 <tr>
