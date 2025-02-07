@@ -81,7 +81,8 @@ Design</p>
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="go.gov.sg/lorongai" rel="noopener nofollow" target="_blank">AI Wednesdays </a>by
+<p><a href="https://go.gov.sg/lorongai" rel="noopener nofollow" target="_blank">AI Wednesdays</a>
+<a href="go.gov.sg/lorongai" rel="noopener nofollow" target="_blank"></a>by
 <br><strong><em>Ministry of Digital Development &amp; Information</em></strong>
 </p>
 </td>
@@ -121,7 +122,7 @@ Design</p>
 <p>09:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online Trust &amp; Safety by
+<p><a href="https://www.catos.sg/" rel="noopener nofollow" target="_blank">Online Trust &amp; Safety</a> by
 <br><strong><em>Centre for Advanced Technologies in Online Safety</em></strong>
 </p>
 </td>
@@ -190,7 +191,8 @@ Technology Centre</p>
 <p>09:00 - 12:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prize Ceremony for Global Challenge for Safe and Secure LLMs Track 2 by
+<p>Prize Ceremony for <a href="https://aisingapore.org/global-challenge-for-safe-and-secure-llms/" rel="noopener nofollow" target="_blank">Global Challenge for Safe and Secure LLMs</a> Track
+2 by
 <br><strong><em>AI Singapore</em></strong>
 </p>
 </td>
@@ -326,7 +328,8 @@ Design</p>
 <p>10:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Olympiad in AI 2025 Prize Award Ceremony by
+<p><a href="https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/" rel="noopener nofollow" target="_blank">National Olympiad in AI</a> 2025
+Prize Award Ceremony by
 <br><strong><em>AI Singapore</em></strong>
 </p>
 </td>
@@ -340,7 +343,7 @@ Design</p>
 <p>14:00 - 15:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MERaLION by
+<p><a href="https://www.a-star.edu.sg/i2r/research/I2RTechs/research/i2r-techs-solutions/unlocking-the-potential-of-large-language-models-(llms)-with-i-r-s-merlion-ai" rel="noopener nofollow" target="_blank">MERaLION</a> by
 <br><strong><em>A*STAR</em></strong>
 </p>
 </td>
