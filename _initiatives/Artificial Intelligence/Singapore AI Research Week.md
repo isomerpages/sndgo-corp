@@ -137,7 +137,7 @@ Building</p>
 <p>09:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.catos.sg/" rel="noopener nofollow" target="_blank">Online Trust &amp; Safety</a> by
+<p>Online Trust and Safety by
 <br><strong><em>Centre for Advanced Technologies in Online Safety</em></strong>
 </p>
 </td>
