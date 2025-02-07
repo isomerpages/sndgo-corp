@@ -96,6 +96,7 @@ Design</p>
 <details class="isomer-details">
 <summary>24 APRIL 2025 | THU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -123,7 +124,7 @@ Design</p>
 <br><strong><em>Centre for Advanced Technologies in Online Safety</em></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
 </td>
@@ -136,10 +137,6 @@ Design</p>
 <p>AI in Drug Discovery by
 <br><strong><em>A*STAR</em></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
-Design</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +327,7 @@ Prize Award Ceremony by
 <br><strong><em>AI Singapore</em></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
 </td>
@@ -343,10 +340,6 @@ Design</p>
 <p><a href="https://www.a-star.edu.sg/i2r/research/I2RTechs/research/i2r-techs-solutions/unlocking-the-potential-of-large-language-models-(llms)-with-i-r-s-merlion-ai" rel="noopener nofollow" target="_blank">MERaLION</a> by
 <br><strong><em>A*STAR</em></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
-Design</p>
 </td>
 </tr>
 </tbody>
