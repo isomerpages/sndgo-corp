@@ -20,7 +20,7 @@ opportunities. The Singapore AI Research Week takes place alongside the
 <p>Dive in to explore the latest in AI, connect with leading researchers,
 and discover what Singapore has to offer in the world of innovation.</p>
 <h4>Programme</h4>
-<p>Explore the full event lineup below and discover the exciting opportunities
+<p>Explore the event lineup below and discover the exciting opportunities
 that await! 💫
 <br>
 <br><strong>More details on the events and how to RSVP coming soon! 👀</strong>
@@ -400,6 +400,9 @@ Design</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__1333.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__1339.png">
 </div>
 <h4><br></h4>
 <p></p>
