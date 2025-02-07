@@ -14,7 +14,7 @@ third_nav_title: Artificial Intelligence
 <h3>About</h3>
 <p>Singapore will be hosting the 13th <a href="https://iclr.cc/" rel="noopener nofollow" target="_blank">International Conference of Learning Representations (ICLR)</a> conference
 from 24 April to 28 April 2025, a prestigious conference that seeks to
-bring together 7,000 of the top-minds in AI and Machine Learning.</p>
+bring together the top-minds in AI and Machine Learning.</p>
 <p>Singapore is home to universities, research institutes, start-ups, corporates,
 and government agencies conducting a wide range of foundational and applied
 AI research and development. The Singapore AI Research Week, held in parallel
