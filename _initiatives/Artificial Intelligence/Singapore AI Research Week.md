@@ -403,7 +403,7 @@ Design</p>
 </details>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__updated_with_smu_and_csa_on_7_feb__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__updated_with_smu_and_csa_on_7_feb__2_.png">
 </div>
 <h4><br></h4>
 <p></p>
