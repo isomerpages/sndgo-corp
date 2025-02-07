@@ -81,7 +81,9 @@ Design</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>81 Victoria St, Singapore 188065, Singapore Management University Administrative
+Building</p>
+<p>Mochtar Riady Auditorium</p>
 </td>
 </tr>
 <tr>
