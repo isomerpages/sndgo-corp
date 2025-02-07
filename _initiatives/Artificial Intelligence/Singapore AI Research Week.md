@@ -244,7 +244,7 @@ Design</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Engineer Singapore 2025 by
+<p><a href="https://lu.ma/aiesg" rel="noopener nofollow" target="_blank">AI Engineer Singapore 2025</a> by
 <br><strong><em>Latent Space</em></strong>
 </p>
 </td>
@@ -285,7 +285,7 @@ Design</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Engineer Singapore 2025 by
+<p><a href="https://lu.ma/aiesg" rel="noopener nofollow" target="_blank">AI Engineer Singapore 2025</a> by
 <br><strong><em>Latent Space</em></strong>
 </p>
 </td>
