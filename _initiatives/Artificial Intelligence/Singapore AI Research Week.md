@@ -216,14 +216,9 @@ Design</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>26 APRIL 2025 | SUN</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -261,6 +256,12 @@ Design</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<p><strong>27 APRIL 2025 | SUN</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
@@ -294,6 +295,12 @@ Design</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>28 APRIL 2025 | MON</strong>
+</p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Time</p>
@@ -342,6 +349,12 @@ Design</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
+<p><strong>29 APRIL 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
 <p>Exciting events coming your way! 🚀</p>
 </td>
 </tr>
@@ -357,6 +370,12 @@ Design</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
+<p><strong>30 APRIL 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
 <p>Exciting events coming your way! 🚀</p>
 </td>
 </tr>
@@ -368,7 +387,6 @@ Design</p>
 <blockquote>
 <p>Brought to you by</p>
 </blockquote>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
