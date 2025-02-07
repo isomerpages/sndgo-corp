@@ -26,7 +26,7 @@ to offer.</p>
 and networking opportunities that will take place across the week.</p>
 <h3>Programme</h3>
 <p>Explore the event lineup below and discover the exciting opportunities
-that await! 💫
+that await. Stay tuned, as more events will be added! 💫
 <br><strong>More details on the events and how to RSVP coming soon! 👀</strong>
 </p>
 <p></p>
