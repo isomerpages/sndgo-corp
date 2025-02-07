@@ -394,11 +394,9 @@ Design</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__13_52.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__13_52__2_.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__13_52__3_.png">
-</div>
-<h4><br></h4>
+<h4>Brought to you by</h4>
+<p>Main Venue Sponsor</p>
+<p>Participating organisations
+<br>
+</p>
 <p></p>
