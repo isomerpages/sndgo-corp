@@ -99,6 +99,7 @@ Design</p>
 <details class="isomer-details">
 <summary>24 APRIL 2025 | THU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -123,7 +124,7 @@ Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Online Trust &amp; Safety by
-<br><strong><em>A*STAR</em></strong>
+<br><strong><em>Centre for Advanced Technologies in Online Safety</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
