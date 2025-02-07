@@ -402,7 +402,7 @@ Design</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__1333.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__1339.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/current__1339__1_.png">
 </div>
 <h4><br></h4>
 <p></p>
