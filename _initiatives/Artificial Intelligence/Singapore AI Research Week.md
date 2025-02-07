@@ -89,9 +89,7 @@ Design</p>
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lorongai" rel="noopener nofollow" target="_blank">AI Wednesdays</a>
-</p>
-<p>by
+<p><a href="https://go.gov.sg/lorongai" rel="noopener nofollow" target="_blank">AI Wednesdays </a>by
 <br><strong><em>Ministry of Digital Development &amp; Information</em></strong>
 </p>
 </td>
