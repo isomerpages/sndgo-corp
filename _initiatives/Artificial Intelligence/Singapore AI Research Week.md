@@ -339,7 +339,7 @@ Design</p>
 <p>14:00 - 15:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.a-star.edu.sg/i2r/research/I2RTechs/research/i2r-techs-solutions/unlocking-the-potential-of-large-language-models-(llms)-with-i-r-s-merlion-ai" rel="noopener nofollow" target="_blank">MERaLION</a> by
+<p><a href="https://www.a-star.edu.sg/i2r/research/I2RTechs/research/i2r-techs-solutions/unlocking-the-potential-of-large-language-models-(llms)-with-i-r-s-merlion-ai" rel="noopener nofollow" target="_blank">MERaLiON</a> by
 <br><strong><em>A*STAR</em></strong>
 </p>
 </td>
