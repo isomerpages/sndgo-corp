@@ -151,7 +151,7 @@ Design</p>
 <p>14:00 - 19:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI for Manufacturing Industry Forum by
+<p><a href="https://www.a-star.edu.sg/artc" rel="noopener nofollow" target="_blank">AI for Manufacturing Industry Forum</a> by
 <br><strong><em>A*STAR</em></strong>
 </p>
 </td>
