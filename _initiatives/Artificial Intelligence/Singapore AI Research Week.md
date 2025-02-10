@@ -24,6 +24,7 @@ in AI, connect with leading researchers, and discover what Singapore has
 to offer.</p>
 <p>Check out the expert talks, panel discussions, interactive workshops,
 and networking opportunities that will take place across the week.</p>
+<p>If you want to be kept updated on the programmes, leave your email <a href="https://form.gov.sg/67a97bd421c40f204f65ca6e" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3>Programme</h3>
 <p>Explore the event lineup below and discover the exciting opportunities
 that await. Stay tuned, as more events will be added! 💫
