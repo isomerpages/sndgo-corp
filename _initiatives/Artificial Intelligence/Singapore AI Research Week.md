@@ -30,6 +30,8 @@ that await. Stay tuned, as more events will be added! 💫
 <br><strong>More details on the events and how to RSVP coming soon! 👀</strong>
 </p>
 <p></p>
+<p>If you are interested in hosting an activity, let us know <a href="https://go.gov.sg/singaporeairesearchweek" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p></p>
 <hr>
 <table style="minWidth: 75px">
 <colgroup>
