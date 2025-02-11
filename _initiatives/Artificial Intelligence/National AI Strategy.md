@@ -117,7 +117,7 @@ AI is transforming Singapore for the better. Explore how we're not only applying
 </div>
 	
 <div class="col"> 
-<a href="/initiatives/oneservice-chatbot"><img src="/images/initiatives/overview-pages/oneservice_chatbot.jpg" alt="OneService Chatbot"></a><div style="font-size:18px;"><b><center>OneService Chatbot</center></b></div><div style="font-size:18px; line-height:32px">The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
+<a href="https://www.oneservice.gov.sg/oneservice-channels"><img src="/images/initiatives/overview-pages/oneservice_chatbot.jpg" alt="OneService Chatbot"></a><div style="font-size:18px;"><b><center>OneService Chatbot</center></b></div><div style="font-size:18px; line-height:32px">The Chatbot guides residents to provide the relevant information, in real-time conversational manner, to ensure that feedback is comprehensively logged. 
 </div>
 <br></div>
 	
