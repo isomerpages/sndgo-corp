@@ -1,0 +1,4 @@
+collections:
+  projects:
+    output: true
+    order: []
