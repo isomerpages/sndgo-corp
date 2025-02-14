@@ -33,7 +33,7 @@ that await. Stay tuned, as more events will be added! 💫
 <p></p>
 <p>If you are interested in organising an activity, let us know <a href="https://go.gov.sg/sgp-ai-research-week-activities" rel="noopener nofollow" target="_blank">here</a>!
 <br>
-<br><em>Please note that the list of events and activities in this website is provided for informational purposes only, and do not constitute or imply any association, recommendation, or endorsement by the Singapore Government fo these events and activities, or their contents.</em>
+<br><em>Please note that the list of events and activities in this website is provided for informational purposes only, and do not constitute or imply any association, recommendation, or endorsement by the Singapore Government for these events and activities, or their contents.</em>
 </p>
 <p></p>
 <hr>
