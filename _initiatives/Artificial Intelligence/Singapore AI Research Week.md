@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Artificial Intelligence
 ---
 <p></p>
-<h2><strong>Singapore AI Research Week</strong></h2>
+<h2>Singapore AI Research Week</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sgp_ai_research_week_newfont.png">
@@ -24,10 +24,16 @@ in AI, connect with leading researchers, and discover what Singapore has
 to offer.</p>
 <p>Check out the expert talks, panel discussions, interactive workshops,
 and networking opportunities that will take place across the week.</p>
+<p>If you want to be kept updated on the programmes, leave your email <a href="https://form.gov.sg/67a97bd421c40f204f65ca6e" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3>Programme</h3>
 <p>Explore the event lineup below and discover the exciting opportunities
 that await. Stay tuned, as more events will be added! 💫
 <br><strong>More details on the events and how to RSVP coming soon! 👀</strong>
+</p>
+<p></p>
+<p>If you are interested in organising an activity, let us know <a href="https://go.gov.sg/sgp-ai-research-week-activities" rel="noopener nofollow" target="_blank">here</a>!
+<br>
+<br><em>Please note that the list of events and activities in this website is provided for informational purposes only, and do not constitute or imply any association, recommendation, or endorsement by the Singapore Government for these events and activities, or their contents.</em>
 </p>
 <p></p>
 <hr>
