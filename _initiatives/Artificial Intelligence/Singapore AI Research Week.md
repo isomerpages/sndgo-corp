@@ -36,8 +36,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 ---
 
 
-<b>23 April 2025 | Wednesday</b>
-
+### 23 April 2025 | Wednesday
 
 
 | Time | Event | Venue |
@@ -51,7 +50,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 ---
 
-<b>24 April 2025 | Thursday</b>
+#### 24 April 2025 | Thursday
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -63,7 +62,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 ---
 
-<b>25 April 2025 | Friday</b>
+#### 25 April 2025 | Friday
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -73,7 +72,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 ---
 
-<b>26 April 2025 | Saturday</b>
+#### 26 April 2025 | Saturday
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -83,7 +82,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 ---
 
-<b>27 April 2025 | Sunday</b>
+#### 27 April 2025 | Sunday
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -93,7 +92,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 ---
 
-<b>28 April 2025 | Monday</b>
+#### 28 April 2025 | Monday
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -122,7 +121,7 @@ Highlights of the Event:
 
 ---
 
-<b>29 April 2025 | Tuesday</b>
+#### 29 April 2025 | Tuesday
 
 Exciting events coming your way! 🚀 More details coming soon! 👀
 
@@ -130,7 +129,7 @@ Exciting events coming your way! 🚀 More details coming soon! 👀
 
 ---
 
-<b>30 April 2025 | Wednesday</b>
+#### 30 April 2025 | Wednesday
 
 Exciting events coming your way! 🚀 More details coming soon! 👀
 
