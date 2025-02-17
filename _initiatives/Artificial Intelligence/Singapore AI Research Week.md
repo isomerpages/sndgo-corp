@@ -302,15 +302,16 @@ Design</p>
 </table>
 <p></p>
 <hr>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="4">
 <h4>28 April 2025 | Monday</h4>
 </td>
 </tr>
@@ -323,6 +324,9 @@ Design</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
 </th>
 </tr>
 <tr>
@@ -338,6 +342,27 @@ Prize Award Ceremony by
 <td rowspan="1" colspan="1">
 <p>50 Nanyang Ave, Singapore 639798, Nanyang Technological University</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>The&nbsp;National Olympiad in AI (NOAI)&nbsp;is Singapore’s premier AI
+competition, aimed at discovering, inspiring, and developing the next generation
+of AI creators. Organised by&nbsp;AI Singapore&nbsp;in collaboration with&nbsp;Nanyang
+Technological University (NTU), this inaugural edition of NOAI serves as
+both a learning platform and a gateway for students to represent Singapore
+at the prestigious&nbsp;International Olympiad in AI (IOAI). More details
+about NOAI 2025 can be found here:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/</a>.</p>
+<p>Highlights of the Event:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The announcement of NOAI winners</p>
+</li>
+<li>
+<p>A prize presentation ceremony</p>
+</li>
+<li>
+<p>Sharing sessions by the winners</p>
+</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -351,6 +376,9 @@ Prize Award Ceremony by
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
