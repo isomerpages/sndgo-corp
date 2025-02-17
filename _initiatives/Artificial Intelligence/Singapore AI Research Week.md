@@ -103,13 +103,13 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 <div style="padding: 40px 0px 0px 0px"></div>
 
-<div style="background-color: #f3f3f3; ; padding: 20px 40px 5px 40px; margin-left: 0;">
+<div style="background-color: #f3f3f3; line-height: 1.75; padding: 20px 40px 5px 40px; margin-left: 0;">
 
 <b>About the National Olympiad in AI (NOAI)</b><br><br>
 
 The&nbsp;National Olympiad in AI (NOAI)&nbsp;is Singapore’s premier AI competition, aimed at discovering, inspiring, and developing the next generation of AI creators. Organised by&nbsp;AI Singapore&nbsp;in collaboration with&nbsp;Nanyang Technological University (NTU), this inaugural edition of NOAI serves as both a learning platform and a gateway for students to represent Singapore at the prestigious&nbsp;International Olympiad in AI (IOAI). More details about NOAI 2025 can be found here: <a href="https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/">https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/.</a><br><br>
 
-Highlights of the Event:<br>
+Highlights of the Event:<br><br>
 	- The announcement of NOAI winners<br>
 	- A prize presentation ceremony<br>
 	- Sharing sessions by the winners<br><br>
