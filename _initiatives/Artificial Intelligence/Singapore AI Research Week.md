@@ -38,7 +38,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 ---
 
 
-### 23 April 2025 | Wednesday
+#### 23 April 2025 | Wednesday
 
 
 | Time | Event | Venue |
