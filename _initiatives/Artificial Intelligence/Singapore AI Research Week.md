@@ -40,6 +40,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 #### 23 April 2025 | Wednesday
 
+<div style="padding: 20px 0px 0px 0px"></div>
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -54,6 +55,8 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 #### 24 April 2025 | Thursday
 
+<div style="padding: 20px 0px 0px 0px"></div>
+
 | Time | Event | Venue |
 | -------- | -------- | -------- |
 | 09:00 - 11:00 | Online Trust and Safety by **_A\*STAR_** | 8 Somapah Rd, Singapore 487372, Singapore University of Technology and Design |
@@ -66,6 +69,8 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 #### 25 April 2025 | Friday
 
+<div style="padding: 20px 0px 0px 0px"></div>
+
 | Time | Event | Venue |
 | -------- | -------- | -------- |
 | TBA | AI Day by **_Singapore University of Technology and Design_** | 8 Somapah Rd, Singapore 487372, Singapore University of Technology and Design |
@@ -75,6 +80,8 @@ Explore the event lineup below and discover the exciting opportunities that awai
 ---
 
 #### 26 April 2025 | Saturday
+
+<div style="padding: 20px 0px 0px 0px"></div>
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -86,6 +93,8 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 #### 27 April 2025 | Sunday
 
+<div style="padding: 20px 0px 0px 0px"></div>
+
 | Time | Event | Venue |
 | -------- | -------- | -------- |
 | 09:00 - 18:00 | [AI Engineer Singapore 2025](https://lu.ma/aiesg)&nbsp;by **_Latent Space_** | 8 Somapah Rd, Singapore 487372, Singapore University of Technology and Design |
@@ -95,6 +104,8 @@ Explore the event lineup below and discover the exciting opportunities that awai
 ---
 
 #### 28 April 2025 | Monday
+
+<div style="padding: 20px 0px 0px 0px"></div>
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
