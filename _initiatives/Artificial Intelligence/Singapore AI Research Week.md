@@ -27,7 +27,9 @@ If you want to be kept updated on the programmes, leave your email <a href="http
 
 Explore the event lineup below and discover the exciting opportunities that await. Stay tuned, as more events will be added! 💫
 
-**More details on the events and how to RSVP coming soon! 👀 If you are interested in organising an activity, let us know <a href="https://go.gov.sg/sgp-ai-research-week-activities" rel="noopener nofollow" target="_blank">here</a>!**
+**More details on the events and how to RSVP coming soon! 👀 
+
+**If you are interested in organising an activity, let us know <a href="https://go.gov.sg/sgp-ai-research-week-activities" rel="noopener nofollow" target="_blank">here</a>!**
 
 *Please note that the list of events and activities in this website is provided for informational purposes only, and do not constitute or imply any association, recommendation, or endorsement by the Singapore Government for these events and activities, or their contents.*
 
