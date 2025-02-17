@@ -100,7 +100,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 | 10:00 - 11:00 | [National Olympiad in AI](https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/)&nbsp;2025 Prize Award Ceremony by **_AI Singapore_** | 50 Nanyang Ave, Singapore 639798, Nanyang Technological University
 | 14:00 - 15:00 | [MERaLiON](https://www.a-star.edu.sg/i2r/research/I2RTechs/research/i2r-techs-solutions/unlocking-the-potential-of-large-language-models-(llms)-with-i-r-s-merlion-ai)&nbsp;by **_A\*STAR_** | 8 Somapah Rd, Singapore 487372, Singapore University of Technology and Design |
 
-<div style="padding: 20px 0px 0px 0px"></div>
+<div style="padding: 40px 0px 0px 0px"></div>
 
 <div style="background-color: #f3f3f3; ; padding: 20px 40px 5px 40px; margin-left: 0;">
 
@@ -169,4 +169,3 @@ Exciting events coming your way! 🚀 More details coming soon! 👀
 
 
 <center><div style="width:60%; padding: 20px 0px 20px 0px;"><img src="/images/abt-smart-nation/snvision.jpg" alt="Smart Nation logo"></div></center>
-
