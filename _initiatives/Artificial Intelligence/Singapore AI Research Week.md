@@ -36,7 +36,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 ---
 
 
-**23 April 2025 | Wednesday**
+<b>23 April 2025 | Wednesday</b>
 
 
 
@@ -51,7 +51,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 ---
 
-**24 April 2025 | Thursday**
+<b>24 April 2025 | Thursday</b>
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -63,7 +63,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 ---
 
-**25 April 2025 | Friday**
+<b>25 April 2025 | Friday</b>
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -73,7 +73,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 ---
 
-**26 April 2025 | Saturday**
+<b>26 April 2025 | Saturday</b>
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -83,7 +83,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 ---
 
-**27 April 2025 | Sunday**
+<b>27 April 2025 | Sunday</b>
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -93,7 +93,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 ---
 
-**28 April 2025 | Monday**
+<b>28 April 2025 | Monday</b>
 
 | Time | Event | Venue |
 | -------- | -------- | -------- |
@@ -104,7 +104,7 @@ Explore the event lineup below and discover the exciting opportunities that awai
 
 <div style="background-color: #f3f3f3; ; padding: 20px 40px 5px 40px; margin-left: 0;">
 
-**About the National Olympiad in AI (NOAI)**
+<b>About the National Olympiad in AI (NOAI)</b>
 
 The&nbsp;National Olympiad in AI (NOAI)&nbsp;is Singapore’s premier AI competition, aimed at discovering, inspiring, and developing the next generation of AI creators. Organised by&nbsp;AI Singapore&nbsp;in collaboration with&nbsp;Nanyang Technological University (NTU), this inaugural edition of NOAI serves as both a learning platform and a gateway for students to represent Singapore at the prestigious&nbsp;International Olympiad in AI (IOAI). More details about NOAI 2025 can be found here:&nbsp;https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/.
 
@@ -122,7 +122,7 @@ Highlights of the Event:
 
 ---
 
-#### 29 April 2025 | Tuesday
+<b>29 April 2025 | Tuesday</b>
 
 Exciting events coming your way! 🚀 More details coming soon! 👀
 
@@ -130,7 +130,7 @@ Exciting events coming your way! 🚀 More details coming soon! 👀
 
 ---
 
-#### 30 April 2025 | Wednesday
+<b>30 April 2025 | Wednesday</b>
 
 Exciting events coming your way! 🚀 More details coming soon! 👀
 
