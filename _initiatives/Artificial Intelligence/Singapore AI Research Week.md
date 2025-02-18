@@ -235,10 +235,12 @@ Technology Centre</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>09:00 - 14:00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI Day by <strong><em>Singapore University of Technology and Design</em></strong>
+</p>
+<p><a href="https://forms.office.com/r/rMPzntEGgh" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
