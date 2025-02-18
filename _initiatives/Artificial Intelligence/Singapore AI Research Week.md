@@ -385,6 +385,32 @@ Design</p>
 <p><a href="https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/" rel="noopener noreferrer nofollow" target="_blank">National Olympiad in AI</a>&nbsp;2025
 Prize Award Ceremony by <strong><em>AI Singapore</em></strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Details</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The&nbsp;National Olympiad in AI (NOAI)&nbsp;is Singapore’s premier AI
+competition, aimed at discovering, inspiring, and developing the next generation
+of AI creators. Organised by&nbsp;AI Singapore&nbsp;in collaboration with&nbsp;Nanyang
+Technological University (NTU), this inaugural edition of NOAI serves as
+both a learning platform and a gateway for students to represent Singapore
+at the prestigious&nbsp;International Olympiad in AI (IOAI).</p>
+<p>Highlights of the event:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The announcement of NOAI winners</p>
+</li>
+<li>
+<p>A prize presentation ceremony</p>
+</li>
+<li>
+<p>Sharing session by the winners</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50 Nanyang Ave, Singapore 639798, Nanyang Technological University</p>
@@ -405,25 +431,7 @@ Design</p>
 </tr>
 </tbody>
 </table>
-<p><strong>About the National Olympiad in AI (NOAI)</strong>
-<br>
-<br>
-</p>
-<p>The&nbsp;National Olympiad in AI (NOAI)&nbsp;is Singapore’s premier AI
-competition, aimed at discovering, inspiring, and developing the next generation
-of AI creators. Organised by&nbsp;AI Singapore&nbsp;in collaboration with&nbsp;Nanyang
-Technological University (NTU), this inaugural edition of NOAI serves as
-both a learning platform and a gateway for students to represent Singapore
-at the prestigious&nbsp;International Olympiad in AI (IOAI). More details
-about NOAI 2025 can be found here: <a href="https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/" rel="noopener noreferrer nofollow" target="_blank">https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/.</a>
-<br>
-<br>
-</p>
-<p>Highlights of the Event:
-<br>
-<br>- The announcement of NOAI winners
-<br>- A prize presentation ceremony
-<br>- Sharing sessions by the winners
+<p>
 <br>
 <br>
 </p>
