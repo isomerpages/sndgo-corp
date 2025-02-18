@@ -192,7 +192,7 @@ Design</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Presentation by Dr. Sebastian Maurer-Stroh</summary>
+<summary>Presentation by Dr. Sebastian Maurer-Stroh (30 min)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This session will introduce a proposed initiative aimed at accelerating
 and de-risking the drug discovery process through AI. Dr. Sebastian Maurer-Stroh
@@ -202,7 +202,7 @@ of AI-driven drug discovery.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Q&amp;A with Dr. Sebastian Maurer-Stroh and Dr. Yaron Turpaz</summary>
+<summary>Q&amp;A with Dr. Sebastian Maurer-Stroh and Dr. Yaron Turpaz (30 min)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dr. Maurer-Stroh, Executive Director of the Bioinformatics Institute at
 A*STAR, has led his team in critical contributions to global viral pathogen
