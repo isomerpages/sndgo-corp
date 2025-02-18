@@ -140,7 +140,6 @@ Building
 <td rowspan="1" colspan="1">
 <p>Online Trust and Safety by <strong><em>A*STAR</em></strong>
 </p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Talk on OTS and demo of OTS toolkit by Dr Yang Yinping &amp; team (1 hour)</summary>
@@ -176,6 +175,8 @@ cyber harms.</p>
 </div>
 </details>
 </div>
+<p></p>
+<p>RSVP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -189,6 +190,33 @@ Design</p>
 <td rowspan="1" colspan="1">
 <p>AI in Drug Discovery by <strong><em>A*STAR</em></strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Presentation by Dr. Sebastian Maurer-Stroh</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This session will introduce a proposed initiative aimed at accelerating
+and de-risking the drug discovery process through AI. Dr. Sebastian Maurer-Stroh
+and Dr. Yaron Turpaz, co-leads of this effort, will share its vision, core
+research focus, and opportunities for collaboration to shape the future
+of AI-driven drug discovery.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Q&amp;A with Dr. Sebastian Maurer-Stroh and Dr. Yaron Turpaz</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Dr. Maurer-Stroh, Executive Director of the Bioinformatics Institute at
+A*STAR, has led his team in critical contributions to global viral pathogen
+surveillance, public-private partnerships in pharma manufacturing, and
+the scaling of a research data hub as an ISO-certified national data node.</p>
+<p>Joining him is Dr. Yaron Turpaz, Head of Computational Sciences at EDDC
+and Chief Information Officer of Engine Biosciences. With extensive experience
+leading global R&amp;D informatics teams, Dr. Turpaz will provide insights
+into the transformative potential of AI in therapeutic development.</p>
+</div>
+</details>
+</div>
+<p>RSVP</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
