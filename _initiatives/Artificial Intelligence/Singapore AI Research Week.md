@@ -143,7 +143,7 @@ Building
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Talk on OTS and demo of OTS toolkit by Dr Yang Yinping &amp; team</summary>
+<summary>Talk on OTS and demo of OTS toolkit by Dr Yang Yinping &amp; team (1 hour)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>The spread of harmful online content poses growing risks to society, from
@@ -162,7 +162,7 @@ from the first version of CATOS’ OTS Toolkit.</p>
 </details>
 <details class="isomer-details">
 <summary>Talk on Bridging Online and Offline Dynamics of Social Cyber Harm by Dr
-Joshua Uyheng (invited international guest)</summary>
+Joshua Uyheng (invited international guest) (1 hour)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Dr. Joshua Uyheng, an Assistant Professor at Ateneo de Manila University
 with a Ph.D. in Societal Computing from Carnegie Mellon University, will
