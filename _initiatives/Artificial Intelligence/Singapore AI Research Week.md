@@ -215,7 +215,7 @@ into the transformative potential of AI in therapeutic development.</p>
 </div>
 </details>
 </div>
-<p>RSVP</p>
+<p>No RSVP needed.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
