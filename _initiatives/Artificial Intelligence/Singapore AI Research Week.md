@@ -151,7 +151,7 @@ Design</p>
 <p>11:30 - 12:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI in Drug Discovery by <strong><em>A*STAR</em></strong>
+<p>AI for Drug Discovery by <strong><em>A*STAR</em></strong>
 </p>
 <p></p>
 </td>
