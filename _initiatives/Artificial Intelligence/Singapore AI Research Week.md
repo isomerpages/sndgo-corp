@@ -140,43 +140,6 @@ Building
 <td rowspan="1" colspan="1">
 <p>Online Trust and Safety by <strong><em>A*STAR</em></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Talk on OTS and demo of OTS toolkit by Dr Yang Yinping &amp; team (1 hour)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>The spread of harmful online content poses growing risks to society, from
-falsehoods that distort public understanding to racially and religiously
-divisive narratives and viral trends that endanger vulnerable groups. Tackling
-these challenges requires prevention at the source, early detection at
-scale, and public empowerment for effective mitigation. &nbsp;In this talk,
-Dr. Yang Yinping, Centre Director of the Centre for Advanced Technologies
-in Online Safety (CATOS), will outline the centre’s focal areas in tackling
-harmful online content and how deep tech and translational research are
-driving solutions in collaboration with public agencies, universities,
-and industry partners. The session will highlight Singapore’s strategic
-approach to digital resilience and include a live demonstration of technologies
-from the first version of CATOS’ OTS Toolkit.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Talk on Bridging Online and Offline Dynamics of Social Cyber Harm by Dr
-Joshua Uyheng (invited international guest) (1 hour)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Dr. Joshua Uyheng, an Assistant Professor at Ateneo de Manila University
-with a Ph.D. in Societal Computing from Carnegie Mellon University, will
-further explore the bidirectional impact of online harms and real-world
-events, drawing from studies on the Covid-19 pandemic. He will discuss
-how offline instability fuels online hate and misinformation, while harmful
-online narratives, in turn, shape real-world behaviors. His findings highlight
-the need for effective platform regulation, public communication strategies,
-and cross-sector collaboration to strengthen resilience against social
-cyber harms.</p>
-</div>
-</details>
-</div>
-<p></p>
-<p>RSVP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -190,32 +153,6 @@ Design</p>
 <td rowspan="1" colspan="1">
 <p>AI in Drug Discovery by <strong><em>A*STAR</em></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Presentation by Dr. Sebastian Maurer-Stroh (30 min)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>This session will introduce a proposed initiative aimed at accelerating
-and de-risking the drug discovery process through AI. Dr. Sebastian Maurer-Stroh
-and Dr. Yaron Turpaz, co-leads of this effort, will share its vision, core
-research focus, and opportunities for collaboration to shape the future
-of AI-driven drug discovery.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Q&amp;A with Dr. Sebastian Maurer-Stroh and Dr. Yaron Turpaz (30 min)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Dr. Maurer-Stroh, Executive Director of the Bioinformatics Institute at
-A*STAR, has led his team in critical contributions to global viral pathogen
-surveillance, public-private partnerships in pharma manufacturing, and
-the scaling of a research data hub as an ISO-certified national data node.</p>
-<p>Joining him is Dr. Yaron Turpaz, Head of Computational Sciences at EDDC
-and Chief Information Officer of Engine Biosciences. With extensive experience
-leading global R&amp;D informatics teams, Dr. Turpaz will provide insights
-into the transformative potential of AI in therapeutic development.</p>
-</div>
-</details>
-</div>
-<p>No RSVP needed.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,8 +204,6 @@ Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI Day by <strong><em>Singapore University of Technology and Design</em></strong>
-</p>
-<p><a href="https://forms.office.com/r/rMPzntEGgh" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -385,32 +320,6 @@ Design</p>
 <p><a href="https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/" rel="noopener noreferrer nofollow" target="_blank">National Olympiad in AI</a>&nbsp;2025
 Prize Award Ceremony by <strong><em>AI Singapore</em></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Details</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The&nbsp;National Olympiad in AI (NOAI)&nbsp;is Singapore’s premier AI
-competition, aimed at discovering, inspiring, and developing the next generation
-of AI creators. Organised by&nbsp;AI Singapore&nbsp;in collaboration with&nbsp;Nanyang
-Technological University (NTU), this inaugural edition of NOAI serves as
-both a learning platform and a gateway for students to represent Singapore
-at the prestigious&nbsp;International Olympiad in AI (IOAI).</p>
-<p>Highlights of the event:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The announcement of NOAI winners</p>
-</li>
-<li>
-<p>A prize presentation ceremony</p>
-</li>
-<li>
-<p>Sharing session by the winners</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50 Nanyang Ave, Singapore 639798, Nanyang Technological University</p>
@@ -431,25 +340,12 @@ Design</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>
-</p>
 <hr>
 <h4>29 April 2025 | Tuesday</h4>
 <p>Exciting events coming your way! 🚀 More details coming soon! 👀</p>
-<p>
-<br>
-</p>
 <hr>
 <h4>30 April 2025 | Wednesday</h4>
 <p>Exciting events coming your way! 🚀 More details coming soon! 👀</p>
-<p>
-<br>
-</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore AI Research Week" src="/images/sairw.png">
