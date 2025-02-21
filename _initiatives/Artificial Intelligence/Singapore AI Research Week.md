@@ -390,7 +390,7 @@ Design</p>
 <p>09:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workshop on Advances in General AI by <strong><em>Singapore Management University</em></strong> 
+<p>Workshop on Advances in General AI by <strong><em>Singapore Management University</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -445,6 +445,21 @@ Design</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/" rel="noopener noreferrer nofollow" target="_blank">National Olympiad in AI</a>&nbsp;2025
 Prize Award Ceremony by <strong><em>AI Singapore</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The&nbsp;National Olympiad in AI (NOAI)&nbsp;is Singapore’s premier AI
+competition, aimed at discovering, inspiring, and developing the next generation
+of AI creators. Organised by&nbsp;AI Singapore&nbsp;in collaboration with&nbsp;Nanyang
+Technological University (NTU), this inaugural edition of NOAI serves as
+both a learning platform and a gateway for students to represent Singapore
+at the prestigious&nbsp;International Olympiad in AI (IOAI).</p>
+</div>
+</details>
+</div>
+<p><em>By invite only</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
