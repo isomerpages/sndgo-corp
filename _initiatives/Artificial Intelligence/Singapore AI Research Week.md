@@ -137,6 +137,49 @@ Building
 <td rowspan="1" colspan="1">
 <p>Online Trust and Safety by <strong><em>A*STAR</em></strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The spread of harmful online content poses growing risks to society, from
+falsehoods that distort public understanding to racially and religiously
+divisive narratives and viral trends that endanger vulnerable groups. Tackling
+these challenges requires prevention at the source, early detection at
+scale, and public empowerment for effective mitigation. &nbsp;In this talk,
+Dr. Yang Yinping, Centre Director of the Centre for Advanced Technologies
+in Online Safety (CATOS), will outline the centre’s focal areas in tackling
+harmful online content and how deep tech and translational research are
+driving solutions in collaboration with public agencies, universities,
+and industry partners. The session will highlight Singapore’s strategic
+approach to digital resilience and include a live demonstration of technologies
+from the first version of CATOS’ OTS Toolkit.</p>
+<p></p>
+<p>Dr. Joshua Uyheng, an Assistant Professor at Ateneo de Manila University
+with a Ph.D. in Societal Computing from Carnegie Mellon University, will
+further explore the bidirectional impact of online harms and real-world
+events, drawing from studies on the Covid-19 pandemic. He will discuss
+how offline instability fuels online hate and misinformation, while harmful
+online narratives, in turn, shape real-world behaviors. His findings highlight
+the need for effective platform regulation, public communication strategies,
+and cross-sector collaboration to strengthen resilience against social
+cyber harms.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>09:00 - 10:00</strong>: Talk on online trust and safety (OTS)
+and OTS toolkit by <a href="https://www.a-star.edu.sg/idlabs/about-us/people/our-investigators/yang-yinping" rel="noopener nofollow" target="_blank">Dr. Yang Yinping</a> &amp;
+team</p>
+<p></p>
+<p><strong>10:00 - 11:00</strong>: Talk on Bridging Online and Offline Dynamics
+of Social Cyber Harm by <a href="https://juyheng.github.io/" rel="noopener nofollow" target="_blank">Dr. Joshua Uyheng</a> (invited
+international guest)</p>
+</div>
+</details>
+</div>
+<p><em><a href="https://form.gov.sg/67b54fdd07107977a34d5464" rel="noopener nofollow" target="_blank">RSVP</a></em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -150,7 +193,42 @@ Design</p>
 <td rowspan="1" colspan="1">
 <p>AI for Drug Discovery by <strong><em>A*STAR</em></strong>
 </p>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This session will introduce a proposed initiative aimed at accelerating
+and de-risking the drug discovery process through AI. Dr. Sebastian Maurer-Stroh
+and Dr. Yaron Turpaz, co-leads of this effort, will share its vision, core
+research focus, and opportunities for collaboration to shape the future
+of AI-driven drug discovery.</p>
+<p>&nbsp;</p>
+<p>Dr. Maurer-Stroh, Executive Director of the Bioinformatics Institute at
+A*STAR, has led his team in critical contributions to global viral pathogen
+surveillance, public-private partnerships in pharma manufacturing, and
+the scaling of a research data hub as an ISO-certified national data node.
+Joining him is Dr. Yaron Turpaz, Head of Computational Sciences at EDDC
+and Chief Information Officer of Engine Biosciences. With extensive experience
+leading global R&amp;D informatics teams, Dr. Turpaz will provide insights
+into the transformative potential of AI in therapeutic development.</p>
+<p>&nbsp;</p>
+<p>Attendees will also have the opportunity to engage directly with the speakers
+during the discussion segment.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>11:30 – 12:00</strong>: Presentation by <a href="https://www.a-star.edu.sg/idlabs/about-us/people/our-investigators/sebastianms" rel="noopener nofollow" target="_blank">Dr. Sebastian Maurer-Stroh</a>
+</p>
+<p><strong>12:00 – 12:30</strong>: Q&amp;A with Dr. Sebastian Maurer-Stroh
+and <a href="https://sg.linkedin.com/in/yaron-turpaz" rel="noopener nofollow" target="_blank">Dr. Yaron Turpaz</a>
+</p>
+</div>
+</details>
+</div>
+<p><em>No RSVP needed</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -163,6 +241,38 @@ Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI for Manufacturing Industry Forum by <strong><em>A*STAR</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This forum aims to establish the AI Centre of Excellence for Manufacturing
+(AIMfg) as a nexus for AI in Manufacturing (Mfg) of Singapore and convenor
+of key industry, academia and government stakeholders:</p>
+<p>To believe “it can be done”.&nbsp; For leading manufacturing companies
+to share on their journey (challenges, success stories, best practices)
+using AI for Manufacturing.</p>
+<p>To inspire and increase awareness on the latest tech trends and developments.</p>
+<p>To cross-share pain points and network through roundtables and generate
+ideas on how AI can help industry end-users in their manufacturing process.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Guest-of-Honours Opening Speech (5 min)</p>
+<p>Keynote Presentation 1 (20 min)</p>
+<p>Keynote Presentation 2 (20 min)</p>
+<p>Panel on AI’s Latest Developments and Upcoming Opportunities for Manufacturing
+(25 min)</p>
+<p>Roundtable Discussions and Sharing (60 min)</p>
+<p>Sharing on AI for Manufacturing (25 min)</p>
+<p>Site Tour (20 min)</p>
+<p>Networking Dinner (1.5 h)</p>
+</div>
+</details>
+</div>
+<p><em>Interested parties may email Royston at <a href="mailto:royston_phoon@hq.a-star.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>royston_phoon@hq.a-star.edu.sg</u></a> to register interest.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -328,6 +438,35 @@ Prize Award Ceremony by <strong><em>AI Singapore</em></strong>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.a-star.edu.sg/i2r/research/I2RTechs/research/i2r-techs-solutions/unlocking-the-potential-of-large-language-models-(llms)-with-i-r-s-merlion-ai" rel="noopener noreferrer nofollow" target="_blank">MERaLiON</a>&nbsp;by <strong><em>A*STAR</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A*STAR is leading a number of GenAI R&amp;D initiatives in Singapore,
+including MERaLiON (Multimodal Empathetic Reasoning and Learning in One
+Network) under the National Multimodal LLM Programme. Speech and audio
+information is rich in providing more comprehensive understanding of cultural
+implications and social dynamics that goes beyond semantics derived from
+text alone. We will share our research findings and conduct demos to anchor
+more engagements. Our current international collaborators include Kyoto
+University, NAIST, NICT, CNRS, Salesforce, ASUS, and ETH. We look forward
+to establishing more partnership on this journey.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>14:00 - 14:20: Overview of MERaLiON and A*STAR’s multimodal, multilingual
+GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen" rel="noopener nofollow" target="_blank">Dr. Nancy Chen</a> 
+</p>
+<p>14:20 - 14:40: AudioLLM Highlights by <a href="https://sg.linkedin.com/in/ssfei81" rel="noopener nofollow" target="_blank">Dr. Sun Shuo</a> 
+</p>
+<p>14:40 - 15:00: Demos and Q&amp;A by Dr. Nancy Chen and Dr. Sun Shuo</p>
+</div>
+</details>
+</div>
+<p><em>No RSVP needed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
