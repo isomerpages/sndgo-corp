@@ -80,21 +80,6 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00 - 17:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Workshop on Frontiers of Artificial General Intelligence by&nbsp;<strong><em>Singapore Management University</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>81 Victoria St, Singapore 188065, Singapore Management University Administrative
-Building
-<br>
-<br>Mochtar Riady Auditorium</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -312,6 +297,25 @@ Technology Centre</p>
 <td rowspan="1" colspan="1">
 <p>AI Day by <strong><em>Singapore University of Technology and Design</em></strong>
 </p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>SUTD AI Research Day brings together academic and industry researchers
+to showcase state-of-the-art advancements, exchange ideas, and foster collaborations
+in artificial intelligence research.</p>
+<p>The event will feature discussions on state-of-the-art machine learning
+techniques, AI-driven solutions to real-world challenges—including multimodal
+AI, energy-efficient models, and human-AI collaboration—as well as innovative
+applications of AI in healthcare, robotics, security, and design.</p>
+<p>SUTD AI Research Day offers an excellent platform for faculty, students,
+and professionals to gain international exposure, engage with leading experts,
+and explore the future of AI research.</p>
+</div>
+</details>
+</div>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=drd2NJDpck-5UGJImDFiPXbs8MH3QS5AkISCCebRfBJUOEY4T0o2UU9UNzFYU0xENFEwWUdNTkYwTi4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -380,6 +384,17 @@ Design</p>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -458,9 +473,9 @@ to establishing more partnership on this journey.</p>
 <summary>Agenda</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>14:00 - 14:20: Overview of MERaLiON and A*STAR’s multimodal, multilingual
-GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen" rel="noopener nofollow" target="_blank">Dr. Nancy Chen</a> 
+GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen" rel="noopener nofollow" target="_blank">Dr. Nancy Chen</a>
 </p>
-<p>14:20 - 14:40: AudioLLM Highlights by <a href="https://sg.linkedin.com/in/ssfei81" rel="noopener nofollow" target="_blank">Dr. Sun Shuo</a> 
+<p>14:20 - 14:40: AudioLLM Highlights by <a href="https://sg.linkedin.com/in/ssfei81" rel="noopener nofollow" target="_blank">Dr. Sun Shuo</a>
 </p>
 <p>14:40 - 15:00: Demos and Q&amp;A by Dr. Nancy Chen and Dr. Sun Shuo</p>
 </div>
