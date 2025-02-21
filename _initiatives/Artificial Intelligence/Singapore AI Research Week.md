@@ -295,7 +295,7 @@ Technology Centre</p>
 <p>09:00 - 14:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI Day by <strong><em>Singapore University of Technology and Design</em></strong>
+<p>SUTD AI Research Day by <strong><em>Singapore University of Technology and Design</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -387,13 +387,17 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>09:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Workshop on Advances in General AI by <strong><em>Singapore Management University</em></strong> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>81 Victoria St, Singapore 188065, Singapore Management University Administrative
+Building
+<br>
+<br>Mochtar Riady Auditorium</p>
 </td>
 </tr>
 <tr>
