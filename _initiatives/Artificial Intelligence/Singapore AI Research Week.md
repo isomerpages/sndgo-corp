@@ -523,15 +523,16 @@ Design</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore AI Research Week" src="/images/sairw.png">
 </div>
-<p><strong>Brought to you by</strong>
-</p>
+<h3>Brought to you by</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MDDI logo" src="/images/mddi_logo.jpg">
 </div>
+<h4>Main venue sponsor</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SUTD logo" src="/images/sutd_logo.jpg">
 </div>
-<p>Main venue sponsor</p>
+<p></p>
+<p></p>
 <p><strong>In support of</strong>
 </p>
 <div class="isomer-image-wrapper">
