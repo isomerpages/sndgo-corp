@@ -298,7 +298,7 @@ Technology Centre</p>
 <p>09:00 - 14:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SUTD AI Research Day by <strong><em>Singapore University of Technology and Design</em></strong>
+<p><a href="https://sutd-research-day.github.io/sutd-ai-day/" rel="noopener nofollow" target="_blank">SUTD AI Research Day</a> by <strong><em>Singapore University of Technology and Design</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -533,8 +533,7 @@ Design</p>
 </div>
 <p></p>
 <p></p>
-<p><strong>In support of</strong>
-</p>
+<h4>In support of</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation logo" src="/images/abt-smart-nation/snvision.jpg">
 </div>
