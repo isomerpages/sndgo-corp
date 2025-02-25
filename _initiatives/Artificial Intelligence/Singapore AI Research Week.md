@@ -462,7 +462,7 @@ at the prestigious&nbsp;International Olympiad in AI (IOAI).</p>
 </div>
 </details>
 </div>
-<p><em>By invite only</em>
+<p><em>Interested parties may email AI Singapore at <a href="mailto:learn-admin@aisingapore.org" rel="noopener noreferrer nofollow" target="_blank">learn-admin@aisingapore.org</a> to register interest. </em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
