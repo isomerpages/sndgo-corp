@@ -462,7 +462,7 @@ at the prestigious&nbsp;International Olympiad in AI (IOAI).</p>
 </div>
 </details>
 </div>
-<p><em>Interested parties may email AI Singapore at <a href="mailto:learn-admin@aisingapore.org" rel="noopener noreferrer nofollow" target="_blank">learn-admin@aisingapore.org</a> to register interest. </em>
+<p><em>Interested parties may email AI Singapore at <a href="mailto:learn-admin@aisingapore.org" rel="noopener noreferrer nofollow" target="_blank">learn-admin@aisingapore.org</a> to register interest.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -509,6 +509,39 @@ GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen"
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The SIT x NVIDIA AI Centre (SNAIC) is a premier hub for advancing translational
+AI technologies, co-founded by the Singapore Institute of Technology (SIT)
+and NVIDIA. Our mission is to empower industry partners with cutting-edge
+AI solutions that drive innovation, enhance efficiency, and accelerate
+business growth.</p>
+<p>&nbsp;</p>
+<p>Join us for an engaging half-day event where we showcase innovative AI
+projects in Large Language Models (LLMs), Multimodal AI, and Generative
+AI. Gain valuable insights into how these technologies are being adapted
+to solve real-world industry challenges and create new opportunities across
+sectors.</p>
+<p>&nbsp;</p>
+<p>Stay tuned for more details as the date approaches—we look forward to
+seeing you there!</p>
+</div>
+</details>
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Punggol Coast Road, Singapore 828608</p>
 </td>
 </tr>
 </tbody>
