@@ -2,7 +2,10 @@
 title: Singapore AI Research Week
 permalink: /singapore-ai-research-week/
 variant: tiptap
-description: ""
+description: The Singapore AI Research Week, held in parallel with ICLR 2025,
+  will celebrate the vibrancy and diversity of our AI research scene. It will
+  provide you with numerous opportunities to explore the latest in AI, connect
+  with leading researchers, and discover what Singapore has to offer.
 third_nav_title: Artificial Intelligence
 ---
 <h2>Singapore AI Research Week</h2>
@@ -120,7 +123,7 @@ Design</p>
 <p>09:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online Trust and Safety by <strong><em>A*STAR</em></strong>
+<p>Online Trust and Safety by <strong><em>Centre for Advanced Technologies in Online Safety</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -187,7 +190,6 @@ and de-risking the drug discovery process through AI. Dr. Sebastian Maurer-Stroh
 and Dr. Yaron Turpaz, co-leads of this effort, will share its vision, core
 research focus, and opportunities for collaboration to shape the future
 of AI-driven drug discovery.</p>
-<p>&nbsp;</p>
 <p>Dr. Maurer-Stroh, Executive Director of the Bioinformatics Institute at
 A*STAR, has led his team in critical contributions to global viral pathogen
 surveillance, public-private partnerships in pharma manufacturing, and
@@ -196,7 +198,6 @@ Joining him is Dr. Yaron Turpaz, Head of Computational Sciences at EDDC
 and Chief Information Officer of Engine Biosciences. With extensive experience
 leading global R&amp;D informatics teams, Dr. Turpaz will provide insights
 into the transformative potential of AI in therapeutic development.</p>
-<p>&nbsp;</p>
 <p>Attendees will also have the opportunity to engage directly with the speakers
 during the discussion segment.</p>
 </div>
@@ -218,6 +219,52 @@ and <a href="https://sg.linkedin.com/in/yaron-turpaz" rel="noopener nofollow" ta
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13:00 - 14:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hybrid AI for Decision-making in Critical Urban Systems by <strong><em>CNRS@CREATE</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Presentation of CNRS@CREATE</strong>
+</p>
+<p><strong>Demo 1: DesCartes Augmented 3D-Printed Marina Bay Twin Model</strong>
+</p>
+<p>This mixed-reality demo, featuring a scaled-down 3D-printed model of the
+Marina Bay Sands district, allows participants to experience the adaptive
+trajectory of a drone in downtown Singapore in real time, under varying
+conditions such as wind, temperature, and pollution.</p>
+<p><strong>Demo 2: DesCartes Hybrid Digital Twins</strong>
+</p>
+<p>Using an interactive table specifically designed for decision-making,
+along with Hololenses, participants can interact with the digital twin
+of Marina Bay district. In real time, they can understand and visualize
+how different conditions (wind, temperature, pollution, no-fly zones, etc.)
+impact these neighbourhoods.</p>
+<p><strong>Demo 3: Boid Corner Interactive Installation</strong>
+</p>
+<p>Drawing on both the Singaporean tradition of Birds Corners and the pioneering
+artificial life/swarm AI programs (‘Boid’ as bird-like object), this interactive,
+thought-provoking installation tracks visitors’ hand poses and turns them
+into virtual wings/birds, while visualising and extrapolating data. By
+experimenting with playful interactions and data visualizations, the aim
+is to make the visitors of the installation reflect on some of the critical
+issues at stake when it comes to AI, data collection, biometric identifiers,
+human digital twins and the use of technology in public spaces.</p>
+</div>
+</details>
+</div>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Create Way, Singapore 138602</p>
 </td>
 </tr>
 <tr>
@@ -265,6 +312,146 @@ ideas on how AI can help industry end-users in their manufacturing process.</p>
 Technology Centre</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14:05 - 15:05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI for Human Machine Collaboration by <strong><em>SMART</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>14:05 - 14:35</strong>: M3S Presentation</p>
+<p>Mens, Manus, and Machina (M3S) is an interdisciplinary research group
+established in July 2023 under MIT’s SMART program in Singapore. Drawing
+inspiration from MIT’s motto, “mens et manus” (mind and hand), M3S is dedicated
+to the practical application of AI and machine learning. The initiative
+explores key challenges in technology design, human skill development,
+and societal adaptation within the evolving landscape of AI, automation,
+and robotics.</p>
+<p>The visit will feature an overview presentation on M3S by the Scientific
+Director, followed by poster presentations from Postdoctoral Associates
+showcasing ongoing research.</p>
+<p></p>
+<p><strong>14:35 - 15:05</strong>: Guided Tour of M3S Lab</p>
+<p>The visit will conclude with a guided lab tour, led by the Program Manager,
+where researchers will demonstrate prototypes in development and discuss
+their practical applications, highlighting M3S’s role in bridging AI research
+and real-world impact.</p>
+</div>
+</details>
+</div>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Create Way, Singapore 138602</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15:10 - 16:10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From Science to Policy: The Use-case of Modelling and Simulation by <strong><em>SEC</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The upcoming talk,&nbsp;From Science to Policy: The Use-case of Modelling
+and Simulation,&nbsp;will feature a 360-degree overview of work at the
+Digital Twin Lab, Knowledge Graphs applications for urban planning, and
+Cooling Singapore Project initiatives, which have developed solutions that
+provide seamless integration of complex computational models promoting
+interoperability between different systems. These solutions have been wrapped
+under several easy-to-use and accessible front-end solutions that enables
+users to experiment with "what-if" scenarios and understand how various
+factors interact within a city.</p>
+<p><strong>Background of the Singapore-ETH Centre</strong>
+<br>For 15 years now, the Singapore-ETH Centre has pushed the frontiers of
+developing science to create knowledge, technologies and approaches for
+a sustainable urban environment. Connecting Singapore's Government and
+industry needs to basic science questions, the SEC has developed several
+initiatives to analyse complex urban systems that leverage modelling and
+simulation in the urban planning space.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>15:10 - 15:25</strong>: Digital Twin Lab Presentation</p>
+<p><strong>15:25 - 15:40</strong>: KG for Planning Presentation</p>
+<p><strong>15:40 - 15:55</strong>: Cooling Singapore Presentation</p>
+<p><strong>15:55 - 16:10</strong>: Q&amp;A</p>
+</div>
+</details>
+</div>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Create Way, Singapore 138602</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16:15 - 17:15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI in Reticular Materials: From Design to Discovery by <strong><em>Cambridge CARES</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>16:15 - 16:25</strong>: Cambridge CARES Presentation</p>
+<p></p>
+<p><strong>16:25 - 16:45</strong>: AI-Driven Discovery of Metal-Organic Polyhedra
+for Sustainable Applications</p>
+<p>We present an integrated computational framework for the exploration,
+design, and synthesis of Metal-Organic Polyhedra (MOPs). Using the OntoMOPs
+ontology and assembly models (AMs), we rationally designed 1,418 novel
+MOP structures from 151 known examples, streamlining the selection of lab-ready
+candidates. We developed an automated structural modelling tool that generates
+atomic-scale MOP models using geometric data and predefined motifs, validated
+against experimental data and integrated into The World Avatar for high-throughput
+screening. Additionally, we introduced “Marie”, a semantic AI agent powered
+by GPT-4o-mini, which interprets natural language queries and provides
+access to existing and newly designed MOPs, along with their measured or
+predicted geometric properties.&nbsp; We have also developed a separate
+large language model-based agent that extracts synthesis information from
+literature and adds it to MOP instances in the knowledge graph, enabling
+the generation of structured synthesis protocols or trends in parameters.
+This framework bridges theoretical design and experimental practice, advancing
+autonomous material discovery pipelines for applications of choice.</p>
+<p></p>
+<p><strong>14:45 - 17:05</strong>: Digital Lab Framework powered by The World
+Avatar</p>
+<p>We introduce a unified framework for automating laboratory management
+and enabling distributed self-driving laboratories (SDLs) via The World
+Avatar. By integrating ontologies, RFID/QR technologies, mobile applications,
+and autonomous agents, the Digital Laboratory Framework (DLF) addresses
+lab management challenges such as hazardous chemical tracking and asset
+management while facilitating collaborative closed-loop optimisation across
+geographically dispersed labs. Demonstrated applications include an automated
+explosive chemical tracking system and a mobile asset management app, alongside
+real-time, multi-objective reaction optimisation by robots in Cambridge
+and Singapore. This approach enhances productivity, reduces human error,
+ensures FAIR data practices, and lays the foundation for a globally interconnected
+network of SDLs, advancing scalable, modular lab automation.&nbsp;</p>
+</div>
+</details>
+</div>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Create Way, Singapore 138602</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -295,7 +482,7 @@ Technology Centre</p>
 <p>09:00 - 14:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SUTD AI Research Day by <strong><em>Singapore University of Technology and Design</em></strong>
+<p><a href="https://sutd-research-day.github.io/sutd-ai-day/" rel="noopener nofollow" target="_blank">SUTD AI Research Day</a> by <strong><em>Singapore University of Technology and Design</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -360,6 +547,40 @@ Design</p>
 Design</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:30 - 12:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JA-IBM Intro to AI Workshop by <strong><em>Junior Achievement (Singapore)</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This AI introductory course will also provide students with the opportunity
+to complete the online course on their own to earn an industry-recognized
+IBM SkillsBuild digital badge / credential. IBM SkillsBuild badge earners
+can showcase their skills and achievements to schools &amp; employers with
+industry-recognized certifications.</p>
+<p>Students who have earned their AI Foundations digital badge / credential
+are invited to learn more about the fascinating world of the Tech industry
+at IBM Singapore. IBM professionals will conduct hands-on Master classes
+and share their career experiences.</p>
+</div>
+</details>
+</div>
+<p>Interested parties may email Ms. Ng Hau Yee, Director of JA Singapore
+at <a href="mailto:hauyee.ng@ja.org.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hauyee.ng@ja.org.sg</u></a> for
+any enquiries.</p>
+<p><em><a href="https://tinyurl.com/JAIntroToAIApril2025" rel="noopener nofollow" target="_blank">Register</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -413,11 +634,43 @@ Building
 Design</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:30 - 12:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JA-IBM Intro to AI Workshop by <strong><em>Junior Achievement (Singapore)</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This AI introductory course will also provide students with the opportunity
+to complete the online course on their own to earn an industry-recognized
+IBM SkillsBuild digital badge / credential. IBM SkillsBuild badge earners
+can showcase their skills and achievements to schools &amp; employers with
+industry-recognized certifications.</p>
+<p>Students who have earned their AI Foundations digital badge / credential
+are invited to learn more about the fascinating world of the Tech industry
+at IBM Singapore. IBM professionals will conduct hands-on Master classes
+and share their career experiences.</p>
+</div>
+</details>
+</div>
+<p>Interested parties may email Ms. Ng Hau Yee, Director of JA Singapore
+at <a href="mailto:hauyee.ng@ja.org.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hauyee.ng@ja.org.sg</u></a> for
+any enquiries.</p>
+<p><em><a href="https://tinyurl.com/JAIntroToAIApril2025" rel="noopener nofollow" target="_blank">Register</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
+Design</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <h4>28 April 2025 | Monday</h4>
 <table style="minWidth: 75px">
@@ -459,7 +712,7 @@ at the prestigious&nbsp;International Olympiad in AI (IOAI).</p>
 </div>
 </details>
 </div>
-<p><em>By invite only</em>
+<p><em>Interested parties may email AI Singapore at <a href="mailto:learn-admin@aisingapore.org" rel="noopener noreferrer nofollow" target="_blank">learn-admin@aisingapore.org</a> to register interest.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -508,6 +761,40 @@ GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen"
 Design</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TBA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre
+by <strong><em>Singapore Institute of Technology</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The SIT x NVIDIA AI Centre (SNAIC) is a premier hub for advancing translational
+AI technologies, co-founded by the Singapore Institute of Technology (SIT)
+and NVIDIA. Our mission is to empower industry partners with cutting-edge
+AI solutions that drive innovation, enhance efficiency, and accelerate
+business growth.</p>
+<p>Join us for an engaging half-day event where we showcase innovative AI
+projects in Large Language Models (LLMs), Multimodal AI, and Generative
+AI. Gain valuable insights into how these technologies are being adapted
+to solve real-world industry challenges and create new opportunities across
+sectors.</p>
+<p></p>
+<p>Stay tuned for more details as the date approaches—we look forward to
+seeing you there!</p>
+</div>
+</details>
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Punggol Coast Road, Singapore 828608</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
@@ -517,20 +804,26 @@ Design</p>
 <h4>30 April 2025 | Wednesday</h4>
 <p>Exciting events coming your way! 🚀 More details coming soon! 👀</p>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore AI Research Week" src="/images/sairw.png">
+<h3>Contact Us</h3>
+<p>If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/67bbe4f1fac419d7dd9445d9" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<div class="iframe-wrapper">
+<iframe style="width: 100%; height: 1500px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/67bbe4f1fac419d7dd9445d9"></iframe>
 </div>
-<p><strong>Brought to you by</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sairw.png">
+</div>
+<h3>Brought to you by</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MDDI logo" src="/images/mddi_logo.jpg">
 </div>
+<h4>Main venue sponsor</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SUTD logo" src="/images/sutd_logo.jpg">
 </div>
-<p>Main venue sponsor</p>
-<p><strong>In support of</strong>
-</p>
+<p></p>
+<p></p>
+<h4>In support of</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation logo" src="/images/abt-smart-nation/snvision.jpg">
 </div>
