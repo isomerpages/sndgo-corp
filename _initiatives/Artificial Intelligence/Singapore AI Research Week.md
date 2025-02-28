@@ -332,7 +332,38 @@ Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>From Science to Policy: The Use-case of Modelling and Simulation by SEC</p>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The upcoming talk,&nbsp;From Science to Policy: The Use-case of Modelling
+and Simulation,&nbsp;will feature a 360-degree overview of work at the
+Digital Twin Lab, Knowledge Graphs applications for urban planning, and
+Cooling Singapore Project initiatives, which have developed solutions that
+provide seamless integration of complex computational models promoting
+interoperability between different systems. These solutions have been wrapped
+under several easy-to-use and accessible front-end solutions that enables
+users to experiment with "what-if" scenarios and understand how various
+factors interact within a city.</p>
+<p><strong>Background of the Singapore-ETH Centre</strong>
+<br>For 15 years now, the Singapore-ETH Centre has pushed the frontiers of
+developing science to create knowledge, technologies and approaches for
+a sustainable urban environment. Connecting Singapore's Government and
+industry needs to basic science questions, the SEC has developed several
+initiatives to analyse complex urban systems that leverage modelling and
+simulation in the urban planning space.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>15:10 - 15:25</strong>: Digital Twin Lab Presentation</p>
+<p><strong>15:25 - 15:40</strong>: KG for Planning Presentation</p>
+<p><strong>15:40 - 15:55</strong>: Cooling Singapore Presentation</p>
+<p><strong>15:55 - 16:10</strong>: Q&amp;A</p>
+</div>
+</details>
+</div>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
