@@ -649,7 +649,7 @@ Design</p>
 <td rowspan="1" colspan="1">
 <p>JA-IBM Intro to AI Workshop by <strong><em>Junior Achievement (Singapore)</em></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -658,24 +658,39 @@ to complete the online course on their own to earn an industry-recognized
 IBM SkillsBuild digital badge / credential. IBM SkillsBuild badge earners
 can showcase their skills and achievements to schools &amp; employers with
 industry-recognized certifications.</p>
-<p>tudents who have earned their AI Foundations digital badge / credential
+<p>Students who have earned their AI Foundations digital badge / credential
 are invited to learn more about the fascinating world of the Tech industry
 at IBM Singapore. IBM professionals will conduct hands-on Master classes
 and share their career experiences.</p>
-<p>Any questions, please contact Ms. Ng Hau Yee, Director of JA Singapore
-at <a rel="noopener noreferrer nofollow" target="_blank">hauyee.ng@ja.org.sg</a>
-</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This AI introductory course will also provide students with opportunity
+to complete the online course on their own to earn an industry-recognized
+IBM SkillsBuild digital badge / credential. IBM SkillsBuild badge earners
+can showcase their skills and achievements to schools &amp; employers with
+industry-recognized certifications.</p>
+<p>Students who have earned their AI Foundations digital badge / credential
+are invited to learn more about the fascinating world of the Tech industry
+at IBM Singapore. IBM professionals will conduct hands-on Master classes
+and share their career experiences.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Topics Covered</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>What is AI</p>
-<p>AI and You</p>
-<p>Machine Learning in AI</p>
+<p></p>
 </div>
 </details>
 </div>
+<p>Any questions, please contact Ms. Ng Hau Yee, Director of JA Singapore
+at <a href="mailto:hauyee.ng@ja.org.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hauyee.ng@ja.org.sg</u></a>
+</p>
 <p><em><a href="https://tinyurl.com/JAIntroToAIApril2025" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
