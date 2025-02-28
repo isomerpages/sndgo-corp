@@ -314,13 +314,42 @@ Technology Centre</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>14:05 - 15:05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI for Human Machine Collaboration by SMART</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>1 Create Way, Singapore 138602</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15:10 - 16:10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From Science to Policy: The Use-case of Modelling and Simulation by SEC</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>1 Create Way, Singapore 138602</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16:15 - 17:15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI in Reticular Materials: From Design to Discovery by Cambridge CARES</p>
 <p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Create Way, Singapore 138602</p>
 </td>
 </tr>
 </tbody>
