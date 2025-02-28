@@ -418,9 +418,7 @@ Design</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <hr>
 <h4>28 April 2025 | Monday</h4>
 <table style="minWidth: 75px">
@@ -513,7 +511,7 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Afternoon</p>
+<p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre</p>
@@ -553,8 +551,14 @@ seeing you there!</p>
 <h4>30 April 2025 | Wednesday</h4>
 <p>Exciting events coming your way! 🚀 More details coming soon! 👀</p>
 <hr>
+<h3>Contact Us</h3>
+<p>If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/67bbe4f1fac419d7dd9445d9" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<div class="iframe-wrapper">
+<iframe style="width: 100%; height: 1500px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/67bbe4f1fac419d7dd9445d9"></iframe>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore AI Research Week" src="/images/sairw.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sairw.png">
 </div>
 <h3>Brought to you by</h3>
 <div class="isomer-image-wrapper">
