@@ -317,7 +317,8 @@ Technology Centre</p>
 <p>14:05 - 15:05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI for Human Machine Collaboration by SMART</p>
+<p>AI for Human Machine Collaboration by <strong><em>SMART</em></strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Agenda</summary>
@@ -354,7 +355,8 @@ and real-world impact.</p>
 <p>15:10 - 16:10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From Science to Policy: The Use-case of Modelling and Simulation by SEC</p>
+<p>From Science to Policy: The Use-case of Modelling and Simulation by <strong><em>SEC</em></strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About</summary>
@@ -399,7 +401,8 @@ simulation in the urban planning space.</p>
 <p>16:15 - 17:15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI in Reticular Materials: From Design to Discovery by Cambridge CARES</p>
+<p>AI in Reticular Materials: From Design to Discovery by <strong><em>Cambridge CARES</em></strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Agenda</summary>
