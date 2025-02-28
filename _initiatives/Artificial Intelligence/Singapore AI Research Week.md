@@ -513,7 +513,7 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Afternoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre</p>
