@@ -123,7 +123,7 @@ Design</p>
 <p>09:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online Trust and Safety by <strong><em>A*STAR</em></strong>
+<p>Online Trust and Safety by <strong><em>CATOS</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -514,7 +514,9 @@ Design</p>
 <p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre</p>
+<p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre
+by <strong><em>Singapore Institute of Technology</em></strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About</summary>
@@ -524,13 +526,12 @@ AI technologies, co-founded by the Singapore Institute of Technology (SIT)
 and NVIDIA. Our mission is to empower industry partners with cutting-edge
 AI solutions that drive innovation, enhance efficiency, and accelerate
 business growth.</p>
-<p>&nbsp;</p>
 <p>Join us for an engaging half-day event where we showcase innovative AI
 projects in Large Language Models (LLMs), Multimodal AI, and Generative
 AI. Gain valuable insights into how these technologies are being adapted
 to solve real-world industry challenges and create new opportunities across
 sectors.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Stay tuned for more details as the date approaches—we look forward to
 seeing you there!</p>
 </div>
