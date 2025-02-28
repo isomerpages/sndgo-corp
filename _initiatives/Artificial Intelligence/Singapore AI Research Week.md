@@ -318,7 +318,30 @@ Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI for Human Machine Collaboration by SMART</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>14:05 - 14:35</strong>: M3S Presentation</p>
+<p>Mens, Manus, and Machina (M3S) is an interdisciplinary research group
+established in July 2023 under MIT’s SMART program in Singapore. Drawing
+inspiration from MIT’s motto, “mens et manus” (mind and hand), M3S is dedicated
+to the practical application of AI and machine learning. The initiative
+explores key challenges in technology design, human skill development,
+and societal adaptation within the evolving landscape of AI, automation,
+and robotics.</p>
+<p>The visit will feature an overview presentation on M3S by the Scientific
+Director, followed by poster presentations from Postdoctoral Associates
+showcasing ongoing research.</p>
 <p></p>
+<p><strong>14:35 - 15:05</strong>: Guided Tour of M3S Lab</p>
+<p>The visit will conclude with a guided lab tour, led by the Program Manager,
+where researchers will demonstrate prototypes in development and discuss
+their practical applications, highlighting M3S’s role in bridging AI research
+and real-world impact.</p>
+</div>
+</details>
+</div>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
@@ -377,7 +400,48 @@ simulation in the urban planning space.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI in Reticular Materials: From Design to Discovery by Cambridge CARES</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>16:15 - 16:25</strong>: Cambridge CARES Presentation</p>
 <p></p>
+<p><strong>16:25 - 16:45</strong>: AI-Driven Discovery of Metal-Organic Polyhedra
+for Sustainable Applications</p>
+<p>We present an integrated computational framework for the exploration,
+design, and synthesis of Metal-Organic Polyhedra (MOPs). Using the OntoMOPs
+ontology and assembly models (AMs), we rationally designed 1,418 novel
+MOP structures from 151 known examples, streamlining the selection of lab-ready
+candidates. We developed an automated structural modelling tool that generates
+atomic-scale MOP models using geometric data and predefined motifs, validated
+against experimental data and integrated into The World Avatar for high-throughput
+screening. Additionally, we introduced “Marie”, a semantic AI agent powered
+by GPT-4o-mini, which interprets natural language queries and provides
+access to existing and newly designed MOPs, along with their measured or
+predicted geometric properties.&nbsp; We have also developed a separate
+large language model-based agent that extracts synthesis information from
+literature and adds it to MOP instances in the knowledge graph, enabling
+the generation of structured synthesis protocols or trends in parameters.
+This framework bridges theoretical design and experimental practice, advancing
+autonomous material discovery pipelines for applications of choice.</p>
+<p></p>
+<p><strong>14:45 - 17:05</strong>: Digital Lab Framework powered by The World
+Avatar</p>
+<p>We introduce a unified framework for automating laboratory management
+and enabling distributed self-driving laboratories (SDLs) via The World
+Avatar. By integrating ontologies, RFID/QR technologies, mobile applications,
+and autonomous agents, the Digital Laboratory Framework (DLF) addresses
+lab management challenges such as hazardous chemical tracking and asset
+management while facilitating collaborative closed-loop optimisation across
+geographically dispersed labs. Demonstrated applications include an automated
+explosive chemical tracking system and a mobile asset management app, alongside
+real-time, multi-objective reaction optimisation by robots in Cambridge
+and Singapore. This approach enhances productivity, reduces human error,
+ensures FAIR data practices, and lays the foundation for a globally interconnected
+network of SDLs, advancing scalable, modular lab automation.&nbsp;</p>
+</div>
+</details>
+</div>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
