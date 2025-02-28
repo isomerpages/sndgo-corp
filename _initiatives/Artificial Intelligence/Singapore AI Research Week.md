@@ -319,7 +319,8 @@ Technology Centre</p>
 <td rowspan="1" colspan="1">
 <p>AI for Human Machine Collaboration by SMART</p>
 <p></p>
-<p></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Create Way, Singapore 138602</p>
@@ -332,7 +333,8 @@ Technology Centre</p>
 <td rowspan="1" colspan="1">
 <p>From Science to Policy: The Use-case of Modelling and Simulation by SEC</p>
 <p></p>
-<p></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Create Way, Singapore 138602</p>
@@ -345,8 +347,8 @@ Technology Centre</p>
 <td rowspan="1" colspan="1">
 <p>AI in Reticular Materials: From Design to Discovery by Cambridge CARES</p>
 <p></p>
-<p></p>
-<p></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Create Way, Singapore 138602</p>
