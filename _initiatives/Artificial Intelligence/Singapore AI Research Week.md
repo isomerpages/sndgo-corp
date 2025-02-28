@@ -223,6 +223,52 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>13:00 - 14:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hybrid AI for Decision-making in Critical Urban Systems by <strong><em>CNRS@CREATE</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Agenda</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Presentation of CNRS@CREATE</strong>
+</p>
+<p><strong>Demo 1: DesCartes Augmented 3D-Printed Marina Bay Twin Model</strong>
+</p>
+<p>This mixed-reality demo, featuring a scaled-down 3D-printed model of the
+Marina Bay Sands district, allows participants to experience the adaptive
+trajectory of a drone in downtown Singapore in real time, under varying
+conditions such as wind, temperature, and pollution.</p>
+<p><strong>Demo 2: DesCartes Hybrid Digital Twins</strong>
+</p>
+<p>Using an interactive table specifically designed for decision-making,
+along with Hololenses, participants can interact with the digital twin
+of Marina Bay district. In real time, they can understand and visualize
+how different conditions (wind, temperature, pollution, no-fly zones, etc.)
+impact these neighbourhoods.</p>
+<p><strong>Demo 3: Boid Corner Interactive Installation</strong>
+</p>
+<p>Drawing on both the Singaporean tradition of Birds Corners and the pioneering
+artificial life/swarm AI programs (‘Boid’ as bird-like object), this interactive,
+thought-provoking installation tracks visitors’ hand poses and turns them
+into virtual wings/birds, while visualising and extrapolating data. By
+experimenting with playful interactions and data visualizations, the aim
+is to make the visitors of the installation reflect on some of the critical
+issues at stake when it comes to AI, data collection, biometric identifiers,
+human digital twins and the use of technology in public spaces.</p>
+</div>
+</details>
+</div>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Create Way, Singapore 138602</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>14:00 - 19:30</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -264,6 +310,17 @@ ideas on how AI can help industry end-users in their manufacturing process.</p>
 <td rowspan="1" colspan="1">
 <p>3 Cleantech Loop, #01-01, Singapore 637143, Advanced Remanufacturing and
 Technology Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
