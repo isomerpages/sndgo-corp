@@ -190,7 +190,6 @@ and de-risking the drug discovery process through AI. Dr. Sebastian Maurer-Stroh
 and Dr. Yaron Turpaz, co-leads of this effort, will share its vision, core
 research focus, and opportunities for collaboration to shape the future
 of AI-driven drug discovery.</p>
-<p>&nbsp;</p>
 <p>Dr. Maurer-Stroh, Executive Director of the Bioinformatics Institute at
 A*STAR, has led his team in critical contributions to global viral pathogen
 surveillance, public-private partnerships in pharma manufacturing, and
@@ -199,7 +198,6 @@ Joining him is Dr. Yaron Turpaz, Head of Computational Sciences at EDDC
 and Chief Information Officer of Engine Biosciences. With extensive experience
 leading global R&amp;D informatics teams, Dr. Turpaz will provide insights
 into the transformative potential of AI in therapeutic development.</p>
-<p>&nbsp;</p>
 <p>Attendees will also have the opportunity to engage directly with the speakers
 during the discussion segment.</p>
 </div>
