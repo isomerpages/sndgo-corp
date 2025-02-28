@@ -123,7 +123,7 @@ Design</p>
 <p>09:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online Trust and Safety by <strong><em>CATOS</em></strong>
+<p>Online Trust and Safety by <strong><em>Centre for Advanced Technologies in Online Safety</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
