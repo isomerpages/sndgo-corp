@@ -15,7 +15,7 @@ Rolling out digital services to help with the management and containment of the 
 
 ## HealthCerts
 
-[HealthCerts](https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/verify-digital-certificates/overview.html) was developed as a globally interoperable standard for COVID-19 test results and vaccinations certificates to facilitate the safe resumption of travel.
+HealthCerts was developed as a globally interoperable standard for COVID-19 test results and vaccinations certificates to facilitate the safe resumption of travel.
 
 ## Notarise & Verify System
 
