@@ -15,7 +15,7 @@ Rolling out digital services to help with the management and containment of the 
 
 ## HealthCerts
 
-[HealthCerts](https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/verify-digital-certificates/overview.html) was developed as a globally interoperable standard for COVID-19 test results and vaccinations certificates to facilitate the safe resumption of travel.
+HealthCerts was developed as a globally interoperable standard for COVID-19 test results and vaccinations certificates to facilitate the safe resumption of travel.
 
 ## Notarise & Verify System
 
@@ -32,8 +32,6 @@ Launched in April 2020, Space Out enabled people to check crowd levels at variou
 ## SPOTON Smart Thermal Scanner
 
 SPOTON enabled faster crowd temperature scanning of up to ten people at a time. This scanner minimises physical contact, reduces manpower and speeds up check-ins to popular and high traffic locations.
-
-For more information on SPOTON, head over to [GovTech's Developer Portal](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/spoton).
 
 ## SupplyAlly
 
