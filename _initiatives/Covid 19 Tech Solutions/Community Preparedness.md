@@ -33,8 +33,6 @@ Launched in April 2020, Space Out enabled people to check crowd levels at variou
 
 SPOTON enabled faster crowd temperature scanning of up to ten people at a time. This scanner minimises physical contact, reduces manpower and speeds up check-ins to popular and high traffic locations.
 
-For more information on SPOTON, head over to [GovTech's Developer Portal](https://www.developer.tech.gov.sg/technologies/sensor-platforms-and-internet-of-things/spoton).
-
 ## SupplyAlly
 
 [SupplyAlly](https://www.supplyally.gov.sg/) is a mobile app that facilitates the process of logistics distribution. It was used for the distribution of masks, TraceTogether Tokens and various COVID-19 initiatives. SupplyAlly provided the logistical distribution support to ensure that all data and stock levels were captured accurately.
