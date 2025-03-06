@@ -428,7 +428,7 @@ the generation of structured synthesis protocols or trends in parameters.
 This framework bridges theoretical design and experimental practice, advancing
 autonomous material discovery pipelines for applications of choice.</p>
 <p></p>
-<p><strong>14:45 - 17:05</strong>: Digital Lab Framework powered by The World
+<p><strong>16:45 - 17:05</strong>: Digital Lab Framework powered by The World
 Avatar</p>
 <p>We introduce a unified framework for automating laboratory management
 and enabling distributed self-driving laboratories (SDLs) via The World
