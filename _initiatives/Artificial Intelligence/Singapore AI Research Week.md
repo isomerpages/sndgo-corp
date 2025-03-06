@@ -851,7 +851,7 @@ local ecosystem.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Computing 1, 13 Computing Drive, Singapore 117417</p>
 </td>
 </tr>
 <tr>
