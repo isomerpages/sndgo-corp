@@ -881,6 +881,8 @@ local ecosystem.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sairw.png">
 </div>
+<hr>
+<p></p>
 <h3>Brought to you by</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MDDI logo" src="/images/mddi_logo.jpg">
