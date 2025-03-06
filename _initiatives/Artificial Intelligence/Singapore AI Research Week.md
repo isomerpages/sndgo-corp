@@ -799,7 +799,75 @@ seeing you there!</p>
 </table>
 <hr>
 <h4>29 April 2025 | Tuesday</h4>
-<p>Exciting events coming your way! 🚀 More details coming soon! 👀</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14:00 - 17:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NRP Embodied AI Workshop by <strong><em>National Robotics Programme</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>As part of MDDI’s AI Research Week, the National Robotics Programme (NRP)
+would be hosting an Embodied AI workshop on 29 April 2025 at NUS LT18.
+The workshop will discuss the state of the art for embodied AI, present
+current research by Singapore institutes, and discuss potential developments
+in the technology. We also hope to inspire further collaborations for embodied
+AI in Singapore from this workshop.</p>
+<p>&nbsp;The workshop will feature local researchers who have contributed
+to robotics technologies and are now working to bring AI capabilities to
+robotics. Invited speakers include Dr Kenneth Kwok (IHPC), Dr Cheston Tan
+(I2R), Professor Harold Soh (NUS), Assistant Professor Yan Jianfei (NTU),
+and Assistant Professor Soujanya Poria (SUTD).</p>
+<p>&nbsp;The National Robotics Programme (NRP) is a national platform that
+aims to catalyse differentiated robotics capabilities in Singapore through
+the funding of use-inspired research and use-driven development. NRP leverages
+its projects to grow Singapore’s robotics talent pool and nurture a vibrant
+local ecosystem.</p>
+</div>
+</details>
+</div>
+<p><a href="https://forms.office.com/r/WVciaCW13f" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <hr>
 <h4>30 April 2025 | Wednesday</h4>
 <p>Exciting events coming your way! 🚀 More details coming soon! 👀</p>
