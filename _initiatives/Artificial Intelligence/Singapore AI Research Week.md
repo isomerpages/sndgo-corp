@@ -870,15 +870,6 @@ seeing you there!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ntu_logo.png">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpo.png">
 </div>
@@ -897,12 +888,12 @@ seeing you there!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SNLP.png">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>Please note that the list of events and activities in this website is provided for informational purposes only, and do not constitute or imply any association, recommendation, or endorsement by the Singapore Government for these events and activities, or their contents.</em>
-</p>
+<p></p>
 <h4>In support of</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation logo" src="/images/abt-smart-nation/snvision.jpg">
