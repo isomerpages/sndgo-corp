@@ -611,7 +611,7 @@ Design</p>
 <p>09:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://computing.smu.edu.sg/research/workshop/cvml-genai2025" rel="noopener nofollow" target="_blank">Workshop on Advances of Generative AI (GenAI)</a> by <strong><em>Singapore Management University</em></strong>
+<p>Workshop on Advances of Generative AI (GenAI) by <strong><em>Singapore Management University</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
