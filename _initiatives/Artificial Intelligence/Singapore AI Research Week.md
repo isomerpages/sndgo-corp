@@ -428,7 +428,7 @@ the generation of structured synthesis protocols or trends in parameters.
 This framework bridges theoretical design and experimental practice, advancing
 autonomous material discovery pipelines for applications of choice.</p>
 <p></p>
-<p><strong>14:45 - 17:05</strong>: Digital Lab Framework powered by The World
+<p><strong>16:45 - 17:05</strong>: Digital Lab Framework powered by The World
 Avatar</p>
 <p>We introduce a unified framework for automating laboratory management
 and enabling distributed self-driving laboratories (SDLs) via The World
@@ -611,7 +611,7 @@ Design</p>
 <p>09:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workshop on Advances in General AI by <strong><em>Singapore Management University</em></strong>
+<p>Workshop on Advances of Generative AI (GenAI) by <strong><em>Singapore Management University</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -799,7 +799,76 @@ seeing you there!</p>
 </table>
 <hr>
 <h4>29 April 2025 | Tuesday</h4>
-<p>Exciting events coming your way! 🚀 More details coming soon! 👀</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14:00 - 17:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NRP Embodied AI Workshop by <strong><em>National Robotics Programme</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>As part of MDDI’s AI Research Week, the National Robotics Programme (NRP)
+would be hosting an Embodied AI workshop on 29 April 2025 at NUS LT18.
+The workshop will discuss the state of the art for embodied AI, present
+current research by Singapore institutes, and discuss potential developments
+in the technology. We also hope to inspire further collaborations for embodied
+AI in Singapore from this workshop.</p>
+<p>&nbsp;The workshop will feature local researchers who have contributed
+to robotics technologies and are now working to bring AI capabilities to
+robotics. Invited speakers include Dr Kenneth Kwok (IHPC), Dr Cheston Tan
+(I2R), Professor Harold Soh (NUS), Assistant Professor Yan Jianfei (NTU),
+and Assistant Professor Soujanya Poria (SUTD).</p>
+<p>&nbsp;The National Robotics Programme (NRP) is a national platform that
+aims to catalyse differentiated robotics capabilities in Singapore through
+the funding of use-inspired research and use-driven development. NRP leverages
+its projects to grow Singapore’s robotics talent pool and nurture a vibrant
+local ecosystem.</p>
+</div>
+</details>
+</div>
+<p><a href="https://forms.office.com/r/WVciaCW13f" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computing 1, 13 Computing Drive, Singapore 117417</p>
+<p>LT18</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <hr>
 <h4>30 April 2025 | Wednesday</h4>
 <p>Exciting events coming your way! 🚀 More details coming soon! 👀</p>
@@ -813,6 +882,8 @@ seeing you there!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sairw.png">
 </div>
+<hr>
+<p></p>
 <h3>Brought to you by</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MDDI logo" src="/images/mddi_logo.jpg">
@@ -821,7 +892,92 @@ seeing you there!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SUTD logo" src="/images/sutd_logo.jpg">
 </div>
+<h4>Participating Organisations</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ASTAR_Horizontal_Logo_RGB.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AISG_R__Horizontal_Logo_CMYK_Full_Colour.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JA_Logo_1.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/latent_space.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mddi_logo.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NTU_LOGO_W_SPACING.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpo.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIT_logo.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sutd_logo.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SNLP.png">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4>In support of</h4>
 <div class="isomer-image-wrapper">
