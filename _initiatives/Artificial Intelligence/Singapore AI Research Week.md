@@ -945,6 +945,14 @@ local ecosystem.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNRS_CREATE_BLUE_LOGO.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/JA_Logo_1.png">
 </div>
 <p></p>
@@ -977,9 +985,8 @@ local ecosystem.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NRF_logo_FA_Monogram_resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrf_resized.png">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
