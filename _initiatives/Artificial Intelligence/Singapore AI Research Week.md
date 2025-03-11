@@ -958,7 +958,6 @@ local ecosystem.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GovTechSg_Stack_Logo_2_Cyan_resized.png">
 </div>
@@ -970,6 +969,7 @@ local ecosystem.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_Logo_resized.png">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
