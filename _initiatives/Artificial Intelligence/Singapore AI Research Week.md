@@ -972,6 +972,10 @@ local ecosystem.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NRF_logo_FA_Monogram_resized.png">
+</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -983,7 +987,9 @@ local ecosystem.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEC_300_ppi.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -1034,4 +1040,5 @@ local ecosystem.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation logo" src="/images/abt-smart-nation/snvision.jpg">
 </div>
+<p></p>
 <p></p>
