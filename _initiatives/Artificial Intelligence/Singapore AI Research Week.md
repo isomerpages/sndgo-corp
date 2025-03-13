@@ -62,7 +62,8 @@ that await. Stay tuned, as more events will be added! 💫</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Symposium on Natural Language Processing 2025</p>
+<p>Singapore Symposium on Natural Language Processing 2025 and Technical
+Sharing by IMDA</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
