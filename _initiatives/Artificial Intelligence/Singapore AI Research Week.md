@@ -59,10 +59,28 @@ that await. Stay tuned, as more events will be added! 💫</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>08:00 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://lmxsafety.com/2025/" rel="noopener nofollow" target="_blank">Large Model Safety Workshop 2025</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Grand Ballroom, JW Marriott South Beach, 30 Beach Road, Singapore
+189763</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Symposium on Natural Language Processing 2025</p>
+<p><a href="https://ssnlp-website.github.io/ssnlp25/" rel="noopener nofollow" target="_blank">Singapore Symposium on Natural Language Processing 2025</a> and
+Technical Sharing by IMDA</p>
+<p></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSevYb5ebCYtOrDfX4o1sqawTgCkhml8GY38ci_rxG7XMHjluQ/viewform" rel="noopener nofollow" target="_blank">Register</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -608,6 +626,22 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>09:00 - 11:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS 120 Distinguished Speaker Series: Shaping the Future of AI Innovations
+by Prof Yann LeCun (Chief AI Scientist, Meta)</p>
+<p></p>
+<p><a href="https://www.eventbrite.sg/e/nus120-distinguished-speaker-series-tickets-1261801164249" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS University Cultural Centre Theatre, 50 Kent Ridge Crescent Singapore,
+119279</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>09:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -871,7 +905,50 @@ local ecosystem.</p>
 <p></p>
 <hr>
 <h4>30 April 2025 | Wednesday</h4>
-<p>Exciting events coming your way! 🚀 More details coming soon! 👀</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15:00 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HTX AI Developer Day - Building for AI</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A meetup by developers for developers navigating the intersection of traditional
+software development and AI engineering. This practitioner-led event brings
+together developers at HTX and from the industry to share hands-on experiences
+and practical insights.</p>
+</div>
+</details>
+</div>
+<p><a href="go.gov.sg/aidevday" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h3>Contact Us</h3>
 <p>If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/67bbe4f1fac419d7dd9445d9" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
@@ -916,9 +993,49 @@ local ecosystem.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/0_CARES_short_resized.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JA_Logo_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNRS_CREATE_BLUE_LOGO.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/csa_resized.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/govtech_resized.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_Logo_resized.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/JA_Logo_1.png">
 </div>
 <p></p>
 </td>
@@ -949,7 +1066,29 @@ local ecosystem.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrf_resized.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpo.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NUS_logo_full_horizontal.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEC_300_ppi.jpg">
 </div>
 </td>
 </tr>
@@ -962,9 +1101,27 @@ local ecosystem.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smu_master_single_h_rgb_logo.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sutd_logo.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMART_Logo_with_Text___Border.jpg">
+</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -983,4 +1140,5 @@ local ecosystem.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation logo" src="/images/abt-smart-nation/snvision.jpg">
 </div>
+<p></p>
 <p></p>
