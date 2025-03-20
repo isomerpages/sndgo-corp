@@ -335,7 +335,7 @@ Technology Centre</p>
 <p>14:05 - 15:05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI for Human Machine Collaboration by <strong><em>SMART</em></strong>
+<p>AI for Human Machine Collaboration by <strong><em>Singapore-MIT Alliance for Research and Technology</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -597,6 +597,17 @@ any enquiries.</p>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
