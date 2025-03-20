@@ -604,15 +604,15 @@ Design</p>
 <p>14:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CYS x SYAI Monthly AI-Meetup April by <strong><em>Cyber Youth Singapore</em></strong> and <strong><em>Singapore Youth AI </em></strong>
+<p>CYS x SYAI Monthly AI-Meetup April by <strong><em>Cyber Youth Singapore</em></strong> and <strong><em>Singapore Youth AI</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Monthly AI-Meetup co-organized by CYS x SYAI, highlighting the concept
-of “For Youths, by Youths” ✨</p>
-<p>What’s in Store?</p>
+of “For Youths, by Youths”</p>
+<p>✨ What’s in Store?</p>
 <p>• AI Startup pitching– Discover exciting AI startups/projects founded
 by the brightest youths and passionate AI innovators.</p>
 <p>• Live Demos &amp; Insights – See AI solutions in action and learn about
