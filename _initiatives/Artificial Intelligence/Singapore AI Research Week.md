@@ -77,7 +77,7 @@ that await. Stay tuned, as more events will be added! 💫</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://ssnlp-website.github.io/ssnlp25/" rel="noopener nofollow" target="_blank">Singapore Symposium on Natural Language Processing 2025</a> and
-Technical Sharing by IMDA</p>
+Technical Sharing by the Infocomm Media Development Authority</p>
 <p></p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSevYb5ebCYtOrDfX4o1sqawTgCkhml8GY38ci_rxG7XMHjluQ/viewform" rel="noopener nofollow" target="_blank">Register</a>
 </p>
@@ -373,7 +373,7 @@ and real-world impact.</p>
 <p>15:10 - 16:10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>From Science to Policy: The Use-case of Modelling and Simulation by <strong><em>SEC</em></strong>
+<p>From Science to Policy: The Use-case of Modelling and Simulation by <strong><em>Singapore-ETH Centre</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -419,7 +419,7 @@ simulation in the urban planning space.</p>
 <p>16:15 - 17:15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI in Reticular Materials: From Design to Discovery by <strong><em>Cambridge CARES</em></strong>
+<p>AI in Reticular Materials: From Design to Discovery by <strong><em>Cambridge Centre for Advanced Research and Education in Singapore</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -630,7 +630,8 @@ Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS 120 Distinguished Speaker Series: Shaping the Future of AI Innovations
-by Prof Yann LeCun (Chief AI Scientist, Meta)</p>
+by Prof Yann LeCun (Chief AI Scientist, Meta) by <strong><em>National University of Singapore</em></strong>
+</p>
 <p></p>
 <p><a href="https://www.eventbrite.sg/e/nus120-distinguished-speaker-series-tickets-1261801164249" rel="noopener nofollow" target="_blank">Register</a>
 </p>
@@ -928,7 +929,8 @@ local ecosystem.</p>
 <p>15:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HTX AI Developer Day - Building for AI</p>
+<p>HTX AI Developer Day - Building for AI by <strong><em>Home Team Science and Technology Agency</em></strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About</summary>
@@ -944,7 +946,7 @@ and practical insights.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 Stars Ave, #12-01, Singapore 138507</p>
 </td>
 </tr>
 </tbody>
@@ -1038,6 +1040,13 @@ and practical insights.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/JA_Logo_1.png">
 </div>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/large_model_safety_workshop_logo.png">
+</div>
 </td>
 </tr>
 <tr>
