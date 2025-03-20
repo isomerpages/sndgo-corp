@@ -601,13 +601,36 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>14:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CYS x SYAI Monthly AI-Meetup April by <strong><em>Cyber Youth Singapore</em></strong> and <strong><em>Singapore Youth AI </em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Monthly AI-Meetup co-organized by CYS x SYAI, highlighting the concept
+of “For Youths, by Youths” ✨</p>
+<p>What’s in Store?</p>
+<p>• AI Startup pitching– Discover exciting AI startups/projects founded
+by the brightest youths and passionate AI innovators.</p>
+<p>• Live Demos &amp; Insights – See AI solutions in action and learn about
+the journey behind them.</p>
+<p>• Networking &amp; Collaboration – Connect with like-minded innovators,
+exchange ideas, and find potential investors.</p>
+<p>🎯 Target Audience:</p>
+<p>• University &amp; Polytechnic students</p>
+<p>• Young professionals looking to explore AI applications</p>
+<p>• Angel investors welcomed</p>
+</div>
+</details>
+</div>
+<p><a href="http://bit.ly/ai-meetup-cys_syai" rel="noopener nofollow" target="_blank">Register</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SCAPE* 2 Orchard Link, SIngapore 237978</p>
 </td>
 </tr>
 </tbody>
