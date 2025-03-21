@@ -630,7 +630,7 @@ exchange ideas, and find potential investors.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SCAPE* 2 Orchard Link, SIngapore 237978</p>
+<p>SCAPE* 2 Orchard Link, Singapore 237978</p>
 </td>
 </tr>
 </tbody>
@@ -924,17 +924,6 @@ local ecosystem.</p>
 <p>LT18</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -1155,6 +1144,13 @@ and practical insights.</p>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sutd_logo.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Question_10___SYAI_LOGO.png">
 </div>
 </td>
 </tr>
