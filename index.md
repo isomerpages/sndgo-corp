@@ -37,6 +37,7 @@ sections:
       alt: SN that keeps us together
       image: /images/Goals/sncommunity01.jpg
       url: /goals-of-sn2/community
-notification: ""
+notification: Beware of scammers pretending to be government officials. Learn
+  how to avoid scams at www.scamshield.gov.sg.
 image: /images/og-image/smartnationogimage.jpg
 ---
