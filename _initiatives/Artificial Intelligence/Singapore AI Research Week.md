@@ -762,34 +762,6 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:00 - 11:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/" rel="noopener noreferrer nofollow" target="_blank">National Olympiad in AI</a>&nbsp;2025
-Prize Award Ceremony by <strong><em>AI Singapore</em></strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The&nbsp;National Olympiad in AI (NOAI)&nbsp;is Singapore’s premier AI
-competition, aimed at discovering, inspiring, and developing the next generation
-of AI creators. Organised by&nbsp;AI Singapore&nbsp;in collaboration with&nbsp;Nanyang
-Technological University (NTU), this inaugural edition of NOAI serves as
-both a learning platform and a gateway for students to represent Singapore
-at the prestigious&nbsp;International Olympiad in AI (IOAI).</p>
-</div>
-</details>
-</div>
-<p><em>Interested parties may email AI Singapore at <a href="mailto:learn-admin@aisingapore.org" rel="noopener noreferrer nofollow" target="_blank">learn-admin@aisingapore.org</a> to register interest.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>50 Nanyang Ave, Singapore 639798, Nanyang Technological University</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>14:00 - 15:00</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -949,6 +921,34 @@ local ecosystem.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>11:30 - 12:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://learn.aisingapore.org/national-olympiad-in-artificial-intelligence/" rel="noopener noreferrer nofollow" target="_blank">National Olympiad in AI</a>&nbsp;2025
+Prize Award Ceremony by <strong><em>AI Singapore</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The&nbsp;National Olympiad in AI (NOAI)&nbsp;is Singapore’s premier AI
+competition, aimed at discovering, inspiring, and developing the next generation
+of AI creators. Organised by&nbsp;AI Singapore&nbsp;in collaboration with&nbsp;Nanyang
+Technological University (NTU), this inaugural edition of NOAI serves as
+both a learning platform and a gateway for students to represent Singapore
+at the prestigious&nbsp;International Olympiad in AI (IOAI).</p>
+</div>
+</details>
+</div>
+<p><em>Interested parties may email AI Singapore at <a href="mailto:learn-admin@aisingapore.org" rel="noopener noreferrer nofollow" target="_blank">learn-admin@aisingapore.org</a> to register interest.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50 Nanyang Ave, Singapore 639798, Nanyang Technological University</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>15:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -965,7 +965,7 @@ and practical insights.</p>
 </div>
 </details>
 </div>
-<p><a href="go.gov.sg/aidevday" rel="noopener nofollow" target="_blank">Register</a>
+<p><a href="https://go.gov.sg/aidevday" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1037,6 +1037,15 @@ and practical insights.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/csa_resized.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CYS_Logo_06.png">
+</div>
+<p></p>
 </td>
 </tr>
 <tr>
