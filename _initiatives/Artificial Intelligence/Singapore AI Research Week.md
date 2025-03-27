@@ -76,10 +76,10 @@ that await. Stay tuned, as more events will be added! 💫</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ssnlp-website.github.io/ssnlp25/" rel="noopener nofollow" target="_blank">Singapore Symposium on Natural Language Processing 2025</a> and
-Technical Sharing by the Infocomm Media Development Authority</p>
+<p><a href="https://ssnlp-website.github.io/ssnlp25/" rel="noopener nofollow" target="_blank">Singapore Symposium on Natural Language Processing 2025</a>
+</p>
 <p></p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSevYb5ebCYtOrDfX4o1sqawTgCkhml8GY38ci_rxG7XMHjluQ/viewform" rel="noopener nofollow" target="_blank">Register</a>
+<p><em><a href="https://docs.google.com/forms/d/e/1FAIpQLSevYb5ebCYtOrDfX4o1sqawTgCkhml8GY38ci_rxG7XMHjluQ/viewform" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,7 +94,7 @@ Design</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.ntu.edu.sg/computing/news-events/events/ias-frontiers-conference-on-ai" rel="noopener nofollow" target="_blank">IAS Frontiers Conference on AI</a> by <strong><em>Nanyang Technological University</em></strong>
 </p>
-<p><a href="https://event.ntu.edu.sg/ias-frontiers-conference-on-AI/register" rel="noopener nofollow" target="_blank">Register</a>
+<p><em><a href="https://event.ntu.edu.sg/ias-frontiers-conference-on-AI/register" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -280,7 +280,7 @@ human digital twins and the use of technology in public spaces.</p>
 </div>
 </details>
 </div>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+<p><em><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -363,7 +363,7 @@ and real-world impact.</p>
 </div>
 </details>
 </div>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+<p><em><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -409,7 +409,7 @@ simulation in the urban planning space.</p>
 </div>
 </details>
 </div>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+<p><em><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -465,7 +465,7 @@ network of SDLs, advancing scalable, modular lab automation.&nbsp;</p>
 </div>
 </details>
 </div>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a>
+<p><em><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -521,7 +521,7 @@ and explore the future of AI research.</p>
 </div>
 </details>
 </div>
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=drd2NJDpck-5UGJImDFiPXbs8MH3QS5AkISCCebRfBJUOEY4T0o2UU9UNzFYU0xENFEwWUdNTkYwTi4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
+<p><em><a href="https://forms.office.com/pages/responsepage.aspx?id=drd2NJDpck-5UGJImDFiPXbs8MH3QS5AkISCCebRfBJUOEY4T0o2UU9UNzFYU0xENFEwWUdNTkYwTi4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -628,7 +628,7 @@ exchange ideas, and find potential investors.</p>
 </div>
 </details>
 </div>
-<p><a href="http://bit.ly/ai-meetup-cys_syai" rel="noopener nofollow" target="_blank">Register</a>
+<p><em><a href="http://bit.ly/ai-meetup-cys_syai" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -669,7 +669,7 @@ exchange ideas, and find potential investors.</p>
 by Prof Yann LeCun (Chief AI Scientist, Meta) by <strong><em>National University of Singapore</em></strong>
 </p>
 <p></p>
-<p><a href="https://www.eventbrite.sg/e/nus120-distinguished-speaker-series-tickets-1261801164249" rel="noopener nofollow" target="_blank">Register</a>
+<p><em><a href="https://www.eventbrite.sg/e/nus120-distinguished-speaker-series-tickets-1261801164249" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -890,7 +890,7 @@ local ecosystem.</p>
 </div>
 </details>
 </div>
-<p><a href="https://forms.office.com/r/WVciaCW13f" rel="noopener nofollow" target="_blank">Register</a>
+<p><em><a href="https://forms.office.com/r/WVciaCW13f" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -967,7 +967,7 @@ and practical insights.</p>
 </div>
 </details>
 </div>
-<p><a href="https://go.gov.sg/aidevday" rel="noopener nofollow" target="_blank">Register</a>
+<p><em><a href="https://go.gov.sg/aidevday" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1011,6 +1011,13 @@ and practical insights.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/AIMfg_Logo_FA_200924_Full_Colour_resized.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AISG_R__Horizontal_Logo_CMYK_Full_Colour.png">
@@ -1021,7 +1028,7 @@ and practical insights.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/0_CARES_short_resized.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/0_CARES_short_resized.png">
 </div>
 </td>
 </tr>
@@ -1029,7 +1036,16 @@ and practical insights.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNRS_CREATE_BLUE_LOGO.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/catos_resized.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CNRS_CREATE_BLUE_LOGO.png">
 </div>
 <p></p>
 </td>
@@ -1045,7 +1061,7 @@ and practical insights.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CYS_Logo_06.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CYS_Logo_06.png">
 </div>
 <p></p>
 </td>
@@ -1079,7 +1095,7 @@ and practical insights.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/large_model_safety_workshop_logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/large_model_safety_workshop_logo.png">
 </div>
 </td>
 </tr>
@@ -1087,7 +1103,7 @@ and practical insights.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/latent_space.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/latent_space.png">
 </div>
 <p></p>
 </td>
@@ -1161,7 +1177,7 @@ and practical insights.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Question_10___SYAI_LOGO.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Question_10___SYAI_LOGO.png">
 </div>
 </td>
 </tr>
