@@ -92,7 +92,9 @@ Design</p>
 <p>09:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Frontiers Conference on Artificial Intelligence by <strong><em>Nanyang Technological University</em></strong>
+<p><a href="https://www.ntu.edu.sg/computing/news-events/events/ias-frontiers-conference-on-ai" rel="noopener nofollow" target="_blank">IAS Frontiers Conference on AI</a> by <strong><em>Nanyang Technological University</em></strong>
+</p>
+<p><a href="https://event.ntu.edu.sg/ias-frontiers-conference-on-AI/register" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
