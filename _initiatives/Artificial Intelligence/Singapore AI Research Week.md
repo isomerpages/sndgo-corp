@@ -1011,6 +1011,13 @@ and practical insights.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AIMfg_Logo_FA_200924_Full_Colour_resized.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AISG_R__Horizontal_Logo_CMYK_Full_Colour.png">
@@ -1021,7 +1028,7 @@ and practical insights.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/0_CARES_short_resized.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/0_CARES_short_resized.png">
 </div>
 </td>
 </tr>
@@ -1029,7 +1036,16 @@ and practical insights.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNRS_CREATE_BLUE_LOGO.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/catos_resized.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CNRS_CREATE_BLUE_LOGO.png">
 </div>
 <p></p>
 </td>
@@ -1045,7 +1061,7 @@ and practical insights.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CYS_Logo_06.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CYS_Logo_06.png">
 </div>
 <p></p>
 </td>
@@ -1079,7 +1095,7 @@ and practical insights.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/large_model_safety_workshop_logo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/large_model_safety_workshop_logo.png">
 </div>
 </td>
 </tr>
@@ -1087,7 +1103,7 @@ and practical insights.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/latent_space.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/latent_space.png">
 </div>
 <p></p>
 </td>
@@ -1161,7 +1177,7 @@ and practical insights.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Question_10___SYAI_LOGO.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Question_10___SYAI_LOGO.png">
 </div>
 </td>
 </tr>
