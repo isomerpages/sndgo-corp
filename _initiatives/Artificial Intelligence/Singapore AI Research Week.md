@@ -76,7 +76,7 @@ that await. Stay tuned, as more events will be added! 💫</p>
 <p>09:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://ssnlp-website.github.io/ssnlp25/" rel="noopener nofollow" target="_blank">Singapore Symposium on Natural Language Processing 2025</a> 
+<p><a href="https://ssnlp-website.github.io/ssnlp25/" rel="noopener nofollow" target="_blank">Singapore Symposium on Natural Language Processing 2025</a>
 </p>
 <p></p>
 <p><em><a href="https://docs.google.com/forms/d/e/1FAIpQLSevYb5ebCYtOrDfX4o1sqawTgCkhml8GY38ci_rxG7XMHjluQ/viewform" rel="noopener nofollow" target="_blank">Register</a></em>
