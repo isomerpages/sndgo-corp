@@ -1012,7 +1012,7 @@ and practical insights.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AIMfg_Logo_FA_200924_Full_Colour_resized.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/AIMfg_Logo_FA_200924_Full_Colour_resized.jpg">
 </div>
 </td>
 </tr>
