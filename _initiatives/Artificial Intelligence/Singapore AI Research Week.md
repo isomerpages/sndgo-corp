@@ -113,6 +113,45 @@ Design</p>
 <p>22 Cross Street, Singapore 048421</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16:00 - 19:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Sectoral AI Centre of Excellence for Manufacturing (AIMfg) Technology
+&amp; Industry Forum by <strong><em>A*STAR</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This forum is a platform to convene key stakeholders of the manufacturing
+sector to:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Inspire attendees, through successful stories of how AI enabled transformative
+impact, to further their ambition to achieve best-in-class status for their
+manufacturing operations.</p>
+</li>
+<li>
+<p>Increase awareness on upcoming technology trends and developments that
+can present opportunities for the manfacturing sector.</p>
+</li>
+</ol>
+<p>Attendees will include senior management of leading manufacturing companies
+from the Aerospace, FMCG, Oil &amp; Gas, Semicon and Biomed/MedTech sub-sectors,
+technology providers, government and academia.</p>
+</div>
+</details>
+</div>
+<p><em>Interested parties may email Royston at <a href="mailto:royston_phoon@hq.a-star.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>royston_phoon@hq.a-star.edu.sg</u></a> to register interest.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Cleantech Loop, #01-01, Singapore 637143, Advanced Remanufacturing and
+Technology Centre</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -285,51 +324,6 @@ human digital twins and the use of technology in public spaces.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Create Way, Singapore 138602</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14:00 - 19:30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI for Manufacturing Industry Forum by <strong><em>A*STAR</em></strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>This forum aims to establish the AI Centre of Excellence for Manufacturing
-(AIMfg) as a nexus for AI in Manufacturing (Mfg) of Singapore and convenor
-of key industry, academia and government stakeholders:</p>
-<p>To believe “it can be done”.&nbsp; For leading manufacturing companies
-to share on their journey (challenges, success stories, best practices)
-using AI for Manufacturing.</p>
-<p>To inspire and increase awareness on the latest tech trends and developments.</p>
-<p>To cross-share pain points and network through roundtables and generate
-ideas on how AI can help industry end-users in their manufacturing process.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Agenda</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Guest-of-Honours Opening Speech (5 min)</p>
-<p>Keynote Presentation 1 (20 min)</p>
-<p>Keynote Presentation 2 (20 min)</p>
-<p>Panel on AI’s Latest Developments and Upcoming Opportunities for Manufacturing
-(25 min)</p>
-<p>Roundtable Discussions and Sharing (60 min)</p>
-<p>Sharing on AI for Manufacturing (25 min)</p>
-<p>Site Tour (20 min)</p>
-<p>Networking Dinner (1.5 h)</p>
-</div>
-</details>
-</div>
-<p><em>Interested parties may email Royston at <a href="mailto:royston_phoon@hq.a-star.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>royston_phoon@hq.a-star.edu.sg</u></a> to register interest.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Cleantech Loop, #01-01, Singapore 637143, Advanced Remanufacturing and
-Technology Centre</p>
 </td>
 </tr>
 <tr>
