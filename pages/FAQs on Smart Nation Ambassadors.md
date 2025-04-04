@@ -44,7 +44,7 @@ We will ensure you are equipped and trained to enable you to be a Smart Nation a
 
 - SNAs can set up booths at Smart Nation events to provide hands-on experiences to the public. If you are a tech company or entrepreneur with an interesting solution, or have an idea to showcase, we welcome you to do so at our events! 
  
-These are just some of the opportunities that you will be able to participate in. If you have ideas on how you can help others live, work and play in a Smart Nation, [email us](mailto:ambassadors@smartnation.gov.sg) and let us know!
+These are just some of the opportunities that you will be able to participate in. If you have ideas on how you can help others live, work and play in a Smart Nation, [email us](mailto:smart_nation@mddi.gov.sg) and let us know!
 
 [Return to top](#frequently-asked-questions)
 
@@ -56,7 +56,7 @@ There is no minimum number of events to volunteer for. We hope that you will fin
 
 ### **Q5. How do I sign up to be a Smart Nation Ambassador and start volunteering?**
 
-To sign up to be a Smart Nation Ambassador, email us at [Ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg). 
+To sign up to be a Smart Nation Ambassador, email us at [smart_nation@mddi.gov.sg](mailto:smart_nation@mddi.gov.sg). 
 
 Click on the link to view the <a href="https://www.volunteer.gov.sg/volunteer/agencies/agency_details?code=SmartNation" target="_blank">schedule of upcoming volunteer events</a>.
 
@@ -64,6 +64,6 @@ Click on the link to view the <a href="https://www.volunteer.gov.sg/volunteer/ag
 
 ### **Q6. Who can I contact for further information on Smart Nation Ambassadors?**
 
-Email us at [Ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg) for more information. To receive updates on the latest Smart Nation initiatives and events, you can also subscribe to the <a href="https://t.me/SmartNationAmbassadors" target="_blank">Smart Nation Ambassadors telegram channel.</a>
+Email us at [smart_nation@mddi.gov.sg](mailto:smart_nation@mddi.gov.sg) for more information. To receive updates on the latest Smart Nation initiatives and events, you can also subscribe to the <a href="https://t.me/SmartNationAmbassadors" target="_blank">Smart Nation Ambassadors telegram channel.</a>
 
 [Return to top](#frequently-asked-questions)
