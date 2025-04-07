@@ -23,7 +23,7 @@ The system endorses locally-issued COVID-19 test results and vaccination certifi
 
 ## National Appointment System (NAS) for COVID-19 Vaccination
 
-To support the roll-out of nation-wide vaccinations, we created a [the National Appointment System (NAS) for COVID-19 Vaccination website](https://appointment.vaccine.gov.sg/) for residents to schedule their appointments once they receive their Registration Code. This efficient system helped to manage the appointments and administrative load ensures that the vaccination doses are sufficient and used with minimal wastage.
+To support the roll-out of nation-wide vaccinations, we created National Appointment System (NAS) for COVID-19 Vaccination website for residents to schedule their appointments once they receive their Registration Code. This efficient system helped to manage the appointments and administrative load ensures that the vaccination doses are sufficient and used with minimal wastage.
 
 ## Space Out
 
