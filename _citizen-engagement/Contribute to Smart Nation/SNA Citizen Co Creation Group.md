@@ -21,7 +21,7 @@ With the community’s participation and feedback in the development and user-te
 
 ### Take part in our focus group discussions
 
-If you are interested in participating in our focus group discussions with the community groups listed below, email us at [ambassadors@smartnation.gov.sg](mailto:ambassadors@smartnation.gov.sg).
+If you are interested in participating in our focus group discussions with the community groups listed below, email us at [smart\_nation@mddi.gov.sg](mailto:smart_nation@mddi.gov.sg).
 
 1. Care Corner Singapore
 2. AMK Family Services Centre
