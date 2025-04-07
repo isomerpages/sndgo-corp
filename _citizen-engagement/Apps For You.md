@@ -15,23 +15,7 @@ variant: markdown
 Want to register your child’s birth, check on the weather, report municipal issues or borrow an audio book? There’s an app for that. Check them out here.
 
 <table style="width:100%">
-  <tbody><tr>
-    <td style="width:30%">
-      <img alt="Active Wallet" src="/images/community/apps/activewallet.jpg">
-    </td>	
-    <td style="width:70%">
-      	<a target="_blank" href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App">ActiveSG</a><br>
-   <br>
-	Book workouts and sporting facilities as well as receive incentives through exciting fitness challenges and campaigns with the app. <br>
-	<br>
-<div style="width:50%;display:flex;flex-wrap:wrap;">
-         <div style="flex:50%"><a target="_blanket" href="https://apps.apple.com/sg/app/activesg/id827595244"><img src="/images/community/appstoreicon/apple-store.png" alt="Apple App Store Link"></a>
-          </div>
-          <div style="flex:50%;"><a target="_blanket" href="https://play.google.com/store/apps/details?id=com.iapps.ssc"><img src="/images/community/appstoreicon/google-play.png" alt="Google Play Store Link"></a>
-          </div>
-      </div>  
-    <br></td>
-  </tr>
+  <tbody>
 		
 <tr>
     <td style="width:30%">
