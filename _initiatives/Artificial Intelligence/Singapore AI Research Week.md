@@ -550,19 +550,6 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00 - 18:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://lu.ma/aiesg" rel="noopener noreferrer nofollow" target="_blank">AI Engineer Singapore 2025</a>&nbsp;by <strong><em>Latent Space</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
-Design</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>09:30 - 12:30</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -688,19 +675,6 @@ Building
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00 - 18:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://lu.ma/aiesg" rel="noopener noreferrer nofollow" target="_blank">AI Engineer Singapore 2025</a>&nbsp;by <strong><em>Latent Space</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
-Design</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>09:30 - 12:30</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -800,7 +774,7 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>13:30 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre
