@@ -732,6 +732,41 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>13:30 - 17:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre
+by <strong><em>Singapore Institute of Technology</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The SIT x NVIDIA AI Centre (SNAIC) is a premier hub for advancing translational
+AI technologies, co-founded by the Singapore Institute of Technology (SIT)
+and NVIDIA. Our mission is to empower industry partners with cutting-edge
+AI solutions that drive innovation, enhance efficiency, and accelerate
+business growth.</p>
+<p>Join us for an engaging half-day event where we showcase innovative AI
+projects in Large Language Models (LLMs), Multimodal AI, and Generative
+AI. Gain valuable insights into how these technologies are being adapted
+to solve real-world industry challenges and create new opportunities across
+sectors.</p>
+<p></p>
+<p>Stay tuned for more details as the date approaches—we look forward to
+seeing you there!</p>
+</div>
+</details>
+</div>
+<p><a href="https://www.eventbrite.com/e/sit-x-nvidia-ai-research-week-workshop-2025-tickets-1316189340749?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Punggol Coast Road, Singapore 828608</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>14:00 - 15:00</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -772,41 +807,6 @@ GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen"
 Design</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13:30 - 17:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre
-by <strong><em>Singapore Institute of Technology</em></strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The SIT x NVIDIA AI Centre (SNAIC) is a premier hub for advancing translational
-AI technologies, co-founded by the Singapore Institute of Technology (SIT)
-and NVIDIA. Our mission is to empower industry partners with cutting-edge
-AI solutions that drive innovation, enhance efficiency, and accelerate
-business growth.</p>
-<p>Join us for an engaging half-day event where we showcase innovative AI
-projects in Large Language Models (LLMs), Multimodal AI, and Generative
-AI. Gain valuable insights into how these technologies are being adapted
-to solve real-world industry challenges and create new opportunities across
-sectors.</p>
-<p></p>
-<p>Stay tuned for more details as the date approaches—we look forward to
-seeing you there!</p>
-</div>
-</details>
-</div>
-<p><a href="https://www.eventbrite.com/e/sit-x-nvidia-ai-research-week-workshop-2025-tickets-1316189340749?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Punggol Coast Road, Singapore 828608</p>
-</td>
-</tr>
 </tbody>
 </table>
 <hr>
@@ -828,6 +828,48 @@ seeing you there!</p>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:30 - 11:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A*STAR Distinguished Lecture: NLP is Dead, Long Live NLP by <strong><em>A*STAR</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Large language models with multi-tasking capabilities have emerged in
+the last several years and made traditional NLP tasks, such as ASR, machine
+translation, summarization, text generation, sentiment analysis, as well
+as intermedia NLP tasks such as POS tagging, parsing, named entity recognition,
+textual entailment, etc.,&nbsp; obsolete. It is fair to say that the field
+of NLP, as defined by these tasks, is dead. It is also evident in conferences
+such as&nbsp; ACL and EMNLP where the vast majority of work is based on
+some form of LLM pre-training or post-training. Indeed, LLM research has
+both expanded beyond traditional NLP areas and replaced the latter. Quo
+Vadis NLP?</p>
+<p>In this talk, I argue that, following LLMs, language research is more
+relevant than ever. The emergence of agentic systems marks a new milestone
+in human-machine interactions.&nbsp; I propose a new framework of language
+research that looks into mental world modeling, which parallels physical
+world modeling. Language both represents and shapes the “mental world models”
+of humans, enabling us to reason, plan, emote, learn, innovate and create.
+Natural language research, therefore, should endeavor to come up with better
+and more efficient mental world models than current LLMs. The scope of
+“language” should expand to include non-iconographic languages such as
+gesture and music.&nbsp; NLP research can thrive again, leading to new
+innovations in AI.</p>
+</div>
+</details>
+</div>
+<p><em>No RSVP needed</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fusionopolis 1, South Tower Level 11, Franklin</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
