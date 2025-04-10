@@ -231,6 +231,7 @@ international guest)</p>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
+<p>SUTD Library</p>
 </td>
 </tr>
 <tr>
@@ -278,6 +279,7 @@ and <a href="https://sg.linkedin.com/in/yaron-turpaz" rel="noopener nofollow" ta
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
+<p>SUTD Library</p>
 </td>
 </tr>
 <tr>
@@ -580,6 +582,7 @@ any enquiries.</p>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
+<p>LT4</p>
 </td>
 </tr>
 <tr>
@@ -705,6 +708,7 @@ any enquiries.</p>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
+<p>LT4</p>
 </td>
 </tr>
 </tbody>
@@ -762,7 +766,7 @@ seeing you there!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Punggol Coast Road, Singapore 828608</p>
+<p>1 Punggol Coast Road, Singapore 828608, Singapore Institute of Technology</p>
 </td>
 </tr>
 <tr>
@@ -805,6 +809,8 @@ GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen"
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
+<p></p>
+<p>SUTD Library</p>
 </td>
 </tr>
 </tbody>
@@ -868,7 +874,8 @@ innovations in AI.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fusionopolis 1, South Tower Level 11, Franklin</p>
+<p>Fusionopolis 1, South Tower Level 11, Singapore 138632</p>
+<p>Franklin</p>
 </td>
 </tr>
 <tr>
