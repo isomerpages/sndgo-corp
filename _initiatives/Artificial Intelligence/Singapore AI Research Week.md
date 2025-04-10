@@ -800,7 +800,8 @@ seeing you there!</p>
 </div>
 </details>
 </div>
-<p></p>
+<p><a href="https://www.eventbrite.com/e/sit-x-nvidia-ai-research-week-workshop-2025-tickets-1316189340749?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">Register</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Punggol Coast Road, Singapore 828608</p>
