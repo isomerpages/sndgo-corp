@@ -417,7 +417,7 @@ simulation in the urban planning space.</p>
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://lu.ma/95m3ewfb" rel="noopener nofollow" target="_blank">ThursTalks with OpenAI: LLM Training</a> by <strong><em>Ministry of Digital Development &amp; Information </em></strong>
+<p><a href="https://lu.ma/95m3ewfb" rel="noopener nofollow" target="_blank">ThursTalks with OpenAI: LLM Training</a> by <strong><em>Ministry of Digital Development &amp; Information</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
