@@ -273,7 +273,7 @@ and <a href="https://sg.linkedin.com/in/yaron-turpaz" rel="noopener nofollow" ta
 </div>
 </details>
 </div>
-<p><em>No RSVP needed</em>
+<p><a href="https://form.gov.sg/67e3b570615013ea70eaf2c2" rel="noopener nofollow" target="_blank">RSVP</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
