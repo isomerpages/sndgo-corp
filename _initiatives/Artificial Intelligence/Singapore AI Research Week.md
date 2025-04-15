@@ -215,13 +215,16 @@ cyber harms.</p>
 <details class="isomer-details">
 <summary>Agenda</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>09:00 - 10:00</strong>: Talk on online trust and safety (OTS)
+<p><strong>09:00 - 09:40</strong>: Talk on online trust and safety (OTS)
 and OTS toolkit by <a href="https://www.a-star.edu.sg/idlabs/about-us/people/our-investigators/yang-yinping" rel="noopener nofollow" target="_blank">Dr. Yang Yinping</a> &amp;
 team</p>
 <p></p>
-<p><strong>10:00 - 11:00</strong>: Talk on Bridging Online and Offline Dynamics
+<p><strong>09:40 - 10:20</strong>: Talk on Bridging Online and Offline Dynamics
 of Social Cyber Harm by <a href="https://juyheng.github.io/" rel="noopener nofollow" target="_blank">Dr. Joshua Uyheng</a> (invited
 international guest)</p>
+<p></p>
+<p>10:20 - 11:00: Talk on Factuality Challenges in the Era of Large Language
+Models by Prof Preslav Nakov (invited international guest)</p>
 </div>
 </details>
 </div>
@@ -273,7 +276,7 @@ and <a href="https://sg.linkedin.com/in/yaron-turpaz" rel="noopener nofollow" ta
 </div>
 </details>
 </div>
-<p><a href="https://form.gov.sg/67e3b570615013ea70eaf2c2" rel="noopener nofollow" target="_blank">RSVP</a>
+<p><em><a href="https://form.gov.sg/67e3b570615013ea70eaf2c2" rel="noopener nofollow" target="_blank">RSVP</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -809,13 +812,12 @@ to establishing more partnership on this journey.</p>
 <p>14:00 - 14:20: Overview of MERaLiON and A*STAR’s multimodal, multilingual
 GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen" rel="noopener nofollow" target="_blank">Dr. Nancy Chen</a>
 </p>
-<p>14:20 - 14:40: AudioLLM Highlights by <a href="https://sg.linkedin.com/in/ssfei81" rel="noopener nofollow" target="_blank">Dr. Sun Shuo</a>
-</p>
-<p>14:40 - 15:00: Demos and Q&amp;A by Dr. Nancy Chen and Dr. Sun Shuo</p>
+<p>14:20 - 14:40: AudioLLM Highlights by Dr. Wenyu Zhang</p>
+<p>14:40 - 15:00: Demos and Q&amp;A by Dr. Nancy Chen and Dr. Wenyu Zhang</p>
 </div>
 </details>
 </div>
-<p><em>No RSVP needed</em>
+<p><em><a href="https://form.gov.sg/67e3b570615013ea70eaf2c2" rel="noopener nofollow" target="_blank">RSVP</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -882,7 +884,7 @@ innovations in AI.</p>
 </div>
 </details>
 </div>
-<p><em>No RSVP needed</em>
+<p><em><a href="https://form.gov.sg/67f88aa542f7628adc03e3fc" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
