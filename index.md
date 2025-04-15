@@ -37,7 +37,8 @@ sections:
       alt: SN that keeps us together
       image: /images/Goals/sncommunity01.jpg
       url: /goals-of-sn2/community
-notification: Beware of scammers pretending to be government officials. Learn
-  how to avoid scams at www.scamshield.gov.sg.
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 image: /images/og-image/smartnationogimage.jpg
 ---
