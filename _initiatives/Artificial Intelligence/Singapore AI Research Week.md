@@ -106,7 +106,7 @@ Design</p>
 <p>14:00 - 18:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUS-Swiss AI Workshop by <strong><em>National University of Singapore</em></strong> 
+<p>NUS-Swiss AI Workshop by <strong><em>National University of Singapore</em></strong>
 </p>
 <p></p>
 <p><em><a href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gpazHG3P6gNKrAcf6Jc6IGdUNDY2RDFQTlk3NEFBWThIRUg4VUo1VUlEUC4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></em>
@@ -1035,13 +1035,35 @@ and practical insights.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>18:45 - 21:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MLSG April Meetup - Bringing You News from the Frontier by <strong><em>Machine Learning Singapore Meetup </em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Machine Learning Singapore MeetUp group is the largest AI community
+in Singapore, and has been holding monthly in-person events since the beginning
+of 2017. It was formerly know as the TensorFlow and Deep Learning MeetUp.
+<br>
+<br>MLSG talks are known for their high level of technical content, and the
+organisers (Sam Witteveen and Dr Martin Andrews) are frequent presenters
+- as well as others from the community who share in their passion for AI.
+<br>
+<br>The two talks currently announced are:
+<br>* "Latent Space Reasoning" - Martin Andrews
+<br>* "Agent Announcements &amp; Trends from Google Cloud Next 2025 " - Sam
+Witteveen</p>
+</div>
+</details>
+</div>
+<p><em><a href="https://www.meetup.com/machine-learning-singapore/events/307296982/" rel="noopener nofollow" target="_blank">Register</a></em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Google Developers Space, 80 Pasir Panjang Rd, Singapore 117372</p>
 </td>
 </tr>
 </tbody>
