@@ -852,36 +852,28 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:30 - 11:30</p>
+<p>10:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A*STAR Distinguished Lecture: NLP is Dead, Long Live NLP by <strong><em>A*STAR</em></strong>
+<p>A*STAR I<sup>2</sup>R Emerging Frontiers Talk: NLP is Dead, Long Live
+NLP by Prof. Pascale Fung by <strong><em>A*STAR</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Large language models with multi-tasking capabilities have emerged in
-the last several years and made traditional NLP tasks, such as ASR, machine
-translation, summarization, text generation, sentiment analysis, as well
-as intermedia NLP tasks such as POS tagging, parsing, named entity recognition,
-textual entailment, etc.,&nbsp; obsolete. It is fair to say that the field
-of NLP, as defined by these tasks, is dead. It is also evident in conferences
-such as&nbsp; ACL and EMNLP where the vast majority of work is based on
-some form of LLM pre-training or post-training. Indeed, LLM research has
-both expanded beyond traditional NLP areas and replaced the latter. Quo
-Vadis NLP?</p>
-<p>In this talk, I argue that, following LLMs, language research is more
-relevant than ever. The emergence of agentic systems marks a new milestone
-in human-machine interactions.&nbsp; I propose a new framework of language
-research that looks into mental world modeling, which parallels physical
-world modeling. Language both represents and shapes the “mental world models”
-of humans, enabling us to reason, plan, emote, learn, innovate and create.
-Natural language research, therefore, should endeavor to come up with better
-and more efficient mental world models than current LLMs. The scope of
-“language” should expand to include non-iconographic languages such as
-gesture and music.&nbsp; NLP research can thrive again, leading to new
-innovations in AI.</p>
+<p>Large language models (LLMs) with multi-tasking capabilities have emerged
+in the last several years and made traditional NLP tasks obsolete. It is
+fair to say that the field of NLP is dead. LLMs research has both expanded
+beyond traditional NLP areas and replaced the latter. Quo Vadis NLP? In
+this talk, Prof. Fung proposes a new framework of language research that
+looks into mental world modeling, which parallels physical world modeling.
+Language both represents and shapes the “mental world models” of humans,
+enabling us to reason, plan, emote, learn, innovate and create. Therefore,
+natural language research should endeavor to come up with better and more
+efficient mental world models than current LLMs. The scope of “language”
+should expand to include non-iconographic languages such as gesture and
+music. NLP research can thrive again, leading to new innovations in AI.</p>
 </div>
 </details>
 </div>
@@ -889,8 +881,7 @@ innovations in AI.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fusionopolis 1, South Tower Level 11, Singapore 138632</p>
-<p>Franklin</p>
+<p>Infuse Theatre, Level 14 Connexis South, Fusionopolis One</p>
 </td>
 </tr>
 <tr>
