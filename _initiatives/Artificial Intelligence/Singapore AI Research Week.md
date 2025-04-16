@@ -223,8 +223,8 @@ team</p>
 of Social Cyber Harm by <a href="https://juyheng.github.io/" rel="noopener nofollow" target="_blank">Dr. Joshua Uyheng</a> (invited
 international guest)</p>
 <p></p>
-<p>10:20 - 11:00: Talk on Factuality Challenges in the Era of Large Language
-Models by Prof Preslav Nakov (invited international guest)</p>
+<p><strong>10:20 - 11:00</strong>: Talk on Factuality Challenges in the Era
+of Large Language Models by Prof Preslav Nakov (invited international guest)</p>
 </div>
 </details>
 </div>
@@ -809,11 +809,12 @@ to establishing more partnership on this journey.</p>
 <details class="isomer-details">
 <summary>Agenda</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>14:00 - 14:20: Overview of MERaLiON and A*STAR’s multimodal, multilingual
-GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen" rel="noopener nofollow" target="_blank">Dr. Nancy Chen</a>
+<p><strong>14:00 - 14:20</strong>: Overview of MERaLiON and A*STAR’s multimodal,
+multilingual GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen" rel="noopener nofollow" target="_blank">Dr. Nancy Chen</a>
 </p>
-<p>14:20 - 14:40: AudioLLM Highlights by Dr. Wenyu Zhang</p>
-<p>14:40 - 15:00: Demos and Q&amp;A by Dr. Nancy Chen and Dr. Wenyu Zhang</p>
+<p><strong>14:20 - 14:40</strong>: AudioLLM Highlights by Dr. Wenyu Zhang</p>
+<p><strong>14:40 - 15:00</strong>: Demos and Q&amp;A by Dr. Nancy Chen and
+Dr. Wenyu Zhang</p>
 </div>
 </details>
 </div>
