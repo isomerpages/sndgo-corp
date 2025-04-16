@@ -103,6 +103,24 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>14:00 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS-Swiss AI Workshop by <strong><em>National University of Singapore</em></strong> 
+</p>
+<p></p>
+<p><em><a href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gpazHG3P6gNKrAcf6Jc6IGdUNDY2RDFQTlk3NEFBWThIRUg4VUo1VUlEUC4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS School of Computing
+<br>COM3 Multi-purpose Hall (#01-27)
+<br>11 Research Link, Singapore 119391
+<br>Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -538,6 +556,23 @@ and explore the future of AI research.</p>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
 Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15:00 - 17:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS120 Distinguished Speaker Series:
+<br>Scientist AI vs Superintelligent Agents&nbsp;by Prof. Yoshua Bengio (Professor
+of Computer Science, Université de Montréal) by <strong><em>National University of Singapore</em></strong>
+</p>
+<p></p>
+<p><em><a href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gpazHG3P6gNKrAcf6Jc6IGdURFVSNk1RMFVOOFQ4RUlJOVdBMEhRVzRZRy4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shaw Foundation Alumni House, 11 Kent Ridge Drive, Singapore 119244</p>
 </td>
 </tr>
 </tbody>
@@ -996,6 +1031,17 @@ and practical insights.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Stars Ave, #12-01, Singapore 138507</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
