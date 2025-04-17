@@ -800,41 +800,6 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13:30 - 17:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre
-by <strong><em>Singapore Institute of Technology</em></strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The SIT x NVIDIA AI Centre (SNAIC) is a premier hub for advancing translational
-AI technologies, co-founded by the Singapore Institute of Technology (SIT)
-and NVIDIA. Our mission is to empower industry partners with cutting-edge
-AI solutions that drive innovation, enhance efficiency, and accelerate
-business growth.</p>
-<p>Join us for an engaging half-day event where we showcase innovative AI
-projects in Large Language Models (LLMs), Multimodal AI, and Generative
-AI. Gain valuable insights into how these technologies are being adapted
-to solve real-world industry challenges and create new opportunities across
-sectors.</p>
-<p></p>
-<p>Stay tuned for more details as the date approaches—we look forward to
-seeing you there!</p>
-</div>
-</details>
-</div>
-<p><a href="https://www.eventbrite.com/e/sit-x-nvidia-ai-research-week-workshop-2025-tickets-1316189340749?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Punggol Coast Road, Singapore 828608, Singapore Institute of Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>14:00 - 15:00</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -931,6 +896,41 @@ music. NLP research can thrive again, leading to new innovations in AI.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Infuse Theatre, Level 14 Connexis South, Fusionopolis One</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13:30 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre
+by <strong><em>Singapore Institute of Technology</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The SIT x NVIDIA AI Centre (SNAIC) is a premier hub for advancing translational
+AI technologies, co-founded by the Singapore Institute of Technology (SIT)
+and NVIDIA. Our mission is to empower industry partners with cutting-edge
+AI solutions that drive innovation, enhance efficiency, and accelerate
+business growth.</p>
+<p>Join us for an engaging half-day event where we showcase innovative AI
+projects in Large Language Models (LLMs), Multimodal AI, and Generative
+AI. Gain valuable insights into how these technologies are being adapted
+to solve real-world industry challenges and create new opportunities across
+sectors.</p>
+<p></p>
+<p>Stay tuned for more details as the date approaches—we look forward to
+seeing you there!</p>
+</div>
+</details>
+</div>
+<p><a href="https://www.eventbrite.com/e/sit-x-nvidia-ai-research-week-workshop-2025-tickets-1316189340749?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Punggol Coast Road, Singapore 828608, Singapore Institute of Technology</p>
 </td>
 </tr>
 <tr>
