@@ -606,7 +606,9 @@ of Computer Science, Université de Montréal) by <strong><em>National Universit
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Conference on AI (SCAI): International Scientific Exchange on
-AI Safety</p>
+AI Safety by <strong><em>Infocomm Media Development Authority</em></strong> supported
+by <strong><em>Ministry of Digital Development and Information</em></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
