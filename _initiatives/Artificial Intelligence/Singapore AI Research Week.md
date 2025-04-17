@@ -124,7 +124,7 @@ Design</p>
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lorongai" rel="noopener noreferrer nofollow" target="_blank">AI Wednesdays</a>&nbsp;by <strong><em>Lorong AI</em></strong>
+<p><a href="https://go.gov.sg/aiweds" rel="noopener noreferrer nofollow" target="_blank">AI Wednesdays</a>&nbsp;by <strong><em>Lorong AI</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
