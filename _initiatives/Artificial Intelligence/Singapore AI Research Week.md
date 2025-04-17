@@ -602,6 +602,18 @@ of Computer Science, Université de Montréal) by <strong><em>National Universit
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>09:00 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Conference on AI (SCAI): International Scientific Exchange on
+AI Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>09:30 - 12:30</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1038,7 +1050,7 @@ and practical insights.</p>
 <p>18:45 - 21:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MLSG April Meetup - Bringing You News from the Frontier by <strong><em>Machine Learning Singapore Meetup </em></strong>
+<p>MLSG April Meetup - Bringing You News from the Frontier by <strong><em>Machine Learning Singapore Meetup</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
