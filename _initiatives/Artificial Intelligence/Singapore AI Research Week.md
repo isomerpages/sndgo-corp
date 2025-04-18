@@ -103,10 +103,28 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>14:00 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS-Swiss AI Workshop by <strong><em>National University of Singapore</em></strong>
+</p>
+<p></p>
+<p><em><a href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gpazHG3P6gNKrAcf6Jc6IGdUNDY2RDFQTlk3NEFBWThIRUg4VUo1VUlEUC4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS School of Computing
+<br>COM3 Multi-purpose Hall (#01-27)
+<br>11 Research Link, Singapore 119391
+<br>Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/lorongai" rel="noopener noreferrer nofollow" target="_blank">AI Wednesdays</a>&nbsp;by <strong><em>Ministry of Digital Development &amp; Information</em></strong>
+<p><a href="https://go.gov.sg/aiweds" rel="noopener noreferrer nofollow" target="_blank">AI Wednesdays</a>&nbsp;by <strong><em>Lorong AI</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,13 +233,16 @@ cyber harms.</p>
 <details class="isomer-details">
 <summary>Agenda</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>09:00 - 10:00</strong>: Talk on online trust and safety (OTS)
+<p><strong>09:00 - 09:40</strong>: Talk on online trust and safety (OTS)
 and OTS toolkit by <a href="https://www.a-star.edu.sg/idlabs/about-us/people/our-investigators/yang-yinping" rel="noopener nofollow" target="_blank">Dr. Yang Yinping</a> &amp;
 team</p>
 <p></p>
-<p><strong>10:00 - 11:00</strong>: Talk on Bridging Online and Offline Dynamics
+<p><strong>09:40 - 10:20</strong>: Talk on Bridging Online and Offline Dynamics
 of Social Cyber Harm by <a href="https://juyheng.github.io/" rel="noopener nofollow" target="_blank">Dr. Joshua Uyheng</a> (invited
 international guest)</p>
+<p></p>
+<p><strong>10:20 - 11:00</strong>: Talk on Factuality Challenges in the Era
+of Large Language Models by Prof Preslav Nakov (invited international guest)</p>
 </div>
 </details>
 </div>
@@ -273,7 +294,7 @@ and <a href="https://sg.linkedin.com/in/yaron-turpaz" rel="noopener nofollow" ta
 </div>
 </details>
 </div>
-<p><a href="https://form.gov.sg/67e3b570615013ea70eaf2c2" rel="noopener nofollow" target="_blank">RSVP</a>
+<p><em><a href="https://form.gov.sg/67e3b570615013ea70eaf2c2" rel="noopener nofollow" target="_blank">RSVP</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -417,7 +438,7 @@ simulation in the urban planning space.</p>
 <p>15:00 - 17:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://lu.ma/95m3ewfb" rel="noopener nofollow" target="_blank">ThursTalks with OpenAI: LLM Training</a> by <strong><em>Ministry of Digital Development &amp; Information</em></strong>
+<p><a href="https://lu.ma/95m3ewfb" rel="noopener nofollow" target="_blank">ThursTalks with OpenAI: LLM Training</a> by <strong><em>Lorong AI</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -537,6 +558,23 @@ and explore the future of AI research.</p>
 Design</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15:00 - 17:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS120 Distinguished Speaker Series:
+<br>Scientist AI vs Superintelligent Agents&nbsp;by Prof. Yoshua Bengio (Professor
+of Computer Science, Université de Montréal) by <strong><em>National University of Singapore</em></strong>
+</p>
+<p></p>
+<p><em><a href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gpazHG3P6gNKrAcf6Jc6IGdURFVSNk1RMFVOOFQ4RUlJOVdBMEhRVzRZRy4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shaw Foundation Alumni House, 11 Kent Ridge Drive, Singapore 119244</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -561,6 +599,20 @@ Design</p>
 <th rowspan="1" colspan="1">
 <p>Venue</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:00 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Conference on AI (SCAI): International Scientific Exchange on
+AI Safety by <strong><em>Infocomm Media Development Authority</em></strong> supported
+by <strong><em>Ministry of Digital Development and Information</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -748,41 +800,6 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13:30 - 17:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre
-by <strong><em>Singapore Institute of Technology</em></strong>
-</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The SIT x NVIDIA AI Centre (SNAIC) is a premier hub for advancing translational
-AI technologies, co-founded by the Singapore Institute of Technology (SIT)
-and NVIDIA. Our mission is to empower industry partners with cutting-edge
-AI solutions that drive innovation, enhance efficiency, and accelerate
-business growth.</p>
-<p>Join us for an engaging half-day event where we showcase innovative AI
-projects in Large Language Models (LLMs), Multimodal AI, and Generative
-AI. Gain valuable insights into how these technologies are being adapted
-to solve real-world industry challenges and create new opportunities across
-sectors.</p>
-<p></p>
-<p>Stay tuned for more details as the date approaches—we look forward to
-seeing you there!</p>
-</div>
-</details>
-</div>
-<p><a href="https://www.eventbrite.com/e/sit-x-nvidia-ai-research-week-workshop-2025-tickets-1316189340749?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Punggol Coast Road, Singapore 828608, Singapore Institute of Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>14:00 - 15:00</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -806,16 +823,16 @@ to establishing more partnership on this journey.</p>
 <details class="isomer-details">
 <summary>Agenda</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>14:00 - 14:20: Overview of MERaLiON and A*STAR’s multimodal, multilingual
-GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen" rel="noopener nofollow" target="_blank">Dr. Nancy Chen</a>
+<p><strong>14:00 - 14:20</strong>: Overview of MERaLiON and A*STAR’s multimodal,
+multilingual GenAI Research by <a href="https://www.a-star.edu.sg/i2r/i2r-profiles/nancychen" rel="noopener nofollow" target="_blank">Dr. Nancy Chen</a>
 </p>
-<p>14:20 - 14:40: AudioLLM Highlights by <a href="https://sg.linkedin.com/in/ssfei81" rel="noopener nofollow" target="_blank">Dr. Sun Shuo</a>
-</p>
-<p>14:40 - 15:00: Demos and Q&amp;A by Dr. Nancy Chen and Dr. Sun Shuo</p>
+<p><strong>14:20 - 14:40</strong>: AudioLLM Highlights by Dr. Wenyu Zhang</p>
+<p><strong>14:40 - 15:00</strong>: Demos and Q&amp;A by Dr. Nancy Chen and
+Dr. Wenyu Zhang</p>
 </div>
 </details>
 </div>
-<p><em>No RSVP needed</em>
+<p><em><a href="https://form.gov.sg/67e3b570615013ea70eaf2c2" rel="noopener nofollow" target="_blank">RSVP</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -849,45 +866,71 @@ Design</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:30 - 11:30</p>
+<p>10:00 - 11:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A*STAR Distinguished Lecture: NLP is Dead, Long Live NLP by <strong><em>A*STAR</em></strong>
+<p>A*STAR I<sup>2</sup>R Emerging Frontiers Talk: NLP is Dead, Long Live
+NLP by Prof. Pascale Fung by <strong><em>A*STAR</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Large language models with multi-tasking capabilities have emerged in
-the last several years and made traditional NLP tasks, such as ASR, machine
-translation, summarization, text generation, sentiment analysis, as well
-as intermedia NLP tasks such as POS tagging, parsing, named entity recognition,
-textual entailment, etc.,&nbsp; obsolete. It is fair to say that the field
-of NLP, as defined by these tasks, is dead. It is also evident in conferences
-such as&nbsp; ACL and EMNLP where the vast majority of work is based on
-some form of LLM pre-training or post-training. Indeed, LLM research has
-both expanded beyond traditional NLP areas and replaced the latter. Quo
-Vadis NLP?</p>
-<p>In this talk, I argue that, following LLMs, language research is more
-relevant than ever. The emergence of agentic systems marks a new milestone
-in human-machine interactions.&nbsp; I propose a new framework of language
-research that looks into mental world modeling, which parallels physical
-world modeling. Language both represents and shapes the “mental world models”
-of humans, enabling us to reason, plan, emote, learn, innovate and create.
-Natural language research, therefore, should endeavor to come up with better
-and more efficient mental world models than current LLMs. The scope of
-“language” should expand to include non-iconographic languages such as
-gesture and music.&nbsp; NLP research can thrive again, leading to new
-innovations in AI.</p>
+<p>Large language models (LLMs) with multi-tasking capabilities have emerged
+in the last several years and made traditional NLP tasks obsolete. It is
+fair to say that the field of NLP is dead. LLMs research has both expanded
+beyond traditional NLP areas and replaced the latter. Quo Vadis NLP? In
+this talk, Prof. Fung proposes a new framework of language research that
+looks into mental world modeling, which parallels physical world modeling.
+Language both represents and shapes the “mental world models” of humans,
+enabling us to reason, plan, emote, learn, innovate and create. Therefore,
+natural language research should endeavor to come up with better and more
+efficient mental world models than current LLMs. The scope of “language”
+should expand to include non-iconographic languages such as gesture and
+music. NLP research can thrive again, leading to new innovations in AI.</p>
 </div>
 </details>
 </div>
-<p><em>No RSVP needed</em>
+<p><em><a href="https://form.gov.sg/67f88aa542f7628adc03e3fc" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fusionopolis 1, South Tower Level 11, Singapore 138632</p>
-<p>Franklin</p>
+<p>Infuse Theatre, Level 14 Connexis South, Fusionopolis One</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13:30 - 18:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discover the Translational AI Technology at the SIT x NVIDIA AI Centre
+by <strong><em>Singapore Institute of Technology</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The SIT x NVIDIA AI Centre (SNAIC) is a premier hub for advancing translational
+AI technologies, co-founded by the Singapore Institute of Technology (SIT)
+and NVIDIA. Our mission is to empower industry partners with cutting-edge
+AI solutions that drive innovation, enhance efficiency, and accelerate
+business growth.</p>
+<p>Join us for an engaging half-day event where we showcase innovative AI
+projects in Large Language Models (LLMs), Multimodal AI, and Generative
+AI. Gain valuable insights into how these technologies are being adapted
+to solve real-world industry challenges and create new opportunities across
+sectors.</p>
+<p></p>
+<p>Stay tuned for more details as the date approaches—we look forward to
+seeing you there!</p>
+</div>
+</details>
+</div>
+<p><a href="https://www.eventbrite.com/e/sit-x-nvidia-ai-research-week-workshop-2025-tickets-1316189340749?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Punggol Coast Road, Singapore 828608, Singapore Institute of Technology</p>
 </td>
 </tr>
 <tr>
@@ -1002,6 +1045,39 @@ and practical insights.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Stars Ave, #12-01, Singapore 138507</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18:45 - 21:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MLSG April Meetup - Bringing You News from the Frontier by <strong><em>Machine Learning Singapore Meetup</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Machine Learning Singapore MeetUp group is the largest AI community
+in Singapore, and has been holding monthly in-person events since the beginning
+of 2017. It was formerly know as the TensorFlow and Deep Learning MeetUp.
+<br>
+<br>MLSG talks are known for their high level of technical content, and the
+organisers (Sam Witteveen and Dr Martin Andrews) are frequent presenters
+- as well as others from the community who share in their passion for AI.
+<br>
+<br>The two talks currently announced are:
+<br>* "Latent Space Reasoning" - Martin Andrews
+<br>* "Agent Announcements &amp; Trends from Google Cloud Next 2025 " - Sam
+Witteveen</p>
+</div>
+</details>
+</div>
+<p><em><a href="https://www.meetup.com/machine-learning-singapore/events/307296982/" rel="noopener nofollow" target="_blank">Register</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Google Developers Space, 80 Pasir Panjang Rd, Singapore 117372</p>
 </td>
 </tr>
 </tbody>
@@ -1133,7 +1209,7 @@ and practical insights.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/latent_space.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Lorong_AI_Logo_Corrected.png">
 </div>
 <p></p>
 </td>
