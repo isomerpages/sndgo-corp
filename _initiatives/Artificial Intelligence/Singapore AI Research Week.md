@@ -842,6 +842,22 @@ Design</p>
 <p>SUTD Library</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18:15 - 19:45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sginnovate.com/event/efficient-generative-ai" rel="noopener nofollow" target="_blank">Efficient Generative AI</a>:
+Exploring cutting-edge techniques designed to enhance the efficiency of
+GAI without sacrificing performance by <strong><em>SGInnovate</em></strong>
+</p>
+<p><em><a href="https://central.sginnovate.com/hub/events/d108f544-27b6-4e97-b665-9ca94c146ce6" rel="noopener nofollow" target="_blank">Register</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGInnovate, 32 Carpenter Street, 059911</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
