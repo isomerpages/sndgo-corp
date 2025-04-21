@@ -531,7 +531,7 @@ network of SDLs, advancing scalable, modular lab automation.&nbsp;</p>
 <p>09:00 - 14:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sutd-research-day.github.io/sutd-ai-day/" rel="noopener nofollow" target="_blank">SUTD AI Research Day</a> by <strong><em>Singapore University of Technology and Design</em></strong>
+<p><a href="https://sutdaiday.github.io/sutdaiday25" rel="noopener nofollow" target="_blank">SUTD AI Research Day</a> by <strong><em>Singapore University of Technology and Design</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -550,7 +550,7 @@ and explore the future of AI research.</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://forms.office.com/pages/responsepage.aspx?id=drd2NJDpck-5UGJImDFiPXbs8MH3QS5AkISCCebRfBJUOEY4T0o2UU9UNzFYU0xENFEwWUdNTkYwTi4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></em>
+<p><em><a href="https://forms.office.com/r/Uq2KJsvXzV" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
