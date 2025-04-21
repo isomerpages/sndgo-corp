@@ -575,6 +575,19 @@ of Computer Science, Université de Montréal) by <strong><em>National Universit
 <p>Shaw Foundation Alumni House, 11 Kent Ridge Drive, Singapore 119244</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19:00 - 21:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.eventbrite.sg/e/cocreatesg-2025-private-screening-tickets-1295988920749?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">CoCreateSG 2025 - Private Screening</a> by <strong><em>CreativesAtWork</em></strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cathay Cinema Clementi, 321 Clementi Avenue 3, Singapore 129905</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
