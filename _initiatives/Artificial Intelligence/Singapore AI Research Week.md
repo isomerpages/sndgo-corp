@@ -1077,6 +1077,18 @@ and practical insights.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>18:00 - 21:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>by <strong><em>Gaia Foundation</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>18:45 - 21:00</p>
 </td>
 <td rowspan="1" colspan="1">
