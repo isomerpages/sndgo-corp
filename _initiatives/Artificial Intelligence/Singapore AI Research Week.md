@@ -1080,11 +1080,11 @@ and practical insights.</p>
 <p>18:00 - 21:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>by <strong><em>Gaia Foundation</em></strong>
+<p><a href="https://lu.ma/wzlg671c" rel="noopener nofollow" target="_blank">Will MCP be the Future of Agents?</a> by <strong><em>Gaia Foundation</em></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 Central Boulevard, IOI Central Boulevard Towers, Singapore 018916</p>
 </td>
 </tr>
 <tr>
@@ -1210,6 +1210,20 @@ Witteveen</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CYS_Logo_06.png">
 </div>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/DAI_Logo.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/gaia_icon.png">
+</div>
 </td>
 </tr>
 <tr>
