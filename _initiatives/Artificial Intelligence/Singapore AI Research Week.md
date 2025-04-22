@@ -266,7 +266,6 @@ Design</p>
 <p>This session will introduce a proposed initiative aimed at accelerating
 and de-risking the drug discovery process through AI and highlight the
 current opportunities for AI to revolutionise drug discovery.</p>
-<p>&nbsp;</p>
 <p>Dr. Maurer-Stroh, Executive Director of the Bioinformatics Institute at
 A*STAR, has led his team in critical contributions to global viral pathogen
 surveillance, public-private partnerships in pharma manufacturing, and
@@ -276,12 +275,12 @@ AI in drug design and coined the term “scaffold hopping”, has published
 over 450 publications, co-founded multiple startups, and received numerous
 prestigious awards – including the Ernst Schering Prize, Herman Skolnik
 Award, and Gmelin-Beilstein Medal.</p>
-<p>&nbsp;Joining them is Dr. Yaron Turpaz, Head of Computational Sciences
-at EDDC and Chief Information Officer of Engine Biosciences. With extensive
-experience leading global R&amp;D informatics teams, Dr. Turpaz will provide
-insights into the transformative potential of AI in therapeutic development.&nbsp;</p>
-<p>&nbsp;Attendees will also have the opportunity to engage directly with
-the speakers during the discussion segment.</p>
+<p>Joining them is Dr. Yaron Turpaz, Head of Computational Sciences at EDDC
+and Chief Information Officer of Engine Biosciences. With extensive experience
+leading global R&amp;D informatics teams, Dr. Turpaz will provide insights
+into the transformative potential of AI in therapeutic development.&nbsp;</p>
+<p>Attendees will also have the opportunity to engage directly with the speakers
+during the discussion segment.</p>
 </div>
 </details>
 <details class="isomer-details">
