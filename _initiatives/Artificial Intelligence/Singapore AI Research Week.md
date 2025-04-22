@@ -531,7 +531,7 @@ network of SDLs, advancing scalable, modular lab automation.&nbsp;</p>
 <p>09:00 - 14:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sutd-research-day.github.io/sutd-ai-day/" rel="noopener nofollow" target="_blank">SUTD AI Research Day</a> by <strong><em>Singapore University of Technology and Design</em></strong>
+<p><a href="https://sutdaiday.github.io/sutdaiday25" rel="noopener nofollow" target="_blank">SUTD AI Research Day</a> by <strong><em>Singapore University of Technology and Design</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -550,7 +550,7 @@ and explore the future of AI research.</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://forms.office.com/pages/responsepage.aspx?id=drd2NJDpck-5UGJImDFiPXbs8MH3QS5AkISCCebRfBJUOEY4T0o2UU9UNzFYU0xENFEwWUdNTkYwTi4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></em>
+<p><em><a href="https://forms.office.com/r/Uq2KJsvXzV" rel="noopener nofollow" target="_blank">Register</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -573,6 +573,19 @@ of Computer Science, Université de Montréal) by <strong><em>National Universit
 </td>
 <td rowspan="1" colspan="1">
 <p>Shaw Foundation Alumni House, 11 Kent Ridge Drive, Singapore 119244</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19:00 - 21:30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.eventbrite.sg/e/cocreatesg-2025-private-screening-tickets-1295988920749?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">CoCreateSG 2025 - Private Screening</a> by <strong><em>CreativesAtWork</em></strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cathay Cinema Clementi, 321 Clementi Avenue 3, Singapore 129905</p>
 </td>
 </tr>
 </tbody>
@@ -840,6 +853,22 @@ Dr. Wenyu Zhang</p>
 Design</p>
 <p></p>
 <p>SUTD Library</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18:15 - 19:45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sginnovate.com/event/efficient-generative-ai" rel="noopener nofollow" target="_blank">Efficient Generative AI</a>:
+Exploring cutting-edge techniques designed to enhance the efficiency of
+GAI without sacrificing performance by <strong><em>SGInnovate</em></strong>
+</p>
+<p><em><a href="https://central.sginnovate.com/hub/events/d108f544-27b6-4e97-b665-9ca94c146ce6" rel="noopener nofollow" target="_blank">Register</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGInnovate, 32 Carpenter Street, 059911</p>
 </td>
 </tr>
 </tbody>

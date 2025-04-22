@@ -33,23 +33,15 @@ The initiatives below outline how we aim to achieve this.
 <br>
 
 </div>
-	<div class="col"> 
-<a href="/initiatives/contactless-fare-payment"><img src="/images/initiatives/overview-pages/contactless-fare-payment.jpeg" alt="Contactless Fare Payment"></a><br>
-     <div class="header"><b>Contactless Fare Payment</b></div><br>
-    <div class="para">Our contactless fare payment system is constantly being refined to make commuting a breeze
-</div>
-<br></div></div>
-
-<div class="row">
 	<div class="col">
 <a href="/initiatives/on-demand-shuttle"><img src="/images/initiatives/overview-pages/on-demand-shuttle.png" alt="On-Demand Shuttle"></a><br>
     <div class="header"><b>On-Demand Shuttle</b></div><br>
     <div class="para">We’re exploring ways to harness autonomous technology and public transport data to meet commuters’ needs
 </div>
-<br>
+<br></div></div>
 
-</div>
-<div class="col"> 
+<div class="row">
+	<div class="col"> 
 <a href="/initiatives/open-data-analytics"><img src="/images/initiatives/overview-pages/transport-analytics-overview.png" alt="Open Data and Analytics for Urban Transportation"></a><br>
     <div class="header"><b>Open Data and Analytics for Urban Transportation</b></div><br>
     <div class="para">We encourage sharing of open data so that developers can come up with creative solutions that improve our transport system
@@ -57,6 +49,11 @@ The initiatives below outline how we aim to achieve this.
 <br>
 
 </div>
+<div class="col"> 
+</div>
+<br>
+
+
 <div class="col">
 </div>
 <br></div>
