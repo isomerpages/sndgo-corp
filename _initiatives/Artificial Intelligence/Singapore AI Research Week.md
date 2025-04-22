@@ -1198,6 +1198,15 @@ Witteveen</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CAW_Main_Lockup.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/csa_resized.png">
 </div>
@@ -1215,7 +1224,7 @@ Witteveen</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/DAI_Logo.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/DAI_Circular_Logo_black_with_text.png">
 </div>
 </td>
 </tr>
