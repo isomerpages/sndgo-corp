@@ -31,10 +31,7 @@ and networking opportunities that will take place across the week.</p>
 <p>If you want to be kept updated on the programmes, leave your email <a href="https://form.gov.sg/67a97bd421c40f204f65ca6e" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3>Programme</h3>
 <p>Explore the event lineup below and discover the exciting opportunities
-that await. Stay tuned, as more events will be added! 💫</p>
-<p>More details on the events and how to RSVP coming soon! 👀</p>
-<p><strong>If you are interested in organising an activity, let us know <a href="https://go.gov.sg/sgp-ai-research-week-activities" rel="noopener nofollow" target="_blank">here</a>!</strong>
-</p>
+that await.</p>
 <p><em>Please note that the list of events and activities in this website is provided for informational purposes only, and do not constitute or imply any association, recommendation, or endorsement by the Singapore Government for these events and activities, or their contents.</em>
 </p>
 <hr>
@@ -267,18 +264,21 @@ Design</p>
 <summary>About</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This session will introduce a proposed initiative aimed at accelerating
-and de-risking the drug discovery process through AI. Dr. Sebastian Maurer-Stroh
-and Dr. Yaron Turpaz, co-leads of this effort, will share its vision, core
-research focus, and opportunities for collaboration to shape the future
-of AI-driven drug discovery.</p>
+and de-risking the drug discovery process through AI and highlight the
+current opportunities for AI to revolutionise drug discovery.</p>
 <p>Dr. Maurer-Stroh, Executive Director of the Bioinformatics Institute at
 A*STAR, has led his team in critical contributions to global viral pathogen
 surveillance, public-private partnerships in pharma manufacturing, and
-the scaling of a research data hub as an ISO-certified national data node.
-Joining him is Dr. Yaron Turpaz, Head of Computational Sciences at EDDC
+the scaling of a research data hub as an ISO-certified national data node.&nbsp;</p>
+<p>Prof Gisbert Schneider, a full professor at ETH Zurich, who pioneered
+AI in drug design and coined the term “scaffold hopping”, has published
+over 450 publications, co-founded multiple startups, and received numerous
+prestigious awards – including the Ernst Schering Prize, Herman Skolnik
+Award, and Gmelin-Beilstein Medal.</p>
+<p>Joining them is Dr. Yaron Turpaz, Head of Computational Sciences at EDDC
 and Chief Information Officer of Engine Biosciences. With extensive experience
 leading global R&amp;D informatics teams, Dr. Turpaz will provide insights
-into the transformative potential of AI in therapeutic development.</p>
+into the transformative potential of AI in therapeutic development.&nbsp;</p>
 <p>Attendees will also have the opportunity to engage directly with the speakers
 during the discussion segment.</p>
 </div>
@@ -286,11 +286,10 @@ during the discussion segment.</p>
 <details class="isomer-details">
 <summary>Agenda</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>11:30 – 12:00</strong>: Presentation by <a href="https://www.a-star.edu.sg/idlabs/about-us/people/our-investigators/sebastianms" rel="noopener nofollow" target="_blank">Dr. Sebastian Maurer-Stroh</a>
-</p>
-<p><strong>12:00 – 12:30</strong>: Q&amp;A with Dr. Sebastian Maurer-Stroh
-and <a href="https://sg.linkedin.com/in/yaron-turpaz" rel="noopener nofollow" target="_blank">Dr. Yaron Turpaz</a>
-</p>
+<p><strong>11:30 – 12:00</strong>: Presentation by Dr Sebastian Maurer-Stroh
+&amp; Prof Gisbert Schneider</p>
+<p><strong>12:00 – 12:30</strong>: Q&amp;A with Dr Sebastian Maurer-Stroh,
+Dr Yaron Turpaz &amp; Prof Gisbert Schneider</p>
 </div>
 </details>
 </div>
@@ -1078,6 +1077,18 @@ and practical insights.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>18:00 - 21:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://lu.ma/wzlg671c" rel="noopener nofollow" target="_blank">Will MCP be the Future of Agents?</a> by <strong><em>Gaia Foundation</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Central Boulevard, IOI Central Boulevard Towers, Singapore 018916</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>18:45 - 21:00</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1187,6 +1198,15 @@ Witteveen</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CAW_Main_Lockup.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/csa_resized.png">
 </div>
@@ -1199,6 +1219,20 @@ Witteveen</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CYS_Logo_06.png">
 </div>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/DAI_Circular_Logo_black_with_text.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/gaia_icon.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -1312,7 +1346,7 @@ Witteveen</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Question_10___SYAI_LOGO.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Question_10___SYAI_LOGO.png">
 </div>
 </td>
 </tr>
