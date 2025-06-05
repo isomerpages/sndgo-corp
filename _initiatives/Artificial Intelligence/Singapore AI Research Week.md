@@ -76,8 +76,7 @@ that await.</p>
 <p><a href="https://ssnlp-website.github.io/ssnlp25/" rel="noopener nofollow" target="_blank">Singapore Symposium on Natural Language Processing 2025</a>
 </p>
 <p></p>
-<p><em><a href="https://docs.google.com/forms/d/e/1FAIpQLSevYb5ebCYtOrDfX4o1sqawTgCkhml8GY38ci_rxG7XMHjluQ/viewform" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -91,8 +90,7 @@ Design</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.ntu.edu.sg/computing/news-events/events/ias-frontiers-conference-on-ai" rel="noopener nofollow" target="_blank">IAS Frontiers Conference on AI</a> by <strong><em>Nanyang Technological University</em></strong>
 </p>
-<p><em><a href="https://event.ntu.edu.sg/ias-frontiers-conference-on-AI/register" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50 Nanyang Ave, Singapore 639798, Nanyang Technological University</p>
@@ -106,8 +104,6 @@ Design</p>
 <p>NUS-Swiss AI Workshop by <strong><em>National University of Singapore</em></strong>
 </p>
 <p></p>
-<p><em><a href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gpazHG3P6gNKrAcf6Jc6IGdUNDY2RDFQTlk3NEFBWThIRUg4VUo1VUlEUC4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS School of Computing
@@ -243,8 +239,6 @@ of Large Language Models by Prof Preslav Nakov (invited international guest)</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://form.gov.sg/67b54fdd07107977a34d5464" rel="noopener nofollow" target="_blank">RSVP</a></em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -293,8 +287,6 @@ Dr Yaron Turpaz &amp; Prof Gisbert Schneider</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://form.gov.sg/67e3b570615013ea70eaf2c2" rel="noopener nofollow" target="_blank">RSVP</a></em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -341,8 +333,6 @@ human digital twins and the use of technology in public spaces.</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Create Way, Singapore 138602</p>
@@ -379,8 +369,6 @@ and real-world impact.</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Create Way, Singapore 138602</p>
@@ -425,8 +413,6 @@ simulation in the urban planning space.</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Create Way, Singapore 138602</p>
@@ -493,8 +479,6 @@ network of SDLs, advancing scalable, modular lab automation.&nbsp;</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://docs.google.com/forms/d/e/1FAIpQLScUWqc_KSk3WL5s_jnPXKcxoXjMFGOMsVaB6FxvJQ1Muu4bhw/viewform" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Create Way, Singapore 138602</p>
@@ -530,7 +514,7 @@ network of SDLs, advancing scalable, modular lab automation.&nbsp;</p>
 <p>09:00 - 14:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sutdaiday.github.io/sutdaiday25" rel="noopener nofollow" target="_blank">SUTD AI Research Day</a> by <strong><em>Singapore University of Technology and Design</em></strong>
+<p>SUTD AI Research Day by <strong><em>Singapore University of Technology and Design</em></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -549,8 +533,6 @@ and explore the future of AI research.</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://forms.office.com/r/Uq2KJsvXzV" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -567,8 +549,6 @@ Design</p>
 of Computer Science, Université de Montréal) by <strong><em>National University of Singapore</em></strong>
 </p>
 <p></p>
-<p><em><a href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gpazHG3P6gNKrAcf6Jc6IGdURFVSNk1RMFVOOFQ4RUlJOVdBMEhRVzRZRy4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shaw Foundation Alumni House, 11 Kent Ridge Drive, Singapore 119244</p>
@@ -688,8 +668,7 @@ exchange ideas, and find potential investors.</p>
 </div>
 </details>
 </div>
-<p><em><a href="http://bit.ly/ai-meetup-cys_syai" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SCAPE* 2 Orchard Link, Singapore 237978</p>
@@ -729,8 +708,7 @@ exchange ideas, and find potential investors.</p>
 by Prof Yann LeCun (Chief AI Scientist, Meta) by <strong><em>National University of Singapore</em></strong>
 </p>
 <p></p>
-<p><em><a href="https://www.eventbrite.sg/e/nus120-distinguished-speaker-series-tickets-1261801164249" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS University Cultural Centre Theatre, 50 Kent Ridge Crescent Singapore,
@@ -778,8 +756,7 @@ and share their career experiences.</p>
 <p>Interested parties may email Ms. Ng Hau Yee, Director of JA Singapore
 at <a href="mailto:hauyee.ng@ja.org.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hauyee.ng@ja.org.sg</u></a> for
 any enquiries.</p>
-<p><em><a href="https://tinyurl.com/JAIntroToAIApril2025" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -844,8 +821,7 @@ Dr. Wenyu Zhang</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://form.gov.sg/67e3b570615013ea70eaf2c2" rel="noopener nofollow" target="_blank">RSVP</a></em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Somapah Rd, Singapore 487372, Singapore University of Technology and
@@ -863,8 +839,7 @@ Design</p>
 Exploring cutting-edge techniques designed to enhance the efficiency of
 GAI without sacrificing performance by <strong><em>SGInnovate</em></strong>
 </p>
-<p><em><a href="https://central.sginnovate.com/hub/events/d108f544-27b6-4e97-b665-9ca94c146ce6" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SGInnovate, 32 Carpenter Street, 059911</p>
@@ -919,8 +894,7 @@ music. NLP research can thrive again, leading to new innovations in AI.</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://form.gov.sg/67f88aa542f7628adc03e3fc" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Infuse Theatre, Level 14 Connexis South, Fusionopolis One</p>
@@ -954,8 +928,7 @@ seeing you there!</p>
 </div>
 </details>
 </div>
-<p><a href="https://www.eventbrite.com/e/sit-x-nvidia-ai-research-week-workshop-2025-tickets-1316189340749?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">Register</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Punggol Coast Road, Singapore 828608, Singapore Institute of Technology</p>
@@ -991,8 +964,7 @@ local ecosystem.</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://forms.office.com/r/WVciaCW13f" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computing 1, 13 Computing Drive, Singapore 117417</p>
@@ -1068,8 +1040,7 @@ and practical insights.</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://go.gov.sg/aidevday" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Stars Ave, #12-01, Singapore 138507</p>
@@ -1113,8 +1084,7 @@ Witteveen</p>
 </div>
 </details>
 </div>
-<p><em><a href="https://www.meetup.com/machine-learning-singapore/events/307296982/" rel="noopener nofollow" target="_blank">Register</a></em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Google Developers Space, 80 Pasir Panjang Rd, Singapore 117372</p>
