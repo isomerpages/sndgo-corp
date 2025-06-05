@@ -4,6 +4,7 @@ title: COS Debate 2017 (Speech by Minister Vivian Balakrishnan)
 permalink: /media-hub/parliament/20170302/
 date: 2017-03-02
 description: ""
+variant: markdown
 ---
 ## Committee of Supply Debate 2017
 
@@ -12,32 +13,18 @@ description: ""
 **Transcript of speech by Dr Vivian Balakrishnan, Minister-in-Charge of the Smart Nation Initiative**
 
 <div style="max-width: 1280px">
-    <div
-        style="
-            height: 0;
+    <div style="height: 0;
             overflow: hidden;
             position: relative;
-            padding-bottom: 56.25%;
-        "
-    >
-        <iframe
-            src="https://www.youtube.com/embed/gzRxey9XkYo" 
-            height="720"
-            width="1280"
-            frameborder="0"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            style="
-                top: 0;
+            padding-bottom: 56.25%;">
+        <iframe src="https://www.youtube.com/embed/gzRxey9XkYo" height="720" width="1280" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="top: 0;
                 left: 0;
                 right: 0;
                 bottom: 0;
                 height: 100%;
                 border: none;
                 max-width: 100%;
-                position: absolute;
-            "
-        ></iframe>
+                position: absolute;"></iframe>
     </div>
 </div>
 
@@ -126,7 +113,3 @@ Another thing we want to do different is to feed our own start-ups by buying the
   
 So to conclude, we need to urgently build skills and capabilities in our people and enterprises; we need ensure pole position with the best infrastructure in the world; we need to be prepared to fundamentally disrupt the way Government provides services; we need to forge new partnerships with the private sector, we need to make sure our start-ups especially have access to technology and opportunities; and we need to be open to the global flow of talent and ideas. Ultimately, this is not about technology but really about maximising future job options and ensuring a better quality of life and an inclusive society. Our vision is that a visitor to Singapore should come, look, experience and say, “I have seen the future, and it works!”
 
-----
-
-**Useful link:**  
-[Overview of initiatives announced at Budget Debate 2017 that will help companies build strong digital capabilities](https://www.mci.gov.sg/cos2017?gclid=CKPaov600tICFUFWvQodZWIMfw)
