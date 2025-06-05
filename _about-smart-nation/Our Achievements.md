@@ -56,7 +56,7 @@ Singapore was named [Smart City of 2018](/media-hub/press-releases/smart-city-20
 
 ### Key Stats
 
-* [99%](https://www.mddi.gov.sg/what-we-do/digital-singapore/digital-government/) of all transactions between citizens and the government can be completed online.
-* High citizen and business satisfaction with Government Digital Services at [83% ](https://www.mddi.gov.sg/what-we-do/digital-singapore/digital-government/)in 2023.
-* [99%](https://www.imda.gov.sg/about-imda/research-and-statistics/singapore-digital-society-report) of resident households are connected to the internet, as of 2022.
+* 99% of all transactions between citizens and the government can be completed online.
+* High citizen and business satisfaction with Government Digital Services at 83% in 2023.
+* 99% of resident households are connected to the internet, as of 2022.
 * 95% of small and medium enterprises (SMEs) have adopted at least one digital technology from nine categories: cybersecurity, cloud, e-payment, e-commerce, data analytics, artificial intelligence, Internet of Things, blockchain, and immersive media.
