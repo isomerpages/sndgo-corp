@@ -91,7 +91,7 @@ The [Source, Understand, Research, Evaluate (S.U.R.E)](https://sure.nlb.gov.sg/
 
 ## Tech Able
 
-[Tech Able](https://enablingvillage.sg/assistive-technologies-at-the-enabling-village/), an initiative by SG Enable and [SPD](https://www.spd.org.sg/), is an integrated assistive technology space at the Enabling Village. It features a technology exhibition for persons with disabilities and provides them with assistive device assessment services. Persons with disabilities can find out about devices that will help them in their employment or daily activities.
+Tech Able, an initiative by SG Enable and [SPD](https://www.spd.org.sg/), is an integrated assistive technology space at the Enabling Village. It features a technology exhibition for persons with disabilities and provides them with assistive device assessment services. Persons with disabilities can find out about devices that will help them in their employment or daily activities.
 
 ## Tech Connect
 
